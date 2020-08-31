@@ -2,6 +2,10 @@
 
 Welcome to the Microsoft US One Commercial Partner (OCP) Learning Plan Resources repository
 
+## Personas
+
+[Program Management >](/ProgramManagement/README.md)
+
 ## What are Learning Plan Resources?
 
 Learning plan resources consist of curated content to help upskill across all of the Microsoft cloud solution areas:  Azure, Modern Workplace and Business Applications.  
