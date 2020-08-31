@@ -1,0 +1,7 @@
+https://myignite.techcommunity.microsoft.com/sessions/81054?source=sessions [On-Demand]
+https://myignite.techcommunity.microsoft.com/sessions/81582?source=sessions [Migration]
+https://myignite.techcommunity.microsoft.com/sessions/81580?source=sessions [Security]
+https://myignite.techcommunity.microsoft.com/sessions/81055?source=sessions [Load Mgmnt]
+https://myignite.techcommunity.microsoft.com/sessions/81581?source=sessions [BI to AI]
+https://myignite.techcommunity.microsoft.com/sessions/84568?source=sessions [Performance Tuning for BI apps]
+https://partner.microsoft.com/en-us/asset/collection/on-premises-data-warehouse-migration-to-azure-synapse-analtyics#/?page=2 [migration]
