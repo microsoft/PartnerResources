@@ -2,7 +2,7 @@
 
 ## Personas
 
-[Technical Development >](./LearningPlanResources/README.md)
+[Technical Development >](/LearningPlanResources/README.md)
 
 ## Azure
 
@@ -12,7 +12,7 @@
 
 ### Data, Analytics, and AI
 
-* [Modern Data Warehouse](/Azure/Data,%20Analytics,%20and%20AI/Modern%20Data%20Warehouse/Modern-Data-Warehouse.md)
+* [Modern Data Warehouse](/ProgramManagement/Azure/Data,%20Analytics,%20and%20AI/Modern%20Data%20Warehouse/Modern-Data-Warehouse.md)
 
 ### AppDev
 
