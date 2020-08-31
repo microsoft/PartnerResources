@@ -4,10 +4,6 @@ Azure Synapse is an analytical service evolved from Azure SQL Data Warehouse tha
 
 Below you will find the content in developing your business solutions.  This content is meant for a Program Manager who is designing, developing and launching their product in Azure to go to market.  This workflow will be the necessary steps to engage with Microsoft and build your solution.  Additionally, you will be able to get it into our GTM catalog and co-sell with Microsoft account teams.
 
-Additionally, some content may be marked with one or more icons:
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
-
 ## Workflow
 
 |                                            |                                                                                                                                                       |
