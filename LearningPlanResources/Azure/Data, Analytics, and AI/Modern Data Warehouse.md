@@ -114,5 +114,3 @@ Both of these exams are required for the [Microsoft Certified: Azure Data Engine
 * [Blue Granite Blog](https://www.blue-granite.com/blog)
 * [Buck Woody's Blog](https://buckwoody.wordpress.com/)
 * [James Serra's Blog](https://www.jamesserra.com/)
-
-#testtag
