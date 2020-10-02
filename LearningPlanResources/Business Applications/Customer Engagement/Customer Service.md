@@ -8,6 +8,8 @@ Below you will find content to assist in upskilling on Dynamics 365 Customer Ser
 * Certifications:  relevant Microsoft exams or certifications
 * Community resources:  user groups, events, blogs
 
+TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
+
 ## Fundamentals
 
 * [Course MB-901T00-A: Microsoft Dynamics 365 Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-901t00) (In-person Instructor Led) (2 Days)
