@@ -24,3 +24,4 @@ Fundamentals, Associate, Expert: content categorized in increase levels of compl
 
 * [BCDR Modern Cloud Workshop](https://github.com/Microsoft/MCW-Business-Continuity-and-Disaster-Recovery) (Self-Paced) (3 Days)
 * [Building a resilient IaaS architecture Modern Cloud Workshop](https://github.com/Microsoft/MCW-Building-A-Resilient-IaaS-Architecture) (Self-Paced) (3 Days)
+
