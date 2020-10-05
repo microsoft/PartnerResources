@@ -61,4 +61,4 @@
 ## Certifications
 
 * [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) (Self-Paced) (4 Hours)
-* [Microsoft Certified: Azure Solutions Architect](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect) (Self-Paced)
+* [Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect) (Self-Paced)
