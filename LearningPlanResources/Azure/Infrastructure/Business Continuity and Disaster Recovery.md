@@ -18,5 +18,3 @@
 
 * [BCDR Modern Cloud Workshop](https://github.com/Microsoft/MCW-Business-Continuity-and-Disaster-Recovery) (Self-Paced) (3 Days)
 * [Building a resilient IaaS architecture Modern Cloud Workshop](https://github.com/Microsoft/MCW-Building-A-Resilient-IaaS-Architecture) (Self-Paced) (3 Days)
-
-## Test
