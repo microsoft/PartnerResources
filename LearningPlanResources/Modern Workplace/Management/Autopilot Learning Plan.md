@@ -1,4 +1,14 @@
 # Learning Plan Resources for Autopilot Learning Plan
+Below you will find content to assist in upskilling on Windows Autopilot. Content is broken down as follows:
+
+* Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
+* Certifications: relevant Microsoft exams or certifications
+* Community resources: user groups, events, blogs
+
+Additionally, some content may be marked with one or more icons:
+
+* '$' to indicate paid content
+* '3rd Party' to indicate 3rd party content (not created by Microsoft)
 
 ## Fundamentals
 
