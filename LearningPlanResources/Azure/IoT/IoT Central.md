@@ -1,5 +1,13 @@
 # Learning Plan Resources for IoT Central
 
+## Keeping Up
+
+* Refer to the [IoT Blog site](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/)
+* Watch the [Channel 9 IoT Show](http://aka.ms/IoTShow)
+* Follow the [Microsoft IoT Developer](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ) channel on YouTube
+* See [IoT in the Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT)
+* See the [US Partner Community Internet of Things](http://aka.ms/OCP-IoT) group
+
 ## Fundamentals
 
 * [Automatically provision IoT devices securely and at scale with the Device Provisioning Service](https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/) (Self-Paced) (57 Minutes)
