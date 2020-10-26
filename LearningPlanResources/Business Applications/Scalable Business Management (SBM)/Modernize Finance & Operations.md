@@ -1,4 +1,4 @@
-# Learning Plan Resources for Modernize Finance & Operations
+# Learning Plan Resources for Business Central
 
 ## Fundamentals
 
