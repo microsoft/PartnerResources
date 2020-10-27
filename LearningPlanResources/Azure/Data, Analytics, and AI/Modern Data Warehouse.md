@@ -13,8 +13,7 @@ Additionally, some content may be marked with one or more icons:
 
 ## Fundamentals
 
-* [Introducing Azure Synapse Analytics](https://myignite.techcommunity.microsoft.com/sessions/81578?source=sessions
- ) (Ignite session / 1 hour)
+* [Introducing Azure Synapse Analytics](https://azure.microsoft.com/en-us/resources/videos/ignite-2019-new-introducing-azure-synapse-analytics-the-next-evolution-of-sql-data-warehouse-for-every-data-professional/) (Ignite session / 1 hour)
     * Customer talk track on the problems that Azure Synapse is designed to address. 
 * [Data Warehouse workloads](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/big-data) (Microsoft Docs)
     * Defines the building blocks and workloads for a Modern Data Warehouse.
