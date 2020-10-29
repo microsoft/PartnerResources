@@ -8,12 +8,10 @@ Below you will find content to assist in upskilling on Dynamics 365 Sales and Dy
 * Certifications: relevant Microsoft exams or certifications
 * Community resources: user groups, events, blogs
 
-Additionally, some content may be mared with one or more icons:
-
 * '$' to indicate paid content
 * '3rd Party' to indicate 3rd party content (not created by Microsoft)
 
-TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
+NAVIGATION TIP: To open each resource below, right-click on the URL and select open in new tab
 
 ## Fundamentals
 
@@ -25,6 +23,8 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Introduction to Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/wwl/introduction-dynamics-365-marketing/) (Microsoft Learn) (41 Minutes)
 * [Learn Insights glossary of terms](https://docs.microsoft.com/en-us/dynamics365/marketing/insights-glossary) (11 Minutes)
 * [Watch the Marketing video playlist on YouTube](https://www.youtube.com/playlist?list=PLcakwueIHoT_cV1n1es1YJt_T2A5u-XpR) (1 Hour)
+* [Download the Partner Sales Demo Playbook] (aka.ms/d365marketing/salestools)
+* [Watch the Dynamics 365 Marketing Tech Intensity Workshop (aka.ms/d365marketing/workshop)
 
 ## Associate
 
