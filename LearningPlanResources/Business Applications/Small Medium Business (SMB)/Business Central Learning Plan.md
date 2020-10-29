@@ -2,7 +2,7 @@
 
 ## Fundamentals 
 
-Navigation tip - to open each link, right-click on the URL | open in new tab)
+Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Bookmark Dynamics 365 Business Central Roadmap](https://dynamics.microsoft.com/en-us/roadmap/business-central/) (Self-Paced) (1 Minute)
 * [Create a Dynamics 365 Business Central Demo Account](https://cdx.transform.microsoft.com/my-tenants) (Self-Paced) (1 Minute)
 * [Create a Dynamics 365 Business Central Trial Account](https://trials.dynamics.com/Dynamics365/Signup/BusinessCentral) (Self-Paced) (1 Minute)
@@ -21,7 +21,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab)
 
 ## Associate (navigation tip)
 
-Navigation tip - to open each link, right-click on the URL | open in new tab)
+Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Reconcile bank accounts in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/en-us/learn/paths/reconcile-bank-accounts-dynamics-365-business-central/) (Self-Paced) (1 Hour)
 * [Work like a pro with data in Business Central](https://docs.microsoft.com/en-us/learn/paths/work-pro-data-dynamics-365-business-central/) (Self-Paced) (2 Hours)
 * [Work with the Microsoft Dynamics 365 Business Central user interface](https://docs.microsoft.com/en-us/learn/paths/work-with-user-interface-dynamics-365-business-central/) (Self-Paced) (2 Hours)
@@ -36,7 +36,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab)
 
 ## Expert
 
-Navigation tip - to open each link, right-click on the URL | open in new tab)
+Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Deliver Consulting Services as a VAR](https://appsource.microsoft.com/en-us/marketplace/consulting-services?country=US&page=1&product=dynamics-365%3Bdynamics-365-business-central) (Self-Paced) (1 Minute)
 * [Build Add-On Apps for Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-add-on-apps) (Self-Paced) (2 Minutes)
 * [Build Connect Apps for Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-connect-apps) (Self-Paced) (2 Minutes)
@@ -46,7 +46,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab)
 
 ## Community Resources 
 
-Navigation tip - to open each link, right-click on the URL | open in new tab)
+Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Join WW Business Applications Partner Community](https://www.microsoftpartnercommunity.com/t5/Business-Applications/ct-p/BizApps) (Self-Paced) (1 Minute)
 * [Monitor Dynamics 365 Business Central Community](https://community.dynamics.com/business) (Self-Paced) (1 Minute)
 * [Monitor Dynamics 365 Business Central Forum](https://community.dynamics.com/business/f/dynamics-365-business-central-forum) (Self-Paced) (1 Minute)
