@@ -53,3 +53,4 @@
 ## Events
 
 * [Directions North America Conference](https://www.directionsna.com/) (In-person Instructor Led) (3 Days)
+* [Attend Business Central 2020 Release, Wave 2 Launch Event] (https://events1.social27.com/msdyn365bclaunchevent/page/pre-signup) (on demand)
