@@ -1,5 +1,5 @@
 # Learning Plan Resources for Business Central
-
+Navigation tip - to open each link, right-click on the URL | open in new tab)
 ## Fundamentals (navigation tip - to open each link, right-click | open in new tab)
 
 * [Bookmark Dynamics 365 Business Central Roadmap](https://dynamics.microsoft.com/en-us/roadmap/business-central/) (Self-Paced) (1 Minute)
