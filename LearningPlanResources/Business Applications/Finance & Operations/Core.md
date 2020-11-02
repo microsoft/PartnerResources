@@ -27,8 +27,8 @@
 
 * [Migrate data and go live with Finance and Operations apps](https://docs.microsoft.com/en-us/learn/paths/migrate-data-go-live-finance-operations/) (Self-Paced) (4 Hours)
 * [Configure and work with analytics and reporting in Finance and Operations apps](https://docs.microsoft.com/en-us/learn/paths/configure-analytics-reporting-finance-operations/) (Self-Paced) (5 Hours)
+* [MB-300: Dynamics 365: Core Finance and Operations Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-300-dynamics-365-core-finance-and-operations#/) (Self-Paced) (10 Hours)
 
 ## Certifications
 
 * [Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-300) (Self-Paced)
-* [MB-300: Dynamics 365: Core Finance and Operations Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-300-dynamics-365-core-finance-and-operations#/) (Self-Paced) (10 Hours)
