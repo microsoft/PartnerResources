@@ -85,4 +85,4 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 Ordered by entry level features, advanced features, and innovative features.
 
-   ![Field Service Maturity Model](Business Applications/Customer Engagement/media/field-service-maturity-model.png)
+   ![Field Service Maturity Model](media/field-service-maturity-model.png)
