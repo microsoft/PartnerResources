@@ -60,3 +60,9 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Join Dynamics Fortnight Fridays](http://dff.azurewebsites.net/)
 * [Join WW Business Applications Partner Community](https://www.microsoftpartnercommunity.com/t5/Business-Applications/ct-p/BizApps)
 * [Monitor the Dynamics 365 Customer Engagement in the Field](https://community.dynamics.com/crm/b/crminthefield)
+
+## Practice Maturity Model
+
+Ordered by entry level features, advanced features, and innovative features.
+
+   ![Customer Service Maturity Model](media/customer-service-maturity-model.png)
