@@ -80,3 +80,9 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Azure IoT Device Catalog](https://catalog.azureiotsolutions.com/alldevices)
 * [Azure IoT Documentation](https://docs.microsoft.com/en-us/azure/iot-fundamentals/)
 * [Monitor the Dynamics 365 Customer Engagement in the Field](https://community.dynamics.com/crm/b/crminthefield)
+
+## Practice Maturity Model
+
+Ordered by entry level features, advanced features, and innovative features.
+
+   ![Field Service Maturity Model](Business Applications/Customer Engagement/media/field-service-maturity-model.png)
