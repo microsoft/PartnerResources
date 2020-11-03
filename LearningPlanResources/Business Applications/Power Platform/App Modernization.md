@@ -26,6 +26,7 @@
 ## Certifications
 
 * [PL-900: Microsoft Power Platform Fundamentals Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/pl-900-microsoft-power-platform-fundamentals-1#/) (Self-Paced) (6 Hours)
+* [Exam PL-200: Microsoft Power Platform Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200) (Self-Paced) (6 Hours)
 * [Exam MB-200:  Microsoft Dynamics 365 Power Platform + Dynamics Core](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200) (Self-Paced) (3 Hours)
 * [Exam MB-400: Microsoft Dynamics 365 Power Apps + Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400) (Self-Paced) (2 Hours)
 * [MB-200: Microsoft Power Platform + Dynamics 365 Core Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-200-microsoft-power-platform-plus-dynamics-365-core#/) (Self-Paced) (10 Hours)
