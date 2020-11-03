@@ -27,10 +27,10 @@ Microsoft’s Virtual Hub has curated information from across Microsoft’s lear
 * [Set up DLP](https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-with-dlp-policy-recommendations?view=o365-worldwide) (Self-Paced) (20 Minutes)
 * [What is Azure Information Protection?]() (Self-Paced) (10 Minutes)
 * [Supercharge information protection and governance across cloud, on-premise, endpoints and remote work environments](https://myignite.microsoft.com/sessions/ceba117f-9bc7-4426-9ebc-753d94c6a476) (On-Demand) (30 Minutes)
-    Ignite session where you will learn how to use Microsoft Information Protection, Endpoint DLP and Records Management to automatically identify, label, and set protection, retention and record policies for highly sensitive information. We will show how to audit, investigate, and respond to unauthorized disclosure events and determine if actions were taken.
+    * Ignite session where you will learn how to use Microsoft Information Protection, Endpoint DLP and Records Management to automatically identify, label, and set protection, retention and record policies for highly sensitive information. We will show how to audit, investigate, and respond to unauthorized disclosure events and determine if actions were taken.
 
 * [Know your data, protect your data and prevent data loss with Microsoft Information Protection](https://myignite.microsoft.com/sessions/46ff69cf-2c8f-4e61-a923-f72f5740f02f) (On-Demand) (30 Minutes)
-    Ignite session that will provide an overview of how this intelligent, unified, built-in, and extensible solution can enhance productivity while consistently protecting and preventing intentional and accidental loss of sensitive data in the cloud, on premise and on endpoints.
+    * Ignite session that will provide an overview of how this intelligent, unified, built-in, and extensible solution can enhance productivity while consistently protecting and preventing intentional and accidental loss of sensitive data in the cloud, on premise and on endpoints.
 
 ## Associate
 
