@@ -43,4 +43,4 @@
 
 ## Certifications
 
-* [Exam PL-900: Microsoft Power Platform Fundamentals (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900) (Self-Paced)
+* [Exam PL-900: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900) (Self-Paced)
