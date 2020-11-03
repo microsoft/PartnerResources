@@ -2,7 +2,7 @@
 
 ## Fundamentals
 
-* [BRK1090: Teams + Power Apps: Three ways you can deeply customize Teams with low-code](https://myignite.techcommunity.microsoft.com/sessions/84286?source=sessions) (Self-Paced) (45 Minutes)
+* [Microsoft Power Platform: Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources) (Self-Paced)
 * [Course MB-901T00-A: Microsoft Dynamics 365 Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-901t00) (In-person Instructor Led) (2 Days)
 
 ## Associate
