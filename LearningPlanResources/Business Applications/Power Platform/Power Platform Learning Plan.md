@@ -6,6 +6,7 @@
 * [App in a Day for Partners](https://aka.ms/AIADEvent) (Online Instructor Led) (8 Hours)
 * [Get started using Common Data Service](https://docs.microsoft.com/en-us/learn/paths/get-started-cds/) (Self-Paced) (4 Hours)
 * [Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/) (Self-Paced) (3 Hours)
+* [Microsoft Power Platform: Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources) (Self-Paced)
 
 ## Associate
 
