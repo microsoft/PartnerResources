@@ -7,11 +7,9 @@
 |Level|Duration|Topic|
 | - | - | - |
 | |15 min|**Welcome – PMM/AM**|
-|L100|45 min|**State of IoT: Market Signals Report** 
-<br />How do you accelerate IoT and optimize opportunities to grow revenue and profitability? What is the current and future state of the IoT landscape? What does it take to be successful in IoT? This session will include key insights and trends from Microsoft’s comprehensive 2020 IoT Signals Report.|
+|L100|45 min|**State of IoT: Market Signals Report** How do you accelerate IoT and optimize opportunities to grow revenue and profitability? What is the current and future state of the IoT landscape? What does it take to be successful in IoT? This session will include key insights and trends from Microsoft’s comprehensive 2020 IoT Signals Report.|
 | |15 min|Break|
-|L100|45 min|**IoT Made Real**
-<br />We (partner) have partnered with Microsoft to create an IoT solution to fit our industry needs. Learn about how we did it and explore this real-world example of Azure IoT in action.|
+|L100|45 min|**IoT Made Real** We (partner) have partnered with Microsoft to create an IoT solution to fit our industry needs. Learn about how we did it and explore this real-world example of Azure IoT in action.|
 | |45 min|Lunchbreak|
 
 ## Part 2: Hands-on lab – 3.0 Hours
