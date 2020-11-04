@@ -27,7 +27,7 @@ Coming soon
 Coming soon
 
 ### Technical Content
-(Lab Instructions)[https://github.com/SpektraSystems/IoT-in-a-Day/tree/master/instructions]
+[Lab Instructions](https://github.com/SpektraSystems/IoT-in-a-Day/tree/master/instructions)
 
 ### Training to Deliver Content
 Coming Soon
