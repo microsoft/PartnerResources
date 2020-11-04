@@ -12,7 +12,7 @@
 |L100|45 min|**IoT Made Real** We (partner) have partnered with Microsoft to create an IoT solution to fit our industry needs. Learn about how we did it and explore this real-world example of Azure IoT in action.|
 | |45 min|Lunchbreak|
 
-## Part 2: Hands-on lab – 3.0 Hours
+### Part 2: Hands-on lab – 3.0 Hours
 
 
 
