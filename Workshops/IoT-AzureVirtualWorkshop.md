@@ -15,8 +15,13 @@
 ### Part 2: Hands-on lab – 3.0 Hours
 |Level|Duration|Topic|
 | - | - | - |
-| | | |
-
+|L100|25 Min|**Data Processing and Analysis in IoT**   IoT solutions can help you increase your visibility, but that also means an increase in the data you’re receiving. To help turn raw data into information you can easily make sense of and use, there are several Azure products available to help. Learn more
+  about how to use these products to gain insights into your IoT solution.|
+| |15 Min|Break|
+|L100|25 Min|**Machine Learning in IoT and Real-Time Monitoring using Power BI** Machine learning (ML) and artificial intelligence (AI) can help your IoT solutions catch and predict problems and react quickly when trouble strikes. Discover the ways Azure IoT Hub brings ML and AI to your IoT solutions, and how you can use it to improve your operations. Integrating your current business applications with your IoT solution doesn’t have to be difficult. Discover some of the ways Azure IoT Hub and Microsoft Power BI make it easy to connect applications, analyze information and secure data.|
+|L200|25 Min|**Getting Connected to the Intelligent Edge** For those looking to start their IoT solution, or improve one they already have, learn how to get started with Azure IoT Hub and Azure IoT Edge. Explore how these products can be an easy way to access to a growing set of connected devices and discover how it can help you make your business more efficient and profitable.|
+| |15 Min|Break|
+|L200|25 Min|**Securing your IoT Solution** It’s important to keep your devices and data secure, which is why Microsoft has created several IoT solutions with security at top of mind. Learn about the seven properties of highly secure devices, tips for enhancing the security of any IoT solution, and introductions to the security features of Azure IoT Hub and Azure Sphere.|
 
 ## Campaign Content
 ### Partner Readme 
