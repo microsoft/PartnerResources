@@ -34,10 +34,10 @@ Coming soon
 ### Training to Deliver Content
 Coming Soon
 
-###IoT Partner Activation
+### IoT Partner Activation
 Coming Soon
 
 ## Other Resources
-[Azure Signals Report](https://azure.microsoft.com/en-us/blog/iot-signals-research-edition-2-global-insights-for-2020-and-beyond)
-[Learn about Azure Immersion Workshops](https://aka.ms/OCP-ImmersionWorkshops)
-[Microsoft Accessibility Standards](http://aka.ms/eventsaccessibility)
+* [Azure Signals Report](https://azure.microsoft.com/en-us/blog/iot-signals-research-edition-2-global-insights-for-2020-and-beyond)
+* [Learn about Azure Immersion Workshops](https://aka.ms/OCP-ImmersionWorkshops)
+* [Microsoft Accessibility Standards](http://aka.ms/eventsaccessibility)
