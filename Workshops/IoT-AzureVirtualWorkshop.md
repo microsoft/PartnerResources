@@ -53,3 +53,6 @@ Help customers explore the current and future benefits of using IoT solutions in
 * [Azure Signals Report](https://azure.microsoft.com/en-us/blog/iot-signals-research-edition-2-global-insights-for-2020-and-beyond)
 * [Learn about Azure Immersion Workshops](https://aka.ms/OCP-ImmersionWorkshops)
 * [Microsoft Accessibility Standards](http://aka.ms/eventsaccessibility)
+
+## Questions? Go to [https://aka.ms/OCP-ImmersionWorkshops](https://aka.ms/OCP-ImmersionWorkshops) to learn more about this program and get your questions answered. 
+*This group is part of the US Partner Community on Yammer, but is open to all Microsoft partners. You will need to request to join this external network if you have not been there before.
