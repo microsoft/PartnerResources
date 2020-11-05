@@ -28,26 +28,26 @@
 Help customers explore the current and future benefits of using IoT solutions in their operations and provide hands-on product experiences and case studies. Featuring several Azure IoT solutions including IoT Hub, IoT Edge and Time Series Insights.
 
 ### Partner Readme 
-* [About the Azure Virtual Workshop Program](AboutAzureVirtualWorkshopProgram.jpg)
+* [About the Azure Virtual Workshop Program](./AzureVirtualWorkshop-IoT/AboutAzureVirtualWorkshopProgram.jpg)
 
 ### Marketing and Logistics Assets
-* [Examples: Azure Certified Device Program Social BOM 1 (Sept 1-22)](Azure Certified_SocialBOM.docx)
-* [Facebook Images](Facebook/FacebookImageList.md)
-* [Twitter and LinkedIn Images](Twitter_LinkedIn/LinkedInImageList.md)
+* [Examples: Azure Certified Device Program Social BOM 1 (Sept 1-22)](./AzureVirtualWorkshop-IoT/Azure%20Certified_SocialBOM.docx)
+* [Facebook Images](./AzureVirtualWorkshop-IoT/Facebook/FacebookImageList.md)
+* [Twitter and LinkedIn Images](./AzureVirtualWorkshop-IoT/Twitter_LinkedIn/LinkedInImageList.md)
 
 ### Overview Content
-* Morning Session 1: [State of IoT: Market Signals Report](State of IoT - Update - FINAL.pptx)
+* Morning Session 1: [State of IoT: Market Signals Report](./AzureVirtualWorkshop-IoT/State of IoT - Update - FINAL.pptx)
 
 ### Technical Content
 * [Lab Instructions](https://github.com/SpektraSystems/IoT-in-a-Day/tree/master/instructions)
 
 ### Training to Deliver Content
-* Deck: [IoT Virtual Workshop - Partner Train-the-Trainer deck: AzureVirtualWorkshop-IoT-TTT.pptx](AzureVirtualWorkshop-IoT-TTT.pptx)
+* Deck: [IoT Virtual Workshop - Partner Train-the-Trainer deck: AzureVirtualWorkshop-IoT-TTT.pptx](./AzureVirtualWorkshop-IoT/AzureVirtualWorkshop-IoT-TTT.pptx)
 * Recording: [IoT Hands-on Labs Overview](https://amitmalikblob.blob.core.windows.net/recording/IoT-HOL-Overview-Spektra.mp4)
 * Recording: [Microsoft Azure IoT Immersion Webinar for Partners (11/4)](https://msuspartners.eventbuilder.com/event/33583)
 
 ### IoT Partner Activation
-* [Workshop assets coming soon on the Partner Network](WorkshopAssets-ComingSoonToThePartnerNetwork)
+* [Workshop assets coming soon on the Partner Network](./AzureVirtualWorkshop-IoT/WorkshopAssets-ComingSoonToThePartnerNetwork)
 
 ## Other Resources
 * [Azure Signals Report](https://azure.microsoft.com/en-us/blog/iot-signals-research-edition-2-global-insights-for-2020-and-beyond)
