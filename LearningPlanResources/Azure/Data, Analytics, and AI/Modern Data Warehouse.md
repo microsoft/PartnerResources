@@ -86,6 +86,7 @@ _WhatTheHack events are often in-person in a hands on format.  However, it can b
 
 _Microsoft OpenHack events are immersive, multi-day hands on experiences; specifically, the Modern Data Warehouse dives into Azure Synapse, Databricks, Azure Data Factory, and Azure Data Lake._
 * [OpenHack - Modern Data Warehouse](https://openhack.microsoft.com/) (Hands on lab / workshop)
+* [CICD For SQL Analytics using SSDT](https://cloudblogs.microsoft.com/sqlserver/2019/11/07/new-in-azure-synapse-analytics-cicd-for-sql-analytics-using-sql-server-data-tools/) (SQL Server Blog)
 
 ## Specialist
 
