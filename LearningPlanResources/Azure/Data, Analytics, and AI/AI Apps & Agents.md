@@ -2,6 +2,7 @@
 
 ## Fundamentals
 
+* [Getting Started with AI on Azure](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/) (Self-Paced)
 * [Azure Bot Service Documentation](https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-4.0) (Self-Paced) (60 Minutes)
 * [Azure Bot Service Homepage](https://azure.microsoft.com/en-us/services/bot-service/) (Self-Paced) (30 Minutes)
 * [Ignite: Build a Knowledgeable Chatbot](https://myignite.techcommunity.microsoft.com/sessions/79311?source=sessions) (Self-Paced) (1 Hour)
