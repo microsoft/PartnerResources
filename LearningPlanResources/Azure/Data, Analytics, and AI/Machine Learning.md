@@ -2,6 +2,7 @@
 
 ## Fundamentals
 
+* [Getting Started with AI on Azure](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/) (Self-Paced)
 * [Automated ML Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml) (Self-Paced)
 * [Azure Machine Learning Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/) (Self-Paced)
 * [Azure Machine Learning Notebook VM](https://techcommunity.microsoft.com/t5/Educator-Developer-Blog/Azure-Machine-Learning-Notebook-VM/ba-p/683785) (Self-Paced)
