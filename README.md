@@ -35,7 +35,7 @@ For infrequent or small updates, you can edit the file directly on GitHub.com wi
 
       ![Edit document](media/pullrequest.png)
 
-8. A member of the team will review and approve your request, or if there are any issues, respond with questions or comments.
+8. A member of the team will review and approve your request, or if there are any issues, will respond with questions or comments.
 
 When you submit a pull request, a CLA bot will automatically determine whether you need to provide
 a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
