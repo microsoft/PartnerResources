@@ -5,7 +5,7 @@
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
     
 jobs:
   # This workflow contains a single job called "traffic"
