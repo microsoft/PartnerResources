@@ -16,11 +16,11 @@ For infrequent or small updates, you can edit the file directly on GitHub.com wi
 1. Make sure you have signed into GitHub.com with your GitHub account.
 2. Go to the page you want to edit and click the edit button near the top right:
 
-   ![Edit document](media/editdoc.png)
+   ![Edit document](assets/editdoc.png)
 
 3. A fork of the project will be created in your account for editing purposes. Files in GitHub are written and edited using Markdown language. For help on using Markdown, see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). Select the **Preview changes** tab to view your changes as you go.  The editor will look like this:
 
-   ![Edit document](media/editdoc2.png)
+   ![Edit document](assets/editdoc2.png)
 
 6. When you're finished making changes, go to the **Propose file change** section at the bottom of the page:
 
@@ -29,11 +29,11 @@ For infrequent or small updates, you can edit the file directly on GitHub.com wi
 
    When you're ready, click the green **Propose file change** button.
 
-      ![Edit document](media/savechanges.png)
+      ![Edit document](assets/savechanges.png)
 
 7. On the **Comparing changes** page that appears, click the green **Create pull request** button. A check will be performed and allow you to confirm the submission.
 
-      ![Edit document](media/pullrequest.png)
+      ![Edit document](assets/pullrequest.png)
 
 8. A member of the team will review and approve your request, or if there are any issues, will respond with questions or comments.
 
