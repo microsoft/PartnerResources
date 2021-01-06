@@ -65,4 +65,4 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 Ordered by entry level features, advanced features, and innovative features.
 
-   ![Customer Service Maturity Model](media/customer-service-maturity-model.png)
+   ![Customer Service Maturity Model](assets/customer-service-maturity-model.png)
