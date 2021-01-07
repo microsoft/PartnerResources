@@ -53,3 +53,7 @@ Additionally, some content may be marked with one or more icons:
 ## Community
 
 { Add links to community resources: blogs, forums, yammer channels, etc. }
+
+## Example
+
+Adding some additional text
