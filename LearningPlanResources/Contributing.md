@@ -73,7 +73,7 @@ To get started, clone the repository either locally or into your own GitHub acco
 
 If you are creating new content locally on your computer, many software packages allow you to clone a repository from GitHub directly (such as Visual Studio Code), or you may use a tool like [GitHub Desktop](https://desktop.github.com/) to manage downloading the repository and uploading any changes; this allows you to use whatever tool you'd like. More on using GitHub desktop in a bit.
 
-The key to remember is that all documentation is stored in Markdown (MD) format. MD is a lightweight markup syntax for documents that allows them to be easily created and consumed. MD files may contain images, lists, and tables -- use this [Masterking Markdown guide](https://guides.github.com/features/mastering-markdown/) to learn more. Also, while you can copy any existing plan to use as a template, we have an [emtpy template](/LearningPlanResources/Template.md) that you can use to get started.
+The key to remember is that all documentation is stored in Markdown (MD) format. MD is a lightweight markup syntax for documents that allows them to be easily created and consumed. MD files may contain images, lists, and tables -- use this [Mastering Markdown guide](https://guides.github.com/features/mastering-markdown/) to learn more. Also, while you can copy any existing plan to use as a template, we have an [emtpy template](/LearningPlanResources/Template.md) that you can use to get started.
 
 If you are including any images in your plan, be sure to upload them to the local assets folder. For example, under Business Applications -> Customer Engagement, there are 2 images in the assets folder that are used in the plans in the Customer Engagement section:
 
@@ -85,5 +85,68 @@ When you have completed your MD file, you're ready to create a pull request. Thi
 
 ## Using Visual Studio Code and GitHub Desktop
 
+Visual Studio Code and/or GitHub Desktop are powerful tools to assist in your content building. Visual Studio Code can work with GitHub directly, but some may prefer to use GitHub Desktop for those tasks, or to use another editor that doesn't have GitHub integration. 
 
+### GitHub Desktop
 
+GitHub Desktop is used to manage changes to and from your local machine to a GitHub repository. Download and install [GitHub Desktop](https://desktop.github.com/). Once running, you'll see an interface similar to the following that will show the current repository, branch, and any possible changes that may exist in the repository that you do not have locally. 
+
+![Assets folder](../assets/githubdesktop1.png)
+
+It is important to periodically check for changes ("Fetch Origin") because others may be making changes to the repository since you've cloned it. This process will also run periodically and allow you to download those changes; should any conflicts occur (perhaps you are working on a document that was also changed in the repository) you will have an opportunity to merge those changes by viewing specific changes within each document, should there be a conflict.
+
+Begin by cloning the repository by selecting File -> Clone Repository. From the URL tab, enter the Partner Resources URL (https://github.com/microsoft/PartnerResources) and specify a local path to save the repository:
+
+![Assets folder](../assets/githubdesktopclone.png)
+
+Once the files are copied to your local folder, you'd edit them as you normally would. We'll look at Visual Studio Code in a moment, but let's assume you made some changes and would like to check them in. GitHub Desktop should display all files that you've changed; the first step is to check in your changes by providing a description of all of your changes:
+
+![Assets folder](../assets/githubdesktopsave.png)
+
+GitHub Desktop will realize you do not have permissions to directly write to the repository, so will create a fork of the repo in your own account:
+
+![Assets folder](../assets/githubdesktopfork.png)
+
+This is expected, so go ahead and fork the repository and select "Contribute to the Parent Project" on the next window:
+
+![Assets folder](../assets/githubdesktopfork2.png)
+
+Essentially, this allows you to stage the changes into your own account; the final step is to issue a pull request when all changes are ready to go. This can be done either through GitHub.com through your fork, or by clicking Branch -> Create Pull Request in GitHub Desktop, as shown here:
+
+![Assets folder](../assets/githubdesktoppullreq.png)
+
+This will open the repository in a web browser, allowing you to complete the pull request. All of your changes should be here, so all that should be needed is to click the Create Pull Request button:
+
+![Assets folder](../assets/githubdesktoppullreq2.png)
+
+Finally, complete the pull request on the next page. Any title and description that was added earlier should be auto-populated here, but you can modify the description as needed:
+
+![Assets folder](../assets/githubdesktoppullreq3.png)
+
+### Visual Studio Code
+
+Visual Studio Code is a cross-platform (Mac/PC) code and text editor that can be used for modifying MD files. Visual Studio Code can interface with GitHub directly (beyond the scope of what is covered here) and can also preview MD files visually, so it's easier to see changes and make tweaks rapidly. Begin by downloading and installing [Visual Studio Code](https://code.visualstudio.com/).
+
+There are a few ways to open the repository in Visual Studio Code.
+
+#### Open from GitHub Desktop
+
+If you're using GitHub Desktop, you can open the repository in Visual Studio Code easily from the GitHub Desktop application:
+
+![Assets folder](../assets/githubdesktopopenvscode.png)
+
+#### Open from File Explorer
+
+On Windows, you can open Visual Studio by right-clicking in an explorer window where the repository has been cloned, and selecting Open With Code:
+
+![Assets folder](../assets/vscodeopen.png)
+
+#### From within Visual Studio Code
+
+With Visual Studio Code open, select File -> Open Folder and select the folder where the repository has been cloned.
+
+![Assets folder](../assets/vscodeopenfolder.png)
+
+When working on MD files, you can preview the document by right clicking on the file in the top tab, and selecting Open Preview. This opens the document in a read-only preview tab, making it easier to visualize changes:
+
+![Assets folder](../assets/vscodepreview.png)
