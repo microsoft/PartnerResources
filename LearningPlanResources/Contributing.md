@@ -5,6 +5,16 @@ This project welcomes contributions and suggestions. Most contributions require 
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
+## Table of Contents
+
+1. [Types of Contributions](#contributions)
+2. [Open an Issue](#issues)
+3. [Modifying on GitHub](#modifyinggithub)
+4. [Creating New Content](#newcontent)
+5. [Using VS Code and GitHub Desktop](#usingtools)
+
+## Types of Contributions <a name="contributions"></a>
+
 There are several ways to contribute to this repository; here are the most common scenarios:
 
 | Scenario | What to Do |
@@ -16,7 +26,7 @@ There are several ways to contribute to this repository; here are the most commo
 
 Read more on how to do these below.
 
-## Open an Issue
+## Open an Issue <a name="issues"></a>
 
 We use **issues** to track general feedback and suggestions. Examples might include suggesting new content for a product or technical scenario that we haven't created yet, or providing feedback, problems or concerns with existing content. Follow these steps to create a new issue:
 
@@ -33,7 +43,7 @@ We use **issues** to track general feedback and suggestions. Examples might incl
 
 ![Edit document](../assets/createissue3.png)
 
-## Modfying a document on Github
+## Modfying a document on Github <a name="modifyinggithub"></a>
 
 If you have a minor change -- such as a typo, updating a link, adding a line here or there -- you can edit the file directly on GitHub.com without having installing additional tools and software. Naturally, use whatever tools/editors you are most comfortable with. When you create these changes, the document is essentially copied into your own personal repository, and a **pull request** is then created that notifies the team that you'd like to see a change implemented. If the reviewing team accepts the change, these changes are merged into the original document. Similar to **issues** above, **pull requests** have a discussion thread in the event there are any questions or additional information is needed. 
 
@@ -63,7 +73,7 @@ Please refer to our [Template](/LearningPlanResources/Template.md) if you're unf
 
 8. A member of the team will review and approve your request, or if there are any issues, will respond with questions or comments.
 
-## Creating new content
+## Creating new content <a name="newcontent"></a>
 
 If you have multiple edits or are creating new plans and content, it's usually easiest to work on these outside of GitHub using an editor of your choice. Some popular editors include [Visual Studio Code](https://code.visualstudio.com/), [Visual Studio](https://visualstudio.microsoft.com), [Notepad++](https://notepad-plus-plus.org/), and countless more.  Some text editors, like Visual Studio Code, allow you to preview MD files so you can be sure links and formatting appear as intended.
 
@@ -83,7 +93,7 @@ You may also have other assets like Visio diagrams or PowerPoint presentations; 
 
 When you have completed your MD file, you're ready to create a pull request. This process varies depending on tooling, so for more information on doing this with GitHub desktop and Visual Studio Code, see the next section.
 
-## Using Visual Studio Code and GitHub Desktop
+## Using Visual Studio Code and GitHub Desktop <a name="usingtools"></a>
 
 Visual Studio Code and/or GitHub Desktop are powerful tools to assist in your content building. Visual Studio Code can work with GitHub directly, but some may prefer to use GitHub Desktop for those tasks, or to use another editor that doesn't have GitHub integration. 
 
