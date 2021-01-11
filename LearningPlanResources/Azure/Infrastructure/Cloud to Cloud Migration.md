@@ -21,12 +21,6 @@
 
 ## Expert
 
-* [Deploying and Configuring Infrastructure](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T01) (In-person Instructor Led) (1 Day)
-* [Designing a Data Platform Solution](https://www.microsoft.com/learning/course.aspx?cid=AZ-301T02) (In-person Instructor Led) (1 Day)
-* [Designing an Infrastructure Strategy](https://www.microsoft.com/learning/course.aspx?cid=AZ-301T04) (In-person Instructor Led) (1 Day)
-* [Designing for Deployment; Migration; and Integration](https://www.microsoft.com/learning/course.aspx?cid=AZ-301T03) (In-person Instructor Led) (1 Day)
-* [Designing for Identity and Security](https://www.microsoft.com/learning/course.aspx?cid=AZ-301T01) (In-person Instructor Led) (1 Day)
-* [Implementing Workloads and Security](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T02) (In-person Instructor Led) (1 Day)
 * [Architect compute infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/) (Self-Paced) (6 Hours)
 * [Architect great solutions in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-great-solutions-in-azure/) (Self-Paced) (5 Hours)
 * [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/) (Self-Paced) (4 Hours)
