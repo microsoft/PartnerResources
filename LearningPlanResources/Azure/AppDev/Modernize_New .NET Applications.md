@@ -21,7 +21,7 @@
 * [Develop Azure Infrastructure as a Service compute solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t01) (In-person Instructor Led) (1 Day)
 * [Develop Azure Platform as a Service compute solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t02) (In-person Instructor Led) (1 Day)
 * [Develop for Azure storage](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t03) (In-person Instructor Led) (1 Day)
-* [Exam AZ-203: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-203?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
+* [Exam AZ-204: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Architect migration; business continuity; and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/) (Self-Paced) (7 Hours)
 * [Connect to and consume Azure and third-party services](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t06) (In-person Instructor Led) (1 Day)
 * [Connect your services together](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/) (Self-Paced) (3 Hours)
