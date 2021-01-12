@@ -23,6 +23,7 @@ There are several ways to contribute to this repository; here are the most commo
 | Correct a typo, link, or other minor change | Create a **Pull Request** |
 | Create an entirely new Learning Plan Resource | Create a **Pull Request** |
 
+For specific examples of the types of content you can contribute, see our [Content Guidelines](Content%20Guidelines.md) page.
 
 Read more on how to do these below.
 
