@@ -1,34 +1,67 @@
-Learning Plan Resources for {Plan Name}
-{ Description of Learning Plan }
+# Learning Plan Resources for Dynamics 365 Customer Insights
 
-Content is broken down as follows:
+Dynamics 365 Customer Insights...
 
-Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
-Certifications: relevant Microsoft exams or certifications
-Community resources: user groups, events, blogs
-Additionally, some content may be marked with one or more icons:
+Below you will find content to assist in upskilling on Dynamics 365 Customer Insights.  Content is broken down as follows:
 
-'$' to indicate paid content
-'3rd Party' to indicate 3rd party content (not created by Microsoft)
-Keeping Up
-{ Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
+* Fundamentals, Associate, Expert, Specialist: content categorized in increase levels of complexity
+* Certifications:  relevant Microsoft exams or certifications
+* Community resources:  user groups, events, blogs
 
-Fundamentals
-{ Add fundamental/beginner/high level items here; generally applicable to all audiences }
+Additionally, some content may be mared with one or more icons:
 
-Example Microsoft Home Page Link
-This is description of the content
-Associate
-{ Add associate/mid-level items here; baseline content to be proficient with technology }
+* '$' to indicate paid content
+* '3rd Party' to indicate 3rd party content (not created by Microsoft)
 
-Expert
-{ Add expert/high-level items here; content intended for in-depth and hands-on experiences }
+TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
 
-Specialist
-{ Add expert/high-level items here; content intended for in-depth and hands-on experiences. Consider adding What The Hack, OpenHack, etc.}
+## Fundamentals
 
-Certifications
-{ Add certifications that may apply. Visit https://docs.microsoft.com/en-us/learn/certifications/ as a starting point. You may include links to training classes and related resources related to certifications. }
+* [Course MB-901T00-A: Microsoft Dynamics 365 Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-901t00) (In-person Instructor Led) (2 Days)
+* [Course PL-900T00-A: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-900t00) (In-person Instructor Led) (2 Days)
+* [Get started using Common Data Service](https://docs.microsoft.com/en-us/learn/paths/get-started-cds/) (Microsoft Learn) (4 Hours)
 
-Community
-{ Add links to community resources: blogs, forums, yammer channels, etc. }
+
+## Associate
+
+* [Work with cases in Microsoft Dynamics 365 Customer Service Learning Path](https://docs.microsoft.com/en-us/learn/paths/work-with-cases-in-dynamics-365-for-customer-service/) (Microsoft Learn) (4 Hours)
+* [Course MB-200T01-A: Dynamics 365: Power Platform applications](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-200t01) (In-person Instructor Led) (2 Days)
+* [Course MB-200T02-A: Dynamics 365: Power Platform automation](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-200t02) (In-person Instructor Led) (1 Day)
+* [Create a model-driven app in Power Apps](https://docs.microsoft.com/en-us/learn/paths/create-app-models-business-processes/) (Microsoft Learn) (1 Hour)
+
+## Expert
+
+* [Course MB-400T00-A: Microsoft Power Apps + Dynamics 365 Developer](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-400t00) (In-person Instructor Led) (3 Days)
+* [Becoming a Solution Architect for Dynamics 365 and Power Platform Learning Path](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/) (Microsoft Learn) (4 Hours)
+* [Implementing Customer Engagement Online Learning Path](https://docs.microsoft.com/en-us/learn/paths/implementing-customer-engagement-apps/) (Microsoft Learn) (5 Hours)
+* [Extend Dynamics 365 Portals](https://docs.microsoft.com/en-us/learn/paths/extend-dynamics-365-portals/) (Microsoft Learn) (3 Hours)
+* [Extending the Common Data Service](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Microsoft Learn) (2 Hours)
+* [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-model-driven-app/) (Microsoft Learn) (4 Hours)
+
+## Certifications
+
+* [Exam PL-200: Microsoft Power Platform Functional Consultant (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200)
+    * [Exam MB-200:  Microsoft Dynamics 365 Power Platform + Dynamics Core](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200) - Retiring Dec. 31, 2020
+* [Exam MB-230: Microsoft Dynamics 365 Customer Service](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230)
+
+* [Exam PL-400: Microsoft Dynamics 365 Power Apps + Developer (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400)
+    * [Exam MB-400: Microsoft Dynamics 365 Power Apps + Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400) - Retiring Dec. 31, 2020
+* [Exam MB-600: Microsoft Dynamics 365 Power Apps + Solution Architect](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-600)
+
+* [MB-200: Microsoft Power Platform + Dynamics 365 Core Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-200-microsoft-power-platform-plus-dynamics-365-core#/) (Self-Paced) (10 Hours)
+* [MB-230: Microsoft Dynamics 365 Customer Service Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-230-microsoft-dynamics-365-customer-service#/) (Self-Paced) (4 Hours)
+* [MB-400: Microsoft Power Apps + Dynamics 365 Developer Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-400-microsoft-power-apps-dynamics-365-developer#/) (Self-Paced) (8 Hours)
+
+## Community Resources
+
+* [Monitor the Dynamics 365 Customer Service Community](https://community.dynamics.com/365/customerservice)
+* [Monitor the Dynamics 365 Blog](https://cloudblogs.microsoft.com/dynamics365/)
+* [Join Dynamics Fortnight Fridays](http://dff.azurewebsites.net/)
+* [Join WW Business Applications Partner Community](https://www.microsoftpartnercommunity.com/t5/Business-Applications/ct-p/BizApps)
+* [Monitor the Dynamics 365 Customer Engagement in the Field](https://community.dynamics.com/crm/b/crminthefield)
+
+## Practice Maturity Model
+
+Ordered by entry level features, advanced features, and innovative features.
+
+   ![Customer Service Maturity Model](assets/customer-service-maturity-model.png)
