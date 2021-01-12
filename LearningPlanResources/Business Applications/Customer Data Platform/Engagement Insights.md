@@ -1,14 +1,14 @@
 # Learning Plan Resources for Dynamics 365 Customer Insights
 
-Dynamics 365 Customer Insights...
+**Engagement insights**
 
-Below you will find content to assist in upskilling on Dynamics 365 Customer Insights.  Content is broken down as follows:
+Below you will find content to assist in upskilling on Dynamics 365 Customer Insights - *Engagement insights*.  Content is broken down as follows:
 
 * Fundamentals, Associate, Expert, Specialist: content categorized in increase levels of complexity
 * Certifications:  relevant Microsoft exams or certifications
 * Community resources:  user groups, events, blogs
 
-Additionally, some content may be mared with one or more icons:
+Additionally, some content may be marked with one or more icons:
 
 * '$' to indicate paid content
 * '3rd Party' to indicate 3rd party content (not created by Microsoft)
