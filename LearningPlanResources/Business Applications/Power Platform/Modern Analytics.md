@@ -1,4 +1,4 @@
-# Learning Plan Resources for Modern Analytics
+# Learning Plan Resources for Modern Analytics/Power BI
 
 ## Fundamentals
 
