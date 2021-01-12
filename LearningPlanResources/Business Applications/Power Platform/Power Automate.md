@@ -2,7 +2,7 @@
 
 Dynamics 365 Power Automate...
 
-Below you will find content to assist in upskilling on Dynamics 365 Customer Insights.  Content is broken down as follows:
+Below you will find content to assist in upskilling on Power Automate.  Content is broken down as follows:
 
 * Fundamentals, Associate, Expert, Specialist: content categorized in increase levels of complexity
 * Certifications:  relevant Microsoft exams or certifications
