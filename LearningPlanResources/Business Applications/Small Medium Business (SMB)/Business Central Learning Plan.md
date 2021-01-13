@@ -19,7 +19,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Watch Dynamics 365 Business Central Overview Demos](https://dynamics.microsoft.com/en-us/business-central/demo/) (Self-Paced) (9 Minutes)
 * [Read The Business Owner’s Guide to Replacing Accounting Software](https://info.microsoft.com/dynamics365-replacing-acct-software.html) (Self-Paced) (1 Hour)
 
-## Associate (navigation tip)
+## Associate
 
 Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Reconcile bank accounts in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/en-us/learn/paths/reconcile-bank-accounts-dynamics-365-business-central/) (Self-Paced) (1 Hour)
