@@ -12,7 +12,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Follow Business Central on Twitter](https://twitter.com/MSDYN365BC) (Self-Paced) (1 Minute)
 * [Review Dynamics 365 Business Central Application Ideas](https://experience.dynamics.com/ideas/categories/?forum=e288ef32-82ed-e611-8101-5065f38b21f1&forumName=Dynamics%20365%20Business%20Central) (Self-Paced) (1 Minute)
 * [Review Dynamics 365 Business Central System Requirements](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/deployment/system-requirement-business-central) (Self-Paced) (1 Minute)
-* [Review Dynamics 365 Business Central Tech Intensity Workshop](https://aka.ms/bizcentral) (Self-Paced) (4 Hours)
+* [Review Dynamics 365 Business Central Tech Intensity Workshop](https://aka.ms/bizcentral/workshop) (Self-Paced) (4 Hours)
 * [Review Ready to Go Documentation](https://aka.ms/readytogo) (Self-Paced) (1 Minute)
 * [Subscribe to Business Central YouTube Playlist](https://www.youtube.com/playlist?list=PLcakwueIHoT-wVFPKUtmxlqcG1kJ0oqq4) (Self-Paced) (1 Minute)
 * [Transition SMB Customers to the Cloud](https://partner.microsoft.com/en-us/marketing/business-applications-smb?wt.mc_id=AID2420183_EML_6301784#tab-content-1) (Self-Paced) (5 Minutes)
