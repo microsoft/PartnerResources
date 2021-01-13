@@ -25,6 +25,7 @@ NAVIGATION TIP: To open each resource below, right-click on the URL and select o
 * [Watch the Marketing video playlist on YouTube](https://www.youtube.com/playlist?list=PLcakwueIHoT_cV1n1es1YJt_T2A5u-XpR) (1 Hour)
 * [Download the Partner Sales Demo Playbook] (aka.ms/d365marketing/salestools)
 * [Watch the Dynamics 365 Marketing Tech Intensity Workshop (aka.ms/d365marketing/workshop)
+* [Download Dynamics 365 Marketing Partner Sales Sales Playbook](https://aka.ms/d365marketing/salestools) (Self-Paced) (5 Minutes)
 
 ## Associate
 
