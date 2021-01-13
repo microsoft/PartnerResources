@@ -30,7 +30,12 @@
 ## Specialist
 
 * [Technical Deep Dive on Enterprise BI and Hybrid Scenarios with Power BI](https://support.microsoft.com/en-us/help/4456382/technical-deep-dive-on-enterprise-bi-and-hybrid-scenarios-with-power-b) (Self-Paced) (2 Hours)
-* [Adopting Power BI for Embedded Applications](https://support.microsoft.com/en-us/help/4456372/adopting-power-bi-for-embedded-applications) (Self-Paced) (2 Hours)
+* [Adopting Power BI for Embedded Applications](https://docs.microsoft.com/en-us/power-bi/developer/embedded/) (Self-Paced) (2 Hours)
+
+## Resources
+
+* [Power BI Release Plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave2/power-bi/planned-features) (Self-Paced)
+* [Power BI Adoption Framework](https://github.com/pbiaf/powerbiadoption) (Self-Paced)
 
 ## Community Resources
 
