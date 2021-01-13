@@ -1,8 +1,26 @@
 # Learning Plan Resources for Modern Analytics/Power BI
 
+With Power BI connect to and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight.
+
+Below you will find content to assist in upskilling on Microsoft Power BI. Content is broken down as follows:
+
+* Fundamentals, Associate, Expert, Specialist: content categorized in increase levels of complexity
+* Certifications: relevant Microsoft exams or certifications
+* Resources: roadmap, whitepapers, blogs, etc.
+* Community resources: user groups, events, blogs
+
+Additionally, some content may be mared with one or more icons:
+
+* '$' to indicate paid content
+* '3rd Party' to indicate 3rd party content (not created by Microsoft)
+
+TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
+
 ## Fundamentals
 
+* [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) (Self-Paced)
 * [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/) (Self-Paced)
+* [Power BI Documentaion](https://docs.microsoft.com/en-us/power-bi/) (Self-Paced)
 * [Consume data with Power BI](https://docs.microsoft.com/en-us/learn/paths/consume-data-with-power-bi/) (Self-Paced) (2 Hours)
 * [Course PL-900T00-A: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-900t00) (In-person Instructor Led) (2 Days)
 * [How to Govern: Part 3 | Power BI Adoption Framework](https://www.youtube.com/watch?v=Zf0lCaGCSuU&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=7&t=0s) (Self-Paced) (31 Minutes)
@@ -25,7 +43,11 @@
 ## Expert
 
 * [Power BI Developer Documentation](https://docs.microsoft.com/en-us/power-bi/developer/) (Self-Paced)
+* [Power BI Paginated Reports](https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-report-builder-power-bi) (Self-Paced)
+* [Power BI Machine Learning](https://docs.microsoft.com/en-us/power-bi/connect-data/service-tutorial-build-machine-learning-model) (Self-Paced)
 * [Technical Deep Dive on Power BI Common Scenarios](https://www.microsoftpartnercommunity.com/t5/Event-Discussions/Dive-deep-into-Power-BI-Common-Scenarios/td-p/10759) (Self-Paced) (3 Hours)
+* [Power BI Premium](https://powerbi.microsoft.com/en-us/power-bi-premium/) (Self-Paced)
+* [Power BI to Synapse Workspace](https://docs.microsoft.com/en-us/azure/synapse-analytics/quickstart-power-bi) (Self-Paced)
 
 ## Specialist
 
@@ -34,12 +56,14 @@
 
 ## Resources
 
+* [Power BI Team Blog](https://powerbi.microsoft.com/en-us/blog/) (Self-Paced)
+* [Power BI Sample Apps](https://docs.microsoft.com/en-us/power-bi/create-reports/sample-datasets) (Self-Paced)
 * [Power BI Release Plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave2/power-bi/planned-features) (Self-Paced)
 * [Power BI Adoption Framework](https://github.com/pbiaf/powerbiadoption) (Self-Paced)
 
 ## Community Resources
 
-* [Power BI UG](https://www.pbiusergroup.com/home) (Self-Paced)
+* [Power BI UG](https://mydacfeed.com/view/welcome-to-your-new-power-community) (Self-Paced)
 * [Microsoft Power BI Community](https://community.powerbi.com/) (Self-Paced)
 
 ## Events
