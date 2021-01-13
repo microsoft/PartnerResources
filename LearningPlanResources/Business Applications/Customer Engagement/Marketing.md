@@ -41,6 +41,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 
 Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Read the Marketing Developer Guide](https://docs.microsoft.com/en-us/dynamics365/marketing/developer/marketing-developer-guide) (Microsoft Docs) (2 Minutes)
+* [Customize Dynamics 365 Marketing](https://docs.microsoft.com/en-us/dynamics365/marketing/customize) (Microsoft Docs) (2 Minutes)
 
 ## Certifications
 
