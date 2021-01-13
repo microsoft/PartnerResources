@@ -15,6 +15,7 @@ NAVIGATION TIP: To open each resource below, right-click on the URL and select o
 
 ## Fundamentals
 
+Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Bookmark Dynamics 365 Marketing Forum](https://community.dynamics.com/365/marketing/f/dynamics-365-for-marketing-forum) (Self-Paced) (1 Minute)
 * [Bookmark Marketing product roadmap](https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/marketing/dynamics365-marketing/) (Microsoft Docs) (2 Minutes)
 * [Create a Dynamics 365 Marketing Trial](https://dynamics.microsoft.com/en-us/get-started/?appname=marketing) (2 Minutes)
@@ -28,6 +29,7 @@ NAVIGATION TIP: To open each resource below, right-click on the URL and select o
 
 ## Associate
 
+Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Work with core features in Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/paths/work-core-features-marketing/) (Microsoft Learn) (6 Hours)
 * [Review the Marketing Administrator Guide](https://docs.microsoft.com/en-us/dynamics365/marketing/admin-guide) (Microsoft Docs) (2 Minutes)
 * [Set up Dynamics 365 Marketing and configure advanced settings](https://docs.microsoft.com/en-us/learn/paths/get-started-with-marketing/) (Microsoft Learn) (2 Hours)
@@ -37,10 +39,12 @@ NAVIGATION TIP: To open each resource below, right-click on the URL and select o
 
 ## Expert
 
+Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Read the Marketing Developer Guide](https://docs.microsoft.com/en-us/dynamics365/marketing/developer/marketing-developer-guide) (Microsoft Docs) (2 Minutes)
 
 ## Certifications
 
+Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Exam MB-200:  Microsoft Dynamics 365 Power Platform + Dynamics Core](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200)
 * [Exam MB-220: Microsoft Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220)
 
