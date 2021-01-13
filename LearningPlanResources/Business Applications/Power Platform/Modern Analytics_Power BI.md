@@ -18,7 +18,8 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Fundamentals
 
-* [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) (Self-Paced)
+* [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) (Product)
+* [Power BI Report Server](https://powerbi.microsoft.com/en-us/report-server/) (Product)
 * [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/) (Self-Paced)
 * [Power BI Documentaion](https://docs.microsoft.com/en-us/power-bi/) (Self-Paced)
 * [Consume data with Power BI](https://docs.microsoft.com/en-us/learn/paths/consume-data-with-power-bi/) (Self-Paced) (2 Hours)
@@ -43,7 +44,6 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 ## Expert
 
 * [Power BI Developer Documentation](https://docs.microsoft.com/en-us/power-bi/developer/) (Self-Paced)
-* [Power BI Paginated Reports](https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-report-builder-power-bi) (Self-Paced)
 * [Power BI Machine Learning](https://docs.microsoft.com/en-us/power-bi/connect-data/service-tutorial-build-machine-learning-model) (Self-Paced)
 * [Technical Deep Dive on Power BI Common Scenarios](https://www.microsoftpartnercommunity.com/t5/Event-Discussions/Dive-deep-into-Power-BI-Common-Scenarios/td-p/10759) (Self-Paced) (3 Hours)
 * [Power BI Premium](https://powerbi.microsoft.com/en-us/power-bi-premium/) (Self-Paced)
@@ -52,6 +52,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 ## Specialist
 
 * [Technical Deep Dive on Enterprise BI and Hybrid Scenarios with Power BI](https://support.microsoft.com/en-us/help/4456382/technical-deep-dive-on-enterprise-bi-and-hybrid-scenarios-with-power-b) (Self-Paced) (2 Hours)
+* [Power BI Paginated Reports](https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-report-builder-power-bi) (Self-Paced)
 * [Adopting Power BI for Embedded Applications](https://docs.microsoft.com/en-us/power-bi/developer/embedded/) (Self-Paced) (2 Hours)
 
 ## Resources
