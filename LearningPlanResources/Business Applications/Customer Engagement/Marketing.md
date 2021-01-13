@@ -11,7 +11,6 @@ Below you will find content to assist in upskilling on Dynamics 365 Marketing. C
 * '$' to indicate paid content
 * '3rd Party' to indicate 3rd party content (not created by Microsoft)
 
-NAVIGATION TIP: To open each resource below, right-click on the URL and select open in new tab
 
 ## Fundamentals
 
