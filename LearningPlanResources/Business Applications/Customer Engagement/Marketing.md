@@ -23,9 +23,8 @@ NAVIGATION TIP: To open each resource below, right-click on the URL and select o
 * [Introduction to Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/wwl/introduction-dynamics-365-marketing/) (Microsoft Learn) (41 Minutes)
 * [Learn Insights glossary of terms](https://docs.microsoft.com/en-us/dynamics365/marketing/insights-glossary) (11 Minutes)
 * [Watch the Marketing video playlist on YouTube](https://www.youtube.com/playlist?list=PLcakwueIHoT_cV1n1es1YJt_T2A5u-XpR) (1 Hour)
-* [Download the Partner Sales Demo Playbook] (aka.ms/d365marketing/salestools)
-* [Watch the Dynamics 365 Marketing Tech Intensity Workshop (aka.ms/d365marketing/workshop)
 * [Download Dynamics 365 Marketing Partner Sales Sales Playbook](https://aka.ms/d365marketing/salestools) (Self-Paced) (5 Minutes)
+* [Watch the Dynamics 365 Marketing in a Day workshop](https://aka.ms/d365marketing/miad) (Self-Paced) (2 hours, 45 Minutes)
 
 ## Associate
 
