@@ -25,7 +25,7 @@
 ## Expert
 
 * [Power BI Developer Documentation](https://docs.microsoft.com/en-us/power-bi/developer/) (Self-Paced)
-* [Technical Deep Dive on Power BI Common Scenarios](https://support.microsoft.com/en-us/help/4013850/power-bi-common-scenarios) (Self-Paced) (3 Hours)
+* [Technical Deep Dive on Power BI Common Scenarios](https://www.microsoftpartnercommunity.com/t5/Event-Discussions/Dive-deep-into-Power-BI-Common-Scenarios/td-p/10759) (Self-Paced) (3 Hours)
 
 ## Specialist
 
