@@ -37,7 +37,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 ## Expert
 
 Navigation tip - to open each link, right-click on the URL | open in new tab
-* [MB-800: Microsoft Dynamics 365 Business Central Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800) (Self-Paced) (1 Minute)
+* [Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800) (Self-Paced) (1 Minute)
 * [Deliver Consulting Services as a VAR](https://appsource.microsoft.com/en-us/marketplace/consulting-services?country=US&page=1&product=dynamics-365%3Bdynamics-365-business-central) (Self-Paced) (1 Minute)
 * [Build Add-On Apps for Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-add-on-apps) (Self-Paced) (2 Minutes)
 * [Build Connect Apps for Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-connect-apps) (Self-Paced) (2 Minutes)
