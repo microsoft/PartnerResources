@@ -6,7 +6,7 @@
 * [DevOps solutions](https://azure.microsoft.com/en-us/solutions/devops/?2000709=&OCID=AID2000709_SEM_XelrrQAAAEzGmH6l:20200114005813:s&ef_id=XelrrQAAAEzGmH6l:20200114005813:s) (Self-Paced) (8 Minutes)
 * [Evolve Your DevOps Practice](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) (Self-Paced) (2 Hours)
 * [Introduction to Azure DevOps](https://www.youtube.com/watch?v=yecw2rUlywA) (Self-Paced) (1 Hour)
-* [GitHub Learning Lab](https://github.com/lab) (Self-Paced) (20+ Hours)
+* [GitHub Learning Lab](https://lab.github.com/) (Self-Paced) (20+ Hours)
 
 ## Associate
 
