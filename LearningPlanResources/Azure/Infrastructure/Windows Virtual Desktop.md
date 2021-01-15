@@ -1,17 +1,16 @@
-# Learning Plan Resources for Windows Virtual Desktop
+# Learning Plan and Technical Resources for Windows Virtual Desktop
 
 ## Fundamentals
 
 * [What is Windows Virtual Desktop?](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview)
 * [Windows Virtual Desktop environment](https://docs.microsoft.com/en-us/azure/virtual-desktop/environment-setup)
-* [Windows Virtual Desktop experience estimator](https://azure.microsoft.com/en-us/services/virtual-desktop/assessment/)
-* [Windows Virtual Desktop partner integrations](https://docs.microsoft.com/en-us/azure/virtual-desktop/partners)
 * [Windows Virtual Desktop guided simulation](https://octe.azurewebsites.net/Microsoft/viewer/76/index.html#/)
+* [Windows Virtual Desktop experience estimator](https://azure.microsoft.com/en-us/services/virtual-desktop/assessment/)
 * [Connect with the Windows Desktop client](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
-
 * [MS Learn Windows Virtual Desktop learning plan](https://docs.microsoft.com/en-us/learn/paths/m365-wvd/)
-* [Tech Community blogs](https://techcommunity.microsoft.com/t5/windows-virtual-desktop/bd-p/WindowsVirtualDesktop)
 * [Windows Virtual Desktop roadmap features](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=Windows%20Virtual%20Desktop)
+* [Windows Virtual Desktop partner integrations](https://docs.microsoft.com/en-us/azure/virtual-desktop/partners)
+* [Tech Community blogs](https://techcommunity.microsoft.com/t5/windows-virtual-desktop/bd-p/WindowsVirtualDesktop)
 
 ## Advanced concepts
 
@@ -62,6 +61,6 @@
 
 ### Preview features
 
+* [MSIX app attach](https://docs.microsoft.com/en-us/azure/virtual-desktop/what-is-app-attach)
 * [UDP Shortpath](https://docs.microsoft.com/en-us/azure/virtual-desktop/shortpath)
 * [Implementing QoS for Windows Virtual Desktop](https://docs.microsoft.com/en-us/azure/virtual-desktop/rdp-quality-of-service-qos)
-* [What is MSIX app attach?](https://docs.microsoft.com/en-us/azure/virtual-desktop/what-is-app-attach)
