@@ -27,3 +27,8 @@
 
 * [AI School: Conversational AI](https://aischool.microsoft.com/en-us/conversational/learning-paths) (Self-Paced) (2 Days)
 * [Ignite: Deep-dive into conversational AI](https://myignite.techcommunity.microsoft.com/sessions/81066?source=sessions) (Self-Paced) (1 Hour)
+
+## Community
+* [Conversational AI 101- Types of Bot](https://www.youtube.com/watch?v=CZ5vm3Eegzw) (Self-Paced) (6 Minutes)
+* [Key Concepts - Adaptive Card, OAuth, Bot Specifics](https://www.youtube.com/watch?v=dxhVYnYBUyc) (Self-Paced) (15 Minutes)
+* [Key Concepts - QnA & LUIS](https://www.youtube.com/watch?v=nxSAjcZtLto&t=35s) (Self-Paced) (15 Minutes)
