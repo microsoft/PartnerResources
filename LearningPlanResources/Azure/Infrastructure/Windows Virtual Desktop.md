@@ -1,5 +1,9 @@
 # Learning Plan and Technical Resources for Windows Virtual Desktop
 
+## Keeping Up
+
+* Follow [Michel Roth](https://twitter.com/michelroth), [Marcel Meurer](https://twitter.com/MarcelMeurer), [Tom Hickling](https://twitter.com/tomhickling) and [Christiaan Brinkhoff](https://twitter.com/Brinkhoff_C) on Twitter
+
 ## Fundamentals
 
 * [What is Windows Virtual Desktop?](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview)
