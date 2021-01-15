@@ -3,10 +3,10 @@
 ## Keeping Up
 
 * Refer to the [IoT Blog site](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/)
-* Watch the [Channel 9 IoT Show](http://aka.ms/IoTShow)
+* Watch the [Channel 9 IoT Show](https://aka.ms/IoTShow)
 * Follow the [Microsoft IoT Developer](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ) channel on YouTube
 * See [IoT in the Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT)
-* See the [US Partner Community Internet of Things](http://aka.ms/OCP-IoT) group
+* See the [US Partner Community Internet of Things](https://aka.ms/OCP-IoT) group
 
 ## Fundamentals
 
@@ -63,7 +63,7 @@
 
 * [IoT in Action Webinar Series](https://iotinactionwebinars.com/) (Self-Paced) (4 Hours)
 * [Open Hack](https://openhack.microsoft.com/) (In-person Instructor Led) (3 Days)
-* [Channel 9 IoT Show](http://aka.ms/IoTShow) (Self-Paced) (10 Hours)
+* [Channel 9 IoT Show](https://aka.ms/IoTShow) (Self-Paced) (10 Hours)
 
 ## Certifications
 

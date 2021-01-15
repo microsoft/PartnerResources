@@ -99,4 +99,4 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 ## Certifications
 
 * [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
-* [DP-300: Administering Relational Databases on Microsoft Azure](docs.microsoft.com/en-us/learn/certifications/exams/dp-300) (Currently in BETA)
+* [DP-300: Administering Relational Databases on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300) (Currently in BETA)

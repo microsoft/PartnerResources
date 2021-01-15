@@ -24,7 +24,7 @@
 * [Architect modern applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-modern-apps/) (Self-Paced) (7 Hours)
 * [Architect network infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/) (Self-Paced) (8 Hours)
 * [Architect storage infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/) (Self-Paced) (5 Hours)
-* [Azure Kubernetes Workshop: Container Apps](http://aksworkshop.io/) (Self-Paced)
+* [Azure Kubernetes Workshop: Container Apps](https://aksworkshop.io/) (Self-Paced)
 * [Azure Kubernetes Workshop: DevOps](https://devsecops.aksworkshop.io/) (Self-Paced)
 * [eBook: Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) (Self-Paced)
 * [Exam AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
