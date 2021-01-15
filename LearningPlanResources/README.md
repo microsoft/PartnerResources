@@ -43,7 +43,7 @@ Content is broken down as follows:
 * [AI Apps & Agents](/LearningPlanResources/Azure/Data,%20Analytics,%20and%20AI/AI%20Apps%20&%20Agents.md)
 * [Knowledge Mining](/LearningPlanResources/Azure/Data,%20Analytics,%20and%20AI/Knowledge%20Mining.md)
 * [Cosmos DB](/LearningPlanResources/Azure/Data,%20Analytics,%20and%20AI/Cosmos%20DB.md)
-* [OSS DB to Azure](/LearningPlanResources/Azure/Data,%20Analytics,%20and%20AI/OSS%20DB%20to%20Azure.md)
+* [Azure Database for MySQL, MariaDB and Postgres Migrations](/LearningPlanResources/Azure/Data,%20Analytics,%20and%20AI/OSS%20DB%20to%20Azure.md)
 * [SQL Server Migration to Azure](/LearningPlanResources/Azure/Data,%20Analytics,%20and%20AI/SQL%20Server%20Migration%20to%20Azure.md)
 
 ### AppDev
