@@ -34,6 +34,7 @@
 ## Community Resources
 
 * [The Definitive Guide to Securing Kubernetes](https://info.aquasec.com/securing_kubernetes) (Self-Paced)
+* [AKS Roadmap](https://github.com/Azure/AKS/projects/1)
 
 ## Events
 
