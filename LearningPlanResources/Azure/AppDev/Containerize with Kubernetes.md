@@ -2,7 +2,7 @@
 
 ## Fundamentals
 
-* [Katakoda: Kubernetes Introduction](https://www.katacoda.com/) (Self-Paced)
+* [Katacoda: Kubernetes Introduction](https://www.katacoda.com/) (Self-Paced)
 * [Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) (Self-Paced) (10 Hours)
 * [Microsoft Azure Fundamentals](https://www.microsoft.com/learning/course.aspx?cid=AZ-900T01) (In-person Instructor Led) (1 Day)
 * [Phippy Goes to the Zoo](https://azure.microsoft.com/mediahandler/files/resourcefiles/phippy-goes-to-the-zoo/Phippy%20Goes%20To%20The%20Zoo_MSFTonline.pdf) (Self-Paced) (6 Minutes)
