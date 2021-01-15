@@ -36,8 +36,9 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * No Certification Exist at This Time
 
 ## Community Resources
+* [Join the discussion with the Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity) (Self-Paced) (1 Minute)
+* [Suggest an idea to the Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Ideas/idb-p/pva_ideas) (Self-Paced) (1 Minute)
 
-* Coming Soon
 
 ## Practice Maturity Model
 
