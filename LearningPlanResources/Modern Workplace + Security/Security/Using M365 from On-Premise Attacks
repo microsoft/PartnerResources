@@ -1,0 +1,10 @@
+#  Protect Microsoft 365 From on-premise attacks
+
+Many customers connect their private corporate networks to Microsoft 365 to benefit their users, devices, and applications. However, there are many well-documented ways these private networks can be compromised. As we have seen in recent events related to the SolarWinds compromise, on-premises compromise can propagate to the cloud. Because Microsoft 365 acts as the “nervous system” for many organizations, it is critical to protect it from compromised on-premises infrastructure
+
+This document will show you how to configure your systems to protect your Microsoft 365 cloud environment from on-premises compromise. We primarily focus on Azure AD tenant configuration settings, the ways Azure AD tenants can be safely connected to on-premises systems, and the tradeoffs required to operate your systems in ways that protect your cloud systems from on-premises compromise.
+
+
+We strongly recommend you implement this guidance to secure your Microsoft 365 cloud environment.
+
+#  https://techcommunity.microsoft.com/t5/azure-active-directory-identity/protecting-microsoft-365-from-on-premises-attacks/ba-p/1751754
