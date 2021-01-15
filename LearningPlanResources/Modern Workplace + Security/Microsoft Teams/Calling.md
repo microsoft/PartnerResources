@@ -31,6 +31,8 @@ Additionally, some content may be marked with one or more icons:
 * [MS-300: Deploying Microsoft 365 Teamwork](https://docs.microsoft.com/en-us/learn/certifications/exams/ms-300) (Self-Paced)
 * [MS-700: Managing Microsoft Teams](https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700) (Self-Paced)
 * [DB149-R1: Microsoft Teams Calling Made Simple](https://myignite.microsoft.com/sessions/cd3f8d9e-39f9-4fea-8cfa-58a967e79b9f) (self-Paced) (Duration 30 minutes)
+* [ATE-DB149-R1: Ask the Expert: Microsoft Teams Calling Made Simple](https://myignite.microsoft.com/sessions/b4fafb78-fdd4-4ebd-8f64-a072cb9d9b67) (Self-Paced) (Duration 30 minutes)
+* [ATE-DB149: Ask the Expert: Microsoft Teams Calling Made Simple](https://myignite.microsoft.com/sessions/3f7fabd9-a7f1-46da-8bb0-61119612163d) (Self-Paced) (Duration 30 minutes)
 
 
 
