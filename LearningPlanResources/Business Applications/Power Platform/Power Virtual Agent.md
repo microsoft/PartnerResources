@@ -23,8 +23,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Subscribe to the Power Virtual Agents YouTube channel](https://www.youtube.com/channel/UCn8PsBlVsGUt8J3tZCKsMPA) (Self-Paced) (1 Minute)
 
 ## Associate
-
-* Coming Soon
+* [Create Bots with Power Virtual Agents (MS Learn)](https://docs.microsoft.com/en-us/learn/paths/work-power-virtual-agents/) (Self-Paced) (2 Hours)
 
 ## Expert
 
