@@ -25,6 +25,7 @@
 * [Dev Blogs - Azure DevOps](https://devblogs.microsoft.com/devops/category/git/) (Self-Paced) (10 Minutes)
 * [Developer Community](https://developercommunity.visualstudio.com/spaces/8/index.html) (Self-Paced)
 * [DevOps Community Content](https://microsofteur.sharepoint.com/teams/1ServicesDevOps) (Self-Paced) (24 Hours)
+* [GitHub Public Roadmap](https://github.com/github/roadmap/projects/1)
 
 ## Certifications
 
