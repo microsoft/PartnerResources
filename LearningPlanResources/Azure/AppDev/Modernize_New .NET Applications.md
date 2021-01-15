@@ -2,13 +2,14 @@
 
 ## Fundamentals
 
-* [EXAM AZ-900: Microsoft Azure Fundamentals:](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
+* [Exam AZ-900: Microsoft Azure Fundamentals:](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) (Self-Paced) (10 Hours)
 * [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/) (Self-Paced)
 * [Microsoft Azure Fundamentals](https://www.microsoft.com/learning/course.aspx?cid=AZ-900T01) (In-person Instructor Led) (1 Day)
 
 ## Associate
 
+* [Exam AZ-204: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Work with NoSQL data in Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/) (Self-Paced) (6 Hours)
 * [Work with relational data in Azure](https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/) (Self-Paced) (4 Hours)
 * [Monitor, troubleshoot, and optimize Azure solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t05) (In-person Instructor Led) (1 Day)
@@ -21,7 +22,6 @@
 * [Develop Azure Infrastructure as a Service compute solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t01) (In-person Instructor Led) (1 Day)
 * [Develop Azure Platform as a Service compute solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t02) (In-person Instructor Led) (1 Day)
 * [Develop for Azure storage](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t03) (In-person Instructor Led) (1 Day)
-* [Exam AZ-204: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Architect migration; business continuity; and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/) (Self-Paced) (7 Hours)
 * [Connect to and consume Azure and third-party services](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t06) (In-person Instructor Led) (1 Day)
 * [Connect your services together](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/) (Self-Paced) (3 Hours)
@@ -31,6 +31,8 @@
 
 ## Expert
 
+* [Exam AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
+* [Exam AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Deploying and Configuring Infrastructure](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T01) (In-person Instructor Led) (1 Day)
 * [Designing a Data Platform Solution](https://www.microsoft.com/learning/course.aspx?cid=AZ-301T02) (In-person Instructor Led) (1 Day)
 * [Designing an Infrastructure Strategy](https://www.microsoft.com/learning/course.aspx?cid=AZ-301T04) (In-person Instructor Led) (1 Day)
@@ -46,8 +48,6 @@
 * [Architect great solutions in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-great-solutions-in-azure/) (Self-Paced) (5 Hours)
 * [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/) (Self-Paced) (4 Hours)
 * [Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/) (Self-Paced) (5 Hours)
-* [Exam AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
-* [Exam AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Developing for the Cloud](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T06) (In-person Instructor Led) (1 Day)
 * [Implementing Workloads and Security](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T02) (In-person Instructor Led) (1 Day)
 * [Understanding Cloud Architect Technology Solutions](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T03) (In-person Instructor Led) (1 Day)
@@ -58,7 +58,12 @@
 * [.NET Developer Community](https://dotnet.microsoft.com/platform/community) (Self-Paced)
 * [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) (Self-Paced)
 
-## Certifications
+## Certifications / Exams
 
-* [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) (Self-Paced) (4 Hours)
+* [Exam AZ-900: Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) (Self-Paced) (4 Hours)
+* [Exam AZ-204: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
+* [Exam AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
+* [Exam AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
+* [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer) (Self-Paced)
 * [Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect) (Self-Paced)
+* [AZ-204 Study Gide: Developing Solutions for Microsoft Azure (Thomas Maurer)](https://www.thomasmaurer.ch/2020/03/az-204-study-guide-developing-solutions-for-microsoft-azure/)
