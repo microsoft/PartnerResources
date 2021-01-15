@@ -30,10 +30,7 @@ Additionally, some content may be marked with one or more icons:
 * [MS Learn Learning Path: Upgrade to Microsoft Teams](https://docs.microsoft.com/en-us/learn/paths/m365-teams-upgrade/) (Self-Paced) (3 Hours)
 * [MS-300: Deploying Microsoft 365 Teamwork](https://docs.microsoft.com/en-us/learn/certifications/exams/ms-300) (Self-Paced)
 * [MS-700: Managing Microsoft Teams](https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700) (Self-Paced)
-* [TMS10: What's new with Microsoft Teams](https://myignite.techcommunity.microsoft.com/sessions/81818?source=sessions) (Self-Paced) (45 Minutes)
-* [TMS20: Intelligent communications in Microsoft Teams](https://myignite.techcommunity.microsoft.com/sessions/81819?source=sessions) (Self-Paced) (45 Minutes)
-* [TMS30: Designing your path from Skype for Business to Teams](https://myignite.techcommunity.microsoft.com/sessions/81820?source=sessions) (Self-Paced) (45 Minutes)
-* [VCE10: Calling in Microsoft Teams](https://myignite.techcommunity.microsoft.com/sessions/83170?source=sessions) (Self-Paced) (45 Minutes)
+
 
 
 
