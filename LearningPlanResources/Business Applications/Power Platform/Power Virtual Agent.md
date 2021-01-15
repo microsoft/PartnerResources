@@ -16,9 +16,11 @@ Additionally, some content may be mared with one or more icons:
 TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
 
 ## Fundamentals
-
-* Coming Soon
-
+Navigation tip - to open each link, right-click on the URL | open in new tab
+* [Bookmark Power Virtual Agents Roadmap](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave2/power-virtual-agents/) (Self-Paced) (1 Minute)
+* [Create a Power Virtual Agents Trial Account](https://docs.microsoft.com/en-us/power-virtual-agents/sign-up-individual) (Self-Paced) (1 Minute)
+* [Bookmark Power Virtual Agents Documentation](https://docs.microsoft.com/en-us/power-virtual-agents/) (Self-Paced) (1 Minute)
+* [Subscribe to the Power Virtual Agents YouTube channel](https://www.youtube.com/channel/UCn8PsBlVsGUt8J3tZCKsMPA) (Self-Paced) (1 Minute)
 
 ## Associate
 
