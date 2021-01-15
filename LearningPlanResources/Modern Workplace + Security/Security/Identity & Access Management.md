@@ -8,6 +8,7 @@
 ## Associate
 * [External Identities documentation](https://docs.microsoft.com/en-us/azure/active-directory/external-identities/)
 * [Azure Active Directory Authentication documentation](https://docs.microsoft.com/en-us/azure/active-directory/authentication/)
+* [Five Steps to Securing Your Identity Infrastructure](https://docs.microsoft.com/en-us/azure/security/fundamentals/steps-secure-identity)
 
 ## Expert
 * [Microsoft Identity Platform for developers](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
