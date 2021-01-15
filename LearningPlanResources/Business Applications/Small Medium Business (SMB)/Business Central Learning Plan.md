@@ -46,9 +46,6 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Extending Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/about-develop-extensions) (Self-Paced) (3 Minutes)
 * [CI/CD Business Central](https://freddysblog.com/category/ci-cd/) (Self-Paced) (3 Hours)
 * [Business Central Docker](https://freddysblog.com/category/docker/) (Self-Paced) (3 Hours)
-
-## Creating Business Central Sandbox Instance for ISV Development
-
 * [Creating Business Central Developer Sandbox](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-sandbox-overview) (Self-Paced) (3 Minutes)
 * [Creating Business Central Container Sandbox for ISV Development](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-get-started-container-sandbox) (Self-Paced) (3 Minutes)
 
