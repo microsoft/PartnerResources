@@ -2,7 +2,7 @@
 
 ## Fundamentals
 
-* [Katacoda: Kubernetes Introduction](https://www.katacoda.com/) (Self-Paced)
+* [Katacoda: Kubernetes Introduction](https://www.katacoda.com/loodse/courses/kubernetes) (Self-Paced)
 * [Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) (Self-Paced) (10 Hours)
 * [Microsoft Azure Fundamentals](https://www.microsoft.com/learning/course.aspx?cid=AZ-900T01) (In-person Instructor Led) (1 Day)
 * [Phippy Goes to the Zoo](https://azure.microsoft.com/mediahandler/files/resourcefiles/phippy-goes-to-the-zoo/Phippy%20Goes%20To%20The%20Zoo_MSFTonline.pdf) (Self-Paced) (6 Minutes)
@@ -45,5 +45,3 @@
 * [Certified Kubernetes Administrator (CKA) Program](https://www.cncf.io/certification/cka/) (Self-Paced)
 * [Certified Kubernetes Application Developer (CKAD) Program](https://www.cncf.io/certification/ckad/) (Self-Paced)
 * [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) (Self-Paced) (4 Hours)
-
-Testing Testing
