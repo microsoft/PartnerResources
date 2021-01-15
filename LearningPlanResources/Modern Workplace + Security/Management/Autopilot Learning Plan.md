@@ -1,4 +1,5 @@
 # Learning Plan Resources for Autopilot Learning Plan
+
 Below you will find content to assist in upskilling on Windows Autopilot. Content is broken down as follows:
 
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity

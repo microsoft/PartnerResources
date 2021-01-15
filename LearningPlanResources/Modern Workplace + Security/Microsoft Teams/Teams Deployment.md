@@ -12,7 +12,7 @@
 ## Associate
 
 * [Deploy Microsoft Teams Clients](https://docs.microsoft.com/en-us/learn/modules/m365-teams-collab-deploy-clients/) (Self-Paced) (20 Minutes)
-* [Deploy Microsoft Teams with Microsoft 365 Apps]() (Self-Paced) (20 Minutes)
+* [Deploy Microsoft Teams with Microsoft 365 Apps](https://docs.microsoft.com/en-us/deployoffice/teams-install) (Self-Paced) (20 Minutes)
 * [Troubleshoot Microsoft Teams installation and update issues on Windows](https://docs.microsoft.com/en-us/microsoftteams/troubleshoot-installation) (Self-Paced) (15 Minutes)
 * [Upgrade to Teams](https://docs.microsoft.com/en-us/microsoftteams/upgrade-start-here) (Self-Paced) (45 Minutes)
 * [Use log files in troubleshooting Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/log-files) (Self-Paced) (10 Minutes)

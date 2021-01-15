@@ -1,4 +1,5 @@
 # Learning Plan Resources for Adoption & Change Management
+
 Below you will find content to assist in upskilling on Adoption and Change Management for M365. Content is broken down as follows:
 
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
