@@ -43,7 +43,7 @@ _**Note:** An on-demand video version will be available shortly_
 
 * [Dynamics 365 Customer Insights in Under 5](https://aka.ms/CIUnder5)
 * [Dynamics 365 Partner Content](https://aka.ms/CIPartner)
-* [Dynamics 365 Customer Insights Documentation](https://docs.microsoft.com/en-us/dynamics365/customer-insights/)
+* [Audience insights documentation](https://docs.microsoft.com/en-us/dynamics365/customer-insights/audience-insights/)
 * [Dynamics 365 Customer Insights Community Forum](https://aka.ms/CIForums)
 * [Dynamics 365 Customer Insights Blog](https://aka.ms/CIBlog)
 
