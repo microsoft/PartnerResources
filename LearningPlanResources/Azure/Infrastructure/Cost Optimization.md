@@ -10,7 +10,7 @@
 
 ## Associate
 
-* [Predict Costs and Optimize for Spending on Azure](https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/) (Self-Paced) (90 Minutes)
+* [Plan and manage your Azure costs](https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/) (Self-Paced) (43 Minutes)
 * [Control Azure spending and manage bills with Azure Cost Management and billing](https://docs.microsoft.com/en-us/learn/paths/control-spending-manage-bills/) (Self-Paced) (3 Hours)
 * [Design for efficiency and operations in Azure](https://docs.microsoft.com/en-us/learn/modules/design-for-efficiency-and-operations-in-azure/) (45 Minutes)
 * [Get Started with Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-get-started) (Self-Paced) (5 Minutes)
