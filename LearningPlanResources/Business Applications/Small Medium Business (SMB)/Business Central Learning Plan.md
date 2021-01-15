@@ -56,6 +56,8 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 ## Certifications
 
 * [Exam MB-800: Business Central Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800) (Self-Paced) (2 Hours)
+* [ITExams: Free MB-800 Online Exam Review](https://www.itexams.com/exam/MB-800) (Self-Paced) (2 Hours)
+
 
 ## Community Resources 
 
