@@ -21,3 +21,7 @@
 ## Certifications
 
 * [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) (Self-Paced) (4 Hours)
+
+## Migration
+
+ * [Oracle to Azure Database for Postgres Migration Guide](https://github.com/microsoft/OrcasNinjaTeam/tree/master/Oracle%20to%20PostgreSQL%20Migration%20Guide) (Self-Paced) (5 Hours)
