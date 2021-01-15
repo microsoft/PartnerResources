@@ -32,3 +32,10 @@
 * [AZ 400: Microsoft Azure DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400) (In-person Instructor Led) (2 Hours)
 * [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) (Self-Paced) (4 Hours)
 * [Microsoft Certified: Azure DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-devops) (In-person Instructor Led) (2 Hours)
+
+## Azure DevOps
+
+* [Evolve Your DevOps Practices](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) (Self-Paced) (2 Hours)
+* [Build Applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/build-applications-with-azure-devops/) (Self-Paced) (7 Hours)
+* [Deploy Applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/) (Self-Paced) (9 Hours)
+* [Automate Your Deployments with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/automate-deployments-azure-devops/) (Self-Paced) (4 Hours)
