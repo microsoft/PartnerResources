@@ -21,7 +21,6 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Get started using Common Data Service](https://docs.microsoft.com/en-us/learn/paths/get-started-cds/) (Self-Paced) (4 Hours)
 * [Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/) (Self-Paced) (3 Hours)
 * [Microsoft Power Platform: Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources) (Self-Paced)
-* Note: Dataverse For Teams Learning Plan:
 * [Dataverse for Teams](PartnerResources/DataverseForTeams at main · microsoft/PartnerResources (github.com)) (Self-Paced)
 
 ## Associate
