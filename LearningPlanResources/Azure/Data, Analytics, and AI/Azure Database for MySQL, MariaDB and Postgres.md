@@ -1,4 +1,4 @@
-# Learning Plan Resources for OSS DB to Azure
+# Learning Plan Resources for Azure Database for MySQL, MariaDB, and Postgres
 
 ## Fundamentals
 
