@@ -1,6 +1,7 @@
 # Content Guidelines
 
-Wondering what kind of content is suitable?  Here are some guidelines.
+## Suitable content
+Here are some guidelines for suitable content:
 
 * All content must be public facing 
 * No NDA or confidential content
@@ -11,6 +12,7 @@ Wondering what kind of content is suitable?  Here are some guidelines.
 * All content should have approval from the author to post
 * Links to paid content is acceptable if appropriate and clearly marked (for example, coursework from Pluralsight and the like).
 
+## Types of content
 These are some examples of the types of content we're looking for:
 
 | Type | What We're Looking For |
