@@ -6,6 +6,8 @@
 * [Cosmos DB Migration Options](https://docs.microsoft.com/en-us/azure/cosmos-db/cosmosdb-migrationchoices) (Self-Paced) (1 Hour)
 * [Introduction to Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction) (Self-Paced) (1 Hour)
 * [What's the latest with Azure Cosmos DB](https://myignite.techcommunity.microsoft.com/sessions/81004?source=sessions) (Self-Paced) (1 Hour)
+* [SQL query demo](https://www.documentdb.com/sql/demo) (Self-Paced) (1 Hour)
+* [CosmosDB Capacity (RU) Planner](https://cosmos.azure.com/capacitycalculator/) (Self-Paced) (0.5 Hour)
 
 ## Associate
 
