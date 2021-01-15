@@ -30,7 +30,7 @@ Content is broken down as follows:
 * [Cloud to Cloud Migration](/LearningPlanResources/Azure/Infrastructure/Cloud%20to%20Cloud%20Migration.md)
 * [Linux Server Migration](/LearningPlanResources/Azure/Infrastructure/Linux%20Server%20Migration.md)
 * [Mainframe Migration](/LearningPlanResources/Azure/Infrastructure/Mainframe%20Migration.md)
-* [VMWare Migration](/LearningPlanResources/Azure/Infrastructure/VMWare%20Migration.md)
+* [VMware Migration](/LearningPlanResources/Azure/Infrastructure/VMware%20Migration.md)
 * [Windows Server Migration](/LearningPlanResources/Azure/Infrastructure/Windows%20Server%20Migration.md)
 * [RDS on IaaS](/LearningPlanResources/Azure/Infrastructure/RDS%20on%20IaaS.md)
 * [RDS on WVD](/LearningPlanResources/Azure/Infrastructure/RDS%20on%20WVD.md)
