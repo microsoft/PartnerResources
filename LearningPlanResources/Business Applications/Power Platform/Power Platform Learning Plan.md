@@ -1,5 +1,19 @@
 # Learning Plan Resources for Power Platform Learning Plan
 
+Below you will find content to assist in upskilling on Microsoft Power Platform. Content is broken down as follows:
+
+* Fundamentals, Associate, Expert, Specialist: content categorized in increase levels of complexity
+* Certifications: relevant Microsoft exams or certifications
+* Resources: roadmap, whitepapers, blogs, etc.
+* Community resources: user groups, events, blogs
+
+Additionally, some content may be mared with one or more icons:
+
+* '$' to indicate paid content
+* '3rd Party' to indicate 3rd party content (not created by Microsoft)
+
+TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
+
 ## Fundamentals
 
 * [Course MB-901T00-A: Microsoft Dynamics 365 Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-901t00) (In-person Instructor Led) (2 Days)
