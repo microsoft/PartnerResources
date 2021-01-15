@@ -18,6 +18,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 ## Fundamentals
 
 * [Overview of engagement insights](https://docs.microsoft.com/en-us/dynamics365/customer-insights/engagement-insights/overview)
+* [Geting Started](https://docs.microsoft.com/en-us/dynamics365/customer-insights/engagement-insights/get-started)
 
 
 ## Associate
@@ -39,7 +40,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 * [Dynamics 365 Customer Insights in Under 5](https://aka.ms/CIUnder5)
 * [Dynamics 365 Partner Content](https://aka.ms/CIPartner)
-* [Dynamics 365 Customer Insights Documentation](https://docs.microsoft.com/en-us/dynamics365/customer-insights/)
+* [Engagement insights documentation](https://docs.microsoft.com/en-us/dynamics365/customer-insights/engagement-insights/)
 * [Dynamics 365 Customer Insights Community Forum](https://aka.ms/CIForums)
 * [Dynamics 365 Customer Insights Blog](https://aka.ms/CIBlog)
 
