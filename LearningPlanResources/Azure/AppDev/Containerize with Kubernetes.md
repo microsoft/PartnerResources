@@ -2,7 +2,7 @@
 
 ## Fundamentals
 
-* [Katakoda: Kubernetes Introduction](https://www.katacoda.com/) (Self-Paced)
+* [Katacoda: Kubernetes Introduction](https://www.katacoda.com/) (Self-Paced)
 * [Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) (Self-Paced) (10 Hours)
 * [Microsoft Azure Fundamentals](https://www.microsoft.com/learning/course.aspx?cid=AZ-900T01) (In-person Instructor Led) (1 Day)
 * [Phippy Goes to the Zoo](https://azure.microsoft.com/mediahandler/files/resourcefiles/phippy-goes-to-the-zoo/Phippy%20Goes%20To%20The%20Zoo_MSFTonline.pdf) (Self-Paced) (6 Minutes)
@@ -25,7 +25,6 @@
 * [Architect network infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/) (Self-Paced) (8 Hours)
 * [Architect storage infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/) (Self-Paced) (5 Hours)
 * [Azure Kubernetes Workshop: Container Apps](http://aksworkshop.io/) (Self-Paced)
-* [Azure Kubernetes Workshop: DevOps](https://devsecops.aksworkshop.io/) (Self-Paced)
 * [eBook: Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) (Self-Paced)
 * [Exam AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Exam AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
@@ -38,7 +37,7 @@
 
 ## Events
 
-* [KubeCon: North America](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) (Self-Paced)
+* [KubeCon](https://www.cncf.io/kubecon-cloudnativecon-events/) (Self-Paced)
 
 ## Certifications
 

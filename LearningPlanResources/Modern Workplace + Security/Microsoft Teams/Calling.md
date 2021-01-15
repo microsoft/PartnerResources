@@ -35,13 +35,13 @@ Additionally, some content may be marked with one or more icons:
 * [TMS30: Designing your path from Skype for Business to Teams](https://myignite.techcommunity.microsoft.com/sessions/81820?source=sessions) (Self-Paced) (45 Minutes)
 * [VCE10: Calling in Microsoft Teams](https://myignite.techcommunity.microsoft.com/sessions/83170?source=sessions) (Self-Paced) (45 Minutes)
 
-## Expert
 
-* [VCE20: Updates for Direct Routing](https://myignite.techcommunity.microsoft.com/sessions/83178?source=sessions) (Self-Paced) (45 Minutes)
-* [VCE30: Managing your Microsoft Voice Environment](https://myignite.techcommunity.microsoft.com/sessions/83183?source=sessions) (Self-Paced) (45 Minutes)
-* [VCE40: Compliance Recording and Microsoft Teams](https://myignite.techcommunity.microsoft.com/sessions/83184?source=sessions) (Self-Paced) (45 Minutes)
-* [VCE50: Contact centers and Microsoft Teams](https://myignite.techcommunity.microsoft.com/sessions/83186?source=sessions) (Self-Paced) (45 Minutes)
-* [MTG40: Microsoft Teams meetings for Skype for Business Server](https://myignite.techcommunity.microsoft.com/sessions/83195?source=sessions) (Self-Paced) (45 Minutes)
-* [THR3002: Bring your own phone numbers to Microsoft Teams](https://myignite.techcommunity.microsoft.com/sessions/79455?source=sessions) (Self-Paced) (20 Minutes)
-* [BRK3204: Troubleshooting Microsoft Teams](https://myignite.techcommunity.microsoft.com/sessions/83474?source=sessions) (Self-Paced) (45 Minutes)
-* [BRK3232: Plan and implement a successful upgrade from Skype for Business to Microsoft Teams](https://myignite.techcommunity.microsoft.com/sessions/83757?source=sessions) (Self-Paced) (75 Minutes)
+
+
+
+
+
+
+
+
+

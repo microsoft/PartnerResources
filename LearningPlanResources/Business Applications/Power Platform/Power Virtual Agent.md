@@ -21,9 +21,11 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Create a Power Virtual Agents Trial Account](https://docs.microsoft.com/en-us/power-virtual-agents/sign-up-individual) (Self-Paced) (1 Minute)
 * [Bookmark Power Virtual Agents Documentation](https://docs.microsoft.com/en-us/power-virtual-agents/) (Self-Paced) (1 Minute)
 * [Subscribe to the Power Virtual Agents YouTube channel](https://www.youtube.com/channel/UCn8PsBlVsGUt8J3tZCKsMPA) (Self-Paced) (1 Minute)
+* [Review Power Virtual Agents licensing model](https://docs.microsoft.com/en-us/power-virtual-agents/requirements-licensing-subscriptions) (Self-Paced) (1 Minute)
 
 ## Associate
 * [Create Bots with Power Virtual Agents (MS Learn)](https://docs.microsoft.com/en-us/learn/paths/work-power-virtual-agents/) (Self-Paced) (2 Hours)
+* [Power Virtual Agents app in Microsoft Teams](https://docs.microsoft.com/en-us/power-virtual-agents/teams/fundamentals-what-is-power-virtual-agents-teams/) (Self-Paced) (3 Minutes)
 
 ## Expert
 
@@ -34,8 +36,9 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * No Certification Exist at This Time
 
 ## Community Resources
+* [Join the discussion with the Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity) (Self-Paced) (1 Minute)
+* [Suggest an idea to the Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Ideas/idb-p/pva_ideas) (Self-Paced) (1 Minute)
 
-* Coming Soon
 
 ## Practice Maturity Model
 

@@ -1,6 +1,6 @@
 # Learning Plan Resources for Dynamics 365 Marketing
 
-Dynamics 365 Marketing is a Microsoft business application provding marketing-automation that helps turn prospects into business relationships.  The app is easy to use, works seamlessly with Dynamics 365 Sales, and has built-in business intelligence.
+Dynamics 365 Marketing is a Microsoft business application providing marketing-automation that helps turn prospects into business relationships.  The app is easy to use, works seamlessly with Dynamics 365 Sales, and has built-in business intelligence.
 
 Below you will find content to assist in upskilling on Dynamics 365 Marketing. Content is broken down as follows:
 
