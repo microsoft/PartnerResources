@@ -11,6 +11,7 @@
 * [Windows Virtual Desktop roadmap features](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=Windows%20Virtual%20Desktop)
 * [Windows Virtual Desktop partner integrations](https://docs.microsoft.com/en-us/azure/virtual-desktop/partners)
 * [Tech Community blogs](https://techcommunity.microsoft.com/t5/windows-virtual-desktop/bd-p/WindowsVirtualDesktop)
+* [Azure Immersion Workshop: Windows Virtual Desktop](https://partner.microsoft.com/en-US/asset/collection/azure-immersion-workshop-windows-virtual-desktop#/)
 
 ## Advanced concepts
 
