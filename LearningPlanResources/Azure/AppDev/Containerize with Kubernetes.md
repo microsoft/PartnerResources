@@ -26,15 +26,11 @@
 * [Architect storage infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/) (Self-Paced) (5 Hours)
 * [Azure Kubernetes Workshop: Container Apps](http://aksworkshop.io/) (Self-Paced)
 * [Azure Kubernetes Workshop: DevOps](https://devsecops.aksworkshop.io/) (Self-Paced)
-* [Creating and Deploying Apps](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T04) (In-person Instructor Led) (1 Day)
-* [Deploying and Configuring Infrastructure](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T01) (In-person Instructor Led) (1 Day)
 * [eBook: Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) (Self-Paced)
 * [Exam AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Exam AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
-* [Implementing Workloads and Security](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T02) (In-person Instructor Led) (1 Day)
 * [Learning Path: 50 days from zero to hero with Kubernetes](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path_Version%202.0.pdf) (Self-Paced) (50 Days)
 * [Microservices architecture on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/microservices/aks) (Self-Paced) (17 Minutes)
-* [Understanding Cloud Architect Technology Solutions](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T03) (In-person Instructor Led) (1 Day)
 
 ## Community Resources
 
