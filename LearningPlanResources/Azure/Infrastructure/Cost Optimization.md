@@ -7,6 +7,7 @@
 * [Understand and work with Scopes](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/understand-work-scopes) (Self-Paced) (5 Minutes)
 * [Understand Cost Management Data](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/understand-cost-mgt-data) (Self-Paced) (10 Minutes)
 * [What is Cost Management and Billing?](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview) (Self-Paced) (8 Minutes)
+* [Azure Cost Management demo videos: a collection of ACM videos published by Microsoft Azure to the Azure Cost Management YouTube channel](https://aka.ms/costmgmt/videos) (Self-Paced)(various)
 
 ## Associate
 
