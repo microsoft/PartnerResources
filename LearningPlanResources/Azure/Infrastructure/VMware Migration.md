@@ -1,4 +1,4 @@
-# Learning Plan Resources for VMWare Migration
+# Learning Plan Resources for VMware Migration
 
 ## Fundamentals
 
@@ -10,7 +10,7 @@
 ## Associate
 
 * [Learning Path: Secure your cloud data](https://docs.microsoft.com/en-us/learn/paths/secure-your-cloud-data/) (Self-Paced) (6 Hours)
-* [Manage resources in AzureManage resources in Azure](https://docs.microsoft.com/en-us/learn/paths/manage-resources-in-azure/) (Self-Paced) (4 Hours)
+* [Manage resources in Azure](https://docs.microsoft.com/en-us/learn/paths/manage-resources-in-azure/) (Self-Paced) (4 Hours)
 * [Assess VMware VMs by using Azure Migrate Server Assessment](https://docs.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware) (Self-Paced) (15 Minutes)
 * [Assessing on-premises VMware environments with Azure Migrate](https://www.microsoft.com/handsonlabs/selfpacedlabs/details/SP-AZ100085) (Self-Paced) (1 Hour)
 * [Exam AZ-103: Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/exams/az-103) (Self-Paced)
