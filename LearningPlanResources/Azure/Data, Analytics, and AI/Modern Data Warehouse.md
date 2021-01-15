@@ -35,7 +35,7 @@ Additionally, some content may be marked with one or more icons:
 * [AWS to Azure Services Comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 ) (Microsoft Docs)
   * Reference guide for alternative Cloud platforms
-* [Azure Partner Tech Talks - Modern Data Warehouse](http://aka.ms/azurepartnerstechtalks) (Webinar)
+* [Azure Partner Tech Talks - Modern Data Warehouse](https://aka.ms/azurepartnerstechtalks) (Webinar)
   * Specifically, the Modern Data Warehouse presentation from April 23, 2020
 
 ## Associate

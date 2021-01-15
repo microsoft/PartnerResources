@@ -32,7 +32,7 @@
 * [eBook: Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) (Self-Paced)
 * [Exam AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Exam AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
-* [Azure Kubernetes Workshop: Container Apps](http://aksworkshop.io/) (Self-Paced)
+* [Azure Kubernetes Workshop: Container Apps](https://aksworkshop.io/) (Self-Paced)
 * [Azure Kubernetes Workshop: DevOps](https://devsecops.aksworkshop.io/) (Self-Paced)
 * [Book: Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) (Self-Paced)
 * [Book: Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.amazon.com/Kubernetes-Patterns-Designing-Cloud-Native-Applications/dp/1492050288) (Self-Paced)
