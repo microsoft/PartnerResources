@@ -77,6 +77,8 @@ Content is broken down as follows:
 * [Power BI](/LearningPlanResources/Business%20Applications/Power%20Platform/Modern%20Analytics.md)
 * [Power Apps](/LearningPlanResources/Business%20Applications/Power%20Platform/App%20Modernization.md)
 * [Power Platform Learning Plan](/LearningPlanResources/Business%20Applications/Power%20Platform/Power%20Platform%20Learning%20Plan.md)
+* [Customer Data Platform - Audience insights](/LearningPlanResources/Business%20Applications/Customer%20Data%20Platform/Audience%20Insights.md)
+* [Customer Data Platform - Engagement insights](/LearningPlanResources/Business%20Applications/Customer%20Data%20Platform/Engagement%20Insights.md)
 
 ### Finance & Operations
 
@@ -108,3 +110,4 @@ Content is broken down as follows:
 * [Meetings & Meeting Rooms](/LearningPlanResources/Modern%20Workplace/Microsoft%20Teams/Meetings%20&%20Meeting%20Rooms.md)
 * [Teams Custom Solution Development for Developers](/LearningPlanResources/Modern%20Workplace/Microsoft%20Teams/Teams%20Custom%20Solution%20Development%20for%20Developers.md)
 * [Teams Deployment](/LearningPlanResources/Modern%20Workplace/Microsoft%20Teams/Teams%20Deployment.md)
+
