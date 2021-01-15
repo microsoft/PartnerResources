@@ -2,6 +2,10 @@
 
 Windows Virtual Desktop on Microsoft Azure is a desktop and app virtualization service that runs on the cloud. Windows Virtual Desktop works across devices – including Windows, Mac, iOS, and Android – with full-featured apps that you can use to access remote desktops and apps.
 
+## Keeping Up
+
+* Follow [Michel Roth](https://twitter.com/michelroth), [Marcel Meurer](https://twitter.com/MarcelMeurer), [Tom Hickling](https://twitter.com/tomhickling) and [Christiaan Brinkhoff](https://twitter.com/Brinkhoff_C) on Twitter
+
 ## Fundamentals
 
 * [EXAM AZ-900: Microsoft Azure Fundamentals:](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
