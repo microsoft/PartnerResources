@@ -38,3 +38,8 @@ Conversational AI Attach Play What The Hack - Coming Soon - Feb 2021
 * [How can we connect a database using Bot Composer](https://docs.microsoft.com/en-us/composer/how-to-add-custom-action) (20 minutes)
 * [How to perform Unit Testing within Bot Composer](https://docs.microsoft.com/en-us/azure/bot-service/unit-test-bots?view=azure-bot-service-4.0&tabs=csharp)
 * [How can we extend the Bot Composer Development with custom code](https://docs.microsoft.com/en-us/composer/concept-plugin)
+
+## Community
+* [Conversational AI 101- Types of Bot](https://www.youtube.com/watch?v=CZ5vm3Eegzw) (Self-Paced) (6 Minutes)
+* [Key Concepts - Adaptive Card, OAuth, Bot Specifics](https://www.youtube.com/watch?v=dxhVYnYBUyc) (Self-Paced) (15 Minutes)
+* [Key Concepts - QnA & LUIS](https://www.youtube.com/watch?v=nxSAjcZtLto&t=35s) (Self-Paced) (15 Minutes)
