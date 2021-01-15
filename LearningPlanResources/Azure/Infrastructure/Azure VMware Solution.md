@@ -8,6 +8,9 @@
 * [AVS Deployment Checklist:](https://docs.microsoft.com/en-us/azure/azure-vmware/production-ready-deployment-steps) (Self-Paced)
 * [Azure Migrate Assessment for AVS:](https://docs.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmware-solution-assessment) (Self-Paced)
 * [Enable AVS](https://docs.microsoft.com/en-us/azure/azure-vmware/enable-azure-vmware-solution)
+* [What's new for Azure VMware solution to accelerate cloud migration:](https://www.youtube.com/watch?v=k0UaEqgTPdo&t=733s) (Self-Paced Video) (35 Minutes)
+* [Azure VMware Solution - End to End Networking:](https://www.youtube.com/watch?v=6_LYsYicacs) (Self-Paced Video) (20 Minutes)
+* [Azure VMware solution for business continuity and disaster recovery:](https://www.youtube.com/watch?v=rhTgVqR4pps) (Self-Paced Video) (15 Minutes)
 
 ## Associate
 
