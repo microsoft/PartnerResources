@@ -15,4 +15,5 @@
 
 ## Community
 * [Azure Active Directory Identity Blog](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)
+* [Azure AD on YouTube](http://aka.ms/identityyoutube)
 
