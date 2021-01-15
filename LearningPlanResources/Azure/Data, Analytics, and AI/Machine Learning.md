@@ -28,3 +28,13 @@
 * [Azure Notebooks with Data Science VMs](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/12/10/microsoft-azure-notebooks-and-additional-compute-capacity-via-connecting-to-data-science-vms/) (Self-Paced)
 * [Build a Web App with Refreshable Machine Learning Models](https://docs.microsoft.com/en-us/learn/modules/create-web-app-with-refreshable-models/) (Self-Paced) (82 Minutes)
 * [Azure Machine Learning Service: Training within Notebook](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/training/train-within-notebook) (Self-Paced) (2 Hours)
+
+
+## Certifications
+DP-100 applies your knowledge of data science and machine learning to implement and run machine learning workloads on Azure; in particular, using Azure Machine Learning Service. This is the most Machine Learning heavy certification. 
+* https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100
+
+You may also consider taking AI-100 to skill up on cognitive services, machine learning, and knowledge mining or DP-200 and DP-201 to skill up on the data engineering portion of a machine learning project. 
+* https://docs.microsoft.com/en-us/learn/certifications/exams/ai-100
+* https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200
+* https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201
