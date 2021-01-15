@@ -17,10 +17,6 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Fundamentals
 
-* [The Customer Data Platform Advantage: How CDP Compares to CRM and DMP - eBook](https://go.microsoft.com/fwlink/?LinkId=2141596&clcid=0x409)
-* [Why CDP Matters in B2B: Consumer Experiences Are Shaping B2B Expectations - eBook](https://go.microsoft.com/fwlink/?LinkId=2142003&clcid=0x409)
-* [CDP Institute: Use CDPs to Lay a Foundation for Connected Customer Experiences - Webinar](https://info.microsoft.com/ww-landing-Use-CDPs-to-Lay-a-Foundation-for-Connected-Customer-Experiences.html)
-
 * [Overview of engagement insights](https://docs.microsoft.com/en-us/dynamics365/customer-insights/engagement-insights/overview)
 
 
