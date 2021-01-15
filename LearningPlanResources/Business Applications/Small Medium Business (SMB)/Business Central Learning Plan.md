@@ -45,6 +45,10 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Developer Learning Catalog for Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/readiness/readiness-learning-developers) (Self-Paced) (17 Minutes)
 * [Extending Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/about-develop-extensions) (Self-Paced) (3 Minutes)
 
+## Certifications
+
+* [Exam MB-800: Business Central Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800) (Self-Paced) (2 Hours)
+
 ## Community Resources 
 
 Navigation tip - to open each link, right-click on the URL | open in new tab
