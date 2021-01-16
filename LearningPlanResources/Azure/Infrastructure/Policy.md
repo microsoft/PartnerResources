@@ -12,8 +12,20 @@ This Learning Plan focuses on Azure Policy
 
 ## Associate
 
-* [coming soon]
-    
+# Examples
+  
+End-to-End examples for deploying Azure Policies
+* [QuickStart - Deploy and manage NSG Flow Logs using Azure Policy - Azure Network Watcher | Microsoft Docs](https://docs.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-policy-portal)
+* [Enable Azure Monitor for VMs by using Azure Policy - Azure Monitor | Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/vminsights-enable-policy)
+* [Use Azure Policy to implement governance and controls for Azure Cosmos DB resources | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cosmos-db/policy)
+
+# Tools
+* [Azure Policy extension for Visual Studio Code](https://docs.microsoft.com/en-us/azure/governance/policy/how-to/extension-for-vscode)
+* [Azure Resource Explorer](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/view-resources#use-resource-explorer)
+
 ## Expert
 
-* [coming soon]
+* [Policy as Code](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/policy-as-code)
+* [Export Azure Policy resources](https://docs.microsoft.com/en-us/azure/governance/policy/how-to/export-resources)
+
+> *Policy Set* is same as *Policy Initiative* 
