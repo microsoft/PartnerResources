@@ -109,6 +109,9 @@ Although DP-200 and DP-201 are similar, DP-200 focuses more on the "How?" soluti
 
 Both of these exams are required for the [Microsoft Certified: Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer?wt.mc_id=learningredirect_certs-web-wwl) certification.
 
+* [Exam DP-203: Data Engineering on Microsoft Azure (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
+ * Exams DP-200 and DP-201 will be replaced with exam DP-203 on February 23, 2021.
+
 ## Community
 
 * [Power BI User Group](https://www.pbiusergroup.com/home)
