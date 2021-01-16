@@ -16,6 +16,34 @@ Content is broken down as follows:
 * Certifications: relevant Microsoft exams or certifications
 * Community resources: user groups, events, blogs
 
+## What Types of Resources do Learning Plans Include?
+
+Learning plans include free, paid, first-party, and 3rd-party content.  Microsoft resources found in learning plans commonly include:
+
+**Azure Architecture Center**
+
+The Azure Architecture Center is organized as a series of steps, from the architecture and design to implementation. Each step includes supporting guidance that will help with the design of your architecture.  These reference architectures help with understanding both the components involved in a given stack/solution as well as the interaction between the components.
+
+**Microsoft Conferences**
+
+Microsoft hosts three major conferences each year: Build, Inspire, and Ignite.  Build is aimed at software engineers and web developers using Windows, Microsoft Azure and other Microsoft technologies.  Microsoft Inspire is Microsoft's largest and most comprehensive partner networking event year after year, allowing partners from around the world to learn about Microsoft's roadmap for the upcoming year, create connections, empower possibilities, and celebrate success.  Microsoft Ignite is aimed at developers and IT professionals and consists of presentation and whiteboard sessions and hands-on labs.
+
+**Microsoft Docs**
+
+Microsoft Docs is the library of technical documentation for end users, developers, and IT professionals who work with Microsoft products. The Microsoft Docs website provides technical specifications, conceptual articles, tutorials, guides, API references, code samples and other information related to Microsoft software and web services.
+
+**Microsoft Learn**
+
+Microsoft Learn is Microsoft's free, online training platform that provides interactive learning for Microsoft products and more.  Microsoft Learn is Microsoft's go-forward learning platform.  Microsoft product groups contribute contribute content to Microsoft Learn covering existing and future products and services.  The list of training courses and modules is extensive.  For hands-on learnings, some Azure learning paths and modules include Exercises.  These Exercises automatically provision an Azure portal for the learner allowing them to learn hands-on without cost or the need to create an Azure account.
+
+**Virtual Training Series**
+
+Virtual Training Series events focuses on enabling our partners at scale on specific technologies or certification paths via instructor-delivered presentations.  This content is available both live and on-demand.  For live sessions, the pre-recorded content is paired with a live instructor to answer any questions from the audience.
+
+**What the Hack**
+
+"What the Hack" is a set of challenge-based hackathons.  When delivered by our architects, attendees work in squads of 3 to 5 people to solve a series of technical challenges for a given technology or solution scenario. Challenges describe high-level tasks and goals to be accomplished. Challenges are not step-by-step labs.  Without step-by-step instructions given for the challenges, attendees have to "figure it out" together as a team. This results in greater knowledge retention for the attendees.  
+
 ## Azure
 
 ### Infrastructure
@@ -43,7 +71,7 @@ Content is broken down as follows:
 * [AI Apps & Agents](/LearningPlanResources/Azure/Data,%20Analytics,%20and%20AI/AI%20Apps%20&%20Agents.md)
 * [Knowledge Mining](/LearningPlanResources/Azure/Data,%20Analytics,%20and%20AI/Knowledge%20Mining.md)
 * [Cosmos DB](/LearningPlanResources/Azure/Data,%20Analytics,%20and%20AI/Cosmos%20DB.md)
-* [OSS DB to Azure](/LearningPlanResources/Azure/Data,%20Analytics,%20and%20AI/OSS%20DB%20to%20Azure.md)
+* [Azure Database for MySQL, MariaDB and Postgres Migrations](/LearningPlanResources/Azure/Data,%20Analytics,%20and%20AI/OSS%20DB%20to%20Azure.md)
 * [SQL Server Migration to Azure](/LearningPlanResources/Azure/Data,%20Analytics,%20and%20AI/SQL%20Server%20Migration%20to%20Azure.md)
 
 ### AppDev

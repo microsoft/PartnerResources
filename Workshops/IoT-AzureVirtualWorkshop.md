@@ -63,7 +63,7 @@ Help customers explore the current and future benefits of using IoT solutions in
 
 * [Azure Signals Report](https://azure.microsoft.com/en-us/blog/iot-signals-research-edition-2-global-insights-for-2020-and-beyond)
 * [Learn about Azure Immersion Workshops](https://aka.ms/OCP-ImmersionWorkshops)
-* [Microsoft Accessibility Standards](http://aka.ms/eventsaccessibility)
+* [Microsoft Accessibility Standards](https://aka.ms/eventsaccessibility)
 
 ## Questions?
 

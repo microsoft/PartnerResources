@@ -11,6 +11,7 @@
 * [Windows Virtual Desktop roadmap features](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=Windows%20Virtual%20Desktop)
 * [Windows Virtual Desktop partner integrations](https://docs.microsoft.com/en-us/azure/virtual-desktop/partners)
 * [Tech Community blogs](https://techcommunity.microsoft.com/t5/windows-virtual-desktop/bd-p/WindowsVirtualDesktop)
+* [Azure Immersion Workshop: Windows Virtual Desktop](https://partner.microsoft.com/en-US/asset/collection/azure-immersion-workshop-windows-virtual-desktop#/)
 
 ## Advanced concepts
 
@@ -64,3 +65,7 @@
 * [MSIX app attach](https://docs.microsoft.com/en-us/azure/virtual-desktop/what-is-app-attach)
 * [UDP Shortpath](https://docs.microsoft.com/en-us/azure/virtual-desktop/shortpath)
 * [Implementing QoS for Windows Virtual Desktop](https://docs.microsoft.com/en-us/azure/virtual-desktop/rdp-quality-of-service-qos)
+
+## Keeping Up
+
+* Follow [Michel Roth](https://twitter.com/michelroth), [Marcel Meurer](https://twitter.com/MarcelMeurer), [Tom Hickling](https://twitter.com/tomhickling) and [Christiaan Brinkhoff](https://twitter.com/Brinkhoff_C) on Twitter

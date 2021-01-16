@@ -28,7 +28,7 @@ Additionally, some content may be marked with one or more icons:
 
 { Add fundamental/beginner/high level items here; generally applicable to all audiences }
 
-* [Example Microsoft Home Page Link](http://www.microsoft.com)
+* [Example Microsoft Home Page Link](https://www.microsoft.com)
     * This is description of the content
 
 ## Associate

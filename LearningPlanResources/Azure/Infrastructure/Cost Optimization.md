@@ -7,10 +7,11 @@
 * [Understand and work with Scopes](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/understand-work-scopes) (Self-Paced) (5 Minutes)
 * [Understand Cost Management Data](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/understand-cost-mgt-data) (Self-Paced) (10 Minutes)
 * [What is Cost Management and Billing?](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview) (Self-Paced) (8 Minutes)
+* [Azure Cost Management demo videos: a collection of ACM videos published by Microsoft Azure to the Azure Cost Management YouTube channel](https://aka.ms/costmgmt/videos) (Self-Paced)(various)
 
 ## Associate
 
-* [Predict Costs and Optimize for Spending on Azure](https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/) (Self-Paced) (90 Minutes)
+* [Plan and manage your Azure costs](https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/) (Self-Paced) (43 Minutes)
 * [Control Azure spending and manage bills with Azure Cost Management and billing](https://docs.microsoft.com/en-us/learn/paths/control-spending-manage-bills/) (Self-Paced) (3 Hours)
 * [Design for efficiency and operations in Azure](https://docs.microsoft.com/en-us/learn/modules/design-for-efficiency-and-operations-in-azure/) (45 Minutes)
 * [Get Started with Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-get-started) (Self-Paced) (5 Minutes)

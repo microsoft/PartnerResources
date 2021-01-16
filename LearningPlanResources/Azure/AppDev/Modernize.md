@@ -1,4 +1,4 @@
-# Learning Plan Resources for Modernize_New .NET Applications
+# Learning Plan Resources for Modernizing Applications with Azure
 
 ## Fundamentals
 
@@ -6,28 +6,24 @@
 * [Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) (Self-Paced) (10 Hours)
 * [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/) (Self-Paced)
 * [Microsoft Azure Fundamentals](https://www.microsoft.com/learning/course.aspx?cid=AZ-900T01) (In-person Instructor Led) (1 Day)
+* [Manage resources in Azure](https://docs.microsoft.com/en-us/learn/paths/manage-resources-in-azure/) (Self-Paced) (4 Hours)
+* [Create a Linux virtual machine in Azure](https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/) (Self-Paced) (2 Hours)
 
 ## Associate
 
 * [Exam AZ-204: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
-* [Work with NoSQL data in Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/) (Self-Paced) (6 Hours)
-* [Work with relational data in Azure](https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/) (Self-Paced) (4 Hours)
-* [Monitor, troubleshoot, and optimize Azure solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t05) (In-person Instructor Led) (1 Day)
-* [Perform data engineering with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks/) (Self-Paced) (8 Hours)
-* [Store data in Azure](https://docs.microsoft.com/en-us/learn/paths/store-data-in-azure/) (Self-Paced) (4 Hours)
-* [Manage resources in AzureManage resources in Azure](https://docs.microsoft.com/en-us/learn/paths/manage-resources-in-azure/) (Self-Paced) (4 Hours)
-* [Introduction to machine learning with Python and Azure Notebooks](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/) (Self-Paced) (2 Hours)
-* [Extract knowledge and insights from your data with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-science/) (Self-Paced) (4 Hours)
-* [Implement Azure security](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t04) (In-person Instructor Led) (1 Day)
-* [Develop Azure Infrastructure as a Service compute solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t01) (In-person Instructor Led) (1 Day)
-* [Develop Azure Platform as a Service compute solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t02) (In-person Instructor Led) (1 Day)
-* [Develop for Azure storage](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t03) (In-person Instructor Led) (1 Day)
-* [Architect migration; business continuity; and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/) (Self-Paced) (7 Hours)
-* [Connect to and consume Azure and third-party services](https://docs.microsoft.com/en-us/learn/certifications/courses/az-203t06) (In-person Instructor Led) (1 Day)
-* [Connect your services together](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/) (Self-Paced) (3 Hours)
 * [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/) (Self-Paced) (50 Minutes)
 * [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/) (Self-Paced) (5 Hours)
 * [Deploy a website with Azure virtual machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/) (Self-Paced) (4 Hours)
+* [Connect your services together](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/) (Self-Paced) (3 Hours)
+* [Work with NoSQL data in Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/) (Self-Paced) (6 Hours)
+* [Work with relational data in Azure](https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/) (Self-Paced) (4 Hours)
+* [Perform data engineering with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks/) (Self-Paced) (8 Hours)
+* [Store data in Azure](https://docs.microsoft.com/en-us/learn/paths/store-data-in-azure/) (Self-Paced) (4 Hours)
+* [Introduction to machine learning with Python and Azure Notebooks](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/) (Self-Paced) (2 Hours)
+* [Extract knowledge and insights from your data with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-science/) (Self-Paced) (4 Hours)
+* [Architect migration; business continuity; and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/) (Self-Paced) (7 Hours)
+* [Get started with the Windows Subsystem for Linux](https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/) (Self-Paced) (2 Hours)
 
 ## Expert
 
@@ -48,9 +44,9 @@
 * [Architect great solutions in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-great-solutions-in-azure/) (Self-Paced) (5 Hours)
 * [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/) (Self-Paced) (4 Hours)
 * [Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/) (Self-Paced) (5 Hours)
-* [Developing for the Cloud](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T06) (In-person Instructor Led) (1 Day)
-* [Implementing Workloads and Security](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T02) (In-person Instructor Led) (1 Day)
-* [Understanding Cloud Architect Technology Solutions](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T03) (In-person Instructor Led) (1 Day)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) (Self-Paced)
+* [eBook: Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) (Self-Paced)
+* [Book: Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) (Self-Paced)
 
 ## Community Resources
 
@@ -66,4 +62,4 @@
 * [Exam AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer) (Self-Paced)
 * [Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect) (Self-Paced)
-* [AZ-204 Study Gide: Developing Solutions for Microsoft Azure (Thomas Maurer)](https://www.thomasmaurer.ch/2020/03/az-204-study-guide-developing-solutions-for-microsoft-azure/)
+* [AZ-204 Study Gide: Developing Solutions for Microsoft Azure (Thomas Maurer)](https://www.thomasmaurer.ch/2020/03/az-204-study-guide-developing-solutions-for-microsoft-azure/) (Self-Paced)

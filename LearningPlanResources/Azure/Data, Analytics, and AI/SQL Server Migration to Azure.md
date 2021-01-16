@@ -34,10 +34,7 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 * [PaaS vs IaaS - Navigating the Decision Tree](https://channel9.msdn.com/Series/SAIIK-SQL-Server-on-Azure-IaaS-Implementation-Kit/SAIIK-PaaS-vs-IaaS) (Video)
   * Presentation that contrasts Azure SQL DB and SQL in VMs.
   * Information is dated as it does not include Azure SQL Database Managed Instance, but conceptually many of the ideas apply
-* [Tools and Programs to Jumpstart SQL Migration to Azure](https://myignite.techcommunity.microsoft.com/sessions/83389?source=sessions) (Ignite Session)
-* [Azure SQL Database Managed Instance](https://myignite.techcommunity.microsoft.com/sessions/81047) (Ignite Session)
-  * Ignite session diving into Azure SQL Database Managed Instance
-
+ 
 ### MySQL, PostgreSQL, and MariaDB Migration Guides
 
 * [Migrate MySQL to Azure Database for MySQL](https://datamigration.microsoft.com/scenario/mysql-to-azuremysql?step=1)
@@ -53,9 +50,6 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 
 * [Performance Guidelines for SQL Server on Azure VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-performance) (Microsoft Docs)
 * [Storage Configuration for SQL Server VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-server-storage-configuration) (Microsoft Docs)
-* [Deep Dive with Data Migration Tools and Azure DMS](https://myignite.techcommunity.microsoft.com/sessions/81154) (Ignite Session)
-* [Easy Button: Migrating Windows/SQL Server 2008 to Azure](https://myignite.techcommunity.microsoft.com/sessions/84439) (Ignite Session)
-* [SQL Server From the Ground to the Cloud](https://myignite.techcommunity.microsoft.com/sessions/81032) (Ignite Session)
 * [Key Causes of Performance Differences with SQL Managed Instance](https://azure.microsoft.com/blog/key-causes-of-performance-differences-between-sql-managed-instance-and-sql-server/) (Blog)
 * [Microsoft Learning Path for Migrating SQL Workloads to Azure](https://docs.microsoft.com/en-us/learn/paths/migrate-sql-workloads-azure/)
   * [SQL Server Discovery using the Microsoft Assessment and Planning (MAP) toolkit](https://docs.microsoft.com/en-us/learn/modules/sql-server-discovery-using-map/)
@@ -64,28 +58,6 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
   * [Migrate SQL workloads to Azure virtual machines](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-virtual-machines/)
   * [Migrate SQL Workloads to Azure SQL Databases](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-sql-databases/)
   * [Migrate SQL Workloads to Azure Managed Instances](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-managed-instances/)
-
-### MySQL, PostgreSQL, and MariaDB Resources
-
-#### Ignite Sessions
-
-* [Deep Dive with Data Migration Tools and Azure DMS](https://myignite.techcommunity.microsoft.com/sessions/81154) (Ignite Session)
-* [Azure-managed MySQL, Postres, and MariaDB](https://myignite.techcommunity.microsoft.com/sessions/81012?source=sessions) (Ignite Session)
-* [Migrate applications using MySQL](https://myignite.techcommunity.microsoft.com/sessions/81010?source=sessions) (Ignite Session)
-* [Why enterprises are moving from Oracle to Azure Postgres](https://myignite.techcommunity.microsoft.com/sessions/83539?source=sessions) (Ignite Session)
-* [Running Postgres at scale on-premises and in the cloud](https://myignite.techcommunity.microsoft.com/sessions/83540?source=sessions) (Ignite Session)
-* [Why Developers love Postgres](https://myignite.techcommunity.microsoft.com/sessions/81011?source=sessions) (Ignite Session)
-* [Migrating from Oracle to Azure PostgreSQL](https://myignite.techcommunity.microsoft.com/sessions/84541?source=sessions) (Ignite Session)
-* [Azure Database for PostgreSQL and Hyperscale](https://myignite.techcommunity.microsoft.com/sessions/81009?source=sessions) (Ignite Session)
-
-#### Hands on Content
-
-* [Create a new Azure Database for MySQL and Wordpress app](https://www.microsoft.com/handsonlabs/selfpacedlabs/details/SP-AZ100049) (Hands on lab)
-* [Developing Apps with Azure Database for PostgreSQL](https://www.microsoft.com/handsonlabs/selfpacedlabs/details/SP-AZ100050) (Hands on lab)
-* [Introduction to Hyperscale (Citus) on Azure Database for PostgreSQL](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://bf5b8793-8fe4-495b-a227-bee499e7b470/) (Hands on lab)
-* [Azure OSS DB SKU Recommender](https://github.com/izzymsft/azureossdbskurecommender) (GitHub repo)
-* [Azure OSS Database Migration Hackathon](https://github.com/izzymsft/OSSDatabaseMigrationHackathon) (GitHub repo)
-
 ### Pluralsight Courses
 
 * [Pluralsight: Migrating to SQL Server 2016](https://www.pluralsight.com/courses/sqlserver-2016-upgrading-migrating)
@@ -93,10 +65,9 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 
 ## Expert
 
-* [Azure SQL Database Managed Instance DR Best Practices](https://myignite.techcommunity.microsoft.com/sessions/83753) (Ignite Session)
 * [Migrate SQL Server to Azure SQL DB](https://docs.microsoft.com/en-us/azure/dms/tutorial-sql-server-to-azure-sql) (Tutorial)
 
 ## Certifications
 
 * [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
-* [DP-300: Administering Relational Databases on Microsoft Azure](docs.microsoft.com/en-us/learn/certifications/exams/dp-300) (Currently in BETA)
+* [DP-300: Administering Relational Databases on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300) (Currently in BETA)
