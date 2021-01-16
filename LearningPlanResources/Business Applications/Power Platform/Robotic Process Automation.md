@@ -1,4 +1,4 @@
-# Learning Plan Resources for {Plan Name}
+# Learning Plan Resources for Robotic Process Automation
 
 { Description of Learning Plan }
 
