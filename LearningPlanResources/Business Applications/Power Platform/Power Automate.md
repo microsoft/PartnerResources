@@ -17,16 +17,25 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Fundamentals
 
-* Coming Soon
+* [Microsoft Power Platform Fundamentals (8 Modules)](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/) (Self-guided learning)
+OR [Microsoft Power Platform Fundamentals](https://partner.microsoft.com/en-us/training/assets/collection/pl-900-microsoft-power-platform-fundamentals-1#/) (Virtual Instructor led training)
+* [Introduction to Power Automate](https://docs.microsoft.com/en-us/learn/modules/introduction-power-automate/)
+* [Get Started with Power Automate](https://docs.microsoft.com/en-us/learn/modules/get-started-flows/)
+* [Introduction to business process flows in Power Automate](https://docs.microsoft.com/en-us/learn/modules/intro-business-process-flows/)
+* [Try it yourself - Power Automate in a Day](https://aka.ms/flowinaday)
 
 
 ## Associate
 
-* Coming Soon
+* [Build more complex flows with Power Automate](https://docs.microsoft.com/en-us/learn/modules/build-more-flows/)
+* [Create an immersive business process flow in Power Automate](https://docs.microsoft.com/en-us/learn/modules/create-immersive-flow/)
+* [Get started with Power Automate buttons](https://docs.microsoft.com/en-us/learn/paths/get-started-power-automate-buttons/)
+
 
 ## Expert
-
-* Coming Soon
+* [Introduction to expressions in Power Automate](https://docs.microsoft.com/en-us/learn/modules/introduction-expressions/)
+* [Understand advanced business process flow concepts in Power Automate](https://docs.microsoft.com/en-us/learn/modules/advanced-business-process-flows/)
+* [Power Automate documentation](https://docs.microsoft.com/en-us/power-automate/)
 
 ## Certifications
 
