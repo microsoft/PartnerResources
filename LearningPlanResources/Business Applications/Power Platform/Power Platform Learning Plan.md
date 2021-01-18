@@ -58,6 +58,14 @@ Keeping Up
 * [Participate in Power Automate User Group](https://www.automateug.com/home) (Other)
 * [Power BI UG](https://www.pbiusergroup.com/home) (Self-Paced)
 
+## Hands-on Labs
+
+* [Building a Conference App in an hour](https://powerapps.microsoft.com/en-us/blog/hands-on-lab-building-a-conference-app-in-60-min/)
+* [Building an interactive calendar view with PowerApps](https://docs.microsoft.com/en-us/archive/blogs/davidni/building-an-interactive-calendar-view-with-powerapps)
+* [Integrating Power Apps, Power Automate and Power BI](https://powerusers.microsoft.com/t5/News-Announcements/Integrating-PowerApps-Power-BI-and-Flow-to-create-realtime/ba-p/297146)
+* [Embedding PowerApps canvas app into a model driven application](https://powerusers.microsoft.com/t5/News-Announcements/Adv-Hands-On-Lab-4-Embedding-PowerApps-canvas-app-into-a-model/ba-p/345797)
+
+
 ## Events
 
 * [Business Applications Summit](https://www.microsoft.com/en-us/BusinessApplicationsSummit) (Other)
