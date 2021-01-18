@@ -37,6 +37,8 @@ Additionally, some content may be marked with one or more icons:
   * Reference guide for alternative Cloud platforms
 * [Azure Partner Tech Talks - Modern Data Warehouse](https://aka.ms/azurepartnerstechtalks) (Webinar)
   * Specifically, the Modern Data Warehouse presentation from April 23, 2020
+* [Beginner's Guide to Azure Data Factory](https://www.cathrinewilhelmsen.net/series/beginners-guide-azure-data-factory/) (3rd Party)
+  * Series of 26 blog posts reviewing the fundamentals of Azure Data Factory
 
 ## Associate
 
