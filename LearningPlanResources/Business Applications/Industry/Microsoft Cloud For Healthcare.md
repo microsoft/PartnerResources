@@ -1,6 +1,6 @@
-# Learning Plan Resources for {Plan Name}
+# Learning Plan Resources for Microsoft Cloud for Healthcare
 
-{ Description of Learning Plan }
+Microsoft Cloud for Healthcare includes data models, cross-cloud connectors, workflows, APIs, and built-in healthcare-specific components with the best of our horizontal cloud apps and services. We are committed to helping provider, payor, pharmaceutical, and medical technology organizations reimagine tomorrow by empowering everyone to deliver value faster, adapt to make more impactful decisions, and support security, privacy and compliance.
 
 Content is broken down as follows:
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
@@ -13,14 +13,14 @@ Additionally, some content may be marked with one or more icons:
 
 ## Keeping Up
 
-{ Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
+* [Overview of Microsoft cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare) - Includes overview, high-level capabilities and Pricing details.
 
 ## Fundamentals
 
-{ Add fundamental/beginner/high level items here; generally applicable to all audiences }
-
-* [Example Microsoft Home Page Link](https://www.microsoft.com)
-    * This is description of the content
+* [What is Microsoft cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/overview)
+* [Microsoft cloud for Healthcare - Pricing and Licensing](https://docs.microsoft.com/en-us/industry/healthcare/buy)
+* [Set up and configure Microsoft Cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/configure-cloud-for-healthcare)
+* [Videos and learning resources for Microsoft Cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/training-videos)
 
 ## Associate
 
@@ -44,4 +44,4 @@ Additionally, some content may be marked with one or more icons:
 
 ## Community
 
-{ Add links to community resources: blogs, forums, yammer channels, etc. }
+* [Microsoft Cloud for Healthcare: Unlocking the power of health data for better care](https://azure.microsoft.com/en-us/blog/microsoft-cloud-for-healthcare-unlocking-the-power-of-health-data-for-better-care/)
