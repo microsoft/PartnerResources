@@ -74,6 +74,8 @@ Keeping Up
 
 * [Exam PL-200: Power Platform Functional Consultant Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200) (Self-Paced) (2 Hours)
 * [Exam PL-400: Microsoft Power Platform Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400) (Self-Paced) (2 Hours)
+* [Exam PL-600: Microsoft Power Platform Solution Architect (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600) (Self-Paced)
+  * This exam will be available in March 2021. This exam measures your ability to accomplish the following technical tasks: perform solution envisioning and requirement analyses; architect a solution; and implement the solution.
 * Retired: [Exam MB-200:  Microsoft Dynamics 365 Power Platform + Dynamics Core](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200) (Self-Paced) (2 Hours)
 * Retired: [Exam MB-400: Microsoft Dynamics 365 Power Apps + Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400) (Self-Paced) (2 Hours)
 * [Exam MB-600: Microsoft Dynamics 365 Power Apps + Solution Architect](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-600) (Self-Paced) (2 Hours)
