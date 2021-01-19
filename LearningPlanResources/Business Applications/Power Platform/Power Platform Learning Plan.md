@@ -76,6 +76,7 @@ Keeping Up
 * [Exam PL-400: Microsoft Power Platform Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400) (Self-Paced) (2 Hours)
 * [Exam PL-600: Microsoft Power Platform Solution Architect (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600) (Self-Paced)
   * This exam will be available in March 2021. This exam measures your ability to accomplish the following technical tasks: perform solution envisioning and requirement analyses; architect a solution; and implement the solution.
+  * Exam PL-600 replaces Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect, which expires on June 30, 2021. After that date, MB-600 will no longer be available for you to take—only PL-600 will be. If you’re currently preparing for MB-600, make sure you take and pass that exam before June 30, 2021. [See here for announcement blog post.](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-certification-microsoft-power-platform-solution-architect/ba-p/1628149)
 * Retired: [Exam MB-200:  Microsoft Dynamics 365 Power Platform + Dynamics Core](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200) (Self-Paced) (2 Hours)
 * Retired: [Exam MB-400: Microsoft Dynamics 365 Power Apps + Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400) (Self-Paced) (2 Hours)
 * [Exam MB-600: Microsoft Dynamics 365 Power Apps + Solution Architect](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-600) (Self-Paced) (2 Hours)
