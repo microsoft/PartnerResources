@@ -52,6 +52,6 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 ## Community Resources
 
 * [Review Dynamics 365 Ideas Portal](https://experience.dynamics.com/ideas/categories/?forum=dfa5b83d-9e4c-e811-a956-000d3a1bef07&forumName=Dynamics%20365%20for%20Marketing) (Self-Paced) (2 Minutes)
-*	[BizApps Hub](https://businessapplications.transform.microsoft.com/dynamics/customer-engagement?tab=marketing)
-*	[MPN](https://aka.ms/mpn/d365marketing)
+*	[Marketing Assets on BizApps Hub](https://businessapplications.transform.microsoft.com/dynamics/customer-engagement?tab=marketing)
+*	[Marketing Assets on MPN](https://aka.ms/mpn/d365marketing)
 
