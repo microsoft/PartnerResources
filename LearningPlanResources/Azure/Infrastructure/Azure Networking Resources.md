@@ -11,7 +11,7 @@
 
 [Azure Virtual WAN](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about)
 
-[Content Delivery Network](https://docs.microsoft.com/en-us/azure/cdn/cdn-overview)
+[Azure Content Delivery Network](https://docs.microsoft.com/en-us/azure/cdn/cdn-overview)
 
 
 ## Network Connectivity
@@ -28,15 +28,15 @@
 ## Load Balancing
 [Azure Network Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
 
-[Web Applciation Load Balancer](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
+[Azure Application Gateway - Layer 7 Load balancer](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
 
-[Azure Global Load Balancer](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview)
+[Azure Frontdoor - Global Load Balancer](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview)
 
-[DNS Load Balancer](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview)
+[Azure DNS Load Balancer](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview)
 
 
 ## Network Security
-[Azure Firewall - First cloud-native firewall](https://docs.microsoft.com/en-us/azure/firewall/overview)
+[Azure Firewall - cloud-native firewall](https://docs.microsoft.com/en-us/azure/firewall/overview)
 
 [Azure Firewall Manager](https://docs.microsoft.com/en-us/azure/firewall-manager/overview)
 
@@ -48,7 +48,7 @@
 
 [Azure Application Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/application-security-groups)
 
-[DDoS Protection](https://docs.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview)
+[Azure DDoS Protection](https://docs.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview)
 
 
 ## Azure Networking Hands-on labs
