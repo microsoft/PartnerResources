@@ -12,6 +12,7 @@
 * [Windows Virtual Desktop partner integrations](https://docs.microsoft.com/en-us/azure/virtual-desktop/partners)
 * [Tech Community blogs](https://techcommunity.microsoft.com/t5/windows-virtual-desktop/bd-p/WindowsVirtualDesktop)
 * [Azure Immersion Workshop: Windows Virtual Desktop](https://partner.microsoft.com/en-US/asset/collection/azure-immersion-workshop-windows-virtual-desktop#/)
+* [Implementing Windows Virtual Desktop in the enterprise](https://github.com/microsoft/MCW-Implementing-Windows-Virtual-Desktop-in-the-enterprise)
 
 ## Advanced concepts
 
