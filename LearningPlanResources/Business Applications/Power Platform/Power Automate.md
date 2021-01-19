@@ -22,6 +22,7 @@ OR [Microsoft Power Platform Fundamentals](https://partner.microsoft.com/en-us/t
 * [Introduction to Power Automate](https://docs.microsoft.com/en-us/learn/modules/introduction-power-automate/)
 * [Get Started with Power Automate](https://docs.microsoft.com/en-us/learn/modules/get-started-flows/)
 * [Introduction to business process flows in Power Automate](https://docs.microsoft.com/en-us/learn/modules/intro-business-process-flows/)
+* [Business Process Flows documentation](https://docs.microsoft.com/en-us/power-automate/business-process-flows-overview)
 * [Try it yourself - Power Automate in a Day](https://aka.ms/flowinaday)
 
 
