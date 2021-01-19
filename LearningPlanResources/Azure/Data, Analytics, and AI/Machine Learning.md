@@ -29,6 +29,9 @@
 * [Build a Web App with Refreshable Machine Learning Models](https://docs.microsoft.com/en-us/learn/modules/create-web-app-with-refreshable-models/) (Self-Paced) (82 Minutes)
 * [Azure Machine Learning Service: Training within Notebook](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/training/train-within-notebook) (Self-Paced) (2 Hours)
 
+## Expert
+
+* [Azure ML Security](https://github.com/jhirono/amlsecurity)(Self-Paced)(2 hours)
 
 ## Certifications
 DP-100 applies your knowledge of data science and machine learning to implement and run machine learning workloads on Azure; in particular, using Azure Machine Learning Service. This is the most Machine Learning heavy certification. 
