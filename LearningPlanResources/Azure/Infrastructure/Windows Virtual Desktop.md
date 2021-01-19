@@ -69,3 +69,4 @@
 ## Keeping Up
 
 * Follow [Michel Roth](https://twitter.com/michelroth), [Marcel Meurer](https://twitter.com/MarcelMeurer), [Tom Hickling](https://twitter.com/tomhickling) and [Christiaan Brinkhoff](https://twitter.com/Brinkhoff_C) on Twitter
+* Review the [WVD Community Weekly Newsletter](https://wvdcommunity.com/weekly-newletter/)
