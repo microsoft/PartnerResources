@@ -21,7 +21,7 @@
 
 ## Expert
 
-* [MS Learn Course: Advanced Teams Solution Development](https://partner.microsoft.com/en-us/training/assets/collection/advanced-teams-solution-development#/) (Self-Paced) (8 Hours)
+* [MS Learn Course: Advanced Teams Solution Development](https://note.microsoft.com/CatalogDisplayPage-SRDEM10618_CatalogDisplayPage.html) (Self-Paced) (10 Hours)
 
 ## Community Resources
 
