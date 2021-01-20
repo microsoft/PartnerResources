@@ -55,7 +55,7 @@ Please refer to our [Template](/LearningPlanResources/Template.md) if you're unf
 
    ![Edit document](../assets/editdoc.png)
 
-3. A fork of the project will be created in your account for editing purposes. Files in GitHub are written and edited using Markdown language. For help on using Markdown, see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). Select the **Preview changes** tab to view your changes as you go.  The editor will look like this:
+3. A fork of the project will be created in your account for editing purposes. Files in GitHub are written and edited using Markdown language. For help on using Markdown, see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) or check out this video [Markdown Explained in Under 10 Minutes](https://www.youtube.com/watch?v=Y83zrODz-lk). Select the **Preview changes** tab to view your changes as you go.  The editor will look like this:
 
    ![Edit document](../assets/editdoc2.png)
 
