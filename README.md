@@ -11,7 +11,7 @@ the rights to use your contribution. For details, visit https://cla.opensource.m
 
 ## Modifying a document on Github
 
-For infrequent or small updates, you can edit the file directly on GitHub.com without having installing additional tools and software.  Naturally, use whatever tools/editors you are most comfortable with.
+For infrequent or small updates, you can edit the file directly on GitHub.com without having installing additional tools and software.  Naturally, use whatever tools/editors you are most comfortable with. For a great explanation of markdown, watch this great video [Markdown Explained in 10 Minutes](https://www.youtube.com/watch?v=Y83zrODz-lk) by April Dunham.
 
 1. Make sure you have signed into GitHub.com with your GitHub account.
 2. Go to the page you want to edit and click the edit button near the top right:
