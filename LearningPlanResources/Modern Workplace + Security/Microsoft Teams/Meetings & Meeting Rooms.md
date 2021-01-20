@@ -27,4 +27,4 @@
 
 ## Microsoft Surface Related to Teams Meetings & Meeting Rooms
 
-* [Microsoft Surface Hub 2S in the hybrid workplace](file:///C:/Users/woody/Downloads/Surface_Hub2S_SolutionGuide_eBook_12.23.20.pdf) (Solution Guide) (25 Minutes)
+* [Microsoft Surface Hub 2S in the hybrid workplace](https://assetsprod.microsoft.com/mpn/en-us/solution-guide-microsoft-surface-hub-2s-in-the-hybrid-workplace.pdf) (Solution Guide, Requires MPN access to download) (25 Minutes)
