@@ -14,6 +14,7 @@
 ## Expert
 * [Microsoft Identity Platform for developers](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
 * [Microsoft Identity Platform Best practices and recommendations](https://docs.microsoft.com/en-us/azure/active-directory/develop/identity-platform-integration-checklist)
+* [Enable a Combined MFA and SSPR Registration Experience in Azure AD](https://mslearn.cloudguides.com/en-us/guides/Enable%20a%20combined%20MFA%20and%20SSPR%20registration%20experience%20in%20Azure%20AD)
 
 ## Community
 * [Azure Active Directory Identity Blog](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)
