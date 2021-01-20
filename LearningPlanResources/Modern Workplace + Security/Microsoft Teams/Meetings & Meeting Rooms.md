@@ -24,3 +24,7 @@
 ## Expert
 
 * [BRK3204: Troubleshooting Microsoft Teams](https://myignite.techcommunity.microsoft.com/sessions/83474?source=sessions) (Self-Paced) (45 Minutes)
+
+## Microsoft Surface Related to Teams Meetings & Meeting Rooms
+
+* [Microsoft Surface Hub 2S in the hybrid workplace](https://assetsprod.microsoft.com/mpn/en-us/solution-guide-microsoft-surface-hub-2s-in-the-hybrid-workplace.pdf) (Solution Guide, Requires MPN access to download) (25 Minutes)

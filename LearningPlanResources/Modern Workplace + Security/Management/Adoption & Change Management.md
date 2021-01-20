@@ -11,6 +11,9 @@ Additionally, some content may be marked with one or more icons:
 * '$' to indicate paid content
 * '3rd Party' to indicate 3rd party content (not created by Microsoft)
 
+## Keeping Up
+A great place to start looking for great skilling resources is in the [Microsoft 365 Technical Readiness Hub](https://cloudpartners.transform.microsoft.com/tech-hub).
+
 ## Fundamentals
 
 * [ADP10: Maximize the value of M365: Understand adoption and change management](https://myignite.techcommunity.microsoft.com/sessions/83882) (Self-Paced) (45 Minutes)

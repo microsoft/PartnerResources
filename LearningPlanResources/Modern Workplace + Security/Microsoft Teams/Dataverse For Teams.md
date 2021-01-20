@@ -42,6 +42,8 @@ Latest updates and news for Dataverse for Teams
 * This exam measures your ability to complete the following tasks: configure the Common Data Service; create apps by using Power Apps; create and manage Power Automate; implement Power Virtual Agents chatbots; and integrate Power Apps with other apps and services.
 * [PL-400 : Power Platform Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400)
 * This exam measures your ability to accomplish the following technical tasks: create a technical design; configure Common Data Service; create and configure Power Apps; configure business process automation; extend the user experience; extend the platform; and develop integrations.
+* [PL-600 : Microsoft Power Platform Solution Architect (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600)
+* This exam measures your ability to accomplish the following technical tasks: perform solution envisioning and requirement analyses; architect a solution; and implement the solution.
 
 
 ## Community

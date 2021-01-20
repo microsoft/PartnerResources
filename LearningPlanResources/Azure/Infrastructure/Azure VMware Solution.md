@@ -7,10 +7,10 @@
 ## Fundamentals
 
 * [AVS On-Demand Webinar](https://docs.hol.vmware.com/catalog/) (On-Demand)
-* [AVS Hands on Lab from VMware:](https://docs.hol.vmware.com/catalog/) (Self-Paced)
-* [AVS Deployment Checklist:](https://docs.microsoft.com/en-us/azure/azure-vmware/production-ready-deployment-steps) (Self-Paced)
-* [Azure Migrate Assessment for AVS:](https://docs.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmware-solution-assessment) (Self-Paced)
-* [Enable AVS](https://docs.microsoft.com/en-us/azure/azure-vmware/enable-azure-vmware-solution)
+* [AVS Hands on Lab from VMware](https://docs.hol.vmware.com/catalog/) (Self-Paced)
+* [AVS Deployment Checklist](https://docs.microsoft.com/en-us/azure/azure-vmware/production-ready-deployment-steps) (Self-Paced)
+* [Azure Migrate Assessment for AVS](https://docs.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmware-solution-assessment) (Self-Paced)
+* [Enable AVS for EA and CSP Partners](https://docs.microsoft.com/en-us/azure/azure-vmware/enable-azure-vmware-solution)
 * [Azure VMware Solution - VMware Official Page](https://cloud.vmware.com/azure-vmware-solution)
 
 ### Videos
@@ -23,13 +23,15 @@
 
 ## Associate
 
-* [AVS Reference Architecture](https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-hub-and-spoke) (On-Demand)
-
+* [AVS Reference Architecture](https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-hub-and-spoke) 
+* [Azure VMware Solution VMware UserCon Series](https://www.youtube.com/watch?v=uUvHgpiOZbc&list=PLS9k3ksxRe_l-UpfAjmi0BoDSpo6AtLyh) (Self Paced)
+* [Create a vCenter Content Library ](https://techcommunity.microsoft.com/t5/azure-migration/azure-vmware-solution-create-a-vcenter-content-library-on-azure/ba-p/1823024) (Self Paced)
+* [Azure Backup for Azure VMware Solutions Virtual Machines ](https://techcommunity.microsoft.com/t5/azure-migration/azure-backup-for-azure-vmware-solutions-virtual-machines/ba-p/1468794) (Self Paced)
 
 ## Expert
-
-* [Third Party Appliance with AVS](https://techcommunity.microsoft.com/t5/azure-migration/azure-vmware-solution-avs-connecting-3rd-party-networking-and/ba-p/1524297) (Self-Paced)
-* [Disaster Recovery Drill from AVS](https://docs.microsoft.com/en-us/azure/site-recovery/avs-tutorial-dr-drill-azure) (Self-Paced)
+* [AVS Reference Architecture](https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-hub-and-spoke) (On-Demand)
+* [Third Party Appliance with AVS:](https://techcommunity.microsoft.com/t5/azure-migration/azure-vmware-solution-avs-connecting-3rd-party-networking-and/ba-p/1524297) (Self-Paced)
+* [Disaster Recovery Drill from AVS:](https://docs.microsoft.com/en-us/azure/site-recovery/avs-tutorial-dr-drill-azure) (Self-Paced)
 
 ## Specialist
 

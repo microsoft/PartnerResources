@@ -11,6 +11,7 @@
 * [Introduction to Dynamics 365 Supply Chain Management](https://docs.microsoft.com/en-us/learn/wwl/introduction-dynamics-365-supply-chain-management/index) (Self-Paced) (60 Minutes)
 * [Navigate Finance and Operations apps](https://docs.microsoft.com/en-us/learn/modules/navigate-finance-operations/index) (Self-Paced) (45 Minutes)
 * [Sign up for preview subscriptions](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dev-tools/sign-up-preview-subscription?toc=/dynamics365/finance/toc.json) (Self-Paced)
+* [Finance and Operations Demo Environment Deployment Guide](https://community.dynamics.com/365/b/ocp/posts/deploy-demo-environment-for-dynamics-365-finance-and-operations) (Self-Paced)
 
 ## Associate
 
