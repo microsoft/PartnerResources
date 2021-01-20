@@ -4,6 +4,8 @@
 
 * [M365 Security Technical Overview](https://www.microsoft.com/microsoft-365/partners/tech-hub/security) (Self-Paced) (8 Hours)
 * [Azure Active Directory documentation](https://docs.microsoft.com/en-us/azure/active-directory/)
+* [How to find your Azure Active Directory Tenant ID](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
+* [Azure Active Directory documentation](https://docs.microsoft.com/en-us/azure/active-directory/)
 * [Compare Active Directory to Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-compare-azure-ad-to-ad)
 
 ## Associate
