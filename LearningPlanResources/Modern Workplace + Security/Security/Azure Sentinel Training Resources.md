@@ -31,7 +31,3 @@ Additionally, some content may be marked with one or more icons:
 ## Community
 [Security Community Webinars](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
 
-
-
-
-

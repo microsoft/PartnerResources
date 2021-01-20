@@ -27,11 +27,13 @@
 * [Azure ML Studio](https://ml.azure.com/) (Self-Paced)
 * [Azure Notebooks with Data Science VMs](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/12/10/microsoft-azure-notebooks-and-additional-compute-capacity-via-connecting-to-data-science-vms/) (Self-Paced)
 * [Build a Web App with Refreshable Machine Learning Models](https://docs.microsoft.com/en-us/learn/modules/create-web-app-with-refreshable-models/) (Self-Paced) (82 Minutes)
-* [Azure Machine Learning Service: Training within Notebook](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/training/train-within-notebook) (Self-Paced) (2 Hours)
+* [Training Options in Azure Machine Learning Service](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/training) (Self-Paced) (2 Hours)
 
 ## Expert
 
-* [Azure ML Security](https://github.com/jhirono/amlsecurity)(Self-Paced)(2 hours)
+* [Azure ML Security](https://github.com/jhirono/amlsecurity) (Self-Paced) (2 Hours)
+* [Time Series Forecasting Best Practices & GitHub Examples](https://github.com/microsoft/forecasting) (Self-Paced) (8 Hours)
+* [Recommendation System Best Practices & Github Examples](https://github.com/microsoft/recommenders) (Self-Paced) (8 Hours)
 
 ## Certifications
 DP-100 applies your knowledge of data science and machine learning to implement and run machine learning workloads on Azure; in particular, using Azure Machine Learning Service. This is the most Machine Learning heavy certification. 

@@ -12,6 +12,7 @@
 * [Windows Virtual Desktop partner integrations](https://docs.microsoft.com/en-us/azure/virtual-desktop/partners)
 * [Tech Community blogs](https://techcommunity.microsoft.com/t5/windows-virtual-desktop/bd-p/WindowsVirtualDesktop)
 * [Azure Immersion Workshop: Windows Virtual Desktop](https://partner.microsoft.com/en-US/asset/collection/azure-immersion-workshop-windows-virtual-desktop#/)
+* [Implementing Windows Virtual Desktop in the enterprise](https://github.com/microsoft/MCW-Implementing-Windows-Virtual-Desktop-in-the-enterprise)
 
 ## Advanced concepts
 
@@ -69,3 +70,4 @@
 ## Keeping Up
 
 * Follow [Michel Roth](https://twitter.com/michelroth), [Marcel Meurer](https://twitter.com/MarcelMeurer), [Tom Hickling](https://twitter.com/tomhickling) and [Christiaan Brinkhoff](https://twitter.com/Brinkhoff_C) on Twitter
+* Review the [WVD Community Weekly Newsletter](https://wvdcommunity.com/weekly-newletter/)
