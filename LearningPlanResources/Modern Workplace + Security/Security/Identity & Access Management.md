@@ -8,6 +8,7 @@
 ## Associate
 * [External Identities documentation](https://docs.microsoft.com/en-us/azure/active-directory/external-identities/)
 * [Azure Active Directory Authentication documentation](https://docs.microsoft.com/en-us/azure/active-directory/authentication/)
+* [Azure Identity Management and Access Control Security Best Practices](https://docs.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices)
 
 ## Expert
 * [Microsoft Identity Platform for developers](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
