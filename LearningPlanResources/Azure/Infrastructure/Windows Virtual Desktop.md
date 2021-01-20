@@ -13,7 +13,7 @@
 * [Tech Community blogs](https://techcommunity.microsoft.com/t5/windows-virtual-desktop/bd-p/WindowsVirtualDesktop)
 * [Azure Immersion Workshop: Windows Virtual Desktop](https://partner.microsoft.com/en-US/asset/collection/azure-immersion-workshop-windows-virtual-desktop#/)
 * [Implementing Windows Virtual Desktop in the enterprise](https://github.com/microsoft/MCW-Implementing-Windows-Virtual-Desktop-in-the-enterprise)
-
+* [Virtual Instructor led training for partners](https://partner.microsoft.com/en-us/training/assets/collection/implementing-windows-virtual-desktop#/)
 ## Advanced concepts
 
 ### Architecture
@@ -28,6 +28,7 @@
 * [Remote Desktop Protocol bandwidth requirements](https://docs.microsoft.com/en-us/azure/virtual-desktop/rdp-bandwidth)
 * [Host pool load-balancing methods](https://docs.microsoft.com/en-us/azure/virtual-desktop/host-pool-load-balancing)
 * [Understanding Windows Virtual Desktop network connectivity](https://docs.microsoft.com/en-us/azure/virtual-desktop/network-connectivity)
+* [Use Azure Firewall to protect Window Virtual Desktop deployments](https://docs.microsoft.com/en-us/azure/firewall/protect-windows-virtual-desktop)
 
 ### Storage
 
