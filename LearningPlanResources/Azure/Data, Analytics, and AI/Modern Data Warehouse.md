@@ -37,6 +37,8 @@ Additionally, some content may be marked with one or more icons:
   * Reference guide for alternative Cloud platforms
 * [Azure Partner Tech Talks - Modern Data Warehouse](https://aka.ms/azurepartnerstechtalks) (Webinar)
   * Specifically, the Modern Data Warehouse presentation from April 23, 2020
+* [Beginner's Guide to Azure Data Factory](https://www.cathrinewilhelmsen.net/series/beginners-guide-azure-data-factory/) (3rd Party)
+  * Series of 26 blog posts reviewing the fundamentals of Azure Data Factory
 
 ## Associate
 
@@ -108,6 +110,9 @@ Although DP-200 and DP-201 are similar, DP-200 focuses more on the "How?" soluti
 * [Exam DP-201: Designing an Azure Data Solution](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201)
 
 Both of these exams are required for the [Microsoft Certified: Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer?wt.mc_id=learningredirect_certs-web-wwl) certification.
+
+* [Exam DP-203: Data Engineering on Microsoft Azure (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
+ * Exams DP-200 and DP-201 will be replaced with exam DP-203 on February 23, 2021.
 
 ## Community
 

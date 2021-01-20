@@ -1,12 +1,4 @@
-{
-Delete this section in the final plan. Sections in { curly braces } are placeholders for plan content.
-
-All plans are in Markdown format -- a lightweight syntax for marking up text with visual elements.  
-To learn more about how to use Markdown, visit https://guides.github.com/features/mastering-markdown/
-
-This is a template only -- using customized sections and media elements is encouraged.
-}
-# Learning Plan Resources for {Plan Name}
+# Learning Plan Resources for Robotic Process Automation
 
 { Description of Learning Plan }
 

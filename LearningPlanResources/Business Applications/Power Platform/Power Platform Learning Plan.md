@@ -14,6 +14,9 @@ Additionally, some content may be mared with one or more icons:
 
 TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
 
+Keeping Up
+{ Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
+
 ## Fundamentals
 
 * [Course MB-901T00-A: Microsoft Dynamics 365 Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-901t00) (In-person Instructor Led) (2 Days)
@@ -55,6 +58,14 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Participate in Power Automate User Group](https://www.automateug.com/home) (Other)
 * [Power BI UG](https://www.pbiusergroup.com/home) (Self-Paced)
 
+## Hands-on Labs
+
+* [Building a Conference App in an hour](https://powerapps.microsoft.com/en-us/blog/hands-on-lab-building-a-conference-app-in-60-min/)
+* [Building an interactive calendar view with PowerApps](https://docs.microsoft.com/en-us/archive/blogs/davidni/building-an-interactive-calendar-view-with-powerapps)
+* [Integrating Power Apps, Power Automate and Power BI](https://powerusers.microsoft.com/t5/News-Announcements/Integrating-PowerApps-Power-BI-and-Flow-to-create-realtime/ba-p/297146)
+* [Embedding PowerApps canvas app into a model driven application](https://powerusers.microsoft.com/t5/News-Announcements/Adv-Hands-On-Lab-4-Embedding-PowerApps-canvas-app-into-a-model/ba-p/345797)
+
+
 ## Events
 
 * [Business Applications Summit](https://www.microsoft.com/en-us/BusinessApplicationsSummit) (Other)
@@ -63,6 +74,9 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 * [Exam PL-200: Power Platform Functional Consultant Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200) (Self-Paced) (2 Hours)
 * [Exam PL-400: Microsoft Power Platform Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400) (Self-Paced) (2 Hours)
+* [Exam PL-600: Microsoft Power Platform Solution Architect (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600) (Self-Paced)
+  * This exam will be available in March 2021. This exam measures your ability to accomplish the following technical tasks: perform solution envisioning and requirement analyses; architect a solution; and implement the solution.
+  * Exam PL-600 replaces Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect, which expires on June 30, 2021. After that date, MB-600 will no longer be available for you to take—only PL-600 will be. If you’re currently preparing for MB-600, make sure you take and pass that exam before June 30, 2021. [See here for announcement blog post.](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-certification-microsoft-power-platform-solution-architect/ba-p/1628149)
 * Retired: [Exam MB-200:  Microsoft Dynamics 365 Power Platform + Dynamics Core](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200) (Self-Paced) (2 Hours)
 * Retired: [Exam MB-400: Microsoft Dynamics 365 Power Apps + Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400) (Self-Paced) (2 Hours)
 * [Exam MB-600: Microsoft Dynamics 365 Power Apps + Solution Architect](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-600) (Self-Paced) (2 Hours)

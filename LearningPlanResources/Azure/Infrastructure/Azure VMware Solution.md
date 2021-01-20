@@ -1,6 +1,9 @@
 
 # Learning Plan Resources for Azure VMware Solution (AVS)
 
+## Keeping Up
+* [AVS Blog](https://avs.ms), [#azurevmwaresolution](https://twitter.com/hashtag/azurevmwaresolution) '3rd Party'
+
 ## Fundamentals
 
 * [AVS On-Demand Webinar](https://docs.hol.vmware.com/catalog/) (On-Demand)
