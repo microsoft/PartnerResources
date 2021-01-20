@@ -25,6 +25,7 @@ Additionally, some content may be marked with one or more icons:
 
 ## Expert
 [Azure Sentinel Ninja L400 Training](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310)
+
 [The FAQ companion to the Azure Sentinel Ninja training](https://techcommunity.microsoft.com/t5/azure-sentinel/the-faq-companion-to-the-azure-sentinel-ninja-training/ba-p/2022485)
 
 ## Community
