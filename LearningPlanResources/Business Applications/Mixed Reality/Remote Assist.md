@@ -34,7 +34,8 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Community Resources
 
-* Coming Soon
+* [Mixed Reality Business Apps Tech Community](https://techcommunity.microsoft.com/t5/mixed-reality-business-apps/bd-p/MixedRealityBusinessApps)
+  * Discussion space for all things related to business apps on Mixed Reality, e.g Dynamics 365 Remote Assist, Guides etc.
 
 ## Practice Maturity Model
 

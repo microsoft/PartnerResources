@@ -2,6 +2,7 @@
 
 ## Fundamentals
 
+* [Introduction to Kubernetes Tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 * [Katacoda: Kubernetes Introduction](https://www.katacoda.com/loodse/courses/kubernetes) (Self-Paced)
 * [Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) (Self-Paced) (10 Hours)
 * [Microsoft Azure Fundamentals](https://www.microsoft.com/learning/course.aspx?cid=AZ-900T01) (In-person Instructor Led) (1 Day)
