@@ -46,7 +46,7 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 * [Data Access Migration Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-databasemigration.data-access-migration-toolkit) (Tooling)
   * This cool can be useful in scanning documents/code for data access patterns.
 
-### SQL Server Resources (intermediate)
+### SQL Server Resources
 
 * [Performance Guidelines for SQL Server on Azure VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-performance) (Microsoft Docs)
 * [Storage Configuration for SQL Server VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-server-storage-configuration) (Microsoft Docs)
@@ -59,7 +59,8 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
   * [Migrate SQL Workloads to Azure SQL Databases](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-sql-databases/)
   * [Migrate SQL Workloads to Azure Managed Instances](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-managed-instances/)
  * [SQL Managed Instance Network Requirements](https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview#network-requirements)
-     * [SQL Managed Instance Connectivity Architecture](https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview)
+ * [SQL Managed Instance Connectivity Architecture](https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview)
+
 ### Pluralsight Courses
 
 * [Pluralsight: Migrating to SQL Server 2016](https://www.pluralsight.com/courses/sqlserver-2016-upgrading-migrating)
