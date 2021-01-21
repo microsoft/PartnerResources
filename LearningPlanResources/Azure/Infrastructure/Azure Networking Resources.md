@@ -1,6 +1,7 @@
 # [Azure Advanced Networking Resources](https://docs.microsoft.com/en-us/azure/networking/)
 
 
+
 ## Virtual Network
 
 [Azure Virtual Network]( https://docs.microsoft.com/en-us/azure/virtual-network)
@@ -70,6 +71,20 @@
 
 [Azure Virtual WAN Migration](https://docs.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology)
 
+
+## Azure Kubernetes Networking
+
+[Azure CNI Networking](https://docs.microsoft.com/en-us/azure/aks/configure-azure-cni)
+
+[Azure Application Gateway Ingress Controller](https://docs.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-existing?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Faks%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fbread%2Ftoc.json)
+
+[Restrict egress traffic using Azure firewall](https://docs.microsoft.com/en-us/azure/aks/limit-egress-traffic#restrict-egress-traffic-using-azure-firewall)
+
+[Network policy options in AKS](https://docs.microsoft.com/en-us/azure/aks/use-network-policies#network-policy-options-in-aks)
+## Community/Blog
+[Azure Networking Technical Community](https://techcommunity.microsoft.com/t5/azure-networking/bd-p/AzureNetworking)
+
+[Azure Networking Blog](https://azure.microsoft.com/en-us/blog/topics/networking/)
 
 
 
