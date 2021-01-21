@@ -18,6 +18,7 @@ Additionally, some content may be marked with one or more icons:
 ## Fundamentals
 
 * [What is Microsoft cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/overview)
+* [Get started with Microsoft Cloud for Healthcare solutions](https://docs.microsoft.com/en-us/learn/modules/get-started-healthcare)
 * [Microsoft cloud for Healthcare - Pricing and Licensing](https://docs.microsoft.com/en-us/industry/healthcare/buy)
 * [Set up and configure Microsoft Cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/configure-cloud-for-healthcare)
 * [Videos and learning resources for Microsoft Cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/training-videos)
