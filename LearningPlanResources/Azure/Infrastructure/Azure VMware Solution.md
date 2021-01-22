@@ -8,6 +8,7 @@
 
 * [AVS On-Demand Webinar](https://docs.hol.vmware.com/catalog/) (On-Demand)
 * [AVS Hands on Lab from VMware](https://docs.hol.vmware.com/catalog/) (Self-Paced)
+* [Azure VMware Solution - Lightning Lab](https://via.vmw.com/EPnw)
 * [AVS Deployment Checklist](https://docs.microsoft.com/en-us/azure/azure-vmware/production-ready-deployment-steps) (Self-Paced)
 * [Azure Migrate Assessment for AVS](https://docs.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmware-solution-assessment) (Self-Paced)
 * [Enable AVS for EA and CSP Partners](https://docs.microsoft.com/en-us/azure/azure-vmware/enable-azure-vmware-solution)
@@ -20,6 +21,9 @@
 * [Azure VMware Solution | How to run a complete VMware environment on Azure | Ignite 2020](https://www.youtube.com/watch?v=-yLgduCVPRk) (Self-Paced Video) (8 Minutes)
 * [Azure VMware Solution VMware UserCon Session](https://www.youtube.com/watch?v=uUvHgpiOZbc) (Self-Paced Video) (48 Minutes)
 * [Accelerate your cloud journey with Azure VMware Solution](https://www.youtube.com/watch?v=M_mrkSJ42hg) (Self-Paced Video) (36 Minutes)
+* [Deploying Microsoft Azure VMware Solutions & tips to get started](https://www.youtube.com/watch?v=-i2PsuisVjg) (Self-Paced Video) (7 Minutes)
+* [The VMware-Microsoft partnership for Azure VMware Solution](https://www.youtube.com/watch?v=r3OMHG61n08) (Self-Paced Video) (3 Minutes)
+* [How Microsoft Azure VMware Solution helps customers simplify and accelerate their cloud journey?](https://www.youtube.com/watch?v=g5fGQXKaJzU) (Self-Paced Video) (4 Minutes)
 
 ## Associate
 
