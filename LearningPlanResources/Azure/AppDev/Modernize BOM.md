@@ -1,6 +1,5 @@
 # Modernize .Net Apps with App Service, Azure SQL DB
 
-[aka.ms/appmodernize](https://aka.ms/appmodernize)
 
 ## Cost Benefit
 
