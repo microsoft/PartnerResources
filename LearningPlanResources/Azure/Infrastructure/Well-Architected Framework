@@ -1,11 +1,5 @@
-{ Delete this section in the final plan. Sections in { curly braces } are placeholders for plan content.
+Learning Plan Resources for Microsoft Azure Well-Architected Framework
 
-All plans are in Markdown format -- a lightweight syntax for marking up text with visual elements.
-To learn more about how to use Markdown, visit https://guides.github.com/features/mastering-markdown/
-
-This is a template only. Using customized sections and media elements is encouraged. }
-
-Learning Plan Resources for {Plan Name}
 { Description of Learning Plan }
 
 Content is broken down as follows:
