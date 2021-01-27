@@ -1,9 +1,10 @@
-# Learning Plan Resources for Modern Data Warehouse
+# Learning Plan Resources for Modern Data Warehouse (Azure Synapse Analytics)
 
-Azure Synapse is an analytical service evolved from Azure SQL Data Warehouse that brings together enterprise data warehousing and big data analytics.  Provisioned or on-demand, Azure Synapse offers a unified experience to ingest, prepare, manage, and serve data for analytics, BI, and machine learning needs.
+Azure Synapse Analytics is an analytical service evolved from Azure SQL Data Warehouse that brings together enterprise data warehousing and big data analytics. Provisioned or on-demand, Azure Synapse offers a unified experience to ingest, prepare, manage, and serve data for analytics, BI, and machine learning needs.
 
-Below you will find content to assist in upskilling in Azure Synapse.  Because the product is rapidly evolving, some documentation may reference Azure SQL Data Warehouse, or refer to features that are in-preview and not yet released.  Content is broken down as follows:
+Below you will find content to assist in upskilling in Azure Synapse. Because the product is rapidly evolving, some documentation may reference Azure SQL Data Warehouse, or refer to features that are in-preview and not yet released. Content is broken down as follows:
 
+* Keeping Up: latest information and links 
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
 * Certifications: relevant Microsoft exams or certifications
 * Community resources: user groups, events, blogs
@@ -12,6 +13,26 @@ Additionally, some content may be marked with one or more icons:
 
 * '$' to indicate paid content
 * '3rd Party' to indicate 3rd party content (not created by Microsoft)
+
+## Keeping Up
+
+The latest updates on Azure Sypanse Analytics.
+
+Azure Synapse Analytics is now generally available as of December 2020. 
+
+* [January 27 2021 Overview, Key Features, and Resources Webcast](https://microsoftevent.eventbuilder.com/event/37611)
+  * Webcast from the Azure Synapse Team
+  * Additional Resources from this webcast:
+    * [Customer References (PPTX)](https://www.microsoft.com/azure/partners/resources/azure-synapse-analytics-customer-references)
+    * [Youtube: Azure Synapse: SQL, data warehouse, ML, and on-demand](https://www.youtube.com/watch?v=ixJlsYc3Lwc) (Microsoft Ignite 2019)
+    * [Webcast: Azure Synapse: How it Works](https://info.microsoft.com/Virtual-Event-Azure-Synapse-Analytics-How-It-Works-On-Demand-Registration.html)
+    * [Guides: On-premises data warehouse migration guides](https://partner.microsoft.com/en-us/asset/collection/on-premises-data-warehouse-migration-to-azure-synapse-analtyics#/)
+    * [Azure Synapse Analytics with Azure Free Account](https://azure.microsoft.com/en-us/free/synapse-analytics/)
+    * [Digital Event: Shape your Future with Azure Data and Analytics](https://azuredataandanalytics2020.eventcore.com)
+    * [Analytics-in-a-Day Content](https://partner.microsoft.com/en-us/asset/collection/analytics-in-a-day#/)
+    * [Synapse Knowledge Center Documentation](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-knowledge-center)
+    * [Azure Synapse Tech Community](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/bg-p/AzureSynapseAnalyticsBlog)
+
 
 ## Fundamentals
 
@@ -39,6 +60,7 @@ Additionally, some content may be marked with one or more icons:
   * Specifically, the Modern Data Warehouse presentation from April 23, 2020
 * [Beginner's Guide to Azure Data Factory](https://www.cathrinewilhelmsen.net/series/beginners-guide-azure-data-factory/) (3rd Party)
   * Series of 26 blog posts reviewing the fundamentals of Azure Data Factory
+* [Customer References and Use Cases (PPTX)](https://www.microsoft.com/azure/partners/resources/azure-synapse-analytics-customer-references)
 
 ## Associate
 
@@ -87,6 +109,7 @@ _Pluralsight Courses:_
 _WhatTheHack events are often in-person in a hands on format.  However, it can be worked on individually and self-paced:_
 
 * [WhatTheHack - Driving Miss Data](https://github.com/microsoft/WhatTheHack/tree/master/003-DrivingMissData) (Hands on lab)
+* [WhatTheHack - This Old Data Warehouse](https://github.com/microsoft/WhatTheHack/tree/master/019-ThisOldDataWarehouse) (Hands on lab)
 
 _Microsoft OpenHack events are immersive, multi-day hands on experiences; specifically, the Modern Data Warehouse dives into Azure Synapse, Databricks, Azure Data Factory, and Azure Data Lake._
 
@@ -122,3 +145,4 @@ Both of these exams are required for the [Microsoft Certified: Azure Data Engine
 * [Blue Granite Blog](https://www.blue-granite.com/blog)
 * [Buck Woody's Blog](https://buckwoody.wordpress.com/)
 * [James Serra's Blog](https://www.jamesserra.com/)
+* [Azure Synapse Tech Community](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/bg-p/AzureSynapseAnalyticsBlog)
