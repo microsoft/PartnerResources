@@ -4,13 +4,26 @@ Welcome to the Microsoft US One Commercial Partner (OCP) Learning Plan Resources
 
 The Business Applications ISV Connect Program aims to accelerate the growth and overall success of Independent Software Vendors (ISVs) building modern, cloud-based, line-of-business (LOB) solutions with Dynamics 365 Customer Engagement and PowerApps (Dynamics CE applications) or Dynamics 365 Finance and Operations (Dynamics Ops applications).
 
-# Business Track
+# [Business Track](https://docs.microsoft.com/en-us/azure/marketplace/business-applications-isv-program#set-up-your-microsoft-partner-center-account)
 
-Business Track capture summary of main points from [Microsoft Docs on ISV Connect](https://docs.microsoft.com/en-us/azure/marketplace/business-applications-isv-program)
+In order to join the program and take advantage of it's benefits you'll need to do the following.
 
-## Submitting to AppSource
-[F&O](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/lcs-solutions/lcs-solutions-app-source)
-[CE](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/publish-app-appsource)
+1. [Set up your Microsoft Partner Center account](https://docs.microsoft.com/en-us/azure/marketplace/partner-center-portal/create-account).
+1. Accept the Business Applications [ISV Program Addendum](https://aka.ms/bizappsisvaddendum) through [Partner Center](https://partner.microsoft.com/dashboard).
+1. Set up your billing information through [Partner Center](https://partner.microsoft.com/dashboard).
+
+Once you completed these steps you will then be able to publish and certify your application for [Finance & Operations](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/lcs-solutions/lcs-solutions-app-source).
+and [CE](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/publish-app-appsource) on your own or by working directly with Microsoft.
+
+## Next Steps
+
+Ask your Account Manager or contact Microsoft Partner Support for assistance with your account. For general information on the Business Applications ISV Connect Program, see:
+
+- [Business Applications for ISVs](https://partner.microsoft.com/solutions/business-applications/isv-overview)
+- [Overview of the New Program for Business Applications ISVs](https://aka.ms/BizAppsISVProgram)
+- [Upcoming program for Business Applications ISVs](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/04/17/upcoming-program-for-business-applications-isvs/)
+- [ISV Connect Program Policies](https://aka.ms/bizappsisvpolicies)
+
 
 # [Technical Track](https://partner.microsoft.com/en-us/solutions/business-applications/isv-build)
 
