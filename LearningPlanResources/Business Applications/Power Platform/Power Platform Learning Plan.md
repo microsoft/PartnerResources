@@ -28,7 +28,8 @@ Keeping Up
 * [Get started using Common Data Service](https://docs.microsoft.com/en-us/learn/paths/get-started-cds/) (Self-Paced) (4 Hours)
 * [Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/) (Self-Paced) (3 Hours)
 * [Microsoft Power Platform: Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources) (Self-Paced)
-* [Dataverse for Teams](PartnerResources/DataverseForTeams at main · microsoft/PartnerResources (github.com)) (Self-Paced)
+* [Virtual Training Series](https://partner.microsoft.com/en-US/training/virtual-training-series#/?products=bus-apps) (Self-Paced)
+* [Dataverse for Teams](https://github.com/microsoft/PartnerResources/blob/main/LearningPlanResources/Modern%20Workplace%20%2B%20Security/Microsoft%20Teams/Dataverse%20For%20Teams.md) (Self-Paced)
 
 ## Associate
 
