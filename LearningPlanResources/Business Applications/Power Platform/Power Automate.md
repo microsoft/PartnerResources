@@ -31,6 +31,7 @@ OR [Microsoft Power Platform Fundamentals](https://partner.microsoft.com/en-us/t
 * [Build more complex flows with Power Automate](https://docs.microsoft.com/en-us/learn/modules/build-more-flows/)
 * [Create an immersive business process flow in Power Automate](https://docs.microsoft.com/en-us/learn/modules/create-immersive-flow/)
 * [Get started with Power Automate buttons](https://docs.microsoft.com/en-us/learn/paths/get-started-power-automate-buttons/)
+* [Power Automate Partner Airlift](https://partner.microsoft.com/en-us/training/assets/collection/power-automate-partner-airlift#/)
 
 
 ## Expert
