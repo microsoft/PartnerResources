@@ -26,6 +26,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 ## Associate
 * [Create Bots with Power Virtual Agents (MS Learn)](https://docs.microsoft.com/en-us/learn/paths/work-power-virtual-agents/) (Self-Paced) (2 Hours)
 * [Power Virtual Agents app in Microsoft Teams](https://docs.microsoft.com/en-us/power-virtual-agents/teams/fundamentals-what-is-power-virtual-agents-teams/) (Self-Paced) (3 Minutes)
+* [Bot Framework Composer tutorials](https://docs.microsoft.com/en-us/composer/tutorial/tutorial-introduction) (Self-Paced) (2 Hours)
 
 ## Expert
 
