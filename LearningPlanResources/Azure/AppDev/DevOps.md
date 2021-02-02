@@ -16,8 +16,13 @@
 
 ## Expert
 
-* [Microsoft Open Hack - DevOps](https://openhack.microsoft.com) (In-person Instructor Led) (16 Hours)
 * [Services Azure DevOps Plan](https://ready.azurewebsites.net/csslearning/3244) (Self-Paced) (80 Hours)
+
+## Hands-on
+
+* [GitHub What The Hack](https://aka.ms/githubwth) (Self-Paced) (16 Hours) - A challenge-based hack to learn GitHub
+* [GitHub Learning Lab](https://lab.github.com/) (Self-Paced) (20+ Hours)
+* [Microsoft Open Hack - DevOps](https://openhack.microsoft.com) (In-person Instructor Led) (16 Hours)
 
 ## Community Resources
 
