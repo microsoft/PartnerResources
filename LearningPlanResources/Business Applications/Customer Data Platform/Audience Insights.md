@@ -26,6 +26,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Learn the fundamentals of Customer Insights](https://docs.microsoft.com/learn/modules/working-with-customer-insights/?WT.mc_id=D365_learncta_web-wwl)
 * [Unlock customer intent with Dynamics 365 Customer Insights](https://docs.microsoft.com/en-us/learn/paths/build-customer-insights/)
 * [Explore Microsoft model-driven app integrations](https://docs.microsoft.com/learn/wwl/dynamics-365-customer-data-platform-customer-engagement-apps-integration/?WT.mc_id=D365_learncta_web-wwl)
+* [Dynamics 365 Customer Insights - implementation guidance](https://partner.microsoft.com/en-us/training/assets/collection/dynamics-365-customer-insights-implementation-guidance#/)
 
 
 ## Expert
