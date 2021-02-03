@@ -13,7 +13,7 @@ Additionally, some content may be marked with one or more icons:
 
 ## Keeping Up
 
-{ Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
 ## Fundamentals
 
