@@ -14,3 +14,7 @@ You can find important resources and learning paths for successfully ramping up 
 * [best practices, tips & tricks for successfully deploying a Power Apps Portal](https://msuspartners.eventbuilder.com/event/4374/recording)
 * [Power Apps Portal administration document](https://docs.microsoft.com/en-us/powerapps/maker/portals/admin/admin-overview)
 * [Portal Application Life-cycle management](https://docs.microsoft.com/en-us/powerapps/maker/portals/admin/portal-lifecycle)
+
+## Keeping Up
+
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
