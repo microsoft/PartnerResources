@@ -38,7 +38,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 
 ## Keeping Up
 
-{ Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
 ## Community Resources
 * [Join the discussion with the Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity) (Self-Paced) (1 Minute)
