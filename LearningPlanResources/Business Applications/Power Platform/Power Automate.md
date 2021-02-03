@@ -39,6 +39,10 @@ OR [Microsoft Power Platform Fundamentals](https://partner.microsoft.com/en-us/t
 * [Understand advanced business process flow concepts in Power Automate](https://docs.microsoft.com/en-us/learn/modules/advanced-business-process-flows/)
 * [Power Automate documentation](https://docs.microsoft.com/en-us/power-automate/)
 
+## Keeping Up
+
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+
 ## Certifications
 
 * No Certification Exist at This Time
