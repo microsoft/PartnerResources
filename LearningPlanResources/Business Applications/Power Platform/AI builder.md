@@ -27,6 +27,9 @@ Below you'll find series of training modules which will take you through beginne
 * [Use AI Builder in Power Automate](https://docs.microsoft.com/en-us/learn/modules/ai-builder-power-automate/)
 * [Use AI Builder in SharePoint](https://docs.microsoft.com/en-us/ai-builder/sharepoint-overview)
 
+## Keeping Up
+
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
 ## Documentation and Community
 
