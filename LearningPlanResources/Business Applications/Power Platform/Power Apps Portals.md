@@ -18,3 +18,10 @@ You can find important resources and learning paths for successfully ramping up 
 ## Keeping Up
 
 * [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+
+## Community Resources
+
+* [Subscribe to Microsoft Power Apps YouTube Channel](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) (Self-Paced)
+* [Microsoft Power Platform Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/) (Self-Paced)
+* [Monitor Microsoft Power Apps Community Group](https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1) (Other)
+* [Participate in Power Apps User Group](https://www.powerappsug.com/home) (Other)
