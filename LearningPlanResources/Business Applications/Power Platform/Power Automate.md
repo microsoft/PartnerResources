@@ -49,7 +49,9 @@ OR [Microsoft Power Platform Fundamentals](https://partner.microsoft.com/en-us/t
 
 ## Community Resources
 
-* Coming Soon
+* [Monitor Microsoft Power Automate Community Group](https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity) (Other)
+* [Participate in Power Automate User Group](https://www.automateug.com/home) (Other)
+* [Subscribe to Microsoft Power Automate YouTube Channel](https://www.youtube.com/channel/UCG98S4lL7nwlN8dxSF322bA) (Self-Paced)
 
 ## Practice Maturity Model
 
