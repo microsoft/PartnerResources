@@ -1,3 +1,10 @@
+---
+layout: default
+title: FHIR Powered Healthcare
+parent: Data Analytics and AI
+grand_parent: Azure
+---
+
 # Learning Plan Resources for FHIR Powered Healthcare
 
 Fast Healthcare Interoperability Resources (FHIR) is a next generation standards framework created by HL7 (hl7.org/fhir).  FHIR combines the best features of HL7’s v2, HL7 v3 and CDA product lines while leveraging the latest web standards and applying a tight focus on implementability.

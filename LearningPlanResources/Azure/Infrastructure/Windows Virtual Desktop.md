@@ -1,3 +1,10 @@
+---
+layout: default
+title: Windows Virtual Desktop
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan and Technical Resources for Windows Virtual Desktop
 
 ## Fundamentals

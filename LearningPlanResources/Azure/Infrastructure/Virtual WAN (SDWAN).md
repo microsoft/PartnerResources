@@ -1,3 +1,10 @@
+---
+layout: default
+title: Virtual WAN (SDWAN)
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Virtual WAN (SDWAN)
 
 ## Fundamentals

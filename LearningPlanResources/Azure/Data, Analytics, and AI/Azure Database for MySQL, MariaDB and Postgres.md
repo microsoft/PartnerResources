@@ -1,3 +1,10 @@
+---
+layout: default
+title: OSS DB to Azure
+parent: Data Analytics and AI
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Azure Database for MySQL, MariaDB, and Postgres
 
 ## Fundamentals

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Azure Networking Resources
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # [Azure Advanced Networking Resources](https://docs.microsoft.com/en-us/azure/networking/)
 
 

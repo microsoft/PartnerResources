@@ -1,3 +1,10 @@
+---
+layout: default
+title: DevOps
+parent: AppDev
+grand_parent: Azure
+---
+
 # Learning Plan Resources for DevOps
 
 ## Fundamentals

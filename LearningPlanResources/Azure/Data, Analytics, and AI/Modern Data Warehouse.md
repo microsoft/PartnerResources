@@ -1,3 +1,10 @@
+---
+layout: default
+title: Modern Data Warehouse
+parent: Data Analytics and AI
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Modern Data Warehouse (Azure Synapse Analytics)
 
 Azure Synapse Analytics is an analytical service evolved from Azure SQL Data Warehouse that brings together enterprise data warehousing and big data analytics. Provisioned or on-demand, Azure Synapse offers a unified experience to ingest, prepare, manage, and serve data for analytics, BI, and machine learning needs.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cost Optimization
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Cost Optimization
 
 ## Fundamentals

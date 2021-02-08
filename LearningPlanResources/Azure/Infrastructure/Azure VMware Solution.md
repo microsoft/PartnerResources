@@ -1,3 +1,9 @@
+---
+layout: default
+title: Azyre VMWare Solution (AWS)
+parent: Infrastructure
+grand_parent: Azure
+---
 
 # Learning Plan Resources for Azure VMware Solution (AVS)
 

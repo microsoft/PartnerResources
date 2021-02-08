@@ -1,3 +1,10 @@
+---
+layout: default
+title: IoT Edge
+parent: IoT
+grand_parent: Azure
+---
+
 # Learning Plan Resources for IoT Edge
 
 ## Keeping Up

@@ -1,3 +1,10 @@
+---
+layout: default
+title: IoT Hub
+parent: IoT
+grand_parent: Azure
+---
+
 # Learning Plan Resources for IoT Hub
 
 ## Keeping Up

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Machine Learning
+parent: Data Analytics and AI
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Machine Learning
 
 ## Fundamentals

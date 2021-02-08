@@ -1,3 +1,10 @@
+---
+layout: default
+title: SQL Server Migration to Azure
+parent: Data Analytics and AI
+grand_parent: Azure
+---
+
 # Learning Plan Resources for SQL Server Migration to Azure
 
 This learning plan aggregates content for understanding and successfully migrating databases into Microsoft Azure. Specifically, this plan covers the migration of relational databases, primarily SQL Server, MySQL, Postgres, and MariaDB, with a specific emphasis on SQL Server because of the number of deployment options available.

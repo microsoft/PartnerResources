@@ -1,3 +1,10 @@
+---
+layout: default
+title: VMWare Migration
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for VMware Migration
 
 ## Fundamentals

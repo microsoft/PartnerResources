@@ -1,3 +1,10 @@
+---
+layout: default
+title: Linux Server Migration
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Linux Server Migration
 
 ## Fundamentals

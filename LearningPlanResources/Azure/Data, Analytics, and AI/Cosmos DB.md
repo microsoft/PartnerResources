@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cosmos DB
+parent: Data Analytics and AI
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Cosmos DB
 
 ## Fundamentals
