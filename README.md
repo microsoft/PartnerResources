@@ -1,3 +1,9 @@
+---
+layout: default
+title: All Learning Plan Resources
+nav_order: 1
+nav_exclude: true
+---
 
 # What are Microsoft Partner Resources?
 
