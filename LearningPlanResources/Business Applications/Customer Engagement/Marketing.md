@@ -1,3 +1,10 @@
+---
+layout: default
+title: Marketing
+parent: Customer Engagement
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Dynamics 365 Marketing
 
 Dynamics 365 Marketing is a Microsoft business application providing marketing-automation that helps turn prospects into business relationships.  The app is easy to use, works seamlessly with Dynamics 365 Sales, and has built-in business intelligence.

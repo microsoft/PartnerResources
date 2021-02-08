@@ -1,3 +1,10 @@
+---
+layout: default
+title: Windows Server Migration
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Windows Server Migration
 
 ## Fundamentals

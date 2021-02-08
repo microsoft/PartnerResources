@@ -1,3 +1,10 @@
+---
+layout: default
+title: Threat Protection
+parent: Security
+grand_parent: Modern Workplace + Security
+---
+
 # Learning Plan Resources for Threat Protection
 
 ## Fundamentals

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Power Apps Portals
+parent: Power Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Power Apps Portals
 
 You can find important resources and learning paths for successfully ramping up on Power Apps Portal

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Modernize New .NET Applications
+parent: AppDev
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Modernizing Applications with Azure
 
 ## Fundamentals

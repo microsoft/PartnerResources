@@ -1,3 +1,10 @@
+---
+layout: default
+title: Teams Custom Solution Development for Developers
+parent: Microsoft Teams
+grand_parent: Modern Workplace + Security
+---
+
 # Learning Plan Resources for Teams Custom Solution Development for Developers
 
 ## Fundamentals

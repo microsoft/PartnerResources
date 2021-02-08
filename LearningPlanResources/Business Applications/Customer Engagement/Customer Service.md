@@ -1,3 +1,10 @@
+---
+layout: default
+title: Customer Service
+parent: Customer Engagement
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Dynamics 365 Customer Service
 
 Dynamics 365 Customer Service is a Microsoft business application that empowers companies to deliver end-to-end, self, assisted and onsite service across multiple channels.  The role of customer service continues to evolve as organizations sell services around their products and provide break-fix support for their customers.  This Customer Service application enables organizations to provide these personalized support services with a rich set of capabilities.

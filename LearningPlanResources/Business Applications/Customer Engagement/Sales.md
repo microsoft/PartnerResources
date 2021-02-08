@@ -1,3 +1,10 @@
+---
+layout: default
+title: Sales
+parent: Customer Engagement
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Dynamics 365 Sales
 
 Dynamics 365 Sales is a Microsoft business application that enables salespeople to build strong relationships with their customers, take actions based on insights, and close sales faster. Use Dynamics 365 Sales to keep track of your accounts and contacts, nurture your sales from lead to order, and create sales collateral. It also lets you create marketing lists and campaigns, and even follow service cases associated with specific accounts or opportunities.

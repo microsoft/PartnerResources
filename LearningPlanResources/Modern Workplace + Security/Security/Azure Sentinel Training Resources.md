@@ -1,3 +1,10 @@
+---
+layout: default
+title: Azure Sentinel
+parent: Security
+grand_parent: Modern Workplace + Security
+---
+
 # Learning Plan Resources for Azure Sentinel
 
 Below you will find content to assist in upskilling on Azure Sentinel. Microsoft Azure Sentinel is a scalable, cloud-native, security information event management (SIEM) and security orchestration automated response (SOAR) solution. Azure Sentinel delivers intelligent security analytics and threat intelligence across the enterprise, providing a single solution for alert detection, threat visibility, proactive hunting, and threat response.

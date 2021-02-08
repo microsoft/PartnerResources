@@ -1,3 +1,10 @@
+---
+layout: default
+title: Policy
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Azure Policy
 This Learning Plan focuses on Azure Policy
 

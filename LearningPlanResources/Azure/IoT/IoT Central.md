@@ -1,3 +1,10 @@
+---
+layout: default
+title: IoT Central
+parent: IoT
+grand_parent: Azure
+---
+
 # Learning Plan Resources for IoT Central
 
 ## Keeping Up

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Databricks
+parent: Data Analytics and AI
+grand_parent: Azure
+---
+
+
 # Learning Plan Resources for Databricks
 
 ## Fundamentals

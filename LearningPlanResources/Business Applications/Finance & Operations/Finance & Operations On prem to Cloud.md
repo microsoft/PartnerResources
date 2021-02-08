@@ -1,3 +1,10 @@
+---
+layout: default
+title: Finance & Operations On prem to Cloud
+parent: Finance & Operations
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Finance & Operations On prem to Cloud
 
 ## Fundamentals

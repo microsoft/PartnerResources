@@ -1,3 +1,10 @@
+---
+layout: default
+title: Zero Trust
+parent: Security
+grand_parent: Modern Workplace + Security
+---
+
 # Learning Plan Resources for Zero Trust
 
 ## Fundamentals

@@ -1,3 +1,10 @@
+---
+layout: default
+title: AI Apps & Agents
+parent: Data Analytics and AI
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Conversational AI
 
 ## Fundamentals

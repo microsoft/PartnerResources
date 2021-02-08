@@ -1,3 +1,10 @@
+---
+layout: default
+title: Core
+parent: Finance & Operations
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Core
 
 ## Fundamentals

@@ -1,3 +1,9 @@
+---
+layout: default
+title: IoT Virtual Workshop
+parent: Workshops
+---
+
 # IoT Virtual Workshop
 
 > Assets for the IoT Virtual workshop program are still being added to the Partner Network website. In the meantime, here are some preliminary assets to get you started.

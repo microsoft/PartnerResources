@@ -1,3 +1,10 @@
+---
+layout: default
+title: Financial Management
+parent: Finance & Operations
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Financial Management
 
 ## Fundamentals

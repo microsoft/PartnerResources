@@ -1,3 +1,11 @@
+---
+layout: default
+title: Remote Assist
+nav_order: 3
+parent: Mixed Reality
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Mixed Reality Remote Assist
 
 Dynamics 365 Mixed Reality Remote Assist

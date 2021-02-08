@@ -1,3 +1,10 @@
+---
+layout: default
+title: Audience Insights
+parent: Customer Data Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Dynamics 365 Customer Insights
 
 **Audience insights**

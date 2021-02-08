@@ -1,3 +1,10 @@
+---
+layout: default
+title: Power Automate
+parent: Power Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Power Automate
 
 Dynamics 365 Power Automate...

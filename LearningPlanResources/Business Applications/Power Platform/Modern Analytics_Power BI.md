@@ -1,3 +1,10 @@
+---
+layout: default
+title: Modern Analytics
+parent: Power Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Modern Analytics/Power BI
 
 With Power BI connect to and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight.

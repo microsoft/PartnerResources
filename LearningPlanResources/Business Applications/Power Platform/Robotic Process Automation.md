@@ -1,3 +1,10 @@
+---
+layout: default
+title: Robotic Process Automation
+parent: Power Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Robotic Process Automation
 
 { Description of Learning Plan }

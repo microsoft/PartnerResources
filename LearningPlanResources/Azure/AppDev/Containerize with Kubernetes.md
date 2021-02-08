@@ -1,3 +1,10 @@
+---
+layout: default
+title: Containerize with Kubernetes
+parent: AppDev
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Containerize with Kubernetes
 
 ## Fundamentals

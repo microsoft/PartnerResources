@@ -1,3 +1,10 @@
+---
+layout: default
+title: Windows Azure Firewall
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Windows Azure Firewall
 
 ## Fundamentals

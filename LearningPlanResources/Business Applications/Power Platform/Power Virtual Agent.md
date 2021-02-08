@@ -1,3 +1,10 @@
+---
+layout: default
+title: Power Virtual Agents
+parent: Power Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Power Virtual Agents
 
 Dynamics 365 Power Virtual Agents...

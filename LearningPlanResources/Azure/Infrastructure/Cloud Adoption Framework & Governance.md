@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cloud Adoption Framework & Governance
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Cloud Adoption Framework & Governance
 
 ## Fundamentals

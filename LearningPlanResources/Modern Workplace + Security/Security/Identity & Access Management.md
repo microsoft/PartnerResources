@@ -1,3 +1,10 @@
+---
+layout: default
+title: Identity & Access Management
+parent: Security
+grand_parent: Modern Workplace + Security
+---
+
 # Learning Plan Resources for Identity & Access Management
 
 ## Fundamentals

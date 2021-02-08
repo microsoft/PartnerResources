@@ -1,3 +1,10 @@
+---
+layout: default
+title: Supply Chain Management
+parent: Finance & Operations
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Supply Chain Management
 
 ## Fundamentals

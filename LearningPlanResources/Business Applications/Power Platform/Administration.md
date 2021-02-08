@@ -1,3 +1,10 @@
+---
+layout: default
+title: Power Platform Administration and Center of Excellence
+parent: Power Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Power Platform Administration and Center of Excellence teams
 
 With detailed administration strategy in place, organizations can enable business groups to focus on solving business problems efficiently while complying with IT and business compliance standards. The following content will take you through some of the important security and administartion capabilities and best practices within Power Platform 

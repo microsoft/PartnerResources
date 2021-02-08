@@ -1,3 +1,10 @@
+---
+layout: default
+title: Power Platform
+parent: Power Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Power Platform Learning Plan
 
 Below you will find content to assist in upskilling on Microsoft Power Platform. Content is broken down as follows:

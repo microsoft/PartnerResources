@@ -1,3 +1,10 @@
+---
+layout: default
+title: Azure Well-Architected Framework
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Microsoft Azure Well-Architected Framework
 
 { Description of Learning Plan }

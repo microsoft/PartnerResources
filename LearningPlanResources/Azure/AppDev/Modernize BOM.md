@@ -1,3 +1,10 @@
+---
+layout: default
+title: Modernize .Net Apps
+parent: AppDev
+grand_parent: Azure
+---
+
 # Modernize .Net Apps with App Service, Azure SQL DB
 
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Dataverse for Teams
+parent: Microsoft Teams
+grand_parent: Modern Workplace + Security
+---
+
 # Learning Plan Resources for Microsoft Dataverse for Teams
 
 Microsoft Dataverse for Teams is a subset of the larger data platform formerly known as the "Common Data Service" platform.  It was made generally available in November 2020 to help enable businesses to create Teams applications with the low code tools that the Power Platform offers (Power Apps, Power Automate and Power Virtual Agents).  This functionality is made available to use with most standard Microsoft Teams licenses.  This learning plan highlights some of the key features and functionality of Dataverse for Teams so you can keep up to date and learn how you can leverage it to build business applications inside of Teams.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Threat Protection
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Threat Protection
 
 ## Fundamentals

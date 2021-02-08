@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # All Learning Plan Resources
 
 Welcome to the Microsoft US One Commercial Partner (OCP) Learning Plan Resources repository

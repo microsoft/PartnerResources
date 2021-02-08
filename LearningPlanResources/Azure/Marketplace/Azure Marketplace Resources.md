@@ -1,3 +1,9 @@
+---
+layout: default
+title: Azure Marketplace Resources
+parent: Azure
+---
+
 # [Azure Marketplace Partner Resources](https://docs.microsoft.com/en-us/azure/marketplace/overview)
 
 ## Azure Marketplace

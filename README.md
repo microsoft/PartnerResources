@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 
 # What are Microsoft Partner Resources?
 
