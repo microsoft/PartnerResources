@@ -1,3 +1,10 @@
+---
+layout: default
+title: Business Central
+parent: Small Medium Business (SMB)
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Business Central
 
 ## Fundamentals 

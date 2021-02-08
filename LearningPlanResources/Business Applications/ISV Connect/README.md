@@ -1,3 +1,10 @@
+---
+layout: default
+title: ISV Connect
+nav_order: 3
+parent: Business Applications
+---
+
 # Success By Design ISV Connect
 
 Welcome to the Microsoft US One Commercial Partner (OCP) Learning Plan Resources repository for the ISV Connect program. 

@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Assets Folder
 
 Place all smaller assets (media, images, documents) here for plans in this section. 

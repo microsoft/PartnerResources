@@ -1,3 +1,10 @@
+---
+layout: default
+title: Customer Insights
+parent: Customer Data Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Dynamics 365 Customer Insights
 
 **Engagement insights**

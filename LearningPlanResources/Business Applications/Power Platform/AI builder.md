@@ -1,3 +1,10 @@
+---
+layout: default
+title: AI Builder
+parent: Power Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for AI Builder
 
 AI Builder is a Microsoft Power Platform capability that provides AI models that are designed to optimize your business processes. 

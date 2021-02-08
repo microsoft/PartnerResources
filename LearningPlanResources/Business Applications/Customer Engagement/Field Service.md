@@ -1,3 +1,10 @@
+---
+layout: default
+title: Field Service
+parent: Customer Engagement
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Dynamics 365 Field Service
 
 Dynamics 365 Field Service is a Microsoft business application helps organizations deliver onsite service to customer locations. The application combines workflow automation, scheduling algorithms, and mobility to set mobile workers up for success when they're onsite with customers fixing issues.  Field Services ensures the right person, with the right skills and parts, shows up at the right place and right time to improve first-time fix rate, customer satisfaction, and resource productivity. 

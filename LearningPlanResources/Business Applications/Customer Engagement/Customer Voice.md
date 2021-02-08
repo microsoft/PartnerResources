@@ -1,3 +1,10 @@
+---
+layout: default
+title: Customer Voice
+parent: Customer Engagement
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for {Customer Voice}
 
 { Description of Learning Plan }

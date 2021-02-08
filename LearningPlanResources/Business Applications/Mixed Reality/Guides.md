@@ -1,3 +1,11 @@
+---
+layout: default
+title: Guides
+nav_order: 3
+parent: Mixed Reality
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Mixed Reality Guides
 
 Dynamics 365 Mixed Reality Guides

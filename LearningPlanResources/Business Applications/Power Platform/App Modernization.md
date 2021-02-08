@@ -1,3 +1,10 @@
+---
+layout: default
+title: App Modernization
+parent: Power Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for App Modernization
 
 ## Keeping Up
