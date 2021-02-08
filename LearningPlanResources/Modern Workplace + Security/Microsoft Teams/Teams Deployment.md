@@ -1,3 +1,10 @@
+---
+layout: default
+title: Teams Deployment
+parent: Microsoft Teams
+grand_parent: Modern Workplace + Security
+---
+
 # Learning Plan Resources for Teams Deployment
 
 ## Fundamentals

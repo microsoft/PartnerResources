@@ -1,3 +1,10 @@
+---
+layout: default
+title: Autopilot Learning Plan
+parent: Management
+grand_parent: Modern Workplace
+---
+
 # Learning Plan Resources for Autopilot Learning Plan
 
 Below you will find content to assist in upskilling on Windows Autopilot. Content is broken down as follows:

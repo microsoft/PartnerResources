@@ -1,3 +1,10 @@
+---
+layout: default
+title: Information & Data Protection
+parent: Security
+grand_parent: Modern Workplace + Security
+---
+
 # Learning Plan Resources for Information & Data Protection
 
 Below you will find content to assist in upskilling on Information and Data Protection, on topics such as assessing your risks, govern and protect sensitive data, and effectively responding to regulatory requirements. Content is broken down as follows:

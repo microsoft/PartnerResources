@@ -1,3 +1,10 @@
+---
+layout: default
+title: Meetings & Meeting Rooms
+parent: Microsoft Teams
+grand_parent: Modern Workplace + Security
+---
+
 # Learning Plan Resources for Meetings & Meeting Rooms
 
 ## Fundamentals

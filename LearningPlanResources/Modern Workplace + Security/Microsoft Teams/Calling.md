@@ -1,3 +1,10 @@
+---
+layout: default
+title: Calling
+parent: Microsoft Teams
+grand_parent: Modern Workplace + Security
+---
+
 # Learning Plan Resources for Calling
 
 Below you will find content to assist in upskilling on Teams Calling. Content is broken down as follows:
