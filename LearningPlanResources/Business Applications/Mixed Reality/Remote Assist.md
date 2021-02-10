@@ -40,6 +40,10 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 * No Certification Exist at This Time
 
+## Keeping Up
+
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+
 ## Community Resources
 
 * [Mixed Reality Business Apps Tech Community](https://techcommunity.microsoft.com/t5/mixed-reality-business-apps/bd-p/MixedRealityBusinessApps)
