@@ -27,7 +27,6 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 * Coming Soon
 
-
 ## Associate
 
 * Coming Soon
@@ -39,6 +38,10 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 ## Certifications
 
 * No Certification Exist at This Time
+
+## Keeping Up
+
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
 ## Community Resources
 
