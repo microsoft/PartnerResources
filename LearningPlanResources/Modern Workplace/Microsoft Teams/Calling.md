@@ -10,6 +10,19 @@ Additionally, some content may be marked with one or more icons:
 * '$' to indicate paid content 
 * '3rd Party' to indicate 3rd party content (not created by Microsoft)
 
+
+## Keeping Up
+
+[Microsoft 365 &amp; Security for Partners landing page](https://cloudpartners.transform.microsoft.com/) – great place to start to find new announcements, partner resources, and [upcoming/On-Demand events](https://cloudpartners.transform.microsoft.com/events) across the Microsoft 365 &amp; Security platforms.
+
+**Microsoft Viva:** On February 4th 2021 Microsoft introduced [Microsoft Viva](https://www.microsoft.com/en-us/microsoft-viva), a new employee experience platform (EXP) powered by the full breadth of Microsoft 365. Explore here for more!
+
+* [Jared Spataro Blog Post Announcement](https://www.microsoft.com/en-us/microsoft-365/blog/2021/02/04/microsoft-viva-empowering-every-employee-for-the-new-digital-age/)
+
+* [Empower People and Teams With Microsoft Viva Webinar](https://learning.eventbuilder.com/event/38946) (Self-Paced) (60 Minutes)
+
+* [Partner landing page for Microsoft Viva](https://cloudpartners.transform.microsoft.com/practices/employee-experience/overview)
+
 ## Fundamentals
 
 * [Introduction into Phone System](https://aka.ms/teams-phone-system) (Self-Paced) (25 Minutes)
