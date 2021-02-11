@@ -45,6 +45,11 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 * [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
+## Resources
+
+* [Reactor Event](https://www.youtube.com/watch?v=Bk27oRTw3YY&feature=youtu.be)
+  * Mixed Reality BizApps 101: Dynamics 365 Remote Assist Deployment Best Practices
+  
 ## Community Resources
 
 * [Mixed Reality Business Apps Tech Community](https://techcommunity.microsoft.com/t5/mixed-reality-business-apps/bd-p/MixedRealityBusinessApps)
