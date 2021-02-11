@@ -25,7 +25,8 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Fundamentals
 
-* Coming Soon
+* [Mixed Reality Learning Experience](https://docs.microsoft.com/en-us/windows/mixed-reality/enthusiast-guide/learn-mixed-reality) (Self-Paced)
+* [Mixed Reality Learn overview](https://docs.microsoft.com/en-us/windows/mixed-reality/discover/mr-learning-overview) (Self-Paced)
 
 
 ## Associate
