@@ -86,3 +86,5 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 ## Certifications
 
 * [Exam PL-900: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900) (Self-Paced)
+* [Exam Prep: DA-100-Analyzing-Data-with-Power-BI](https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI/find/master) (Self-Paced)
+* [Exam DA-100: Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100) (Self-Paced)
