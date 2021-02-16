@@ -25,7 +25,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Fundamentals
 
-* Coming Soon
+* [Work with Dynamics 365 Guides](https://docs.microsoft.com/en-us/learn/paths/work-dynamics-365-guides/) (Self-Paced) (On-going)
 
 ## Associate
 
@@ -41,7 +41,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Keeping Up
 
-* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (8 Hours)
 
 ## Community Resources
 
