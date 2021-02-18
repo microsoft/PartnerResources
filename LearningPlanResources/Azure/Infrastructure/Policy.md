@@ -25,6 +25,9 @@ This Learning Plan focuses on Azure Policy
 * [Azure Policy's Guest Configurations](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/guest-configuration)
 * [Azure Policy for Kubernetes clusters](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/policy-for-kubernetes)
 
+### Workshops
+* [Azure Policy Automation Workshop](https://github.com/microsoft/MTC_AzurePolicySamples)
+
 ### Examples
   
 End-to-End examples for deploying Azure Policies
