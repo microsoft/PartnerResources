@@ -1,3 +1,10 @@
+---
+layout: default
+title: Virtual WAN (SDWAN)
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Virtual WAN (SDWAN)
 
 ## Fundamentals
@@ -26,8 +33,8 @@
 ## Specialist
 
 * [Virtual WAN documentation](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about) (Self-Paced)
-* [Azure Firewall](https://azure.microsoft.com/en-us/services/azure-firewall/) (Self-Paced)
-* [Azure Front Door](https://azure.microsoft.com/en-us/services/frontdoor/) (Self-Paced)
+* [Azure Firewall in vWAN hub](https://docs.microsoft.com/en-us/azure/virtual-wan/howto-firewall/) (Self-Paced)
+* [vWAN Partner Integrations](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-locations-partners) (Self-Paced)
 
 ## Events
 

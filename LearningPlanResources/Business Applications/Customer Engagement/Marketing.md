@@ -1,3 +1,10 @@
+---
+layout: default
+title: Marketing
+parent: Customer Engagement
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Dynamics 365 Marketing
 
 Dynamics 365 Marketing is a Microsoft business application providing marketing-automation that helps turn prospects into business relationships.  The app is easy to use, works seamlessly with Dynamics 365 Sales, and has built-in business intelligence.
@@ -26,6 +33,11 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Download Dynamics 365 Marketing Partner Sales Sales Playbook](https://aka.ms/d365marketing/salestools) (Self-Paced) (5 Minutes)
 * [Watch the Dynamics 365 Marketing in a Day workshop](https://aka.ms/d365marketing/miad) (Self-Paced) (2 hours, 45 Minutes)
 
+### D365 Marketing Assets
+* [D365M Getting Started Tutorial PDF](/LearningPlanResources/Business%20Applications/Customer%20Engagement/assets/Marketing/D365M%20Getting%20Started%20tutorial.pdf)
+* [D365M Marketing One Stop Document](/LearningPlanResources/Business%20Applications/Customer%20Engagement/assets/Marketing/D365Marketing_OneStopDocument.docx)
+* [D365M Marketing on LinkedIn](/LearningPlanResources/Business%20Applications/Customer%20Engagement/assets/Marketing/D365MarketingLinkedIn.pptx)
+
 ## Associate
 
 Navigation tip - to open each link, right-click on the URL | open in new tab
@@ -52,3 +64,6 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 ## Community Resources
 
 * [Review Dynamics 365 Ideas Portal](https://experience.dynamics.com/ideas/categories/?forum=dfa5b83d-9e4c-e811-a956-000d3a1bef07&forumName=Dynamics%20365%20for%20Marketing) (Self-Paced) (2 Minutes)
+*	[Marketing Assets on BizApps Hub](https://businessapplications.transform.microsoft.com/dynamics/customer-engagement?tab=marketing)
+*	[Marketing Assets on MPN](https://aka.ms/mpn/d365marketing)
+

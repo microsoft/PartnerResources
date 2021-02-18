@@ -1,3 +1,11 @@
+---
+layout: default
+title: Remote Assist
+nav_order: 3
+parent: Mixed Reality
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Mixed Reality Remote Assist
 
 Dynamics 365 Mixed Reality Remote Assist
@@ -17,7 +25,8 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Fundamentals
 
-* Coming Soon
+* [Mixed Reality Learning Experience](https://docs.microsoft.com/en-us/windows/mixed-reality/enthusiast-guide/learn-mixed-reality) (Self-Paced)
+* [Mixed Reality Learn overview](https://docs.microsoft.com/en-us/windows/mixed-reality/discover/mr-learning-overview) (Self-Paced)
 
 
 ## Associate
@@ -32,9 +41,19 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 * No Certification Exist at This Time
 
+## Keeping Up
+
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+
+## Resources
+
+* [Reactor Event](https://www.youtube.com/watch?v=Bk27oRTw3YY&feature=youtu.be)
+  * Mixed Reality BizApps 101: Dynamics 365 Remote Assist Deployment Best Practices
+  
 ## Community Resources
 
-* Coming Soon
+* [Mixed Reality Business Apps Tech Community](https://techcommunity.microsoft.com/t5/mixed-reality-business-apps/bd-p/MixedRealityBusinessApps)
+  * Discussion space for all things related to business apps on Mixed Reality, e.g Dynamics 365 Remote Assist, Guides etc.
 
 ## Practice Maturity Model
 

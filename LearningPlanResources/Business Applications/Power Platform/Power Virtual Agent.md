@@ -1,3 +1,10 @@
+---
+layout: default
+title: Power Virtual Agents
+parent: Power Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Power Virtual Agents
 
 Dynamics 365 Power Virtual Agents...
@@ -26,6 +33,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 ## Associate
 * [Create Bots with Power Virtual Agents (MS Learn)](https://docs.microsoft.com/en-us/learn/paths/work-power-virtual-agents/) (Self-Paced) (2 Hours)
 * [Power Virtual Agents app in Microsoft Teams](https://docs.microsoft.com/en-us/power-virtual-agents/teams/fundamentals-what-is-power-virtual-agents-teams/) (Self-Paced) (3 Minutes)
+* [Bot Framework Composer tutorials](https://docs.microsoft.com/en-us/composer/tutorial/tutorial-introduction) (Self-Paced) (2 Hours)
 
 ## Expert
 
@@ -34,6 +42,10 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 ## Certifications
 
 * No Certification Exist at This Time
+
+## Keeping Up
+
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
 ## Community Resources
 * [Join the discussion with the Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity) (Self-Paced) (1 Minute)

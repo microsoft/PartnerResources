@@ -1,3 +1,11 @@
+---
+layout: default
+title: Guides
+nav_order: 3
+parent: Mixed Reality
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Mixed Reality Guides
 
 Dynamics 365 Mixed Reality Guides
@@ -17,8 +25,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Fundamentals
 
-* Coming Soon
-
+* [Work with Dynamics 365 Guides](https://docs.microsoft.com/en-us/learn/paths/work-dynamics-365-guides/) (Self-Paced) (On-going)
 
 ## Associate
 
@@ -32,9 +39,14 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 * No Certification Exist at This Time
 
+## Keeping Up
+
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (8 Hours)
+
 ## Community Resources
 
-* Coming Soon
+* [Mixed Reality Business Apps Tech Community](https://techcommunity.microsoft.com/t5/mixed-reality-business-apps/bd-p/MixedRealityBusinessApps)
+  * Discussion space for all things related to business apps on Mixed Reality, e.g Dynamics 365 Remote Assist, Guides etc.
 
 ## Practice Maturity Model
 

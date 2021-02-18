@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Content Guidelines
 
 ## Suitable content

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Modern Analytics
+parent: Power Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Modern Analytics/Power BI
 
 With Power BI connect to and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight.
@@ -18,7 +25,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Keeping Up
 
-{ Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
 ## Fundamentals
 
@@ -70,6 +77,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 * [Power BI UG](https://mydacfeed.com/view/welcome-to-your-new-power-community) (Self-Paced)
 * [Microsoft Power BI Community](https://community.powerbi.com/) (Self-Paced)
+* [Subscribe to Microsoft Power BI YouTube Channel](https://www.youtube.com/channel/UCy--PYvwBwAeuYaR8JLmrfg) (Self-Paced)
 
 ## Events
 
@@ -78,3 +86,5 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 ## Certifications
 
 * [Exam PL-900: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900) (Self-Paced)
+* [Exam Prep: DA-100-Analyzing-Data-with-Power-BI](https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI/find/master) (Self-Paced)
+* [Exam DA-100: Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100) (Self-Paced)

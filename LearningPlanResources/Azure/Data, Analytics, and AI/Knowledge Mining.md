@@ -1,3 +1,10 @@
+---
+layout: default
+title: Knowledge Mining
+parent: Data Analytics and AI
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Knowledge Mining
 
 ## Fundamentals

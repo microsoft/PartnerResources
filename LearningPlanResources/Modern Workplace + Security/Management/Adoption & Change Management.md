@@ -1,3 +1,10 @@
+---
+layout: default
+title: Adoption & Change Management
+parent: Management
+grand_parent: Modern Workplace
+---
+
 # Learning Plan Resources for Adoption & Change Management
 
 Below you will find content to assist in upskilling on Adoption and Change Management for M365. Content is broken down as follows:
@@ -10,6 +17,9 @@ Additionally, some content may be marked with one or more icons:
 
 * '$' to indicate paid content
 * '3rd Party' to indicate 3rd party content (not created by Microsoft)
+
+## Keeping Up
+A great place to start looking for great skilling resources is in the [Microsoft 365 Technical Readiness Hub](https://cloudpartners.transform.microsoft.com/tech-hub).
 
 ## Fundamentals
 

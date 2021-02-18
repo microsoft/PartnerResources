@@ -1,3 +1,10 @@
+---
+layout: default
+title: Mainframe Migration
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Mainframe Migration
 
 ## Fundamentals

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Customer Data Platform
+nav_order: 3
+parent: Business Applications
+has_children: true
+---
+
 # Customer Data Platform Learning Plan Resources
 
 Welcome to the Microsoft US One Commercial Partner (OCP) Learning Plan Resources repository for the Customer Data Platform

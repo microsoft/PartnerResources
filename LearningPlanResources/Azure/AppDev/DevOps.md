@@ -1,3 +1,10 @@
+---
+layout: default
+title: DevOps
+parent: AppDev
+grand_parent: Azure
+---
+
 # Learning Plan Resources for DevOps
 
 ## Fundamentals
@@ -16,15 +23,19 @@
 
 ## Expert
 
-* [Microsoft Open Hack - DevOps](https://openhack.microsoft.com) (In-person Instructor Led) (16 Hours)
 * [Services Azure DevOps Plan](https://ready.azurewebsites.net/csslearning/3244) (Self-Paced) (80 Hours)
+
+## Hands-on
+
+* [GitHub What The Hack](https://aka.ms/githubwth) (Self-Paced) (16 Hours) - A challenge-based hack to learn GitHub
+* [GitHub Learning Lab](https://lab.github.com/) (Self-Paced) (20+ Hours)
+* [Microsoft Open Hack - DevOps](https://openhack.microsoft.com) (In-person Instructor Led) (16 Hours)
 
 ## Community Resources
 
 * [Azure DevOps Channel9](https://channel9.msdn.com/Search?term=DevOps&lang-en=true) (Self-Paced) (20 Minutes)
 * [Dev Blogs - Azure DevOps](https://devblogs.microsoft.com/devops/category/git/) (Self-Paced) (10 Minutes)
 * [Developer Community](https://developercommunity.visualstudio.com/spaces/8/index.html) (Self-Paced)
-* [DevOps Community Content](https://microsofteur.sharepoint.com/teams/1ServicesDevOps) (Self-Paced) (24 Hours)
 * [GitHub Public Roadmap](https://github.com/github/roadmap/projects/1)
 
 ## Certifications

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Front Door
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Front Door
 
 ## Fundamentals

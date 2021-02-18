@@ -1,3 +1,10 @@
+---
+layout: default
+title: Teams Custom Solution Development for Developers
+parent: Microsoft Teams
+grand_parent: Modern Workplace + Security
+---
+
 # Learning Plan Resources for Teams Custom Solution Development for Developers
 
 ## Fundamentals
@@ -21,7 +28,7 @@
 
 ## Expert
 
-* [MS Learn Course: Advanced Teams Solution Development](https://partner.microsoft.com/en-us/training/assets/collection/advanced-teams-solution-development#/) (Self-Paced) (8 Hours)
+* [MS Learn Course: Advanced Teams Solution Development](https://note.microsoft.com/CatalogDisplayPage-SRDEM10618_CatalogDisplayPage.html) (Self-Paced) (10 Hours)
 
 ## Community Resources
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Connected Commerce
+parent: Finance & Operations
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Connected Commerce
 
 ## Fundamentals

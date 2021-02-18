@@ -1,3 +1,10 @@
+---
+layout: default
+title: SQL Server Migration to Azure
+parent: Data Analytics and AI
+grand_parent: Azure
+---
+
 # Learning Plan Resources for SQL Server Migration to Azure
 
 This learning plan aggregates content for understanding and successfully migrating databases into Microsoft Azure. Specifically, this plan covers the migration of relational databases, primarily SQL Server, MySQL, Postgres, and MariaDB, with a specific emphasis on SQL Server because of the number of deployment options available.
@@ -46,7 +53,7 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 * [Data Access Migration Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-databasemigration.data-access-migration-toolkit) (Tooling)
   * This cool can be useful in scanning documents/code for data access patterns.
 
-### SQL Server Resources (intermediate)
+### SQL Server Resources
 
 * [Performance Guidelines for SQL Server on Azure VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-performance) (Microsoft Docs)
 * [Storage Configuration for SQL Server VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-server-storage-configuration) (Microsoft Docs)
@@ -58,10 +65,18 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
   * [Migrate SQL workloads to Azure virtual machines](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-virtual-machines/)
   * [Migrate SQL Workloads to Azure SQL Databases](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-sql-databases/)
   * [Migrate SQL Workloads to Azure Managed Instances](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-managed-instances/)
+ * [SQL Managed Instance Network Requirements](https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview#network-requirements)
+ * [SQL Managed Instance Connectivity Architecture](https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview)
+
 ### Pluralsight Courses
 
 * [Pluralsight: Migrating to SQL Server 2016](https://www.pluralsight.com/courses/sqlserver-2016-upgrading-migrating)
 * [Pluralsight: Azure SQL Database](https://www.pluralsight.com/courses/azure-sql-database-dba)
+
+### Youtube Video Series
+
+* [Azure SQL Bootcamp](https://www.youtube.com/watch?v=wntLOJRvIeI&list=PLlrxD0HtieHjveswk8_gkPD42Te48X4zG)
+
 
 ## Expert
 
@@ -70,4 +85,4 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 ## Certifications
 
 * [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
-* [DP-300: Administering Relational Databases on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300) (Currently in BETA)
+* [DP-300: Administering Relational Databases on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300) 

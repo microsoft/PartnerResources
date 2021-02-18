@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cloud to Cloud Migration
+parent: Infrastructure
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Cloud to Cloud Migration
 
 ## Fundamentals
