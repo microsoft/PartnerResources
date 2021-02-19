@@ -24,6 +24,7 @@ grand_parent: Azure
 * [Working with Data in Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/) (Self-Paced) (47 Minutes)
 * [Orchestrating machine learning with pipelines](https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/) (Self-Paced) (57 Minutes)
 * [Three Things to Know about Azure Machine Learning Notebook VMs](https://azure.microsoft.com/en-us/blog/three-things-to-know-about-azure-machine-learning-notebook-vm/) (Self-Paced)
+* [Zero to Hero in 4 Weeks with Machine Learning](https://azure.microsoft.com/en-us/resources/ml-learning-journey/) (Self-Paced) (4 Weeks)
 
 ## Associate
 
