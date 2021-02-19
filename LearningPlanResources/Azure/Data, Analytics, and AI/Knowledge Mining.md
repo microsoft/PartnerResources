@@ -22,8 +22,7 @@ grand_parent: Azure
 
 ## Expert
 
-* [Knowledge Mining Bootcamp](https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/) (In-person Instructor Led) (2 Days)
-* [Learn AI Bootcamp](https://github.com/Azure/LearnAI-Bootcamp) (In-person Instructor Led) (2 Days)
+* [Knowledge Mining Bootcamp](https://github.com/MicrosoftLearning/LearnAI-KnowledgeMiningBootcamp) (In-person Instructor Led) (2 Days)
 
 ## Community Resources
 
