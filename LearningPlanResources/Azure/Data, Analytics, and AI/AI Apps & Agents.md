@@ -19,6 +19,7 @@ grand_parent: Azure
 * [LUIS (Language Understanding) Introduction](https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/) (Self-Paced) (15 Minutes)
 * [QnA Maker Introduction](https://azure.microsoft.com/en-us/services/cognitive-services/qna-maker/) (Self-Paced) (15 Minutes)
 * [Tutorial: Create and deploy a basic bot](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-basic-deploy?view=azure-bot-service-4.0&tabs=csharp) (Self-Paced) (60 Minutes)
+* [Zero to Hero in 4 Weeks with Azure AI](https://azure.microsoft.com/en-us/resources/azure-ai-learning-journey/) (Self-Paced) (4 Weeks)
 
 ## Keeping Up
 Conversational AI Attach Play What The Hack - Coming Soon - Feb 2021
