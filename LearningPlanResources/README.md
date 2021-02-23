@@ -81,8 +81,7 @@ Virtual Training Series events focuses on enabling our partners at scale on spec
 ### AppDev
 
 * [Containerize with Kubernetes](/LearningPlanResources/Azure/AppDev/Containerize%20with%20Kubernetes.md)
-* [Modernize_New .NET Applications](/LearningPlanResources/Azure/AppDev/Modernize_New%20.NET%20Applications.md)
-* [Modernize_New OSS Applications](/LearningPlanResources/Azure/AppDev/Modernize_New%20OSS%20Applications.md)
+* [Modernize_New Applications](/LearningPlanResources/Azure/AppDev/Modernize.md)
 * [DevOps](/LearningPlanResources/Azure/AppDev/DevOps.md)
 
 ### IoT
