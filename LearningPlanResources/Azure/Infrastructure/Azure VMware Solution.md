@@ -13,7 +13,6 @@ grand_parent: Azure
 ## Fundamentals
 
 * [AVS On-Demand Webinar](https://docs.hol.vmware.com/catalog/) (On-Demand)
-* [AVS Hands on Lab from VMware](https://docs.hol.vmware.com/catalog/) (Self-Paced)
 * [Azure VMware Solution - Lightning Lab](https://via.vmw.com/EPnw)
 * [AVS Deployment Checklist](https://docs.microsoft.com/en-us/azure/azure-vmware/production-ready-deployment-steps) (Self-Paced)
 * [Azure Migrate Assessment for AVS](https://docs.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmware-solution-assessment) (Self-Paced)
@@ -37,6 +36,10 @@ grand_parent: Azure
 * [Azure VMware Solution VMware UserCon Series](https://www.youtube.com/watch?v=uUvHgpiOZbc&list=PLS9k3ksxRe_l-UpfAjmi0BoDSpo6AtLyh) (Self Paced)
 * [Create a vCenter Content Library ](https://techcommunity.microsoft.com/t5/azure-migration/azure-vmware-solution-create-a-vcenter-content-library-on-azure/ba-p/1823024) (Self Paced)
 * [Azure Backup for Azure VMware Solutions Virtual Machines ](https://techcommunity.microsoft.com/t5/azure-migration/azure-backup-for-azure-vmware-solutions-virtual-machines/ba-p/1468794) (Self Paced)
+
+### [AVS Simulated Hands on Lab from VMware](http://hol.pub/avs) (Self-Paced)
+* [Azure VMware Solution Private Cloud Deployment and Connectivity](http://labs.hol.vmware.com/HOL/catalogs/lab/9051)
+* [Azure VMware Solution Workload Migration with VMware HCX](https://labs.hol.vmware.com/HOL/catalogs/lab/9433)
 
 ## Expert
 * [AVS Reference Architecture](https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-hub-and-spoke) (On-Demand)
