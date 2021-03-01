@@ -56,6 +56,7 @@ Keeping Up
 * [Extend Dynamics 365 Portals](https://docs.microsoft.com/en-us/learn/paths/extend-dynamics-365-portals/) (Self-Paced) (3 Hours)
 * [Extending the Common Data Service](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Self-Paced) (2 Hours)
 * [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-model-driven-app/) (Self-Paced) (4 Hours)
+* [Low Code Application Development advanced specialization](https://partner.microsoft.com/en-us/training/assets/collection/low-code-application-development-advanced-specialization#/) (Self-Paced)
 
 ## Community Resources
 
