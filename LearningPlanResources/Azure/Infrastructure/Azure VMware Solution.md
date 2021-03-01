@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Azyre VMWare Solution (AWS)
+title: Azure VMWare Solution (AVS)
 parent: Infrastructure
 grand_parent: Azure
 ---
