@@ -21,15 +21,18 @@ grand_parent: Azure
 * [Azure VMware Solution - VMware Official Page](https://cloud.vmware.com/azure-vmware-solution)
 
 ### Videos
-* [What's new for Azure VMware solution to accelerate cloud migration](https://www.youtube.com/watch?v=k0UaEqgTPdo&t=733s) (Self-Paced Video) (35 Minutes)
-* [Azure VMware Solution - End to End Networking](https://www.youtube.com/watch?v=6_LYsYicacs) (Self-Paced Video) (20 Minutes)
-* [Azure VMware solution for business continuity and disaster recovery](https://www.youtube.com/watch?v=rhTgVqR4pps) (Self-Paced Video) (15 Minutes)
-* [Azure VMware Solution | How to run a complete VMware environment on Azure | Ignite 2020](https://www.youtube.com/watch?v=-yLgduCVPRk) (Self-Paced Video) (8 Minutes)
-* [Azure VMware Solution VMware UserCon Session](https://www.youtube.com/watch?v=uUvHgpiOZbc) (Self-Paced Video) (48 Minutes)
-* [Accelerate your cloud journey with Azure VMware Solution](https://www.youtube.com/watch?v=M_mrkSJ42hg) (Self-Paced Video) (36 Minutes)
-* [Deploying Microsoft Azure VMware Solutions & tips to get started](https://www.youtube.com/watch?v=-i2PsuisVjg) (Self-Paced Video) (7 Minutes)
-* [The VMware-Microsoft partnership for Azure VMware Solution](https://www.youtube.com/watch?v=r3OMHG61n08) (Self-Paced Video) (3 Minutes)
-* [How Microsoft Azure VMware Solution helps customers simplify and accelerate their cloud journey?](https://www.youtube.com/watch?v=g5fGQXKaJzU) (Self-Paced Video) (4 Minutes)
+* [What's new for Azure VMware solution to accelerate cloud migration](https://www.youtube.com/watch?v=k0UaEqgTPdo&t=733s) (35 Minutes)
+* [Azure VMware Solution - End to End Networking](https://www.youtube.com/watch?v=6_LYsYicacs) (20 Minutes)
+* [Azure VMware solution for business continuity and disaster recovery](https://www.youtube.com/watch?v=rhTgVqR4pps) (15 Minutes)
+* [Azure VMware Solution | How to run a complete VMware environment on Azure | Ignite 2020](https://www.youtube.com/watch?v=-yLgduCVPRk) (8 Minutes)
+* [Azure VMware Solution VMware UserCon Session](https://www.youtube.com/watch?v=uUvHgpiOZbc) (48 Minutes)
+* [Accelerate your cloud journey with Azure VMware Solution](https://www.youtube.com/watch?v=M_mrkSJ42hg) (36 Minutes)
+* [Deploying Microsoft Azure VMware Solutions & tips to get started](https://www.youtube.com/watch?v=-i2PsuisVjg) (7 Minutes)
+* [The VMware-Microsoft partnership for Azure VMware Solution](https://www.youtube.com/watch?v=r3OMHG61n08) (3 Minutes)
+* [How Microsoft Azure VMware Solution helps customers simplify and accelerate their cloud journey?](https://www.youtube.com/watch?v=g5fGQXKaJzU) (4 Minutes)
+* [Azure VMware Solution (AVS) integration with Azure Services: Demystify DNS and Secure Communication](https://www.youtube.com/watch?v=m26iLu6DHbU) (17 Minutes) 
+* [Azure VMware Solution (AVS) integration with Azure Application Gateway](https://www.youtube.com/watch?v=BoQYvqzb6Y8) (8 Minutes)
+* [Azure VMware Solution (AVS) Migration and Capacity Planning using Azure Migrate Server Assessment](https://www.youtube.com/watch?v=NoNG-hkksrA) (14 Minutes)
 
 ## Associate
 
