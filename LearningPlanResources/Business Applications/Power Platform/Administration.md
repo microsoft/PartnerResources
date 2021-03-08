@@ -17,7 +17,7 @@ With detailed administration strategy in place, organizations can enable busines
 * [Administer Microsoft Power Platform subscriptions](https://docs.microsoft.com/en-us/learn/modules/administrating-power-platform-subscriptions/)
 * [Administer Power Platform - Documentation](https://docs.microsoft.com/en-us/power-platform/admin/admin-documentation)
 
-## Center of Excellence rosources
+## Center of Excellence resources
 
 A Center of Excellence (CoE) in an organization drives innovation and improvement and brings together like-minded people with similar business goals to share knowledge and success, while at the same time providing standards, consistency, and governance to the organization.
 
