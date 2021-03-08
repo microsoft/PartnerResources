@@ -112,6 +112,11 @@ _Pluralsight Courses:_
 * [Building OSS Analytical Solutions with Azure HDInsight](https://docs.microsoft.com/en-us/learn/paths/build-oss-analytical-solutions-az-hdinsight/) (Microsoft Docs)
 * [Azure End2End - Azure Data Platform Workshop](https://github.com/fabragaMS/ADPE2E) (Hands on lab)
 * [Azure Data Factory - Labs](https://github.com/kromerm/ADF_Labs) (Hands on lab)
+* [Azure Synapse Analytics Deep Dive: Perform data engineering and exploration](https://note.microsoft.com/US-NOGEP-WBNR-FY21-02Feb-22-AzureSynapseAnalyticsDeepDivePerformdataengineeringandexploration-SRDEM55626-01_Registration.html) (Webinar)
+* [Azure Synapse Analytics Deep Dive: Build automated data integration pipelines with Azure Synapse Pipelines](https://note.microsoft.com/US-NOGEP-WBNR-FY21-02Feb-23-AzureSynapseAnalyticsDeepDiveBuildautomateddataintegrationpipelineswithAzureSynapsePipelines-SRDEM55626-02_Registration.html) (Webinar)
+* [Azure Synapse Analytics Deep Dive: Run interactive queries using serverless SQL pool with Azure Synapse Analytics](https://note.microsoft.com/US-NOGEP-WBNR-FY21-02Feb-24-AzureSynapseAnalyticsDeepDiveRuninteractivequeriesusingserverlessSQLpoolwithAzureSynapseAnalytics-SRDEM55626_Registration.html) (Webinar)
+* [Azure Synapse Analytics Deep Dive: Optimize a data warehouse with dedicated SQL pools](https://note.microsoft.com/US-NOGEP-WBNR-FY21-02Feb-25-AzureSynapseAnalyticsDeepDiveOptimizeadatawarehousewithdedicatedSQLpools-SRDEM55626_Registration.html) (Webinar)
+* [Azure Synapse Analytics Deep Dive: Machine Learning in Azure Synapse Analytics](https://note.microsoft.com/US-NOGEP-WBNR-FY21-02Feb-26-AzureSynapseAnalyticsDeepDiveMachineLearninginAzureSynapseAnalytics-SRDEM55626_Registration.html) (Webinar)
 
 _WhatTheHack events are often in-person in a hands on format.  However, it can be worked on individually and self-paced:_
 
