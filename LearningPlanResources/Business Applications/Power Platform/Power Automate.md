@@ -44,7 +44,6 @@ OR [Microsoft Power Platform Fundamentals](https://partner.microsoft.com/en-us/t
 ## Expert
 * [Introduction to expressions in Power Automate](https://docs.microsoft.com/en-us/learn/modules/introduction-expressions/)
 * [Understand advanced business process flow concepts in Power Automate](https://docs.microsoft.com/en-us/learn/modules/advanced-business-process-flows/)
-* [Power Automate documentation](https://docs.microsoft.com/en-us/power-automate/)
 
 ## Keeping Up
 
@@ -53,6 +52,10 @@ OR [Microsoft Power Platform Fundamentals](https://partner.microsoft.com/en-us/t
 ## Certifications
 
 * No Certification Exist at This Time
+
+## Technical Resources
+
+* [Power Automate documentation](https://docs.microsoft.com/en-us/power-automate/) (Other)
 
 ## Community Resources
 
