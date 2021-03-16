@@ -1,4 +1,12 @@
-
+---
+layout: page
+title: Project Service Automation
+permalink: /business-applications/customer-engagement/project-service-automation
+tags:
+ - business-applications
+ - customer-engagement
+ - project-service-automation
+---
 
 Project Operations | Microsoft Dynamics 365 Customer Engagement
 Project Service automation - Project Service Automation overview | Microsoft Docs – good integration with F&O.

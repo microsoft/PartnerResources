@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: ISV Connect
-nav_order: 3
-parent: Business Applications
+permalink: /business-applications/isv-connect/
+tags: 
+ - business-applications
+ - business-central
 ---
 
 # Success By Design ISV Connect

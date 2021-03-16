@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Modernize Human Resources
-parent: Finance & Operations
-grand_parent: Business Applications
+permalink: /business-applications/finance-and-operations/modernize-human-resources
+tags:
+ - business-applications
+ - finance-and-operations
+ - modernize-human-resources
 ---
 
 # Learning Plan Resources for Modernize Human Resources

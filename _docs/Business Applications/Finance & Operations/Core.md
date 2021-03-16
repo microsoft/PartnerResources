@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Core
-parent: Finance & Operations
-grand_parent: Business Applications
+permalink: /business-applications/finance-and-operations/core
+tags:
+ - business-applications
+ - finance-and-operations
 ---
 
 # Learning Plan Resources for Core

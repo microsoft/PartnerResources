@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: page
 title: Guides
-nav_order: 3
-parent: Mixed Reality
-grand_parent: Business Applications
+permalink: /business-applications/mixed-reality/guides
+tags:
+ - business-applications
+ - mixed-reality
+ - guides
 ---
 
 # Learning Plan Resources for Mixed Reality Guides

@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Field Service
-parent: Customer Engagement
-grand_parent: Business Applications
+permalink: /business-applications/customer-engagement/field-service
+tags:
+ - business-applications
+ - customer-engagement
 ---
 
 # Learning Plan Resources for Dynamics 365 Field Service

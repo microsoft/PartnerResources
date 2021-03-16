@@ -1,8 +1,11 @@
 ---
-layout: default
-title: Manufacturing
-parent: Finance & Operations
-grand_parent: Business Applications
+layout: page
+title: Finance & Operations
+permalink: /business-applications/finance-and-operations/manufacturing
+tags:
+ - business-applications
+ - finance-and-operations
+ - manufacturing
 ---
 
 # Learning Plan Resources for Manufacturing

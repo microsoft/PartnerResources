@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Finance & Operations On prem to Cloud
-parent: Finance & Operations
-grand_parent: Business Applications
+permalink: /business-applications/finance-and-operations/on-prem-to-cloud
+tags:
+ - business-applications
+ - finance-and-operations
 ---
 
 # Learning Plan Resources for Finance & Operations On prem to Cloud

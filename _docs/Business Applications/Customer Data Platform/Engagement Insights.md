@@ -1,8 +1,13 @@
 ---
-layout: default
-title: Customer Insights
-parent: Customer Data Platform
-grand_parent: Business Applications
+layout: page
+title: Engagement Insights
+permalink: /business-applications/customer-data-platform/engagement-insights
+tags:
+ - business-applications
+ - customer-engagement
+ - customer-data-platform
+ - customer-insights
+ - engagement-insights
 ---
 
 # Learning Plan Resources for Dynamics 365 Customer Insights

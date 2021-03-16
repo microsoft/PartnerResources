@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Sales
-parent: Customer Engagement
-grand_parent: Business Applications
+permalink: /business-applications/customer-engagement/sales
+tags:
+ - business-applications
+ - customer-engagement
+ - sales
 ---
 
 # Learning Plan Resources for Dynamics 365 Sales

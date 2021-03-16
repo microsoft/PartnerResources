@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Customer Service
-parent: Customer Engagement
-grand_parent: Business Applications
+permalink: /business-applications/customer-engagement/customer-service
+tags:
+ - business-applications
+ - customer-engagement
 ---
 
 # Learning Plan Resources for Dynamics 365 Customer Service

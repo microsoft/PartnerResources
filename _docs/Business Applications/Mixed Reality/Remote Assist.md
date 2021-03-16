@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: page
 title: Remote Assist
-nav_order: 3
-parent: Mixed Reality
-grand_parent: Business Applications
+permalink: /business-applications/mixed-reality/remote-assist
+tags:
+ - business-applications
+ - mixed-reality
+ - remote-assist
 ---
 
 # Learning Plan Resources for Mixed Reality Remote Assist

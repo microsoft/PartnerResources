@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: page
 title: Fraud Protection
-parent: Finance & Operations
-grand_parent: Business Applications
+permalink: /business-applications/finance-and-operations/fraud-protection
+tags:
+ - business-applications
+ - finance-and-operations
+ - fraud-protection
 ---

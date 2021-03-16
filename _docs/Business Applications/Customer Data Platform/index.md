@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: page
 title: Customer Data Platform
-nav_order: 3
-parent: Business Applications
-has_children: true
+permalink: /business-applications/customer-data-platform/
+tags:
+ - business-applications
+ - customer-engagement
+ - customer-data-platform
+ - customer-insights
 ---
 
 # Customer Data Platform Learning Plan Resources

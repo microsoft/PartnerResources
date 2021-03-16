@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Customer Voice
-parent: Customer Engagement
-grand_parent: Business Applications
+permalink: /business-applications/customer-engagement/customer-voice
+tags:
+ - business-applications
+ - customer-engagement
 ---
 
 # Learning Plan Resources for {Customer Voice}

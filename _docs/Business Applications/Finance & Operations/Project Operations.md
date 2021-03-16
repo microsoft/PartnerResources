@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: page
 title: Project Operations
-parent: Finance & Operations
-grand_parent: Business Applications
+permalink: /business-applications/finance-and-operations/project-operations
+tags:
+ - business-applications
+ - finance-and-operations
+ - project-operations
 ---

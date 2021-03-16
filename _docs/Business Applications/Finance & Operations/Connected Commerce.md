@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Connected Commerce
-parent: Finance & Operations
-grand_parent: Business Applications
+permalink: /business-applications/finance-and-operations/connected-commerce
+tags:
+ - business-applications
+ - finance-and-operations
+ - connected-commerce
 ---
 
 # Learning Plan Resources for Connected Commerce

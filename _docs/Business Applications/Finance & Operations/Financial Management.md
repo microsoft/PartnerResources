@@ -1,8 +1,10 @@
 ---
-layout: default
-title: Financial Management
-parent: Finance & Operations
-grand_parent: Business Applications
+layout: page
+title: Finance & Operations
+permalink: /business-applications/finance-and-operations/financial-management
+tags:
+ - business-applications
+ - finance-and-operations
 ---
 
 # Learning Plan Resources for Financial Management

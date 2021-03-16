@@ -1,9 +1,13 @@
 ---
-layout: default
+layout: page
 title: Supply Chain Management
-parent: Finance & Operations
-grand_parent: Business Applications
+permalink: /business-applications/finance-and-operations/supply-chain-management
+tags:
+ - business-applications
+ - finance-and-operations
+ - supply-chain-management
 ---
+
 
 # Learning Plan Resources for Supply Chain Management
 
