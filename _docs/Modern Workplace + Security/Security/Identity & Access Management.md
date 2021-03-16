@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Identity & Access Management
-parent: Security
-grand_parent: Modern Workplace + Security
+permalink: /modern-workplace/security/identity-and-access-management
+tags:
+ - modern-workplace
+ - security
+ - identity-and-access-management
 ---
 
 # Learning Plan Resources for Identity & Access Management

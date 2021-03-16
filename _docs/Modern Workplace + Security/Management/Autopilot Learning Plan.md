@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Autopilot Learning Plan
-parent: Management
-grand_parent: Modern Workplace
+permalink: /modern-workplace/management/autopilot-learning-plan
+tags:
+ - modern-workplace
+ - management
 ---
 
 # Learning Plan Resources for Autopilot Learning Plan

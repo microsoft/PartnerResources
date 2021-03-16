@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Dataverse for Teams
-parent: Microsoft Teams
-grand_parent: Modern Workplace + Security
+permalink: /modern-workplace/microsoft-teams/dataverse-for-teams
+tags:
+ - modern-workplace
+ - microsoft-teams
+ - dataverse
 ---
 
 # Learning Plan Resources for Microsoft Dataverse for Teams

@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Information & Data Protection
-parent: Security
-grand_parent: Modern Workplace + Security
+permalink: /modern-workplace/security/information-and-data-protection
+tags:
+ - modern-workplace
+ - security
+ - information-and-data-protection
 ---
 
 # Learning Plan Resources for Information & Data Protection

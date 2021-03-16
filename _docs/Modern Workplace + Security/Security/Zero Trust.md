@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Zero Trust
-parent: Security
-grand_parent: Modern Workplace + Security
+permalink: /modern-workplace/security/zero-trust
+tags:
+ - modern-workplace
+ - security
 ---
 
 # Learning Plan Resources for Zero Trust

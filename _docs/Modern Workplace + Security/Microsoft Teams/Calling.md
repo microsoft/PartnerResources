@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Calling
-parent: Microsoft Teams
-grand_parent: Modern Workplace + Security
+permalink: /modern-workplace/microsoft-teams/calling
+tags:
+ - modern-workplace
+ - microsoft-teams
+ - calling
 ---
 
 # Learning Plan Resources for Calling

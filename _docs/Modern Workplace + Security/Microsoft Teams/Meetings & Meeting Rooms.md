@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Meetings & Meeting Rooms
-parent: Microsoft Teams
-grand_parent: Modern Workplace + Security
+permalink: /modern-workplace/microsoft-teams/meetings-and-meeting-rooms
+tags:
+ - modern-workplace
+ - microsoft-teams
+ - meetings
 ---
 
 # Learning Plan Resources for Meetings & Meeting Rooms

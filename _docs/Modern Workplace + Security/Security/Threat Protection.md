@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Threat Protection
-parent: Security
-grand_parent: Modern Workplace + Security
+permalink: /modern-workplace/security/threat-protection
+tags:
+ - modern-workplace
+ - security
+ - threat-protection
 ---
 
 # Learning Plan Resources for Threat Protection

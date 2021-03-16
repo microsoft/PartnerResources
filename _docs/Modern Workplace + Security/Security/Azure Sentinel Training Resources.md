@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Azure Sentinel
-parent: Security
-grand_parent: Modern Workplace + Security
+permalink: /modern-workplace/security/azure-sentinel
+tags:
+ - modern-workplace
+ - security
+ - azure-sentinel
 ---
 
 # Learning Plan Resources for Azure Sentinel

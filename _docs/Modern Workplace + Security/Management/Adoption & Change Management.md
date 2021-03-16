@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Adoption & Change Management
-parent: Management
-grand_parent: Modern Workplace
+permalink: /modern-workplace/management/adoption-and-change-management
+tags:
+ - modern-workplace
+ - management
 ---
 
 # Learning Plan Resources for Adoption & Change Management

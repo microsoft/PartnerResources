@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Teams Custom Solution Development for Developers
-parent: Microsoft Teams
-grand_parent: Modern Workplace + Security
+permalink: /modern-workplace/microsoft-teams/teams-custom-solution-development-for-developers
+tags:
+ - modern-workplace
+ - microsoft-teams
 ---
 
 # Learning Plan Resources for Teams Custom Solution Development for Developers

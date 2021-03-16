@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Endpoint Manager Training
-parent: Security
-grand_parent: Modern Workplace + Security
+permalink: /modern-workplace/security/endpoint-manager
+tags:
+ - modern-workplace
+ - security
 ---
 
 # Microsoft Endpoint Manager Training

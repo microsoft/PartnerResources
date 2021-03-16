@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Teams Deployment
-parent: Microsoft Teams
-grand_parent: Modern Workplace + Security
+permalink: /modern-workplace/microsoft-teams/teams-deployment
+tags:
+ - modern-workplace
+ - microsoft-teams
 ---
 
 # Learning Plan Resources for Teams Deployment

@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Microsoft Defender for Endpoint Training
-parent: Security
-grand_parent: Modern Workplace + Security
+permalink: /modern-workplace/security/microsoft-defender-for-endpoint-training
+tags:
+ - modern-workplace
+ - security
+ - microsoft-defender-for-endpoint-training
 ---
 
 # Microsoft Defender for Endpoint Training Resources
