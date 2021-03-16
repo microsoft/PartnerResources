@@ -2,7 +2,7 @@ remote_theme: vsoch/docsy-jekyll
 
 title: " | Partner Resources"
 author: Microsoft
-baseurl: "/sharPartnerResources"
+baseurl: "/PartnerResources"
 
 back_to_top: true
 back_to_top_text: "Back to top"
@@ -11,11 +11,11 @@ footer_content: "Copyright &copy; 2021 Microsoft"
 
 # Social (First three Required)
 # TODO change to microsoft
-repo: "https://github.com/gregdegruy/PartnerResources"
-github_user: "gregdegruy"
+repo: "https://github.com/microsoft/PartnerResources"
+github_user: "microsoft"
 github_repo: "PartnerResources"
-twitter: gregdegruy
-linkedin: gregdegruy
+twitter: microsoft
+linkedin: microsoft
 
 logo_pixels: 34
 color: "#FFFFFF"
