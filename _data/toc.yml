@@ -1,0 +1,45 @@
+- title: PartnerResources
+  url: ""
+  links:
+    - title: "Azure"
+      url: "azure"
+      children:
+        - title: App Dev
+          url: "azure/appdev"
+        - title: Data, Analytics, and AI
+          url: "azure/data-analytics-ai"
+        - title: Infrastructure
+          url: "azure/infrastructure"
+        - title: IoT
+          url: "azure/iot"
+        - title: Azure Marketplace
+          url: "azure/azure-marketplace"
+    - title: "Business Applications"
+      url: "business-applications"
+      children:
+        - title: Customer Data Platform
+          url: "business-applications/customer-data-platform"
+        - title: Customer Engagement
+          url: "business-applications/customer-engagement"
+        - title: Finance & Operations
+          url: "business-applications/finance-and-operations"
+        - title: ISV Connect
+          url: "business-applications/isv-connect"
+        - title: Power Platform
+          url: "business-applications/power-platform"
+        - title: Small Medium Business
+          url: "business-applications/small-medium-business-smb"
+    - title: Industry
+      url: "industry"
+      children:
+        - title: Healthcare
+          url: "industry/healthcare"
+    - title: Modern Workplace + Security
+      url: "modern-workplace"
+      children:
+        - title: Management
+          url: "modern-workplace/management"
+        - title: Microsoft Teams
+          url: "modern-workplace/microsoft-teams"
+        - title: Security
+          url: "modern-workplace/security"

@@ -1,7 +1,7 @@
 ---
-layout: default
-title: All Learning Plan Resources
-nav_order: 1
+layout: page
+title: PartnerResources
+permalink: /
 ---
 
 # What are Microsoft Partner Resources?
