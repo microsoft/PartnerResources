@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Modernize New .NET Applications
-parent: AppDev
-grand_parent: Azure
+permalink: /azure/appdev/modernize-new-dot-net-applications
+tags: 
+ - azure
+ - appdev
 ---
 
 # Learning Plan Resources for Modernizing Applications with Azure

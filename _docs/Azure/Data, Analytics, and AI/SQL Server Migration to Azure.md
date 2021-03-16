@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: SQL Server Migration to Azure
-parent: Data Analytics and AI
-grand_parent: Azure
+permalink: /azure/data-analytics-ai/sql-server-migration-to-azure
+tags: 
+ - azure
+ - data-analytics-ai
 ---
 
 # Learning Plan Resources for SQL Server Migration to Azure

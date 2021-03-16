@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Cosmos DB
-parent: Data Analytics and AI
-grand_parent: Azure
+permalink: /azure/data-analytics-ai/cosmos-db
+tags: 
+ - azure
+ - data-analytics-ai
 ---
 
 # Learning Plan Resources for Cosmos DB

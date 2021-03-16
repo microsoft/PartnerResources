@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Containerize with Kubernetes
-parent: AppDev
-grand_parent: Azure
+permalink: /azure/appdev/containerize-with-kubernetes
+tags: 
+ - azure
+ - appdev
 ---
 
 # Learning Plan Resources for Containerize with Kubernetes

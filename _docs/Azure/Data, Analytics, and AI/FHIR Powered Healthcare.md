@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: FHIR Powered Healthcare
-parent: Data Analytics and AI
-grand_parent: Azure
+permalink: /azure/data-analytics-ai/fhir-powered-healthcare
+tags: 
+ - azure
+ - data-analytics-ai
 ---
 
 # Learning Plan Resources for FHIR Powered Healthcare

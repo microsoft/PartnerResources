@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Modernize .Net Apps
-parent: AppDev
-grand_parent: Azure
+permalink: /azure/appdev/modernize-dot-net-apps
+tags: 
+ - azure
+ - appdev
 ---
 
 # Modernize .Net Apps with App Service, Azure SQL DB

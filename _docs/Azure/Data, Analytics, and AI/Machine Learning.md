@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Machine Learning
-parent: Data Analytics and AI
-grand_parent: Azure
+permalink: /azure/data-analytics-ai/machine-learning
+tags: 
+ - azure
+ - data-analytics-ai
 ---
 
 # Learning Plan Resources for Machine Learning

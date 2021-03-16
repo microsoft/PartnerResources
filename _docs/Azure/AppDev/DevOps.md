@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: DevOps
-parent: AppDev
-grand_parent: Azure
+permalink: /azure/appdev/devops
+tags: 
+ - azure
+ - appdev
 ---
 
 # Learning Plan Resources for DevOps

@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Databricks
-parent: Data Analytics and AI
-grand_parent: Azure
+permalink: /azure/data-analytics-ai/databricks
+tags: 
+ - azure
+ - data-analytics-ai
 ---
 
 

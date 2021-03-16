@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Knowledge Mining
-parent: Data Analytics and AI
-grand_parent: Azure
+permalink: /azure/data-analytics-ai/knowledge-mining
+tags: 
+ - azure
+ - data-analytics-ai
 ---
 
 # Learning Plan Resources for Knowledge Mining

@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: AI Apps & Agents
-parent: Data Analytics and AI
-grand_parent: Azure
+permalink: /azure/data-analytics-ai/oss-db-to-azure
+tags: 
+ - azure
+ - data-analytics-ai
 ---
 
 # Learning Plan Resources for Conversational AI
