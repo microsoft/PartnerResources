@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Power Apps Portals
-parent: Power Platform
-grand_parent: Business Applications
+permalink: /business-applications/power-platform/power-apps-portals
+tags:
+ - business-applications
+ - power-platform
+ - power-apps-portals
 ---
 
 # Learning Plan Resources for Power Apps Portals

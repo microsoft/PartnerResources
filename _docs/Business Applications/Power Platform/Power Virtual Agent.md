@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Power Virtual Agents
-parent: Power Platform
-grand_parent: Business Applications
+permalink: /business-applications/power-platform/power-virtual-agents
+tags:
+ - business-applications
+ - power-platform
+ - power-virtual-agents
 ---
 
 # Learning Plan Resources for Power Virtual Agents

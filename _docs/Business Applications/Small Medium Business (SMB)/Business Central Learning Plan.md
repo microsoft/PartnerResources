@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Business Central
-parent: Small Medium Business (SMB)
-grand_parent: Business Applications
+permalink: /business-applications/small-medium-business-smb/business-central
+tags: 
+ - business-applications
+ - business-central
 ---
 
 # Learning Plan Resources for Business Central

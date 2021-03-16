@@ -1,8 +1,10 @@
 ---
-layout: default
-title: Power Platform
-parent: Power Platform
-grand_parent: Business Applications
+layout: page
+title: Business Applications
+permalink: /business-applications/power-platform/power-platform-learning-plan
+tags:
+ - business-applications
+ - power-platform
 ---
 
 # Learning Plan Resources for Power Platform Learning Plan

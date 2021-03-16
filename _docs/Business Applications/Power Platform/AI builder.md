@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: AI Builder
-parent: Power Platform
-grand_parent: Business Applications
+permalink: /business-applications/power-platform/ai-builder
+tags:
+ - business-applications
+ - power-platform
+ - ai-builder
 ---
 
 # Learning Plan Resources for AI Builder

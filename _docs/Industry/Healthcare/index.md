@@ -1,7 +1,10 @@
 ---
-layout: default
-title: Healthcare
-parent: Industry
+layout: page
+title: Microsoft Cloud for Healthcare
+permalink: /industry/healthcare
+tags:
+ - industry
+ - healthcare
 ---
 
 # Learning Plan Resources for Microsoft Cloud for Healthcare

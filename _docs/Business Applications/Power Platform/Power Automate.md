@@ -1,8 +1,12 @@
 ---
-layout: default
+layout: page
 title: Power Automate
-parent: Power Platform
-grand_parent: Business Applications
+permalink: /business-applications/power-platform/power-automate
+tags:
+ - business-applications
+ - power-platform
+ - power-automate
+ - flow
 ---
 
 # Learning Plan Resources for Power Automate

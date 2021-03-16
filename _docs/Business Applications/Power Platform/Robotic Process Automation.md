@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Robotic Process Automation
-parent: Power Platform
-grand_parent: Business Applications
+permalink: /business-applications/power-platform/robotic-process-automation
+tags:
+ - business-applications
+ - power-platform
+ - rpa
 ---
 
 # Learning Plan Resources for Robotic Process Automation

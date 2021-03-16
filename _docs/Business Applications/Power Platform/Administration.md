@@ -1,8 +1,12 @@
 ---
-layout: default
+layout: page
 title: Power Platform Administration and Center of Excellence
-parent: Power Platform
-grand_parent: Business Applications
+permalink: /business-applications/power-platform/administration
+tags:
+ - business-applications
+ - power-platform
+ - center-of-excellence
+ - power-platform-administration
 ---
 
 # Learning Plan Resources for Power Platform Administration and Center of Excellence teams

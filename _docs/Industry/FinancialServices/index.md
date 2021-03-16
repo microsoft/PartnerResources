@@ -1,3 +1,12 @@
+---
+layout: page
+title: Financial Services
+permalink: /industry/financial-services
+tags:
+ - industry
+ - financial-services
+---
+
 # Learning Plan Resources for Financial Services
 
 { Description of Learning Plan }

@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: App Modernization
-parent: Power Platform
-grand_parent: Business Applications
+permalink: /business-applications/power-platform/app-modernization
+tags:
+ - business-applications
+ - power-platform
+ - app-modernization
 ---
 
 # Learning Plan Resources for App Modernization

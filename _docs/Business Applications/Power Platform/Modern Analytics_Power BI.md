@@ -1,8 +1,12 @@
 ---
-layout: default
-title: Modern Analytics
-parent: Power Platform
-grand_parent: Business Applications
+layout: page
+title: Modern Analytics Power BI
+permalink: /business-applications/power-platform/modern-analytics-power-bi
+tags:
+ - business-applications
+ - power-platform
+ - power-bi
+ - modern-analytics
 ---
 
 # Learning Plan Resources for Modern Analytics/Power BI
