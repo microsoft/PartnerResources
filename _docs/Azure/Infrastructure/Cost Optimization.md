@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Cost Optimization
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/cost-optimization
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Cost Optimization

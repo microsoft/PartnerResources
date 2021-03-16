@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: page
 title: Lighthouse
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/lighthouse
+tags: 
+ - azure
+ - infrastructure
 ---
+
 # Learning Plan Resources for Azure Lighthouse
 This Learning Plan focuses on Azure Lighthouse
 

@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Business Continuity and Disaster Recovery
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/business-continuity-and-disaster-recovery
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Business Continuity and Disaster Recovery

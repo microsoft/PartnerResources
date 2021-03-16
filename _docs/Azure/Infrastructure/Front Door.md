@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Front Door
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/front-door
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Front Door

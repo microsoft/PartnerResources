@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Cloud Adoption Framework & Governance
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/cloud-adoption-framework-governance
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Cloud Adoption Framework & Governance

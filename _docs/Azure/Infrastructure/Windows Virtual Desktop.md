@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Windows Virtual Desktop
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/windows-virtual-desktop
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan and Technical Resources for Windows Virtual Desktop

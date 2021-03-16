@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Policy
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/policy
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Azure Policy

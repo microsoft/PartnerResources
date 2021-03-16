@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: Linux Server Migration
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/linux-server-migration
+tags: 
+ - azure
+ - infrastructure
 ---
-
 # Learning Plan Resources for Linux Server Migration
 
 ## Fundamentals

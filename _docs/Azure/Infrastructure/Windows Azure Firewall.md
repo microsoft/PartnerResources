@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Windows Azure Firewall
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/windows-azure-firewall
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Windows Azure Firewall

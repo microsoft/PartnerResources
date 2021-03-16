@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: IoT Edge
-parent: IoT
-grand_parent: Azure
+permalink: /azure/iot/iot-edge
+tags: 
+ - azure
+ - iot
 ---
 
 # Learning Plan Resources for IoT Edge

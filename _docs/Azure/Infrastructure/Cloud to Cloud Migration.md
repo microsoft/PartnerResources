@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Cloud to Cloud Migration
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/cloud-to-cloud-migration
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Cloud to Cloud Migration

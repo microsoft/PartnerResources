@@ -1,8 +1,10 @@
 ---
-layout: default
-title: Azure VMWare Solution (AVS)
-parent: Infrastructure
-grand_parent: Azure
+layout: page
+title: Azure VMWare Solution (AWS)
+permalink: /azure/infrastructure/azure-vmware-solution
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Azure VMware Solution (AVS)

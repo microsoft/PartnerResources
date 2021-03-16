@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: IoT Central
-parent: IoT
-grand_parent: Azure
+permalink: /azure/iot/iot-central
+tags: 
+ - azure
+ - iot
 ---
 
 # Learning Plan Resources for IoT Central

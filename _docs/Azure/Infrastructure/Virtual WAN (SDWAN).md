@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Virtual WAN (SDWAN)
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/virtual-wan-sdwan
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Virtual WAN (SDWAN)

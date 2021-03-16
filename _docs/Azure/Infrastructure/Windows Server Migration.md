@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Windows Server Migration
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/windows-server-migration
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Windows Server Migration

@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Mainframe Migration
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/mainframe-migration
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Mainframe Migration

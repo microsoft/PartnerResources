@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: IoT Hub
-parent: IoT
-grand_parent: Azure
+permalink: /azure/iot/iot-hub
+tags: 
+ - azure
+ - iot
 ---
 
 # Learning Plan Resources for IoT Hub

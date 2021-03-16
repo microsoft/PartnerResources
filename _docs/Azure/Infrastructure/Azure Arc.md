@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Azure Arc
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/azure-arc
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Azure Arc

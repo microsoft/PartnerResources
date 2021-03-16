@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Threat Protection
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/threat-protection
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Threat Protection

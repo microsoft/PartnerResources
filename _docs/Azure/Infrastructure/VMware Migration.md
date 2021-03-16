@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: VMWare Migration
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/vmware-migration
+tags: 
+ - azure
+ - infrastructure
 ---
-
 # Learning Plan Resources for VMware Migration
 
 ## Fundamentals

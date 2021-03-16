@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Azure Well-Architected Framework
-parent: Infrastructure
-grand_parent: Azure
+permalink: /azure/infrastructure/azure-well-architected-framework
+tags: 
+ - azure
+ - infrastructure
 ---
 
 # Learning Plan Resources for Microsoft Azure Well-Architected Framework
