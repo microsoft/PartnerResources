@@ -10,7 +10,7 @@ tags:
 
 # Learning Plan Resources for Robotic Process Automation
 
-{ Description of Learning Plan }
+Robotic process automation (RPA) is the process of automating business procedures through mimicking and automatically executing rule-based tasks. Through RPA, a machine copies and records the set of actions that a user takes to complete a task.
 
 Content is broken down as follows:
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
@@ -51,6 +51,9 @@ Additionally, some content may be marked with one or more icons:
 
 { Add certifications that may apply. Visit https://docs.microsoft.com/en-us/learn/certifications/ as a starting point.  You may include links to training classes and related resources related to certifications.  }
 
+## Technical Resources
+
+* [Documentation](https://docs.microsoft.com/en-us/power-automate/) (Self-Paced) (On-going)
 
 ## Community
 
