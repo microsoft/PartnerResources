@@ -14,6 +14,7 @@ footer_content: "Copyright &copy; 2021 Microsoft"
 repo: "https://github.com/microsoft/PartnerResources"
 github_user: "microsoft"
 github_repo: "PartnerResources"
+github_branch: "main"
 twitter: microsoft
 linkedin: microsoft
 
