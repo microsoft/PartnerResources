@@ -6,6 +6,7 @@ tags:
  - azure
  - data-analytics-ai
  - synapse
+ - SQL Server
 ---
 
 # Learning Plan Resources for Modern Data Warehouse (Azure Synapse Analytics)
