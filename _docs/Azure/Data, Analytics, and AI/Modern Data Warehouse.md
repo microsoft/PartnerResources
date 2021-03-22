@@ -5,6 +5,7 @@ permalink: /azure/data-analytics-ai/modern-data-warehouse
 tags: 
  - azure
  - data-analytics-ai
+ - synapse
 ---
 
 # Learning Plan Resources for Modern Data Warehouse (Azure Synapse Analytics)
