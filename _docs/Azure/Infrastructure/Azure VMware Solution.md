@@ -16,6 +16,8 @@ tags:
 * [Azure VMware Solution - Micrsoft Official Page](https://azure.microsoft.com/en-us/services/azure-vmware/)
 * [Azure VMware Solution Documentation - Micrsoft Official Page](https://docs.microsoft.com/en-us/azure/azure-vmware/)
 * [Azure VMware Solution - VMware Official Page](https://cloud.vmware.com/azure-vmware-solution)
+* [Azure VMWare Solution Availability by region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&regions=all)
+
 * [AVS On-Demand Webinar](https://docs.hol.vmware.com/catalog/) (On-Demand)
 
 ### Videos
@@ -27,6 +29,7 @@ tags:
 
 ### Hands On Labs
 * [Azure VMware Solution - Lightning Lab](https://via.vmw.com/EPnw)
+* [Prepare to migrate VMware workloads to Azure by deploying Azure VMware Solution - Learning Module](https://docs.microsoft.com/en-us/learn/modules/deploy-azure-vmware-solution/) (56 Minutes) (Self-Paced)
 
 ## Associate
 * [AVS Deployment Checklist](https://docs.microsoft.com/en-us/azure/azure-vmware/production-ready-deployment-steps)
@@ -44,10 +47,9 @@ tags:
 * [Azure VMware Solution (AVS) integration with Azure Application Gateway](https://www.youtube.com/watch?v=BoQYvqzb6Y8) (8 Minutes)
 * [Azure VMware Solution (AVS) Migration and Capacity Planning using Azure Migrate Server Assessment](https://www.youtube.com/watch?v=NoNG-hkksrA) (14 Minutes)
 
-### Hands On Labs
-* [AVS Simulated Hands on Lab from VMware](http://hol.pub/avs)
-* [Azure VMware Solution Private Cloud Deployment and Connectivity](http://labs.hol.vmware.com/HOL/catalogs/lab/9051)
-* [Azure VMware Solution Workload Migration with VMware HCX](https://labs.hol.vmware.com/HOL/catalogs/lab/9433)
+### [AVS Simulated Hands on Lab from VMware](http://hol.pub/avs)
+* [Azure VMware Solution Private Cloud Deployment and Connectivity](http://labs.hol.vmware.com/HOL/catalogs/lab/9051) (Self-Paced)
+* [Azure VMware Solution Workload Migration with VMware HCX](https://labs.hol.vmware.com/HOL/catalogs/lab/9433) (Self-Paced)
 
 ## Expert
 * [AVS Reference Architecture](https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-hub-and-spoke) (On-Demand)
