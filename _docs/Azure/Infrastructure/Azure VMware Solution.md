@@ -13,11 +13,10 @@ tags:
 * [AVS Blog](https://avs.ms), [#AzureVMwareSolution on Twitter](https://twitter.com/hashtag/azurevmwaresolution) '3rd Party', [VirtualWorkloads Blog](https://www.virtualworkloads.com/) '3rd Party'
 
 ## Fundamentals
-* [Azure VMware Solution - Micrsoft Official Page](https://azure.microsoft.com/en-us/services/azure-vmware/)
-* [Azure VMware Solution Documentation - Micrsoft Official Page](https://docs.microsoft.com/en-us/azure/azure-vmware/)
+* [Azure VMware Solution - Microsoft Official Page](https://azure.microsoft.com/en-us/services/azure-vmware/)
 * [Azure VMware Solution - VMware Official Page](https://cloud.vmware.com/azure-vmware-solution)
+* [Azure VMware Solution Documentation - Microsoft Official Page](https://docs.microsoft.com/en-us/azure/azure-vmware/)
 * [Azure VMWare Solution Availability by region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&regions=all)
-
 * [AVS On-Demand Webinar](https://docs.hol.vmware.com/catalog/) (On-Demand)
 
 ### Videos
@@ -52,9 +51,9 @@ tags:
 * [Azure VMware Solution Workload Migration with VMware HCX](https://labs.hol.vmware.com/HOL/catalogs/lab/9433) (Self-Paced)
 
 ## Expert
-* [AVS Reference Architecture](https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-hub-and-spoke) (On-Demand)
-* [Third Party Appliance with AVS:](https://techcommunity.microsoft.com/t5/azure-migration/azure-vmware-solution-avs-connecting-3rd-party-networking-and/ba-p/1524297)
-* [Disaster Recovery Drill from AVS:](https://docs.microsoft.com/en-us/azure/site-recovery/avs-tutorial-dr-drill-azure)
+* [AVS Reference Architecture](https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-hub-and-spoke)
+* [Third Party Appliance with AVS](https://techcommunity.microsoft.com/t5/azure-migration/azure-vmware-solution-avs-connecting-3rd-party-networking-and/ba-p/1524297)
+* [Disaster Recovery Drill from AVS](https//docs.microsoft.com/en-us/azure/site-recovery/avs-tutorial-dr-drill-azure)
 * [Backup solutions for Azure VMware Solution virtual machines (VMs)](https://docs.microsoft.com/en-us/azure/azure-vmware/ecosystem-back-up-vms)
 
 ## Community
