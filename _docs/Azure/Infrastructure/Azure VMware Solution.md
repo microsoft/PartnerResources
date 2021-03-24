@@ -53,7 +53,7 @@ tags:
 ## Expert
 * [AVS Reference Architecture](https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-hub-and-spoke)
 * [Third Party Appliance with AVS](https://techcommunity.microsoft.com/t5/azure-migration/azure-vmware-solution-avs-connecting-3rd-party-networking-and/ba-p/1524297)
-* [Disaster Recovery Drill from AVS](https//docs.microsoft.com/en-us/azure/site-recovery/avs-tutorial-dr-drill-azure)
+* [Disaster Recovery Drill from AVS](https://docs.microsoft.com/en-us/azure/site-recovery/avs-tutorial-dr-drill-azure)
 * [Backup solutions for Azure VMware Solution virtual machines (VMs)](https://docs.microsoft.com/en-us/azure/azure-vmware/ecosystem-back-up-vms)
 
 ## Community
