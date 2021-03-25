@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Modern Data Warehouse
+title: Azure Synapse Analytics
 permalink: /azure/data-analytics-ai/modern-data-warehouse
 tags: 
  - azure
- - data-analytics-ai
  - synapse
  - SQL Server
+ - Data Warehouse
 ---
 
-# Learning Plan Resources for Modern Data Warehouse (Azure Synapse Analytics)
+# Learning Plan Resources for Azure Synapse Analytics
 
 Azure Synapse Analytics is an analytical service evolved from Azure SQL Data Warehouse that brings together enterprise data warehousing and big data analytics. Provisioned or on-demand, Azure Synapse offers a unified experience to ingest, prepare, manage, and serve data for analytics, BI, and machine learning needs.
 
