@@ -13,6 +13,9 @@ tags:
 
 With detailed administration strategy in place, organizations can enable business groups to focus on solving business problems efficiently while complying with IT and business compliance standards. The following content will take you through some of the important security and administartion capabilities and best practices within Power Platform 
 
+## Keeping Up
+
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
 ## Administration fundamentals
 
