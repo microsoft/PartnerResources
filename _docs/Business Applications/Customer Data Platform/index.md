@@ -28,8 +28,8 @@ Content is broken down as follows:
 * Community resources: user groups, events, blogs
 
 # Feature Learning Plans
-* [Audience insights](https://microsoft.github.io/PartnerResources/business-applications/customer-data-platform//Audience%20Insights.md)
-* [Engagements insights](https://microsoft.github.io/PartnerResources/business-applications/customer-data-platform//Engagement%20Insights.md)
+* [Audience insights](https://microsoft.github.io/PartnerResources/business-applications/customer-data-platform/Audience%20Insights.md)
+* [Engagements insights](https://microsoft.github.io/PartnerResources/business-applications/customer-data-platform/Engagement%20Insights.md)
 
 # Fundamentals
 * [The Customer Data Platform Advantage: How CDP Compares to CRM and DMP - eBook](https://go.microsoft.com/fwlink/?LinkId=2141596&clcid=0x409)
