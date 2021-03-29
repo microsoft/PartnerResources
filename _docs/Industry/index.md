@@ -14,6 +14,7 @@ tags:
 #### {% raw %}[Healthcare](healthcare){% endraw %}
 #### {% raw %}[Financial Services](financial-services){% endraw %}
 #### {% raw %}[Retail](retail){% endraw %}
+#### {% raw %}[Manufacturing](manufacturing){% endraw %}
 
 <!-- Not implemented -->
 <!-- #### {% raw %}[Retail](retail){% endraw %} -->
