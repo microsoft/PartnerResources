@@ -20,7 +20,9 @@ tags:
 * [AVS On-Demand Webinar](https://docs.hol.vmware.com/catalog/) (On-Demand)
 
 ### Videos
-* [Azure VMware Solution | How to run a complete VMware environment on Azure | Ignite 2020](https://www.youtube.com/watch?v=-yLgduCVPRk) (8 Minutes)
+* [What's new with Microsoft Azure infrastructure - AVS](https://youtu.be/CmpXfoeRhfg?t=478) (3 Minutes)
+* [Rapidly extend and modernize your business with Azure VMware Solution - Ignite 2021](https://www.youtube.com/watch?v=DTGOZUTiIjk) (25 Minutes)
+* [Azure VMware Solution | How to run a complete VMware environment on Azure - Ignite 2020](https://www.youtube.com/watch?v=-yLgduCVPRk) (8 Minutes)
 * [Accelerate your cloud journey with Azure VMware Solution](https://www.youtube.com/watch?v=M_mrkSJ42hg) (36 Minutes)
 * [Deploying Microsoft Azure VMware Solutions & tips to get started](https://www.youtube.com/watch?v=-i2PsuisVjg) (7 Minutes)
 * [The VMware-Microsoft partnership for Azure VMware Solution](https://www.youtube.com/watch?v=r3OMHG61n08) (3 Minutes)
@@ -42,6 +44,8 @@ tags:
 * [Azure VMware Solution - End to End Networking](https://www.youtube.com/watch?v=6_LYsYicacs) (20 Minutes)
 * [Azure VMware solution for business continuity and disaster recovery](https://www.youtube.com/watch?v=rhTgVqR4pps) (15 Minutes)
 * [Azure VMware Solution VMware UserCon Session](https://www.youtube.com/watch?v=uUvHgpiOZbc) (48 Minutes)
+* [Connecting VDI Users to VMware Horizon with Azure VMware and VMware SD-WAN - Ignite 2021](https://www.youtube.com/watch?v=oAo8_MRSTBU) (30 Minutes)
+* [Learn how to connect VDI Users to VMware Horizon with Azure VMware Solution & VMware SD-WAN - Ignite 2021](https://www.youtube.com/watch?v=1wXTjD1V0hg) (30 Minutes)
 * [Azure VMware Solution (AVS) integration with Azure Services: Demystify DNS and Secure Communication](https://www.youtube.com/watch?v=m26iLu6DHbU) (17 Minutes) 
 * [Azure VMware Solution (AVS) integration with Azure Application Gateway](https://www.youtube.com/watch?v=BoQYvqzb6Y8) (8 Minutes)
 * [Azure VMware Solution (AVS) Migration and Capacity Planning using Azure Migrate Server Assessment](https://www.youtube.com/watch?v=NoNG-hkksrA) (14 Minutes)
