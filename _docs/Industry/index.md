@@ -12,7 +12,7 @@ tags:
 <!-- #### {% raw %}[Financial Services](financial-services){% endraw %} -->
 
 #### {% raw %}[Healthcare](healthcare){% endraw %}
-#### {% raw %}[FinancialServices](FinancialServices){% endraw %}
+#### {% raw %}[Financial Services](financial-services){% endraw %}
 
 <!-- Not implemented -->
 <!-- #### {% raw %}[Retail](retail){% endraw %} -->
