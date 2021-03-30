@@ -22,7 +22,7 @@ tags:
 ### Videos
 * [What's new with Microsoft Azure infrastructure - AVS](https://youtu.be/CmpXfoeRhfg?t=478) (3 Minutes)
 * [Rapidly extend and modernize your business with Azure VMware Solution - Ignite 2021](https://www.youtube.com/watch?v=DTGOZUTiIjk) (25 Minutes)
-* [Azure VMware Solution | How to run a complete VMware environment on Azure - Ignite 2020](https://www.youtube.com/watch?v=-yLgduCVPRk) (8 Minutes)
+* [How to run a complete VMware environment on Azure - Ignite 2020](https://www.youtube.com/watch?v=-yLgduCVPRk) (8 Minutes)
 * [Accelerate your cloud journey with Azure VMware Solution](https://www.youtube.com/watch?v=M_mrkSJ42hg) (36 Minutes)
 * [Deploying Microsoft Azure VMware Solutions & tips to get started](https://www.youtube.com/watch?v=-i2PsuisVjg) (7 Minutes)
 * [The VMware-Microsoft partnership for Azure VMware Solution](https://www.youtube.com/watch?v=r3OMHG61n08) (3 Minutes)
@@ -55,6 +55,7 @@ tags:
 * [Azure VMware Solution Workload Migration with VMware HCX](https://labs.hol.vmware.com/HOL/catalogs/lab/9433) (Self-Paced)
 
 ## Expert
+* [AVS Service Limits](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-vmware-solution-limits)
 * [AVS Reference Architecture](https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-hub-and-spoke)
 * [Third Party Appliance with AVS](https://techcommunity.microsoft.com/t5/azure-migration/azure-vmware-solution-avs-connecting-3rd-party-networking-and/ba-p/1524297)
 * [Disaster Recovery Drill from AVS](https://docs.microsoft.com/en-us/azure/site-recovery/avs-tutorial-dr-drill-azure)
