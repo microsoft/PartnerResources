@@ -1,4 +1,4 @@
-remote_theme: vsoch/docsy-jekyll
+remote_theme: gregdegruy/docsy-jekyll
 
 title: " | Partner Resources"
 author: Microsoft
@@ -10,7 +10,6 @@ back_to_top_text: "Back to top"
 footer_content: "Copyright &copy; 2021 Microsoft"
 
 # Social (First three Required)
-# TODO change to microsoft
 repo: "https://github.com/microsoft/PartnerResources"
 github_user: "microsoft"
 github_repo: "PartnerResources"
