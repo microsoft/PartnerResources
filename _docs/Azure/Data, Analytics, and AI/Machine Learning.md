@@ -9,24 +9,22 @@ tags:
 
 # Learning Plan Resources for Machine Learning
 
+This learning plan will guide you through implementing Machine Learning (ML) solutions on Azure with Azure Machine Learning, a suite of services that enables those new to ML, as well as experienced data scientists, to build and operationalize ML models.   
+
+To make AI accessible for all experience levels, Azure ML features a no-code Automated ML service, a low-code drag-and-drop Designer interface, and a full-featured Python SDK for code development within Jupyter Notebooks or your IDE of choice. 
+
+
 ## Fundamentals
 
-* [Getting Started with AI on Azure](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/) (Self-Paced)
-* [Automated ML Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml) (Self-Paced)
-* [Azure Machine Learning Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/) (Self-Paced)
-* [Azure Machine Learning Notebook VM](https://techcommunity.microsoft.com/t5/Educator-Developer-Blog/Azure-Machine-Learning-Notebook-VM/ba-p/683785) (Self-Paced)
-* [Azure Machine Learning Product Page](https://azure.microsoft.com/en-us/services/machine-learning/) (Self-Paced)
-* [Azure Machine Learning vs Machine Learning Studio (classic)](https://docs.microsoft.com/en-us/azure/machine-learning/compare-azure-ml-to-studio-classic) (Self-Paced)
-* [Create a classification model with Azure Machine Learning designer](https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/) (Self-Paced) (55 Minutes)
-* [Create a Clustering Model with Azure Machine Learning designer](https://docs.microsoft.com/en-us/learn/modules/create-clustering-model-azure-machine-learning-designer/) (Self-Paced) (53 Minutes)
-* [Create a Regression Model with Azure Machine Learning designer](https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/) (Self-Paced) (51 Minutes)
-* [Create no-code predictive models with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/) (Self-Paced) (198 Minutes)
-* [Use automated machine learning in Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/) (Self-Paced) (39 Minutes)
-* [Working with Compute Contexts in Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/) (Self-Paced) (47 Minutes)
-* [Working with Data in Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/) (Self-Paced) (47 Minutes)
-* [Orchestrating machine learning with pipelines](https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/) (Self-Paced) (57 Minutes)
-* [Three Things to Know about Azure Machine Learning Notebook VMs](https://azure.microsoft.com/en-us/blog/three-things-to-know-about-azure-machine-learning-notebook-vm/) (Self-Paced)
-* [Zero to Hero in 4 Weeks with Machine Learning](https://azure.microsoft.com/en-us/resources/ml-learning-journey/) (Self-Paced) (4 Weeks)
+* [Getting Started with AI on Azure](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/) (Self-Paced) – A good overview of fundamental concepts for AI and ML 
+* [Azure Machine Learning Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/) (Self-Paced) - Documentation for Azure Machine Learning, covering concepts such as how to train, deploy, and manage your machine learning models
+* [Azure Machine Learning Studio - Youtube](https://www.youtube.com/watch?v=JNa4VV0d8T0&t=3s) (Self-Paced) - Video describing the basics of Azure ML Studio.
+* [Automated ML Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml) (Self-Paced) – All about Azure Machine Learning’s Automated ML service that enables no-code ML model training and deployment 
+    * [Automated Machine Learning on Azure (Video)](https://www.youtube.com/watch?v=I8m4kZIeHJ4) (15 minutes) - A visual to show how AutoML works and various use cases around it.  
+    * [Use automated machine learning in Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/) (Self-Paced) (39 Minutes) - A step by step tutorial on how to use Auto ML in Azure Machine Learning. 
+* [Designer Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer) - All about Azure Machine Learning’s drag-and-drop Designer and its capabilities. 
+    * [Low-code machine learning in Azure | Machine Learning Essentials](https://www.youtube.com/watch?v=mwJ5Vbmy1AM) (Video) (11 Minutes) - A visual to demonstrate Machine Learning designer. 
+    * [Create a classification model with Azure Machine Learning designer](https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/) (Self-Paced) (55 Minutes) - A step by step tutorial on creating a classification model within ML designer. 
 
 ## Associate
 
