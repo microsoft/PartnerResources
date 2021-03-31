@@ -9,7 +9,7 @@ tags:
 
 # [Data, Analytics, and AI](https://docs.microsoft.com/en-us/azure/?product=ai-machine-learning)
 
-#### {% raw %}[AI Apps & Agents](oss-db-to-azure){% endraw %}
+#### {% raw %}[AI Apps & Agents](ai-apps-agents){% endraw %}
 
 #### {% raw %}[Azure Database for MySQL, MariaDB and Postgres](oss-db-to-azure){% endraw %}
 
