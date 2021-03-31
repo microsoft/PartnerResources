@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Apps & Agents
+title: Conversational AI
 permalink: /azure/data-analytics-ai/ai-apps-agents
 tags: 
  - azure
