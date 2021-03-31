@@ -49,6 +49,7 @@ tags:
 * [Azure VMware Solution (AVS) integration with Azure Services: Demystify DNS and Secure Communication](https://www.youtube.com/watch?v=m26iLu6DHbU) (17 Minutes) 
 * [Azure VMware Solution (AVS) integration with Azure Application Gateway](https://www.youtube.com/watch?v=BoQYvqzb6Y8) (8 Minutes)
 * [Azure VMware Solution (AVS) Migration and Capacity Planning using Azure Migrate Server Assessment](https://www.youtube.com/watch?v=NoNG-hkksrA) (14 Minutes)
+* [Azure VMware Solution (AVS) Rotate vCenter Admin and NSX-T Admin Passwords using Azure Logic App](https://www.youtube.com/watch?v=cK1qY3knj88) (12 Minutes)
 
 ### [AVS Simulated Hands on Lab from VMware](http://hol.pub/avs)
 * [Azure VMware Solution Private Cloud Deployment and Connectivity](http://labs.hol.vmware.com/HOL/catalogs/lab/9051) (Self-Paced)
