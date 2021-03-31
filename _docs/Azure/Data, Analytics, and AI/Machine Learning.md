@@ -28,26 +28,50 @@ To make AI accessible for all experience levels, Azure ML features a no-code Aut
 
 ## Associate
 
-* [Tutorial: Get started creating your first ML experiment with the Python SDK](https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-1st-experiment-sdk-setup) (Self-Paced) (2 Hours)
-* [Workshop: Hands-on deep learning with TensorFlow 2.0 and Azure](https://github.com/microsoft/bert-stack-overflow) (Self-Paced) (2 Days)
-* [Dog Breeds Sample from Product Group](https://github.com/maxluk/dogbreeds-webinar) (Self-Paced) (4 Hours)
-* [Introduction to machine learning with Python and Azure Notebooks](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/) (Self-Paced) (2 Hours)
-* [Azure ML Studio](https://ml.azure.com/) (Self-Paced)
-* [Azure Notebooks with Data Science VMs](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/12/10/microsoft-azure-notebooks-and-additional-compute-capacity-via-connecting-to-data-science-vms/) (Self-Paced)
-* [Build a Web App with Refreshable Machine Learning Models](https://docs.microsoft.com/en-us/learn/modules/create-web-app-with-refreshable-models/) (Self-Paced) (82 Minutes)
-* [Training Options in Azure Machine Learning Service](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/training) (Self-Paced) (2 Hours)
+* [Python SDK Documentation](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py) (Self-Paced) - A good overview of the Azure Machine Learning SDK and its features. 
+    * [Tutorial: Get started creating your first ML experiment with the Python SDK](https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-1st-experiment-sdk-setup) (Self-Paced) (2 Hours) –  
+        * Part 1 – Create a compute instance using Azure Machine Learning  
+        * Part 2 – Train a model: Follow the Next Steps on the bottom of Part 1 to train your image classification model with MNIST data and scikit-learn 
+        * Part 3 – Deploy a model: Follow the Next Steps on the bottom of Part 2 to deploy the classification model in Azure Container Instances  
+* [Microsoft Learn - Azure Machine Learning Exercises](https://microsoftlearning.github.io/mslearn-dp100/) (Self-paced) (8 Hours) - A repository of hands-on lab exercises that support DP-100. Consists mainly of notebooks and tutorials on how to use the AML SDK.  
+* [How to use Azure ML](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml) - A GitHub repository filled with hands-on practice for experimentation and model management. 
+* [Working with Compute Contexts in Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/) (Self-Paced) (47 Minutes) - A guide with information on environments and compute contexts as well as hands-on practice. 
+* [Working with Data in Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/) (Self-Paced) (47 Minutes) - A repository of information regarding datasets and datastores in Azure Machine Learning. 
+* [Deploy real-time machine learning services with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/?OCID=AID3027817) (Self-Paced) (40 Minutes) - A tutorial on how to register and deploy ML models using Azure ML. 
 
 ## Expert
 
-* [Azure ML Security](https://github.com/jhirono/amlsecurity) (Self-Paced) (2 Hours)
-* [Time Series Forecasting Best Practices & GitHub Examples](https://github.com/microsoft/forecasting) (Self-Paced) (8 Hours)
-* [Recommendation System Best Practices & Github Examples](https://github.com/microsoft/recommenders) (Self-Paced) (8 Hours)
+* [Orchestrating machine learning with pipelines](https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/) (Self-Paced) (57 Minutes) – Learn to create, publish, and run Azure Machine Learning pipelines 
+* [Deploy batch inference pipelines with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/) (Self-Paced) (44 Minutes) – Learn to create, deploy, and use batch inference pipelines 
+* [Explain machine learning models with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/explain-machine-learning-models-with-azure-machine-learning/?OCID=AID3027817) (Self-Paced) (47 Minutes) – Learn to explain models by calculating and interpreting feature importance. 
+* [Tune hyperparameters with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-machine-learning/?OCID=AID3027817) (Self-Paced) (46 Minutes) – Microsoft Learn tutorial on hyperparameter sweeping to optimize your ML models 
+* [Monitor models with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/?OCID=AID3027817) (Self-Paced) (39 Minutes) – Learn to run hyperparameter tuning experiments to optimize model performance 
+* [Monitor data drift with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/?OCID=AID3027817) (Self-Paced) (42 Minutes) – Learn to configure data drift monitoring to detect changes in data over time 
+* [MLOps Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) (Self-Paced) – Documentation on Azure Machine Learning Operations (MLOps) for building efficient ML workflows, including continuous integration, delivery, and deployment 
+    * [MLOPS What The Hack](https://github.com/ShivaKumarChittamuru/WhatTheHack/tree/master/032-MLOpsFromScratch) (Self-Paced) – GitHub repository containing a challenge-based hackathon on MLOps.  You are presented with challenges to work through and solve as you learn MLOps concepts and practices. 
+* [Microsoft Cloud Workshop Machine Learning Lab](https://github.com/microsoft/MCW-Machine-Learning/blob/main/Hands-on%20lab/HOL%20step-by%20step%20-%20Machine%20Learning.md) (Self-paced) (4 Hours) – Hands-on lab using Azure Databricks in combination with Azure Machine Learning to build, train and deploy models 
 
+## Specialist
+* [Time Series Forecasting Best Practices & GitHub Examples](https://github.com/microsoft/forecasting) (Self-Paced) (8 Hours)- Github repository containing examples and best practice guidelines for time series forecasting solutions. 
+* [Recommendation System Best Practices & Github Examples](https://github.com/microsoft/recommenders) (Self-Paced) (8 Hours) - Github repository containing examples and best practice guidelines for recommendation systems. 
+* [NLP Best Practices & Github Examples](https://github.com/microsoft/nlp-recipes?OCID=AID3027817) (Self-Paced) (8 Hours) - Github repository containing examples and best practice guidelines for Natural Language Processing Systems. 
+* [Computer Vision Best Practices & GitHub Samples](https://github.com/microsoft/computervision-recipes?OCID=AID3027817) (Self-Paced) (8 Hours) - Github repository containing examples and best practice guidelines for Computer Vision Systems. 
+* [Dog Breeds Sample (Image Classification on AML) from Product Group](https://github.com/maxluk/dogbreeds-webinar) (Self-Paced) (4 Hours) - In this tutorial, you will learn how to train a Pytorch image classification model using transfer learning with Azure Machine Learning.  
+* [Azure ML Security](https://github.com/jhirono/amlsecurity) (Self-Paced) (4 Hours) - A repository of information on how to provision secure workplace in Azure Machine Learning.  
+
+ 
 ## Certifications
+
 DP-100 applies your knowledge of data science and machine learning to implement and run machine learning workloads on Azure; in particular, using Azure Machine Learning Service. This is the most Machine Learning heavy certification. 
-* https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100
+
+* [DP-100](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100)
 
 You may also consider taking AI-100 to skill up on cognitive services, machine learning, and knowledge mining or DP-200 and DP-201 to skill up on the data engineering portion of a machine learning project. 
-* https://docs.microsoft.com/en-us/learn/certifications/exams/ai-100
-* https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200
-* https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201
+
+* [AI-100](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-100)
+* [DP-200](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200)
+* [DP-201](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201)
+
+Leverage the below learning guide to achive ML expertise on Azure. 
+
+* [Zero to Hero in 4 Weeks with Machine Learning](https://azure.microsoft.com/en-us/resources/ml-learning-journey/) (Self-Paced) (4 Weeks) 
