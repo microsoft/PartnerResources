@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI Apps & Agents
-permalink: /azure/data-analytics-ai/oss-db-to-azure
+permalink: /azure/data-analytics-ai/ai-apps-agents
 tags: 
  - azure
  - data-analytics-ai
