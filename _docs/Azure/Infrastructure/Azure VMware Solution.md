@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Azure VMWare Solution (AWS)
+title: Azure VMWare Solution (AVS)
 permalink: /azure/infrastructure/azure-vmware-solution
 tags: 
  - azure
