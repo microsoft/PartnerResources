@@ -4,7 +4,8 @@ title: Knowledge Mining
 permalink: /azure/data-analytics-ai/knowledge-mining
 tags: 
  - azure
- - data-analytics-ai
+ - knowledge mining
+ - cognitive services
 ---
 
 # Learning Plan Resources for Knowledge Mining
@@ -28,7 +29,7 @@ tags:
 
 ## Community Resources
 
-* [Plural Sight: Azure Search](https://www.pluralsight.com/courses/microsoft-azure-search-solution-implementing) (Self-Paced) (4 Hours)
+* [PluralSight: Azure Search](https://www.pluralsight.com/courses/microsoft-azure-search-solution-implementing) (Self-Paced) (4 Hours)
 
 ## Events
 

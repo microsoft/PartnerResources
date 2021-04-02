@@ -4,7 +4,7 @@ title: Databricks
 permalink: /azure/data-analytics-ai/databricks
 tags: 
  - azure
- - data-analytics-ai
+ - databricks
 ---
 
 

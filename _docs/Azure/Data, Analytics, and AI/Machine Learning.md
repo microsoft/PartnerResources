@@ -4,7 +4,8 @@ title: Machine Learning
 permalink: /azure/data-analytics-ai/machine-learning
 tags: 
  - azure
- - data-analytics-ai
+ - machine learning
+ - ai
 ---
 
 # Learning Plan Resources for Machine Learning

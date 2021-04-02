@@ -4,7 +4,8 @@ title: Conversational AI
 permalink: /azure/data-analytics-ai/ai-apps-agents
 tags: 
  - azure
- - data-analytics-ai
+ - ai
+ - bot service
 ---
 
 # Learning Plan Resources for Conversational AI

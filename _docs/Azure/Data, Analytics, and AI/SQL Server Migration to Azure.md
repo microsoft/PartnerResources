@@ -4,7 +4,8 @@ title: SQL Server Migration to Azure
 permalink: /azure/data-analytics-ai/sql-server-migration-to-azure
 tags: 
  - azure
- - data-analytics-ai
+ - sql server
+ - migration
 ---
 
 # Learning Plan Resources for SQL Server Migration to Azure
