@@ -5,10 +5,12 @@ permalink: /azure/data-analytics-ai/databricks
 tags: 
  - azure
  - databricks
+ - big data
+ - machine learning
 ---
 
 
-# Learning Plan Resources for Databricks
+# Learning Plan Resources for Azure Databricks
 
 ## Fundamentals
 

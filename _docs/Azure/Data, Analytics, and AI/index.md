@@ -15,7 +15,7 @@ tags:
 
 #### {% raw %}[Cosmos DB](cosmos-db){% endraw %}
 
-#### {% raw %}[Data bricks](databricks){% endraw %}
+#### {% raw %}[Azure Databricks](databricks){% endraw %}
 
 #### {% raw %}[FHIR Powered Healthcare](fhir-powered-healthcare){% endraw %}
 
