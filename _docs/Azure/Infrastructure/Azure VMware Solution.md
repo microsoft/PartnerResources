@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Azure VMWare Solution (AVS)
+title: Azure VMware Solution (AVS)
 permalink: /azure/infrastructure/azure-vmware-solution
 tags: 
  - azure
@@ -17,6 +17,7 @@ tags:
 * [Azure VMware Solution - VMware Official Page](https://cloud.vmware.com/azure-vmware-solution)
 * [Azure VMware Solution Documentation - Microsoft Official Page](https://docs.microsoft.com/en-us/azure/azure-vmware/)
 * [Azure VMWare Solution Availability by region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&regions=all)
+* [Azure VMware Solution Service Level Agreements (SLA)](https://azure.microsoft.com/en-us/support/legal/sla/azure-vmware/v1_0/)
 * [AVS On-Demand Webinar](https://docs.hol.vmware.com/catalog/) (On-Demand)
 
 ### Videos
