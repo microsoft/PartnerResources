@@ -62,6 +62,7 @@ tags:
 * [Third Party Appliance with AVS](https://techcommunity.microsoft.com/t5/azure-migration/azure-vmware-solution-avs-connecting-3rd-party-networking-and/ba-p/1524297)
 * [Disaster Recovery Drill from AVS](https://docs.microsoft.com/en-us/azure/site-recovery/avs-tutorial-dr-drill-azure)
 * [Backup solutions for Azure VMware Solution virtual machines (VMs)](https://docs.microsoft.com/en-us/azure/azure-vmware/ecosystem-back-up-vms)
+* [Self-service exchanges and refunds for Azure Reservations](https://docs.microsoft.com/en-us/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)
 
 ## Community
 * [AVS Community Blog](https://techcommunity.microsoft.com/t5/azure-migration/bg-p/AzureMigrationBlog)
