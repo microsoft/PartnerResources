@@ -19,8 +19,6 @@ Fundamentals, Associate, Expert: content categorized in increase levels of compl
 
 * [About Site Recovery](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-overview) (Self-Paced) (15 Minutes)
 * [General questions about Azure Site Recovery](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-faq) (Self-Paced) (1 Hour)
-* [Introduction to Azure Site Recovery](https://support.microsoft.com/en-us/help/4482582/introduction-to-azure-site-recovery) (Self-Paced) (1 Hour)
-* [Introduction to Microsoft Azure Backup](https://support.microsoft.com/en-us/help/4482583/introduction-to-microsoft-azure-backup) (Self-Paced) (1 Hour)
 * [Building a Microsoft BCDR Practice](https://assetsprod.microsoft.com/mpn/en-us/easy-play-button-build-an-azure-bcdr.pdf) (Self-Paced) (1 Hour)
 
 ## Associate
