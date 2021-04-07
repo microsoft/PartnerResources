@@ -15,6 +15,8 @@ tags:
 
 #### {% raw %}[Field Service](field-service){% endraw %}
 
+#### {% raw %}[Marketing](marketing){% endraw %}
+
 #### {% raw %}[Project Service Automation](project-service-automation){% endraw %}
 
 #### {% raw %}[Sales](sales){% endraw %}
