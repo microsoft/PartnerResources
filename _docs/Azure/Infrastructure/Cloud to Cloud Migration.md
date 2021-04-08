@@ -31,7 +31,7 @@ tags:
 ## Expert
 
 * [Architect compute infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/) (Self-Paced) (6 Hours)
-* [Architect great solutions in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-great-solutions-in-azure/) (Self-Paced) (5 Hours)
+* [Architect solutions leveraging Well Architected Framework](https://docs.microsoft.com/en-us/learn/paths/architect-great-solutions-in-azure/) (Self-Paced) (5 Hours)
 * [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/) (Self-Paced) (4 Hours)
 * [Architect network infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/) (Self-Paced) (8 Hours)
 * [Architect storage infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/) (Self-Paced) (5 Hours)
