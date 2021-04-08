@@ -23,6 +23,5 @@ tags:
 * [Azure Sentinel webinar: Threat Hunting (part 1)](https://www.youtube.com/watch?v=Tiz-ftnlTg4) (Self-Paced) (60 Minutes)
 * [Azure Sentinel: End-to-End SOC scenario](https://www.youtube.com/watch?v=HloK6Ay4h1M&feature=youtu.be) (Self-Paced) (60 Minutes)
 * [Azure Sentinel: Threat Hunting](https://www.youtube.com/watch?v=Tiz-ftnlTg4&feature=youtu.be) (Self-Paced) (60 Minutes)
-* [Combining Azure Lighthouse with Sentinel’s DevOps capabilities](https://techcommunity.microsoft.com/t5/azure-sentinel/combining-azure-lighthouse-with-sentinel-s-devops-capabilities/ba-p/1210966#) (Online Instructor Led) (20 Minutes)
 * [Deploying and Managing Azure Sentinel as Code](https://techcommunity.microsoft.com/t5/azure-sentinel/deploying-and-managing-azure-sentinel-as-code/ba-p/1131928#) (Self-Paced) (20 Minutes)
 * [Design a holistic monitoring strategy on Azure](https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/) (Self-Paced) (60 Minutes)
