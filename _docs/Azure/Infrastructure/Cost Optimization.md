@@ -30,7 +30,6 @@ tags:
 
 * [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/) (Self-Paced) (4 Hours)
 * [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/) (Self-Paced) (4 Hours)
-* [Microsoft Azure How Subscription Administrators & Directory Administrators Differ](https://blogs.msdn.microsoft.com/edutech/administration/microsoft-azure-how-subscription-administrators-directory-administrators-differ/) (Self-Paced) (20 Minutes)
 
 ## Specialist
 
