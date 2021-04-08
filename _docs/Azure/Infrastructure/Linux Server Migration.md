@@ -48,7 +48,6 @@ tags:
 * [MS Docs: Scale migrations to Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-scale) (Self-Paced)
 * [Open Service Broker for Azure](https://azure.microsoft.com/en-us/resources/videos/azure-friday-open-service-broker-for-azure/) (Self-Paced) (17 Minutes)
 * [OpenShift in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/openshift-get-started) (Self-Paced)
-* [Azure Migration Partner Resources](https://partner.microsoft.com/en-us/asset/collection/azure-migration-campaign#/) (Self-Paced)
 * [Azure Stack: Add Linux images to Azure Stack Hub Marketplace](https://docs.microsoft.com/en-us/azure-stack/operator/azure-stack-linux?view=azs-1910) (Self-Paced)
 * [Avere vFXT for Azure](https://azure.microsoft.com/en-us/services/storage/avere-vfxt/) (Self-Paced)
 
