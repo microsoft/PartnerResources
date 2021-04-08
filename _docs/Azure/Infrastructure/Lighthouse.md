@@ -10,9 +10,6 @@ tags:
 # Learning Plan Resources for Azure Lighthouse
 This Learning Plan focuses on Azure Lighthouse
 
-## Keeping Up
-[Azure Lighthouse Updates](https://azure.microsoft.com/en-us/updates/?query=lighthouse), [#azurelighthouse](https://twitter.com/hashtag/azurelighthouse?lang=en) '3rd Party'
- 
 ## Fundamentals
 
 * [Azure Lighthouse Official Page](https://azure.microsoft.com/en-us/services/azure-lighthouse/)
