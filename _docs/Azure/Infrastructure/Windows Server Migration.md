@@ -44,9 +44,6 @@ tags:
 * [Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/) (Self-Paced) (5 Hours)
 * [Exam AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Exam AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
-* [Creating and Deploying Apps](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T04) (In-person Instructor Led) (1 Day)
-* [Implementing Workloads and Security](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T02) (In-person Instructor Led) (1 Day)
-* [Understanding Cloud Architect Technology Solutions](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T03) (In-person Instructor Led) (1 Day)
 
 ## Specialist
 
