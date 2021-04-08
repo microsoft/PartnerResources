@@ -16,9 +16,6 @@ tags:
 * [Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) (Self-Paced) (10 Hours)
 * [Linux Migration](https://azure.microsoft.com/en-us/migration/linux/) (Self-Paced)
 * [Linux on Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/) (Self-Paced)
-* [Microsoft Azure Fundamentals](https://www.microsoft.com/learning/course.aspx?cid=AZ-900T01) (In-person Instructor Led) (1 Day)
-* [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/) (Self-Paced)
-* [Microsoft Cloud Adoption Framework for Azure:](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/) (Self-Paced)
 
 ## Associate
 
