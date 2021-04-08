@@ -37,10 +37,6 @@ tags:
 * [Azure Firewall](https://azure.microsoft.com/en-us/services/azure-firewall/) (Self-Paced)
 * [Azure Front Door](https://azure.microsoft.com/en-us/services/frontdoor/) (Self-Paced)
 
-## Events
-
-* [Microsoft Build](https://www.microsoft.com/en-us/build) (Self-Paced)
-
 ## Certifications
 
 * [Microsoft Certified: Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator) (Self-Paced)
