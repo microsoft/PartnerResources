@@ -15,7 +15,6 @@ This Learning Plan focuses on Azure Policy
  
 ## Fundamentals
 
-* [Azure Policy Official Page](https://azure.microsoft.com/en-us/services/azure-lighthouse/)
 * [Azure Policy Official Documentation](https://azure.microsoft.com/en-us/services/azure-policy/)
 * [Azure Policy Built-in Definitions](https://docs.microsoft.com/en-us/azure/governance/policy/samples/built-in-policies)
 * [Azure Policy on Github - Built-in Definitions](https://github.com/Azure/azure-policy/tree/master/built-in-policies)
