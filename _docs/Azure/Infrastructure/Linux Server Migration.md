@@ -29,8 +29,7 @@ tags:
 * [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/) (Self-Paced) (4 Hours)
 * [Administer infrastructure resources in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-infrastructure-resources-in-azure/) (Self-Paced) (11 Hours)
 * [Architect migration; business continuity; and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/) (Self-Paced) (7 Hours)
-* [Course AZ-103T00-A: Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/courses/az-103t00) (In-person Instructor Led) (4 Days)
-
+*
 ## Expert
 
 * [Creating and Deploying Apps](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T04) (In-person Instructor Led) (1 Day)
