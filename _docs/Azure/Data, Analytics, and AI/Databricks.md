@@ -23,6 +23,8 @@ tags:
 * [Extract knowledge and insights from your data with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-science/) (Self-Paced) (4 Hours)
 * [Perform data engineering with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks/) (Self-Paced) (8 Hours)
 * [Tutorial: ETL with Databricks](https://docs.microsoft.com/en-us/azure/databricks/scenarios/databricks-extract-load-sql-data-warehouse) (Self-Paced) (1 hour)
+* [Delta Lake and Delta Engine Guide](https://docs.microsoft.com/en-us/azure/databricks/delta/) (Self-Paced) (4 Hours)
+* [Guide for Machine Learning and Deep Learning at Scale on Azure Databricks](https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/) (Self-Paced) (4 Hours)
 
 ## Expert
 * [Databricks Academy](https://academy.databricks.com/) offers self-paced and instructor-led training courses. Self-paced training is free for all customers.
