@@ -25,11 +25,7 @@ tags:
 * [Rehost an on-premises Linux app to Azure VMs and Azure Database for MySQL](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-rehost-linux-vm-mysql) (Self-Paced) (17 Minutes)
 * [Manage resources in AzureManage resources in Azure](https://docs.microsoft.com/en-us/learn/paths/manage-resources-in-azure/) (Self-Paced) (4 Hours)
 * [Learning Path: Secure your cloud data](https://docs.microsoft.com/en-us/learn/paths/secure-your-cloud-data/) (Self-Paced) (6 Hours)
-* [Exam AZ-103: Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/exams/az-103) (Self-Paced)
-* [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/) (Self-Paced) (4 Hours)
-* [Administer infrastructure resources in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-infrastructure-resources-in-azure/) (Self-Paced) (11 Hours)
-* [Architect migration; business continuity; and disaster recovery in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/) (Self-Paced) (7 Hours)
-*
+ 
 ## Expert
 
 * [Creating and Deploying Apps](https://www.microsoft.com/learning/course.aspx?cid=AZ-300T04) (In-person Instructor Led) (1 Day)
