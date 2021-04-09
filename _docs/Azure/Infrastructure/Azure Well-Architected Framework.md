@@ -27,7 +27,6 @@ Additionally, some content may be marked with one or more icons:
 
 ## Fundamentals
 
-Cost Optimization
 * [Cost Optimization](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/) (Self-Paced)
 * [Operational Excellence](https://docs.microsoft.com/en-us/azure/architecture/framework/devops/overview/) (Self-Paced) 
 * [Performance Efficiency](https://docs.microsoft.com/en-us/azure/architecture/framework/scalability/overview) (Self-Paced)
