@@ -10,16 +10,7 @@ tags:
 
 # Learning Plan Resources for Azure Well-Architected Framework
 
-{ Description of Learning Plan }
-
-Content is broken down as follows:
-* Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
-* Certifications: relevant Microsoft exams or certifications
-* Community resources: user groups, events, blogs
-
-Additionally, some content may be marked with one or more icons:
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
+The Azure Well-Architected Framework is a set of guiding tenets that can be used to improve the quality of a workload. The framework consists of five pillars of architecture excellence: Cost Optimization, Operational Excellence, Performance Efficiency, Reliability, and Security.
 
 ## Keeping Up
 
@@ -27,31 +18,23 @@ Additionally, some content may be marked with one or more icons:
 
 ## Fundamentals
 
-{ Add fundamental/beginner/high level items here; generally applicable to all audiences }
-
-* [Example Microsoft Home Page Link](https://www.microsoft.com)
-    * This is description of the content
+* [Cost Optimization](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/) (Self-Paced)
+* [Operational Excellence](https://docs.microsoft.com/en-us/azure/architecture/framework/devops/overview/) (Self-Paced) 
+* [Performance Efficiency](https://docs.microsoft.com/en-us/azure/architecture/framework/scalability/overview) (Self-Paced)
+* [Reliability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview) (Self-Paced)
+* [Security](https://docs.microsoft.com/en-us/azure/architecture/framework/security/overview) (Self-Paced)
 
 ## Associate
 
-{ Add associate/mid-level items here; baseline content to be proficient with technology }
+* [Workloads](https://docs.microsoft.com/en-us/azure/architecture/framework/hybrid/hybrid-opex) (Self-Paced)
 
+## Events
 
-## Expert
-
-{ Add expert/high-level items here; content intended for in-depth and hands-on experiences }
-
-
-## Specialist
-
-{ Add expert/high-level items here; content intended for in-depth and hands-on experiences.  Consider adding What The Hack, OpenHack, etc.}
-
+* [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) (Self-Paced)
+* [Microsoft Build](https://www.microsoft.com/en-us/build) (Self-Paced)
 
 ## Certifications
 
-{ Add certifications that may apply. Visit https://docs.microsoft.com/en-us/learn/certifications/ as a starting point.  You may include links to training classes and related resources related to certifications.  }
-
-
-## Community
-
-{ Add links to community resources: blogs, forums, yammer channels, etc. }
+* [Microsoft Certified: Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator) (Self-Paced)
+* [Microsoft Certified: Azure Solutions Architect](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect) (Self-Paced)
+* [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) (Self-Paced) (4 Hours)
