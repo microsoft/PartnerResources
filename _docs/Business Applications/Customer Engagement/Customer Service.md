@@ -28,10 +28,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Keeping Up
 
-Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners.  
-
-* Release wave 1 covers features releasing from April through September.
-* Release wave 2 covers features releasing from October through March.
+Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners.  Release wave 1 covers features releasing from April through September.  Release wave 2 covers features releasing from October through March.
 
 * [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
 
