@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Azure Well-Architected Framework
-permalink: /azure/infrastructure/azure-well-architected-framework
+title: Microsoft Well-Architected Framework
+permalink: /azure/infrastructure/microsoft-well-architected-framework
 tags: 
  - azure
  - infrastructure
 ---
 
-# Learning Plan Resources for Microsoft Azure Well-Architected Framework
+# Learning Plan Resources for Microsoft Well-Architected Framework
 
 { Description of Learning Plan }
 
