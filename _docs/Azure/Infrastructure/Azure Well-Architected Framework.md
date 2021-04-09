@@ -37,10 +37,13 @@ Additionally, some content may be marked with one or more icons:
 
 * [Workloads](https://docs.microsoft.com/en-us/azure/architecture/framework/hybrid/hybrid-opex) (Self-Paced)
 
+## Events
+
+* [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) (Self-Paced)
+* [Microsoft Build](https://www.microsoft.com/en-us/build) (Self-Paced)
+
 ## Certifications
 
-{ Add certifications that may apply. Visit https://docs.microsoft.com/en-us/learn/certifications/ as a starting point.  You may include links to training classes and related resources related to certifications.  }
-
-## Community
-
-{ Add links to community resources: blogs, forums, yammer channels, etc. }
+* [Microsoft Certified: Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator) (Self-Paced)
+* [Microsoft Certified: Azure Solutions Architect](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect) (Self-Paced)
+* [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) (Self-Paced) (4 Hours)
