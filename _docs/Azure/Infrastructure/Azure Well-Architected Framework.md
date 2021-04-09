@@ -12,10 +12,6 @@ tags:
 
 The Azure Well-Architected Framework is a set of guiding tenets that can be used to improve the quality of a workload. The framework consists of five pillars of architecture excellence: Cost Optimization, Operational Excellence, Performance Efficiency, Reliability, and Security.
 
-## Keeping Up
-
-{ Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
-
 ## Fundamentals
 
 * [Cost Optimization](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/) (Self-Paced)
