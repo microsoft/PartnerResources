@@ -33,10 +33,13 @@ Additionally, some content may be marked with one or more icons:
 * [Reliability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview) (Self-Paced)
 * [Security](https://docs.microsoft.com/en-us/azure/architecture/framework/security/overview) (Self-Paced)
 
+## Associate
+
+* [Workloads](https://docs.microsoft.com/en-us/azure/architecture/framework/hybrid/hybrid-opex) (Self-Paced)
+
 ## Certifications
 
 { Add certifications that may apply. Visit https://docs.microsoft.com/en-us/learn/certifications/ as a starting point.  You may include links to training classes and related resources related to certifications.  }
-
 
 ## Community
 
