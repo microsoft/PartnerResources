@@ -15,9 +15,11 @@ Connected Field Service enables organizations to transform the way they provide 
 
 Below you will find content to assist in upskilling on Dynamics 365 Field Service and Connected Field Service. Content is broken down as follows:
 
-* Fundamentals, Associate, Expert, Specialist: content categorized in increase levels of complexity
-* Certifications: relevant Microsoft exams or certifications
-* Community resources: user groups, events, blogs
+* Keeping Up:  latest information and resources to stay up to date
+* Fundamentals, Associate, Expert: content categorized with increased levels of complexity
+* Events:  Partner on-demand readiness sessions
+* Community Resources:  user groups, blogs, documentation
+* Certifications:  relevant Microsoft exams or certifications
 
 Additionally, some content may be mared with one or more icons:
 
@@ -39,7 +41,6 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 * [Power Platform 2020 release wave 2](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave2/)
 
 * [Dynamics 365 Field Service 2021 release wave 1](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave1/service/dynamics365-field-service/)
-![image](https://user-images.githubusercontent.com/43278049/114240255-d8df2900-994c-11eb-8b6c-4399a2cf6932.png)
 
 ## Fundamentals
 
