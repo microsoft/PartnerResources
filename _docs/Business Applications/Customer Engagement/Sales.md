@@ -14,9 +14,11 @@ Dynamics 365 Sales is a Microsoft business application that enables salespeople 
 
 Below you will find content to assist in upskilling on Dynamics 365 Sales and Dynamics 365 Marketing. Content is broken down as follows:
 
-* Fundamentals, Associate, Expert, Specialist: content categorized in increase levels of complexity
-* Certifications: relevant Microsoft exams or certifications
-* Community resources: user groups, events, blogs
+* Keeping Up:  latest information and resources to stay up to date
+* Fundamentals, Associate, Expert: content categorized with increased levels of complexity
+* Events:  Partner on-demand readiness sessions
+* Community Resources:  user groups, blogs, documentation
+* Certifications:  relevant Microsoft exams or certifications
 
 Additionally, some content may be mared with one or more icons:
 
@@ -24,6 +26,20 @@ Additionally, some content may be mared with one or more icons:
 * '3rd Party' to indicate 3rd party content (not created by Microsoft)
 
 TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
+
+## Keeping Up
+
+Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners. Release wave 1 covers features releasing from April through September. Release wave 2 covers features releasing from October through March.
+
+* [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
+
+* [Dynamics 365 2021 release wave 1](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave1/)
+* [Power Platform 2021 release wave 1](https://docs.microsoft.com/en-us/power-platform-release-plan/2021wave1/)
+
+* [Dynamics 365 2020 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/)
+* [Power Platform 2020 release wave 2](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave2/)
+
+* [Dynamics 365 Sales 2021 release wave 1](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave1/sales/dynamics365-sales/)
 
 ## Fundamentals
 
@@ -48,23 +64,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Extending the Common Data Service](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Microsoft Learn) (2 Hours)
 * [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-model-driven-app/) (Microsoft Learn) (4 Hours)
 
-## Specialist
-
-* [Monitor the Dynamics 365 Customer Engagement in the Field](https://community.dynamics.com/crm/b/crminthefield)
-
-## Certifications
-
-* [Exam PL-200: Microsoft Power Platform Functional Consultant (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200)
-    * [Exam MB-200:  Microsoft Dynamics 365 Power Platform + Dynamics Core](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200) - Retiring Dec. 31, 2020
-* [Exam MB-210: Microsoft Dynamics 365 Sales](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210)
-
-* [Exam PL-400: Microsoft Dynamics 365 Power Apps + Developer (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400)
-    * [Exam MB-400: Microsoft Dynamics 365 Power Apps + Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400) - Retiring Dec. 31, 2020
-* [Exam MB-600: Microsoft Dynamics 365 Power Apps + Solution Architect](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-600)
-
-* [MB-200: Microsoft Power Platform + Dynamics 365 Core Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-200-microsoft-power-platform-plus-dynamics-365-core#/) (Self-Paced) (10 Hours)
-* [MB-240: Microsoft Dynamics 365 Field Service Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-240-microsoft-dynamics-365-field-service#/) (Self-Paced) (10 Hours)
-* [MB-400: Microsoft Power Apps + Dynamics 365 Developer Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-400-microsoft-power-apps-dynamics-365-developer#/) (Self-Paced) (8 Hours)
+## Events
 
 ## Community Resources
 
@@ -73,3 +73,16 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Subscribe to Microsoft Power Automate YouTube Channel](https://www.youtube.com/channel/UCG98S4lL7nwlN8dxSF322bA)
 * [Microsoft Power Platform Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
 * [Monitor the Dynamics 365 Blog](https://cloudblogs.microsoft.com/dynamics365/)
+* [Monitor the Dynamics 365 Customer Engagement in the Field](https://community.dynamics.com/crm/b/crminthefield)
+* 
+## Certifications
+
+* [Exam PL-200: Microsoft Power Platform Functional Consultant (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200)
+* [Exam MB-210: Microsoft Dynamics 365 Sales](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210)
+
+* [Exam PL-400: Microsoft Dynamics 365 Power Apps + Developer (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400)
+* [Exam MB-600: Microsoft Dynamics 365 Power Apps + Solution Architect](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-600)
+
+* [MB-200: Microsoft Power Platform + Dynamics 365 Core Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-200-microsoft-power-platform-plus-dynamics-365-core#/) (Self-Paced) (10 Hours)
+* [MB-240: Microsoft Dynamics 365 Field Service Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-240-microsoft-dynamics-365-field-service#/) (Self-Paced) (10 Hours)
+* [MB-400: Microsoft Power Apps + Dynamics 365 Developer Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-400-microsoft-power-apps-dynamics-365-developer#/) (Self-Paced) (8 Hours)
