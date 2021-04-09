@@ -15,7 +15,7 @@ tags:
 
 #### {% raw %}[Azure VMware Solution](azure-vmware-solution){% endraw %}
 
-#### {% raw %}[Azure Framework](azure-well-architected-framework){% endraw %}
+#### {% raw %}[Azure Well-Architected Framework](azure-well-architected-framework){% endraw %}
 
 #### {% raw %}[Business Continuity and Disaster Recovery](business-continuity-and-disaster-recovery){% endraw %}
 
