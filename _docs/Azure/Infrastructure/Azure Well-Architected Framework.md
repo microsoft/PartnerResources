@@ -5,11 +5,12 @@ permalink: /azure/infrastructure/azure-well-architected-framework
 tags: 
  - azure
  - infrastructure
+ - waf
 ---
 
 # Learning Plan Resources for Microsoft Azure Well-Architected Framework
 
-{ Description of Learning Plan }
+The Azure Well-Architected Framework is a set of guiding tenets that can be used to improve the quality of a workload. The framework consists of five pillars of architecture excellence: Cost Optimization, Operational Excellence, Performance Efficiency, Reliability, and Security.
 
 Content is broken down as follows:
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
@@ -26,25 +27,12 @@ Additionally, some content may be marked with one or more icons:
 
 ## Fundamentals
 
-{ Add fundamental/beginner/high level items here; generally applicable to all audiences }
-
-* [Example Microsoft Home Page Link](https://www.microsoft.com)
-    * This is description of the content
-
-## Associate
-
-{ Add associate/mid-level items here; baseline content to be proficient with technology }
-
-
-## Expert
-
-{ Add expert/high-level items here; content intended for in-depth and hands-on experiences }
-
-
-## Specialist
-
-{ Add expert/high-level items here; content intended for in-depth and hands-on experiences.  Consider adding What The Hack, OpenHack, etc.}
-
+Cost Optimization
+* [Cost Optimization](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/) (Self-Paced)
+* [Operational Excellence](https://docs.microsoft.com/en-us/azure/architecture/framework/devops/overview/) (Self-Paced) 
+* [Performance Efficiency](https://docs.microsoft.com/en-us/azure/architecture/framework/scalability/overview) (Self-Paced)
+* [Reliability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview) (Self-Paced)
+* [Security](https://docs.microsoft.com/en-us/azure/architecture/framework/security/overview) (Self-Paced)
 
 ## Certifications
 
