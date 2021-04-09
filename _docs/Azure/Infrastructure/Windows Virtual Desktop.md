@@ -23,6 +23,7 @@ tags:
 * [Azure Immersion Workshop: Windows Virtual Desktop](https://partner.microsoft.com/en-US/asset/collection/azure-immersion-workshop-windows-virtual-desktop#/)
 * [Implementing Windows Virtual Desktop in the enterprise](https://github.com/microsoft/MCW-Implementing-Windows-Virtual-Desktop-in-the-enterprise)
 * [Virtual Instructor led training for partners](https://partner.microsoft.com/en-us/training/assets/collection/implementing-windows-virtual-desktop#/)
+
 ## Advanced concepts
 
 ### Architecture
