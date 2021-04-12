@@ -82,6 +82,9 @@ Keeping Up
 * [Integrating Power Apps, Power Automate and Power BI](https://powerusers.microsoft.com/t5/News-Announcements/Integrating-PowerApps-Power-BI-and-Flow-to-create-realtime/ba-p/297146)
 * [Embedding PowerApps canvas app into a model driven application](https://powerusers.microsoft.com/t5/News-Announcements/Adv-Hands-On-Lab-4-Embedding-PowerApps-canvas-app-into-a-model/ba-p/345797)
 
+## Technical Resources
+
+* [Power CAT Team](https://www.youtube.com/playlist?list=PLi9EhCY4z99W2QOTgbwhFZEjpqc8YZDVH) (YouTube videos)
 
 ## Events
 
