@@ -30,6 +30,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 ## Keeping Up
 
 * [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+* [Power BI release plans](https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Release-Plan/m-p/930557) (Self-Paced) (On-going)
 
 ## Fundamentals
 
