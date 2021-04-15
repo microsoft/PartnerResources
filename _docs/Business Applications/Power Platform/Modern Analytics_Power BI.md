@@ -60,7 +60,8 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 ## Expert
 
 * [Power BI Developer Documentation](https://docs.microsoft.com/en-us/power-bi/developer/) (Self-Paced)
-* [Power BI Machine Learning](https://docs.microsoft.com/en-us/power-bi/connect-data/service-tutorial-build-machine-learning-model) (Self-Paced)
+* [Power BI Build Machine Learning](https://docs.microsoft.com/en-us/power-bi/connect-data/service-tutorial-build-machine-learning-model) (Self-Paced Tutorial)
+* [Power BI Consume Machine Learning](https://docs.microsoft.com/en-us/power-bi/connect-data/service-aml-integrate) (Self-Paced Tutorial)
 * [Technical Deep Dive on Power BI Common Scenarios](https://www.microsoftpartnercommunity.com/t5/Event-Discussions/Dive-deep-into-Power-BI-Common-Scenarios/td-p/10759) (Self-Paced) (3 Hours)
 * [Power BI Premium](https://powerbi.microsoft.com/en-us/power-bi-premium/) (Self-Paced)
 * [Power BI to Synapse Workspace](https://docs.microsoft.com/en-us/azure/synapse-analytics/quickstart-power-bi) (Self-Paced)
