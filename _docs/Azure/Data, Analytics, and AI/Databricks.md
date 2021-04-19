@@ -28,6 +28,7 @@ tags:
 
 ## Expert
 * [Databricks Academy](https://academy.databricks.com/) offers self-paced and instructor-led training courses. Self-paced training is free for all customers.
+* [Azure Databricks Best Practices](https://github.com/Azure/AzureDatabricksBestPractices/blob/master/toc.md) (Self-Paced) (4 Hours)
 
 _WhatTheHack events are often in-person in a hands on format. However, it can be worked on individually and self-paced:_
 * WhatTheHack - [Databricks Intro ML](https://github.com/microsoft/WhatTheHack/tree/master/008-DatabricksIntroML) (Hands on lab)
