@@ -10,11 +10,12 @@ tags:
 # Learning Plan Resources for Azure VMware Solution (AVS)
 
 ## Keeping Up
-* [AVS Blog](https://avs.ms), [#AzureVMwareSolution on Twitter](https://twitter.com/hashtag/azurevmwaresolution) '3rd Party', [VirtualWorkloads Blog](https://www.virtualworkloads.com/) '3rd Party'
+* [Azure Info Hub](https://azureinfohub.azurewebsites.net/Service?serviceTitle=Azure%20VMware%20Solution), [AVS Blog](https://avs.ms), [#AzureVMwareSolution on Twitter](https://twitter.com/hashtag/azurevmwaresolution) '3rd Party', [VirtualWorkloads Blog](https://www.virtualworkloads.com/) '3rd Party'
 
 ## Fundamentals
 * [Azure VMware Solution - Microsoft Official Page](https://azure.microsoft.com/en-us/services/azure-vmware/)
 * [Azure VMware Solution - VMware Official Page](https://cloud.vmware.com/azure-vmware-solution)
+* [Azure VMware Solution - Azure Info Hub](https://azureinfohub.azurewebsites.net/Service?serviceTitle=Azure%20VMware%20Solution)
 * [Azure VMware Solution Documentation - Microsoft Official Page](https://docs.microsoft.com/en-us/azure/azure-vmware/)
 * [Azure VMWare Solution Availability by region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&regions=all)
 * [Azure VMware Solution Service Level Agreements (SLA)](https://azure.microsoft.com/en-us/support/legal/sla/azure-vmware/v1_0/)
