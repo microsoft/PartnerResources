@@ -19,8 +19,10 @@ tags:
 * [Azure VMWare Solution - Availability by region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&regions=all)
 * [Azure VMware Solution - Service Level Agreements (SLA)](https://azure.microsoft.com/en-us/support/legal/sla/azure-vmware/v1_0/)
 * [AVS On-Demand Webinar](https://docs.hol.vmware.com/catalog/) (On-Demand)
+* [VMware AVS FAQ](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/partners/vmw-faq-temp.pdf)
 
 ### Videos
+* [Tech Talk: Azure VMware Solution - Move or Extend VMware Environments to Azure](https://msuspartners.eventbuilder.com/event/40430)
 * [What's new with Microsoft Azure infrastructure - AVS](https://youtu.be/CmpXfoeRhfg?t=478) (3 Minutes)
 * [Rapidly extend and modernize your business with Azure VMware Solution - Ignite 2021](https://www.youtube.com/watch?v=DTGOZUTiIjk) (25 Minutes)
 * [How to run a complete VMware environment on Azure - Ignite 2020](https://www.youtube.com/watch?v=-yLgduCVPRk) (8 Minutes)
@@ -29,8 +31,7 @@ tags:
 * [The VMware-Microsoft partnership for Azure VMware Solution](https://www.youtube.com/watch?v=r3OMHG61n08) (3 Minutes)
 * [How Microsoft Azure VMware Solution helps customers simplify and accelerate their cloud journey?](https://www.youtube.com/watch?v=g5fGQXKaJzU) (4 Minutes)
 
-### Hands On Labs
-* [Azure VMware Solution - Lightning Lab](https://via.vmw.com/EPnw)
+### Curriculum
 * [Prepare to migrate VMware workloads to Azure by deploying Azure VMware Solution - Learning Module](https://docs.microsoft.com/en-us/learn/modules/deploy-azure-vmware-solution/) (56 Minutes) (Self-Paced)
 
 ## Associate
@@ -60,6 +61,7 @@ tags:
 ## Expert
 * [AVS Service Limits](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-vmware-solution-limits)
 * [AVS Reference Architecture](https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-hub-and-spoke)
+* [VMware Cloud Workload Migration Tools Whiepaper v1 AVS Edition](assets/VMware_Cloud_Workload_Migration_Tools_Whiepaper_V1_AVS_Edition.pdf) ([Original](https://assets.contentstack.io/v3/assets/blt58b49a8a0e43b5ff/blt41c2affe409de883/5fff769ef093203f68d435d6/VMware_Cloud_Workload_Migration_Tools_Whiepaper_V1.pdf))
 * [Third Party Appliance with AVS](https://techcommunity.microsoft.com/t5/azure-migration/azure-vmware-solution-avs-connecting-3rd-party-networking-and/ba-p/1524297)
 * [Disaster Recovery Drill from AVS](https://docs.microsoft.com/en-us/azure/site-recovery/avs-tutorial-dr-drill-azure)
 * [Backup solutions for Azure VMware Solution virtual machines (VMs)](https://docs.microsoft.com/en-us/azure/azure-vmware/ecosystem-back-up-vms)
