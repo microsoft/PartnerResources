@@ -10,14 +10,14 @@ tags:
 # Learning Plan Resources for Azure VMware Solution (AVS)
 
 ## Keeping Up
-* [AVS Blog](https://avs.ms), [#AzureVMwareSolution on Twitter](https://twitter.com/hashtag/azurevmwaresolution) '3rd Party', [VirtualWorkloads Blog](https://www.virtualworkloads.com/) '3rd Party'
+* [Azure Info Hub](https://azureinfohub.azurewebsites.net/Service?serviceTitle=Azure%20VMware%20Solution), [AVS Blog](https://avs.ms), [#AzureVMwareSolution on Twitter](https://twitter.com/hashtag/azurevmwaresolution) '3rd Party', [VirtualWorkloads Blog](https://www.virtualworkloads.com/) '3rd Party'
 
 ## Fundamentals
 * [Azure VMware Solution - Microsoft Official Page](https://azure.microsoft.com/en-us/services/azure-vmware/)
 * [Azure VMware Solution - VMware Official Page](https://cloud.vmware.com/azure-vmware-solution)
-* [Azure VMware Solution Documentation - Microsoft Official Page](https://docs.microsoft.com/en-us/azure/azure-vmware/)
-* [Azure VMWare Solution Availability by region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&regions=all)
-* [Azure VMware Solution Service Level Agreements (SLA)](https://azure.microsoft.com/en-us/support/legal/sla/azure-vmware/v1_0/)
+* [Azure VMware Solution - Documentation - Microsoft Official Page](https://docs.microsoft.com/en-us/azure/azure-vmware/)
+* [Azure VMWare Solution - Availability by region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&regions=all)
+* [Azure VMware Solution - Service Level Agreements (SLA)](https://azure.microsoft.com/en-us/support/legal/sla/azure-vmware/v1_0/)
 * [AVS On-Demand Webinar](https://docs.hol.vmware.com/catalog/) (On-Demand)
 
 ### Videos
@@ -41,6 +41,7 @@ tags:
 * [Azure Backup for Azure VMware Solutions Virtual Machines ](https://techcommunity.microsoft.com/t5/azure-migration/azure-backup-for-azure-vmware-solutions-virtual-machines/ba-p/1468794) (Self Paced)
 
 ### Videos
+* [2021 AVS Partner Boot Camp](https://aka.ms/mpn/event/avs) (9 hours) - [Slides](https://aka.ms/mpn/decks/avs)
 * [What's new for Azure VMware solution to accelerate cloud migration](https://www.youtube.com/watch?v=k0UaEqgTPdo&t=733s) (35 Minutes)
 * [Azure VMware Solution - End to End Networking](https://www.youtube.com/watch?v=6_LYsYicacs) (20 Minutes)
 * [Azure VMware solution for business continuity and disaster recovery](https://www.youtube.com/watch?v=rhTgVqR4pps) (15 Minutes)
