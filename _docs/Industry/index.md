@@ -17,7 +17,7 @@ tags:
 #### {% raw %}[Manufacturing](manufacturing){% endraw %}
 #### {% raw %}[Energy](energy){% endraw %}
 #### {% raw %}[Automotive](automotive){% endraw %}
-#### {% raw %}[Communications Sector](communications sector){% endraw %}
+#### {% raw %}[Communications Sector](communications-sector){% endraw %}
 
 <!-- Not implemented -->
 <!-- #### {% raw %}[Retail](retail){% endraw %} -->
