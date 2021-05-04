@@ -38,6 +38,9 @@ _WhatTheHack events are often in-person in a hands on format. However, it can be
 * [Databricks REST API](https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/) (Self-Paced)
 * [Challenge-based Labs: Advanced Databricks](https://github.com/annedroid/Ready2019_AA_AI319) (Self-Paced) (4 Hours)
 
+## MLOps
+* [mlflow official website] (https://mlflow.org)
+
 ## Certifications
 There is no specific Microsoft Azure Databricks certifications available currently. The following are Microsoft Certifications that cover parts of databricks:
 * [Exam DP-200: Implementing an Azure Data Solution](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200)
