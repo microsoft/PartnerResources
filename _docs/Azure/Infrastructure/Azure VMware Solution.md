@@ -56,7 +56,11 @@ tags:
 
 ### [AVS Simulated Hands on Lab from VMware](http://hol.pub/avs)
 * [Azure VMware Solution Private Cloud Deployment and Connectivity](http://labs.hol.vmware.com/HOL/catalogs/lab/9051) (Self-Paced)
+    * [Deployment of Azure VMware Solution Private Cloud](http://docs.hol.vmware.com/hol-isim/hol-2021/hol-isim-player.htm?isim=hol-2194-91-ism_deploymentazureprivatecloud.json) (Direct Access)
 * [Azure VMware Solution Workload Migration with VMware HCX](https://labs.hol.vmware.com/HOL/catalogs/lab/9433) (Self-Paced)
+    * [VMware HCX Download and Installation](https://docs.hol.vmware.com/hol-isim/hol-2021/hol-isim-player.htm?isim=HOL-2194-01-ISM_VMware_HCX_Download_Installation.json) (Direct Access)
+    * [VMware HCX Site Pairing and Components Configuration](https://docs.hol.vmware.com/hol-isim/hol-2021/hol-isim-player.htm?isim=HOL-2194-01-ISM_VMware_HCX_Site_Pairing_Components_Configuration.json) (Direct Access)
+    * [VMware HCX Network Extension and Workload Migration](https://docs.hol.vmware.com/hol-isim/hol-2021/hol-isim-player.htm?isim=HOL-2194-01-ISM_VMware_HCX_Network_Extension_Workload%20Migration.json) (Direct Access)
 
 ## Expert
 * [AVS Service Limits](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-vmware-solution-limits)
