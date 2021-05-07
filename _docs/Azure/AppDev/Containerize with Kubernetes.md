@@ -26,6 +26,7 @@ tags:
 * [Kubernetes core concepts for Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads) (Self-Paced) (15 Minutes)
 * [Implement a code workflow in your build pipeline by using Git and GitHub](https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/) (Self-Paced) (2 Hours)
 * [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/) (Self-Paced) (4 Hours)
+* [AKS Checklist](https://www.the-aks-checklist.com/) (Self-Packed) (30 Minutes)
 
 ## Expert
 
