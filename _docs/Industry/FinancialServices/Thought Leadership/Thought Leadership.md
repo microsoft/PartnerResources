@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Manufacturing
+title: Thought Leadership
 permalink: /industry/financial-services/thought-leadership
 tags:
  - industry
@@ -19,6 +19,9 @@ Additionally, some content may be marked with one or more icons:
 ## Blogs
 
 { Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
+
+* [Example Microsoft Home Page Link](https://www.microsoft.com)
+    * This is description of the content
 
 ## Case Studies
 
