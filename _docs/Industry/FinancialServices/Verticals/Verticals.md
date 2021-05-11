@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Industry
+title: Verticals
 permalink: /industry/financialservices/verticals
 tags:
  - industry
