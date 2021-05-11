@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Financial Services
+title: FSI Cloud
 permalink: /industry/financial-services/fsi-cloud
 tags:
  - industry
