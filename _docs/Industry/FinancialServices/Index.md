@@ -6,7 +6,7 @@ tags:
  - industry
 ---
 
-# Industry
+# Financial Services
 
 <!-- Not implemented -->
 <!-- #### {% raw %}[Financial Services](financial-services){% endraw %} -->
