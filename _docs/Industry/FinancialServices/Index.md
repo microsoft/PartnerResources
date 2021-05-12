@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Financial Services
+title: FinancialServices
 permalink: /industry/financialservices
 tags:
  - industry
