@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Banking
+title: Capital Markets
 permalink: /industry/financialservices/verticals/capital-markets
 tags:
  - industry
