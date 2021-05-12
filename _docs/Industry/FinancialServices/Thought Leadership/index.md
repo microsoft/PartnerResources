@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thought Leadership
-permalink: /industry/financial-services/thought-leadership
+permalink: /industry/financialservices/thought-leadership
 tags:
  - industry
  - financial services
