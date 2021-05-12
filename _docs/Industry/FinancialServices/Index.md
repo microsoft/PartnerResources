@@ -18,3 +18,6 @@ tags:
 #### {% raw %}[Thought Leadership](thought-leadership){% endraw %}
 #### {% raw %}[Verticals](verticals){% endraw %}
 
+* [FSI Cloud](https://microsoft.github.io/PartnerResources/industry/financialservices/fsi-cloud)
+* [Thought Leadership](https://microsoft.github.io/PartnerResources/industry/financialservices/thought-leadership)
+
