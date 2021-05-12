@@ -4,6 +4,11 @@ title: Verticals
 permalink: /industry/financialservices/verticals
 tags:
  - industry
+ - financialservices
+ - verticals
+ - banking
+ - capital-markets
+ - insurance
 ---
 
 # Industry
