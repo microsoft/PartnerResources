@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FSI Cloud
-permalink: /industry/financial-services/fsi-cloud
+permalink: /industry/financialservices/fsi-cloud
 tags:
  - industry
  - financial-services
