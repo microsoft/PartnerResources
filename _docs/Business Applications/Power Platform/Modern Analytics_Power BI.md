@@ -40,7 +40,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Power BI Documentaion](https://docs.microsoft.com/en-us/power-bi/) (Self-Paced)
 * [Consume data with Power BI](https://docs.microsoft.com/en-us/learn/paths/consume-data-with-power-bi/) (Self-Paced) (2 Hours)
 * [Course PL-900T00-A: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-900t00) (In-person Instructor Led) (2 Days)
-* [How to Govern: Part 3 | Power BI Adoption Framework](https://www.youtube.com/watch?v=Zf0lCaGCSuU&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=7&t=0s) (Self-Paced) (31 Minutes)
+* [How to Govern: Part 3 | Power BI Adoption Framework](https://www.youtube.com/watch?v=Zf0lCaGCSuU&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=7&t=0s) (Self-Paced)
 * [Introduction to key roles: Part 3 | Power BI Adoption Framework](https://www.youtube.com/watch?v=CNq__EBhUCM&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=4&t=0s) (Self-Paced) (6 Minutes)
 * [Introduction to the framework: Part 2 | Power BI Adoption Framework](https://www.youtube.com/watch?v=N6m0XxA_m5c&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=3&t=0s) (Self-Paced) (12 Minutes)
 * [Introduction to the series: Part 1 | Power BI Adoption Framework](https://www.youtube.com/watch?v=e7Nb-XmrOfY&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=2&t=0s) (Self-Paced) (16 Minutes)
