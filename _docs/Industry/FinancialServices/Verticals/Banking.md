@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Banking
-permalink: /industry/financials/verticals
+permalink: /industry/financialservices/verticals
 tags:
  - industry
  - financialservices
