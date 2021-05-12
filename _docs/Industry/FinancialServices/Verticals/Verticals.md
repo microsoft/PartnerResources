@@ -11,7 +11,7 @@ tags:
  - insurance
 ---
 
-# Industry
+# Verticals
 
 <!-- Not implemented -->
 <!-- #### {% raw %}[Financial Services](financial-services){% endraw %} -->
