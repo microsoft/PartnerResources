@@ -32,8 +32,20 @@
     - title: Industry
       url: "industry"
       children:
+        - title: Automotive
+          url: "industry/automotive"
+        - title: Communications Sector
+          url: "industry/communications-sector"
+        - title: Energy
+          url: "industry/energy"
+        - title: Financial Services
+          url: "industry/financial-services"
         - title: Healthcare
           url: "industry/healthcare"
+        - title: Manufacturing
+          url: "industry/manufacturing"
+        - title: Retail
+          url: "industry/retail"
     - title: Modern Workplace + Security
       url: "modern-workplace"
       children:
