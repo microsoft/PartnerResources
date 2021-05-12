@@ -56,6 +56,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Getting Started with Power BI](https://partner.microsoft.com/en-us/asset/collection/getting-started-with-power-bi#/) (Self-Paced) (17 Hours)
 * [Create and use analytics reports with Power BI](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) (Self-Paced) (6 Hours)
 * [Dashboard in a Day](https://powerbi.microsoft.com/en-us/diad/) (Self-Paced) (1 Day)
+* [Power BI for Tableau Users](https://docs.microsoft.com/en-us/learn/paths/power-bi-tableau/) (Self-paced) (6 Hours)
 
 ## Expert
 
