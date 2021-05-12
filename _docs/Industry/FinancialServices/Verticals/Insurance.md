@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Banking
+title: Insurance
 permalink: /industry/financialservices/verticals/insurance
 tags:
  - industry
