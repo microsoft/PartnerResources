@@ -6,6 +6,8 @@
 on:
   push:
     branches: [ main ]
+
+  workflow_dispatch:
     
 jobs:
   # This workflow contains a single job called "traffic"
