@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Verticals
-permalink: /industry/financialservices/verticals/
+permalink: /industry/financial-services/verticals/
 tags:
  - industry
  - financialservices
