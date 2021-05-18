@@ -1,10 +1,10 @@
 ---
 layout: page
 title: FinancialServices
-permalink: /industry/financialservices/
+permalink: /industry/financial-services/
 tags:
  - industry
- - financialservices
+ - financial services
 ---
 
 # Financial Services
