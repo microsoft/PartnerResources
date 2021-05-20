@@ -58,6 +58,7 @@ Keeping Up
 * [Extend Dynamics 365 Portals](https://docs.microsoft.com/en-us/learn/paths/extend-dynamics-365-portals/) (Self-Paced) (3 Hours)
 * [Extending the Common Data Service](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Self-Paced) (2 Hours)
 * [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-model-driven-app/) (Self-Paced) (4 Hours)
+* [Transform your business applications with fusion development](https://docs.microsoft.com/en-us/learn/paths/transform-business-applications-with-fusion-development/?WT.mc_id=dotnet-28653-masoucou) (Self-Paced) (4 Hours)
 * [Low Code Application Development advanced specialization](https://partner.microsoft.com/en-us/training/assets/collection/low-code-application-development-advanced-specialization#/) (Self-Paced)
 * [Dynamics 365 FastTrack Architect Bootcamps](https://aka.ms/d365ftabootcamp) (IVLT) (28 Hours)
 * [FastTrack for Dynamics 365 Success by Design](https://aka.ms/d365FasTrackSbDTraining) (IVLT) (4 Hours)
