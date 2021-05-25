@@ -38,6 +38,7 @@ Keeping Up
 * [Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/) (Self-Paced) (3 Hours)
 * [Microsoft Power Platform: Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources) (Self-Paced)
 * [Virtual Training Series](https://partner.microsoft.com/en-US/training/virtual-training-series#/?products=bus-apps) (Self-Paced)
+* [Virtual Training Days](https://mvtd.events.microsoft.com/?powerplatformevent=allpowerplatform) (3-hour to Full-day)
 * [Dataverse for Teams](https://github.com/microsoft/PartnerResources/blob/main/LearningPlanResources/Modern%20Workplace%20%2B%20Security/Microsoft%20Teams/Dataverse%20For%20Teams.md) (Self-Paced)
 
 ## Associate
