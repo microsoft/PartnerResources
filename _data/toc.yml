@@ -44,6 +44,8 @@
           url: "industry/healthcare"
         - title: Manufacturing
           url: "industry/manufacturing"
+        - title: Nonprofit
+          url: "industry/nonprofit"
         - title: Retail
           url: "industry/retail"
     - title: Modern Workplace + Security
