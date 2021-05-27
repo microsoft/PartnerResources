@@ -7,9 +7,9 @@ tags:
  - retail
 ---
 
-# Learning Plan Resources for Retail
+# Learning Plan Resources for Microsoft Cloud for Retail
 
-{ Description of Learning Plan }
+Microsoft Cloud for Retail brings together different data sources across the retail value chain and uniquely connects experiences across the end-to-end shopper journey through a set of capabilities that deliver a more relavant personlaized experiences and operational excellence for sustained profitability
 
 Content is broken down as follows:
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
@@ -22,7 +22,8 @@ Additionally, some content may be marked with one or more icons:
 
 ## Keeping Up
 
-{ Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
+* [Stay informed about Microsoft Cloud for Retail](https://info.microsoft.com/ww-landing-Retail-Stay-Updated.html)
+    * Set your course for an ever-changing retail environment—and accelerate your digital transformation—by staying up to date with Microsoft retail news. Sign up today and we’ll periodically send you information about how to use Microsoft technology, including Microsoft Cloud for Retail
 
 ## Fundamentals
 
