@@ -76,9 +76,10 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 * [Pluralsight: Migrating to SQL Server 2016](https://www.pluralsight.com/courses/sqlserver-2016-upgrading-migrating)
 * [Pluralsight: Azure SQL Database](https://www.pluralsight.com/courses/azure-sql-database-dba)
 
-### Youtube Video Series
+### Video Series
 
-* [Azure SQL Bootcamp](https://www.youtube.com/watch?v=wntLOJRvIeI&list=PLlrxD0HtieHjveswk8_gkPD42Te48X4zG)
+* [Azure SQL Bootcamp on Youtube](https://www.youtube.com/watch?v=wntLOJRvIeI&list=PLlrxD0HtieHjveswk8_gkPD42Te48X4zG)
+* [Channel 9 Data Exposed](https://channel9.msdn.com/Shows/Data-Exposed)
 
 
 ## Expert
