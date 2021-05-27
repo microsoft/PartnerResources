@@ -27,10 +27,10 @@ Additionally, some content may be marked with one or more icons:
 
 ## Fundamentals
 
-{ Add fundamental/beginner/high level items here; generally applicable to all audiences }
-
-* [Example Microsoft Home Page Link](https://www.microsoft.com)
-    * This is description of the content
+* [Overview of Microsoft Cloud for Retail](https://www.microsoft.com/en-us/industry/retail/microsoft-cloud-for-retail)
+    * Connect your customers, your people, and your data
+* [Partner Resources](https://partner.microsoft.com/en-us/solutions/industry-solutions/retail-consumer-goods)
+    * Learn about the partner opportunity
 
 ## Associate
 
@@ -53,5 +53,4 @@ Additionally, some content may be marked with one or more icons:
 
 
 ## Community
-
-{ Add links to community resources: blogs, forums, yammer channels, etc. }
+* [Shelley Bransten's Blog](https://cloudblogs.microsoft.com/industry-blog/retail/2021/02/24/announcing-microsoft-cloud-for-retail-built-for-whats-next/)
