@@ -9,7 +9,7 @@ tags:
 
 # Learning Plan Resources for Nonprofit
 
-{ Description of Learning Plan }
+Microsoft Cloud for Nonprofit connects the intelligent and integrated cloud capabilities of the Microsoft stack to the most common nonprofit organizational scenarios, including constituent engagement and fundraising, staff collaboration and volunteer management, and program design and delivery. By bringing together disparate data sources from across the organization, it enables nonprofits to realize the true value of their data to help accelerate mission outcomes. More capabilities coming soon for public preview.
 
 Content is broken down as follows:
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
@@ -22,14 +22,14 @@ Additionally, some content may be marked with one or more icons:
 
 ## Keeping Up
 
-{ Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
+* [Stay informed about Microsoft Cloud for Nonprofit](https://nonprofits.tsi.microsoft.com/Microsoft-Cloud-for-Nonprofit-Sign-to-stay-Informed/)
+    * Sign up to stay informed on Microsoft Cloud for Nonprofit. We’ll be in touch in the coming months with more information on public preview and general availability.
+
 
 ## Fundamentals
 
-{ Add fundamental/beginner/high level items here; generally applicable to all audiences }
-
-* [Example Microsoft Home Page Link](https://www.microsoft.com)
-    * This is description of the content
+* [Microsoft CLoud for Nonprofit](https://nonprofit.microsoft.com/en-us/getting-started)
+    * Getting started with Microsoft Cloud for Nonprofit
 
 ## Associate
 
@@ -53,7 +53,7 @@ Additionally, some content may be marked with one or more icons:
 ## Resources
 
 * [Microsoft CLoud for Nonprofit](https://www.microsoft.com/en-us/nonprofits/microsoft-cloud-for-nonprofit)
-    * This is description of the content
+    * General overview
 
 ## Community
 
