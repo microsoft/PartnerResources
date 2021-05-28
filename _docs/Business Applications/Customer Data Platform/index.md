@@ -30,6 +30,7 @@ Content is broken down as follows:
 # Feature Learning Plans
 * [Audience insights](/business-applications/customer-data-platform/audience-insights.md)
 * [Engagements insights](/business-applications/customer-data-platform/engagement-insights.md)
+* #### {% raw %}[Audience Insights](audience-insights){% endraw %}
 
 # Fundamentals
 * [The Customer Data Platform Advantage: How CDP Compares to CRM and DMP - eBook](https://go.microsoft.com/fwlink/?LinkId=2141596&clcid=0x409)
