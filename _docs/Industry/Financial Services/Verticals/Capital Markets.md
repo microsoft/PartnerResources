@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Financial Services
-permalink: /industry/financial-services
+title: Capital Markets
+permalink: /industry/financial-services/verticals/capital-markets
 tags:
  - industry
- - financial-services
+ - financial services
+ - verticals
+ - capital markets
 ---
 
-# Learning Plan Resources for Financial Services
+# Learning Plan Resources for Capital Markets
 
 { Description of Learning Plan }
 

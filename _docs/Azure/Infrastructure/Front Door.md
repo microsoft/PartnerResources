@@ -11,7 +11,6 @@ tags:
 
 ## Fundamentals
 
-* [Azure Networking Products](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=network) (Self-Paced)
 * [EXAM AZ-900: Microsoft Azure Fundamentals:](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Exam Ref AZ-900: Microsoft Azure Fundamentals, First Edition](https://www.oreilly.com/library/view/exam-ref-az-900/9780135732199/) (Self-Paced)
 * [Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) (Self-Paced) (10 Hours)
@@ -37,10 +36,6 @@ tags:
 * [Virtual WAN documentation](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about) (Self-Paced)
 * [Azure Firewall](https://azure.microsoft.com/en-us/services/azure-firewall/) (Self-Paced)
 * [Azure Front Door](https://azure.microsoft.com/en-us/services/frontdoor/) (Self-Paced)
-
-## Events
-
-* [Microsoft Build](https://www.microsoft.com/en-us/build) (Self-Paced)
 
 ## Certifications
 

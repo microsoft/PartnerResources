@@ -24,7 +24,6 @@ tags:
 ## Specialist
 
 * [Moving IBM Mainframe Workloads to Azure](https://www.microfocus.com/en-us/assets/application-modernization-and-connectivity/moving-ibm-mainframe-workloads-to-azure) (Self-Paced)
-* [Azure Migration Partner Resources](https://partner.microsoft.com/en-us/asset/collection/azure-migration-campaign#/) (Self-Paced)
 * [Deploy IBM Db2 pureScale on Azure](https://azure.microsoft.com/en-us/resources/deploy-ibm-db2-purescale-on-azure/) (Self-Paced)
 * [White paper: Unisys Mainframe to Microsoft Azure Reference Architecture](https://www.astadia.com/whitepaper/unisys-mainframe-to-microsoft-azure) (Self-Paced)
 * [White paper: IBM Mainframe to Microsoft Azure Reference Architecture](https://www.astadia.com/whitepaper/ibm-mainframe-to-microsoft-azure) (Self-Paced)

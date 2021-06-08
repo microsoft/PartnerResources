@@ -1,15 +1,20 @@
-#on:
-  #schedule: 
-    # runs once a week on sunday
-    #- cron: "55 23 * * 0"
+name: repoTraffic
 
+#on:
+  #push:
+    #branches: [ main ]
+    
 on:
-  push:
-    branches: [ main ]
+  schedule: 
+    # runs once a week on Saturday: https://crontab.cronhub.io/
+    - cron: "0 0 * * SAT"
+    
+  # Enables the workflow to be started manually
+  workflow_dispatch:
     
 jobs:
   # This workflow contains a single job called "traffic"
-  traffic:
+  save-traffic:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 

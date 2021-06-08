@@ -13,9 +13,8 @@ tags:
 Robotic process automation (RPA) is the process of automating business procedures through mimicking and automatically executing rule-based tasks. Through RPA, a machine copies and records the set of actions that a user takes to complete a task.
 
 Content is broken down as follows:
-* Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
+* Fundamentals, Associate, and Expert: content categorized in increasing level of complexity
 * Certifications: relevant Microsoft exams or certifications
-* Community resources: user groups, events, blogs
 
 Additionally, some content may be marked with one or more icons:
 * '$' to indicate paid content
@@ -23,38 +22,25 @@ Additionally, some content may be marked with one or more icons:
 
 ## Keeping Up
 
-* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
 
-## Fundamentals
+## Fundamentals & Associate
 
-{ Add fundamental/beginner/high level items here; generally applicable to all audiences }
-
-* [Example Microsoft Home Page Link](https://www.microsoft.com)
-    * This is description of the content
-
-## Associate
-
-{ Add associate/mid-level items here; baseline content to be proficient with technology }
-
+* [Robotic Process Overview video](https://www.microsoft.com/videoplayer/embed/RE4IFj4?autoplay=1&enablejsapi=1&rel=0)
+* [Microsoft Robotic Process Automation Blog](https://flow.microsoft.com/en-us/blog/)
+* [Microsoft Power Automate YouTube channel](https://www.youtube.com/channel/UCG98S4lL7nwlN8dxSF322bA)
+* [Microsoft Robotic Process Automation products](https://flow.microsoft.com/en-us/robotic-process-automation/)
+* [Power Automate documentation](https://docs.microsoft.com/en-us/power-automate/)
+* [Microsoft Power Automate Learning Path](https://docs.microsoft.com/en-us/learn/powerplatform/power-automate)
 
 ## Expert
-
-{ Add expert/high-level items here; content intended for in-depth and hands-on experiences }
-
-
-## Specialist
-
-{ Add expert/high-level items here; content intended for in-depth and hands-on experiences.  Consider adding What The Hack, OpenHack, etc.}
-
+* [RPA in a Day](https://aka.ms/rpainaday) - The 'RPA in a Day' resource provides 'hands on', self-paced, technical labs to gain deeper familiarity with RPA and Microsoft automation produdcts.
+* [Kent Weare YouTube channel](https://www.youtube.com/channel/UCX6IpQ63nP-LakW3TUpoxNw) - Kent Weare, Principal Program Manager at Microsoft, covers automation technics and real-world examples.
 
 ## Certifications
-
-{ Add certifications that may apply. Visit https://docs.microsoft.com/en-us/learn/certifications/ as a starting point.  You may include links to training classes and related resources related to certifications.  }
+* [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
+* [Microsoft Power Automate Learning Path](https://docs.microsoft.com/en-us/learn/powerplatform/power-automate)
 
 ## Technical Resources
 
-* [Documentation](https://docs.microsoft.com/en-us/power-automate/) (Self-Paced) (On-going)
-
-## Community
-
-{ Add links to community resources: blogs, forums, yammer channels, etc. }
+* [Documentation](https://docs.microsoft.com/en-us/power-automate/)

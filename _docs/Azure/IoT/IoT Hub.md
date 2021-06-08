@@ -19,6 +19,7 @@ tags:
 
 ## Fundamentals
 
+* **[On-Demand Webinar Series: Building End-to-End IoT Solutions](https://www.youtube.com/playlist?list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy)** - 6-part video series teaches how to get started building IoT solutions with Azure IoT (Self-Paced) (about 6 hours)
 * [Automatically provision IoT devices securely and at scale with the Device Provisioning Service](https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/) (Self-Paced) (57 Minutes)
 * [Develop IoT solutions with Azure IoT Central](https://docs.microsoft.com/en-us/learn/paths/develop-iot-solutions-with-azure-iot-central/) (Self-Paced) (178 Minutes)
 * [MS Learn: AI Edge Engineer](https://docs.microsoft.com/en-us/learn/paths/ai-edge-engineer/) (Self-Paced) (4 Hours)
@@ -70,6 +71,7 @@ tags:
 
 ## Events
 
+* **[IoT Security Summit](https://azureiotengineering.eventbuilder.com/event/42464)** Presented on May 5, 2021, this security summit provides the latest guidance on securing IoT solutions (Self-Paced) (3 Hours 31 Minutes)
 * [IoT in Action Webinar Series](https://iotinactionwebinars.com/) (Self-Paced) (4 Hours)
 * [Open Hack](https://openhack.microsoft.com/) (In-person Instructor Led) (3 Days)
 * [Channel 9 IoT Show](https://aka.ms/IoTShow) (Self-Paced) (10 Hours)

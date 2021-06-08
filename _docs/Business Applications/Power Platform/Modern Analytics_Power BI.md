@@ -30,6 +30,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 ## Keeping Up
 
 * [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+* [Power BI release plans](https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Release-Plan/m-p/930557) (Self-Paced) (On-going)
 
 ## Fundamentals
 
@@ -39,7 +40,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Power BI Documentaion](https://docs.microsoft.com/en-us/power-bi/) (Self-Paced)
 * [Consume data with Power BI](https://docs.microsoft.com/en-us/learn/paths/consume-data-with-power-bi/) (Self-Paced) (2 Hours)
 * [Course PL-900T00-A: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-900t00) (In-person Instructor Led) (2 Days)
-* [How to Govern: Part 3 | Power BI Adoption Framework](https://www.youtube.com/watch?v=Zf0lCaGCSuU&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=7&t=0s) (Self-Paced) (31 Minutes)
+* [How to Govern: Part 3 | Power BI Adoption Framework](https://www.youtube.com/watch?v=Zf0lCaGCSuU&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=7&t=0s) (Self-Paced)
 * [Introduction to key roles: Part 3 | Power BI Adoption Framework](https://www.youtube.com/watch?v=CNq__EBhUCM&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=4&t=0s) (Self-Paced) (6 Minutes)
 * [Introduction to the framework: Part 2 | Power BI Adoption Framework](https://www.youtube.com/watch?v=N6m0XxA_m5c&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=3&t=0s) (Self-Paced) (12 Minutes)
 * [Introduction to the series: Part 1 | Power BI Adoption Framework](https://www.youtube.com/watch?v=e7Nb-XmrOfY&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=2&t=0s) (Self-Paced) (16 Minutes)
@@ -55,11 +56,13 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Getting Started with Power BI](https://partner.microsoft.com/en-us/asset/collection/getting-started-with-power-bi#/) (Self-Paced) (17 Hours)
 * [Create and use analytics reports with Power BI](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) (Self-Paced) (6 Hours)
 * [Dashboard in a Day](https://powerbi.microsoft.com/en-us/diad/) (Self-Paced) (1 Day)
+* [Power BI for Tableau Users](https://docs.microsoft.com/en-us/learn/paths/power-bi-tableau/) (Self-paced) (6 Hours)
 
 ## Expert
 
 * [Power BI Developer Documentation](https://docs.microsoft.com/en-us/power-bi/developer/) (Self-Paced)
-* [Power BI Machine Learning](https://docs.microsoft.com/en-us/power-bi/connect-data/service-tutorial-build-machine-learning-model) (Self-Paced)
+* [Power BI Build Machine Learning](https://docs.microsoft.com/en-us/power-bi/connect-data/service-tutorial-build-machine-learning-model) (Self-Paced Tutorial)
+* [Power BI Consume Machine Learning](https://docs.microsoft.com/en-us/power-bi/connect-data/service-aml-integrate) (Self-Paced Tutorial)
 * [Technical Deep Dive on Power BI Common Scenarios](https://www.microsoftpartnercommunity.com/t5/Event-Discussions/Dive-deep-into-Power-BI-Common-Scenarios/td-p/10759) (Self-Paced) (3 Hours)
 * [Power BI Premium](https://powerbi.microsoft.com/en-us/power-bi-premium/) (Self-Paced)
 * [Power BI to Synapse Workspace](https://docs.microsoft.com/en-us/azure/synapse-analytics/quickstart-power-bi) (Self-Paced)

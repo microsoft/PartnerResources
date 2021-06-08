@@ -11,6 +11,10 @@ tags:
 
 #### {% raw %}[Azure Database for MySQL, MariaDB and Postgres](oss-db-to-azure){% endraw %}
 
+#### {% raw %}[Azure Cognitive Search](cognitive-search){% endraw %}
+
+#### {% raw %}[Azure Purview](azure-purview){% endraw %}
+
 #### {% raw %}[Conversational AI](ai-apps-agents){% endraw %}
 
 #### {% raw %}[Cosmos DB](cosmos-db){% endraw %}

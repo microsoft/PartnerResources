@@ -38,6 +38,7 @@ Keeping Up
 * [Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/) (Self-Paced) (3 Hours)
 * [Microsoft Power Platform: Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources) (Self-Paced)
 * [Virtual Training Series](https://partner.microsoft.com/en-US/training/virtual-training-series#/?products=bus-apps) (Self-Paced)
+* [Virtual Training Days](https://mvtd.events.microsoft.com/?powerplatformevent=allpowerplatform) (3-hour to Full-day)
 * [Dataverse for Teams](https://github.com/microsoft/PartnerResources/blob/main/LearningPlanResources/Modern%20Workplace%20%2B%20Security/Microsoft%20Teams/Dataverse%20For%20Teams.md) (Self-Paced)
 
 ## Associate
@@ -58,6 +59,7 @@ Keeping Up
 * [Extend Dynamics 365 Portals](https://docs.microsoft.com/en-us/learn/paths/extend-dynamics-365-portals/) (Self-Paced) (3 Hours)
 * [Extending the Common Data Service](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Self-Paced) (2 Hours)
 * [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-model-driven-app/) (Self-Paced) (4 Hours)
+* [Transform your business applications with fusion development](https://docs.microsoft.com/en-us/learn/paths/transform-business-applications-with-fusion-development/?WT.mc_id=dotnet-28653-masoucou) (Self-Paced) (4 Hours)
 * [Low Code Application Development advanced specialization](https://partner.microsoft.com/en-us/training/assets/collection/low-code-application-development-advanced-specialization#/) (Self-Paced)
 * [Dynamics 365 FastTrack Architect Bootcamps](https://aka.ms/d365ftabootcamp) (IVLT) (28 Hours)
 * [FastTrack for Dynamics 365 Success by Design](https://aka.ms/d365FasTrackSbDTraining) (IVLT) (4 Hours)
@@ -82,6 +84,9 @@ Keeping Up
 * [Integrating Power Apps, Power Automate and Power BI](https://powerusers.microsoft.com/t5/News-Announcements/Integrating-PowerApps-Power-BI-and-Flow-to-create-realtime/ba-p/297146)
 * [Embedding PowerApps canvas app into a model driven application](https://powerusers.microsoft.com/t5/News-Announcements/Adv-Hands-On-Lab-4-Embedding-PowerApps-canvas-app-into-a-model/ba-p/345797)
 
+## Technical Resources
+
+* [Power CAT Team](https://www.youtube.com/playlist?list=PLi9EhCY4z99W2QOTgbwhFZEjpqc8YZDVH) (YouTube videos)
 
 ## Events
 

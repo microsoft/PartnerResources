@@ -22,7 +22,6 @@ tags:
 
 * [Plan and manage your Azure costs](https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/) (Self-Paced) (43 Minutes)
 * [Control Azure spending and manage bills with Azure Cost Management and billing](https://docs.microsoft.com/en-us/learn/paths/control-spending-manage-bills/) (Self-Paced) (3 Hours)
-* [Design for efficiency and operations in Azure](https://docs.microsoft.com/en-us/learn/modules/design-for-efficiency-and-operations-in-azure/) (45 Minutes)
 * [Get Started with Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-get-started) (Self-Paced) (5 Minutes)
 * [Analyze Costs and Create Budgets with Azure Cost Management](https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/?WT.mc_id=costmanagementcontent_docsazurebilling_-inproduct-learn) (Self-Paced) (40 Minutes)
 
@@ -30,7 +29,6 @@ tags:
 
 * [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/) (Self-Paced) (4 Hours)
 * [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/) (Self-Paced) (4 Hours)
-* [Microsoft Azure How Subscription Administrators & Directory Administrators Differ](https://blogs.msdn.microsoft.com/edutech/administration/microsoft-azure-how-subscription-administrators-directory-administrators-differ/) (Self-Paced) (20 Minutes)
 
 ## Specialist
 

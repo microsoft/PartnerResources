@@ -23,6 +23,7 @@ With detailed administration strategy in place, organizations can enable busines
 * [Get started with security roles in Dataverse](https://docs.microsoft.com/en-us/learn/modules/get-started-security-roles/)
 * [Administer Microsoft Power Platform subscriptions](https://docs.microsoft.com/en-us/learn/modules/administrating-power-platform-subscriptions/)
 * [Administer Power Platform - Documentation](https://docs.microsoft.com/en-us/power-platform/admin/admin-documentation)
+* [Building a Center of Excellence Practice Webinar](https://learning.eventbuilder.com/event/33736?source=PowerPlatform) (On-demand)
 
 ## Center of Excellence resources
 
@@ -44,3 +45,7 @@ The Microsoft Power Platform CoE Starter Kit is a collection of components and t
 * Advanced techniques for automating administration of Power Apps – [Defense in Depth strategy](https://flow.microsoft.com/en-us/blog/security-governance-strategy/)
 * [Application lifecycle management (ALM) with Microsoft Power Platform](https://docs.microsoft.com/en-us/power-platform/alm/)
 * [Data loss prevention in Power Platform](https://docs.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention)
+
+## Technical Resources
+
+* [Power CAT Team](https://www.youtube.com/playlist?list=PLi9EhCY4z99W2QOTgbwhFZEjpqc8YZDVH) (YouTube videos)

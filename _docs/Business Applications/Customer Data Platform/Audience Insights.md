@@ -31,7 +31,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 * [Guided Tour of Customer Insights](https://dynamics.microsoft.com/en-us/guidedtour/dynamics/Customer-Insights/1/1/)
 * [Intro to Customer Insights - Video](https://www.youtube.com/watch?v=mtrtBrEjBZg&t=7s)
-
+* [CI Solution Launch Pad - Industry Lens](https://msuspartners.eventbuilder.com/BACustomerInsights) (On-demand)
 
 ## Associate
 
