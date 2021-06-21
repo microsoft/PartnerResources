@@ -17,12 +17,13 @@ tags:
 * [Migrate MySQL to Azure Database for MySQL](https://datamigration.microsoft.com/scenario/mysql-to-azuremysql?step=1) (Self-Paced) (2 Hours)
 * [Migrate PostgreSQL to Azure Database for PostgreSQL](https://datamigration.microsoft.com/scenario/postgresql-to-azurepostgresql?step=1) (Self-Paced) (2 Hours)
 * [Microsoft Online Migration Guide](https://datamigration.microsoft.com/) (Self-Paced) (2 Hours)
+* [Introduction to Azure Database for MySQL](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-database-for-mysql/) (40 minutes)
 * [Introduction to Azure Database for PostgreSQL](https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/) (Self-Paced) (20 minutes)
 * [Create and connect to an Azure Database for PostgreSQL](https://docs.microsoft.com/en-us/learn/modules/create-connect-to-postgres/) (Self-Paced) (46 minutes)
 
 ## Associate
 
-* [Azure OSS Database Migration Hackathon](https://github.com/izzymsft/OSSDatabaseMigrationHackathon) (Self-Paced) (8 Hours)
+* [Azure OSS Database Migration Hackathon](https://microsoft.github.io/WhatTheHack/033-OSSDatabaseMigration) (Self-Paced) (8 Hours)
 * [Azure OSS DB SKU Recommender](https://github.com/izzymsft/azureossdbskurecommender) (Self-Paced) (1 Hour)
 * [Create a new Azure Database for MySQL and WordPress app](https://www.microsoft.com/handsonlabs/selfpacedlabs/details/SP-AZ100049) (Self-Paced) (1 Hour)
 * [Data Access Migration Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-databasemigration.data-access-migration-toolkit) (Self-Paced)
