@@ -9,29 +9,23 @@ tags:
 
 # Lab Environment
 
-## Pre-provisioned Azure VMware Solution Environment
+## Azure VMware Solution Environment
 
 The deployment of the Azure VMware Solution takes at least 2 hours to complete.
-Since it is not practical to wait that long in this training, an AVS environment
-has been pre-deployed for you. You will build on top of its foundation during
-the lab exercises.
-
-The AVS pre-provisioned environment has been configured with these components
-and settings (as you see in the architecture diagram):
+If you are doing this on your own, visit the [appendix section](appendixes.md)
+for instructions on how to configure the environment. However, If you are
+in a Microsoft organized event, usually it is pre-deployed for you with the
+following components and settings.
 
 1. Internet Access (outbound connectivity from AVS to the Internet)
-
 2. Public IP Addresses - 10 IPs (inbound connectivity from Internet to AVS)
-
 3. Azure VM used as Jumpbox (used for AVS management and as DNS Forwarder)
-
 4. Azure VNet with its corresponding Subnets and connectivity to AVS through an
    Azure Express Route Virtual Network Gateway.
 
 ## Lab Architecture Diagram
 
 ![lab-architecture-diagram](media/lab-environment/lab-architecture-diagram.png)
-
 
 ## On-Premises Connectivity
 
