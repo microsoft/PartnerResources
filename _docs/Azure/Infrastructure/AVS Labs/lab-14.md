@@ -130,4 +130,4 @@ datastore.
 
 [Back to Table of Content](toc.md#table-of-contents)
 
-[appendixes](appendixes.md)
+[Appendixes](appendixes.md)
