@@ -20,7 +20,7 @@ tags:
 
 [Lab Environment](lab-environment.md#lab-environment)
 
-- [Pre-provisioned Azure VMware Solution Environment](lab-environment.md#pre-provisioned-azure-vmware-solution-environment)
+- [Azure VMware Solution Environment](lab-environment.md#azure-vmware-solution-environment)
 
 - [Lab Architecture Diagram](lab-environment.md#lab-architecture-diagram)
   
