@@ -56,7 +56,7 @@ tags:
 
 
 ### Labs
-* [AVS Tech intensity labs](avs-Labs)
+* [AVS Tech intensity labs](avs-labs)
 #### AVS Simulated Hands on Lab from VMware
 * [VMware Hands-on Labs main page](http://hol.pub/avs)
 * [Azure VMware Solution Private Cloud Deployment and Connectivity](http://labs.hol.vmware.com/HOL/catalogs/lab/9051) (Self-Paced)
