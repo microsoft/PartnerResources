@@ -20,19 +20,19 @@ segment level to consume it.
 
 1. In your Azure VMware Solution Private Cloud, under **Workload Networking**,
    select **DHCP** \> **Add**.
-   ![select dhcp](media/lab-3/select-dhcp.png)
+   ![select dhcp](assets/lab-3/select-dhcp.png)
 
 2. You can select either DHCP Server or DHCP Relay, but in this lab, you’ll
    need to choose **DHCP Server** and then provide a name for the server IP
    addresses, for example 10.20.200.1/24. Next, click on **OK**.
 
-   ![](media/lab-3/add-dhcp.png)
+   ![](assets/lab-3/add-dhcp.png)
 
 3. It takes few seconds to complete, after that you’ll see the configuration as
    in the screenshot below.
-    ![complete dhcp](media/lab-3/complete-dhcp.png)  
+    ![complete dhcp](assets/lab-3/complete-dhcp.png)  
   
-   ![dhcp configuration](media/lab-3/dhcp-config.png)
+   ![dhcp configuration](assets/lab-3/dhcp-config.png)
 
 ## Create NSX network segment from Azure portal
 
@@ -45,12 +45,12 @@ vCenter.
 1. In the Azure VMware Solution Private Cloud, under **Workload Networking**,
    select **Segments** \> **Add**. Provide the details for the new logical
    segment and select **OK**.
-    ![select add segment](media/lab-3/select-segment.png)
+    ![select add segment](assets/lab-3/select-segment.png)
 
 2. Provide the details for the new logical segment and select
    **OK**.
 
-    ![add segment](media/lab-3/add-segment.png)
+    ![add segment](assets/lab-3/add-segment.png)
 
 3. **Segment name** - Name of the logical switch that is visible in vCenter,
    i.e., **AVS-Segment-1**
@@ -81,7 +81,7 @@ vCenter.
   
    **The segment is now visible in the Azure VMware Solution blade, NSX-T
    Manger, and vCenter**
-    ![segment complete](media/lab-3/segment-complete.png)
+    ![segment complete](assets/lab-3/segment-complete.png)
 
 ## Configure DNS from Azure portal
 
@@ -119,7 +119,7 @@ default DNS zone.
 1. In your Azure VMware Solution Private Cloud, under **Workload Networking**,
    select **DNS** \> **DNS zones** \> **Add**.
 
-   ![select add zone](media/lab-3/select-add-zone.png)
+   ![select add zone](assets/lab-3/select-add-zone.png)
 
 2. Select **Default DNS zone** and provide:
 
@@ -130,13 +130,13 @@ default DNS zone.
       **You will be using the Jumpbox as a DNS Forwarder just for the lab
       purposes, that won’t be practical in production scenarios.**
 
-      ![add zone](media/lab-3/add-zone.png)
+      ![add zone](assets/lab-3/add-zone.png)
 
 3. Click **OK**, and it will take few seconds to complete.
 
-   ![zone complete](media/lab-3/zone-complete.png)
+   ![zone complete](assets/lab-3/zone-complete.png)
 
-   ![dns zones](media/lab-3/dns-zones.png)
+   ![dns zones](assets/lab-3/dns-zones.png)
 
 ### Step 2 - Configure DNS service
 
@@ -157,12 +157,12 @@ default DNS zone.
    5. **FQDN zone** (you don’t need to specify any for this lab)
 
    6. **Log level** (Error level is good enough for this lab)  
-      ![add dns service](media/lab-3/add-dns-service.png)
+      ![add dns service](assets/lab-3/add-dns-service.png)
 
 2. After few seconds, the DNS Service will be created, and you’ll see a
    notification saying:
 
-    ![add dns complete](media/lab-3/add-dns-complete.png)
+    ![add dns complete](assets/lab-3/add-dns-complete.png)
 
 ### Step 3 - Configure DNS Forwarder
 
@@ -178,25 +178,25 @@ resources through Azure Private DNS Zones. For more details, check this out:
 2. Go to DNS MMC Snap-in. You can do that by going to **Run** tool, and type:
    **dnsmgmt.msc**, then click on **OK**.
 
-   ![run](media/lab-3/run.png)
+   ![run](assets/lab-3/run.png)
 
 3. Expand the DNS root, right click on the DNS Instance, and go to
    **Properties**.
 
-    ![properties](media/lab-3/properties.png)
+    ![properties](assets/lab-3/properties.png)
 
 4. Go to **Forwarders** tab and click on **Edit…**.  
   
-    ![forwarders](media/lab-3/forwarders.png)
+    ![forwarders](assets/lab-3/forwarders.png)
 
 5. Add this IP address **168.63.129.16**, then click **OK**.
 
-    ![edit forwarders](media/lab-3/edit-forwarders.png)
+    ![edit forwarders](assets/lab-3/edit-forwarders.png)
 
 6. Back to the **Properties** dialog, you can click **Apply**, then **OK** to
    exit. This should be good enough to configure the Jumpbox as a DNS
    Forwarder.
-   ![apply](media/lab-3/apply.png)
+   ![apply](assets/lab-3/apply.png)
 
     **\*You will test the DNS Forwarding functionality in the upcoming labs, once you
     create a Storage Account that’s associated with Azure Private Endpoint and
@@ -206,6 +206,6 @@ resources through Azure Private DNS Zones. For more details, check this out:
 
 ## Next Steps
 
-[Back to Table of Content](toc.md#table-of-contents)
+[Back to Table of Content](index.md#table-of-contents)
 
 [Lab 4](lab-4.md)

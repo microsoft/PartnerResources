@@ -27,6 +27,6 @@ You’ll see them in LAB-1 and LAB12B.
 
 ## Next Steps
 
-[Back to Table of Content](toc.md#table-of-contents)
+[Back to Table of Content](index.md#table-of-contents)
 
 [Lab 1](lab-1.md)

@@ -41,10 +41,10 @@ zero-downtime migration.
 
  [Azure VMware Solution Workload Migration with VMware HCX](https://labs.hol.vmware.com/HOL/catalogs/lab/9433) 
 
-![hcx](media/lab-12/3e6714f9fd0cb71bf8f90b4b567e78d9.png)
+![hcx](assets/lab-12/3e6714f9fd0cb71bf8f90b4b567e78d9.png)
 
 ## Next Steps
 
-[Back to Table of Content](toc.md#table-of-contents)
+[Back to Table of Content](index.md#table-of-contents)
 
 [Lab 13](lab-13.md)
