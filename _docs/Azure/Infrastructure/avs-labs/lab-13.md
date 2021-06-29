@@ -42,7 +42,7 @@ The following metrics are visible through Azure Monitor Metrics.
 1. From your Azure VMware Solution Private Cloud, select **Monitoring** \>
    **Alerts**, and then **New alert rule**.
 
-   ![new alert rule](media/lab-13/d28fc9d3274d9eeabf50d70b6761592b.png)
+   ![new alert rule](assets/lab-13/d28fc9d3274d9eeabf50d70b6761592b.png)
 
    A new configuration screen opens where you'll:
 
@@ -54,7 +54,7 @@ The following metrics are visible through Azure Monitor Metrics.
 
    - Define the Alert rule details
 
-   ![create alert rule](media/lab-13/ce071106649f23f9d87ce16274a4d221.png)
+   ![create alert rule](assets/lab-13/ce071106649f23f9d87ce16274a4d221.png)
 
 2. Under **Scope**, select the target resource you want to monitor. By default,
    the Azure VMware Solution Private Cloud from where you opened the Alerts
@@ -68,7 +68,7 @@ The following metrics are visible through Azure Monitor Metrics.
    perspective.
 
    ![Screenshot that shows the Configure signal logic window with predefined
-   signal names.](media/lab-13/6d1cefa2d8f0d370d3c0445ffb6869e1.png)
+   signal names.](assets/lab-13/6d1cefa2d8f0d370d3c0445ffb6869e1.png)
 
 4. Define the logic that will trigger the alert and then select **Done**.
 
@@ -76,7 +76,7 @@ The following metrics are visible through Azure Monitor Metrics.
    been adjusted.
 
    ![Screenshot that shows the information for the selected signal
-   logic.](media/lab-13/aebd148dc13f1383e8cd083aa05f2300.png)
+   logic.](assets/lab-13/aebd148dc13f1383e8cd083aa05f2300.png)
 
 5. Under **Actions**, select **Add action groups**. The action group defines
    *how* the notification is received and *who* receives it. You can receive
@@ -85,7 +85,7 @@ The following metrics are visible through Azure Monitor Metrics.
    or voice message.
 
    ![Screenshot that shows the existing action groups and where to create a new
-   action group.](media/lab-13/e7ef5799bf8a6212b64f91606dd0cab5.png)
+   action group.](assets/lab-13/e7ef5799bf8a6212b64f91606dd0cab5.png)
 
 6. In the window that opens, select **Create action group**.
 
@@ -94,7 +94,7 @@ The following metrics are visible through Azure Monitor Metrics.
    You can also use an existing action group.
 
    ![Screenshot that shows the action groups to select for the
-   alert.](media/lab-13/01642094b03ca180914e12304f35095b.png)
+   alert.](assets/lab-13/01642094b03ca180914e12304f35095b.png)
 
 7. In the window that opens, on the **Basics** tab, give the action group a
    name and a display name.
@@ -105,7 +105,7 @@ The following metrics are visible through Azure Monitor Metrics.
    This example is based on email notification.
 
    ![Screenshot that shows the email, SMS message, push, and voice settings for
-   the alert.](media/lab-13/520f475a29624a258bb0f9b61ab934c6.png)
+   the alert.](assets/lab-13/520f475a29624a258bb0f9b61ab934c6.png)
 
 9. (Optional) Configure the **Actions** if you want to take proactive actions
    and receive notification on the event. Select an available **Action type**
@@ -123,31 +123,31 @@ The following metrics are visible through Azure Monitor Metrics.
    - Webhooks - to trigger a process in another service
 
      ![Screenshot that shows the Create action group window with a focus on
-     the Action type drop-down.](media/lab-13/6248cf7442c5d1bdfe46c5cb93e80e83.png)
+     the Action type drop-down.](assets/lab-13/6248cf7442c5d1bdfe46c5cb93e80e83.png)
 
 10. Under the **Alert rule details**, provide a name, description, resource
     group to store the alert rule, the severity. Then select **Create alert
     rule**.
 
     ![Screenshot that shows the details for the alert
-    rule.](media/lab-13/a5e134e4db680d3b7187ff18ea1c12c1.png)
+    rule.](assets/lab-13/a5e134e4db680d3b7187ff18ea1c12c1.png)
 
     The alert rule is visible and can be managed from the Azure portal.
 
     ![Screenshot that shows the new alert rule in the Rules
-    window.](media/lab-13/3d0171d6ca769e58be513ea4bc77cf45.png)
+    window.](assets/lab-13/3d0171d6ca769e58be513ea4bc77cf45.png)
 
     As soon as a metric reaches the threshold as defined in an alert rule, the
     **Alerts** menu is updated and made visible.
 
     ![Screenshot that shows the alert after reaching the threshold
-    defined.](media/lab-13/00ab76d73ed506e5346496f6c80ea91d.png)
+    defined.](assets/lab-13/00ab76d73ed506e5346496f6c80ea91d.png)
 
     Depending on the configured Action Group, you'll receive a notification
     through the configured medium. In our example, you’ve configured email.
 
     ![Screenshot of an Azure Monitor Alert with the error string, and the date
-    and time event was triggered.](media/lab-13/5604ea99cce70203bb08f528d640182f.png)
+    and time event was triggered.](assets/lab-13/5604ea99cce70203bb08f528d640182f.png)
 
 ## Work with metrics
 
@@ -155,7 +155,7 @@ The following metrics are visible through Azure Monitor Metrics.
    **Metrics**. Then select the metric you want from the drop-down.
 
    ![Screenshot that shows the Metrics window and a focus on the Metric
-   drop-down.](media/lab-13/a768f47c87b8ad2bdcf4613e6b2dabc6.png)
+   drop-down.](assets/lab-13/a768f47c87b8ad2bdcf4613e6b2dabc6.png)
 
 2. You can change the diagram's parameters, such as the **Time range** or the
    **Time granularity**.
@@ -168,10 +168,10 @@ The following metrics are visible through Azure Monitor Metrics.
    - **Pin this diagram** to an Azure Dashboard for convenience.
 
      ![Screenshot that shows the time range and time granularity options for
-     metric.](media/lab-13/0218b28502ff09fd5d1e717d27a3ea2b.png)
+     metric.](assets/lab-13/0218b28502ff09fd5d1e717d27a3ea2b.png)
 
 ## Next Steps
 
-[Back to Table of Content](toc.md#table-of-contents)
+[Back to Table of Content](index.md#table-of-contents)
 
 [Lab 14](lab-14.md)

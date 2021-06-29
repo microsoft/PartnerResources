@@ -32,6 +32,6 @@ Migrate](https://docs.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmwa
 
 ## Next Steps
 
-[Back to Table of Content](toc.md#table-of-contents)
+[Back to Table of Content](index.md#table-of-contents)
 
 [Expected Time Needed Per Lab](expected-time-needed-per-lab.md#expected-time-needed-per-lab)

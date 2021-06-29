@@ -38,6 +38,6 @@
 
 ## Next Steps
 
-[Back to Table of Content](toc.md#table-of-contents)
+[Back to Table of Content](index.md#table-of-contents)
 
 [Lab Environment](lab-environment.md#lab-environment)

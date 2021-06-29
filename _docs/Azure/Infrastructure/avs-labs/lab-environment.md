@@ -25,7 +25,7 @@ following components and settings.
 
 ## Lab Architecture Diagram
 
-![lab-architecture-diagram](media/lab-environment/lab-architecture-diagram.png)
+![lab-architecture-diagram](assets/lab-environment/lab-architecture-diagram.png)
 
 ## On-Premises Connectivity
 
@@ -57,10 +57,10 @@ vElements.net](http://www.velements.net/2021/02/12/site-to-site-vpn-between-nsx-
 
 ### Architecture Diagram
 
-![on-premises-connectivity](media/lab-environment/on-premises-connectivity.png)
+![on-premises-connectivity](assets/lab-environment/on-premises-connectivity.png)
 
 ## Next Steps
 
-[Back to Table of Content](toc.md#table-of-contents)
+[Back to Table of Content](index.md#table-of-contents)
 
 [Lab Objectives](lab-objectives.md)

@@ -24,33 +24,33 @@ deployed, then under **Manage**, click on **Connectivity,** and select
 
 1. Under **Internet enabled**, you’ll see that it is **Disabled** by default.
 
-    ![enable connectivity](media/lab-4/enable-connectivity.png)
+    ![enable connectivity](assets/lab-4/enable-connectivity.png)
 
 2. Select **Enabled** and click **Save** button.
 
-    ![save connectivity](media/lab-4/save-connectivity.png)
+    ![save connectivity](assets/lab-4/save-connectivity.png)
 
 3. As mentioned, it will take between 15-20 minutes to apply the changes.
 
-    ![applying changes](media/lab-4/applying-changes.png)
+    ![applying changes](assets/lab-4/applying-changes.png)
 
 4. AVS Private Cloud properties cannot be modified during that time, as you
    notice in the message below (that you will see if you click on **Refresh**
    button)
 
-    ![connectivity in read only](media/lab-4/read-only.png)
+    ![connectivity in read only](assets/lab-4/read-only.png)
 
 5. After the configuration change has been applied you will be able to access
    to Internet from VMs deployed on AVS Private Cloud, and this is what you’ll
    see when the operation is completed.
 
-    ![changes complete](media/lab-4/changes-complete.png)
+    ![changes complete](assets/lab-4/changes-complete.png)
 
 **After you complete this step, you should be able to access Internet from VMs
 running on AVS Private Cloud.**
 
 ## Next Steps
 
-[Back to Table of Content](toc.md#table-of-contents)
+[Back to Table of Content](index.md#table-of-contents)
 
 [Lab 5](lab-5.md)

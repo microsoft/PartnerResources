@@ -22,19 +22,19 @@ configuring inbound Internet traffic to VMs hosted at AVS Private Cloud.
 1. Access AVS from Azure portal and in the **Connectivity** pane, select the
    **Public IP** tab and click on **Configure**.
 
-    ![configure public ip](media/lab-8/configure-public-ip.png)
+    ![configure public ip](assets/lab-8/configure-public-ip.png)
 
 2. Enter the address block for the **Virtual Hub**, make sure this network
    segment does not overlap with your existing networks, and the number of
    Public IP addresses, this number goes up to 100. Click on **Create**.
 
-   ![ip address block](media/lab-8/ip-address-block.png)
+   ![ip address block](assets/lab-8/ip-address-block.png)
 
    > The operation can take up to **one hour** as you see in the screenshot
    > below. Because it will be deploying other resources such as Azure vWAN and
    > Azure Firewall then configure Express Route Connection.
 
-   ![deployment status](media/lab-8/deployment-status.png)
+   ![deployment status](assets/lab-8/deployment-status.png)
 
 3. You can monitor the status of the deployment from Azure portal.
    By default, a new Resource Group will be created part of provisioning Azure
@@ -42,23 +42,23 @@ configuring inbound Internet traffic to VMs hosted at AVS Private Cloud.
    Group and check the deployment status. The name of that Resource Group will
    end with “-vwan-rg”.
 
-    ![monitor deployment status](media/lab-8/monitor-deployment-status.png)
+    ![monitor deployment status](assets/lab-8/monitor-deployment-status.png)
 
 4. Verify status of the provisioned VWAN and VWAN Hub directly from the same
    **Public IP** tab in your Private Cloud **Connectivity** pane.
 
-    ![verify status](media/lab-8/verify-status.png)
+    ![verify status](assets/lab-8/verify-status.png)
 
     Also, by going to the created Resource Group you’ll notice these resources
     created, and you can also see the status of the deployment itself and check that
     it was completed successfully.
 
-    ![deployment complete status](media/lab-8/deployment-complete-status.png)
+    ![deployment complete status](assets/lab-8/deployment-complete-status.png)
 
-    ![resource group overview](media/lab-8/resource-group-overview.png)
+    ![resource group overview](assets/lab-8/resource-group-overview.png)
 
 ## Next Steps
 
-[Back to Table of Content](toc.md#table-of-contents)
+[Back to Table of Content](index.md#table-of-contents)
 
 [Lab 9](lab-9.md)
