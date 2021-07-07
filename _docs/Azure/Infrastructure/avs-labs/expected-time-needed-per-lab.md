@@ -1,5 +1,12 @@
-
-
+---
+layout: page
+title: Before the Training
+permalink: /azure/infrastructure/azure-vmware-solution/avs-labs/expected-time-needed-per-lab
+tags: 
+ - azure
+ - infrastructure
+ - AVS
+---
 # Expected Time Needed Per Lab
 
 | **LAB**                                                               | **Time**             |
@@ -38,6 +45,6 @@
 
 ## Next Steps
 
-[Back to Table of Content](index.md#table-of-contents)
+[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/avs-labs#table-of-contents)
 
-[Lab Environment](lab-environment.md#lab-environment)
+[Lab Environment](lab-environment#lab-environment)

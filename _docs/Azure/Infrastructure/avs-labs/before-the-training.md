@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Before the Training
+permalink: /azure/infrastructure/azure-vmware-solution/avs-labs/before-the-training
 tags: 
  - azure
  - infrastructure
@@ -32,6 +33,6 @@ Migrate](https://docs.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmwa
 
 ## Next Steps
 
-[Back to Table of Content](index.md#table-of-contents)
+[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/avs-labs#table-of-contents)
 
-[Expected Time Needed Per Lab](expected-time-needed-per-lab.md#expected-time-needed-per-lab)
+[Expected Time Needed Per Lab](expected-time-needed-per-lab#expected-time-needed-per-lab)

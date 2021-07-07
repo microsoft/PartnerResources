@@ -1,6 +1,7 @@
 ---
 layout: page
 title: LAB1 – Azure VMware Solution Deployment
+permalink: /azure/infrastructure/azure-vmware-solution/avs-labs/lab-1
 tags: 
  - azure
  - infrastructure
@@ -35,6 +36,6 @@ cloud.
 
 ## Next Steps
 
-[Back to Table of Content](index.md#table-of-contents)
+[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/avs-labs#table-of-contents)
 
-[Lab 2](lab-2.md)
+[Lab 2](lab-2)

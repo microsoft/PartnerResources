@@ -1,6 +1,7 @@
 ---
 layout: page
 title: LAB12B – Configure HCX (HoL)
+permalink: /azure/infrastructure/azure-vmware-solution/avs-labs/lab-12
 tags: 
  - azure
  - infrastructure
@@ -41,10 +42,10 @@ zero-downtime migration.
 
  [Azure VMware Solution Workload Migration with VMware HCX](https://labs.hol.vmware.com/HOL/catalogs/lab/9433) 
 
-![hcx](assets/lab-12/3e6714f9fd0cb71bf8f90b4b567e78d9.png)
+![hcx]({{ site.baseurl }}/assets/avs-labs/lab-12/3e6714f9fd0cb71bf8f90b4b567e78d9.png)
 
 ## Next Steps
 
-[Back to Table of Content](index.md#table-of-contents)
+[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/avs-labs#table-of-contents)
 
-[Lab 13](lab-13.md)
+[Lab 13](lab-13)
