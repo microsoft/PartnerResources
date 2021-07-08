@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lab Environment
+permalink: /azure/infrastructure/azure-vmware-solution/avs-labs/lab-environment
 tags: 
  - azure
  - infrastructure
@@ -12,7 +13,7 @@ tags:
 ## Azure VMware Solution Environment
 
 The deployment of the Azure VMware Solution takes at least 2 hours to complete.
-If you are doing this on your own, visit the [appendix section](appendixes.md)
+If you are doing this on your own, visit the [appendix section](appendixes)
 for instructions on how to configure the environment. However, If you are
 in a Microsoft organized event, usually it is pre-deployed for you with the
 following components and settings.
@@ -25,7 +26,7 @@ following components and settings.
 
 ## Lab Architecture Diagram
 
-![lab-architecture-diagram](assets/lab-environment/lab-architecture-diagram.png)
+![lab-architecture-diagram]({{ site.baseurl }}/assets/avs-labs/lab-environment/lab-architecture-diagram.png)
 
 ## On-Premises Connectivity
 
@@ -57,10 +58,10 @@ vElements.net](http://www.velements.net/2021/02/12/site-to-site-vpn-between-nsx-
 
 ### Architecture Diagram
 
-![on-premises-connectivity](assets/lab-environment/on-premises-connectivity.png)
+![on-premises-connectivity]({{ site.baseurl }}/assets/avs-labs/lab-environment/on-premises-connectivity.png)
 
 ## Next Steps
 
-[Back to Table of Content](index.md#table-of-contents)
+[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/avs-labs#table-of-contents)
 
-[Lab Objectives](lab-objectives.md)
+[Lab Objectives](lab-objectives)

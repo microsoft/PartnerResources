@@ -1,6 +1,7 @@
 ---
 layout: page
 title: LAB2 – Configure Private Cloud access
+permalink: /azure/infrastructure/azure-vmware-solution/avs-labs/lab-2
 tags: 
  - azure
  - infrastructure
@@ -28,11 +29,11 @@ on **Create**.
 
 Fill in all the needed parameters, like name, resource group, region, etc.
 
-![new virtual machine dialog](assets/lab-2/new-resource.png)
+![new virtual machine dialog]({{ site.baseurl }}/assets/avs-labs/lab-2/new-resource.png)
 
 In **Inbound port rules** select None and then move to the networking pane.
 
-![inbound ports](assets/lab-2/inbound-port-rules.png)
+![inbound ports]({{ site.baseurl }}/assets/avs-labs/lab-2/inbound-port-rules.png)
 
 Launch the creation of the virtual machine, it will take only a few minutes to
 complete and then move to the next section.
@@ -62,13 +63,13 @@ You need to create an additional subnet for Bastion in the existing. Browse to
 the created VNet and open the **Subnets** pane. Add a new subnet and name it
 **AzureBastionSubnet**.
 
-![add subnet](assets/lab-2/add-subnet.png)
+![add subnet]({{ site.baseurl }}/assets/avs-labs/lab-2/add-subnet.png)
 
 Now you will create an Azure Bastion host. Go back then to the home screen of
 the Azure portal select **Create a new resource**, search for **Bastion,** and
 click on **Create**.
 
-![TODO:](assets/lab-2/create-bastion.png)
+![TODO:]({{ site.baseurl }}/assets/avs-labs/lab-2/create-bastion.png)
 
 After filling out all the required parameters go to **Review + create** and
 launch the deployment.
@@ -82,7 +83,7 @@ Solution.
 > The Jumpbox credentials will be provided once you activate the lab
 > environment as part of the information to access your lab environment.
 
-![access private cloud](assets/lab-2/access-private-cloud.gif)
+![access private cloud]({{ site.baseurl }}/assets/avs-labs/lab-2/access-private-cloud.gif)
 
 There is a YouTube video that you can use as a backup to this animation above:  
 [Azure VMware Solution (AVS) Access Management Portals using a Jumpbox and Azure
@@ -100,7 +101,7 @@ These are the detailed instructions of what you’ve seen in the section before
    screenshots below. The Jumpbox is the only provided Azure VM in this lab
    environment. You will not need to create a new Jumpbox VM.
 
-![avs jumpbox](assets/lab-2/avs-jumpbox.png)
+![avs jumpbox]({{ site.baseurl }}/assets/avs-labs/lab-2/avs-jumpbox.png)
 
 1. Enter the provided username and password used during the deployment of the
    Jumpbox and click **Connect**.
@@ -108,23 +109,23 @@ These are the detailed instructions of what you’ve seen in the section before
    Credentials provided could be different of what you see in the screenshot
    below.
 
-![avs bastion](assets/lab-2/avs-bastion.png)
+![avs bastion]({{ site.baseurl }}/assets/avs-labs/lab-2/avs-bastion.png)
 
 1. A new browser window will open and show the virtual machine desktop. ![A
    picture containing text, monitor, screenshot, computer Description
-   automatically generated](assets/lab-2/jumpbox-desktop.png)
+   automatically generated]({{ site.baseurl }}/assets/avs-labs/lab-2/jumpbox-desktop.png)
 
 2. Now lookup the URL for vSphere Web client, you will find this in the AVS
    Private Cloud Identity pane. From the Jumpbox desktop open the Edge browser
    and access your Private Cloud vCenter client.  
   
-   ![private ploud identity](assets/lab-2/private-cloud-identity.png)  
+   ![private ploud identity]({{ site.baseurl }}/assets/avs-labs/lab-2/private-cloud-identity.png)  
   
    From this screen you can copy the *cloudadmin@vsphere.local* user password
    as well. Go back to the Bastion tab and access vCenter from Edge browser.
 
    ![A picture containing text, screenshot, indoor, computer Description
-   automatically generated](assets/lab-2/vcenter.png)
+   automatically generated]({{ site.baseurl }}/assets/avs-labs/lab-2/vcenter.png)
 
 3. Repeat the operation for NSX-T Manager and verify you can access it.
 
@@ -134,6 +135,6 @@ These are the detailed instructions of what you’ve seen in the section before
 
 ## Next Steps
 
-[Back to Table of Content](index.md#table-of-contents)
+[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/avs-labs#table-of-contents)
 
-[Lab 3](lab-3.md)
+[Lab 3](lab-3)
