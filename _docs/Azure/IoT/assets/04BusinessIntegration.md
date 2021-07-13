@@ -39,7 +39,7 @@
   <br />Exercise 13 - Connect ADT to Time Series Insights (TSI)
 
 ### [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop) - 6-part webinar series on building solutions with Azure IoT
-* Part 4: [Understanding IoT Messaging processing, analytics, and business integration](https://www.youtube.com/watch?v=78FR6BFPSK0&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=4) - Learn more about IoT data types, storage options, analytics, stream processing, and business integration. After session, follow the Hands on Labs found here: https://aka.ms/Training/LearnAzureIoT 
+* Part 4: [Understanding IoT Messaging processing, analytics, and business integration](https://www.youtube.com/watch?v=78FR6BFPSK0&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=4) - Learn more about IoT data types, storage options, analytics, stream processing, and business integration. After this session, follow the Hands on Labs found here: https://aka.ms/Training/LearnAzureIoT 
 
 ## Quick Reference: Key Concepts and Terminology
 * What is Azure Digital Twins?
