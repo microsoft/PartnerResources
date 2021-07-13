@@ -72,7 +72,7 @@
   <br />Exercise 8: Test Device Connectivity and Offline Support
 
 ### [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop) - 6-part webinar series on building solutions with Azure IoT
-* Part 4: [Work with Azure IoT Edge](https://www.youtube.com/watch?v=78FR6BFPSK0&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=4) - Learn more about IoT data types, storage options, analytics, stream processing, and business integration. After session, follow the Hands on Labs found here: https://aka.ms/Training/LearnAzureIoT 
+* Part 5: [Build the Intelligent Edge](https://www.youtube.com/watch?v=VW-esf3Wqeg&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=5) - With the collection of large amounts of data and the need for urgent responses, you’ll want to bring the intelligence to the edge for processing data and only send the important data to the cloud. After this session, follow the Hands on Labs found here: https://aka.ms/Training/LearnAzureIoT. We’ll take a deep dive on using an Azure IoT Edge device as a gateway and you’ll learn the different scenarios where an IoT Edge device is on an enterprise network (needs proxy settings) or needs extended offline capabilities.
 
 ## Quick Reference: Key Concepts and Terminology
 * Azure IoT Edge is made up of three components:
