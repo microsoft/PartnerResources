@@ -71,8 +71,8 @@
   <br />Exercise 7: Connect Child IoT Device to IoT Edge Gateway
   <br />Exercise 8: Test Device Connectivity and Offline Support
 
-### Sign up for [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop)
-* Work with Azure IoT Edge - May 14th
+### [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop) - 6-part webinar series on building solutions with Azure IoT
+* Part 4: [Work with Azure IoT Edge](https://www.youtube.com/watch?v=78FR6BFPSK0&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=4) - Learn more about IoT data types, storage options, analytics, stream processing, and business integration. After session, follow the Hands on Labs found here: https://aka.ms/Training/LearnAzureIoT 
 
 ## Quick Reference: Key Concepts and Terminology
 * Azure IoT Edge is made up of three components:
