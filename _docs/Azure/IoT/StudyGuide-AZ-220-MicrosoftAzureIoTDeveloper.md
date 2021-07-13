@@ -47,8 +47,8 @@ Additionally, if you see something, say something!  Let's leverage the power of 
 
 ## Presentations
 
-[AZ-220 Overview Slides](AZ220StudyGuide.pdf)
-[Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop) - 6-part webinar series on building solutions with Azure IoT
+* [AZ-220 Overview Slides](assets/AZ220-StudyGuideSession.pdf) - Slides from the Microsoft Learn Student Ambassador session on preparing for the Microsoft Azure IoT Developer Certification
+* [Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop) - 6 Part webinar series teaching you how to get started building end to end IoT solutions with Azure IoT. Sessions were delivered during a live event April 2021 and recordings uploaded here for anyone to learn Azure IoT!
 
 ## Labs by Exam Area (Skills Measured breakdown)
 
