@@ -2,7 +2,7 @@
 
 Microsoft Global Partner Solution (GPS) has created this guide to help you prepare for the Microsoft Azure IoT Developer exam!
 
-## Study Schedule
+## Skills Measured
 
 |Section #|Topic|Homework|
 | - | - | - |
