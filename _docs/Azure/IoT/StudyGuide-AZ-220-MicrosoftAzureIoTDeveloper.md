@@ -1,6 +1,6 @@
 # AZ-220: Microsoft Azure IoT Developer
 
-Microsoft Global Partner Solutions (GPS) has created this guide to help you prepare for the Microsoft Azure IoT Developer exam!
+The Microsoft Global Partner Solutions (GPS) Technical Team has created this guide to help you prepare for the Microsoft Azure IoT Developer exam!
 
 ## Skills Measured
 
@@ -9,9 +9,9 @@ Microsoft Global Partner Solutions (GPS) has created this guide to help you prep
 |1|**Setup the IoT Solution Infrastructure (10-15%)**| [Link](assets/01IoTSolutionInfrastructure.md) |
 |2|**Provision and Manage Devices (15-20%)**| [Link](assets/02ProvisionAndManageDevices.md) |
 |3|**Implement IoT Edge (15-20%)**| [Link](assets/03ImplementEdge.md) |
-|4|**Implement Business Integration (5-10%)**| [Link](assets/04BusinessIntegration) |
+|4|**Implement Business Integration (5-10%)**| [Link](assets/04BusinessIntegration.md) |
 |5|**Process and Manage Data (15-20%)**| [Link](assets/05ProcessAndManageData.md) |
-|6|**Monitor, Troubleshoot, and Optimize IoT Solutions (15-20%)**| [Link](assets/06MonitorTroubleshootOptimize) |
+|6|**Monitor, Troubleshoot, and Optimize IoT Solutions (15-20%)**| [Link](assets/06MonitorTroubleshootOptimize.md) |
 |7|**Implement security (10-15%)**| [Link](assets/07ImplementSecurity.md) |
 
 ## How to use this study guide
