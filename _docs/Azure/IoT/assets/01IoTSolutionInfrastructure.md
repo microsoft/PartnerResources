@@ -44,9 +44,9 @@
 <br />Exercise 2: Create Azure IoT Hub Device ID using Azure CLI
 <br />Exercise 3: Configure and Test a Simulated Device (C#)
 
-### Sign up for [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop)
-* Transform your business with IoT - April 16th – To better understand the basics of IoT and available training resources
-* Devices and device communication - April 23rd – To prepare for next week’s study group session
+### [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop) - 6-part webinar series on building solutions with Azure IoT
+* Part 1: [Transform your business with IoT](https://www.youtube.com/watch?v=_BCS7gwR5yA&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=1) – To better understand the basics of IoT and available training resources. Describes Azure IoT components and explains how you combine them to create value for enterprises, enabling digital feedback loops for solutions that extend beyond telemetry with analytics and edge solutions that provide real-time status.
+* Part 2: [Devices and device communication](https://www.youtube.com/watch?v=ATdfz3nXzb0&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=2) - Learn how to set up the development environment used throughout this series, including how to connect an IoT device with temperature and humidity sensors to Azure. After this session, follow the Hands on Labs found here: https://aka.ms/Training/LearnAzureIoT. In the labs, you’ll configure a simulated device to connect to Azure IoT Hub. Then you’ll run the simulated device to send telemetry messages and verify that device telemetry is being received.
 
 ## Resources
 * [IoT Hub Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/)
