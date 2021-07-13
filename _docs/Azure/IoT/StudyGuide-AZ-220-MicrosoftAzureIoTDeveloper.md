@@ -18,9 +18,8 @@ The Microsoft Global Partner Solutions (GPS) Technical Team, IoT Product Group, 
 
 This study guide includes resources and homework suggestions that includes both reading and hands-on activities that are directly aligned to exam objectives.  The [Microsoft Tech Community "Learn IoT" Conversation Space](https://aka.ms/iottechcommunity/learniot) is available for students to ask questions and collaborate with others also studying for this exam.
 
-## What are the requirements?
+## What are the Prerequisites?
 
-Prerequisites
 * Software Development Experience
 <br />- No specific software language required 
 <br />- Does not need to be at a professional level
@@ -41,9 +40,15 @@ Additionally, if you see something, say something!  Let's leverage the power of 
 ## Important Links
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)
+* [Skills Measured on AZ-220](https://aka.ms/AZ-200-SkillsMeasured)
 * [Microsoft Certified: Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
-* [Microsoft Tech Community "Learn IoT" Conversation Space](https://aka.ms/iottechcommunity/learniot) - Where you can discuss IoT learning resources and ask homework questions!
-* [Microsoft Azure certification exams](https://www.microsoft.com/en-us/learning/azure-exams.aspx)
+* [MS Learn - IoT Learning Resources](https://aka.ms/mslearn-iot) - IoT-related Learning Paths and Modules 
+* [Microsoft Tech Community "Learn IoT" Conversation Space](https://aka.ms/iottechcommunity/learniot) - Where you can discuss IoT learning resources and ask homework questions
+* [Microsoft Tech Community "Internet of Things"](https://aka.ms/iottechcommunity) - Stay up to date, learn and discuss Internet of Things: Azure IoT, Sphere, Edge, RTOS, Time Series Insights, Windows IoT, Robotics, Security
+* [YouTube: Microsoft IoT Developers](https://www.youtube.com/c/MicrosoftIoTDevelopers) - Watch videos for IoT Developers about latest updates and news as well as demos and deep dives into Microsoft IoT services and technologies.
+Weekly releases of the IoT Show, regular premieres of the IoT Deep Dives, advocates and engineers' demos, and more.
+* [Microsoft Azure certification exams](https://www.microsoft.com/en-us/learning/azure-exams.aspx) - Find other related certifications and plan your certification journey
+* [Student Discounts](https://docs.microsoft.com/en-us/learn/certifications/student-discounts)
 
 ## Presentations
 
