@@ -30,7 +30,8 @@ tags:
 ## Expert
 
 * [Course MB-400T00-A: Microsoft Power Apps + Dynamics 365 Developer](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-400t00) (In-person Instructor Led) (3 Days)
-* * [Low Code Application Development advanced specialization](https://partner.microsoft.com/en-us/training/assets/collection/low-code-application-development-advanced-specialization#/) (Self-Paced)
+* [Low Code Application Development advanced specialization](https://partner.microsoft.com/en-us/training/assets/collection/low-code-application-development-advanced-specialization#/) (Self-Paced)
+* [Transform your business applications with fusion development](https://docs.microsoft.com/en-us/learn/paths/transform-business-applications-with-fusion-development/?WT.mc_id=dotnet-28653-masoucou) (Self-paced) (3 Hours)
 
 ## Community Resources
 

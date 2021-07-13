@@ -1,4 +1,4 @@
-# AZ-220 Provision and manage devices (20-25%)
+# AZ-220 Provision and manage devices (15-20%)
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)
 * [Microsoft Certified: Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
@@ -72,8 +72,9 @@
  <br />Exercise 6: Test Your IoT Central Device
  <br />Exercise 7: Create multiple devices
 
-### Sign up for [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop)
-* Device provisioning at scale - April 30th
+### [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop) - 6-part webinar series on building solutions with Azure IoT
+* Part 3: [Device provisioning at scale](https://www.youtube.com/watch?v=0vrIpfVy8YY&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=3) - This portion of the webinar series walks through how to provision at scale with Device Provisioning Service. After session, follow the Hands on Labs found here: https://aka.ms/Training/LearnAzureIoT 
+* Part 6: [Build Solutions with IoT Central](https://www.youtube.com/watch?v=rI168qqGzrE&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=6) - Designed to enable the easy monitoring and management of a fleet of devices, Azure IoT Central encompasses a range of underlying technologies that work together well but can be complicated to implement when many technologies are needed. After this session, follow the Hands on Labs found here: https://aka.ms/Training/LearnAzureIoT.  Learn when to build with Azure IoT Central and when to go with Azure IoT Platform services and offerings. We’ll also take a look at IoT Plug and Play to interact with a device's capabilities even without knowledge of the underlying device implementation.
 
 ## Quick Reference: Key Concepts and Terminology
 * Device Provisioning Service (DPS) Features: 

@@ -53,8 +53,8 @@
   <br />Exercise 3: Run Simulated IoT Devices
   <br />Exercise 4: View Time Series Insights Explorer
 
-### Sign up for [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop)
-* Messaging processing, analytics, and business integration – May 7 (on-demand)
+### [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop) - 6-part webinar series on building solutions with Azure IoT
+* Part 4: [Understanding IoT Messaging processing, analytics, and business integration](https://www.youtube.com/watch?v=78FR6BFPSK0&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=4) - Learn more about IoT data types, storage options, analytics, stream processing, and business integration. After session, follow the Hands on Labs found here: https://aka.ms/Training/LearnAzureIoT 
 
 ## Quick Reference: Key Concepts and Terminology
 * Event Concepts:
