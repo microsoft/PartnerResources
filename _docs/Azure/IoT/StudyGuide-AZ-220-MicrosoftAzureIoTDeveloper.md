@@ -106,6 +106,7 @@ Hands-on labs can be found here: [AZ-220 IoT Labs](https://microsoftlearning.git
 *	**Added** *Provision IoT Edge devices with DPS* to "Implement Edge", subtopic "Setup and Deploy an IoT Edge Device"
 *	**Removed** *Set up device D2C message tracing by using Azure Distributed Tracing* from "Monitor, troubleshoot, and optimizeIoT solutions", subtopic "Perform end-to-end solution testing and diagnostics"
 
-## AZ-220 Self-Assessment Tool
-Are you ready for the AZ-220 exam? This self-assessment may help you identify areas that you still need to study or practice... [Download the AZ-220 Microsoft Azure IoT Developer Exam Self-Assessment Tool](Exam-Msft-AZ-220-Self-Assessment-Build5Nines.xlsx?raw=1)
-<br />*From [https://build5nines.com/az-220-microsoft-azure-iot-developer-specialty-certification-exam/](https://build5nines.com/az-220-microsoft-azure-iot-developer-specialty-certification-exam/)*
+## AZ-220 Practice Exams
+Are you ready for the AZ-220 exam?
+*[Assessment](https://www.measureup.com/assessment-az-220-microsoft-iot-developer.html) - English, 30 questions, 100 minutes (single- or double-take options)
+*[Practice Exam](https://www.measureup.com/az-220-microsoft-iot-developer.html) - English, 123 questions, can take multiple times
