@@ -1,4 +1,4 @@
-# AZ-220 Provision and manage devices (20-25%)
+# AZ-220 Provision and manage devices (15-20%)
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)
 * [Microsoft Certified: Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
