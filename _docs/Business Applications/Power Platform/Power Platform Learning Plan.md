@@ -29,6 +29,7 @@ Keeping Up
 ## Keeping Up
 
 * [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+* [Renew your cert](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/is-your-certification-expiring-soon-renew-it-for-free-today/ba-p/2150405) (Self-Paced) (On-going)
 
 ## Fundamentals
 
