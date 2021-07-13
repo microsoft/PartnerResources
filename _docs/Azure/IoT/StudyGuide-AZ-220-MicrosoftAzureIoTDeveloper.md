@@ -5,7 +5,7 @@ Microsoft Global Partner Solution (GPS) has created this guide to help you prepa
 ## Study Schedule
 
 |Section #|Topic|Homework|
-| - | - | - | - |
+| - | - | - |
 |1|**Setup the IoT Solution Infrastructure (10-15%)**| [Link](assets/01IoTSolutionInfrastructure.md) |
 |2|**Provision and Manage Devices (15-20%)**| [Link](assets/02ProvisionAndManageDevices.md) |
 |3|**Implement IoT Edge (15-20%)**| [Link](assets/03ImplementEdge.md) |
