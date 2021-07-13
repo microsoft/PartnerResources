@@ -108,5 +108,5 @@ Hands-on labs can be found here: [AZ-220 IoT Labs](https://microsoftlearning.git
 
 ## AZ-220 Practice Exams
 Are you ready for the AZ-220 exam?
-*[Assessment](https://www.measureup.com/assessment-az-220-microsoft-iot-developer.html) - English, 30 questions, 100 minutes (single- or double-take options)
-*[Practice Exam](https://www.measureup.com/az-220-microsoft-iot-developer.html) - English, 123 questions, can take multiple times
+* [Assessment](https://www.measureup.com/assessment-az-220-microsoft-iot-developer.html) - English, 30 questions, 100 minutes (single- or double-take options)
+* [Practice Exam](https://www.measureup.com/az-220-microsoft-iot-developer.html) - English, 123 questions, can take multiple times
