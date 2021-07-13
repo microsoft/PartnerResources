@@ -56,6 +56,7 @@ Keeping Up
 * [Course MB-400T00-A: Microsoft Power Apps + Dynamics 365 Developer](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-400t00) (In-person Instructor Led) (3 Days)
 * [Implementing Customer Engagement Online Learning Path](https://docs.microsoft.com/en-us/learn/paths/implementing-customer-engagement-apps/) (Self-Paced) (5 Hours)
 * [Intro to developing with the Power Platform](https://docs.microsoft.com/en-us/learn/paths/intro-developing-power-platform/) (Self-Paced) (2 Hours)
+* [Power Apps Build Tools for Azure DevOps](https://devblogs.microsoft.com/premier-developer/power-apps-build-tools-for-azure-devops/) (Self-Paced)
 * [Extend Dynamics 365 Portals](https://docs.microsoft.com/en-us/learn/paths/extend-dynamics-365-portals/) (Self-Paced) (3 Hours)
 * [Extending the Common Data Service](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Self-Paced) (2 Hours)
 * [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-model-driven-app/) (Self-Paced) (4 Hours)
