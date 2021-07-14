@@ -35,16 +35,18 @@ When deciding between Azure DevOps or GitHub, we encourage you to:
 * [Evolve Your DevOps Practice](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) (Self-Paced) (2 Hours)
 * [Introduction to Azure DevOps](https://www.youtube.com/watch?v=yecw2rUlywA) (Self-Paced) (1 Hour)
 
-## GitHub
+## GitHub Resources
 
 ### Fundamentals
 
-* GitHub is much more than a code repository. Watch the [keynote video](https://www.youtube.com/watch?v=2m9nUP-e8Co) from [GitHub Universe](https://githubuniverse.com/) to get a tour of GitHub's latest features and capabilities.
-* Learn how GitHub is helping enterprises increase velocity by focusing on the developer experience in this [25 minute video](https://www.youtube.com/watch?v=Cl2QDxG4gt4).
-* [Watch sessions on-demand](https://githubuniverse.com/on-demand/) from GitHub Universe (GitHub's annual developer conference) to dive deeper into developer workflows, [catching vulnerabilities](https://githubuniverse.com/Catching-vulnerabilities-early-with-GitHub/), [Codespaces](https://githubuniverse.com/GitHub-Codespaces-beyond-the-basics/), [GitHub Enterprise](https://githubuniverse.com/Accelerating-software-development-safely-with-GitHub-Enterprise/) and much more.
-* Explore the [GitHub Docs](https://docs.github.com/en) to learn more about specific capabilities.
+GitHub is much more than a code repository. [Watch sessions on-demand](https://githubuniverse.com/on-demand/) from GitHub Universe (GitHub's annual developer conference) to quickly learn more. Recommended sessions:
+- [Keynote video](https://www.youtube.com/watch?v=2m9nUP-e8Co) to get a tour of GitHub's latest features and capabilities.
+- [Using GitHub Enterprise to increase velocity](https://www.youtube.com/watch?v=Cl2QDxG4gt4) by focusing on the developer experience.
+- [Catching vulnerabilities](https://githubuniverse.com/Catching-vulnerabilities-early-with-GitHub/)
+- [Codespaces](https://githubuniverse.com/GitHub-Codespaces-beyond-the-basics/)
+- [GitHub Enterprise](https://githubuniverse.com/Accelerating-software-development-safely-with-GitHub-Enterprise/) and much more.
 
-### Deployment Options and Pricing
+### Deployment and Pricing
 
 GitHub provides the following deployment options:
 - GitHub Enterprise Cloud for security, compliance and cloud-based deployment 
@@ -65,8 +67,12 @@ The [GitHub Learning Lab](https://lab.github.com/) helps you grow your skills by
 
 * [AZ-400: Microsoft Azure DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400) (In-person Instructor Led) (2 Hours)
 
+### Other Resources
 
-## Azure DevOps
+* Explore the [GitHub Docs](https://docs.github.com/en) to learn more about specific capabilities.
+* Add: Integration with Azure Boards link
+
+## Azure DevOps Resources
 
 ## Associate
 
