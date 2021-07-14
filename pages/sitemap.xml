@@ -16,7 +16,7 @@ sitemap: false
     {% else %}
     <lastmod>{{ doc.lastmod | date_to_xmlschema }}</lastmod>
     {% endif %}
-    <title>{{ doc.title | escape }}</title>
+    <title>{{ doc.title | xml_escape }}</title>
   </url>
 	 {% endif %}
   {% endfor %}
