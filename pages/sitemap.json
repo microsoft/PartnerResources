@@ -1,0 +1,18 @@
+---
+layout: null
+sitemap: false
+---
+[
+  {% for doc in site.docs %}
+	{% if doc.sitemap != false %}
+{
+    "url":"{{ site.baseurl }}{{ doc.url }}",
+    "title":"{{ doc.title }}"
+},
+	{% endif %}
+  {% endfor %}
+{
+  "url":""
+  "title":""
+}
+]
