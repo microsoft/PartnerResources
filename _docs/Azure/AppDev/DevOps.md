@@ -43,19 +43,27 @@ When deciding between Azure DevOps or GitHub, we encourage you to:
 * Learn how GitHub is helping enterprises increase velocity by focusing on the developer experience in this [25 minute video](https://www.youtube.com/watch?v=Cl2QDxG4gt4).
 * [Watch sessions on-demand](https://githubuniverse.com/on-demand/) from GitHub Universe (GitHub's annual developer conference) to dive deeper into developer workflows, [catching vulnerabilities](https://githubuniverse.com/Catching-vulnerabilities-early-with-GitHub/), [Codespaces](https://githubuniverse.com/GitHub-Codespaces-beyond-the-basics/), [GitHub Enterprise](https://githubuniverse.com/Accelerating-software-development-safely-with-GitHub-Enterprise/) and much more.
 * Explore the [GitHub Docs](https://docs.github.com/en) to learn more about specific capabilities.
-* GitHub provides the following deployment options:
- - GitHub Enterprise Cloud for security, compliance and cloud-based deployment 
- - GitHub Enterprise Server for self-hosted security and compliance
- - [GitHub AE](https://docs.github.com/en/github-ae@latest/admin/overview/about-github-ae) for a fully managed, reliable, and scalable, allowing you to accelerate delivery without sacrificing risk management. Designed for customers who need to meet stringent security and compliance requirements.
-* Understand GitHub [pricing and features](https://github.com/pricing#compare-features)
+
+### Deployment Options and Pricing
+
+GitHub provides the following deployment options:
+- GitHub Enterprise Cloud for security, compliance and cloud-based deployment 
+- GitHub Enterprise Server for self-hosted security and compliance
+- [GitHub AE](https://docs.github.com/en/github-ae@latest/admin/overview/about-github-ae) for a fully managed, reliable, and scalable, allowing you to accelerate delivery without sacrificing risk management. Designed for customers who need to meet stringent security and compliance requirements.
+
+Learn more about GitHub's [products](https://docs.github.com/en/get-started/learning-about-github/githubs-products) and [pricing](https://github.com/pricing#compare-features)
 
 ### Hands-on Learning
 
-* The [GitHub Learning Lab](https://lab.github.com/) helps you grow your skills by completing fun, realistic projects right inside of GitHub. Recommended courses:
+The [GitHub Learning Lab](https://lab.github.com/) helps you grow your skills by completing fun, realistic projects right inside of GitHub. Recommended courses:
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 - [DevOps with GitHub Actions](https://lab.github.com/githubtraining/devops-with-github-actions)
 - [Continuous Delivery with Azure](https://lab.github.com/githubtraining/github-actions:-continuous-delivery-with-azure)
 - [Writing JavaScript Actions](https://lab.github.com/githubtraining/github-actions:-writing-javascript-actions)
+
+### Certifications
+
+* [AZ-400: Microsoft Azure DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400) (In-person Instructor Led) (2 Hours)
 
 
 ## Azure DevOps
