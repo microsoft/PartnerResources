@@ -11,6 +11,11 @@ sitemap: false
 	{% if doc.sitemap != false %}
   <url>
     <loc>{{ site.baseurl }}{{ doc.url }}</loc>
+    {% if doc.lastmod == null %}
+    <lastmod>{{ doc.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+    <lastmod>{{ doc.lastmod | date_to_xmlschema }}</lastmod>
+    {% endif %}
     <title>{{ doc.title | escape }}</title>
   </url>
 	 {% endif %}
