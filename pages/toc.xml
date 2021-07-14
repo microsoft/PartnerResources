@@ -5,7 +5,7 @@ sitemap: false
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset>
-  {% for doc in site.docs %}{% if doc.sitemap != false %}<url>
+  {% for doc in site.docs %}{% if doc.nav_exclude != true %}<url>
     <loc>{{ site.baseurl }}{{ doc.url | xml_escape }}</loc>
     <title>{{ doc.title | xml_escape }}</title>
   </url>{% endif %}
