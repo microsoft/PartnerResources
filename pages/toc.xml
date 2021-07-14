@@ -1,0 +1,20 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset>
+  {% for doc in site.docs %}
+	{% if doc.sitemap != false %}
+  <url>
+    <loc>{{ site.baseurl }}{{ doc.url }}</loc>
+    {% if doc.lastmod == null %}
+    <lastmod>{{ doc.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+    <lastmod>{{ doc.lastmod | date_to_xmlschema }}</lastmod>
+    {% endif %}
+  </url>
+	 {% endif %}
+  {% endfor %}
+</urlset>
