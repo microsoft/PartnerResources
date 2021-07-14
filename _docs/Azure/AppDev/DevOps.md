@@ -28,23 +28,16 @@ When deciding between Azure DevOps or GitHub, we encourage you to:
 - Leverage [Boards](), [Artifacts]() and [Test Plans]() in Azure DevOps in conjunction with GitHub as needed.
 - Review the [GitHub public roadmap]() to see/track upcoming features.
 
-## DevOps Fundamentals
-
-* [DevOps Self Assessment](https://devopsassessment.net/) (Self-Paced) (25 Minutes)
-* [DevOps solutions](https://azure.microsoft.com/en-us/solutions/devops/?2000709=&OCID=AID2000709_SEM_XelrrQAAAEzGmH6l:20200114005813:s&ef_id=XelrrQAAAEzGmH6l:20200114005813:s) (Self-Paced) (8 Minutes)
-* [Evolve Your DevOps Practice](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) (Self-Paced) (2 Hours)
-* [Introduction to Azure DevOps](https://www.youtube.com/watch?v=yecw2rUlywA) (Self-Paced) (1 Hour)
-
 ## GitHub Resources
 
 ### Fundamentals
 
 GitHub is much more than a code repository. [Watch sessions on-demand](https://githubuniverse.com/on-demand/) from GitHub Universe (GitHub's annual developer conference) to quickly learn more. Recommended sessions:
-- [Keynote video](https://www.youtube.com/watch?v=2m9nUP-e8Co) to get a tour of GitHub's latest features and capabilities.
-- [Using GitHub Enterprise to increase velocity](https://www.youtube.com/watch?v=Cl2QDxG4gt4) by focusing on the developer experience.
-- [Catching vulnerabilities](https://githubuniverse.com/Catching-vulnerabilities-early-with-GitHub/)
-- [Codespaces](https://githubuniverse.com/GitHub-Codespaces-beyond-the-basics/)
-- [GitHub Enterprise](https://githubuniverse.com/Accelerating-software-development-safely-with-GitHub-Enterprise/) and much more.
+- Get a tour of GitHub's latest features and capabilities in Nat Friedman's (CEO @ GitHub) [keynote video](https://www.youtube.com/watch?v=2m9nUP-e8Co).
+- Erica Brescia, COO @ GitHub, reviews the benefits of [using GitHub Enterprise to increase velocity](https://www.youtube.com/watch?v=Cl2QDxG4gt4) by focusing on the developer experience.
+- Maya Ross, Director of Product - Enterprise @ GitHub, walks through the features of [GitHub Enterprise](https://githubuniverse.com/Accelerating-software-development-safely-with-GitHub-Enterprise/) and much more.
+- [Catching vulnerabilities early with GitHub](https://githubuniverse.com/Catching-vulnerabilities-early-with-GitHub/) focuses on shifting security left to allow development teams to implement security controls and catch vulnerabilities in your upstream dependencies earlier.
+- Join Allison Weins, Product Manager @ GitHub, for a [deep-dive into GitHub Codespaces](https://githubuniverse.com/GitHub-Codespaces-beyond-the-basics/) — an online development environment service that allows you to develop entirely in the cloud. 
 
 ### Deployment and Pricing
 
@@ -53,7 +46,7 @@ GitHub provides the following deployment options:
 - GitHub Enterprise Server for self-hosted security and compliance
 - [GitHub AE](https://docs.github.com/en/github-ae@latest/admin/overview/about-github-ae) for a fully managed, reliable, and scalable, allowing you to accelerate delivery without sacrificing risk management. Designed for customers who need to meet stringent security and compliance requirements.
 
-Learn more about GitHub's [products](https://docs.github.com/en/get-started/learning-about-github/githubs-products) and [pricing](https://github.com/pricing#compare-features)
+Learn more about GitHub's [products](https://docs.github.com/en/get-started/learning-about-github/githubs-products) and [pricing](https://github.com/pricing#compare-features).
 
 ### Hands-on Learning
 
@@ -109,3 +102,10 @@ The [GitHub Learning Lab](https://lab.github.com/) helps you grow your skills by
 * [Build Applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/build-applications-with-azure-devops/) (Self-Paced) (7 Hours)
 * [Deploy Applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/) (Self-Paced) (9 Hours)
 * [Automate Your Deployments with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/automate-deployments-azure-devops/) (Self-Paced) (4 Hours)
+
+## DevOps Fundamentals
+
+* [DevOps Self Assessment](https://devopsassessment.net/) (Self-Paced) (25 Minutes)
+* [DevOps solutions](https://azure.microsoft.com/en-us/solutions/devops/?2000709=&OCID=AID2000709_SEM_XelrrQAAAEzGmH6l:20200114005813:s&ef_id=XelrrQAAAEzGmH6l:20200114005813:s) (Self-Paced) (8 Minutes)
+* [Evolve Your DevOps Practice](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) (Self-Paced) (2 Hours)
+* [Introduction to Azure DevOps](https://www.youtube.com/watch?v=yecw2rUlywA) (Self-Paced) (1 Hour)
