@@ -39,7 +39,7 @@ GitHub is much more than a code repository. [Watch sessions on-demand](https://g
 - [Catching vulnerabilities early with GitHub](https://githubuniverse.com/Catching-vulnerabilities-early-with-GitHub/) focuses on shifting security left to allow development teams to implement security controls and catch vulnerabilities in your upstream dependencies earlier.
 - Join Allison Weins, Product Manager @ GitHub, for a [deep-dive into GitHub Codespaces](https://githubuniverse.com/GitHub-Codespaces-beyond-the-basics/) — an online development environment service that allows you to develop entirely in the cloud. 
 
-## GitHub Deployment Options and Pricing
+## Deployment Options and Pricing
 
 GitHub provides the following deployment options:
 - GitHub Enterprise Cloud for security, compliance and cloud-based deployment 
@@ -48,7 +48,7 @@ GitHub provides the following deployment options:
 
 Learn more about GitHub's [products](https://docs.github.com/en/get-started/learning-about-github/githubs-products) and [pricing](https://github.com/pricing#compare-features).
 
-## GitHub Hands-on Learning
+## Hands-on Learning
 
 The [GitHub Learning Lab](https://lab.github.com/) helps you grow your skills by completing fun, realistic projects right inside of GitHub. Recommended courses:
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
