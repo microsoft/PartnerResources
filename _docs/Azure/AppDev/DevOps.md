@@ -85,9 +85,11 @@ More hands-on resources to consider:
 
 ## Certifications
 
-* [AZ 400: Microsoft Azure DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400) (In-person Instructor Led) (2 Hours)
-* [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) (Self-Paced) (4 Hours)
-* [Microsoft Certified: Azure DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-devops) (In-person Instructor Led) (2 Hours)
+Microsoft offers [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400) for certification in DevOps. Candidates for this exam should have subject matter expertise working with people, processes, and technologies to continuously deliver business value. Responsibilities for this role include designing and implementing strategies for collaboration, code, infrastructure, source control, security, compliance, continuous integration, testing, delivery, monitoring, and feedback. 
+
+The exam has recently been updated to include topics related to GitHub.
+
+To obtain the [DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/) certification (AZ-400), you *must* pass at least one of the following prerequiste exams: [Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/) or [Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/) certification.
 
 ## Community Resources
 
