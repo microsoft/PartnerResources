@@ -85,6 +85,7 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 ## Expert
 
 * [Migrate SQL Server to Azure SQL DB](https://docs.microsoft.com/en-us/azure/dms/tutorial-sql-server-to-azure-sql) (Tutorial)
+* [SQL Modernization and Migration What-the-Hack](https://github.com/microsoft/WhatTheHack/tree/master/043-SQLModernization)
 
 ## Certifications
 
