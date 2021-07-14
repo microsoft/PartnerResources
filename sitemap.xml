@@ -1,0 +1,23 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  {% for doc in site.docs %}
+	{% if doc.sitemap != false %}
+  <url>
+    <loc>{{ site.baseurl }}{{ doc.url }}</loc>
+    {% if doc.lastmod == null %}
+    <lastmod>{{ doc.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+    <lastmod>{{ doc.lastmod | date_to_xmlschema }}</lastmod>
+    {% endif %}
+    <title>{{ doc.title | xml_escape }}</title>
+  </url>
+	 {% endif %}
+  {% endfor %}
+  
+</urlset>
