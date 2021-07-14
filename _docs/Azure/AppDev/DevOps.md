@@ -64,24 +64,9 @@ More hands-on resources to consider:
 
 * Explore the [GitHub Docs](https://docs.github.com/en) to learn more about specific capabilities.
 * [GitHub Public Roadmap](https://github.com/github/roadmap/projects/1)
-* Add: Integration with Azure Boards link
-
-## Azure DevOps Resources
-
-* [Evolve Your DevOps Practices](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) (Self-Paced) (2 Hours)
-* [Build Applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/build-applications-with-azure-devops/) (Self-Paced) (7 Hours)
-* [Deploy Applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/) (Self-Paced) (9 Hours)
-* [Automate Your Deployments with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/automate-deployments-azure-devops/) (Self-Paced) (4 Hours)
-* [DevOps Training Workshop](https://www.youtube.com/watch?v=Ruj_govRRa8) (Self-Paced) (5 Hours)
-* [Create Your first Pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json&bc=%2Fazure%2Fdevops%2Fget-started%2Fbreadcrumb%2Ftoc.json&view=azure-devops&tabs=browser%2Ctfs-2018-2) (Online Instructor Led) (1 Hour)
-
-## DevOps Fundamentals
-
-* [DevOps Self Assessment](https://devopsassessment.net/) (Self-Paced) (25 Minutes)
-* [DevOps solutions](https://azure.microsoft.com/en-us/solutions/devops/?2000709=&OCID=AID2000709_SEM_XelrrQAAAEzGmH6l:20200114005813:s&ef_id=XelrrQAAAEzGmH6l:20200114005813:s) (Self-Paced) (8 Minutes)
-* [Evolve Your DevOps Practice](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) (Self-Paced) (2 Hours)
-* [Introduction to Azure DevOps](https://www.youtube.com/watch?v=yecw2rUlywA) (Self-Paced) (1 Hour)
-* [Learn Version Control](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-version-control) (Self-Paced) (1 Hour)
+* [DevOps on Channel9](https://channel9.msdn.com/Search?term=devops&sortBy=recent&lang-en=true) (Self-Paced) (20 Minutes)
+* [Azure DevOps Blog](https://devblogs.microsoft.com/devops/) - DevOps, Git, and Agile updates from the team building Azure DevOps and GitHub
+* [GitHub integration with Azure Boards](https://docs.microsoft.com/en-us/azure/devops/boards/github/?view=azure-devops) - Use this guide to connect Azure Boards with one or more GitHub repositories. This connection uses the Azure Boards app for GitHub to support the integration between Azure Boards and GitHub.
 
 ## Certifications
 
@@ -91,8 +76,19 @@ The exam has recently been updated to include topics related to GitHub.
 
 To obtain the [DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/) certification (AZ-400), you *must* pass at least one of the following prerequiste exams: [Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/) or [Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/) certification.
 
-## Community Resources
+## DevOps Fundamentals
 
-* [Azure DevOps Channel9](https://channel9.msdn.com/Search?term=DevOps&lang-en=true) (Self-Paced) (20 Minutes)
-* [Dev Blogs - Azure DevOps](https://devblogs.microsoft.com/devops/category/git/) (Self-Paced) (10 Minutes)
-* [Developer Community](https://developercommunity.visualstudio.com/spaces/8/index.html) (Self-Paced)
+* [DevOps Self Assessment](https://devopsassessment.net/) (Self-Paced) (25 Minutes)
+* [DevOps solutions](https://azure.microsoft.com/en-us/solutions/devops/?2000709=&OCID=AID2000709_SEM_XelrrQAAAEzGmH6l:20200114005813:s&ef_id=XelrrQAAAEzGmH6l:20200114005813:s) (Self-Paced) (8 Minutes)
+* [Evolve Your DevOps Practice](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) (Self-Paced) (2 Hours)
+* [Introduction to Azure DevOps](https://www.youtube.com/watch?v=yecw2rUlywA) (Self-Paced) (1 Hour)
+* [Learn Version Control](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-version-control) (Self-Paced) (1 Hour)
+
+## Azure DevOps Resources
+
+* [Evolve Your DevOps Practices](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) (Self-Paced) (2 Hours)
+* [Build Applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/build-applications-with-azure-devops/) (Self-Paced) (7 Hours)
+* [Deploy Applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/) (Self-Paced) (9 Hours)
+* [Automate Your Deployments with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/automate-deployments-azure-devops/) (Self-Paced) (4 Hours)
+* [DevOps Training Workshop](https://www.youtube.com/watch?v=Ruj_govRRa8) (Self-Paced) (5 Hours)
+* [Create Your first Pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json&bc=%2Fazure%2Fdevops%2Fget-started%2Fbreadcrumb%2Ftoc.json&view=azure-devops&tabs=browser%2Ctfs-2018-2) (Online Instructor Led) (1 Hour)
