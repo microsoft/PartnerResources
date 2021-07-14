@@ -13,7 +13,7 @@ tags:
 
 DevOps is the combination of development (Dev) and operations (Ops) - it's the union of people, process, and technology to continually provide value to customers. Learn more about DevOps fundamentals in the [DevOps Resource Center](https://docs.microsoft.com/en-us/devops/what-is-devops).
 
-## What is Microsoft's strategy with GitHub and Azure DevOps?
+## What is Microsoft's DevOps strategy?
 
 Azure DevOps has empowered 1000s of enterprises for 15+ years with rich features to support developer innovation, standardization and automation. 
 
@@ -21,16 +21,16 @@ GitHub is the planet's largest developer platform...home to 65 million+ develope
 
 Our strategy - over the coming years - is to bring the best of both products together into a single product experience - in GitHub - to provide the broadest set of software development capabilities that meet the needs of every developer and enterprise. Azure DevOps will continue to evolve with the industry, and we are committed to supporting and investing in Azure DevOps while we execute on our longer-term strategy. 
 
-When deciding between Azure DevOps or GitHub, we encourage you to:
+## Choosing between GitHub or Azure DevOps
+
+When deciding between Azure DevOps or GitHub, it may not be one or the other - but a combination of the two. We encourage you to:
 
 - First, explore GitHub and it's unique capabilities like [GitHub Actions](), [Advanced Security](), [Codespaces]().
 - Move/create your repo to GitHub to take advantage of [code & secret scanning](), [Dependabot]() for vulnerability alerts and remediation and [Codespaces]() - even if you plan to use Azure DevOps for the rest of the DevOps lifecycle (i.e., Boards, Pipelines).
 - Leverage [Boards](), [Artifacts]() and [Test Plans]() in Azure DevOps in conjunction with GitHub as needed.
 - Review the [GitHub public roadmap]() to see/track upcoming features.
 
-## GitHub Resources
-
-### Fundamentals
+## GitHub Fundamentals
 
 GitHub is much more than a code repository. [Watch sessions on-demand](https://githubuniverse.com/on-demand/) from GitHub Universe (GitHub's annual developer conference) to quickly learn more. Recommended sessions:
 - Get a tour of GitHub's latest features and capabilities in Nat Friedman's (CEO @ GitHub) [keynote video](https://www.youtube.com/watch?v=2m9nUP-e8Co).
@@ -39,7 +39,7 @@ GitHub is much more than a code repository. [Watch sessions on-demand](https://g
 - [Catching vulnerabilities early with GitHub](https://githubuniverse.com/Catching-vulnerabilities-early-with-GitHub/) focuses on shifting security left to allow development teams to implement security controls and catch vulnerabilities in your upstream dependencies earlier.
 - Join Allison Weins, Product Manager @ GitHub, for a [deep-dive into GitHub Codespaces](https://githubuniverse.com/GitHub-Codespaces-beyond-the-basics/) — an online development environment service that allows you to develop entirely in the cloud. 
 
-### Deployment and Pricing
+## GitHub Deployment Options and Pricing
 
 GitHub provides the following deployment options:
 - GitHub Enterprise Cloud for security, compliance and cloud-based deployment 
@@ -48,7 +48,7 @@ GitHub provides the following deployment options:
 
 Learn more about GitHub's [products](https://docs.github.com/en/get-started/learning-about-github/githubs-products) and [pricing](https://github.com/pricing#compare-features).
 
-### Hands-on Learning
+## GitHub Hands-on Learning
 
 The [GitHub Learning Lab](https://lab.github.com/) helps you grow your skills by completing fun, realistic projects right inside of GitHub. Recommended courses:
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
@@ -60,7 +60,7 @@ More hands-on resources to consider:
 - [GitHub What The Hack](https://aka.ms/githubwth) (Self-Paced) (16 Hours) - A challenge-based hack to learn GitHub.
 - [Microsoft Open Hack - DevOps](https://openhack.microsoft.com) (In-person Instructor Led) (16 Hours)
 
-### Other Resources
+## Other Resources
 
 * Explore the [GitHub Docs](https://docs.github.com/en) to learn more about specific capabilities.
 * [GitHub Public Roadmap](https://github.com/github/roadmap/projects/1)
