@@ -9,6 +9,25 @@ tags:
 
 # Learning Plan Resources for DevOps
 
+## What is DevOps?
+
+DevOps is the combination of Development (Dev) and operations (Ops) - it's the union of people, process, and technology to continually provide value to customers. Learn more about DevOps fundamentals in the [DevOps Resource Center](https://docs.microsoft.com/en-us/devops/what-is-devops).
+
+## What is Microsoft's strategy with GitHub and Azure DevOps?
+
+Azure DevOps has empowered 1000s of enterprises for 15+ years with rich features to support developer innovation, standardization and automation. 
+
+GitHub is the planet's largest developer platform...home to 65 million+ developers who build software collaboratively. GitHub brings an open source culture that improves communication, sharing of knowledge and improved code reuse.
+
+Our strategy - over the coming years - is to bring the best of both products together into a single product experience - in GitHub - to provide the broadest set of software development capabilities that meet the needs of every developer and enterprise. Azure DevOps will continue to evolve with the industry, and we are committed to supporting and investing in Azure DevOps while we execute on our longer-term strategy. 
+
+When deciding between Azure DevOps or GitHub, we encourage you to:
+
+- First, explore GitHub and it's unique capabilities like [GitHub Actions](), [Advanced Security](), [Codespaces]().
+- Move/create your repo to GitHub to take advantage of code & secret scanning, [Dependabot]() for vulnerability alerts and remediation and [Codespaces]() - even if you plan to use Azure DevOps for the rest of the DevOps lifecycle.
+- Leverage Boards, Artifacts and Test Plans in Azure DevOps in conjunction with GitHub as needed.
+- Review the [GitHub public roadmap]() to see/track upcoming features.
+
 ## Fundamentals
 
 * [DevOps Self Assessment](https://devopsassessment.net/) (Self-Paced) (25 Minutes)
