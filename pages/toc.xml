@@ -10,7 +10,7 @@ sitemap: false
   <path>{{ doc.path | xml_escape }}</path>
   <title>{{ doc.title | xml_escape }}</title>
   <solutionarea>{% assign tmp_sa = doc.path | split: "/" %}{{ tmp_sa[1] | xml_escape }}</solutionarea>
-  <tags>{{ doc.tags }}</tags>
+  <tags>{{ doc.tags | xml_escape }}</tags>
   </url>{% endif %}
   {% endfor %}
 </urlset>
