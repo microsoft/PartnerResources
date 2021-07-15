@@ -11,42 +11,56 @@ tags:
 
 ## What is DevOps?
 
-DevOps is the combination of development (Dev) and operations (Ops) - it's the union of people, process, and technology to continually provide value to customers. Learn more about DevOps fundamentals in the [DevOps Resource Center](https://docs.microsoft.com/en-us/devops/what-is-devops).
+DevOps is the combination of development (Dev) and operations (Ops) - it's the union of people, process, and technology to continually provide value to customers. Just as the [assembly line](https://en.wikipedia.org/wiki/Assembly_line) transformed automobile production in the 1900s, DevOps is the critical foundation needed to standardize, automate and accelerate software development. 
+
+Learn more DevOps fundamentals in the [DevOps Resource Center](https://docs.microsoft.com/en-us/devops/what-is-devops).
 
 ## What is Microsoft's DevOps strategy?
 
-Azure DevOps has empowered 1000s of enterprises for 15+ years with rich features to support developer innovation, standardization and automation. 
+[Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) has empowered 1000s of enterprises for 15+ years with rich features to support developer innovation, standardization and automation. 
 
-GitHub is the planet's largest developer platform...home to 65 million+ developers who build software collaboratively. GitHub brings an open source culture that improves communication, sharing of knowledge and improved code reuse.
+[GitHub](https://github.com/) is the planet's largest developer platform...home to 65+ million developers who build software collaboratively. GitHub brings an open source culture that improves communication, sharing of knowledge and code reuse.
 
-Our strategy - over the coming years - is to bring the best of both products together into a single product experience - in GitHub - to provide the broadest set of software development capabilities that meet the needs of every developer and enterprise. Azure DevOps will continue to evolve with the industry, and we are committed to supporting and investing in Azure DevOps while we execute on our longer-term strategy. 
+Our strategy over the coming years is to bring the best of both products together into a single product experience - in GitHub - to provide the broadest set of software development capabilities that meet the needs of every developer and enterprise. Azure DevOps will continue to evolve with the industry, and we are committed to supporting and investing in Azure DevOps while we execute on our longer-term strategy. 
 
-## Choosing between GitHub or Azure DevOps
+## GitHub or Azure DevOps?
 
-When deciding between Azure DevOps or GitHub, it may not be one or the other - but a combination of the two. We encourage you to:
+When evaluating GitHub or Azure DevOps, we encourage you to:
 
-- First, explore GitHub and it's unique capabilities like [GitHub Actions](), [Advanced Security](), [Codespaces]().
-- Move/create your repo to GitHub to take advantage of [code & secret scanning](), [Dependabot]() for vulnerability alerts and remediation and [Codespaces]() - even if you plan to use Azure DevOps for the rest of the DevOps lifecycle (i.e., Boards, Pipelines).
-- Leverage [Boards](), [Artifacts]() and [Test Plans]() in Azure DevOps in conjunction with GitHub as needed.
-- Review the [GitHub public roadmap]() to see/track upcoming features.
-
-## GitHub Fundamentals
-
-GitHub is much more than a code repository. [Watch sessions on-demand](https://githubuniverse.com/on-demand/) from GitHub Universe (GitHub's annual developer conference) to quickly learn more. Recommended sessions:
-- Get a tour of GitHub's latest features and capabilities in Nat Friedman's (CEO @ GitHub) [keynote video](https://www.youtube.com/watch?v=2m9nUP-e8Co).
-- Erica Brescia, COO @ GitHub, reviews the benefits of [using GitHub Enterprise to increase velocity](https://www.youtube.com/watch?v=Cl2QDxG4gt4) by focusing on the developer experience.
-- Maya Ross, Director of Product - Enterprise @ GitHub, walks through the features of [GitHub Enterprise](https://githubuniverse.com/Accelerating-software-development-safely-with-GitHub-Enterprise/) and much more.
-- [Catching vulnerabilities early with GitHub](https://githubuniverse.com/Catching-vulnerabilities-early-with-GitHub/) focuses on shifting security left to allow development teams to implement security controls and catch vulnerabilities in your upstream dependencies earlier.
-- Join Allison Weins, Product Manager @ GitHub, for a [deep-dive into GitHub Codespaces](https://githubuniverse.com/GitHub-Codespaces-beyond-the-basics/) — an online development environment service that allows you to develop entirely in the cloud. 
+- Explore GitHub and it's unique capabilities like [GitHub Actions](https://docs.github.com/en/actions), [Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security), [Codespaces](https://docs.github.com/en/codespaces).
+- Move/create your repo in GitHub - even if you plan to use Azure [Boards](https://azure.microsoft.com/en-us/services/devops/boards/) or [Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) - to take advantage of [code & secret scanning](https://docs.github.com/en/code-security), [vulnerability alerts](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-alerts-for-vulnerable-dependencies), [Codespaces](https://docs.github.com/en/codespaces) and [innersourcing](https://resources.github.com/whitepapers/introduction-to-innersource/).
+- [Integrate Azure Boards with GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/?view=azure-devops) and leverage Azure [Artifacts](https://azure.microsoft.com/en-us/services/devops/artifacts/) and [Test Plans](https://azure.microsoft.com/en-us/services/devops/test-plans/) in conjunction with GitHub as needed.
+- Review GitHub's [public roadmap](https://github.com/github/roadmap/projects/1) to see/track upcoming features.
+- Consider [creating GitHub Actions](https://docs.github.com/en/actions/creating-actions) to provide integrations with your own software.
 
 ## Deployment Options and Pricing
 
 GitHub provides the following deployment options:
-- GitHub Enterprise Cloud for security, compliance and cloud-based deployment 
-- GitHub Enterprise Server for self-hosted security and compliance
-- [GitHub AE](https://docs.github.com/en/github-ae@latest/admin/overview/about-github-ae) for a fully managed, reliable, and scalable, allowing you to accelerate delivery without sacrificing risk management. Designed for customers who need to meet stringent security and compliance requirements.
+- [GitHub Enterprise Cloud](https://github.com/enterprise) - cloud-based deployment with security and compliance features
+- [GitHub Enterprise Server](https://docs.github.com/en/enterprise-server@3.0/admin/overview/system-overview#security) - self-hosted deployment with security and compliance features
+- [GitHub AE](https://docs.github.com/en/github-ae@latest/admin/overview/about-github-ae) - a fully managed service, hosted in a highly available architecture for customers who have stringent security and compliance requirements.
 
 Learn more about GitHub's [products](https://docs.github.com/en/get-started/learning-about-github/githubs-products) and [pricing](https://github.com/pricing#compare-features).
+
+## GitHub Fundamentals
+
+GitHub is much more than a code repository. Here are some recommended videos from [GitHub Universe](https://githubuniverse.com/) (GitHub's annual developer conference) to bring you up to speed on GitHub's latest capabilities:
+- [GitHub's latest features and capabilities](https://www.youtube.com/watch?v=2m9nUP-e8Co) - Nat Friedman, CEO @ GitHub
+- [GitHub in the enterprise](https://www.youtube.com/watch?v=Cl2QDxG4gt4) - Erica Brescia, COO @ GitHub
+- [GitHub Enterprise overview](https://githubuniverse.com/Accelerating-software-development-safely-with-GitHub-Enterprise/) - Maya Ross, Director of Product - Enterprise @ GitHub
+- [Continuous delivery with GitHub Actions](https://www.youtube.com/watch?v=36hY0-O4STg) - Chris Patterson, Product Manager @ GitHub
+- [Catching vulnerabilities early with GitHub](https://githubuniverse.com/Catching-vulnerabilities-early-with-GitHub/) - Maya Kaczorowski and William Bartholomew, Product Managers @ GitHub
+- [Deep-dive into GitHub Codespaces](https://githubuniverse.com/GitHub-Codespaces-beyond-the-basics/) Allison Weins, Product Manager @ GitHub
+- [The new GitHub Issues](https://www.youtube.com/watch?v=64xO030aneI) - project tables that are built like spreadsheets, custom fields, a keyboard driven command palette, improved task lists, and issue forms. Learn more and sign up for the beta [here](http://github.com/features/issues).
+
+More videos and learning resources:
+
+- [On-demand](https://githubuniverse.com/on-demand/) sessions from GitHub Universe
+- Videos on the [GitHub YouTube channel](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
+- Videos from the Microsoft Developer channel on using [GitHub and Azure](https://www.youtube.com/playlist?list=PLlrxD0HtieHgRwJlEXOFSKPPKKvdYZS5w)
+- DevOps videos on [Channel9](https://channel9.msdn.com/Search?term=devops&sortBy=recent&lang-en=true)
+- DevOps, Git, and Agile updates from the team building Azure DevOps and GitHub on the [Azure DevOps Blog](https://devblogs.microsoft.com/devops/)
+- [GitHub Docs](https://docs.github.com/en) to learn more about specific capabilities
 
 ## Hands-on Learning
 
@@ -56,36 +70,25 @@ The [GitHub Learning Lab](https://lab.github.com/) helps you grow your skills by
 - [Continuous Delivery with Azure](https://lab.github.com/githubtraining/github-actions:-continuous-delivery-with-azure)
 - [Writing JavaScript Actions](https://lab.github.com/githubtraining/github-actions:-writing-javascript-actions)
 
-More hands-on resources to consider:
-- [GitHub What The Hack](https://aka.ms/githubwth) (Self-Paced) (16 Hours) - A challenge-based hack to learn GitHub.
-- [Microsoft Open Hack - DevOps](https://openhack.microsoft.com) (In-person Instructor Led) (16 Hours)
-
-## Other Resources
-
-* Explore the [GitHub Docs](https://docs.github.com/en) to learn more about specific capabilities.
-* [GitHub Public Roadmap](https://github.com/github/roadmap/projects/1)
-* [DevOps on Channel9](https://channel9.msdn.com/Search?term=devops&sortBy=recent&lang-en=true) (Self-Paced) (20 Minutes)
-* [Azure DevOps Blog](https://devblogs.microsoft.com/devops/) - DevOps, Git, and Agile updates from the team building Azure DevOps and GitHub
-* [GitHub integration with Azure Boards](https://docs.microsoft.com/en-us/azure/devops/boards/github/?view=azure-devops) - Use this guide to connect Azure Boards with one or more GitHub repositories. This connection uses the Azure Boards app for GitHub to support the integration between Azure Boards and GitHub.
+More hands-on resources:
+- [GitHub What The Hack](https://aka.ms/githubwth) (Self-Paced, 16 Hours) - a light-weight challenge-based hack to learn GitHub by taking a sample application and building an end to end DevOps workflow.
+- [Microsoft OpenHack - DevOps](https://openhack.microsoft.com) (Instructor Led, 16 Hours) - tackle a series of real-world challenges through hands-on experimentation. Participants work together in teams to complete challenges that increase in complexity.
 
 ## Certifications
 
-Microsoft offers [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400) for certification in DevOps. Candidates for this exam should have subject matter expertise working with people, processes, and technologies to continuously deliver business value. Responsibilities for this role include designing and implementing strategies for collaboration, code, infrastructure, source control, security, compliance, continuous integration, testing, delivery, monitoring, and feedback. 
+Microsoft offers [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400) for certification in DevOps. Responsibilities for this role include designing and implementing strategies for collaboration, code, infrastructure, source control, security, compliance, continuous integration, testing, delivery, monitoring, and feedback. 
 
 The exam has recently been updated to include topics related to GitHub.
 
-To obtain the [DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/) certification (AZ-400), you *must* pass at least one of the following prerequiste exams: [Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/) or [Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/) certification.
+To obtain the [DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/) certification (AZ-400), you *must* pass at least one of the following prerequiste exams: [Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/) or [Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/).
 
-## DevOps Fundamentals
+## Additional Resources
 
 * [DevOps Self Assessment](https://devopsassessment.net/) (Self-Paced) (25 Minutes)
-* [DevOps solutions](https://azure.microsoft.com/en-us/solutions/devops/?2000709=&OCID=AID2000709_SEM_XelrrQAAAEzGmH6l:20200114005813:s&ef_id=XelrrQAAAEzGmH6l:20200114005813:s) (Self-Paced) (8 Minutes)
+* [DevOps solutions on Azure](https://azure.microsoft.com/en-us/solutions/devops/?2000709=&OCID=AID2000709_SEM_XelrrQAAAEzGmH6l:20200114005813:s&ef_id=XelrrQAAAEzGmH6l:20200114005813:s) (Self-Paced) (8 Minutes)
 * [Evolve Your DevOps Practice](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) (Self-Paced) (2 Hours)
 * [Introduction to Azure DevOps](https://www.youtube.com/watch?v=yecw2rUlywA) (Self-Paced) (1 Hour)
 * [Learn Version Control](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-version-control) (Self-Paced) (1 Hour)
-
-## Azure DevOps Resources
-
 * [Evolve Your DevOps Practices](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) (Self-Paced) (2 Hours)
 * [Build Applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/build-applications-with-azure-devops/) (Self-Paced) (7 Hours)
 * [Deploy Applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/) (Self-Paced) (9 Hours)
