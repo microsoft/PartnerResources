@@ -8,8 +8,11 @@ permalink: /jsonlist/
 {% assign all_tags = site_tags | append:docs_tags %}{% assign tags_list = all_tags | split:',' | uniq | sort %}
 
 
-
-{% for tag in tags_list %}{% if tag %}
-"tag":"{{ tag }}",
-{% endif %}{%- endfor -%}
-}
+[
+{% for doc in site.docs %}
+{
+"title": "{{ doc.title }}",
+"url": "{{- site.baseurl -}}{{- doc.url -}}"
+},
+{%- endfor -%}
+]
