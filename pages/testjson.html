@@ -15,9 +15,10 @@ permalink: /jsonlist/
 "siteurl": "{{- site.url -}}",
 "baseurl": "{{- site.baseurl -}}",
 "docurl":"{{- doc.url -}}",
+"docdate":"{{- doc.date | date_to_xmlschema -}}",
 "tags":
     [
-    {% for tag in tags_list %}{% if tag %}
+    {% for tag in doc.tags %}{% if tag %}
     {"tag":"{{ tag }}"},
     {% endif %}{%- endfor -%}
     ]
