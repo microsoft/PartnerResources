@@ -11,7 +11,7 @@ tags:
 
 ## What is DevOps?
 
-DevOps is the combination of development (Dev) and operations (Ops) - it's the union of people, process, and technology to continually provide value to customers. Just as the [assembly line](https://en.wikipedia.org/wiki/Assembly_line) transformed automobile production in the 1900s, DevOps is the critical foundation needed to standardize, automate and accelerate software development. 
+DevOps is the combination of development (dev) and operations (ops) - it's the union of people, process, and technology to continually provide value to customers. Just as the [assembly line](https://en.wikipedia.org/wiki/Assembly_line) transformed automobile production in the 1900s, DevOps is the critical foundation needed to standardize, automate and accelerate software development. 
 
 Learn more DevOps fundamentals in the [DevOps Resource Center](https://docs.microsoft.com/en-us/devops/what-is-devops).
 
@@ -27,13 +27,13 @@ Our strategy over the coming years is to bring the best of both products togethe
 
 When evaluating GitHub or Azure DevOps, we encourage you to:
 
-- Explore GitHub and it's unique capabilities like [GitHub Actions](https://docs.github.com/en/actions), [Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security), [Codespaces](https://docs.github.com/en/codespaces).
+- Explore GitHub and its unique capabilities like [GitHub Actions](https://docs.github.com/en/actions), [Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security), [Codespaces](https://docs.github.com/en/codespaces).
 - Move/create your repo in GitHub - even if you plan to use Azure [Boards](https://azure.microsoft.com/en-us/services/devops/boards/) or [Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) - to take advantage of [code & secret scanning](https://docs.github.com/en/code-security), [vulnerability alerts](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-alerts-for-vulnerable-dependencies), [Codespaces](https://docs.github.com/en/codespaces) and [innersourcing](https://resources.github.com/whitepapers/introduction-to-innersource/).
 - [Integrate Azure Boards with GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/?view=azure-devops) and leverage Azure [Artifacts](https://azure.microsoft.com/en-us/services/devops/artifacts/) and [Test Plans](https://azure.microsoft.com/en-us/services/devops/test-plans/) in conjunction with GitHub as needed.
-- Review GitHub's [public roadmap](https://github.com/github/roadmap/projects/1) to see/track upcoming features.
 - Consider [creating GitHub Actions](https://docs.github.com/en/actions/creating-actions) to provide integrations with your own software.
+- Review GitHub's [public roadmap](https://github.com/github/roadmap/projects/1) to see/track upcoming features.
 
-## Deployment Options and Pricing
+## Deployment Options
 
 GitHub provides the following deployment options:
 - [GitHub Enterprise Cloud](https://github.com/enterprise) - cloud-based deployment with security and compliance features
@@ -44,14 +44,14 @@ Learn more about GitHub's [products](https://docs.github.com/en/get-started/lear
 
 ## GitHub Fundamentals
 
-GitHub is much more than a code repository. Here are some recommended videos from [GitHub Universe](https://githubuniverse.com/) (GitHub's annual developer conference) to bring you up to speed on GitHub's latest capabilities:
+GitHub is much more than a code repository. Here are some recommended videos from [GitHub Universe](https://githubuniverse.com/) (GitHub's annual conference) to bring you up to speed on GitHub's latest capabilities:
 - [GitHub's latest features and capabilities](https://www.youtube.com/watch?v=2m9nUP-e8Co) - Nat Friedman, CEO @ GitHub
 - [GitHub in the enterprise](https://www.youtube.com/watch?v=Cl2QDxG4gt4) - Erica Brescia, COO @ GitHub
 - [GitHub Enterprise overview](https://githubuniverse.com/Accelerating-software-development-safely-with-GitHub-Enterprise/) - Maya Ross, Director of Product - Enterprise @ GitHub
 - [Continuous delivery with GitHub Actions](https://www.youtube.com/watch?v=36hY0-O4STg) - Chris Patterson, Product Manager @ GitHub
 - [Catching vulnerabilities early with GitHub](https://githubuniverse.com/Catching-vulnerabilities-early-with-GitHub/) - Maya Kaczorowski and William Bartholomew, Product Managers @ GitHub
 - [Deep-dive into GitHub Codespaces](https://githubuniverse.com/GitHub-Codespaces-beyond-the-basics/) Allison Weins, Product Manager @ GitHub
-- [The new GitHub Issues](https://www.youtube.com/watch?v=64xO030aneI) - project tables that are built like spreadsheets, custom fields, a keyboard driven command palette, improved task lists, and issue forms. Learn more and sign up for the beta [here](http://github.com/features/issues).
+- [The new GitHub Issues preview](https://www.youtube.com/watch?v=64xO030aneI) - project tables that are built like spreadsheets, custom fields, a keyboard driven command palette, improved task lists, and issue forms. Learn more and sign up for the beta [here](http://github.com/features/issues).
 
 More videos and learning resources:
 
@@ -59,7 +59,7 @@ More videos and learning resources:
 - Videos on the [GitHub YouTube channel](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
 - Videos from the Microsoft Developer channel on using [GitHub and Azure](https://www.youtube.com/playlist?list=PLlrxD0HtieHgRwJlEXOFSKPPKKvdYZS5w)
 - DevOps videos on [Channel9](https://channel9.msdn.com/Search?term=devops&sortBy=recent&lang-en=true)
-- DevOps, Git, and Agile updates from the team building Azure DevOps and GitHub on the [Azure DevOps Blog](https://devblogs.microsoft.com/devops/)
+- DevOps, Git, and Agile updates on the [Azure DevOps Blog](https://devblogs.microsoft.com/devops/)
 - [GitHub Docs](https://docs.github.com/en) to learn more about specific capabilities
 
 ## Hands-on Learning
