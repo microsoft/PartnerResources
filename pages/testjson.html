@@ -7,12 +7,9 @@ permalink: /jsonlist/
 {% capture site_tags %}{% for tag in site.tags %}{% if tag %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}{% endcapture %}{% assign docs_tags = "" %}{% for doc in site.docs %}{% assign ttags = doc.tags | join:',' | append:',' %}{% assign docs_tags = docs_tags | append:ttags %}{% endfor %}
 {% assign all_tags = site_tags | append:docs_tags %}{% assign tags_list = all_tags | split:',' | uniq | sort %}
 
-[
-{% for doc in site.docs %}{% if doc.tags contains tag %}
-{
-"title": "{{ doc.title }}",
-"url": "{{- site.baseurl -}}{{- doc.url -}}"
-},
-{%- endfor -%}
-]
 
+
+{% for tag in tags_list %}{% if tag %}
+"tag":"{{ tag }}",
+{% endif %}{%- endfor -%}
+}
