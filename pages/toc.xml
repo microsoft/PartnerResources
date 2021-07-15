@@ -6,11 +6,13 @@ sitemap: false
 
 <urlset>
   {% assign tmp_docs = site.docs | sort: "url" %}{% for doc in tmp_docs %}{% if doc.nav_exclude != true %}<url>
-    <loc>{{ site.url }}{{ doc.url | xml_escape }}</loc>
-    <path>{{ doc.url | xml_escape }}</path>
-    <title>{{ doc.title | xml_escape }}</title>
-    <tags>{{ doc.tags | xml_escape }}</tags>
-  <object>{{ doc | inspect }}</object>
+  <id>{{ doc.id | xml_escape }}</id>
+  <permalink>{{ site.url }}{{ doc.permalink | xml_escape }}</permalink>
+  <loc>{{ site.url }}{{ doc.url | xml_escape }}</loc>
+  <path>{{ doc.path | xml_escape }}</path>
+  <title>{{ doc.title | xml_escape }}</title>
+  <categories>{{ doc.categories | xml_escape }}</categories>
+  <tags>{{ doc.tags | xml_escape }}</tags>
   </url>{% endif %}
   {% endfor %}
 </urlset>
