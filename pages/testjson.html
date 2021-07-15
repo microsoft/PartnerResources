@@ -12,7 +12,9 @@ permalink: /jsonlist/
 {% for doc in site.docs %}
 {
 "title": "{{ doc.title }}",
-"url": "{{- site.baseurl -}}{{- doc.url -}}"
+"baseurl": "{{- site.baseurl -}}",
+"siteurl": "{{- site.url -}}",
+"docurl":"{{- doc.url -}}"
 },
 {%- endfor -%}
 ]
