@@ -10,6 +10,7 @@ sitemap: false
     <path>{{ doc.url | xml_escape }}</path>
     <title>{{ doc.title | xml_escape }}</title>
     <tags>{{ doc.tags | xml_escape }}</tags>
+  <object>{{ doc | inspect }}</object>
   </url>{% endif %}
   {% endfor %}
 </urlset>
