@@ -9,8 +9,8 @@ sitemap: false
   <loc>{{ doc.permalink | absolute_url | xml_escape }}</loc>
   <path>{{ doc.path | xml_escape }}</path>
   <title>{{ doc.title | xml_escape }}</title>
-  <solution area>{% assign tmp_sa = doc.path | split: "/" %}{{ tmp_sa[1] | xml_escape }}</solution area>
-  <tags>{{ doc.tags | xml_escape }}</tags>
+  <solutionarea>{% assign tmp_sa = doc.path | split: "/" %}{{ tmp_sa[1] | xml_escape }}</solutionarea>
+  <tags>{{ doc.tags }}</tags>
   </url>{% endif %}
   {% endfor %}
 </urlset>
