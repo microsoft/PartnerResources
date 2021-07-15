@@ -1,0 +1,15 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset>
+  {% assign tmp_docs = site.docs | sort: "url" %}{% for doc in tmp_docs %}{% if doc.nav_exclude != true %}<url>
+    <loc>{{ site.url }}{{ doc.url | xml_escape }}</loc>
+    <path>{{ doc.url | xml_escape }}</path>
+    <title>{{ doc.title | xml_escape }}</title>
+    <tags>{{ doc.tags | xml_escape }}</tags>
+  </url>{% endif %}
+  {% endfor %}
+</urlset>
