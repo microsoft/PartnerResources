@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Study Guide for Exam AZ-220: Microsoft Azure IoT Developer
+title: Study Guide for Exam AZ-220 Microsoft Azure IoT Developer
 permalink: /azure/iot/StudyGuide-AZ-220-MicrosoftAzureIoTDeveloper
 tags: 
  - azure
