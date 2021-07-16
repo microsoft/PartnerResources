@@ -1,19 +1,62 @@
-color_scheme: custom
-nav_sort: case_sensitive
-remote_theme: pmarsceill/just-the-docs
+remote_theme: bhitney/docsy-jekyll
+
+title: " | Partner Resources"
+author: Microsoft
+baseurl: "/PartnerResources"
 
 back_to_top: true
 back_to_top_text: "Back to top"
 
 footer_content: "Copyright &copy; 2021 Microsoft"
 
+# Social (First three Required)
+repo: "https://github.com/microsoft/PartnerResources"
+github_user: "microsoft"
+github_repo: "PartnerResources"
+github_branch: "main"
+twitter: microsoft
+linkedin: microsoft
+
+logo_pixels: 34
+color: "#FFFFFF"
+
+# google-analytics: UA-XXXXXXXXXX
+# Image and (square) dimension for logo (don't start with /)
+# If commented, will use material hat theme
+# logo: "assets/img/logo/SRCC-square-red.png"
+
+# If you add tags to pages, define this variable to link them to some external search
+# If you want to link to tags locally on the site, leave this commented out
+# tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
+# tag_color: primary # danger, success, warning, primary, info, secondary
+
+accentColor: blue
+themeColor: blue
+fixedNav: 'true' # true or false
+
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
 
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
+permalink: /:year/:title/
+markdown: kramdown
+exclude: [_site, CHANGELOG.md, LICENSE, README.md]
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path
+
+# Defaults
+defaults:
+  - scope:
+      path: "_docs"
+      type: "docs"
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
