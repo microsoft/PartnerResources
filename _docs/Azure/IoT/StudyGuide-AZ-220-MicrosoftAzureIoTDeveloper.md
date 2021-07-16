@@ -1,3 +1,12 @@
+---
+layout: page
+title: Study Guide for Exam AZ-220: Microsoft Azure IoT Developer
+permalink: /azure/iot/StudyGuide-AZ-220-MicrosoftAzureIoTDeveloper
+tags: 
+ - azure
+ - iot
+---
+
 # AZ-220: Microsoft Azure IoT Developer
 
 The Microsoft Global Partner Solutions (GPS) Technical Team, IoT Product Group, IoT Advocates, and Microsoft Worldwide Learning have collaborated to create this guide to help you prepare for the Microsoft Azure IoT Developer exam!
