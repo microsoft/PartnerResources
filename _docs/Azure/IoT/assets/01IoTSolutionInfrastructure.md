@@ -1,3 +1,12 @@
+---
+layout: page
+title: 01 IoT Solution Infrastructure
+permalink: /azure/iot/assets/01IoTSolutionInfrastructure
+tags: 
+ - azure
+ - iot
+---
+
 # Implement the IoT solution infrastructure (10 - 15%)
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)
