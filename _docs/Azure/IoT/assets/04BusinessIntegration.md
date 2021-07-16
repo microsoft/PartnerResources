@@ -1,3 +1,12 @@
+---
+layout: page
+title: 04 Implement Business Integration
+permalink: /azure/iot/assets/04ImplementBusinessIntegration
+tags: 
+ - azure
+ - iot
+---
+
 # AZ-220 Implement Business Integration (5-10%)
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)

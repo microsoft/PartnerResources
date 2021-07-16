@@ -1,3 +1,12 @@
+---
+layout: page
+title: 03 Implement Edge
+permalink: /azure/iot/assets/03ImplementEdge
+tags: 
+ - azure
+ - iot
+---
+
 # AZ-220 Implement Edge (15-20%)
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)

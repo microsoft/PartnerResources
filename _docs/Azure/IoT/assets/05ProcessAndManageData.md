@@ -1,3 +1,12 @@
+---
+layout: page
+title: 05 Process and Manage Data
+permalink: /azure/iot/assets/05ProcessAndManageData
+tags: 
+ - azure
+ - iot
+---
+
 # AZ-220 Process and Manage Data (15-20%)
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)

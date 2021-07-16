@@ -1,3 +1,12 @@
+---
+layout: page
+title: 07 Implement Security
+permalink: /azure/iot/assets/07ImplementSecurity
+tags: 
+ - azure
+ - iot
+---
+
 # AZ-220 Implement Security (10-15%)
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)

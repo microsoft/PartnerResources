@@ -1,3 +1,12 @@
+---
+layout: page
+title: 06 Monitor, Troubleshoot, and Optimize IoT Solutions
+permalink: /azure/iot/assets/06MonitorTroubleshootOptimize
+tags: 
+ - azure
+ - iot
+---
+
 # AZ-220 Monitor, troubleshoot, and optimize IoT solutions (15-20%)
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)

@@ -1,3 +1,12 @@
+---
+layout: page
+title: 02 Provision and Manage Devices
+permalink: /azure/iot/assets/02ProvisionAndManageDevices
+tags: 
+ - azure
+ - iot
+---
+
 # AZ-220 Provision and manage devices (15-20%)
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)
