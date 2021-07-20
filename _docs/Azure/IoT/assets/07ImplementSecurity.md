@@ -34,16 +34,16 @@ tags:
 ## Homework:
 ### [AZ-220 IoT Labs](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer) 
 * Module 10: Azure Security Center and IoT Security
-  * [Lab 19: Detect if your IoT Device was Tampered with Azure Security Center for IoT](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/Instructions/Labs/LAB_AK_19-azure-security-center-for-iot.html)
+  * [Lab 19: Detect if your IoT Device was Tampered with Azure Defender for IoT](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/Instructions/Labs/LAB_AK_18-azure-defender-for-iot.html)
   <br />Exercise 1: Verify Lab Prerequisites
-  <br />Exercise 2: Enable Azure Security Center for IoT Hub
+  <br />Exercise 2: Enable Azure Defender for IoT Hub
   <br />Exercise 3: Create and Register a New Device
   <br />Exercise 4: Create a Security Module Twin
-  <br />Exercise 5: Deploy Azure Security Center for IoT C# Security Agent
+  <br />Exercise 5: Deploy Azure Defender for IoT C# Security Agent
   <br />Exercise 6: Configure Solution Management
   <br />Exercise 7: Introduce custom alerts
   <br />Exercise 8: Configure the Device App
-  <br />Exercise 9: Review Security Center Alerts
+  <br />Exercise 9: Review Azure Defender for IoT Alerts
   
 ## Quick Reference: Key Concepts and Terminology
 * Three widely used authentication types are X.509 certificates, Trusted Platform Modules (TPM), and symmetric keys.
