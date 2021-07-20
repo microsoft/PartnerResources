@@ -4,7 +4,7 @@ nav_exclude: true
 
 # All Learning Plan Resources
 
-Welcome to the Microsoft US One Commercial Partner (OCP) Learning Plan Resources repository
+Welcome to the Microsoft Global Partner Solutions (GPS) Learning Plan Resources repository, created by the US-based GPS team
 
 ## What are Learning Plan Resources?
 

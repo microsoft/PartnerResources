@@ -9,7 +9,7 @@ tags:
 
 # Success By Design ISV Connect
 
-Welcome to the Microsoft US One Commercial Partner (OCP) Learning Plan Resources repository for the ISV Connect program. 
+Welcome to the Microsoft Global Partner Solutions (GPS) Learning Plan Resources repository for the ISV Connect program. 
 
 The Business Applications ISV Connect Program aims to accelerate the growth and overall success of Independent Software Vendors (ISVs) building modern, cloud-based, line-of-business (LOB) solutions with Dynamics 365 Customer Engagement and PowerApps (Dynamics CE applications) or Dynamics 365 Finance and Operations (Dynamics Ops applications).
 
