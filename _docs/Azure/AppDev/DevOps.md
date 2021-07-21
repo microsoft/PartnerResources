@@ -52,3 +52,4 @@ tags:
 * [Build Applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/build-applications-with-azure-devops/) (Self-Paced) (7 Hours)
 * [Deploy Applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/) (Self-Paced) (9 Hours)
 * [Automate Your Deployments with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/automate-deployments-azure-devops/) (Self-Paced) (4 Hours)
+* Azure DevOps Extension Development [Documentation](https://docs.microsoft.com/en-us/azure/devops/extend/overview?view=azure-devops), [Official Repo](https://github.com/microsoft/azure-pipelines-extensions), and [Additional Information](https://github.com/wdfox/AzureDevOpsExtensionDev) (Self-Paced)
