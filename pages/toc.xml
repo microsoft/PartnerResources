@@ -1,0 +1,16 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset>
+  {% assign tmp_docs = site.docs | sort: "url" %}{% for doc in tmp_docs %}{% if doc.nav_exclude != true %}<url>
+  <loc>{{ doc.permalink | absolute_url | xml_escape }}</loc>
+  <path>{{ doc.path | xml_escape }}</path>
+  <title>{{ doc.title | xml_escape }}</title>
+  <solutionarea>{% assign tmp_sa = doc.path | split: "/" %}{{ tmp_sa[1] | xml_escape }}</solutionarea>
+  <tags>{{ doc.tags | xml_escape }}</tags>
+  </url>{% endif %}
+  {% endfor %}
+</urlset>
