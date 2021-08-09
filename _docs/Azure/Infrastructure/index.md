@@ -45,4 +45,4 @@ tags:
 
 #### {% raw %}[Windows Server Migration](windows-server-migration){% endraw %}
 
-#### {% raw %}[Windows Virtual Desktop](windows-virtual-desktop){% endraw %}
+#### {% raw %}[Azure Virtual Desktop](windows-virtual-desktop){% endraw %}
