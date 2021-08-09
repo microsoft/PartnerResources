@@ -13,6 +13,8 @@ tags:
 
 #### {% raw %}[Azure Networking Resources](azure-networking-resources){% endraw %}
 
+#### {% raw %}[Azure Virtual Desktop](windows-virtual-desktop){% endraw %}
+
 #### {% raw %}[Azure VMware Solution](azure-vmware-solution){% endraw %}
 
 #### {% raw %}[Azure Well-Architected Framework](azure-well-architected-framework){% endraw %}
