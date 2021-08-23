@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Table of Contents
+title: Hands-on Labs
 permalink: /azure/infrastructure/azure-vmware-solution/avs-labs
 tags: 
  - azure
@@ -8,7 +8,7 @@ tags:
  - AVS
 ---
 
-# Table of Contents
+# Hands-on Labs
 
 [Before the Training]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/avs-labs/before-the-training)
 
