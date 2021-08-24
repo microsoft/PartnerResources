@@ -89,6 +89,8 @@ Keeping Up
 ## Technical Resources
 
 * [Power CAT Team](https://www.youtube.com/playlist?list=PLi9EhCY4z99W2QOTgbwhFZEjpqc8YZDVH) (YouTube videos)
+* [Partner Technical Success Channel](https://www.microsoft.com/en-us/us-partner-blog/2021/04/22/announcing-the-new-partner-technical-success-channel) (Other)
+* [Power Platform Blog](https://cloudblogs.microsoft.com/powerplatform) (Other)
 
 ## Events
 
@@ -96,6 +98,8 @@ Keeping Up
 
 ## Certifications
 
+* [Advanced Specializations](https://partner.microsoft.com/en-us/membership/advanced-specialization#tab-content-2) (Self-Paced)
+* [Renew Your Certification](https://docs.microsoft.com/en-us/learn/certifications/renew-your-microsoft-certification) (Self-Paced)
 * [Exam PL-200: Power Platform Functional Consultant Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200) (Self-Paced) (2 Hours)
 * [Exam PL-400: Microsoft Power Platform Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400) (Self-Paced) (2 Hours)
 * [Exam PL-600: Microsoft Power Platform Solution Architect (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600) (Self-Paced)
