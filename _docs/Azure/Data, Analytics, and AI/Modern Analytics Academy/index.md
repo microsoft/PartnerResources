@@ -20,5 +20,66 @@ Each module contains several options for hands-on learning. In most cases, there
 
 # Table of Contents
 
-| Modern Analytics Overview | 
+The structure of the content is represented in the table below; refer to the links below to explore each module.
+
+<table>
+<tr>
+<td colspan="5" style="text-align: center;">Modern Analytics Overview</td>
+</tr>
+<tr>
+<td>Data Acquisition and Storage</td>
+<td>Data Modeling</td>
+<td>Data Pipelines</td>
+<td>Data Governance</td>
+<td>Visualization</td>
+</tr>
+<tr>
+<td>
+    <ul>
+    <li>Azure Data Lake</li>
+    <li>Azure Cosmos DB with Synapse Link</li>
+    <li>Azure Event Hubs</li>
+    </ul>
+</td>
+<td>
+ <ul>
+<li>Provisioned SQL</li>
+<li>Serverless SQL</li>
+<li>Spark SQL</li>
+</ul>
+</td>
+<td>
+ <ul>
+<li>Data Factory</li>
+<li>Synapse Pipelines</li>
+<li>Power BI Dataflows</li>
+<li>Azure Stream Analytics</li>
+</ul>
+</td>
+<td>
+ <ul>
+<li>Purview</li>
+<li>Auditing</li>
+<li>Security</li>
+</ul>
+</td>
+<td>
+ <ul>
+<li>Power BI</li>
+<li>Paginated Reports</li>
+<li>Power BI Embedded</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: center;">Hands-on Learning</td>
+</tr>
+</table>
+
+* Modern Analytics Overview
+* Module 1: Data Acquisition and Storage
+* Module 2: Data Modeling
+* Module 3: Data Pipelines
+* Module 4: Data Governance
+* Module 5: Visualization
 
