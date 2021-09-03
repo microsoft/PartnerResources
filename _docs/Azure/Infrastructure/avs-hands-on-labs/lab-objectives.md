@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab Objectives
-permalink: /azure/infrastructure/azure-vmware-solution/avs-labs/lab-objectives
+permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-objectives
 tags: 
  - azure
  - infrastructure
@@ -28,6 +28,6 @@ You’ll see them in LAB-1 and LAB12B.
 
 ## Next Steps
 
-[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/avs-labs#table-of-contents)
+[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs#table-of-contents)
 
 [Lab 1](lab-1)

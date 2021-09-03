@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Before the Training
-permalink: /azure/infrastructure/azure-vmware-solution/avs-labs/expected-time-needed-per-lab
+permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/expected-time-needed-per-lab
 tags: 
  - azure
  - infrastructure
@@ -45,6 +45,6 @@ tags:
 
 ## Next Steps
 
-[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/avs-labs#table-of-contents)
+[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs#table-of-contents)
 
 [Lab Environment](lab-environment#lab-environment)

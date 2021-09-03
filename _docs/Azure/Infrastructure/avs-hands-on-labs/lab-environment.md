@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab Environment
-permalink: /azure/infrastructure/azure-vmware-solution/avs-labs/lab-environment
+permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment
 tags: 
  - azure
  - infrastructure
@@ -26,7 +26,7 @@ following components and settings.
 
 ## Lab Architecture Diagram
 
-![lab-architecture-diagram]({{ site.baseurl }}/assets/avs-labs/lab-environment/lab-architecture-diagram.png)
+![lab-architecture-diagram]({{ site.baseurl }}/assets/avs-hands-on-labs/lab-environment/lab-architecture-diagram.png)
 
 ## On-Premises Connectivity
 
@@ -58,10 +58,10 @@ vElements.net](http://www.velements.net/2021/02/12/site-to-site-vpn-between-nsx-
 
 ### Architecture Diagram
 
-![on-premises-connectivity]({{ site.baseurl }}/assets/avs-labs/lab-environment/on-premises-connectivity.png)
+![on-premises-connectivity]({{ site.baseurl }}/assets/avs-hands-on-labs/lab-environment/on-premises-connectivity.png)
 
 ## Next Steps
 
-[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/avs-labs#table-of-contents)
+[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs#table-of-contents)
 
 [Lab Objectives](lab-objectives)
