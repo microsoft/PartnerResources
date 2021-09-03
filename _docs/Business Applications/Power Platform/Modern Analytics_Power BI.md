@@ -57,6 +57,8 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Create and use analytics reports with Power BI](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) (Self-Paced) (6 Hours)
 * [Dashboard in a Day](https://powerbi.microsoft.com/en-us/diad/) (Self-Paced) (1 Day)
 * [Power BI for Tableau Users](https://docs.microsoft.com/en-us/learn/paths/power-bi-tableau/) (Self-paced) (6 Hours)
+* [DAX Learning Path](https://docs.microsoft.com/en-us/learn/paths/dax-power-bi/) (Self-Paced) (2 Hours)
+* [Power BI Instructor Led Training](https://powerbi.microsoft.com/en-us/instructor-led-training) (8 hours +)
 
 ## Expert
 
@@ -79,6 +81,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Power BI Sample Apps](https://docs.microsoft.com/en-us/power-bi/create-reports/sample-datasets) (Self-Paced)
 * [Power BI Release Plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave2/power-bi/planned-features) (Self-Paced)
 * [Power BI Adoption Framework](https://github.com/pbiaf/powerbiadoption) (Self-Paced)
+* [Guy in a Cube](https://guyinacube.com/) (Self-Paced)
 
 ## Community Resources
 
