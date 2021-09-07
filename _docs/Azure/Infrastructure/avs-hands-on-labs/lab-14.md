@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LAB14B – Create a remote content library in Azure Blob Storage
-permalink: /azure/infrastructure/azure-vmware-solution/avs-labs/lab-14
+permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-14
 tags: 
  - azure
  - infrastructure
@@ -26,7 +26,7 @@ Create folder in C:\\ with the name **BlobStorageLibrary**. Create a
 **Photon30-ISO** folder and a **Photon30-OVA** folder and move there from your
 **Downloads** folder the ISO and the OVA files, respectively.
 
-![TODO:]({{ site.baseurl }}/assets/avs-labs/lab-14/580695ed91ff6523a7d40d46d45feda5.png)
+![TODO:]({{ site.baseurl }}/assets/avs-hands-on-labs/lab-14/580695ed91ff6523a7d40d46d45feda5.png)
 
 Prepare the content library in the Jumpbox
 
@@ -55,7 +55,7 @@ Check the content library content and you will see tow JSON files:
 
 Also, there is an item.json file on each folder.
 
-![TODO:]({{ site.baseurl }}/assets/avs-labs/lab-14/9385203d0cac343f78292c76dfe52b81.png)
+![TODO:]({{ site.baseurl }}/assets/avs-hands-on-labs/lab-14/9385203d0cac343f78292c76dfe52b81.png)
 
 Create Azure Blob Storage infrastructure
 
@@ -67,7 +67,7 @@ In the first screen enter the name, select the resource group, or create a new
 one and the Location. For **Account kind** select **StorageV2 (General purpose
 v2)** and set **Replication** to **Locally-redundant storage (LRS).**
 
-![TODO:]({{ site.baseurl }}/assets/avs-labs/lab-14/e6f2d954ed6224a0f919c527017ff4ff.png)
+![TODO:]({{ site.baseurl }}/assets/avs-hands-on-labs/lab-14/e6f2d954ed6224a0f919c527017ff4ff.png)
 
 Leave the rest of the parameters with the default values and go to the **Review
 \+ create** screen and select **Create**.
@@ -85,7 +85,7 @@ your Azure credentials and select your Azure subscription.
 Expand your storage account, right click on **Blob Containers,** and select
 **Create Blob Container**. Enter the name for the container.
 
-![TODO:]({{ site.baseurl }}/assets/avs-labs/lab-14/26d4a1a1b2e6614917c3e2614daf36f5.png)
+![TODO:]({{ site.baseurl }}/assets/avs-hands-on-labs/lab-14/26d4a1a1b2e6614917c3e2614daf36f5.png)
 
 Select the new container and in the right are click on **Upload \> Upload
 Folder** and select the local folder containing the library.
@@ -93,7 +93,7 @@ Folder** and select the local folder containing the library.
 After the upload is finished access the folder and right click on the lib.json
 file and select **Copy URL**.
 
-![TODO:]({{ site.baseurl }}/assets/avs-labs/lab-14/264c82de4132a357f0cb80b361189f9e.png)
+![TODO:]({{ site.baseurl }}/assets/avs-hands-on-labs/lab-14/264c82de4132a357f0cb80b361189f9e.png)
 
 By default, the access level of a blob container is set to **Private**, before
 creating our content library you will need to change that access level. The
@@ -104,12 +104,12 @@ level.
 Access Azure portal and go to your storage account. Go to Containers, select you
 blob container and click on **Change access level**.
 
-![TODO:]({{ site.baseurl }}/assets/avs-labs/lab-14/4c212133fe075f593ec25d10e699d299.png)
+![TODO:]({{ site.baseurl }}/assets/avs-hands-on-labs/lab-14/4c212133fe075f593ec25d10e699d299.png)
 
 Set the **Public access level** to **Container (anonymous read access for
 container and blobs)** and click **OK**.
 
-![TODO:]({{ site.baseurl }}/assets/avs-labs/lab-14/721d4930469ea7426c309f9cc8e67c69.png)
+![TODO:]({{ site.baseurl }}/assets/avs-hands-on-labs/lab-14/721d4930469ea7426c309f9cc8e67c69.png)
 
 Create the content library in AVS vCenter
 
@@ -119,7 +119,7 @@ Access vCenter and in the drop-down menu select **Content Libraries**. Click on
 In the **Configure content library** screen select **Subscribed content
 library** and paste the URL you copied from Azure Storage Explorer.
 
-![TODO:]({{ site.baseurl }}/assets/avs-labs/lab-14/fdabc498670a53d7dd401e758704332b.png)
+![TODO:]({{ site.baseurl }}/assets/avs-hands-on-labs/lab-14/fdabc498670a53d7dd401e758704332b.png)
 
 Finish the creation process of the content library as with the local one. If you
 have selected download content immediately, the AVS vCenter Server will download
@@ -129,6 +129,6 @@ datastore.
 
 ## Next Steps
 
-[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/avs-labs#table-of-contents)
+[Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs#table-of-contents)
 
 [Appendixes](appendixes)
