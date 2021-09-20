@@ -16,7 +16,7 @@ Learn more DevOps fundamentals in the [DevOps Resource Center](https://docs.micr
 ## What is Microsoft's DevOps strategy?
 [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) has empowered 1000s of enterprises for 15+ years with rich features to support developer innovation, standardization and automation. 
 [GitHub](https://github.com/) is the planet's largest developer platform...home to 65+ million developers who build software collaboratively. GitHub brings an open source culture that improves communication, sharing of knowledge and code reuse.
-Our strategy over the coming years is to bring the best of both products together into a single product experience - in GitHub - to provide the broadest set of software development capabilities that meet the needs of every developer and enterprise. Azure DevOps will continue to evolve with the industry, and we are committed to supporting and investing in Azure DevOps while we execute on our longer-term strategy. 
+Our strategy is to bring the best of both products together into a single product experience - in GitHub - to provide the broadest set of software development capabilities that meet the needs of every developer and enterprise. Azure DevOps will continue to evolve with the industry, and we are committed to supporting and investing in Azure DevOps while we execute on our strategy. 
 
 ## GitHub or Azure DevOps?
 When evaluating GitHub or Azure DevOps, we encourage you to:
