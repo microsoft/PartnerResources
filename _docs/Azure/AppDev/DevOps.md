@@ -23,8 +23,10 @@ When evaluating GitHub or Azure DevOps, we encourage you to:
 - Explore GitHub and its unique capabilities like [GitHub Actions](https://docs.github.com/en/actions), [Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security), [Codespaces](https://docs.github.com/en/codespaces).
 - Move/create your repo in GitHub - even if you plan to use Azure [Boards](https://azure.microsoft.com/en-us/services/devops/boards/) or [Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) - to take advantage of [code & secret scanning](https://docs.github.com/en/code-security), [vulnerability alerts](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-alerts-for-vulnerable-dependencies), [Codespaces](https://docs.github.com/en/codespaces) and [innersourcing](https://resources.github.com/whitepapers/introduction-to-innersource/).
 - [Integrate Azure Boards with GitHub](https://docs.microsoft.com/en-us/azure/devops/boards/github/?view=azure-devops) and leverage Azure [Artifacts](https://azure.microsoft.com/en-us/services/devops/artifacts/) and [Test Plans](https://azure.microsoft.com/en-us/services/devops/test-plans/) in conjunction with GitHub as needed.
-- Consider [creating GitHub Actions](https://docs.github.com/en/actions/creating-actions) to provide integrations with your own software. You can learn more about how ISVs can integrate with GitHub in this [GitHub for ISVs Tech Talk](https://msuspartners.eventbuilder.com/event/45411).
+- ISVs should consider [creating GitHub Actions](https://docs.github.com/en/actions/creating-actions) to provide integrations with GitHub. You can learn more in this [GitHub for ISVs Tech Talk](https://msuspartners.eventbuilder.com/event/45411).
 - Review GitHub's [public roadmap](https://github.com/github/roadmap/projects/1) to see/track upcoming features.
+
+NOTE: Tools to migrate from Azure DevOps, Jenkins, Travis CI and Circle CI are coming soon. These tools will perform a best-effort attempt of a migration with a goal of converting 80% of the constructs of a pipeline. Stay tuned!
 
 ## Deployment Options
 GitHub provides the following deployment options:
@@ -66,7 +68,7 @@ Microsoft offers [AZ-400: Designing and Implementing Microsoft DevOps Solutions]
 The exam has recently been updated to include topics related to GitHub.
 To obtain the [DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/) certification (AZ-400), you *must* pass at least one of the following prerequiste exams: [Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/) or [Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/).
 
-Note: GitHub certification is coming soon. Register [here](https://resources.github.com/certifications) for updates.
+NOTE: GitHub certification is coming soon. Register [here](https://resources.github.com/certifications) for updates.
 
 ## Advanced Specialization
 Validate your organization's capabilities implementing secure software development practices using DevOps principles with the DevOps with GitHub on Microsoft Azure advanced specialization. Learn more [here](https://partner.microsoft.com/en-us/membership/advanced-specialization) (scroll down to the DevOps with GitHub section).
