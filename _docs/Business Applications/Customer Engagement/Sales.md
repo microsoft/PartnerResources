@@ -44,18 +44,17 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 * [Course PL-900T00-A: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-900t00) (In-person Instructor Led) (2 Days)
 * [Get started using Dataverse](https://docs.microsoft.com/en-us/learn/paths/get-started-cds/) (Microsoft Learn) (4 Hours)
 * [Introduction to Dynamics 365 Sales](https://docs.microsoft.com/en-us/learn/wwl/introduction-dynamics-365-sales/) (Microsoft Learn) (1 Hour)
-* [Microsoft Dynamics 365 Fundamentals](https://docs.microsoft.com/en-us/learn/paths/dynamics-365-fundamentals/) (Microsoft Learn) (11 Hours)
 
 ## Associate
 
 * [Course PL-200T00: Microsoft Power Platform Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-200t00) (In-person Instructor Led) (5 Days)
 * [Create a model-driven app in Power Apps](https://docs.microsoft.com/en-us/learn/paths/create-app-models-business-processes/) (Microsoft Learn) (1 Hour)
+* * [Architect solutions for Dynamics 365 and Microsoft Power Platform](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/) (Microsoft Learn) (4 Hours)
+* [Work with Microsoft Power Platform tenants, environments, subscription and Dynamics 365 apps](https://docs.microsoft.com/en-us/learn/paths/implementing-customer-engagement-apps/) (Microsoft Learn) (5 Hours)
 
 ## Expert
 
 * [Course PL-400T00-A: Microsoft Power Platform Developer](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-400t00) (In-person Instructor Led) (3 Days)
-* [Architect solutions for Dynamics 365 and Microsoft Power Platform](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/) (Microsoft Learn) (4 Hours)
-* [Work with Microsoft Power Platform tenants, environments, subscription and Dynamics 365 apps](https://docs.microsoft.com/en-us/learn/paths/implementing-customer-engagement-apps/) (Microsoft Learn) (5 Hours)
 * [Extend Dynamics 365 Portals](https://docs.microsoft.com/en-us/learn/paths/extend-dynamics-365-portals/) (Microsoft Learn) (3 Hours)
 * [Extending Microsoft Power Platform Dataverse](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Microsoft Learn) (2 Hours)
 * [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-model-driven-app/) (Microsoft Learn) (4 Hours)
@@ -71,7 +70,7 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 * [Microsoft Power Platform Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
 * [Monitor the Dynamics 365 Blog](https://cloudblogs.microsoft.com/dynamics365/)
 * [Monitor the Dynamics 365 Customer Engagement in the Field](https://community.dynamics.com/crm/b/crminthefield)
-* 
+
 ## Certifications
 
 * [Exam PL-200: Microsoft Power Platform Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200)
