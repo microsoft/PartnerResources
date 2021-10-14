@@ -12,18 +12,19 @@ tags:
 
 # Modern Analytics Academy - Overview
 
-Welcome to the Modern Analytics Academy (MAA)!
+Welcome to the Modern Analytics Academy (MAA) Overview!
 
-The Modern Analyics Academy consists of several modules designed to illustrate and upskill on modern techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. 
+The Overview session is designed to give an overall picture of modern analytics in Azure -- understanding the business needs in a modern organization, and understanding the choices available in the Azure platform. We'll answer many of the "why" questions in this high level presentation. 
 
-The content is designed to be highly integrated but loosely coupled: each module stands on its own, while collectively representing a cohesive piece of common modern-day analytical solutions. If you just want to dive into Power BI or Data Governance, for example, you can simply pick those modules. Those new to Azure or Analytics in general may prefer to work through all modules.
+# Main Presentation
+
+*[Video Recording of Presentation](https://youtubelinkhere)
+*[PowerPoint Deck](https://bloblink)
 
 ## Hands-on Content
 
-Each module contains several options for hands-on learning. In most cases, there are multiple options available designed to meet your specific skilling needs, from simple tutorial/demo content to more advanced workshops. We understand that some people may just want to see demos while others want to dive deep; most are somewhere in between. Use the content that best suits you!
-
-## Suggessted HOL / Workshops
-
 ### Level 100
+* [DP-900 Guided Labs](https://github.com/CloudLabs-MOC/DP-900T00A-Azure-Data-Fundamentals)
+* This lab environemt is available as in a cloud sandbox environment. There are 4 guided labs that walks you through the basics of setting up databases (relational and non-relational), querying and uploading into Azure Cosmos DB. All 4 labs can be complicated in roughly 1 to 2 hours. For further information on these labs and pursuing DP900 certification, [view the entire DP900 learning path](https://docs.microsoft.com/en-us/learn/paths/azure-data-fundamentals-explore-relational-data/). 
 
 ### Level 200
