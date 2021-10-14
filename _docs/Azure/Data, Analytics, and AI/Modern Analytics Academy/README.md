@@ -80,7 +80,7 @@ Refer to links below for the module breakouts.
 </tr>
 </table>
 
-* Modern Analytics Overview
+* [Modern Analytics Overview](/azure/data-analytics-ai/modern-analytics-academy-overview)
 * Module 1: Data Acquisition and Storage
 * Module 2: Data Modeling
 * Module 3: Data Pipelines
