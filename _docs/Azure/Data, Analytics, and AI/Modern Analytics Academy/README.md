@@ -80,15 +80,26 @@ Refer to links below for the module breakouts.
 </tr>
 </table>
 
-* [Modern Analytics Overview](/azure/data-analytics-ai/modern-analytics-academy-overview)
-* Module 1: Data Acquisition and Storage
-* Module 2: Data Modeling
-* Module 3: Data Pipelines
-* Module 4: Data Governance
-* Module 5: Visualization
+* [Modern Analytics Overview](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-overview)
+* [Module 1: Data Acquisition and Storage](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-acquisition)
+* [Module 2: Data Modeling](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-modeling)
+* [Module 3: Data Pipelines](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-pipelines)
+* [Module 4: Data Governance](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-governance)
+* [Module 5: Visualization](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-visualization)
 
 ## Hands-on provisioned Environments
 
 For a limited time, we have lab environments that can be provisioned for a period of time in order to assist in lab work. Depending on the specific lab/workshop, these environments may be provisioned will all of the materials and lab guidance ready to go; in other cases it may simply be an emtpy environment where you'll have to provision all of the resources manually.
 
 To get requets a lab environment, - insert email/directions here -
+
+## Contributions
+
+We welcome contributors to this project. Please use the GitHub links near the upper right and consider submitting pull requests or filing issues as needed.
+
+The core team of individuals:
+* Alex Karasek
+* Annie Xu
+* Brian Hitney
+* Chris Mitchell
+* Jason Virtue

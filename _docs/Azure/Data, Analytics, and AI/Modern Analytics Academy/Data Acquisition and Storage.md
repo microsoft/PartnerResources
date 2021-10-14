@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modern Analytics Academy
-permalink: /azure/data-analytics-ai/modern-analytics-academy-data-acquisution
+permalink: /azure/data-analytics-ai/modern-analytics-academy-data-acquisition
 tags: 
  - azure
  - synapse
