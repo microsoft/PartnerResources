@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: workshop
 title: Modern Analytics Academy
-permalink: /azure/data-analytics-ai/modern-analytics-academy-data-Visualization
+permalink: /azure/data-analytics-ai/modern-analytics-academy-data-visualization
 tags: 
  - azure
  - synapse
