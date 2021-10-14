@@ -8,7 +8,7 @@ tags:
  - analytics
 ---
 
-**[Home](README.md)** 
+**[Home](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy)** 
 
 # Modern Analytics Academy - Data Pipelines
 

@@ -8,6 +8,8 @@ tags:
  - analytics
 ---
 
+**[Home](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy)** 
+
 # Modern Analytics Academy - Data Acquisution and Storage
 
 Welcome to the Modern Analytics Academy (MAA)!
