@@ -59,6 +59,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Power BI for Tableau Users](https://docs.microsoft.com/en-us/learn/paths/power-bi-tableau/) (Self-paced) (6 Hours)
 * [DAX Learning Path](https://docs.microsoft.com/en-us/learn/paths/dax-power-bi/) (Self-Paced) (2 Hours)
 * [Power BI Instructor Led Training](https://powerbi.microsoft.com/en-us/instructor-led-training) (8 hours +)
+* [Design effective reports in Power BI](https://docs.microsoft.com/en-us/learn/paths/power-bi-effective/) (5 Hours)
 
 ## Expert
 
