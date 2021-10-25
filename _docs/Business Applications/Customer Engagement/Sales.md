@@ -80,5 +80,6 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 * [Exam PL-600: Microsoft Power Platform Solution Architect](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600)
 
 * [PL-200: Microsoft Power Platform Functional Consultant Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/implementing-microsoft-power-platform-pl-200#/) (Self-Paced) (10 Hours)
+* * [PL-200: Microsoft Power Platform Functional Consultant Exam Prep (MS Learn Collection)](https://docs.microsoft.com/en-us/users/sosurana/collections/mykgiy4pxpwge7/) (Self-Paced) (30 Hours)
 * [MB-210: Microsoft Dynamics 365 Sales Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-210-microsoft-dynamics-365-sales#/) (Self-Paced) (10 Hours)
 * [PL-400: Developing Power Platform Solutions Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/developing-power-platform-solutions-pl-400#/) (Self-Paced) (8 Hours)
