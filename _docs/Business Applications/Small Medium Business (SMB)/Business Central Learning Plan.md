@@ -74,5 +74,5 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 
 ## Events
 
-* [Directions North America Conference](https://www.directionsna.com/) (In-person Instructor Led) (3 Days)
+* [Directions North America Conference, April 3 - 6, 2022](https://www.directionsna.com/) (In-person Instructor Led) (3 Days)
 * [Attend Business Central 2020 Release, Wave 2 Launch Event] (https://events1.social27.com/msdyn365bclaunchevent/page/pre-signup) (on demand)
