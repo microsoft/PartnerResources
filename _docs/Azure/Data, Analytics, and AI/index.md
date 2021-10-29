@@ -13,6 +13,8 @@ tags:
 
 #### {% raw %}[Azure Cognitive Search](cognitive-search){% endraw %}
 
+#### {% raw %}[Azure Cognitive Services](cognitive-services){% endraw %}
+
 #### {% raw %}[Azure Purview](azure-purview){% endraw %}
 
 #### {% raw %}[Conversational AI](conversational-ai){% endraw %}
