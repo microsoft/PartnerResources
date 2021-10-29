@@ -15,7 +15,7 @@ tags:
 
 #### {% raw %}[Azure Purview](azure-purview){% endraw %}
 
-#### {% raw %}[Conversational AI](ai-apps-agents){% endraw %}
+#### {% raw %}[Conversational AI](conversational-ai){% endraw %}
 
 #### {% raw %}[Cosmos DB](cosmos-db){% endraw %}
 
