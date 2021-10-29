@@ -6,6 +6,7 @@ tags:
  - azure
  - ai
  - bot service
+ - deprecated
 ---
 
 # Link Update
