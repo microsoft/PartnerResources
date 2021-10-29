@@ -10,4 +10,4 @@ tags:
 
 # Page Update
 
-We've been busy improving our Partner Learning Plan Resources... Please update your bookmark or referring link to reference the new [Conversational AI](conversational-ai) Learning Plan Resources page.
+We've been busy improving our Partner Learning Plan Resources... Please update your bookmark or referring link to reference the new {% raw %}[Conversational AI](conversational-ai){% endraw %} Learning Plan Resources page.
