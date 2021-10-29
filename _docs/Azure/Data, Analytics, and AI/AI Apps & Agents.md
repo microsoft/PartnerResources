@@ -12,4 +12,4 @@ tags:
 # Link Update
 
 We've been busy improving our Partner Learning Plan Resources... 
-<br />Please update your bookmark or referring link to reference the new {% raw %}[Conversational AI](conversational-ai){% endraw %} Learning Plan Resources page.
+<br />Please update your bookmark or referring link to reference the new {% raw %}[Conversational AI](conversational-ai){% endraw %} Learning Plan Resources page. 
