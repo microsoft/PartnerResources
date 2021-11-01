@@ -34,22 +34,19 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 
 * [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
 
-* [Dynamics 365 2021 release wave 1](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave1/)
-* [Power Platform 2021 release wave 1](https://docs.microsoft.com/en-us/power-platform-release-plan/2021wave1/)
-
 * [Dynamics 365 2020 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/)
 * [Power Platform 2020 release wave 2](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave2/)
 
-* [Dynamics 365 Field Service 2021 release wave 1](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave1/service/dynamics365-field-service/)
+* [Dynamics 365 Field Service 2021 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave2/service/dynamics365-field-service/get-started)
 
 ## Fundamentals
 
+* [Course MB-910T00-A: Microsoft Dynamics 365 Fundamentals (CRM)](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-910t00) (In-person Instructor Led) (2 Days)
+* [Course PL-900T00-A: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-900t00) (In-person Instructor Led) (2 Days)
+* [Get started using Dataverse](https://docs.microsoft.com/en-us/learn/paths/get-started-cds/) (Microsoft Learn) (4 Hours)
 * [Connected Field Service Overview](https://docs.microsoft.com/en-us/dynamics365/field-service/connected-field-service) (Microsoft Docs)
 * [Dynamics 365 Field Service](https://docs.microsoft.com/en-us/learn/modules/dynamics-365-for-field-service/) (Microsoft Learn) (30 Minutes)
-* [Get started using Common Data Service](https://docs.microsoft.com/en-us/learn/paths/get-started-cds/) (icrosoft Learn) (4 Hours)
-* [IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)
 * [IoT Central School](https://iotschool.microsoft.com/en-us/search;searchString=iot%20central) (3 Hours)
-* [Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/) (Microsoft Learn) (3 Hours)
 
 ## Associate
 
@@ -69,11 +66,11 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 ## Expert
 
 * [Implementing Customer Engagement Online Learning Path](https://docs.microsoft.com/en-us/learn/paths/implementing-customer-engagement-apps/) (Microsoft Learn) (5 Hours)
+* [Course PL-400T00-A: Microsoft Power Platform Developer](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-400t00) (In-person Instructor Led) (3 Days)
+* [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-model-driven-app/) (Microsoft Learn) (4 Hours)
+* [Becoming a Solution Architect for Dynamics 365 and Power Platform Learning Path](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/) (Microsoft Learn) (4 Hours)
 * [Intro to developing with the Power Platform](https://docs.microsoft.com/en-us/learn/paths/intro-developing-power-platform/) (Microsoft Learn) (2 Hours)
 * [Extending the Common Data Service](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Microsoft Learn) (2 Hours)
-* [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-model-driven-app/) (Microsoft Learn) (4 Hours)
-* [Course MB-400T00-A: Microsoft Power Apps + Dynamics 365 Developer](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-400t00) (In-person Instructor Led) (3 Days)
-* [Becoming a Solution Architect for Dynamics 365 and Power Platform Learning Path](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/) (Microsoft Learn) (4 Hours)
 * [Implementing Customer Engagement Online Learning Path](https://docs.microsoft.com/en-us/learn/paths/implementing-customer-engagement-apps/) (Microsoft Learn) (5 Hours)
 * [Extend Dynamics 365 Portals](https://docs.microsoft.com/en-us/learn/paths/extend-dynamics-365-portals/) (Microsoft Learn) (3 Hours)
 * [Extending the Common Data Service](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Microsoft Learn) (2 Hours)
@@ -97,12 +94,13 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 * [Exam PL-200: Microsoft Power Platform Functional Consultant (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200)
 * [Exam MB-240: Microsoft Dynamics 365 Field Service](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240) 
 
-* [Exam PL-400: Microsoft Dynamics 365 Power Apps + Developer (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400)
-* [Exam MB-600: Microsoft Dynamics 365 Power Apps + Solution Architect (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-600)
 
-* [MB-200: Microsoft Power Platform + Dynamics 365 Core Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-200-microsoft-power-platform-plus-dynamics-365-core#/) (Self-Paced) (10 Hours)
+* [Exam PL-400: Microsoft Dynamics 365 Power Apps + Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400)
+* [Exam PL-600: Microsoft Power Platform Solution Architect](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600)
+
+* [PL-200: Microsoft Power Platform Functional Consultant Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/implementing-microsoft-power-platform-pl-200#/) (Self-Paced) (10 Hours)
 * [MB-240: Microsoft Dynamics 365 Field Service Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-240-microsoft-dynamics-365-field-service#/) (Self-Paced) (10 Hours)
-* [MB-400: Microsoft Power Apps + Dynamics 365 Developer Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-400-microsoft-power-apps-dynamics-365-developer#/) (Self-Paced) (8 Hours)
+* [PL-400: Developing Power Platform Solutions Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/developing-power-platform-solutions-pl-400#/) (Self-Paced) (8 Hours)
 
 ## Practice Maturity Model
 
