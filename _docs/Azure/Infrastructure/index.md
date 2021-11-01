@@ -46,5 +46,3 @@ tags:
 #### {% raw %}[Windows Azure Firewall](windows-azure-firewall){% endraw %}
 
 #### {% raw %}[Windows Server Migration](windows-server-migration){% endraw %}
-
-#### {% raw %}[Azure Virtual Desktop](windows-virtual-desktop){% endraw %}
