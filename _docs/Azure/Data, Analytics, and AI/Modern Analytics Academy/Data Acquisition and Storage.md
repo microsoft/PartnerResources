@@ -10,15 +10,19 @@ tags:
 
 **[Home](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy)** 
 
-# Modern Analytics Academy - Data Acquisution and Storage
+# Modern Analytics Academy - Data Acquisition and Storage
 
-(more information coming soon as the content is completed)
+Welcome to the Modern Analytics Academy (MAA) - Data Acquisition and Storage!
 
-Welcome to the Modern Analytics Academy (MAA)!
+In Data Acquisition and Storage we’ll look at the nuances of how to integrate source systems to move data into Azure for long term retention and analysis. Technologies include Azure Data Lake, Azure Cosmos DB, Azure Event Hubs, and Azure Synapse Analytics.
 
-The Modern Analyics Academy consists of several modules designed to illustrate and upskill on modern techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. 
+# Main Presentation
 
-The content is designed to be highly integrated but loosely coupled: each module stands on its own, while collectively representing a cohesive piece of common modern-day analytical solutions. If you just want to dive into Power BI or Data Governance, for example, you can simply pick those modules. Those new to Azure or Analytics in general may prefer to work through all modules.
+* [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Data%20Acquisition%20and%20Storage.pptx)
+* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
+* [Modern Analytics Academy - Overview recording](https://www.youtube.com/watch?v=sdiaojWtz1Y)
+[![Modern Analytics Academy Overview](https://img.youtube.com/vi/mk31vgGCzy4/0.jpg)](https://www.youtube.com/watch?v=sdiaojWtz1Y)
+
 
 ## Hands-on Content
 
@@ -26,6 +30,4 @@ Each module contains several options for hands-on learning. In most cases, there
 
 ## Suggessted HOL / Workshops
 
-### Level 100
-
-### Level 200
+coming soon
