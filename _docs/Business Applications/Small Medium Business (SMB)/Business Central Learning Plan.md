@@ -75,4 +75,4 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 ## Events
 
 * [Directions North America Conference, April 3 - 6, 2022](https://www.directionsna.com/) (In-person Instructor Led) (3 Days)
-* [Attend Business Central 2021 Release, Wave 2 Launch Event] aka.ms/BCLE (register to access the on demand content)
+* [Attend Business Central 2021 Release, Wave 2 Launch Event] (register @aka.ms/BCLE to access the on demand content)
