@@ -28,10 +28,9 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Bookmark Dynamics 365 Marketing Product Roadmap](https://dynamics.microsoft.com/en-us/roadmap/overview/) (Microsoft Docs) (2 Minutes)
 * [Create a Dynamics 365 Marketing Trial](https://dynamics.microsoft.com/en-us/marketing/overview/) (2 Minutes)
 * [Explore Dynamics 365 Marketing Capabilities](https://dynamics.microsoft.com/en-us/marketing/capabilities/) (5 Minutes)
-* [Intelligent Sales and Marketing - What's New (DYN776PAL)](https://learning.eventbuilder.com/event/14962/occurrence/13613/recording?rauth=49.577540.5eaddc31b19cde2618a2b43e63d5c55906cf017512d3b59f794dad3b1212d270) (58 Minutes)
 * [Introduction to Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/wwl/introduction-dynamics-365-marketing/) (Microsoft Learn) (41 Minutes)
 * [Learn Insights glossary of terms](https://docs.microsoft.com/en-us/dynamics365/marketing/insights-glossary) (11 Minutes)
-* [Watch the Marketing video playlist on YouTube](https://www.youtube.com/playlist?list=PLcakwueIHoT_cV1n1es1YJt_T2A5u-XpR) (1 Hour)
+* [Watch the Dynamics 3665 Marketing video playlist on YouTube](https://www.youtube.com/playlist?list=PLcakwueIHoT_cV1n1es1YJt_T2A5u-XpR) (1 Hour)
 * [Download Dynamics 365 Marketing Partner Sales Sales Playbook](https://aka.ms/d365marketing/salestools) (Self-Paced) (5 Minutes)
 * [Watch the Dynamics 365 Marketing in a Day workshop](https://aka.ms/d365marketing/miad) (Self-Paced) (2 hours, 45 Minutes)
 
