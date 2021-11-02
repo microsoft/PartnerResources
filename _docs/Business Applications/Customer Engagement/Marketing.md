@@ -21,7 +21,7 @@ Below you will find content to assist in upskilling on Dynamics 365 Marketing. C
 * '3rd Party' to indicate 3rd party content (not created by Microsoft)
 
 
-## Fundamentals
+## Fundamentals (navigation tip - open each link, right-click on the URL | open in new tab)
 
 Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Bookmark Dynamics 365 Marketing Forum](https://community.dynamics.com/365/marketing/f/dynamics-365-for-marketing-forum) (Self-Paced) (1 Minute)
