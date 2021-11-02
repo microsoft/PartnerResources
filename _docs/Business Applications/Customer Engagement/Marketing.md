@@ -36,9 +36,8 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Watch the Dynamics 365 Marketing in a Day workshop](https://aka.ms/d365marketing/miad) (Self-Paced) (2 hours, 45 Minutes)
 
 ### D365 Marketing Assets
-* [D365M Getting Started Tutorial PDF](/LearningPlanResources/Business%20Applications/Customer%20Engagement/assets/Marketing/D365M%20Getting%20Started%20tutorial.pdf)
-* [D365M Marketing One Stop Document](/LearningPlanResources/Business%20Applications/Customer%20Engagement/assets/Marketing/D365Marketing_OneStopDocument.docx)
-* [D365M Marketing on LinkedIn](/LearningPlanResources/Business%20Applications/Customer%20Engagement/assets/Marketing/D365MarketingLinkedIn.pptx)
+* [Dynamics 365 Marketing Getting Started Tutorial PDF](/LearningPlanResources/Business%20Applications/Customer%20Engagement/assets/Marketing/D365M%20Getting%20Started%20tutorial.pdf)
+* [Dynamics 365 Marketing One Stop Document](/LearningPlanResources/Business%20Applications/Customer%20Engagement/assets/Marketing/D365Marketing_OneStopDocument.docx)
 
 ## Associate
 
