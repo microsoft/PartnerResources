@@ -26,7 +26,7 @@ Below you will find content to assist in upskilling on Dynamics 365 Marketing. C
 Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Bookmark Dynamics 365 Marketing Forum](https://community.dynamics.com/365/marketing/f/dynamics-365-for-marketing-forum) (Self-Paced) (1 Minute)
 * [Bookmark Dynamics 365 Marketing Product Roadmap](https://dynamics.microsoft.com/en-us/roadmap/overview/) (Microsoft Docs) (2 Minutes)
-* [Create a Dynamics 365 Marketing Trial](https://dynamics.microsoft.com/en-us/marketing/overview/) (2 Minutes)
+* [Create a Dynamics 365 Marketing Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/) (2 Minutes)
 * [Explore Dynamics 365 Marketing Capabilities](https://dynamics.microsoft.com/en-us/marketing/capabilities/) (5 Minutes)
 * [Introduction to Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/wwl/introduction-dynamics-365-marketing/) (Microsoft Learn) (41 Minutes)
 * [Learn Insights glossary of terms](https://docs.microsoft.com/en-us/dynamics365/marketing/insights-glossary) (11 Minutes)
