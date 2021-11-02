@@ -24,7 +24,7 @@ Below you will find content to assist in upskilling on Dynamics 365 Marketing. C
 ## Fundamentals
 
 Navigation tip - to open each link, right-click on the URL | open in new tab
-* [Learn How to Pitch Dynamics 365 Marketing](https://dynamicspartners.transform.microsoft.com/products/dynamics-365-marketing?tab=go-to-market) (MPN) (2 Minutes)
+* [Learn How to Pitch Dynamics 365 Marketing](https://dynamicspartners.transform.microsoft.com/products/dynamics-365-marketing?tab=go-to-market) (MPN Portal) (2 Minutes)
 * [Bookmark Dynamics 365 Marketing Forum](https://community.dynamics.com/365/marketing/f/dynamics-365-for-marketing-forum) (Self-Paced) (1 Minute)
 * [Bookmark Dynamics 365 Marketing Product Roadmap](https://dynamics.microsoft.com/en-us/roadmap/overview/) (Microsoft Docs) (2 Minutes)
 * [Create a Dynamics 365 Marketing Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/) (2 Minutes)
