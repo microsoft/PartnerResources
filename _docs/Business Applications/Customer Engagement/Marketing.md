@@ -42,8 +42,8 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 
 Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Work with core features in Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/paths/work-core-features-marketing/) (Microsoft Learn) (6 Hours)
-* [Review the Marketing Administrator Guide](https://docs.microsoft.com/en-us/dynamics365/marketing/admin-guide) (Microsoft Docs) (2 Minutes)
-* [Review the Real Time Marketing User Guide](https://docs.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-user-guide) (2 minutes)
+* [Review the Dynamics 365 Marketing Administrator Guide](https://docs.microsoft.com/en-us/dynamics365/marketing/admin-guide) (Microsoft Docs) (2 Minutes)
+* [Review the Dynamics 365 Marketing Real Time Marketing User Guide](https://docs.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-user-guide) (2 minutes)
 * [Set up Dynamics 365 Marketing and configure advanced settings](https://docs.microsoft.com/en-us/learn/paths/get-started-with-marketing/) (Microsoft Learn) (2 Hours)
 * [Tech Talk: Implementing Dynamics 365 Marketing Fast Track](https://community.dynamics.com/365/b/techtalks/posts/implementing-dynamics-365-marketing-january-15-2020) (Self-Paced) (1 Hour)
 * [Analyze insights in Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/paths/analyze-marketing-insights/) (Microsoft Learn) (2 Hours)
@@ -54,7 +54,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Read the Marketing Developer Guide](https://docs.microsoft.com/en-us/dynamics365/marketing/developer/marketing-developer-guide) (Microsoft Docs) (2 Minutes)
 * [Customize Dynamics 365 Marketing](https://docs.microsoft.com/en-us/dynamics365/marketing/customize) (Microsoft Docs) (2 Minutes)
-* [Manage Data protection and GDPR](https://docs.microsoft.com/en-us/dynamics365/marketing/gdpr) (Microsoft Docs) (2 Minutes)
+* [Manage Data protection and GDPR in Dynamics 365 Marketing](https://docs.microsoft.com/en-us/dynamics365/marketing/gdpr) (Microsoft Docs) (2 Minutes)
 
 ## Certifications
 
