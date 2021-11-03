@@ -28,6 +28,10 @@ In Data Acquisition and Storage we’ll look at the nuances of how to integrate 
 
 Each module contains several options for hands-on learning. In most cases, there are multiple options available designed to meet your specific skilling needs, from simple tutorial/demo content to more advanced workshops. We understand that some people may just want to see demos while others want to dive deep; most are somewhere in between. Use the content that best suits you!
 
-## Suggessted HOL / Workshops
+## Suggested HOL / Workshops
 
-coming soon
+* [Analyze fraudulent call data with Stream Analytics and visualize results in Power BI dashboard](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-real-time-fraud-detection?toc=/azure/event-hubs/TOC.json) - This tutorial walks you through an end to end scenario of processing event hub data in real time and ultimately visualizing that data in a Power BI Dashboard.
+* [Migrate captured Event Hubs data to Azure Synapse Analytics using Event Grid and Azure Functions](https://docs.microsoft.com/en-us/azure/event-hubs/store-captured-data-data-warehouse) - This tutorial shows how to programmatically trigger loading data stored in blob storage via event hub capture.
+* [Configure and use Azure Synapse Link for Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/configure-synapse-link) - This series of tutorials walks you through all the steps requried for configuring Synapse Link for Cosmos DB and leveraging Synapse to perform data analysis.
+
+
