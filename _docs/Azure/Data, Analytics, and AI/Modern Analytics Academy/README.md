@@ -114,3 +114,5 @@ The core team of individuals:
 * Brian Hitney
 * Chris Mitchell
 * Jason Virtue
+
+updated Nov 4 12:34pm ET
