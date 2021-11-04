@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Knowledge Mining
+title: Knowledge Mining with Cognitive Search
 permalink: /azure/data-analytics-ai/knowledge-mining
 tags: 
  - azure
@@ -8,13 +8,14 @@ tags:
  - cognitive services
 ---
 
-# Learning Plan Resources for Knowledge Mining
+# Learning Plan Resources for Knowledge Mining with Cognitive Search
 
 ## Fundamentals
 
 * [Deploy a Data Mining Solution in 10 Minutes](https://myignite.techcommunity.microsoft.com/sessions/83970?source=sessions) (Self-Paced) (20 Minutes)
 * [Mining Your Data for Gold](https://myignite.techcommunity.microsoft.com/sessions/81081?source=sessions) (Self-Paced) (15 Minutes)
 * [US OCP Level 100 Examples](https://github.com/ChrisKahrs/OCP-AI-Links/tree/master/3-Cognitive-Search) (Self-Paced) (2 Hours)
+* [Semantic Search Overview](https://docs.microsoft.com/en-us/azure/search/semantic-search-overview) (Self-Paced)
 
 ## Associate
 

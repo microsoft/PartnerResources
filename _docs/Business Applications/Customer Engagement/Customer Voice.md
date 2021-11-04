@@ -34,6 +34,7 @@ Additionally, some content may be marked with one or more icons:
 ## Associate
 
 { Add associate/mid-level items here; baseline content to be proficient with technology }
+* [Build Power BI Reports](https://docs.microsoft.com/en-us/learn/modules/create-customer-power-bi-reports/) (1 Hour)
 
 
 ## Expert

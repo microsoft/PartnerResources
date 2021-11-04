@@ -13,9 +13,11 @@ tags:
 
 #### {% raw %}[Azure Cognitive Search](cognitive-search){% endraw %}
 
+#### {% raw %}[Azure Cognitive Services](cognitive-services){% endraw %}
+
 #### {% raw %}[Azure Purview](azure-purview){% endraw %}
 
-#### {% raw %}[Conversational AI](ai-apps-agents){% endraw %}
+#### {% raw %}[Conversational AI](conversational-ai){% endraw %}
 
 #### {% raw %}[Cosmos DB](cosmos-db){% endraw %}
 
@@ -23,7 +25,7 @@ tags:
 
 #### {% raw %}[FHIR Powered Healthcare](fhir-powered-healthcare){% endraw %}
 
-#### {% raw %}[Knowledge Mining](knowledge-mining){% endraw %}
+#### {% raw %}[Knowledge Mining with Cognitive Search](knowledge-mining){% endraw %}
 
 #### {% raw %}[Machine Learning](machine-learning){% endraw %}
 

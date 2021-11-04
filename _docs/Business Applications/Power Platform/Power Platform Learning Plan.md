@@ -29,6 +29,7 @@ Keeping Up
 ## Keeping Up
 
 * [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+* [Renew your cert](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/is-your-certification-expiring-soon-renew-it-for-free-today/ba-p/2150405) (Self-Paced) (On-going)
 
 ## Fundamentals
 
@@ -56,6 +57,7 @@ Keeping Up
 * [Course MB-400T00-A: Microsoft Power Apps + Dynamics 365 Developer](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-400t00) (In-person Instructor Led) (3 Days)
 * [Implementing Customer Engagement Online Learning Path](https://docs.microsoft.com/en-us/learn/paths/implementing-customer-engagement-apps/) (Self-Paced) (5 Hours)
 * [Intro to developing with the Power Platform](https://docs.microsoft.com/en-us/learn/paths/intro-developing-power-platform/) (Self-Paced) (2 Hours)
+* [Power Apps Build Tools for Azure DevOps](https://devblogs.microsoft.com/premier-developer/power-apps-build-tools-for-azure-devops/) (Self-Paced)
 * [Extend Dynamics 365 Portals](https://docs.microsoft.com/en-us/learn/paths/extend-dynamics-365-portals/) (Self-Paced) (3 Hours)
 * [Extending the Common Data Service](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Self-Paced) (2 Hours)
 * [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-model-driven-app/) (Self-Paced) (4 Hours)
@@ -87,6 +89,8 @@ Keeping Up
 ## Technical Resources
 
 * [Power CAT Team](https://www.youtube.com/playlist?list=PLi9EhCY4z99W2QOTgbwhFZEjpqc8YZDVH) (YouTube videos)
+* [Partner Technical Success Channel](https://www.microsoft.com/en-us/us-partner-blog/2021/04/22/announcing-the-new-partner-technical-success-channel) (Other)
+* [Power Platform Blog](https://cloudblogs.microsoft.com/powerplatform) (Other)
 
 ## Events
 
@@ -94,6 +98,8 @@ Keeping Up
 
 ## Certifications
 
+* [Advanced Specializations](https://partner.microsoft.com/en-us/membership/advanced-specialization#tab-content-2) (Self-Paced)
+* [Renew Your Certification](https://docs.microsoft.com/en-us/learn/certifications/renew-your-microsoft-certification) (Self-Paced)
 * [Exam PL-200: Power Platform Functional Consultant Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200) (Self-Paced) (2 Hours)
 * [Exam PL-400: Microsoft Power Platform Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400) (Self-Paced) (2 Hours)
 * [Exam PL-600: Microsoft Power Platform Solution Architect (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600) (Self-Paced)

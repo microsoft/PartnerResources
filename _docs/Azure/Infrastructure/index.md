@@ -13,6 +13,8 @@ tags:
 
 #### {% raw %}[Azure Networking Resources](azure-networking-resources){% endraw %}
 
+#### {% raw %}[Azure Virtual Desktop](windows-virtual-desktop){% endraw %}
+
 #### {% raw %}[Azure VMware Solution](azure-vmware-solution){% endraw %}
 
 #### {% raw %}[Azure Well-Architected Framework](azure-well-architected-framework){% endraw %}
@@ -44,5 +46,3 @@ tags:
 #### {% raw %}[Windows Azure Firewall](windows-azure-firewall){% endraw %}
 
 #### {% raw %}[Windows Server Migration](windows-server-migration){% endraw %}
-
-#### {% raw %}[Windows Virtual Desktop](windows-virtual-desktop){% endraw %}

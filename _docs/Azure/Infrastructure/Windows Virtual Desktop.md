@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Windows Virtual Desktop
+title: Azure Virtual Desktop
 permalink: /azure/infrastructure/windows-virtual-desktop
 tags: 
  - azure

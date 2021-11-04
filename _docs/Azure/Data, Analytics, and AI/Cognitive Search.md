@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Conversational AI
+title: Retired Page
 permalink: /azure/data-analytics-ai/cognitive-search
 tags: 
  - azure
  - ai
  - cognitive search
+ - deprecated
 ---
 
-# Learning Plan Resources for Azure Cognitive Search
+# Link Update
 
-## Fundamentals
-
-* [Semantic Search Overview](https://docs.microsoft.com/en-us/azure/search/semantic-search-overview) (Self-Paced)
+We've been busy improving our Partner Learning Plan Resources... 
+<br />Please update your bookmark or referring link to reference the new {% raw %}[Knowledge Mining with Cognitive Search](knowledge-mining){% endraw %} Learning Plan Resources page.

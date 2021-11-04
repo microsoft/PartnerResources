@@ -1,0 +1,87 @@
+---
+layout: page
+title: 04 Implement Business Integration
+permalink: /azure/iot/assets/04ImplementBusinessIntegration
+tags: 
+ - azure
+ - iot
+---
+
+# AZ-220 Implement Business Integration (5-10%)
+
+* [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)
+* [Microsoft Certified: Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
+* [Microsoft Tech Community "Learn IoT" Conversation Space](https://aka.ms/iottechcommunity/learniot) - Where you can discuss IoT learning resources and homework questions 
+
+## Skills Measured:
+### Integrate with upstream and downstream systems
+* Set up input and output connections
+* Set up IoT Hub routing for triggering workflows test data interface integration
+* Integrate third-party solutions
+* Configure workflows, including rules and alerts
+
+### Develop Azure Digital Twins (ADT) solutions
+* Create ADT models and digital twins
+* Map IoT device data to ADT models and relationships
+* Ingest IoT device messages and translate messages to ADT
+* Configure routes and endpoints to trigger business logic and data processing
+* Query the ADT graph
+* Update properties on ADT entities in the graph
+* Monitor and troubleshoot ADT
+
+## Homework:
+### [AZ-220 IoT Labs](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer) 
+* Module 11: Develop with Azure Digital Twins
+  * [Lab 19: Develop Azure Digital Twins (ADT) solutions](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/Instructions/Labs/LAB_AK_19-azure-digital-twins.html)
+  <br />Exercise 1: Verify Lab Prerequisites
+  <br />Exercise 2 : Create an instance of the Azure Digital Twins (ADT) resource
+  <br />Exercise 3 - Map IoT device data to ADT models and relationships
+  <br />Exercise 4 - Create digital twin models and validate models
+  <br />Exercise 5 - Create a graph of the models
+  <br />Exercise 6 - Query the graph using ADT Explorer
+  <br />Exercise 7 - Configure and launch device simulator
+  <br />Exercise 8 - Set up Azure Function to ingest data
+  <br />Exercise 9 - Connect IoT Hub to the Azure Function
+  <br />Exercise 10 - Create an app service principal to access ADT APIs
+  <br />Exercise 11 - Call REST APIs with Postman
+  <br />Exercise 12 - Create a route and filter for twin update notification
+  <br />Exercise 13 - Connect ADT to Time Series Insights (TSI)
+
+### [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop) - 6-part webinar series on building solutions with Azure IoT
+* Part 4: [Understanding IoT Messaging processing, analytics, and business integration](https://www.youtube.com/watch?v=78FR6BFPSK0&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=4) - Learn more about IoT data types, storage options, analytics, stream processing, and business integration. After this session, follow the Hands on Labs found here: https://aka.ms/Training/LearnAzureIoT 
+
+## Quick Reference: Key Concepts and Terminology
+* What is Azure Digital Twins?
+  * Azure Digital Twins is a platform as a service (PaaS) offering for creating digital representations of real-world things, places, business processes, and people. 
+  * Build twin graphs that represent entire environments using twin types called models
+  * Use them to gain insights to drive better products, optimize operations and costs, and create breakthrough customer experiences. 
+  * Models are defined in a JSON-like language called [Digital Twins Definition Language (DTDL)](https://github.com/Azure/opendigitaltwins-dtdl/blob/master/DTDL/v2/dtdlv2.md), and they describe twins in terms of their state properties, telemetry events, commands, components, and relationships.
+  * Visualize your Azure Digital Twins graph in [Azure Digital Twins Explorer](https://docs.microsoft.com/en-us/azure/digital-twins/concepts-azure-digital-twins-explorer), which provides the following interface for interacting with your graph
+  * Data in your Azure Digital Twins model can be [routed to downstream Azure services](https://docs.microsoft.com/en-us/azure/digital-twins/overview#output-to-adx-tsi-storage-and-analytics) for additional analytics or storage using event routes with [Event Hub](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about), [Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/overview), or [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview) to drive your desired data flows.
+* A complete solution using Azure Digital Twins may contain the following parts:
+  * The Azure Digital Twins service instance - Stores your twin models and your twin graph with its state, and orchestrates event processing.
+  * One or more client apps that drive the Azure Digital Twins instance by configuring models, creating topology, and extracting insights from the twin graph.
+  * One or more external compute resources to process events generated by Azure Digital Twins, or connected data sources such as devices. One common way to provide compute resources is via [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview).
+  * An IoT hub to provide device management and IoT data stream capabilities.
+  * Downstream services to handle tasks such as workflow integration (like Logic Apps, cold storage, Azure Data Explorer, time series integration, or analytics).
+* Elements of a Model - A DTDL model interface may contain zero, one, or many of each of the following fields:
+  * *Property* - Properties are data fields that represent the state of an entity (like the properties in many object-oriented programming languages). Properties have backing storage and can be read at any time. For more information, see Properties and telemetry below.
+  * *Telemetry* - Telemetry fields represent measurements or events, and are often used to describe device sensor readings. Unlike properties, telemetry is not stored on a digital twin; it is a series of time-bound data events that need to be handled as they occur. For more information, see Properties and telemetry below.
+  * *Relationship* - Relationships let you represent how a digital twin can be involved with other digital twins. Relationships can represent different semantic meanings, such as contains ("floor contains room"), cools ("hvac cools room"), isBilledTo ("compressor is billed to user"), etc. Relationships allow the solution to provide a graph of interrelated entities. Relationships can also have properties of their own. For more information, see Relationships below.
+  * *Component* - Components allow you to build your model interface as an assembly of other interfaces, if you want. An example of a component is a frontCamera interface (and another component interface backCamera) that are used in defining a model for a phone. You must first define an interface for frontCamera as though it were its own model, and then you can reference it when defining Phone. Use a component to describe something that is an integral part of your solution but doesn't need a separate identity, and doesn't need to be created, deleted, or rearranged in the twin graph independently. If you want entities to have independent existences in the twin graph, represent them as separate digital twins of different models, connected by relationships. 
+
+## Resources
+* [Azure Digital Twins Overview](https://azure.microsoft.com/en-us/services/digital-twins/#overview)
+* [Video: Azure Digital Twins](https://azure.microsoft.com/en-us/resources/videos/azure-digital-twins-video/)
+* [Azure Digital Twins Documentation](https://docs.microsoft.com/en-us/azure/digital-twins/)
+* [Understand twin models in Azure Digital Twins](https://docs.microsoft.com/en-us/azure/digital-twins/concepts-models)
+* [Microsoft Learn: Develop with Azure Digital Twins (ADT) Learning Paths](https://docs.microsoft.com/en-us/learn/paths/develop-azure-digital-twins/)
+* [Azure Digital Twins Explorer](https://docs.microsoft.com/en-us/azure/digital-twins/concepts-azure-digital-twins-explorer)
+* [Quickstart: Get started with Azure Digital Twins Explorer](https://docs.microsoft.com/en-us/azure/digital-twins/quickstart-azure-digital-twins-explorer)
+* [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+* [Time Series Insights (TSI) Product Page](https://azure.microsoft.com/en-us/services/time-series-insights)
+* [Time Series Insights Documentation](https://docs.microsoft.com/en-us/azure/time-series-insights/time-series-insights-update-overview)
+* [Tutorial: Time Series Insights](https://docs.microsoft.com/en-us/azure/time-series-insights/tutorial-create-populate-tsi-environment)
+
+NOTE: In most cases, exams do NOT cover preview features, and some features will only be
+added to an exam when they are GA (General Availability).

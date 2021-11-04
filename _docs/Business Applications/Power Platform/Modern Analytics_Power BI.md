@@ -40,16 +40,16 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Power BI Documentaion](https://docs.microsoft.com/en-us/power-bi/) (Self-Paced)
 * [Consume data with Power BI](https://docs.microsoft.com/en-us/learn/paths/consume-data-with-power-bi/) (Self-Paced) (2 Hours)
 * [Course PL-900T00-A: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-900t00) (In-person Instructor Led) (2 Days)
-* [How to Govern: Part 3 | Power BI Adoption Framework](https://www.youtube.com/watch?v=Zf0lCaGCSuU&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=7&t=0s) (Self-Paced)
-* [Introduction to key roles: Part 3 | Power BI Adoption Framework](https://www.youtube.com/watch?v=CNq__EBhUCM&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=4&t=0s) (Self-Paced) (6 Minutes)
-* [Introduction to the framework: Part 2 | Power BI Adoption Framework](https://www.youtube.com/watch?v=N6m0XxA_m5c&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=3&t=0s) (Self-Paced) (12 Minutes)
-* [Introduction to the series: Part 1 | Power BI Adoption Framework](https://www.youtube.com/watch?v=e7Nb-XmrOfY&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=2&t=0s) (Self-Paced) (16 Minutes)
+* [Power BI Adoption Framework Part 1](https://www.youtube.com/watch?v=e7Nb-XmrOfY&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=2&t=0s) (Self-Paced) (16 Minutes)
+* [Power BI Adoption Framework Part 2](https://www.youtube.com/watch?v=N6m0XxA_m5c&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=3&t=0s) (Self-Paced) (12 Minutes)
+* [Power BI Adoption Framework Part 3](https://www.youtube.com/watch?v=CNq__EBhUCM&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=4&t=0s) (Self-Paced) (6 Minutes)
 * [Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/) (Self-Paced) (3 Hours)
-* [Power BI Service Management: how to manage | Power BI Adoption Framework](https://www.youtube.com/watch?v=w-bWBE1nA_0&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=10&t=0s) (Self-Paced) (35 Minutes)
-* [Power BI Service Management: licensing | Power BI Adoption Framework](https://www.youtube.com/watch?v=2CpdDLVUG8c&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=8&t=0s) (Self-Paced) (7 Minutes)
-* [Power BI Service Management: what to manage | Power BI Adoption Framework](https://www.youtube.com/watch?v=pElZcks5nsw&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=9&t=0s) (Self-Paced) (7 Minutes)
-* [What to Govern: Part 2 | Power BI Adoption Framework](https://www.youtube.com/watch?v=5n1JhQ8NLRw&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=6&t=0s) (Self-Paced) (5 Minutes)
-* [Why to Govern: Part 1 | Power BI Adoption Framework](https://www.youtube.com/watch?v=QIsbkWH15-A&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=5&t=0s) (Self-Paced) (5 Minutes)
+* [Power BI Service Management: how to manage](https://www.youtube.com/watch?v=w-bWBE1nA_0&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=10&t=0s) (Self-Paced) (35 Minutes)
+* [Power BI Service Management: licensing](https://www.youtube.com/watch?v=2CpdDLVUG8c&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=8&t=0s) (Self-Paced) (7 Minutes)
+* [Power BI Service Management: what to manage](https://www.youtube.com/watch?v=pElZcks5nsw&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=9&t=0s) (Self-Paced) (7 Minutes)
+* [Why to Govern: Part 1-Power BI Adoption Framework](https://www.youtube.com/watch?v=QIsbkWH15-A&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=5&t=0s) (Self-Paced) (5 Minutes)
+* [What to Govern: Part 2-Power BI Adoption Framework](https://www.youtube.com/watch?v=5n1JhQ8NLRw&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=6&t=0s) (Self-Paced) (5 Minutes)
+* [How to Govern: Part 3-Power BI Adoption Framework](https://www.youtube.com/watch?v=Zf0lCaGCSuU&list=PL1N57mwBHtN0UZbEgLHtA1yxqPlae3B90&index=7&t=0s) (Self-Paced) (30 Minutes)
 
 ## Associate
 
@@ -57,6 +57,9 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Create and use analytics reports with Power BI](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) (Self-Paced) (6 Hours)
 * [Dashboard in a Day](https://powerbi.microsoft.com/en-us/diad/) (Self-Paced) (1 Day)
 * [Power BI for Tableau Users](https://docs.microsoft.com/en-us/learn/paths/power-bi-tableau/) (Self-paced) (6 Hours)
+* [DAX Learning Path](https://docs.microsoft.com/en-us/learn/paths/dax-power-bi/) (Self-Paced) (2 Hours)
+* [Power BI Instructor Led Training](https://powerbi.microsoft.com/en-us/instructor-led-training) (8 hours +)
+* [Design effective reports in Power BI](https://docs.microsoft.com/en-us/learn/paths/power-bi-effective/) (5 Hours)
 
 ## Expert
 
@@ -79,6 +82,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Power BI Sample Apps](https://docs.microsoft.com/en-us/power-bi/create-reports/sample-datasets) (Self-Paced)
 * [Power BI Release Plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave2/power-bi/planned-features) (Self-Paced)
 * [Power BI Adoption Framework](https://github.com/pbiaf/powerbiadoption) (Self-Paced)
+* [Guy in a Cube](https://guyinacube.com/) (Self-Paced)
 
 ## Community Resources
 

@@ -11,7 +11,7 @@ tags:
 
 # Customer Data Platform Learning Plan Resources
 
-Welcome to the Microsoft US One Commercial Partner (OCP) Learning Plan Resources repository for the Customer Data Platform
+Welcome to the Microsoft Global Partner Solutions (GPS) Learning Plan Resources repository for the Customer Data Platform
 
 ## What are Learning Plan Resources?
 
