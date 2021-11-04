@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Modern Analytics Academy
+title: Modern Analytics Academy Overview
 permalink: /azure/data-analytics-ai/modern-analytics-academy-overview
 tags: 
  - azure
