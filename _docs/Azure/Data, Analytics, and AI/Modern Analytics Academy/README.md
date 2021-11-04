@@ -9,6 +9,7 @@ tags:
 ---
 
 # Modern Analytics Academy
+
 ##  Content
 * Modern Analytics Academy Home
 * [Modern Analytics Overview](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-overview)
@@ -18,11 +19,12 @@ tags:
 * [Module 4: Data Governance](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-governance)
 * [Module 5: Visualization](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-visualization)
 
-(Test 7) Welcome to the Modern Analytics Academy (MAA)!
+(Test 8) Welcome to the Modern Analytics Academy (MAA)!
 
 The Modern Analyics Academy consists of several modules designed to illustrate and upskill on modern techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. 
 
 The content is designed to be highly integrated but loosely coupled: each module stands on its own, while collectively representing a cohesive piece of modern-day analytical solutions. If you just want to dive into Power BI or Data Governance, for example, you can simply pick those modules. Those new to Azure or Analytics in general may prefer to work through all modules, starting with the Overview.
+
 ## Live Schedule
 
 If you'd like to check out the series live, please use these following links:
@@ -97,13 +99,6 @@ Refer to links below for the module breakouts.
 <td colspan="5" style="text-align: center;">Hands-on Learning</td>
 </tr>
 </table>
-
-* [Modern Analytics Overview](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-overview)
-* [Module 1: Data Acquisition and Storage](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-acquisition)
-* [Module 2: Data Modeling](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-modeling)
-* [Module 3: Data Pipelines](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-pipelines)
-* [Module 4: Data Governance](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-governance)
-* [Module 5: Visualization](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-visualization)
 
 ## Hands-on provisioned Environments
 
