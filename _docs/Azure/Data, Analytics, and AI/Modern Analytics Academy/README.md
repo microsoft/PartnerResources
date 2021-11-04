@@ -8,7 +8,9 @@ tags:
  - analytics
 ---
 
-### Modern Analytics Academy Content
+# Modern Analytics Academy
+
+##  Content
 * Modern Analytics Academy Home
 * [Modern Analytics Overview](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-overview)
 * [Module 1: Data Acquisition and Storage](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-acquisition)
@@ -17,9 +19,7 @@ tags:
 * [Module 4: Data Governance](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-governance)
 * [Module 5: Visualization](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-visualization)
 
-# Modern Analytics Academy
-
-(Test 5) Welcome to the Modern Analytics Academy (MAA)!
+(Test 6) Welcome to the Modern Analytics Academy (MAA)!
 
 The Modern Analyics Academy consists of several modules designed to illustrate and upskill on modern techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. 
 
