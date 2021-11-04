@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Modern Analytics Academy
+layout: workshop
+title: Modern Analytics Academy - Governance
 permalink: /azure/data-analytics-ai/modern-analytics-academy-data-governance
 tags: 
  - azure
@@ -9,11 +9,16 @@ tags:
  - governance
 ---
 
-**[Home](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy)** 
-
 # Modern Analytics Academy - Data Governance
 
-(more information coming soon as the content is completed)
+##  Content
+* [Modern Analytics Academy Home](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy)
+* [Modern Analytics Overview](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-overview)
+* [Module 1: Data Acquisition and Storage](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-acquisition)
+* [Module 2: Data Modeling](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-modeling)
+* [Module 3: Data Pipelines](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-pipelines)
+* Module 4: Data Governance
+* [Module 5: Visualization](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-visualization)
 
 Welcome to the Modern Analytics Academy (MAA)!
 

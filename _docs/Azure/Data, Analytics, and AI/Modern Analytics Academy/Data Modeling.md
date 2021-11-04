@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Modern Analytics Academy
+layout: workshop
+title: Modern Analytics Academy - Modeling
 permalink: /azure/data-analytics-ai/modern-analytics-academy-data-modeling
 tags: 
  - azure
@@ -8,9 +8,16 @@ tags:
  - analytics
 ---
 
-**[Home](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy)** 
-
 # Modern Analytics Academy - Data Modeling
+
+##  Content
+* [Modern Analytics Academy Home](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy)
+* [Modern Analytics Overview](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-overview)
+* [Module 1: Data Acquisition and Storage](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-acquisition)
+* Module 2: Data Modeling
+* [Module 3: Data Pipelines](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-pipelines)
+* [Module 4: Data Governance](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-governance)
+* [Module 5: Visualization](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-visualization)
 
 (more information coming soon as the content is completed)
 
