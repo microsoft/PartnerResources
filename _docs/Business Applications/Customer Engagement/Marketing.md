@@ -55,7 +55,6 @@ Below you will find content to assist in upskilling on Dynamics 365 Marketing. C
 
 ## Certifications
 
-Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Exam MB-200:  Microsoft Dynamics 365 Power Platform + Dynamics Core](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200)
 * [Exam MB-220: Microsoft Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220)
 
