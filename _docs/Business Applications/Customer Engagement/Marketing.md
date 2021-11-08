@@ -19,11 +19,11 @@ Below you will find content to assist in upskilling on Dynamics 365 Marketing. C
 
 * '$' to indicate paid content
 * '3rd Party' to indicate 3rd party content (not created by Microsoft)
+* Navigation Tip - to open each link, right-click on the URL | select Open in new tab
 
 
 ## Fundamentals
 
-Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Learn How to Pitch Dynamics 365 Marketing](https://dynamicspartners.transform.microsoft.com/products/dynamics-365-marketing?tab=go-to-market) (MPN Portal) (2 Minutes)
 * [Bookmark Dynamics 365 Marketing Forum](https://community.dynamics.com/365/marketing/f/dynamics-365-for-marketing-forum) (Self-Paced) (1 Minute)
 * [Bookmark Dynamics 365 Marketing Product Roadmap](https://dynamics.microsoft.com/en-us/roadmap/overview/) (Microsoft Docs) (2 Minutes)
@@ -34,14 +34,11 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Watch the Dynamics 3665 Marketing video playlist on YouTube](https://www.youtube.com/playlist?list=PLcakwueIHoT_cV1n1es1YJt_T2A5u-XpR) (1 Hour)
 * [Download Dynamics 365 Marketing Partner Sales Sales Playbook](https://aka.ms/d365marketing/salestools) (Self-Paced) (5 Minutes)
 * [Watch the Dynamics 365 Marketing in a Day workshop](https://aka.ms/d365marketing/miad) (Self-Paced) (2 hours, 45 Minutes)
-
-### D365 Marketing Assets
-* [Dynamics 365 Marketing Getting Started Tutorial PDF](/LearningPlanResources/Business%20Applications/Customer%20Engagement/assets/Marketing/D365M%20Getting%20Started%20tutorial.pdf)
-* [Dynamics 365 Marketing One Stop Document](/LearningPlanResources/Business%20Applications/Customer%20Engagement/assets/Marketing/D365Marketing_OneStopDocument.docx)
+* [Dynamics 365 Marketing One Stop Document] (Aka.ms/ocp/d365marketing)
+* 
 
 ## Associate
 
-Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Work with core features in Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/paths/work-core-features-marketing/) (Microsoft Learn) (6 Hours)
 * [Review the Dynamics 365 Marketing Administrator Guide](https://docs.microsoft.com/en-us/dynamics365/marketing/admin-guide) (Microsoft Docs) (2 Minutes)
 * [Review the Dynamics 365 Marketing Real Time Marketing User Guide](https://docs.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-user-guide) (2 minutes)
@@ -49,10 +46,10 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Tech Talk: Implementing Dynamics 365 Marketing Fast Track](https://community.dynamics.com/365/b/techtalks/posts/implementing-dynamics-365-marketing-january-15-2020) (Self-Paced) (1 Hour)
 * [Analyze insights in Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/paths/analyze-marketing-insights/) (Microsoft Learn) (2 Hours)
 * [Manage events in Dynamics 365 Marketing](https://docs.microsoft.com/en-us/learn/paths/manage-events-dynamics-365-marketing/) (Microsoft Learn) (5 Hours)
+* [Manage environments in Dynamics 365 Marketing](https://docs.microsoft.com/en-us/dynamics365/marketing/manage-marketing-environments) (Microsoft Docs)
 
 ## Expert
 
-Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Read the Marketing Developer Guide](https://docs.microsoft.com/en-us/dynamics365/marketing/developer/marketing-developer-guide) (Microsoft Docs) (2 Minutes)
 * [Customize Dynamics 365 Marketing](https://docs.microsoft.com/en-us/dynamics365/marketing/customize) (Microsoft Docs) (2 Minutes)
 * [Manage Data protection and GDPR in Dynamics 365 Marketing](https://docs.microsoft.com/en-us/dynamics365/marketing/gdpr) (Microsoft Docs) (2 Minutes)
@@ -68,4 +65,5 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Review Dynamics 365 Ideas Portal](https://experience.dynamics.com/ideas/categories/?forum=dfa5b83d-9e4c-e811-a956-000d3a1bef07&forumName=Dynamics%20365%20for%20Marketing) (Self-Paced) (2 Minutes)
 *	[Go to Market (GTM) Dynamics 365 Marketing Assets on BizApps Hub](https://businessapplications.transform.microsoft.com/dynamics/customer-engagement?tab=marketing)
 *	[Go to Market (GTM) Dynamics 365 Marketing Assets on MPN](https://aka.ms/mpn/d365marketing)
+*	[Submit your ideas for proudct improvements](https://experience.dynamics.com/ideas/categories/?forum=dfa5b83d-9e4c-e811-a956-000d3a1bef07&forumName=Dynamics%20365%20for%20Marketing)
 
