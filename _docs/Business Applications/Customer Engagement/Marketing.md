@@ -35,7 +35,6 @@ Below you will find content to assist in upskilling on Dynamics 365 Marketing. C
 * [Download Dynamics 365 Marketing Partner Sales Sales Playbook](https://aka.ms/d365marketing/salestools) (Self-Paced) (5 Minutes)
 * [Watch the Dynamics 365 Marketing in a Day workshop](https://aka.ms/d365marketing/miad) (Self-Paced) (2 hours, 45 Minutes)
 * [Dynamics 365 Marketing One Stop Document] (Aka.ms/ocp/d365marketing)
-* 
 
 ## Associate
 
