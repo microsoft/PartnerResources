@@ -102,7 +102,19 @@ Refer to links below for the module breakouts.
 
 ## Hands-on provisioned Environments
 
-We're working to provide lab environments for the various modules. Details will be updated soon!
+Want to go hands-on with a fully provisioned environment? Check out our Modern Analytics Academy lab environments hosted by Spektra Systems, available for a limited time.
+
+* Sign-up link: [https://bit.ly/3COKiz1](https://bit.ly/3COKiz1w)
+* Activation code: ACTIVATE1365
+
+The lab environments available are listed below. The source content is available if you'd like to see what's covered in each lab -- however, the lab environment will display all of this info for you as you progress through the lab. Once the lab environment is started, there is a limited time to complete the lab due to the number of resources provisioned. If you'd like to keep all of the assets as you go through the lab, we recommend following the lab guides listed below and deploy the resources into your  Azure account. 
+
+| Lab Name | Time | Content | 
+|----------|------|---------|
+| Azure Synapse Analytics and AI | 8 hours | [Lab](https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI/blob/master/Hands-on%20lab/HOL%20step-by%20step%20-%20Azure%20Synapse%20Analytics%20and%20AI.md) |
+| Analytics In a Day - Synapse | 4 hours | [Lab](https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI/blob/master/Hands-on%20lab/HOL%20step-by%20step%20-%20Azure%20Synapse%20Analytics%20and%20AI.md) |
+| Simplifying data flows with Azure Data Factory | 8 hours | [Lab](https://github.com/solliancenet/tech-immersion-data-ai/blob/master/data-exp5/README.md) |
+| Modern Data Warehouse with Azure Synapse Analytics, Azure Databricks, Azure Data Factory, and Power BI | 4 hours | [Lab](https://github.com/solliancenet/tech-immersion-data-ai/blob/master/data-exp6/README.md) |
 
 ## Contributions
 
@@ -114,5 +126,3 @@ The core team of individuals:
 * Brian Hitney
 * Chris Mitchell
 * Jason Virtue
-
-updated Nov 4 12:34pm ET
