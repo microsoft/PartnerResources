@@ -36,10 +36,6 @@ If you'd like to check out the series live, please use these following links:
 * Nov 30, 2021 2pm ET [Modern Analytics Academy: Data Governance](https://msuspartners.eventbuilder.com/event/50235)
 * Dec 7, 2021 2pm ET [Modern Analytics Academy: Visualization](https://msuspartners.eventbuilder.com/event/50236)
 
-## Hands-on Content
-
-Each module contains several options for hands-on learning. In most cases, there are multiple options available designed to meet your specific skilling needs, from simple tutorial/demo content to more advanced workshops and labs. We understand that some people may just want to see demos while others want to dive deep, or somewhere in between. Use the content that best suits you!
-
 ## Table of Contents
 
 The structure of the content is represented in the table below; the overview session is a high level overview focusing on concepts and principles, while each of the 'module' sessions, Data Acquisition through Visualiztion, will be more in-depth. Each session will contain one or more presentations, with several suggested labs and workshop content in each module designed to accomodate various skill levels and time availability.
@@ -104,7 +100,7 @@ Refer to links below for the module breakouts.
 
 Want to go hands-on with a fully provisioned environment? Check out our Modern Analytics Academy lab environments hosted by Spektra Systems, available for a limited time. The environments are only available to United States based partners.
 
-* Sign-up link: [https://bit.ly/3COKiz1](https://bit.ly/3COKiz1w)
+* Sign-up link: [https://bit.ly/3COKiz1](https://bit.ly/3COKiz1)
 * Activation code: ACTIVATE1365
 
 The lab environments available are listed below. The source content is available if you'd like to see what's covered in each lab -- however, the lab environment will display all of this info for you as you progress through the lab. Once the lab environment is started, there is a limited time to complete the lab due to the number of resources provisioned. If you'd like to keep all of the assets as you go through the lab, we recommend following the lab guides listed below and deploy the resources into your  Azure account. 
