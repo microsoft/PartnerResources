@@ -13,6 +13,7 @@ tags:
 # Modern Analytics Academy - Overview
 
 ##  Content
+
 * [Modern Analytics Academy Home](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy)
 * Modern Analytics Overview
 * [Module 1: Data Acquisition and Storage](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-acquisition)
@@ -31,7 +32,6 @@ The Overview session is designed to give an overall picture of modern analytics 
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
 * [Modern Analytics Academy - Overview recording](https://www.youtube.com/watch?v=mk31vgGCzy4)
 [![Modern Analytics Academy Overview](https://img.youtube.com/vi/mk31vgGCzy4/0.jpg)](https://www.youtube.com/watch?v=mk31vgGCzy4)
-
 
 ## Hands-on Content
 
