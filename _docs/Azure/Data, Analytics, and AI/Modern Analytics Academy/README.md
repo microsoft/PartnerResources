@@ -102,7 +102,7 @@ Refer to links below for the module breakouts.
 
 ## Hands-on provisioned Environments
 
-Want to go hands-on with a fully provisioned environment? Check out our Modern Analytics Academy lab environments hosted by Spektra Systems, available for a limited time.
+Want to go hands-on with a fully provisioned environment? Check out our Modern Analytics Academy lab environments hosted by Spektra Systems, available for a limited time. The environments are only available to United States based partners.
 
 * Sign-up link: [https://bit.ly/3COKiz1](https://bit.ly/3COKiz1w)
 * Activation code: ACTIVATE1365
