@@ -38,6 +38,10 @@ Each module contains several options for hands-on learning. In most cases, there
 
 ## Suggessted HOL / Workshops
 
-### Level 100
+* [Load New York Taxicab Data](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/load-data-from-azure-blob-storage-using-copy) - In this tutorial, you will learn how to use the COPY statement to load New York Taxicab dataset into an Azure Synapse Dedicated SQL Pool from an Azure Blob Storage account.
 
-### Level 200
+* [Use Serverless SQL Pool to Create a Logical Data Warehouse](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-logical-data-warehouse) - In this tutorial, you will learn how to create a Logical Data Warehouse (LDW) on top of Azure storage and Azure Cosmos DB.
+
+* [Query Delta format using Synapse SQL Serverless Pool](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/query-delta-lake-format#quickstart-example) - In this tutorial, you'll learn how to write a query using serverless Synapse SQL pool to read Apache Delta Lake files.
+
+* [Connect Serverless SQL Pool to Power BI](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-connect-power-bi-desktop) - In this tutorial, you will learn how to create VIEWS within a Synapse SQL Serverless Database, and build a Power BI Report off of those VIEWS.
