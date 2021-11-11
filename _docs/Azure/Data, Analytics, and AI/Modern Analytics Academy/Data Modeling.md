@@ -21,11 +21,16 @@ tags:
 
 (more information coming soon as the content is completed)
 
-Welcome to the Modern Analytics Academy (MAA)!
+Welcome to the Modern Analytics Academy (MAA) - Data Modeling!
 
-The Modern Analyics Academy consists of several modules designed to illustrate and upskill on modern techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. 
+In Data Modeling we'll look at how to Structure a Data Lake, and how to leverage technologies like Synapse Spark, Synapse SQL, and Synapse Serverless SQL in conjunction with technologies like Delta to provde a mechanism for users and downstream visualization tools to query and explore data.
 
-The content is designed to be highly integrated but loosely coupled: each module stands on its own, while collectively representing a cohesive piece of common modern-day analytical solutions. If you just want to dive into Power BI or Data Governance, for example, you can simply pick those modules. Those new to Azure or Analytics in general may prefer to work through all modules.
+## Main Presentation
+
+* [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Data%20Modeling.pptx)
+* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
+* [Modern Analytics Academy - Data Modeling](https://www.youtube.com/watch?v=eQ-7o5cYM3I)
+[![Modern Analytics Academy Data Modeling](https://img.youtube.com/vi/eQ-7o5cYM3I/0.jpg)](https://www.youtube.com/watch?v=eQ-7o5cYM3I)
 
 ## Hands-on Content
 
