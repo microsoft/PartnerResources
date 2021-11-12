@@ -48,3 +48,4 @@ tags:
 * Retired [Exam MB-400: Microsoft Dynamics 365 Power Apps + Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400) (Self-Paced) (2 Hours)
 * [MB-200: Microsoft Power Platform + Dynamics 365 Core Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-200-microsoft-power-platform-plus-dynamics-365-core#/) (Self-Paced) (10 Hours)
 * [MB-210: Microsoft Dynamics 365 Sales Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-210-microsoft-dynamics-365-sales#/) (Self-Paced) (3 Hours)
+* [Microsoft Champion Program](https://adoption.microsoft.com/become-a-champion/) (Self-paced)
