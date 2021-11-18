@@ -48,6 +48,8 @@
           url: "industry/nonprofit"
         - title: Retail
           url: "industry/retail"
+        - title: Retail
+          url: "industry/sustainability"
     - title: Modern Workplace + Security
       url: "modern-workplace"
       children:
