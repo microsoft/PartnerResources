@@ -19,7 +19,7 @@ tags:
 #### {% raw %}[Manufacturing](manufacturing){% endraw %}
 #### {% raw %}[Nonprofit](nonprofit){% endraw %}
 #### {% raw %}[Retail](retail){% endraw %}
-#### {% raw %}[Retail](Sustainability){% endraw %}
+#### {% raw %}[Sustainability](Sustainability){% endraw %}
 
 <!-- Not implemented -->
 <!-- #### {% raw %}[Retail](retail){% endraw %} -->
