@@ -7,9 +7,9 @@ tags:
  - sustainability
 ---
 
-# Learning Plan Resources for Sustainability
+# Learning Plan Resources for Microsoft Cloud for Sustainability
 
-{ Description of Learning Plan }
+Microsoft Cloud for Sustainability is an extensible SaaS solution that enables organizations at any stage of their sustainability journey to record, report, and reduce emissions through their enterprise and their value chain. It integrates previously disparate solutions into a new system of record that enables comprehensive, integrated, and automated sustainability management
 
 Content is broken down as follows:
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
