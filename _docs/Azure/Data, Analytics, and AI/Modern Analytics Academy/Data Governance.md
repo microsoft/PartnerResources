@@ -20,11 +20,21 @@ tags:
 * Module 4: Data Governance
 * [Module 5: Visualization](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-visualization)
 
-Welcome to the Modern Analytics Academy (MAA)!
+Welcome to the Modern Analytics Academy (MAA) - Data Governance with Azure Purview!
 
-The Modern Analytics Academy consists of several modules designed to illustrate and upskill on modern techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. 
+Data Governance is defined as the people, processes, and technology needed to securely and properly handle data across an organization. Azure Purview has been designed to help curate, identify, and manage that data, whether it be on-premises, in Azure, or in another cloud.
 
-The content is designed to be highly integrated but loosely coupled: each module stands on its own, while collectively representing a cohesive piece of common modern-day analytical solutions. If you just want to dive into Power BI or Data Governance, for example, you can simply pick those modules. Those new to Azure or Analytics in general may prefer to work through all modules.
+In the main session, we'll explore Azure Purview's main features, with a number of demos and examples for you to explore on your own. In addition, we're providing additional content to help in related topics, as we can't get to it all in a single session.
+
+## Main Presentation
+
+coming soon
+
+## Resources
+
+* [Kafka and Purview Integration](https://docs.microsoft.com/en-us/azure/purview/manage-kafka-dotnet)
+* [Tutorial: Using the REST APIs](https://docs.microsoft.com/en-us/azure/purview/tutorial-using-rest-apis)
+* [Github: PyApacheAtlas Project](https://github.com/wjohnson/pyapacheatlas)
 
 ## Hands-on Content
 
@@ -32,6 +42,6 @@ Each module contains several options for hands-on learning. In most cases, there
 
 ## Suggessted HOL / Workshops
 
-### Level 100
-
-### Level 200
+* [Azure Purview Demo Environment Tutorial](https://github.com/tayganr/purviewdemo)
+* [Azure Purview Lab](https://github.com/tayganr/purviewlab)
+* [Azure Purview Starter Kit](https://github.com/Azure/Azure-Purview-Starter-Kit)
