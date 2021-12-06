@@ -28,6 +28,7 @@ In Data Acquisition and Storage we’ll look at the nuances of how to integrate 
 * [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Data%20Acquisition%20and%20Storage.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
 * [Modern Analytics Academy - Data Acquisition and Storage](https://www.youtube.com/watch?v=sdiaojWtz1Y)
+
 [![Modern Analytics Academy Data Acquisition and Storage](https://img.youtube.com/vi/sdiaojWtz1Y/0.jpg)](https://www.youtube.com/watch?v=sdiaojWtz1Y)
 
 
