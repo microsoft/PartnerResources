@@ -31,6 +31,7 @@ In the main session, we'll explore Azure Purview's main features, with a number 
 * [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Data%20Governance.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
 * [Modern Analytics Academy - Data Governance](https://www.youtube.com/watch?v=QAfUOnWF9Ro)
+
 [![Modern Analytics Academy Data Governance](https://img.youtube.com/vi/QAfUOnWF9Ro/0.jpg)](https://www.youtube.com/watch?v=QAfUOnWF9Ro)
 
 
