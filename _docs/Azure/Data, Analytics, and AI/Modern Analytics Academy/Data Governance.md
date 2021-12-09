@@ -24,7 +24,7 @@ Welcome to the Modern Analytics Academy (MAA) - Data Governance with Azure Purvi
 
 Data Governance is defined as the people, processes, and technology needed to securely and properly handle data across an organization. Azure Purview has been designed to help curate, identify, and manage that data, whether it be on-premises, in Azure, or in another cloud.
 
-In the main session, we'll explore Azure Purview's main features, with a number of demos and examples for you to explore on your own. In addition, we're providing additional content to help in related topics, as we can't get to it all in a single session.
+In the main session, we'll explore Azure Purview's main features, with a number of demos and examples for you to explore on your own. In addition, we're providing additional content to help in related topics, as we can't get to it all in a single session (coming soon).
 
 ## Main Presentation
 

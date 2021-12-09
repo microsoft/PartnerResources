@@ -21,11 +21,16 @@ tags:
 
 (more information coming soon as the content is completed)
 
-Welcome to the Modern Analytics Academy (MAA)!
+Welcome to the Modern Analytics Academy (MAA) - Visualization session!
 
-The Modern Analytics Academy consists of several modules designed to illustrate and upskill on modern techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. 
 
-The content is designed to be highly integrated but loosely coupled: each module stands on its own, while collectively representing a cohesive piece of common modern-day analytical solutions. If you just want to dive into Power BI or Data Governance, for example, you can simply pick those modules. Those new to Azure or Analytics in general may prefer to work through all modules.
+## Main Presentation
+
+* [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Visualization.pptx)
+* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
+* [Modern Analytics Academy - Visualization](https://www.youtube.com/watch?v=eHswo4mPAiI)
+
+[![Modern Analytics Academy Visualization](https://img.youtube.com/vi/eHswo4mPAiI/0.jpg)](https://www.youtube.com/watch?v=eHswo4mPAiI)
 
 ## Hands-on Content
 
