@@ -32,8 +32,8 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 
 * [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
 
-* [Dynamics 365 2020 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/)
-* [Power Platform 2020 release wave 2](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave2/)
+* [Dynamics 365 2021 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave2/)
+* [Power Platform 2021 release wave 2](https://docs.microsoft.com/en-us/power-platform-release-plan/2021wave2/)
 
 * [Dynamics 365 Customer Service 2021 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave2/service/dynamics365-customer-service/get-started)
 
@@ -51,7 +51,7 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 * [Create a model-driven app in Power Apps](https://docs.microsoft.com/en-us/learn/paths/create-app-models-business-processes/) (Microsoft Learn) (1 Hour)
 * [Work with Microsoft Power Platform tenants, environments, subscription and Dynamics 365 apps](https://docs.microsoft.com/en-us/learn/paths/implementing-customer-engagement-apps/) (Microsoft Learn) (5 Hours)
 * [Work with Customer Service Insights](https://docs.microsoft.com/en-us/learn/paths/work-customer-service-insights/) (Microsoft Learn) (1.5 Hours)
-* [Extend Dynamics 365 Portals](https://docs.microsoft.com/en-us/learn/paths/extend-dynamics-365-portals/) (Microsoft Learn) (3 Hours)
+* [Extend Power Apps Portals](https://docs.microsoft.com/en-us/learn/paths/extend-dynamics-365-portals/) (Microsoft Learn) (3 Hours)
 * [Extending Microsoft Power Platform Dataverse](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Microsoft Learn) (2 Hours)
 
 ## Expert
