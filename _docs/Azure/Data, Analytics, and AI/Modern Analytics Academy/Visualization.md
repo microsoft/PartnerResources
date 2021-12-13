@@ -19,10 +19,9 @@ tags:
 * [Module 4: Data Governance](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-governance)
 * Module 5: Visualization
 
-(more information coming soon as the content is completed)
-
 Welcome to the Modern Analytics Academy (MAA) - Visualization session!
 
+In this session, we dive into Power BI.
 
 ## Main Presentation
 
@@ -32,12 +31,15 @@ Welcome to the Modern Analytics Academy (MAA) - Visualization session!
 
 [![Modern Analytics Academy Visualization](https://img.youtube.com/vi/eHswo4mPAiI/0.jpg)](https://www.youtube.com/watch?v=eHswo4mPAiI)
 
-## Hands-on Content
+## Resources
 
-Each module contains several options for hands-on learning. In most cases, there are multiple options available designed to meet your specific skilling needs, from simple tutorial/demo content to more advanced workshops. We understand that some people may just want to see demos while others want to dive deep; most are somewhere in between. Use the content that best suits you!
+* [Power BI Whitepaper on Deployment Options](https://aka.ms/PBIEnterpriseDeploymentWP)
+* [Contoso Sales Demo Github repo](https://github.com/microsoft/Power-BI-Embedded-Contoso-Sales-Demo)
+* [Power BI Data Flow Whitepaper](https://go.microsoft.com/fwlink/?linkid=2011419&clcid=0x409)
 
 ## Suggessted HOL / Workshops
 
-### Level 100
+* [Paginated Reports in a Day Series](https://docs.microsoft.com/en-us/power-bi/learning-catalog/paginated-reports-online-course)
+* [Developer in a Day Series](https://docs.microsoft.com/en-us/power-bi/learning-catalog/developer-online-course)
+* [Power BI2AI WhatTheHack](https://github.com/microsoft/WhatTheHack/blob/master/018-BI2AI/README.md)
 
-### Level 200
