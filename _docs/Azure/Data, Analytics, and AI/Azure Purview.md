@@ -3,9 +3,11 @@ layout: page
 title: Azure Purview
 permalink: /azure/data-analytics-ai/azure-purview
 tags: 
- - azure
- - purview
- - data
+- azure
+- data, analytics, and ai
+- learning plan
+- purview
+- governance
 ---
 
 # Learning Plan Resources for Azure Purview

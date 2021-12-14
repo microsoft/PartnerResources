@@ -3,10 +3,12 @@ layout: page
 title: Retired Page
 permalink: /azure/data-analytics-ai/ai-apps-agents
 tags: 
- - azure
- - ai
- - bot service
- - deprecated
+- azure
+- data, analytics, and ai
+- learning plan
+- ai
+- bot service
+- deprecated
 ---
 
 # Link Update

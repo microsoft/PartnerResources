@@ -3,12 +3,13 @@ layout: page
 title: Databricks
 permalink: /azure/data-analytics-ai/databricks
 tags: 
- - azure
- - databricks
- - big data
- - machine learning
+- azure
+- data, analytics, and ai
+- learning plan
+- databricks
+- big data
+- machine learning
 ---
-
 
 # Learning Plan Resources for Azure Databricks
 

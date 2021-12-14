@@ -3,9 +3,11 @@ layout: page
 title: Cognitive Services
 permalink: /azure/data-analytics-ai/cognitive-services
 tags: 
- - azure
- - ai
- - cognitive services
+- azure
+- data, analytics, and ai
+- learning plan
+- ai
+- cognitive services
 ---
 
 # Learning Plan Resources for Cognitive Services

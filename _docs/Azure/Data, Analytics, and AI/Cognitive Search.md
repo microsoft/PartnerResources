@@ -3,10 +3,12 @@ layout: page
 title: Retired Page
 permalink: /azure/data-analytics-ai/cognitive-search
 tags: 
- - azure
- - ai
- - cognitive search
- - deprecated
+- azure
+- data, analytics, and ai
+- learning plan
+- ai
+- cognitive search
+- deprecated
 ---
 
 # Link Update

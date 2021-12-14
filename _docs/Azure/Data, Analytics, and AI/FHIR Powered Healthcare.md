@@ -3,9 +3,11 @@ layout: page
 title: FHIR Powered Healthcare
 permalink: /azure/data-analytics-ai/fhir-powered-healthcare
 tags: 
- - azure
- - healthcare
- - analytics
+- azure
+- data, analytics, and ai
+- learning plan
+- healthcare
+- analytics
 ---
 
 # Learning Plan Resources for FHIR Powered Healthcare

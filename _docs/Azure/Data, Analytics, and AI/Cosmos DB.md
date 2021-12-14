@@ -3,9 +3,11 @@ layout: page
 title: Cosmos DB
 permalink: /azure/data-analytics-ai/cosmos-db
 tags: 
- - azure
- - big data
- - cosmos db
+- azure
+- data, analytics, and ai
+- learning plan
+- big data
+- cosmos db
 ---
 
 # Learning Plan Resources for Cosmos DB

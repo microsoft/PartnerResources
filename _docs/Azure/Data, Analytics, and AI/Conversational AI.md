@@ -3,9 +3,11 @@ layout: page
 title: Conversational AI
 permalink: /azure/data-analytics-ai/conversational-ai
 tags: 
- - azure
- - ai
- - bot service
+- azure
+- data, analytics, and ai
+- learning plan
+- ai
+- bot service
 ---
 
 # Learning Plan Resources for Conversational AI

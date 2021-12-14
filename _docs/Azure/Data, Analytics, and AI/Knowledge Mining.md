@@ -3,9 +3,11 @@ layout: page
 title: Knowledge Mining with Cognitive Search
 permalink: /azure/data-analytics-ai/knowledge-mining
 tags: 
- - azure
- - knowledge mining
- - cognitive services
+- azure
+- data, analytics, and ai
+- learning plan
+- knowledge mining
+- cognitive services
 ---
 
 # Learning Plan Resources for Knowledge Mining with Cognitive Search
