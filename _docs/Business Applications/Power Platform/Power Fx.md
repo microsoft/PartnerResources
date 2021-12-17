@@ -1,3 +1,13 @@
+---
+layout: page
+title: Power Fx
+permalink: /business-applications/power-platform/power-fx
+tags:
+ - business-applications
+ - power-platform
+ - power-fx
+---
+
 # Learning Plan Resources for Power Fx
 
 { Description of Learning Plan }
