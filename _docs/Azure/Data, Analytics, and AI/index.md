@@ -15,7 +15,7 @@ tags:
 
 {% for doc in all_docs %}
 {% if doc.tags contains "learning plan" and doc.tags contains "data, analytics, and ai" %}
-{% unless doc.tags contains "deprecated" }
+{% unless doc.tags contains "deprecated" %}
 <div class="tag-entry">
     <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a></div>
     <div>{% for tag in doc.tags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
