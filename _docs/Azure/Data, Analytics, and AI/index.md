@@ -1,34 +1,26 @@
 ---
 layout: page
-title: Data, Analytics, and AI
+title: Data, Analytics, and AI Learning Plans
 permalink: /azure/data-analytics-ai/
 tags: 
  - azure
  - data-analytics-ai
 ---
 
-# [Data, Analytics, and AI](https://docs.microsoft.com/en-us/azure/?product=ai-machine-learning)
+<h2 id="tags-index">Data & AI Learning Plans</h2>
 
-#### {% raw %}[Azure Database for MySQL, MariaDB and Postgres](oss-db-to-azure){% endraw %}
+{% capture site_tags %}{% for tag in site.tags %}{% if tag %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}{% endcapture %}{% assign docs_tags = "" %}{% for doc in site.docs %}{% assign ttags = doc.tags | join:',' | append:',' %}{% assign docs_tags = docs_tags | append:ttags %}{% endfor %}
+{% assign all_tags = site_tags | append:docs_tags %}{% assign tags_list = all_tags | split:',' | uniq | sort %}
+{% assign all_docs = site.docs | sort: "title" %}
 
-#### {% raw %}[Azure Cognitive Search](cognitive-search){% endraw %}
-
-#### {% raw %}[Azure Cognitive Services](cognitive-services){% endraw %}
-
-#### {% raw %}[Azure Purview](azure-purview){% endraw %}
-
-#### {% raw %}[Conversational AI](conversational-ai){% endraw %}
-
-#### {% raw %}[Cosmos DB](cosmos-db){% endraw %}
-
-#### {% raw %}[Azure Databricks](databricks){% endraw %}
-
-#### {% raw %}[FHIR Powered Healthcare](fhir-powered-healthcare){% endraw %}
-
-#### {% raw %}[Knowledge Mining with Cognitive Search](knowledge-mining){% endraw %}
-
-#### {% raw %}[Machine Learning](machine-learning){% endraw %}
-
-#### {% raw %}[Modern Data Warehouse](modern-data-warehouse){% endraw %}
-
-#### {% raw %}[SQL Server Migration to Azure](sql-server-migration-to-azure){% endraw %}
+{% for doc in all_docs %}
+{% if doc.tags contains "learning plan" and doc.tags contains "data, analytics, and ai" %}
+<div class="tag-entry">
+    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a></div>
+    <div>{% for tag in doc.tags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
+    <div>{{ doc.description }}</div>
+    <div>Updated <time datetime="{{- doc.date | date_to_xmlschema -}}"> {{- doc.date | date: "%B %d, %Y" -}}</time></div>
+</div>
+<div style="padding-bottom: 30px;"></div>
+{% endif %}
+{% endfor %}
