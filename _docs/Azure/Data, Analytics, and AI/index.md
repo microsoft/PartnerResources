@@ -15,6 +15,7 @@ tags:
 
 {% for doc in all_docs %}
 {% if doc.tags contains "learning plan" and doc.tags contains "data, analytics, and ai" %}
+{% unless doc.tags contains "deprecated" }
 <div class="tag-entry">
     <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a></div>
     <div>{% for tag in doc.tags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
@@ -22,5 +23,6 @@ tags:
     <div>Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></div>
 </div>
 <div style="padding-bottom: 30px;"></div>
+{% endunless %}
 {% endif %}
 {% endfor %}
