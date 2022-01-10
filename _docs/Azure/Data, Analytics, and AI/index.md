@@ -3,8 +3,8 @@ layout: page
 title: Data, Analytics, and AI Learning Plans
 permalink: /azure/data-analytics-ai/
 tags: 
- - azure
- - data-analytics-ai
+- azure
+- data, analytics, and ai
 ---
 
 <h2 id="tags-index">Data & AI Learning Plans</h2>
@@ -19,7 +19,7 @@ tags:
     <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a></div>
     <div>{% for tag in doc.tags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
     <div>{{ doc.description }}</div>
-    <div>Updated <time datetime="{{- doc.date | date_to_xmlschema -}}"> {{- doc.date | date: "%B %d, %Y" -}}</time></div>
+    <div>Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></div>
 </div>
 <div style="padding-bottom: 30px;"></div>
 {% endif %}
