@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Azure Purview
+description: Resources for Data Governance with Azure Purview
+updated: 2021-12-01
 permalink: /azure/data-analytics-ai/azure-purview
 tags: 
 - azure

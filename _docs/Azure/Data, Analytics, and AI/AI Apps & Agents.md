@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Retired Page
+description: Retired Page
+updated: 2021-12-01
 permalink: /azure/data-analytics-ai/ai-apps-agents
 tags: 
 - azure

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Conversational AI
+description: Resources for Conversational AI
+updated: 2021-12-01
 permalink: /azure/data-analytics-ai/conversational-ai
 tags: 
 - azure

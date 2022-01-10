@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Databricks
+description: Resources for Azure Databricks
+updated: 2021-12-01
 permalink: /azure/data-analytics-ai/databricks
 tags: 
 - azure

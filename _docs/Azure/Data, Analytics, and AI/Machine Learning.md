@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Machine Learning
+description: Resources for Azure Machine Learning (ML)
+updated: 2021-12-01
 permalink: /azure/data-analytics-ai/machine-learning
 tags: 
 - azure

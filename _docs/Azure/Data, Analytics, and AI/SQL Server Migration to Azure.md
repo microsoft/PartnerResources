@@ -1,6 +1,8 @@
 ---
 layout: page
 title: SQL Server Migration to Azure
+description: Resources for SQL Server Migration to Azure
+updated: 2021-12-01
 permalink: /azure/data-analytics-ai/sql-server-migration-to-azure
 tags: 
 - azure

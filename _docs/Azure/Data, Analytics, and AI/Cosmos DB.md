@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Cosmos DB
+description: Resources for Azure Cosmos DB
+updated: 2021-12-01
 permalink: /azure/data-analytics-ai/cosmos-db
 tags: 
 - azure

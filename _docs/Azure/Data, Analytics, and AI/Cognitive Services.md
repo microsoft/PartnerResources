@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Cognitive Services
+description: Resources for Azure Cognitive Services
+updated: 2021-12-01
 permalink: /azure/data-analytics-ai/cognitive-services
 tags: 
 - azure

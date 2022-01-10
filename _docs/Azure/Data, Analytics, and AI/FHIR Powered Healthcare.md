@@ -1,6 +1,8 @@
 ---
 layout: page
 title: FHIR Powered Healthcare
+description: Resources FHIR Powered Healthcare
+updated: 2021-12-01
 permalink: /azure/data-analytics-ai/fhir-powered-healthcare
 tags: 
 - azure
