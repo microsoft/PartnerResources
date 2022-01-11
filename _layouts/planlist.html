@@ -19,13 +19,14 @@ check:
 {% assign doctags = doc.tags | uniq | sort | compact | join:'|' %}
 
 {% assign intersection = page.include-plans - doc.tags %}
-<div>test0: {{ doc.title }} {{ intersection }}</div>
 
 {% if doc.tags contains "learning plan" and doctags contains theplans %}
 <div>test1: {{ doc.title }} {{ doctags }}</div>
 {% endif %}
 
 {% if doc.tags contains "learning plan" and doc.tags contains "data, analytics, and ai" %}
+<div>test0: {{ doc.title }} - {{ intersection }}</div>
+<div>test0b: {{ doc.title }} - {{ intersection | join:'|'}}</div>
 <div>test2: {{ doc.title }} {{ doctags }}</div>
 {% endif %}
 
