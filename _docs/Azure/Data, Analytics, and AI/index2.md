@@ -2,7 +2,7 @@
 layout: planlist
 title: Data, Analytics, and AI Learning Plans
 permalink: /azure/data-analytics-ai-test/
-include-plans:
+includeplans:
 - azure
 - data, analytics, and ai
 ---
