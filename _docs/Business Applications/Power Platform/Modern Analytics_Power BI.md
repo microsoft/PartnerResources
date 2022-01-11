@@ -7,6 +7,8 @@ tags:
  - power-platform
  - power-bi
  - modern-analytics
+ - data, analytics, and ai
+ - learning plan
 ---
 
 # Learning Plan Resources for Modern Analytics/Power BI
