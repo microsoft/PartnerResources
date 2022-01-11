@@ -8,15 +8,27 @@ layout: default
 {% assign all_tags = site_tags | append:docs_tags %}{% assign tags_list = all_tags | split:',' | uniq | sort %}
 {% assign all_docs = site.docs | sort: "title" %}
 
-{% for plan in page.include-plans %}
-{{ plan }} 
-{% endfor %}
+
+{% assign filtered_docs = all_docs | where_exp: "doc","doc.tags contains 'learning plan'" | where_exp: "doc","doc.tags contains 'data, analytics, and ai'" %}
+
+{% assign theplans = page.include-plans | uniq | sort | compact | join:'|' %}
+<div>theplans: {{ theplans }}</div>
 
 check:
 {% for doc in all_docs %}
-{% if doc.tags contains "learning plan" and doc.tags contains page.include-plans %}
+{% assign doctags = doc.tags | uniq | sort | join:'|' %}
+<div>doctags: {{ doctags }}</div>
+
+test1:
+{% if doc.tags contains "learning plan" and doctags contains theplans %}
 {{ doc.title }}, 
 {% endif %}
+
+test2:
+{% if doc.tags contains "learning plan" and doctags.include? theplans %}
+{{ doc.title }}, 
+{% endif %}
+
 {% endfor %}
 
 
