@@ -13,12 +13,19 @@ layout: default
 {% for doc in filtered_docs %}
 {% assign uniquedoctags = doc.tags | uniq %}
 {% assign concatplans = uniquedoctags | concat: page.includeplans | uniq %}
+{% comment %}
 
+    Any number of plan filters can be passed in via page.includeplans
+
+    To see if a document is a match, we'll concat page.includeplans and doc.tags --
+    if they have the same number of tags, the document matches the filter so we'll display it.
+
+{% endcomment %}
 {% if uniquedoctags.size == concatplans.size %}
 {% unless doc.tags contains "deprecated" %}
 <div class="tag-entry">
     <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a></div>
-    <div>{% for tag in doc.tags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
+    <div>{% for tag in doc.tags | sort %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
     <div>{{ doc.description }}</div>
     <div>Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></div>
 </div>
