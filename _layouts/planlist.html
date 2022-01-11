@@ -20,7 +20,6 @@ check:
 
 {% assign intersection = page.include-plans - doc.tags %}
 <div>test0: {{ doc.title }} {{ intersection }}</div>
-{% endif %}
 
 {% if doc.tags contains "learning plan" and doctags contains theplans %}
 <div>test1: {{ doc.title }} {{ doctags }}</div>
