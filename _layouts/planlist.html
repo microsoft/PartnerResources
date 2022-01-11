@@ -17,14 +17,14 @@ layout: default
 check:
 {% for doc in all_docs %}
 {% assign doctags = doc.tags | uniq | sort | join:'|' %}
-<div>doctags: {{ doctags }}</div>
 
-test1:
 {% if doc.tags contains "learning plan" and doctags contains theplans %}
-{{ doc.title }}, 
+<div>test1: {{ doc.title }}</div>
 {% endif %}
 
-
+{% if doc.tags contains "learning plan" and doctags.include?(theplans) %}
+<div>test2: {{ doc.title }}</div>
+{% endif %}
 
 {% endfor %}
 
