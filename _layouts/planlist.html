@@ -11,7 +11,7 @@ layout: default
 {% assign filtered_docs = all_docs | where_exp: "doc","doc.tags contains 'learning plan'" %}
 
 {% for doc in filtered_docs %}
-{% assign uniquedoctags = doc.tags | uniq %}
+{% assign uniquedoctags = doc.tags | uniq | sort %}
 {% assign concatplans = uniquedoctags | concat: page.includeplans | uniq %}
 {% comment %}
 
@@ -25,7 +25,7 @@ layout: default
 {% unless doc.tags contains "deprecated" %}
 <div class="tag-entry">
     <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a></div>
-    <div>{% for tag in doc.tags | sort %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
+    <div>{% for tag in uniquedoctags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
     <div>{{ doc.description }}</div>
     <div>Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></div>
 </div>
