@@ -8,7 +8,9 @@ layout: default
 {% assign all_tags = site_tags | append:docs_tags %}{% assign tags_list = all_tags | split:',' | uniq | sort %}
 {% assign all_docs = site.docs | sort: "title" %}
 
-{% for plan in include-plans %}
+plans: {{ include-plans }}
+pageplans: {{ page.include-plans }}
+{% for plan in page.include-plans %}
 {{ plan }} 
 {% endfor %}
 
