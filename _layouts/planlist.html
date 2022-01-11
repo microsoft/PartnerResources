@@ -24,10 +24,7 @@ test1:
 {{ doc.title }}, 
 {% endif %}
 
-test2:
-{% if doc.tags contains "learning plan" and doctags.include? theplans %}
-{{ doc.title }}, 
-{% endif %}
+
 
 {% endfor %}
 
