@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Microsoft Defender for Endpoint Training
+description: Resources for Microsoft Defender for Endpoint
+updated: 2021-12-01
 permalink: /modern-workplace/security/microsoft-defender-for-endpoint-training
 tags:
- - modern-workplace
- - security
- - microsoft-defender-for-endpoint-training
+- learning plan
+- modern workplace
+- security
+- microsoft defender
 ---
 
 # Microsoft Defender for Endpoint Training Resources

@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Threat Protection
+description: Resources for Microsoft Threat Protection
+updated: 2021-12-01
 permalink: /modern-workplace/security/threat-protection
 tags:
- - modern-workplace
- - security
- - threat-protection
+- learning plan
+- modern workplace
+- security
+- threat protection
 ---
 
 # Learning Plan Resources for Threat Protection

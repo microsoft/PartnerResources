@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Information & Data Protection
+description: Resources for Information and Data Protection
+updated: 2021-12-01
 permalink: /modern-workplace/security/information-and-data-protection
 tags:
- - modern-workplace
- - security
- - information-and-data-protection
+- learning plan
+- modern workplace
+- security
+- information and data protection
 ---
 
 # Learning Plan Resources for Information & Data Protection

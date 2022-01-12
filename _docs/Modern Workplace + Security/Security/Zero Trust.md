@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Zero Trust
+description: Resources for Zero Trust
+updated: 2021-12-01
 permalink: /modern-workplace/security/zero-trust
 tags:
- - modern-workplace
- - security
+- learning plan
+- modern workplace
+- security
 ---
 
 # Learning Plan Resources for Zero Trust

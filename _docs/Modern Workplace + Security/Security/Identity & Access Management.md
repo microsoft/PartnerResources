@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Identity & Access Management
+description: Resources for Identity and Access Management
+updated: 2021-12-01
 permalink: /modern-workplace/security/identity-and-access-management
 tags:
- - modern-workplace
- - security
- - identity-and-access-management
+- learning plan
+- modern workplace
+- security
+- identity and access management
 ---
 
 # Learning Plan Resources for Identity & Access Management

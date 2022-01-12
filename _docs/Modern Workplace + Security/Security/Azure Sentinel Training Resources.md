@@ -1,11 +1,15 @@
 ---
 layout: page
 title: Azure Sentinel
+description: Resources for Azure Sentinel
+updated: 2021-12-01
 permalink: /modern-workplace/security/azure-sentinel
 tags:
- - modern-workplace
- - security
- - azure-sentinel
+- learning plan
+- azure
+- modern workplace
+- security
+- azure sentinel
 ---
 
 # Learning Plan Resources for Azure Sentinel
