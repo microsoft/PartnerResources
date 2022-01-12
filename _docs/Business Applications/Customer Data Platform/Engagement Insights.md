@@ -1,13 +1,16 @@
 ---
 layout: page
 title: Engagement Insights
+description: Resources for Engagement Insights
+updated: 2021-12-01
 permalink: /business-applications/customer-data-platform/engagement-insights
 tags:
- - business-applications
- - customer-engagement
- - customer-data-platform
- - customer-insights
- - engagement-insights
+- learning plan
+- business applications
+- customer engagement
+- customer data platform
+- customer insights
+- engagement insights
 ---
 
 # Learning Plan Resources for Dynamics 365 Customer Insights

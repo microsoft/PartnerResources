@@ -1,13 +1,16 @@
 ---
 layout: page
 title: Audience Insights
+description: Resources for Audience Insights
+updated: 2021-12-01
 permalink: /business-applications/customer-data-platform/audience-insights
 tags:
- - business-applications
- - customer-engagement
- - customer-data-platform
- - customer-insights
- - audience-insights
+- learning plan
+- business applications
+- customer engagement
+- customer data platform
+- customer insights
+- audience insights
 ---
 
 # Learning Plan Resources for Dynamics 365 Customer Insights
