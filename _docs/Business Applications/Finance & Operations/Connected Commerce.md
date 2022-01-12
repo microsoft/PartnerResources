@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Connected Commerce
+description: Resources for Connected Commerce
+updated: 2021-12-01
 permalink: /business-applications/finance-and-operations/connected-commerce
 tags:
- - business-applications
- - finance-and-operations
- - connected-commerce
+- learning plan
+- business applications
+- finance and operations
+- connected commerce
 ---
 
 # Learning Plan Resources for Connected Commerce

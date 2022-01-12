@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Finance & Operations
+title: Financial Management
+description: Resources for Financial Management
+updated: 2021-12-01
 permalink: /business-applications/finance-and-operations/financial-management
 tags:
- - business-applications
- - finance-and-operations
+- learning plan
+- business applications
+- finance and operations
 ---
 
 # Learning Plan Resources for Financial Management

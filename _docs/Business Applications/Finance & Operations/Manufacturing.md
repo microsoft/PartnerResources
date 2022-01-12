@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Finance & Operations
+title: Dynamics 365 Manufacturing
+description: Resources for Dynamics 365 Manufacturing
+updated: 2021-12-01
 permalink: /business-applications/finance-and-operations/manufacturing
 tags:
- - business-applications
- - finance-and-operations
- - manufacturing
+- learning plan
+- business applications
+- finance and operations
+- manufacturing
 ---
 
 # Learning Plan Resources for Manufacturing

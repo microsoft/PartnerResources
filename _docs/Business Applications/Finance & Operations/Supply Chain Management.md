@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Supply Chain Management
+description: Resources for Supply Chain Management
+updated: 2021-12-01
 permalink: /business-applications/finance-and-operations/supply-chain-management
 tags:
- - business-applications
- - finance-and-operations
- - supply-chain-management
+- learning plan
+- business applications
+- finance and operations
+- supply chain management
 ---
-
 
 # Learning Plan Resources for Supply Chain Management
 
