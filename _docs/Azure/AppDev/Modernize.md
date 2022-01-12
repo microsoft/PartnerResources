@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Modernize New .NET Applications
+description: Resources for Modernizing .NET Applications
+updated: 2021-12-01
 permalink: /azure/appdev/modernize-new-dot-net-applications
 tags: 
  - azure
