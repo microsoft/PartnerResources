@@ -5,8 +5,9 @@ description: Resources for Modernizing .NET Apps
 updated: 2021-12-01
 permalink: /azure/appdev/modernize-dot-net-apps
 tags: 
- - azure
- - appdev
+- learning plan
+- azure
+- appdev
 ---
 
 # Modernize .Net Apps with App Service, Azure SQL DB

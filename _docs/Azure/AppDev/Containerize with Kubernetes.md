@@ -5,8 +5,9 @@ description: Resources for Kubernetes on Azure
 updated: 2021-12-01
 permalink: /azure/appdev/containerize-with-kubernetes
 tags: 
- - azure
- - appdev
+- learning plan
+- azure
+- appdev
 ---
 
 # Learning Plan Resources for Containerize with Kubernetes

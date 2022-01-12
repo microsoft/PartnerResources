@@ -5,8 +5,9 @@ description: Resources for DevOps on Azure
 updated: 2021-12-01
 permalink: /azure/appdev/devops
 tags: 
- - azure
- - appdev
+- learning plan
+- azure
+- appdev
 ---
 
 # Learning Plan Resources for DevOps
