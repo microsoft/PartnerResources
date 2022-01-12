@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Teams Custom Solution Development for Developers
+description: Resources for Microsoft Teams Custom Solution Development
+updated: 2021-12-01
 permalink: /modern-workplace/microsoft-teams/teams-custom-solution-development-for-developers
 tags:
- - modern-workplace
- - microsoft-teams
+- learning plan
+- modern workplace
+- microsoft teams
 ---
 
 # Learning Plan Resources for Teams Custom Solution Development for Developers

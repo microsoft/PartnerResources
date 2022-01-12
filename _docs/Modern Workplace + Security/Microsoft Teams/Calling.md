@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Calling
+title: Microsoft Teams Calling
+description: Resources for Microsoft Teams Calling
+updated: 2021-12-01
 permalink: /modern-workplace/microsoft-teams/calling
 tags:
- - modern-workplace
- - microsoft-teams
- - calling
+- learning plan
+- modern workplace
+- microsoft teams
+- calling
 ---
 
-# Learning Plan Resources for Calling
+# Learning Plan Resources for Microsoft Teams Calling
 
 Below you will find content to assist in upskilling on Teams Calling. Content is broken down as follows:
 

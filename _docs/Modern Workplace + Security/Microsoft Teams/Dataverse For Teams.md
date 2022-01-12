@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Dataverse for Teams
+description: Resources for Microsoft Teams Dataverse
+updated: 2021-12-01
 permalink: /modern-workplace/microsoft-teams/dataverse-for-teams
 tags:
- - modern-workplace
- - microsoft-teams
- - dataverse
+- learning plan
+- modern workplace
+- microsoft teams
+- dataverse
 ---
 
 # Learning Plan Resources for Microsoft Dataverse for Teams
