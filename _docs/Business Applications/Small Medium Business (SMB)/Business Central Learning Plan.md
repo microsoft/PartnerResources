@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Business Central
+title: D365 Business Central
+description: Resources for D365 Business Central
+updated: 2021-12-01
 permalink: /business-applications/small-medium-business-smb/business-central
 tags: 
- - business-applications
- - business-central
+- learning plan
+- business applications
+- business central
+- smb
 ---
 
 # Learning Plan Resources for Business Central
