@@ -3,7 +3,9 @@ layout: page
 title: Azure Marketplace
 permalink: /azure/azure-marketplace
 tags: 
- - azure
+- learning plan
+- azure
+- marketplace
 ---
 
 # [Azure Marketplace Partner Resources](https://docs.microsoft.com/en-us/azure/marketplace/overview)
