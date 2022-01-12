@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Azure Arc
+description: Resources for Azure Arc
+updated: 2021-12-01
 permalink: /azure/infrastructure/azure-arc
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # Learning Plan Resources for Azure Arc

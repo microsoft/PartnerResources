@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Azure Virtual Desktop
+description: Resources for Azure Virtual Desktop
+updated: 2021-12-01
 permalink: /azure/infrastructure/windows-virtual-desktop
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # Learning Plan and Technical Resources for Windows Virtual Desktop

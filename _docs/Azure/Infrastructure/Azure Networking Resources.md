@@ -1,15 +1,16 @@
 ---
 layout: page
 title: Azure Networking Resources
+description: Resources for Azure Networking
+updated: 2021-12-01
 permalink: /azure/infrastructure/azure-networking-resources
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # [Azure Advanced Networking Resources](https://docs.microsoft.com/en-us/azure/networking/)
-
-
 
 ## Virtual Network
 

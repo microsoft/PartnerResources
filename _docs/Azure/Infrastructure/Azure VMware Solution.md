@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Azure VMware Solution (AVS)
+description: Resources for Azure VMware Solution (AVS)
+updated: 2021-12-01
 permalink: /azure/infrastructure/azure-vmware-solution
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # Learning Plan Resources for Azure VMware Solution (AVS)

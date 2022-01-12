@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Virtual WAN (SDWAN)
+description: Resources for Virtual WAN (SDWAN)
+updated: 2021-12-01
 permalink: /azure/infrastructure/virtual-wan-sdwan
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # Learning Plan Resources for Virtual WAN (SDWAN)

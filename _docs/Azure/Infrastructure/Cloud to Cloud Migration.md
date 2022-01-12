@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Cloud to Cloud Migration
+description: Resources for Cloud to Cloud Migration
+updated: 2021-12-01
 permalink: /azure/infrastructure/cloud-to-cloud-migration
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # Learning Plan Resources for Cloud to Cloud Migration

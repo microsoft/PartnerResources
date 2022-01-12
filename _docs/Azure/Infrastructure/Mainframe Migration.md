@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Mainframe Migration
+description: Resources for Mainframe Migration
+updated: 2021-12-01
 permalink: /azure/infrastructure/mainframe-migration
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # Learning Plan Resources for Mainframe Migration

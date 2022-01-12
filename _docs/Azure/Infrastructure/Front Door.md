@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Front Door
+description: Resources for Front Door
+updated: 2021-12-01
 permalink: /azure/infrastructure/front-door
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # Learning Plan Resources for Front Door

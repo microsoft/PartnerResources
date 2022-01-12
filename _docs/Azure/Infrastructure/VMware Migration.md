@@ -1,11 +1,15 @@
 ---
 layout: page
-title: VMWare Migration
+title: VMware Migration
+description: Resources for VMware Migrations
+updated: 2021-12-01
 permalink: /azure/infrastructure/vmware-migration
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
+
 # Learning Plan Resources for VMware Migration
 
 ## Fundamentals

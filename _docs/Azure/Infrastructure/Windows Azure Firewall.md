@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Windows Azure Firewall
+description: Resources for Azure Firewall
+updated: 2021-12-01
 permalink: /azure/infrastructure/windows-azure-firewall
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # Learning Plan Resources for Windows Azure Firewall

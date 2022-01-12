@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Cloud Adoption Framework & Governance
+description: Resources for CAF (Cloud Adoption Framework)
+updated: 2021-12-01
 permalink: /azure/infrastructure/cloud-adoption-framework-governance
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # Learning Plan Resources for Cloud Adoption Framework & Governance

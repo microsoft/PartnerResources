@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Azure Well-Architected Framework
+description: Resources for Azure Well-Architected Framework
+updated: 2021-12-01
 permalink: /azure/infrastructure/azure-well-architected-framework
 tags: 
- - azure
- - infrastructure
- - waf
+- learning plan
+- azure
+- infrastructure
+- waf
 ---
 
 # Learning Plan Resources for Azure Well-Architected Framework
