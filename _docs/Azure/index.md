@@ -37,7 +37,7 @@ tags:
 {% for doc in current_docs %}
 {% if doc.tags contains 'appdev' %}
 <div class="tag-entry" style="padding-left:25px;">
-    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.date | date_to_xmlschema -}}"> {{- doc.date | date: "%B %d, %Y" -}}</time>)</div>
+    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time>)</div>
 </div>
 {% endif %}
 {% endfor %}
@@ -46,7 +46,7 @@ tags:
 {% for doc in current_docs %}
 {% if doc.tags contains 'data, analytics, and ai' %}
 <div class="tag-entry" style="padding-left:25px;">
-    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.date | date_to_xmlschema -}}"> {{- doc.date | date: "%B %d, %Y" -}}</time>)</div>
+    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time>)</div>
 </div>
 {% endif %}
 {% endfor %}
@@ -55,7 +55,7 @@ tags:
 {% for doc in current_docs %}
 {% if doc.tags contains 'infrastructure' %}
 <div class="tag-entry" style="padding-left:25px;">
-    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.date | date_to_xmlschema -}}"> {{- doc.date | date: "%B %d, %Y" -}}</time>)</div>
+    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time>)</div>
 </div>
 {% endif %}
 {% endfor %}
@@ -64,7 +64,7 @@ tags:
 {% for doc in current_docs %}
 {% if doc.tags contains 'iot' %}
 <div class="tag-entry" style="padding-left:25px;">
-    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.date | date_to_xmlschema -}}"> {{- doc.date | date: "%B %d, %Y" -}}</time>)</div>
+    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time>)</div>
 </div>
 {% endif %}
 {% endfor %}
@@ -73,7 +73,7 @@ tags:
 {% for doc in current_docs %}
 {% if doc.tags contains 'marketplace' %}
 <div class="tag-entry" style="padding-left:25px;">
-    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.date | date_to_xmlschema -}}"> {{- doc.date | date: "%B %d, %Y" -}}</time>)</div>
+    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time>)</div>
 </div>
 {% endif %}
 {% endfor %}
