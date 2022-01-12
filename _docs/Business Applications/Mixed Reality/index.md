@@ -1,14 +1,8 @@
 ---
-layout: page
+layout: planlist
 title: Mixed Reality
 permalink: /business-applications/mixed-reality/
-tags:
- - business-applications
- - mixed-reality
+includemethod: all
+includeplans:
+- mixed reality
 ---
-
-# [Power Platform](https://docs.microsoft.com/en-us/power-platform/)
-
-#### {% raw %}[Guides](guides){% endraw %}
-
-#### {% raw %}[Remote Assist](remote-assist){% endraw %}

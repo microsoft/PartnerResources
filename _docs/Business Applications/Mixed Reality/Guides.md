@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Guides
+title: Mixed Reality Guides
+description: Resources for Mixed Reality Guides
+updated: 2021-12-01
 permalink: /business-applications/mixed-reality/guides
 tags:
- - business-applications
- - mixed-reality
- - guides
+- learning plan
+- business applications
+- mixed reality
+- guides
 ---
 
 # Learning Plan Resources for Mixed Reality Guides

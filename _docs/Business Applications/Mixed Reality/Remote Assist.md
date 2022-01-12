@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Remote Assist
+title: Mixed Reality Remote Assist
+description: Resources for Mixed Reality Remove Assist
+updated: 2021-12-01
 permalink: /business-applications/mixed-reality/remote-assist
 tags:
- - business-applications
- - mixed-reality
- - remote-assist
+- learning plan
+- business applications
+- mixed reality
+- remote assist
 ---
 
 # Learning Plan Resources for Mixed Reality Remote Assist
