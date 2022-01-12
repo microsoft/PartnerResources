@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Energy
-permalink: /industry/nonprofit
+title: Nonprofit Resources
+description: Resources for Nonprofits
+updated: 2021-12-01
+permalink: /industry/nonprofit/nonprofit-resources
 tags:
- - industry
- - nonprofit
+- learning plan
+- industry
+- nonprofit
 ---
 
 # Learning Plan Resources for Nonprofit

@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Retail
-permalink: /industry/retail
+description: Resources for Retail
+updated: 2021-12-01
+permalink: /industry/retail/retail-resources
 tags:
- - industry
- - retail
+- learning plan
+- industry
+- retail
 ---
 
 # Learning Plan Resources for Microsoft Cloud for Retail

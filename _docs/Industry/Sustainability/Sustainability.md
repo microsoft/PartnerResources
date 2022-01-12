@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Sustainability
-permalink: /industry/sustainability
+title: Sustainability Resources
+permalink: /industry/sustainability/sustainability-resources
 tags:
- - industry
- - sustainability
+- learning plan
+- industry
+- sustainability
 ---
 
 # Learning Plan Resources for Microsoft Cloud for Sustainability
