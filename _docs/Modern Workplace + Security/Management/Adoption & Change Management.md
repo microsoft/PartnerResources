@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Adoption & Change Management
+title: Adoption and Change Management
+description: Resources for Adoption and Change Management
+updated: 2021-12-01
 permalink: /modern-workplace/management/adoption-and-change-management
 tags:
- - modern-workplace
- - management
+- learning plan
+- modern workplace management
 ---
 
 # Learning Plan Resources for Adoption & Change Management

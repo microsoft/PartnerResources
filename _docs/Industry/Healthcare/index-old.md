@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microsoft Cloud for Healthcare
-permalink: /industry/healthcare
+permalink: /industry/healthcare-old
 tags:
  - industry
  - healthcare

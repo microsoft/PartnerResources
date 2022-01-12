@@ -1,14 +1,8 @@
 ---
-layout: page
-title: Management
+layout: planlist
+title: Modern Workplace Management Learning Plans
 permalink: /modern-workplace/management/
-tags:
- - modern-workplace
- - management
+includemethod: all
+includeplans:
+ - modern workplace management
 ---
-
-# Management
-
-#### {% raw %}[Adoption & Change Management](adoption-and-change-management){% endraw %}
-
-#### {% raw %}[Autopilot Learning Plan](autopilot-learning-plan){% endraw %}

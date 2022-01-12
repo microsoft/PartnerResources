@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Autopilot Learning Plan
+title: Windows Autopilot Learning Plan
+description: Resources for Windows Autopilot
+updated: 2021-12-01
 permalink: /modern-workplace/management/autopilot-learning-plan
 tags:
- - modern-workplace
- - management
+- learning plan
+- modern workplace management
 ---
 
-# Learning Plan Resources for Autopilot Learning Plan
+# Learning Plan Resources for Windows Autopilot
 
 Below you will find content to assist in upskilling on Windows Autopilot. Content is broken down as follows:
 
