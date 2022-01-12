@@ -1,18 +1,9 @@
 ---
-layout: page
-title: IoT
+layout: planlist
+title: Azure IoT Learning Plans
 permalink: /azure/iot/
-tags: 
- - azure
- - iot
+includemethod: all
+includeplans:
+- iot
 ---
 
-# [Internet of Things](https://docs.microsoft.com/en-us/azure/iot-fundamentals/)
-
-#### {% raw %}[IoT Central](iot-central){% endraw %}
-
-#### {% raw %}[IoT Edge](iot-edge){% endraw %}
-
-#### {% raw %}[IoT Hub](iot-hub){% endraw %}
-
-#### {% raw %}[Study Guide for Exam AZ-220: Microsoft Azure IoT Developer](StudyGuide-AZ-220-MicrosoftAzureIoTDeveloper){% endraw %}
