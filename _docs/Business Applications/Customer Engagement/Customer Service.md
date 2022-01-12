@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Customer Service
+description: Resources for Customer Service
+updated: 2021-12-01
 permalink: /business-applications/customer-engagement/customer-service
 tags:
- - business-applications
- - customer-engagement
+- learning plan
+- business applications
+- customer engagement
 ---
 
 # Learning Plan Resources for Dynamics 365 Customer Service

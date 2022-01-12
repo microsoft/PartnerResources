@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Project Service Automation
+description: Resources for Dynamics 365 Project Service Automation
+updated: 2021-12-01
 permalink: /business-applications/customer-engagement/project-service-automation
 tags:
- - business-applications
- - customer-engagement
- - project-service-automation
+- learning plan
+- business applications
+- customer engagement
+- project servic automation
 ---
 
 Project Operations | Microsoft Dynamics 365 Customer Engagement

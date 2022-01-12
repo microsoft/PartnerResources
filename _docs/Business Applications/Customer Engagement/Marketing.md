@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Marketing
+description: Resources for Dynamics 365 Marketing
+updated: 2021-12-01
 permalink: /business-applications/customer-engagement/marketing
 tags:
- - business-applications
- - customer-engagement
+- learning plan
+- business applications
+- customer engagement
 ---
 
 # Learning Plan Resources for Dynamics 365 Marketing

@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Sales
+description: Resources for Dynamics 365 Sales
+updated: 2021-12-01
 permalink: /business-applications/customer-engagement/sales
 tags:
- - business-applications
- - customer-engagement
- - sales
+- learning plan
+- business applications
+- customer engagement
+- sales
 ---
 
 # Learning Plan Resources for Dynamics 365 Sales
