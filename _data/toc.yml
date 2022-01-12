@@ -25,6 +25,8 @@
           url: "business-applications/finance-and-operations"
         - title: ISV Connect
           url: "business-applications/isv-connect"
+        - title: Mixed Reality
+          url: "business-applications/mixed-reality"
         - title: Power Platform
           url: "business-applications/power-platform"
         - title: Small Medium Business
@@ -32,14 +34,6 @@
     - title: Industry
       url: "industry"
       children:
-        - title: Automotive
-          url: "industry/automotive"
-        - title: Communications Sector
-          url: "industry/communications-sector"
-        - title: Energy
-          url: "industry/energy"
-        - title: Financial Services
-          url: "industry/financial-services"
         - title: Healthcare
           url: "industry/healthcare"
         - title: Manufacturing
