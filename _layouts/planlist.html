@@ -4,8 +4,21 @@ layout: default
 
 <h2 id="tags-index">{{ page.title }}</h2>
 
-{% capture site_tags %}{% for tag in site.tags %}{% if tag %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}{% endcapture %}{% assign docs_tags = "" %}{% for doc in site.docs %}{% assign ttags = doc.tags | join:',' | append:',' %}{% assign docs_tags = docs_tags | append:ttags %}{% endfor %}
-{% assign all_tags = site_tags | append:docs_tags %}{% assign tags_list = all_tags | split:',' | uniq | sort %}
+{% capture site_tags %}
+{% for tag in site.tags %}
+    {% if tag %}
+        {{ tag | first }}
+        {% unless forloop.last %}|{% endunless %}
+    {% endif %}
+{% endfor %}
+{% endcapture %}
+{% assign docs_tags = "" %}
+{% for doc in site.docs %}
+    {% assign ttags = doc.tags | join:'|' | append:'|' %}
+    {% assign docs_tags = docs_tags | append:ttags %}
+{% endfor %}
+{% assign all_tags = site_tags | append:docs_tags %}
+{% assign tags_list = all_tags | replace: "||", "|" | split:'|' | uniq | sort | compact %}
 {% assign all_docs = site.docs | sort: "title" %}
 {% assign filtered_docs = all_docs | where_exp: "doc","doc.tags contains 'learning plan'" %}
 
@@ -32,13 +45,15 @@ layout: default
     {% endunless %}
     {% endfor %}
 {% else %}
-    {% for doc in filtered_docs %}{% for includetag in page.includeplans %}
+    {% for doc in filtered_docs %}
+    {% for includetag in page.includeplans %}
     {% unless doc.tags contains "deprecated" %}
     {% if doc.tags contains includetag %}
     {% assign current_docs = current_docs | push: doc %}
     {% endif %}
     {% endunless %}
-    {% endfor %}{% endfor %}
+    {% endfor %}
+    {% endfor %}
 {% endif %}
 
 {% assign current_docs = current_docs | uniq %}
