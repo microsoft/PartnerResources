@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Business Applications
-permalink: /business-applications/
+permalink: /business-applications-old/
 tags:
  - business-applications
 ---

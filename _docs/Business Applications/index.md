@@ -1,9 +1,9 @@
 ---
 layout: page
-title: All Azure Plans
-permalink: /azure/
+title: All Business Applications & Power Platform Plans
+permalink: /business-applications/
 tags:
-- azure
+- buiness applications
 ---
 
 <h2 id="tags-index">Business Applications & Power Platform</h2>
