@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Robotic Process Automation
+description: Resources for Robotic Process Automation
+updated: 2021-12-01
 permalink: /business-applications/power-platform/robotic-process-automation
 tags:
- - business-applications
- - power-platform
- - rpa
+- learning plan
+- business applications
+- power platform
+- rpa
 ---
 
 # Learning Plan Resources for Robotic Process Automation

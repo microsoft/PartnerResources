@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Power Virtual Agents
+description: Resources for Power Virtual Agents
+updated: 2021-12-01
 permalink: /business-applications/power-platform/power-virtual-agents
 tags:
- - business-applications
- - power-platform
- - power-virtual-agents
+- learning plan
+- business applications
+- power platform
+- power virtual agents
 ---
 
 # Learning Plan Resources for Power Virtual Agents

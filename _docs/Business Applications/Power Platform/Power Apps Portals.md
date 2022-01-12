@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Power Apps Portals
+description: Resources for Power Apps Portals
+updated: 2021-12-01
 permalink: /business-applications/power-platform/power-apps-portals
 tags:
- - business-applications
- - power-platform
- - power-apps-portals
+- learning plan
+- business applications
+- power platform
+- power apps portals
 ---
 
 # Learning Plan Resources for Power Apps Portals

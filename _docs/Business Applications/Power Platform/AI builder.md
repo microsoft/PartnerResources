@@ -1,11 +1,16 @@
 ---
 layout: page
-title: AI Builder
+title: Power Platform AI Builder
+description: Resources for Power Platform AI Builder
+updated: 2021-12-01
 permalink: /business-applications/power-platform/ai-builder
 tags:
- - business-applications
- - power-platform
- - ai-builder
+- learning plan
+ - business applications
+ - power platform
+ - ai builder
+ - ai
+ - data, analytics, and ai
 ---
 
 # Learning Plan Resources for AI Builder

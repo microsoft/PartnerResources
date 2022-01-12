@@ -1,14 +1,16 @@
 ---
 layout: page
 title: Modern Analytics Power BI
+description: Resources for Modern Analytics with Power BI
+updated: 2021-12-01
 permalink: /business-applications/power-platform/modern-analytics-power-bi
 tags:
- - business-applications
- - power-platform
- - power-bi
- - modern-analytics
- - data, analytics, and ai
- - learning plan
+- learning plan
+- business applications
+- power platform
+- power bi
+- modern analytics
+- data, analytics, and ai
 ---
 
 # Learning Plan Resources for Modern Analytics/Power BI

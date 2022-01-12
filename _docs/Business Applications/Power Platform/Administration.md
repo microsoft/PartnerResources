@@ -1,12 +1,15 @@
 ---
 layout: page
 title: Power Platform Administration and Center of Excellence
+description: Resources for Power Platform Administration and Center of Excellence
+updated: 2021-12-01
 permalink: /business-applications/power-platform/administration
 tags:
- - business-applications
- - power-platform
- - center-of-excellence
- - power-platform-administration
+- learning plan
+- business applications
+- power platform
+- center of excellence
+- power platform administration
 ---
 
 # Learning Plan Resources for Power Platform Administration and Center of Excellence

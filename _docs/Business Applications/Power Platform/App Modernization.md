@@ -1,11 +1,15 @@
 ---
 layout: page
-title: App Modernization
+title: Power Platform App Modernization
+description: Resources for Power Platform App Modernization
+updated: 2021-12-01
 permalink: /business-applications/power-platform/app-modernization
 tags:
- - business-applications
- - power-platform
- - app-modernization
+- learning plan
+- business applications
+- power platform
+- app modernization
+- appdev
 ---
 
 # Learning Plan Resources for App Modernization

@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Business Applications
+title: Power Platform
+description: Resources for Power Platform
+updated: 2021-12-01
 permalink: /business-applications/power-platform/power-platform-learning-plan
 tags:
- - business-applications
- - power-platform
+- learning plan
+- business applications
+- power platform
 ---
 
 # Learning Plan Resources for Power Platform Learning Plan

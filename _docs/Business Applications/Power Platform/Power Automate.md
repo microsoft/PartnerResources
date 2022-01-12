@@ -1,12 +1,15 @@
 ---
 layout: page
 title: Power Automate
+description: Resources for Power Automate
+updated: 2021-12-01
 permalink: /business-applications/power-platform/power-automate
 tags:
- - business-applications
- - power-platform
- - power-automate
- - flow
+- learning plan
+- business applications
+- power platform
+- power automate
+- flow
 ---
 
 # Learning Plan Resources for Power Automate
