@@ -1,7 +1,7 @@
 ---
 layout: planlist
 title: Finance & Operations
-permalink: /business-applications/customer-engagement/
+permalink: /business-applications/finance-and-operations/
 includemethod: all
 includeplans:
 - finance and operations

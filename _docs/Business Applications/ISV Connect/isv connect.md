@@ -1,10 +1,14 @@
 ---
 layout: page
 title: ISV Connect
+description: Resources for ISV Connect
+updated: 2021-12-01
 permalink: /business-applications/isv-connect/
 tags: 
- - business-applications
- - business-central
+- learning plan
+- business applications
+- business central
+- isv connect
 ---
 
 # Success By Design ISV Connect
