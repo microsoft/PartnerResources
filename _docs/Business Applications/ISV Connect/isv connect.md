@@ -19,7 +19,7 @@ The Business Applications ISV Connect Program aims to accelerate the growth and 
 
 # [Business Track](https://docs.microsoft.com/en-us/azure/marketplace/business-applications-isv-program#set-up-your-microsoft-partner-center-account)
 
-In order to join the program and take advantage of it's benefits you'll need to do the following.
+In order to join the program and take advantage of its benefits you'll need to do the following.
 
 1. [Set up your Microsoft Partner Center account](https://docs.microsoft.com/en-us/azure/marketplace/partner-center-portal/create-account).
 1. Accept the Business Applications [ISV Program Addendum](https://aka.ms/bizappsisvaddendum) through [Partner Center](https://partner.microsoft.com/dashboard).
