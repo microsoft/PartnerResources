@@ -6,8 +6,6 @@ tags:
 - modern workplace
 ---
 
-<h2 id="tags-index">Modern Workplace and Security Plans</h2>
-
 {% capture site_tags %}
 {% for tag in site.tags %}
     {% if tag %}

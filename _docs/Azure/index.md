@@ -5,9 +5,6 @@ permalink: /azure/
 tags:
 - azure
 ---
-
-<h2 id="tags-index">Azure Learning Plans</h2>
-
 {% capture site_tags %}
 {% for tag in site.tags %}
     {% if tag %}

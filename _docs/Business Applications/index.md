@@ -6,8 +6,6 @@ tags:
 - buiness applications
 ---
 
-<h2 id="tags-index">Business Applications & Power Platform</h2>
-
 {% capture site_tags %}
 {% for tag in site.tags %}
     {% if tag %}
