@@ -1,3 +1,71 @@
 ---
 layout: default
 ---
+
+<h2 id="tags-index">{{ page.title }}</h2>
+
+{% capture site_tags %}
+{% for tag in site.tags %}
+    {% if tag %}
+        {{ tag | first }}
+        {% unless forloop.last %}|{% endunless %}
+    {% endif %}
+{% endfor %}
+{% endcapture %}
+{% assign docs_tags = "" %}
+{% for doc in site.docs %}
+    {% assign ttags = doc.tags | join:'|' | append:'|' %}
+    {% assign docs_tags = docs_tags | append:ttags %}
+{% endfor %}
+{% assign all_tags = site_tags | append:docs_tags %}
+{% assign tags_list = all_tags | replace: "||", "|" | split:'|' | uniq | sort | compact %}
+{% assign all_docs = site.docs | sort: "title" %}
+{% assign filtered_docs = all_docs | where_exp: "doc","doc.tags contains 'learning plan'" %}
+
+{% for section in page.includesections %}
+{% for doc in filtered_docs %}
+{% unless doc.tags contains "deprecated" %}
+{% if doc.tags contains section %}
+
+{% endif %}
+{% endunless %}
+{% endfor %}
+{% endfor %}
+
+{% include toc.html %}
+{% include permalinks.html %}
+{% include tags.html %}
+
+
+-----------------
+
+
+<h3><a href="{{- site.baseurl -}}/azure/appdev/">AppDev</a></h3>
+
+{% for doc in all_docs %}
+{% if doc.tags contains 'learning plan' and doc.tags contains 'appdev' %}
+<div class="tag-entry" style="padding-left:25px;">
+    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.date | date_to_xmlschema -}}"> {{- doc.date | date: "%B %d, %Y" -}}</time>)</div>
+</div>
+{% endif %}
+{% endfor %}
+
+<h3><a href="{{- site.baseurl -}}/azure/data-analytics-ai/">Data, Analytics, and AI</a></h3>
+
+{% for doc in all_docs %}
+{% if doc.tags contains "learning plan" and doc.tags contains "data, analytics, and ai" %}
+<div class="tag-entry" style="padding-left:25px;">
+    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.date | date_to_xmlschema -}}"> {{- doc.date | date: "%B %d, %Y" -}}</time>)</div>
+</div>
+{% endif %}
+{% endfor %}
+
+<h3><a href="{{- site.baseurl -}}/azure/infrastructure/">Infrastructure</a></h3>
+
+{% for doc in all_docs %}
+{% if doc.tags contains "learning plan" and doc.tags contains "infrastructure" %}
+<div class="tag-entry" style="padding-left:25px;">
+    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.date | date_to_xmlschema -}}"> {{- doc.date | date: "%B %d, %Y" -}}</time>)</div>
+</div>
+{% endif %}
+{% endfor %}
