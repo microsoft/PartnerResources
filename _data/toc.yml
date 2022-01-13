@@ -3,53 +3,77 @@
   links:
     - title: "Azure"
       url: "azure"
+      tag: azure
       children:
         - title: App Dev
           url: "azure/appdev"
+          tag: appdev
         - title: Data, Analytics, and AI
           url: "azure/data-analytics-ai"
+          tag: data, analytics, and ai
         - title: Infrastructure
           url: "azure/infrastructure"
+          tag: infrastructure
         - title: IoT
           url: "azure/iot"
+          tag: iot
         - title: Azure Marketplace
           url: "azure/azure-marketplace"
+          tag: marketplace
     - title: "Business Applications"
       url: "business-applications"
+      tag: business applications
       children:
         - title: Customer Data Platform
           url: "business-applications/customer-data-platform"
+          tag: customer data platform
         - title: Customer Engagement
           url: "business-applications/customer-engagement"
+          tag: customer engagement
         - title: Finance & Operations
           url: "business-applications/finance-and-operations"
+          tag: finance and operations
         - title: ISV Connect
           url: "business-applications/isv-connect"
+          tag: isv connect
         - title: Mixed Reality
           url: "business-applications/mixed-reality"
+          tag: mixed reality
         - title: Power Platform
           url: "business-applications/power-platform"
+          tag: power platform
         - title: Small Medium Business
           url: "business-applications/small-medium-business-smb"
+          tag: smb
     - title: Industry
       url: "industry"
+      tag: industry
       children:
         - title: Healthcare
           url: "industry/healthcare"
+          tag: healthcare
         - title: Manufacturing
           url: "industry/manufacturing"
+          tag: manufacturing
         - title: Nonprofit
           url: "industry/nonprofit"
+          tag: nonprofit
         - title: Retail
           url: "industry/retail"
+          tag: retail
         - title: Sustainability
           url: "industry/sustainability"
+          tag: sustainability
     - title: Modern Workplace + Security
       url: "modern-workplace"
+      tag: modern workplace and security
       children:
         - title: Management
           url: "modern-workplace/management"
+          tag: modern workplace management
         - title: Microsoft Teams
           url: "modern-workplace/microsoft-teams"
+          tag: microsoft teams
         - title: Security
           url: "modern-workplace/security"
+          tag: security

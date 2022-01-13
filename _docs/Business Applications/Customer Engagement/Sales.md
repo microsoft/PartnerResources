@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sales
+title: D365 Sales
 description: Resources for Dynamics 365 Sales
 updated: 2021-12-01
 permalink: /business-applications/customer-engagement/sales
