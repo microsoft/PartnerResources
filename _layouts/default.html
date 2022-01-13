@@ -38,7 +38,10 @@
            </nav>
           {% endif %}
            <div class="td-content">
-	      {{ content }}	
+            {% if page.tags contains "deprecated" %}
+            <div id="deprecated">This page has been deprecated and no longer being maintained.</div>
+            {% endif %}
+	          {{ content }}	
               {% if section.links %}<div class="section-index">
                <hr class="panel-line">{% for child in section.links %}
                  <div class="entry">

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Azure Marketplace
+description: Azure Marketplace
+updated: 2021-12-01
 permalink: /azure/azure-marketplace
 tags: 
 - learning plan
