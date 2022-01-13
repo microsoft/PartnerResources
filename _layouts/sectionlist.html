@@ -25,7 +25,7 @@ layout: default
 {% for doc in current_docs %}
 {% if doc.tags contains child.tag %}
 <div class="tag-entry" style="padding-left:25px;">
-    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.date | date_to_xmlschema -}}"> {{- doc.date | date: "%B %d, %Y" -}}</time>)</div>
+    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> (Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time>)</div>
 </div>
 {% endif %}
 {% endfor %}
