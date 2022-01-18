@@ -1,0 +1,73 @@
+{% comment %}
+Find related items based on tags, skipping 'learning plan' and any root-level 
+tags like 'Azure'. 
+
+Without plug-in support (ie, github pages) this is a fairly roundabout way to
+find related items, builds an array, and sorts the output.
+
+minCommonTags = minimum number of tags that must match, not including any filtered tags
+maxRelated = maximum number of related items to show
+{% endcomment %}
+
+{% if site.showrelatedplans and page.tags contains 'learning plan' %}
+
+{% assign minCommonTags =  1 %}
+{% assign maxRelated = 4 %}
+
+{% assign all_docs = site.docs | sort: "title" %}
+{% assign filtered_docs = all_docs | where_exp: "doc","doc.tags contains 'learning plan'" %}
+{% assign current_docs = "" | split: ',' %}
+{% for doc in filtered_docs %}
+{% unless doc.tags contains 'deprecated' %}
+{% assign current_docs = current_docs | push: doc %}
+{% endunless %}
+{% endfor %}
+
+{% assign filterTags = "" | split: "|" %}
+{% for section in site.data.toc %}{% if section.links %}{% for entry in section.links %}
+{% assign filterTags = filterTags | push: entry.tag %}
+{% endfor %}{% endif %}{% endfor %}
+{% assign filterTags = filterTags | push: 'learning plan' %}
+
+    {% assign relateddocs = "" | split: ',' %}
+    
+    {% for doc in current_docs %}
+        {% assign sameTagCount = 0 %}
+        {% assign commonTags = '' %}
+    
+        {% for tag in doc.tags %}
+        {% unless filterTags contains tag %}
+          {% if doc.url != page.url %}
+            {% if page.tags contains tag %}
+              {% assign sameTagCount = sameTagCount | plus: 1 %}
+              {% capture tagmarkup %}{{ tag }}#{% endcapture %}
+              {% assign commonTags = commonTags | append: tagmarkup %}
+            {% endif %}
+          {% endif %}
+        {% endunless %}
+        {% endfor %}
+        {% if sameTagCount >= minCommonTags %}
+        {% capture relatedItem %}{{ sameTagCount }}|{{ doc.url }}|{{ doc.title }}|{{ commonTags }}{% endcapture %}
+        {% assign relateddocs = relateddocs | push: relatedItem %}
+        {% endif %}
+    {% endfor %}
+    {% assign relateddocs = relateddocs | sort | reverse %}
+
+{% if relateddocs.size > 0 %}
+<div class="relatedPosts">
+    <h2>Related Resources</h2>
+    <ul>
+    {% for item in relateddocs limit:maxRelated %} 
+
+    {% assign lineitem = item | split: '|' %}
+    {% assign matchingTagCount = lineitem[0] %}
+    {% assign url = lineitem[1] %}
+    {% assign title = lineitem[2] %}
+    {% assign matchingTags = lineitem[3] | split: "#" | compact %}
+        <li><a href="{{- site.baseurl -}}{{- url -}}">{{ title }}</a></li>
+    {% endfor %}
+    </ul>   
+</div>
+{% endif %}
+
+{% endif %}

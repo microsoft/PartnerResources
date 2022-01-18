@@ -30,6 +30,7 @@
             <div id="deprecated">This page has been deprecated and no longer being maintained.</div>
             {% endif %}
 	          {{ content }}	
+            {% include relatedplans.html %}
               {% if section.links %}<div class="section-index">
                <hr class="panel-line">{% for child in section.links %}
                  <div class="entry">

@@ -20,6 +20,9 @@ linkedin: microsoft
 logo_pixels: 34
 color: "#FFFFFF"
 
+# show related plans on learning plans
+showrelatedplans: false
+
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
