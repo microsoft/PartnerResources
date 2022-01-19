@@ -1817,10 +1817,10 @@ pre code {
     }
     .col-xl-2 {
         -webkit-box-flex: 0;
-        -webkit-flex: 0 0 16.66666667%;
-        -ms-flex: 0 0 16.66666667%;
-        flex: 0 0 16.66666667%;
-        max-width: 16.66666667%
+        -webkit-flex: 0 0 20%; /* modified from 16.66666667% */
+        -ms-flex: 0 0 20%;
+        flex: 0 0 20%;
+        max-width: 20%
     }
     .col-xl-3 {
         -webkit-box-flex: 0;
