@@ -3,7 +3,7 @@ layout: page
 title: SAP on Azure Resources
 description: Resources for SAP on Azure
 updated: 2022-01-19
-permalink: /azure/infrastructure/Sap-on-Azure
+permalink: /azure/infrastructure/sap-on-Azure
 tags: 
 - learning plan
 - azure
