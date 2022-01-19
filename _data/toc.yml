@@ -1,4 +1,4 @@
-- title: PartnerResources
+- title: Readiness Resources
   url: ""
   links:
     - title: "Azure"
@@ -77,3 +77,12 @@
         - title: Security
           url: "modern-workplace/security"
           tag: security
+- title: Skilling & Hands-on
+  url: ""
+  tag: workshop
+  links:
+    - title: "Modern Analytics Academy"
+      url: "azure/data-analytics-ai/modern-analytics-academy"
+      tag: maa
+      
+     
