@@ -9904,7 +9904,7 @@ button.bg-dark:focus {
     }
     .pb-md-5,
     .py-md-5 {
-        padding-bottom: 3rem; 
+        padding-bottom: 3rem!important
     }
     .pl-md-5,
     .px-md-5 {
