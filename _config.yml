@@ -7,7 +7,7 @@ baseurl: "/PartnerResources"
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2021 Microsoft"
+footer_content: "Copyright &copy; 2022 Microsoft"
 
 # Social (First three Required)
 repo: "https://github.com/microsoft/PartnerResources"
@@ -22,6 +22,9 @@ color: "#FFFFFF"
 
 # show related plans on learning plans
 showrelatedplans: true
+
+# include app insights
+includeappinsights: true
 
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
