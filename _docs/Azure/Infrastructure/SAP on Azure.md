@@ -3,14 +3,14 @@ layout: page
 title: SAP on Azure Resources
 description: Resources for SAP on Azure
 updated: 2022-01-19
-permalink: /azure/infrastructure/sap-on-Azure
+permalink: /azure/infrastructure/Sap-on-Azure
 tags: 
 - learning plan
 - azure
 - infrastructure
 ---
 
-# [SAP on Azure Resources](https://azure.microsoft.com/en-us/solutions/sap/resources/)
+# Learning Plan Resources for SAP on Azure
 
 ## SAP Solutions on Azure Overview
 
@@ -22,7 +22,7 @@ tags:
 
 [Secure Digital Transformation with SAP on Azure](https://azure.microsoft.com/en-us/resources/secure-digital-transformation-with-sap-on-azure/)
 
-## Benefits of Migrating SAP Application on Azure
+## Benefits of Migrating SAP Applications on Azure
 
 [Introduction to SAP on Azure](https://info.microsoft.com/ww-ondemand-azure-webinar-series-an-introduction-to-sap-on-azure.html)
 
@@ -33,9 +33,10 @@ tags:
 [Key customer benefits of the expanded SAP and Microsoft partnership](https://azure.microsoft.com/en-us/blog/key-customer-benefits-of-the-expanded-sap-and-microsoft-partnership/)
 
 [SAP Microsoft Partnership: Azure and Teams integration with SAP solutions](https://azure.microsoft.com/en-us/resources/microsoft-and-sap-collaborating-for-success/)
+
 [Microsoft Customer Story-SAP IT lifts its business-critical landscapes to the Azure cloud platform for scalable flexibility](https://customers.microsoft.com/en-us/story/1338954908978914227-sap-se-partner-professional-services-azure-active-directory)
 
-## Migrating SAP Application on Azure
+## Migrating SAP Applications on Azure
 [Strategies for migrating SAP systems to Microsoft Azure](https://www.microsoft.com/en-us/insidetrack/strategies-for-migrating-sap-systems-to-microsoft-azure)
 
 [SAP workload planning and deployment checklist](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/sap-deployment-checklist)
@@ -50,7 +51,7 @@ tags:
 
 [Find Migration Partners for SAP on Azure ](https://azure.microsoft.com/en-us/solutions/sap/#partners)
 
-## Architecting SAP Application on Azure and 
+## Architecting SAP Applications on Azure
 
 [Getting Started with SAP Workload Deployment on Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/get-started)
 
@@ -92,7 +93,7 @@ tags:
 ## SAP on Azure Hands-on labs
 [Enterprise Scale for SAP deployment automation framework - Hands-on Lab](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/automation-tutorial)
 
-[What The Hack - SAP on Azure](https://lastcoolnameleft.github.io/WhatTheHack/042-SAPOnAzure/)
+[Hackathon - SAP on Azure](https://lastcoolnameleft.github.io/WhatTheHack/042-SAPOnAzure/)
 
 [Deploy SAP HANA on Azure Step by Step Hands on Lab](https://github.com/microsoft/MCW-SAP-HANA-on-Azure/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20SAP%20HANA%20on%20Azure.md)
 
