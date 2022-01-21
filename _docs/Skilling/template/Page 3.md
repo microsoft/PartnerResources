@@ -1,7 +1,7 @@
 ---
 layout: workshop
 title: Name of Workshop or Series - Subpage Name
-permalink: /azure/data-analytics-ai/name-of-workshop-page-2
+permalink: /azure/data-analytics-ai/name-of-workshop-page-3
 tags: 
  - workshop
  - template
