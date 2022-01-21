@@ -17,17 +17,12 @@ tags:
 
 Azure Synapse Analytics is an analytical service evolved from Azure SQL Data Warehouse that brings together enterprise data warehousing and big data analytics. Provisioned or on-demand, Azure Synapse offers a unified experience to ingest, prepare, manage, and serve data for analytics, BI, and machine learning needs.
 
-Below you will find content to assist in upskilling in Azure Synapse. Because the product is rapidly evolving, some documentation may reference Azure SQL Data Warehouse, or refer to features that are in-preview and not yet released. Content is broken down as follows:
+Content is broken down as follows:
 
 * Keeping Up: latest information and links 
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
 * Certifications: relevant Microsoft exams or certifications
 * Community resources: user groups, events, blogs
-
-Additionally, some content may be marked with one or more icons:
-
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
 
 ## Keeping Up
 
@@ -35,6 +30,11 @@ The latest updates on Azure Sypanse Analytics.
 
 Azure Synapse Analytics is now generally available as of December 2020. 
 
+* [December 2021 Update](https://docs.microsoft.com/en-us/azure/synapse-analytics/whats-new)
+  * Article listing updates including Apache Spark updates, ML updates, security updates, and more.
+* [November 2021 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog)
+  * Preview of Data Explorer, Lake database designed, and more.
+  * See [Ignite 2021 video on Synapse Data Explorer](https://www.youtube.com/watch?v=DZEuqhqZ8Tg&t=586s)
 * [January 27 2021 Overview, Key Features, and Resources Webcast](https://microsoftevent.eventbuilder.com/event/37611)
   * Webcast from the Azure Synapse Team
   * Additional Resources from this webcast:
@@ -47,7 +47,6 @@ Azure Synapse Analytics is now generally available as of December 2020.
     * [Analytics-in-a-Day Content](https://partner.microsoft.com/en-us/asset/collection/analytics-in-a-day#/)
     * [Synapse Knowledge Center Documentation](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-knowledge-center)
     * [Azure Synapse Tech Community](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/bg-p/AzureSynapseAnalyticsBlog)
-
 
 ## Fundamentals
 
@@ -101,13 +100,13 @@ Azure Synapse Analytics is now generally available as of December 2020.
   * General security requirements needed for any data platform architecture
 * [Architect Migration and BCDR](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/) (Microsoft Docs)
 
-_The following documents are intended to be consumed in order, as they begin with a reference architecture through solution building:_
+__The following documents are intended to be consumed in order, as they begin with a reference architecture through solution building:__
 
 * [1. Reference Architecture: Automated Enterprise BI with Synapse](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/data/enterprise-bi-adf) (Microsoft Docs)
 * [2. Example Workloads: Data warehousing and analytics](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/data/data-warehouse) (Microsoft Docs)
 * [3. Solution Ideas: Streaming using HDInsight](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/streaming-using-hdinsight) (Microsoft Docs)
 
-_Pluralsight Courses:_
+__Pluralsight Courses:__
 
 * [Implementing a Cloud Data Warehouse in Microsoft Azure Synapse Analytics](https://www.pluralsight.com/courses/microsoft-azure-implementing-cloud-data-warehouses) (3rd Party, $)
 * [Modern Data Warehousing at Scale Using Azure Data Factory](https://www.pluralsight.com/courses/big-data-ldn-session-25) (3rd Party)
@@ -126,12 +125,12 @@ _Pluralsight Courses:_
 * [Azure Synapse Analytics Deep Dive: Optimize a data warehouse with dedicated SQL pools](https://note.microsoft.com/US-NOGEP-WBNR-FY21-02Feb-25-AzureSynapseAnalyticsDeepDiveOptimizeadatawarehousewithdedicatedSQLpools-SRDEM55626_Registration.html) (Webinar)
 * [Azure Synapse Analytics Deep Dive: Machine Learning in Azure Synapse Analytics](https://note.microsoft.com/US-NOGEP-WBNR-FY21-02Feb-26-AzureSynapseAnalyticsDeepDiveMachineLearninginAzureSynapseAnalytics-SRDEM55626_Registration.html) (Webinar)
 
-_WhatTheHack events are often in-person in a hands on format.  However, it can be worked on individually and self-paced:_
+__WhatTheHack events are often in-person in a hands on format.  However, it can be worked on individually and self-paced:__
 
 * [WhatTheHack - Driving Miss Data](https://github.com/microsoft/WhatTheHack/tree/master/003-DrivingMissData) (Hands on lab)
 * [WhatTheHack - This Old Data Warehouse](https://github.com/microsoft/WhatTheHack/tree/master/019-ThisOldDataWarehouse) (Hands on lab)
 
-_Microsoft OpenHack events are immersive, multi-day hands on experiences; specifically, the Modern Data Warehouse dives into Azure Synapse, Databricks, Azure Data Factory, and Azure Data Lake._
+__Microsoft OpenHack events are immersive, multi-day hands on experiences; specifically, the Modern Data Warehouse dives into Azure Synapse, Databricks, Azure Data Factory, and Azure Data Lake.__
 
 * [OpenHack - Modern Data Warehouse](https://openhack.microsoft.com/) (Hands on lab / workshop)
 * [CICD For SQL Analytics using SSDT](https://cloudblogs.microsoft.com/sqlserver/2019/11/07/new-in-azure-synapse-analytics-cicd-for-sql-analytics-using-sql-server-data-tools/) (SQL Server Blog)
@@ -159,6 +158,7 @@ Both of these exams are required for the [Microsoft Certified: Azure Data Engine
 
 ## Community
 
+* [Azure Synapse Analytics Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog)
 * [Power BI User Group](https://www.pbiusergroup.com/home)
 * [SQL PASS](https://www.pass.org/)
 * [Pragmatic Works: Blog on SQL Server](https://blog.pragmaticworks.com)
