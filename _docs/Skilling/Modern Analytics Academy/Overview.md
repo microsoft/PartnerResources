@@ -2,6 +2,7 @@
 layout: workshop
 title: Modern Analytics Academy Overview
 permalink: /azure/data-analytics-ai/modern-analytics-academy-overview
+showbreadcrumb: false
 tags: 
  - azure
  - synapse
