@@ -1,7 +1,7 @@
 ---
 layout: workshop
 title: Name of Workshop or Series
-permalink: /azure/data-analytics-ai/name-of-workshop-page-1
+permalink: /azure/data-analytics-ai/name-of-workshop
 tags: 
  - workshop
  - template
@@ -20,7 +20,11 @@ Welcome to the Workshop Template!
 
 This template is meant to be copied and used as a starting point for building a workshop or other skilling series. This is a great page to start with, adding an overview section and then filling out however many subpages are needed. You may need more, or fewer, pages.
 
+Update the above nav for your workshop. Each series is unique, so the number of pages will vary, but the goal of the section is to make it easy to navigate between pages within the workshop.
+
 Any embedded resources that needed to added to the repo directly, such as PPTX or images, should be housed in the root assets folder in a subfolder with a short name. For example, Modern Analytics Academy has content in /assets/maa/filename.pptx; this is necessary to support Github pages deployment. Ideally, video content should be embedded or linked to. See the Modern Analytics Academy for samples on how to do this.
+
+__Important!__ Don't forget to update the 'front-matter' at the top of the document (the content between ---). Update the name and permalink -- remember each page needs a unqiue permalink. See how the template simply addes to the permalink with the sub page name.
 
 ## Live Schedule
 
