@@ -144,17 +144,11 @@ __Microsoft OpenHack events are immersive, multi-day hands on experiences; speci
 
 ## Certifications
 
-Exams such as the [70-767 Implementing a Data Warehouse](https://www.microsoft.com/en-us/learning/exam-70-767.aspx) are still available, however we recommend the new role-based certifications as these better align to industry trends and the mix of technical skills needed to successfully build Data & AI solutions.
+Exams such as the [70-767 Implementing a Data Warehouse](https://www.microsoft.com/en-us/learning/exam-70-767.aspx) is no longer available and was retired on January 31, 2021. We recommend the new role-based certifications, as these better align to industry trends and the mix of technical skills needed to successfully design and implement Data & AI solutions.
 
-Although DP-200 and DP-201 are similar, DP-200 focuses more on the "How?" solutions are implemented, typically requiring code/scripting experience and knowledge of how to enable certain features.  DP-201 focuses more on the "Why?" -- understanding how different components work together.
+The first two role-based exams, DP-200 and DP-201 have also been retired and replaced with [DP-203 Data Engineering on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203). DP-203 consolidates all of the goals of DP-200 and DP-201, and includes the latest features in Azure Synapse. 
 
-* [Exam DP-200: Implementing an Azure Data Solution](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200)
-* [Exam DP-201: Designing an Azure Data Solution](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201)
-
-Both of these exams are required for the [Microsoft Certified: Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer?wt.mc_id=learningredirect_certs-web-wwl) certification.
-
-* [Exam DP-203: Data Engineering on Microsoft Azure (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
- * Exams DP-200 and DP-201 will be replaced with exam DP-203 on February 23, 2021.
+Passing [DP-203](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203) is required for the [Microsoft Certified: Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer?wt.mc_id=learningredirect_certs-web-wwl) certification.
 
 ## Community
 
