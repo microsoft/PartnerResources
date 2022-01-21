@@ -2,7 +2,7 @@
 layout: page
 title: Azure Synapse Analytics
 description: Resources for Azure Synapse Analytics
-updated: 2021-12-01
+updated: 2022-11-21
 permalink: /azure/data-analytics-ai/modern-data-warehouse
 tags: 
 - azure
