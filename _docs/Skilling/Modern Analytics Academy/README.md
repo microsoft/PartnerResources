@@ -5,9 +5,10 @@ description: Resources for Azure Synapse Analytics
 permalink: /azure/data-analytics-ai/modern-analytics-academy
 showbreadcrumb: false
 tags: 
- - azure
- - synapse
- - analytics
+- azure
+- data, analytics, and ai
+- synapse
+- workshop
 ---
 
 # Modern Analytics Academy

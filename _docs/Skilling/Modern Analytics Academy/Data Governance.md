@@ -1,12 +1,15 @@
 ---
-layout: workshop
+layout: page
 title: Modern Analytics Academy - Governance
+description: Workshop focused on Modern Analytics - Data Governance
 permalink: /azure/data-analytics-ai/modern-analytics-academy-data-governance
+showbreadcrumb: false
 tags: 
- - azure
- - synapse
- - analytics
- - governance
+- azure
+- data, analytics, and ai
+- purview
+- data governance
+- workshop
 ---
 
 # Modern Analytics Academy - Data Governance

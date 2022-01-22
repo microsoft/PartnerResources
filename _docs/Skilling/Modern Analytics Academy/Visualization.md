@@ -1,11 +1,14 @@
 ---
-layout: workshop
+layout: page
 title: Modern Analytics Academy - Visualization
+description: Workshop focused on Modern Analytics - Data Pipelines
 permalink: /azure/data-analytics-ai/modern-analytics-academy-data-visualization
+showbreadcrumb: false
 tags: 
- - azure
- - synapse
- - analytics
+- azure
+- data, analytics, and ai
+- synapse
+- workshop
 ---
 
 # Modern Analytics Academy - Data Visualization

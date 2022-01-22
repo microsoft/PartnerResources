@@ -1,11 +1,14 @@
 ---
-layout: workshop
+layout: page
 title: Modern Analytics Academy - Acquisition and Storage
+description: Workshop focused on Modern Analytics - Acquisition and Storage
 permalink: /azure/data-analytics-ai/modern-analytics-academy-data-acquisition
+showbreadcrumb: false
 tags: 
- - azure
- - synapse
- - analytics
+- azure
+- data, analytics, and ai
+- synapse
+- workshop
 ---
 
 # Modern Analytics Academy - Data Acquisition and Storage

@@ -1,11 +1,14 @@
 ---
-layout: workshop
+layout: page
 title: Modern Analytics Academy - Modeling
+description: Workshop focused on Modern Analytics - Data Modeling
 permalink: /azure/data-analytics-ai/modern-analytics-academy-data-modeling
+showbreadcrumb: false
 tags: 
- - azure
- - synapse
- - analytics
+- azure
+- data, analytics, and ai
+- synapse
+- workshop
 ---
 
 # Modern Analytics Academy - Data Modeling
@@ -18,8 +21,6 @@ tags:
 * [Module 3: Data Pipelines](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-pipelines)
 * [Module 4: Data Governance](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-governance)
 * [Module 5: Visualization](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-visualization)
-
-(more information coming soon as the content is completed)
 
 Welcome to the Modern Analytics Academy (MAA) - Data Modeling!
 

@@ -1,11 +1,14 @@
 ---
-layout: workshop
+layout: page
 title: Modern Analytics Academy - Data Pipelines
+description: Workshop focused on Modern Analytics - Data Pipelines
 permalink: /azure/data-analytics-ai/modern-analytics-academy-data-pipelines
+showbreadcrumb: false
 tags: 
- - azure
- - synapse
- - analytics
+- azure
+- data, analytics, and ai
+- synapse
+- workshop
 ---
 
 # Modern Analytics Academy - Data Pipelines
