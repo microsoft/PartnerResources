@@ -25,4 +25,8 @@ h6 {
 .td-content>h2 {
     margin-top: 5px; 
 }
+
+.td-content>h2:not(:first-child) {
+    margin-top: 5px;
+}
 /* modified .col-xl-2, col-xl-8 */
