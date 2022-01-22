@@ -14,7 +14,7 @@ tags:
 
 # Modern Analytics Academy - Overview
 
-##  Content
+## Content
 
 * [Modern Analytics Academy Home](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy)
 * Modern Analytics Overview
