@@ -1,7 +1,10 @@
 ---
-layout: workshop
+layout: page
 title: Name of Workshop or Series
+description: Short Description of Workshop
 permalink: /azure/data-analytics-ai/name-of-workshop
+updated: 2022-01-21
+showbreadcrumb: false
 tags: 
  - workshop
  - template
