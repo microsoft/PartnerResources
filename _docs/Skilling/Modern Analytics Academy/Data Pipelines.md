@@ -3,6 +3,7 @@ layout: page
 title: Modern Analytics Academy - Data Pipelines
 description: Workshop focused on Modern Analytics - Data Pipelines
 permalink: /azure/data-analytics-ai/modern-analytics-academy-data-pipelines
+updated: 2021-12-16
 showbreadcrumb: false
 tags: 
 - azure

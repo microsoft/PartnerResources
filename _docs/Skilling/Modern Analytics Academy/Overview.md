@@ -3,6 +3,7 @@ layout: page
 title: Modern Analytics Academy Overview
 description: Workshop focused on Modern Analytics - Overview
 permalink: /azure/data-analytics-ai/modern-analytics-academy-overview
+updated: 2021-12-16
 showbreadcrumb: false
 tags: 
 - azure

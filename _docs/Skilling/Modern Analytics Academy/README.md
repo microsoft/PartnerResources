@@ -3,6 +3,7 @@ layout: page
 title: Modern Analytics Academy Home
 description: Resources for Azure Synapse Analytics
 permalink: /azure/data-analytics-ai/modern-analytics-academy
+updated: 2021-12-16
 showbreadcrumb: false
 tags: 
 - azure

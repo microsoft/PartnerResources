@@ -3,6 +3,7 @@ layout: page
 title: Modern Analytics Academy - Modeling
 description: Workshop focused on Modern Analytics - Data Modeling
 permalink: /azure/data-analytics-ai/modern-analytics-academy-data-modeling
+updated: 2021-12-16
 showbreadcrumb: false
 tags: 
 - azure

@@ -3,6 +3,7 @@ layout: page
 title: Modern Analytics Academy - Governance
 description: Workshop focused on Modern Analytics - Data Governance
 permalink: /azure/data-analytics-ai/modern-analytics-academy-data-governance
+updated: 2021-12-16
 showbreadcrumb: false
 tags: 
 - azure
