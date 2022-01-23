@@ -16,7 +16,7 @@ tags:
 
 ##  Content
 * Modern Analytics Academy Home
-* [Modern Analytics Overview](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-overview)
+* [Modern Analytics Overview](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-overview)
 * [Module 1: Data Acquisition and Storage](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-acquisition)
 * [Module 2: Data Modeling](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-modeling)
 * [Module 3: Data Pipelines](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-pipelines)
