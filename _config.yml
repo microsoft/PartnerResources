@@ -1,6 +1,5 @@
-remote_theme: bhitney/docsy-jekyll
 
-title: " | Partner Resources"
+title: "Partner Resources"
 author: Microsoft
 baseurl: "/PartnerResources"
 
