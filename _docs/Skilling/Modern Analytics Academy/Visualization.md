@@ -2,7 +2,9 @@
 layout: page
 title: Modern Analytics Academy - Visualization
 description: Workshop focused on Modern Analytics - Data Pipelines
-permalink: /azure/data-analytics-ai/modern-analytics-academy-data-visualization
+permalink: /skilling/data-analytics-ai/modern-analytics-academy-data-visualization
+redirect_from:
+  - /azure/data-analytics-ai/modern-analytics-academy-data-visualization
 updated: 2021-12-16
 showbreadcrumb: false
 tags: 
@@ -15,12 +17,12 @@ tags:
 # Modern Analytics Academy - Data Visualization
 
 ##  Content
-* [Modern Analytics Academy Home](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy)
-* [Modern Analytics Overview](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-overview)
-* [Module 1: Data Acquisition and Storage](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-acquisition)
-* [Module 2: Data Modeling](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-modeling)
-* [Module 3: Data Pipelines](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-pipelines)
-* [Module 4: Data Governance](/PartnerResources/azure/data-analytics-ai/modern-analytics-academy-data-governance)
+* [Modern Analytics Academy Home](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy)
+* [Modern Analytics Overview](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-overview)
+* [Module 1: Data Acquisition and Storage](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-acquisition)
+* [Module 2: Data Modeling](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-modeling)
+* [Module 3: Data Pipelines](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-pipelines)
+* [Module 4: Data Governance](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-governance)
 * Module 5: Visualization
 
 Welcome to the Modern Analytics Academy (MAA) - Visualization session!
