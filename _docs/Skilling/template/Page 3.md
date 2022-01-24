@@ -16,7 +16,7 @@ tags:
 * [Home](/PartnerResources/skilling/template/name-of-workshop)
 * [Page 1](/PartnerResources/skilling/template/name-of-workshop-page-1)
 * [Page 2](/PartnerResources/skilling/template/name-of-workshop-page-2)
-* [Page 3]
+* Page 3
 
 Welcome to the Workshop Template!
 
