@@ -1,6 +1,6 @@
 ---
 layout: sectionlist
-title: Azure Learning Plans
+title: All Azure Readiness Resources
 permalink: /azure/
 showbreadcrumb: false
 includesection:

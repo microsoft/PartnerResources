@@ -1,6 +1,6 @@
 ---
 layout: sectionlist
-title: All Industry Plans
+title: All Readiness Resources By Industry
 permalink: /industry/
 showbreadcrumb: false
 includesection:
