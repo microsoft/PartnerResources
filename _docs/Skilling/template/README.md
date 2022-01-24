@@ -15,9 +15,9 @@ tags:
 ##  Content
 
 * Series Home
-* [Page 1](/skilling/template/name-of-workshop-page-1)
-* [Page 2](/skilling/template/name-of-workshop-page-2)
-* [Page 3](/skilling/template/name-of-workshop-page-3)
+* [Page 1](/PartnerResources/skilling/template/name-of-workshop-page-1)
+* [Page 2](/PartnerResources/skilling/template/name-of-workshop-page-2)
+* [Page 3](/PartnerResources/skilling/template/name-of-workshop-page-3)
 
 Welcome to the Workshop Template!
 
