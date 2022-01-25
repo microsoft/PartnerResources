@@ -1,14 +1,16 @@
 ---
 layout: page
-title: LAB11B – Scale an AVS Cluster
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-11
+title: AVS HOL LAB11B – Scale an AVS Cluster
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-11
+redirect_from:
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-11
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
-
-# LAB11B – Scale an AVS Cluster
 
 This Labs requires enough available quota to be able to scale. If you do not
 have the quota, you will still be able to experience the portal experience and

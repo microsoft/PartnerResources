@@ -1,14 +1,18 @@
 ---
 layout: page
-title: Lab Objectives
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-objectives
+title: AVS Hands-on Labs - Lab Objectives
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-objectives
+redirect_from:
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-objectives
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# Lab Objectives
+# AVS Hands-on Labs - Lab Objectives
 
 In this lab you are going to learn how to connect to Azure VMware Solution to
 manage it and configure enterprise integrations. You will learn how to configure

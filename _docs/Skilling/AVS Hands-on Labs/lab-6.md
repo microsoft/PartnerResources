@@ -1,14 +1,17 @@
 ---
 layout: page
-title: LAB6 – Deploy a virtual machine on Azure VMware Solution
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-6
+title:  AVS HOL LAB6 – Deploy a virtual machine on Azure VMware Solution
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-6
+redirect_from:
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-6
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
  - AVS
 ---
 
-# LAB6 – Deploy a virtual machine on Azure VMware Solution
+# AVS HOL LAB6 – Deploy a virtual machine on Azure VMware Solution
 
 With your Azure VMware Solution Private Cloud deployed and configured the next
 step would be to deploy a virtual machine on it.

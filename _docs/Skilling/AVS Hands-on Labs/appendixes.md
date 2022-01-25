@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Appendixes
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/appendixes
+title: AVS Hands-on Labs - Appendixes
+permalink: /skilling/infrastructure/avs-hands-on-labs-appendixes
+redirect_from:
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/appendixes
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
 # Appendixes

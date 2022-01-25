@@ -1,14 +1,18 @@
 ---
 layout: page
-title: Lab Environment
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment
+title: AVS Hands-on Labs - Lab Environment
+permalink:  /skilling/infrastructure/avs-hands-on-labs-lab-environment
+redirect_from:
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# Lab Environment
+# AVS Hands-on Labs - Lab Environment
 
 ## Azure VMware Solution Environment
 

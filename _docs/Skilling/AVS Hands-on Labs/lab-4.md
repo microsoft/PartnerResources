@@ -1,14 +1,18 @@
 ---
 layout: page
-title: LAB4 – Enable Internet Access to Azure VMware Solution
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-4
+title: AVS HOL LAB4 – Enable Internet Access to Azure VMware Solution
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-4
+redirect_from:
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-4
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# LAB4 – Enable Internet Access to Azure VMware Solution
+# AVS HOL LAB4 – Enable Internet Access to Azure VMware Solution
 
 > This step has been performed part of pre-provisioning the lab environment.  
 >

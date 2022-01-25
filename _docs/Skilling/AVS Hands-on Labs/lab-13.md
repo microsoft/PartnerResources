@@ -1,14 +1,18 @@
 ---
 layout: page
-title: LAB13B – Configure Alerts and Notifications
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-13
+title: AVS HOL LAB13B – Configure Alerts and Notifications
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-13
+redirect_from:
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-13
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# LAB13B – Configure Alerts and Notifications
+# AVS HOL LAB13B – Configure Alerts and Notifications
 
 In this lab you'll learn how to configure [Azure Action
 Groups](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/action-groups)

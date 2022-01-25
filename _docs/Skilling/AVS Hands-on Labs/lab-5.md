@@ -1,14 +1,18 @@
 ---
 layout: page
-title: LAB5 – Create content libraries
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-5
+title: AVS HOL LAB5 – Create content libraries
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-5
+redirect_from: 
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-5
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# LAB5 – Create content libraries
+# AVS HOL LAB5 – Create content libraries
 
 [Content
 libraries](https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vsphere.vm_admin.doc/GUID-254B2CE8-20A8-43F0-90E8-3F6776C2C896.html)

@@ -1,14 +1,18 @@
 ---
 layout: page
-title: LAB9 – Assign Public IP to virtual machine on Azure VMware Solution
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-9
+title: AVS HOL LAB9 – Assign Public IP to virtual machine on Azure VMware Solution
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-9
+redirect_from: 
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-9
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# LAB9 – Assign Public IP to virtual machine on Azure VMware Solution
+# AVS HOL LAB9 – Assign Public IP to virtual machine on Azure VMware Solution
 
 Next, you will assign a Public IP address to the virtual machine. You will need
 to create a Firewall Policy in the VWAN instance deployed in a previous lab.

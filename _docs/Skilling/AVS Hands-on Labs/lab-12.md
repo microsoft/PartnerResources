@@ -1,13 +1,18 @@
 ---
 layout: page
-title: LAB12B – Configure HCX (HoL)
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-12
+title: AVS HOL LAB12B – Configure HCX 
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-12
+redirect_from:
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-12
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
-# LAB12B – Configure HCX (HoL)
+
+# AVS HOL LAB12B – Configure HCX (HoL)
 
 VMware HCX is included as part of Azure VMware Solution Private Cloud and offers
 many ways to migrate workloads and can be used for disaster recovery operations.

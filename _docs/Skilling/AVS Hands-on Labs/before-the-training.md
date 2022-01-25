@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Before the Training
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training
+title: AVS Hands-on Labs - Before the Training
+permalink: /skilling/infrastructure/avs-hands-on-labs-before-the-training
+redirect_from:
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
 

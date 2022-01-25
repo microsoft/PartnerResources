@@ -1,14 +1,18 @@
 ---
 layout: page
-title: LAB3 – Initial NSX-T configuration
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-3
+title: AVS HOL LAB3 – Initial NSX-T configuration
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-3
+redirect_from: 
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-3
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# LAB3 – Initial NSX-T configuration
+# AVS HOL LAB3 – Initial NSX-T configuration
 
 ## Create DHCP Server from Azure portal
 

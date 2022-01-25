@@ -1,19 +1,25 @@
 ---
 layout: page
-title: Hands-on Labs
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs
+title: AVS Hands-on Labs
+permalink: /skilling/infrastructure/avs-hands-on-labs
+redirect_from:
+ - /azure/infrastructure/azure-vmware-solution/hands-on-labs
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# Hands-on Labs
+# AVS Hands-on Labs
 
-[Before the Training]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training)
+## Table of Contents
 
-- [Microsoft Learn Module]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training#microsoft-learn-module)
-- [Capacity Planning (optional)]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training#capacity-planning-optional)
+[Before the Training](before-the-training.md)
+
+- [Microsoft Learn Module](before-the-training.md#microsoft-learn-module)
+- [Capacity Planning (optional)](before-the-training.md#capacity-planning-optional)
 
 [Expected Time Needed Per Lab]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/expected-time-needed-per-lab#expected-time-needed-per-lab)
 

@@ -81,8 +81,10 @@
   url: ""
   tag: workshop
   links:
+    - title: "AVS Hands-on Labs"
+      url: "skilling/infrastructure/avs-hands-on-labs"
+      tag: avshol
     - title: "Modern Analytics Academy"
-      url: "azure/data-analytics-ai/modern-analytics-academy"
+      url: "skilling/data-analytics-ai/modern-analytics-academy"
       tag: maa
-      
      
