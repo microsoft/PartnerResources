@@ -4,6 +4,7 @@ title: AVS HOL LAB2 – Configure Private Cloud access
 permalink: /skilling/infrastructure/avs-hands-on-labs-lab-2
 redirect_from:
 - /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-2
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure

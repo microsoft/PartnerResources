@@ -4,6 +4,7 @@ title: AVS HOL LAB12B – Configure HCX
 permalink: /skilling/infrastructure/avs-hands-on-labs-lab-12
 redirect_from:
 - /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-12
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure

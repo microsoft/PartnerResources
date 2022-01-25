@@ -4,6 +4,7 @@ title:  AVS HOL LAB6 – Deploy a virtual machine on Azure VMware Solution
 permalink: /skilling/infrastructure/avs-hands-on-labs-lab-6
 redirect_from:
 - /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-6
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure

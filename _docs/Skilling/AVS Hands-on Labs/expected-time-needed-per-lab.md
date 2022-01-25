@@ -4,6 +4,7 @@ title: AVS Hands-on Labs - Expected Time per Lab
 permalink: /skilling/infrastructure/avs-hands-on-labs-expected-time-needed-per-lab
 redirect_from: 
 - /azure/infrastructure/azure-vmware-solution/hands-on-labs/expected-time-needed-per-lab
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure

@@ -4,6 +4,7 @@ title: AVS HOL LAB7 – Access Azure Storage Account through Azure Private Endpo
 permalink: /skilling/infrastructure/avs-hands-on-labs-lab-7
 redirect_from:
 - /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-7
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure

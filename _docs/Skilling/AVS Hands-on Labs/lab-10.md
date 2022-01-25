@@ -4,6 +4,7 @@ title: AVS HOL LAB10 – Connect from Azure Application Gateway to AVS hosted wo
 permalink: /skilling/infrastructure/avs-hands-on-labs-lab-10
 redirect_from:
 - /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-10
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure

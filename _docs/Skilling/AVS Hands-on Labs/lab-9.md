@@ -4,6 +4,7 @@ title: AVS HOL LAB9 – Assign Public IP to virtual machine on Azure VMware Solu
 permalink: /skilling/infrastructure/avs-hands-on-labs-lab-9
 redirect_from: 
 - /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-9
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure

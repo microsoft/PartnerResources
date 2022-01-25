@@ -4,6 +4,7 @@ title: AVS HOL LAB14B – Create a remote content library in Azure Blob Storage
 permalink: /skilling/infrastructure/avs-hands-on-labs-lab-14
 redirect_from:
 - /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-14
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure

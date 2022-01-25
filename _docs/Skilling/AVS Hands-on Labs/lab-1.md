@@ -4,6 +4,7 @@ title: AVS HOL LAB1 – Azure VMware Solution Deployment
 permalink: /skilling/infrastructure/avs-hands-on-labs-lab-1
 redirect_from:
  - /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-1
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure

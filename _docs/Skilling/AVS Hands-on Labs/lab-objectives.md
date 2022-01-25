@@ -4,6 +4,7 @@ title: AVS Hands-on Labs - Lab Objectives
 permalink: /skilling/infrastructure/avs-hands-on-labs-lab-objectives
 redirect_from:
 - /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-objectives
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure

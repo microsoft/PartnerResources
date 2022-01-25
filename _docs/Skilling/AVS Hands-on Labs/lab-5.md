@@ -4,6 +4,7 @@ title: AVS HOL LAB5 – Create content libraries
 permalink: /skilling/infrastructure/avs-hands-on-labs-lab-5
 redirect_from: 
 - /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-5
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure

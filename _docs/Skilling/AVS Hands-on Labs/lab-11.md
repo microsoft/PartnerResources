@@ -4,6 +4,7 @@ title: AVS HOL LAB11B – Scale an AVS Cluster
 permalink: /skilling/infrastructure/avs-hands-on-labs-lab-11
 redirect_from:
 - /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-11
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure

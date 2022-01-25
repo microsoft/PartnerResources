@@ -4,6 +4,7 @@ title: AVS Hands-on Labs
 permalink: /skilling/infrastructure/avs-hands-on-labs
 redirect_from:
  - /azure/infrastructure/azure-vmware-solution/hands-on-labs
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
@@ -12,6 +13,10 @@ tags:
 ---
 
 # AVS Hands-on Labs
+
+## Table of Contents
+
+[Before the Training](avs-hands-on-labs-before-the-training)
 
 [Before the Training]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training)
 

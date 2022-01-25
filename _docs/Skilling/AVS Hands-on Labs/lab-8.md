@@ -4,6 +4,7 @@ title: AVS HOL LAB8 – Enable Public IP for AVS
 permalink: /skilling/infrastructure/avs-hands-on-labs-lab-8
 redirect_from:
 - /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-8
+showbreadcrumb: false
 tags: 
  - azure
  - infrastructure
