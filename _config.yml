@@ -68,7 +68,7 @@ defaults:
 
 relative_links:
   enabled: true
-  collections: false
+  collections: true
 
 plugins:
   - jekyll-redirect-from
