@@ -81,7 +81,7 @@ tags:
 
 * [AVS Service Limits](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-vmware-solution-limits)
 * [AVS Reference Architecture](https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-hub-and-spoke)
-* [VMware Cloud Workload Migration Tools Whiepaper v1 AVS Edition](assets/VMware_Cloud_Workload_Migration_Tools_Whiepaper_V1_AVS_Edition.pdf) ([Original](https://assets.contentstack.io/v3/assets/blt58b49a8a0e43b5ff/blt41c2affe409de883/5fff769ef093203f68d435d6/VMware_Cloud_Workload_Migration_Tools_Whiepaper_V1.pdf))
+* [VMware Cloud Workload Migration Tools Whiepaper v1 AVS Edition]({{ site.baseurl }}/assets/docs/Azure/Infrastructure/VMware_Cloud_Workload_Migration_Tools_Whitepaper_V1_AVS_Edition.pdf) ([Original](https://assets.contentstack.io/v3/assets/blt58b49a8a0e43b5ff/blt41c2affe409de883/5fff769ef093203f68d435d6/VMware_Cloud_Workload_Migration_Tools_Whiepaper_V1.pdf))
 * [Third Party Appliance with AVS](https://techcommunity.microsoft.com/t5/azure-migration/azure-vmware-solution-avs-connecting-3rd-party-networking-and/ba-p/1524297)
 * [Disaster Recovery Drill from AVS](https://docs.microsoft.com/en-us/azure/site-recovery/avs-tutorial-dr-drill-azure)
 * [Backup solutions for Azure VMware Solution virtual machines (VMs)](https://docs.microsoft.com/en-us/azure/azure-vmware/ecosystem-back-up-vms)
