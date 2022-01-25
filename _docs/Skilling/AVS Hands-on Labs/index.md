@@ -16,33 +16,26 @@ tags:
 
 ## Table of Contents
 
-jekyll-relative-linkes:
 [Before the Training](before-the-training.md)
 
-just permalink, relative:
-[Before the Training](avs-hands-on-labs-before-the-training)
+- [Microsoft Learn Module](before-the-training.md#microsoft-learn-module)
+- [Capacity Planning (optional)](before-the-training.md#capacity-planning-optional)
 
-original:
-[Before the Training]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training)
+[Expected Time Needed Per Lab](expected-time-needed-per-lab.md)
 
-- [Microsoft Learn Module]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training#microsoft-learn-module)
-- [Capacity Planning (optional)]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training#capacity-planning-optional)
+- [Important Notes](expected-time-needed-per-lab.md#important-notes)
 
-[Expected Time Needed Per Lab]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/expected-time-needed-per-lab#expected-time-needed-per-lab)
+[Lab Environment](lab-environment.md#lab-environment)
 
-- [Important Notes]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/expected-time-needed-per-lab#important-notes)
+- [Azure VMware Solution Environment](lab-environment.md#azure-vmware-solution-environment)
 
-[Lab Environment]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment#lab-environment)
-
-- [Azure VMware Solution Environment]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment#azure-vmware-solution-environment)
-
-- [Lab Architecture Diagram]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment#lab-architecture-diagram)
+- [Lab Architecture Diagram](lab-environment.md#lab-architecture-diagram)
   
-- [On-Premises Connectivity]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment#on-premises-connectivity)
+- [On-Premises Connectivity](lab-environment.md##on-premises-connectivity)
   
-- [Resources]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment#resources)
+- [Resources](lab-environment.md#resources)
   
-- [Architecture Diagram]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment#architecture-diagram)
+- [Architecture Diagram](lab-environment.md#architecture-diagram)
 
 [Lab Objectives]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-objectives)
 
