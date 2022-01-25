@@ -16,8 +16,13 @@ tags:
 
 ## Table of Contents
 
+jekyll-relative-linkes:
+[Before the Training](before-the-training.md)
+
+just permalink, relative:
 [Before the Training](avs-hands-on-labs-before-the-training)
 
+original:
 [Before the Training]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training)
 
 - [Microsoft Learn Module]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training#microsoft-learn-module)
