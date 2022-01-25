@@ -12,7 +12,7 @@ tags:
 - cognitive services
 ---
 
-# Learning Plan Resources for Cognitive Services
+# Cognitive Services Readiness Resources
 
 ## Fundamentals
 

@@ -12,7 +12,7 @@ tags:
 - cognitive services
 ---
 
-# Learning Plan Resources for Knowledge Mining with Cognitive Search
+# Knowledge Mining with Cognitive Search Readiness Resources
 
 ## Fundamentals
 

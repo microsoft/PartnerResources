@@ -12,7 +12,7 @@ tags:
 - ai
 ---
 
-# Learning Plan Resources for Machine Learning
+# Machine Learning Readiness Resources
 
 This learning plan will guide you through implementing Machine Learning (ML) solutions on Azure with Azure Machine Learning, a suite of services that enables those new to ML, as well as experienced data scientists, to build and operationalize ML models.   
 

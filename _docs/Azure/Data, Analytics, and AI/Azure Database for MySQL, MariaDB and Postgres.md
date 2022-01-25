@@ -13,7 +13,7 @@ tags:
 - database
 ---
 
-# Learning Plan Resources for Azure Database for MySQL, MariaDB, and Postgres
+# Azure Database for MySQL, MariaDB, and Postgres Readiness Resources
 
 ## Fundamentals
 

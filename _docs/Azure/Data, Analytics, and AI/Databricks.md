@@ -13,7 +13,7 @@ tags:
 - machine learning
 ---
 
-# Learning Plan Resources for Azure Databricks
+# Azure Databricks Readiness Resources
 
 ## Fundamentals
 

@@ -12,7 +12,7 @@ tags:
 - cosmos db
 ---
 
-# Learning Plan Resources for Cosmos DB
+# Cosmos DB Readiness Resources
 
 ## Fundamentals
 

@@ -12,7 +12,7 @@ tags:
 - bot service
 ---
 
-# Learning Plan Resources for Conversational AI
+# Conversational AI Readiness Resources
 
 ## Fundamentals
 

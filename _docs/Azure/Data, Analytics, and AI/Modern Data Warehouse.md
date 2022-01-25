@@ -13,7 +13,7 @@ tags:
 - data warehouse
 ---
 
-# Learning Plan Resources for Azure Synapse Analytics
+# Azure Synapse Analytics Readiness Resources
 
 Azure Synapse Analytics is an analytical service evolved from Azure SQL Data Warehouse that brings together enterprise data warehousing and big data analytics. Provisioned or on-demand, Azure Synapse offers a unified experience to ingest, prepare, manage, and serve data for analytics, BI, and machine learning needs.
 

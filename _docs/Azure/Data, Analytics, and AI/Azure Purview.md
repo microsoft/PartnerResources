@@ -12,7 +12,7 @@ tags:
 - governance
 ---
 
-# Learning Plan Resources for Azure Purview
+# Azure Purview Readiness Resources
 
 ## Fundamentals
 
