@@ -1,6 +1,6 @@
 ---
 layout: planlist
-title: Azure IoT Learning Plans
+title: Azure IoT Readiness Resources
 permalink: /azure/iot/
 includemethod: all
 includeplans:

@@ -1,6 +1,6 @@
 ---
 layout: planlist
-title: Nonprofit Resources
+title: Nonprofit Readiness Resources
 permalink: /industry/nonprofit/
 includemethod: all
 includeplans:

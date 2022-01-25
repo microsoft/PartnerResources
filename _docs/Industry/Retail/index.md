@@ -1,6 +1,6 @@
 ---
 layout: planlist
-title: Retail Learning Plans
+title: Retail Readiness Resources
 permalink: /industry/retail/
 includemethod: all
 includeplans:

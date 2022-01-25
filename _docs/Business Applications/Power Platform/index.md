@@ -1,6 +1,6 @@
 ---
 layout: planlist
-title: Power Platform
+title: Power Platform Readiness Resources
 permalink: /business-applications/power-platform/
 includemethod: all
 includeplans:

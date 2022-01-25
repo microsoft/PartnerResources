@@ -1,6 +1,6 @@
 ---
 layout: planlist
-title: Customer Engagement Learning Plans
+title: Customer Engagement Readiness Resources
 permalink: /business-applications/customer-engagement/
 includemethod: all
 includeplans:
