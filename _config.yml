@@ -66,9 +66,7 @@ defaults:
     values:
       layout: "page"
 
- relative_links:
-  enabled:     true
-  collections: true
+
 
 plugins:
   - jekyll-redirect-from
