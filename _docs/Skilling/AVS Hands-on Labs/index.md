@@ -18,8 +18,8 @@ tags:
 
 [Before the Training](before-the-training.md)
 
-- [Microsoft Learn Module]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training#microsoft-learn-module)
-- [Capacity Planning (optional)]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training#capacity-planning-optional)
+- [Microsoft Learn Module](before-the-training.md#microsoft-learn-module)
+- [Capacity Planning (optional)](before-the-training.md#capacity-planning-optional)
 
 [Expected Time Needed Per Lab]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/expected-time-needed-per-lab#expected-time-needed-per-lab)
 
