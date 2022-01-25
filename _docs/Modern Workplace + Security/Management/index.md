@@ -1,6 +1,6 @@
 ---
 layout: planlist
-title: Modern Workplace Management Learning Plans
+title: Modern Workplace Management Readiness Resources
 permalink: /modern-workplace/management/
 includemethod: all
 includeplans:

@@ -1,6 +1,6 @@
 ---
 layout: planlist
-title: Sustainability Learning Plans
+title: Sustainability Readiness Resources
 permalink: /industry/sustainability/
 includemethod: all
 includeplans:

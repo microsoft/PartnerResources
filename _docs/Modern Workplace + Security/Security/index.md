@@ -1,6 +1,6 @@
 ---
 layout: planlist
-title: Security Resources
+title: Security Readiness Resources
 permalink: /modern-workplace/security/
 includemethod: all
 includeplans:

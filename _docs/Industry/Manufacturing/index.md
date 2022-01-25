@@ -1,6 +1,6 @@
 ---
 layout: planlist
-title: Manufacturing Learning Plans
+title: Manufacturing Readiness Resources
 permalink: /industry/manufacturing/
 includemethod: all
 includeplans:

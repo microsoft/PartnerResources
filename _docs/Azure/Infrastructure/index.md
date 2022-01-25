@@ -1,6 +1,6 @@
 ---
 layout: planlist
-title: Azure Infrastructure Learning Plans
+title: Azure Infrastructure Readiness Resources
 permalink: /azure/infrastructure/
 includemethod: all
 includeplans:

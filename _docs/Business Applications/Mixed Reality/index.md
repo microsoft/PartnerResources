@@ -1,6 +1,6 @@
 ---
 layout: planlist
-title: Mixed Reality
+title: Mixed Reality Readiness Resources
 permalink: /business-applications/mixed-reality/
 includemethod: all
 includeplans:
