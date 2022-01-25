@@ -68,3 +68,4 @@ defaults:
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-relative-links
