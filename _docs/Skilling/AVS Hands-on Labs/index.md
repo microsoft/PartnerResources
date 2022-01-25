@@ -18,24 +18,15 @@ tags:
 
 [Before the Training](before-the-training.md)
 
-- [Microsoft Learn Module](before-the-training.md#microsoft-learn-module)
-- [Capacity Planning (optional)](before-the-training.md#capacity-planning-optional)
+- [Microsoft Learn Module](before-the-training.md)
+- [Capacity Planning (optional)](before-the-training.md)
 
 [Expected Time Needed Per Lab](expected-time-needed-per-lab.md)
 
-- [Important Notes](expected-time-needed-per-lab.md#important-notes)
+- [Important Notes](expected-time-needed-per-lab.md)
 
-[Lab Environment](lab-environment.md#lab-environment)
+[Lab Environment](lab-environment.md)
 
-- [Azure VMware Solution Environment](lab-environment.md#azure-vmware-solution-environment)
-
-- [Lab Architecture Diagram](lab-environment.md#lab-architecture-diagram)
-  
-- [On-Premises Connectivity](lab-environment.md##on-premises-connectivity)
-  
-- [Resources](lab-environment.md#resources)
-  
-- [Architecture Diagram](lab-environment.md#architecture-diagram)
 
 [Lab Objectives]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-objectives)
 
