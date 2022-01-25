@@ -16,19 +16,26 @@ tags:
 
 ## Table of Contents
 
-1-25
-
 [Before the Training](before-the-training.md)
 
-- [Microsoft Learn Module](before-the-training.md)
-- [Capacity Planning (optional)](before-the-training.md)
+- [Microsoft Learn Module]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training#microsoft-learn-module)
+- [Capacity Planning (optional)]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training#capacity-planning-optional)
 
-[Expected Time Needed Per Lab](expected-time-needed-per-lab.md)
+[Expected Time Needed Per Lab]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/expected-time-needed-per-lab#expected-time-needed-per-lab)
 
-- [Important Notes](expected-time-needed-per-lab.md)
+- [Important Notes]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/expected-time-needed-per-lab#important-notes)
 
-[Lab Environment](lab-environment.md)
+[Lab Environment]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment#lab-environment)
 
+- [Azure VMware Solution Environment]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment#azure-vmware-solution-environment)
+
+- [Lab Architecture Diagram]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment#lab-architecture-diagram)
+  
+- [On-Premises Connectivity]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment#on-premises-connectivity)
+  
+- [Resources]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment#resources)
+  
+- [Architecture Diagram]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-environment#architecture-diagram)
 
 [Lab Objectives]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-objectives)
 
