@@ -60,7 +60,6 @@ Microsoft’s Virtual Hub has curated information from across Microsoft’s lear
 
 ## Expert
 
-* [Cloud App Security Proof of Concept](https://gallery.technet.microsoft.com/Cloud-App-Security-Proof-2fa94be8) (Self-Paced) (3 Hours)
 * [How to Build a Custom AIP Tracking Portal](https://techcommunity.microsoft.com/t5/azure-information-protection/how-to-build-a-custom-aip-tracking-portal/ba-p/875849) (Self-Paced) (30 Minutes)
 
 ## Certifications
