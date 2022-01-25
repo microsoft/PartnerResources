@@ -1,14 +1,17 @@
 ---
 layout: page
-title: LAB1 – Azure VMware Solution Deployment
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-1
+title: AVS HOL LAB1 – Azure VMware Solution Deployment
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-1
+redirect_from:
+ - /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-1
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# LAB1 – Azure VMware Solution Deployment
+# AVS HOL LAB1 – Azure VMware Solution Deployment
 
 Azure VMware Solution Deployment Lab
 

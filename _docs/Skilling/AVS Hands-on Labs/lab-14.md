@@ -1,14 +1,17 @@
 ---
 layout: page
-title: LAB14B – Create a remote content library in Azure Blob Storage
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-14
+title: AVS HOL LAB14B – Create a remote content library in Azure Blob Storage
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-14
+redirect_from:
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-14
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# LAB14B – Create a remote content library in Azure Blob Storage
+# AVS HOL LAB14B – Create a remote content library in Azure Blob Storage
 
 Azure Blob Storage can be leveraged as the storage backend for a content
 library, freeing up space in the vSAN datastore for the workloads. Also, a Blob

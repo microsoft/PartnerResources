@@ -1,14 +1,17 @@
 ---
 layout: page
-title: LAB10 – Connect from Azure Application Gateway to AVS hosted workload
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-10
+title: AVS HOL LAB10 – Connect from Azure Application Gateway to AVS hosted workload
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-10
+redirect_from:
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-10
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# LAB10 – Connect from Azure Application Gateway to AVS hosted workload
+# AVS HOL LAB10 – Connect from Azure Application Gateway to AVS hosted workload
 
 This lab shows you the steps to use Application Gateway in front of a web server
 farm to protect a web app running on Azure VMware Solution. This will allow

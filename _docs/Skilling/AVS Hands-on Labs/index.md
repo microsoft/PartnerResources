@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Hands-on Labs
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs
+title: AVS Hands-on Labs
+permalink: /skilling/infrastructure/avs-hands-on-labs
+redirect_from:
+ - /azure/infrastructure/azure-vmware-solution/hands-on-labs
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# Hands-on Labs
+# AVS Hands-on Labs
 
 [Before the Training]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/before-the-training)
 

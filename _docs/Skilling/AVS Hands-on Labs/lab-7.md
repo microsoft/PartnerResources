@@ -1,14 +1,17 @@
 ---
 layout: page
-title: LAB7 – Access Azure Storage Account through Azure Private Endpoint
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-7
+title: AVS HOL LAB7 – Access Azure Storage Account through Azure Private Endpoint
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-7
+redirect_from:
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-7
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# LAB7 – Access Azure Storage Account through Azure Private Endpoint
+# AVS HOL LAB7 – Access Azure Storage Account through Azure Private Endpoint
 
 One of the key advantages of having VMware workloads running on Azure VMware
 Solution is the seamless integration with other Azure services. Communication

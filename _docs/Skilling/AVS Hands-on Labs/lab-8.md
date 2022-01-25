@@ -1,14 +1,17 @@
 ---
 layout: page
-title: LAB8 – Enable Public IP for AVS
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-8
+title: AVS HOL LAB8 – Enable Public IP for AVS
+permalink: /skilling/infrastructure/avs-hands-on-labs-lab-8
+redirect_from:
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-8
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
 
-# LAB8 – Enable Public IP for AVS
+# AVS HOL LAB8 – Enable Public IP for AVS
 
 > This step has been performed part of pre-provisioning the lab environment.  
 >

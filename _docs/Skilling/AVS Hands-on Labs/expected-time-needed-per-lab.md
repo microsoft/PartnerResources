@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Before the Training
-permalink: /azure/infrastructure/azure-vmware-solution/hands-on-labs/expected-time-needed-per-lab
+title: AVS Hands-on Labs - Expected Time per Lab
+permalink: /skilling/infrastructure/avs-hands-on-labs-expected-time-needed-per-lab
+redirect_from: 
+- /azure/infrastructure/azure-vmware-solution/hands-on-labs/expected-time-needed-per-lab
 tags: 
  - azure
  - infrastructure
  - AVS
+ - skilling
 ---
-# Expected Time Needed Per Lab
+
+# AVS Hands-on Labs - Expected Time Needed Per Lab
 
 | **LAB**                                                               | **Time**             |
 | --------------------------------------------------------------------- | -------------------- |
