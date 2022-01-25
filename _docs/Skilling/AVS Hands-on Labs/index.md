@@ -16,6 +16,8 @@ tags:
 
 ## Table of Contents
 
+1-25
+
 [Before the Training](before-the-training.md)
 
 - [Microsoft Learn Module](before-the-training.md)
