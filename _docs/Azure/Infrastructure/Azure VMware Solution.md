@@ -14,7 +14,10 @@ tags:
 
 ## Keeping Up
 
-* [Azure Info Hub](https://azureinfohub.azurewebsites.net/Service?serviceTitle=Azure%20VMware%20Solution), [AVS Blog](https://avs.ms), [#AzureVMwareSolution on Twitter](https://twitter.com/hashtag/azurevmwaresolution) '3rd Party', [VirtualWorkloads Blog](https://www.virtualworkloads.com/) '3rd Party'
+* [Azure Info Hub](https://azureinfohub.azurewebsites.net/Service?serviceTitle=Azure%20VMware%20Solution)
+* [AVS Blog](https://avs.ms)
+* [#AzureVMwareSolution on Twitter](https://twitter.com/hashtag/azurevmwaresolution)
+* [VirtualWorkloads Blog](https://www.virtualworkloads.com/)
 
 ## Fundamentals
 
