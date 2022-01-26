@@ -1,9 +1,10 @@
 ---
 title: Tags Index
 permalink: /tags/
-showbreadcrumb: false
+showbreadcrumb: true
 ---
 
+{% assign showdate = false %}
 {% capture site_tags %}{% for tag in site.tags %}{% if tag %}{% unless tag = "deprecated" %}{{ tag | first }}{% unless forloop.last %}|{% endunless %}{% endunless %}{% endif %}{% endfor %}{% endcapture %}
 {% assign docs_tags = "" %}{% for doc in site.docs %}{% unless doc.tags contains "deprecated" %}{% assign ttags = doc.tags | join:'|' | append:'|' %}{% assign docs_tags = docs_tags | append:ttags %}{% endunless %}{% endfor %}
 {% assign all_tags = site_tags | append:docs_tags %}{% assign tags_list = all_tags | split:'|' | uniq | sort %}
@@ -16,13 +17,13 @@ showbreadcrumb: false
     {% for post in site.tags[tag] %}
     <div class="tag-entry">
         <a href="{{- site.url -}}{{- post.url -}}">{{- post.title -}}</a>
-        <time style="font-style:italic; float:right" datetime="{{- post.updated | date_to_xmlschema -}}"> {{- post.date | date: "%B %d, %Y" -}}</time>
+        {% if showdate and doc.updated %}<span class="docupdated" style="padding-left: 5px;">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>{% endif %}
     </div>
     {%- endfor -%}
     {% for doc in site.docs %}{% if doc.tags contains tag %}
     <div class="tag-entry">
         <a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a>
-        <time style="font-style:italic; float:right" datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.date | date: "%B %d, %Y" -}}</time>
+        {% if showdate and doc.updated %}<span class="docupdated" style="padding-left: 5px;">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>{% endif %}
     </div>
     {% endif %}{% endfor %}
 </div>
