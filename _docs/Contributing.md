@@ -86,7 +86,7 @@ If you are creating new content locally on your computer, many software packages
 
 The key to remember is that all documentation is stored in Markdown (MD) format. MD is a lightweight markup syntax for documents that allows them to be easily created and consumed. MD files may contain images, lists, and tables -- use this [Mastering Markdown guide](https://guides.github.com/features/mastering-markdown/) to learn more. Also, while you can copy any existing plan to use as a template, we have an [emtpy template](/LearningPlanResources/Template.md) that you can use to get started.
 
-If you are including any images in your plan, be sure to upload them to the local assets folder. For example, under Business Applications -> Customer Engagement, there are 2 images in the assets folder that are used in the plans in the Customer Engagement section:
+If you are including any images in your plan, upload them to the assets folder in the root folder. For example, for Business Applications -> Customer Engagement, images would go in the Assets/docs/Business Applications folder:
 
 ![Assets folder](../assets/assetsfolder.png)
 

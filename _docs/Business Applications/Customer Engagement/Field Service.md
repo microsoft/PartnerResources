@@ -108,4 +108,4 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 
 Ordered by entry level features, advanced features, and innovative features.
 
-   ![Field Service Maturity Model](assets/field-service-maturity-model.png)
+![Field Service Maturity Model](/assets/docs/Business Applications/field-service-maturity-model.png)
