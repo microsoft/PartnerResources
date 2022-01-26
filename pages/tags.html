@@ -1,7 +1,7 @@
 ---
 title: Tags Index
 permalink: /tags/
-showbreadcrumb: true
+showbreadcrumb: false
 ---
 
 {% assign showdate = false %}
@@ -9,7 +9,7 @@ showbreadcrumb: true
 {% assign docs_tags = "" %}{% for doc in site.docs %}{% unless doc.tags contains "deprecated" %}{% assign ttags = doc.tags | join:'|' | append:'|' %}{% assign docs_tags = docs_tags | append:ttags %}{% endunless %}{% endfor %}
 {% assign all_tags = site_tags | append:docs_tags %}{% assign tags_list = all_tags | split:'|' | uniq | sort %}
 
-<h2 id="tags-index">All Tags</h2>
+<h1 id="tags-index">All Tags</h1>
 
 {% for tag in tags_list %}{% if tag %}
 <h3 id="{{ tag | replace: '/', '-' }}" class="linked-section">{{ tag }}</h3>
