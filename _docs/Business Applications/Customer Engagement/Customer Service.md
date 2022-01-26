@@ -95,4 +95,4 @@ Ordered by entry level features, advanced features, and innovative features.
 
 ![Customer Service Maturity Model](./assets/docs/Business Applications/customer-service-maturity-model.png)
 
-![Customer Service Maturity Model](PartnerResources/assets/docs/Business Applications/customer-service-maturity-model.png)
+![Customer Service Maturity Model](/PartnerResources/assets/docs/Business Applications/customer-service-maturity-model.png)
