@@ -33,6 +33,8 @@ The content is designed to be highly integrated but loosely coupled: each module
 
 ## Live Schedule
 
+While the live events have already happened, we'll update this section when we have new sessions planned. In the meantime, all of the content and recordings are here on these pages.
+<!--
 If you'd like to check out the series live, please use these following links:
 
 * Oct 19, 2021 2pm ET [Modern Analytics Academy: Overview](https://msuspartners.eventbuilder.com/event/51647)
@@ -41,6 +43,7 @@ If you'd like to check out the series live, please use these following links:
 * Nov 16, 2021 2pm ET [Modern Analytics Academy: Data Pipelines](https://msuspartners.eventbuilder.com/event/50234)
 * Nov 30, 2021 2pm ET [Modern Analytics Academy: Data Governance](https://msuspartners.eventbuilder.com/event/50235)
 * Dec 7, 2021 2pm ET [Modern Analytics Academy: Visualization](https://msuspartners.eventbuilder.com/event/50236)
+-->
 
 ## Table of Contents
 
@@ -104,12 +107,16 @@ Refer to links below for the module breakouts.
 
 ## Hands-on provisioned Environments
 
+We are not currently offering fully-hosted lab environments for Modern Analytics Academy, but this may change in the future as we expand the content. In the meantime, you can still run the labs in your own Azure subscription. These labs are listed below:
+
+<!--
 Want to go hands-on with a fully provisioned environment? Check out our Modern Analytics Academy lab environments hosted by Spektra Systems, available for a limited time. The environments are only available to United States based partners.
 
 * Sign-up link: [https://bit.ly/3COKiz1](https://bit.ly/3COKiz1)
 * Activation code: ACTIVATE1365
 
-The lab environments available are listed below. The source content is available if you'd like to see what's covered in each lab -- however, the lab environment will display all of this info for you as you progress through the lab. Once the lab environment is started, there is a limited time to complete the lab due to the number of resources provisioned. If you'd like to keep all of the assets as you go through the lab, we recommend following the lab guides listed below and deploy the resources into your  Azure account. 
+The lab environments available are listed below. The source content is available if you'd like to see what's covered in each lab -- however, the lab environment will display all of this info for you as you progress through the lab. Once the lab environment is started, there is a limited time to complete the lab due to the number of resources provisioned. If you'd like to keep all of the assets as you go through the lab, we recommend following the lab guides listed below and deploy the resources into your Azure account. 
+-->
 
 | Lab Name | Time | Content | 
 |---|---|---|
