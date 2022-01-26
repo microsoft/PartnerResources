@@ -34,6 +34,7 @@ The content is designed to be highly integrated but loosely coupled: each module
 ## Live Schedule
 
 While the live events have already happened, we'll update this section when we have new sessions planned. In the meantime, all of the content and recordings are here on these pages.
+
 <!--
 If you'd like to check out the series live, please use these following links:
 
