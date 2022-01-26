@@ -21,3 +21,6 @@ tags:
 * [Azure Purview Overview from Azure Friday](https://www.youtube.com/watch?v=W2bsj3ULw0Y) (25 Minutes)
 * [Microsoft Ignite: Enable unified data governance with Azure Purview](https://www.youtube.com/watch?v=JLKHjevBGAI) (29 Minutes)
 * [Azure Purview Webinar: Introduction to Azure Purview](https://www.youtube.com/watch?v=Kmr_LXm1ulg) (49 Minutes)
+
+## Hands on lab
+* [Azure Purview Workshop](https://github.com/tayganr/purviewlab) (Hands on lab / workshop)
