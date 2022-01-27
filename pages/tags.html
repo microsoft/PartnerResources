@@ -5,13 +5,13 @@ showbreadcrumb: false
 ---
 
 {% assign showdate = false %}
-{% capture site_tags %}{% for tag in site.tags %}{% if tag %}{% unless tag = "deprecated" %}{{ tag | first }}{% unless forloop.last %}|{% endunless %}{% endunless %}{% endif %}{% endfor %}{% endcapture %}
 {% assign docs_tags = "" %}{% for doc in site.docs %}{% unless doc.tags contains "deprecated" %}{% assign ttags = doc.tags | join:'|' | append:'|' %}{% assign docs_tags = docs_tags | append:ttags %}{% endunless %}{% endfor %}
-{% assign all_tags = site_tags | append:docs_tags %}{% assign tags_list = all_tags | split:'|' | uniq | sort %}
+{% assign tags_list = docs_tags | split:'|' | uniq | sort | compact %}
+{% assign tags_list = tags_list | compact %}
 
 <h1 id="tags-index">All Tags</h1>
 
-{% for tag in tags_list %}{% if tag %}
+{% for tag in tags_list %}{% if tag != empty %}
 <h3 id="{{ tag | replace: '/', '-' }}" class="linked-section">{{ tag }}</h3>
 <div class="post-list" style="margin-bottom:40px">
     {% for post in site.tags[tag] %}

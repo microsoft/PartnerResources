@@ -6,11 +6,11 @@ updated: 2021-12-01
 permalink: /business-applications/power-platform/ai-builder
 tags:
 - learning plan
- - business applications
- - power platform
- - ai builder
- - ai
- - data, analytics, and ai
+- business applications
+- power platform
+- ai builder
+- ai
+- data, analytics, and ai
 ---
 
 # Learning Plan Resources for AI Builder
