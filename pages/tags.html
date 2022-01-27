@@ -19,11 +19,12 @@ showbreadcrumb: false
         {% if showdate and doc.updated %}<span class="docupdated" style="padding-left: 5px;">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>{% endif %}
     </div>
     {%- endfor -%}
-    {% for doc in site.docs %}{% if doc.tags contains tag %}
+    {% for doc in site.docs %}{% if doc.tags contains tag %}{% unless doc.tags contains "deprecated" %}
     <div class="tag-entry">
         <a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a>
         {% if showdate and doc.updated %}<span class="docupdated" style="padding-left: 5px;">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>{% endif %}
     </div>
-    {% endif %}{% endfor %}
+    {% endunless %}{% endif %}{% endfor %}
 </div>
 {% endif %}{%- endfor -%}
+
