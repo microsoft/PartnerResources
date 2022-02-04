@@ -86,6 +86,7 @@ Virtual Training Series events focuses on enabling our partners at scale on spec
 
 ### IoT
 
+* [Azure Digital Twins](/LearningPlanResources/Azure/IoT/AzureDigitalTwins.md)
 * [IoT Edge](/LearningPlanResources/Azure/IoT/IoT%20Edge.md)
 * [IoT Central](/LearningPlanResources/Azure/IoT/IoT%20Central.md)
 * [IoT Hub](/LearningPlanResources/Azure/IoT/IoT%20Hub.md)
