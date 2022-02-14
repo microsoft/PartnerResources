@@ -28,9 +28,9 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 
 ## Fundamentals
 
-* [Azure Digital Twins](https://azure.microsoft.com/en-us/services/digital-twins/) (Self-Paced)
-* [Azure Digital Twins Video](https://docs.microsoft.com/en-us/shows/azure-videos/azure-digital-twins-video) (2 Minutes)
+* [Azure Digital Twins](https://azure.microsoft.com/en-us/services/digital-twins/)
 * [What is Azure Digital Twins?](https://docs.microsoft.com/en-us/azure/digital-twins/overview)
+* [Azure Digital Twins Video](https://docs.microsoft.com/en-us/shows/azure-videos/azure-digital-twins-video) (2 Minutes)
 * [MS Learn: Extend IoT solutions by using Azure Digital Twins](https://docs.microsoft.com/en-us/learn/paths/extend-iot-solutions-by-using-azure-digital-twins/) (Self-Paced) (3 Hours 32 Minutes)
 * [Quickstart: Get started with a sample scenario in Azure Digital Twins Explorer](https://docs.microsoft.com/en-us/azure/digital-twins/quickstart-azure-digital-twins-explorer) (Self-Paced) (12 Minutes)
 * [Tutorial: Build out an end-to-end Solution](https://docs.microsoft.com/en-us/azure/digital-twins/tutorial-end-to-end) (Self-Paced) (25 Minutes)
@@ -51,10 +51,10 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 
 ## Community Resources
 
-* [US Partner Community - Internet of Things](https://aka.ms/MPC-IoT) (Self-Paced) (30 Minutes)
-* [Azure Digital Twins Documentation](https://docs.microsoft.com/en-us/azure/digital-twins/) (Self-Paced)
-* [Partner Network - IoT Site](https://partner.microsoft.com/en-US/solutions/azure/internet-of-things#simple-tab-content-1) (Self-Paced) (30 Minutes)
-* [IoT Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT) (Self-Paced) (30 Minutes)
+* [US Partner Community - Internet of Things](https://aka.ms/MPC-IoT)
+* [Azure Digital Twins Documentation](https://docs.microsoft.com/en-us/azure/digital-twins/)
+* [Partner Network - IoT Site](https://partner.microsoft.com/en-US/solutions/azure/internet-of-things#simple-tab-content-1)
+* [IoT Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT) (Self-Paced)
 * [Internet of Things Blog: Azure Digital Twins](https://techcommunity.microsoft.com/t5/internet-of-things-blog/bg-p/IoTBlog/label-name/Azure%20Digital%20Twins)
 
 ## Events
