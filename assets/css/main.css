@@ -15557,7 +15557,7 @@ a.text-dark:focus {
     .td-content>dl dd,
     .td-content .footnotes,
     .td-content>.alert {
-        max-width: 100%
+        max-width: 95%
     }
 }
 
