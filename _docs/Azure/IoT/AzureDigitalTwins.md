@@ -28,11 +28,12 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 
 ## Fundamentals
 
-* [Azure Digital Twins](https://azure.microsoft.com/en-us/services/digital-twins/)
+* [Azure Digital Twins Product Website](https://azure.microsoft.com/en-us/services/digital-twins/)
 * [What is Azure Digital Twins?](https://docs.microsoft.com/en-us/azure/digital-twins/overview)
 * [Azure Digital Twins Video](https://docs.microsoft.com/en-us/shows/azure-videos/azure-digital-twins-video) (2 Minutes)
 * [MS Learn: Extend IoT solutions by using Azure Digital Twins](https://docs.microsoft.com/en-us/learn/paths/extend-iot-solutions-by-using-azure-digital-twins/) (Self-Paced) (3 Hours 32 Minutes)
 * [Quickstart: Get started with a sample scenario in Azure Digital Twins Explorer](https://docs.microsoft.com/en-us/azure/digital-twins/quickstart-azure-digital-twins-explorer) (Self-Paced) (12 Minutes)
+* [Tutorial: Coding with the Azure Digital Twins APIs](https://docs.microsoft.com/en-us/azure/digital-twins/tutorial-code) (Self-Paced) (15 Minutes)
 * [Tutorial: Build out an end-to-end Solution](https://docs.microsoft.com/en-us/azure/digital-twins/tutorial-end-to-end) (Self-Paced) (25 Minutes)
 * [Ingest IOT Hub Telemetry into Azure Digital Twins](https://docs.microsoft.com/en-us/azure/digital-twins/how-to-ingest-iot-hub-data) (Self-Paced) (11 Minutes)
 * [Code Sample: Azure Digital Twins and IoT Hub Provisioning Integration Sample](https://docs.microsoft.com/en-us/samples/azure-samples/digital-twins-iothub-integration/adt-iothub-provision-sample/)
@@ -49,10 +50,18 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 
 * [Blog: Visualizing Azure Digital Twins in 3D](https://techcommunity.microsoft.com/t5/internet-of-things-blog/visualizing-azure-digital-twins-in-3d/ba-p/2898159)
 
+## Demos
+
+GitHub Azure Samples: 
+* [Azure Digital Twins Supply Chain Demo](https://github.com/Azure-Samples/IoTDemos/tree/master/ADT-SupplyChainDemo)
+* [Azure Digital Twins Hands On Lab](https://github.com/Azure-Samples/digital-twins-samples/tree/master/HandsOnLab)
+* [Azure Digital Twins Unreal Sample](https://github.com/Azure-Samples/azure-digital-twins-unreal-integration)
+
 ## Community Resources
 
 * [US Partner Community - Internet of Things](https://aka.ms/MPC-IoT)
 * [Azure Digital Twins Documentation](https://docs.microsoft.com/en-us/azure/digital-twins/)
+* [Azure Digital Twins on MS Learn](https://docs.microsoft.com/en-us/learn/paths/develop-azure-digital-twins/)
 * [Partner Network - IoT Site](https://partner.microsoft.com/en-US/solutions/azure/internet-of-things#simple-tab-content-1)
 * [IoT Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT) (Self-Paced)
 * [Internet of Things Blog: Azure Digital Twins](https://techcommunity.microsoft.com/t5/internet-of-things-blog/bg-p/IoTBlog/label-name/Azure%20Digital%20Twins)
