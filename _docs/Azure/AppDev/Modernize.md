@@ -68,4 +68,4 @@ tags:
 * [Exam AZ-304: Microsoft Azure Architect Design](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer) (Self-Paced)
 * [Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect) (Self-Paced)
-* [AZ-204 Study Gide: Developing Solutions for Microsoft Azure (Thomas Maurer)](https://www.thomasmaurer.ch/2020/03/az-204-study-guide-developing-solutions-for-microsoft-azure/) (Self-Paced)
+* [AZ-204 Study Guide : Developing Solutions for Microsoft Azure (Thomas Maurer)](https://www.thomasmaurer.ch/2020/03/az-204-study-guide-developing-solutions-for-microsoft-azure/) (Self-Paced)
