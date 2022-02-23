@@ -28,3 +28,9 @@ tags:
 
 ## Hands on lab
 * [Azure Purview Workshop](https://github.com/tayganr/purviewlab) (Hands on lab / workshop)
+
+## On-Demand Events
+* [Cloud Governance Forum: Why Cloud & Data Governance is key to success in the cloud, and how to get started](https://mktoevents.com/Microsoft+Event/318034/157-GQE-382?wt.mc_id=AID3044659_QSG_572319)
+  * Learn how Microsoft Azure, Azure Purview & Azure Arc can address your needs to enable a successful Governance Framework for Security & Compliance.
+* [Unified & Limitless Data Platform with Azure Synapse and Azure Purview](https://mktoevents.com/Microsoft+Event/311260/157-GQE-382?wt.mc_id=AID3043413_QSG_566080)
+  * Arancha Diez, Analytics Marketing Director & Ashish Kumar, Subject Matter Expert in Cloud Scale Analytics, will cover key and unique features of Azure Synapse Analytics and its seamless integration with Data Governance, Common Data Model, Business Intelligence (BI) and Artificial Intelligence (AI) toolsets, unlocking the potential for limitless analytics. 
