@@ -24,10 +24,13 @@ tags:
 * [Azure VMware Solution - Microsoft Official Page](https://azure.microsoft.com/en-us/services/azure-vmware/)
 * [Azure VMware Solution - VMware Official Page](https://cloud.vmware.com/azure-vmware-solution)
 * [Azure VMware Solution - Documentation - Microsoft Official Page](https://docs.microsoft.com/en-us/azure/azure-vmware/)
-* [Azure VMWare Solution - Availability by region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&regions=all)
-* [Azure VMware Solution - Service Level Agreements (SLA)](https://azure.microsoft.com/en-us/support/legal/sla/azure-vmware/v1_0/)
-* [AVS On-Demand Webinar](https://docs.hol.vmware.com/catalog/) (On-Demand)
-* [VMware AVS FAQ](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/partners/vmw-faq-temp.pdf)
+* [Azure VMware Solution - Availability by region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&regions=all)
+* [Azure VMware Solution - Service Level Agreements (SLA)](https://azure.microsoft.com/en-us/support/legal/sla/azure-vmware/v1_1/)
+* [Azure VMWare Solution - Service Limits](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-vmware-solution-limits)
+* [Azure VMware Solution - VMware Cloud Tech Zone](https://vmc.techzone.vmware.com/azure-vmware-solution)
+* [Azure VMware Solution - VMware On-Demand Hands-on](https://aka.ms/AVSHOL)
+* [Azure VMware Solution - VMware FAQ](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/partners/vmw-faq-temp.pdf)
+
 
 ### Videos
 
@@ -42,10 +45,11 @@ tags:
 
 ### Curriculum
 
-* [Prepare to migrate VMware workloads to Azure by deploying Azure VMware Solution - Learning Module](https://docs.microsoft.com/en-us/learn/modules/deploy-azure-vmware-solution/) (56 Minutes) (Self-Paced)
+* [Run VMware workloads on Azure VMware Solution - 4 Learning Module](https://aka.ms/avslearningpath) (2 Hours 45 Minutes) (Self-Paced)
 
 ## Associate
 
+* [Azure VMware Solution Landing Zone Accelerator](https://aka.ms/avsaccelerator)
 * [AVS Deployment Checklist](https://docs.microsoft.com/en-us/azure/azure-vmware/production-ready-deployment-steps)
 * [Azure Migrate Assessment for AVS](https://docs.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmware-solution-assessment)
 * [Enable AVS for EA and CSP Partners](https://docs.microsoft.com/en-us/azure/azure-vmware/enable-azure-vmware-solution)
@@ -82,13 +86,20 @@ tags:
 
 ## Expert
 
-* [AVS Service Limits](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-vmware-solution-limits)
-* [AVS Reference Architecture](https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-hub-and-spoke)
-* [VMware Cloud Workload Migration Tools Whitepaper v1 AVS Edition]({{ site.baseurl }}/assets/docs/Azure/Infrastructure/VMware_Cloud_Workload_Migration_Tools_Whitepaper_V1_AVS_Edition.pdf) ([Original](https://assets.contentstack.io/v3/assets/blt58b49a8a0e43b5ff/blt41c2affe409de883/5fff769ef093203f68d435d6/VMware_Cloud_Workload_Migration_Tools_Whiepaper_V1.pdf))
+* [Azure VMware Solution Landing Zone Accelerator - Reference Implementation ARM/Bicep/Terraform](https://aka.ms/avsacceleratorautomation): [Greenfield](https://github.com/Azure/Enterprise-Scale-for-AVS/tree/main/AVS-Landing-Zone/GreenField) | [Brownfield](https://github.com/Azure/Enterprise-Scale-for-AVS/blob/main/BrownField)
+* [Firewall integration in Azure VMware Solution](https://techcommunity.microsoft.com/t5/azure-migration-and/firewall-integration-in-azure-vmware-solution/ba-p/2254961)
 * [Third Party Appliance with AVS](https://techcommunity.microsoft.com/t5/azure-migration/azure-vmware-solution-avs-connecting-3rd-party-networking-and/ba-p/1524297)
 * [Disaster Recovery Drill from AVS](https://docs.microsoft.com/en-us/azure/site-recovery/avs-tutorial-dr-drill-azure)
 * [Backup solutions for Azure VMware Solution virtual machines (VMs)](https://docs.microsoft.com/en-us/azure/azure-vmware/ecosystem-back-up-vms)
 * [Self-service exchanges and refunds for Azure Reservations](https://docs.microsoft.com/en-us/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)
+
+### Design Areas (AVS Landing Zone Accelerator, aka: AVS Enterprise Scale Landing Zone)
+* [Identity And Access Management for Azure VMware Solution](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-identity-and-access-management)
+* [Network Topology and Connectivity for Azure VMware Solution](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-network-topology-connectivity)
+* [Security, Governance, and Compliance for Azure VMware Solution](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-security-governance-and-compliance)
+* [Management and Monitoring for Azure VMware Solution](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-management-and-monitoring)
+* [Business Continuity and Disaster Recovery (BCDR) for Azure VMware Solution](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-business-continuity-and-disaster-recovery)
+* [Platform Automation for Azure VMware Solution](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-platform-automation-and-devops)
 
 ## Community
 
