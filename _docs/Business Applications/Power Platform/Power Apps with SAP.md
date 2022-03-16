@@ -19,14 +19,16 @@ Decription coming soon
 
 Below you'll find series of training resources which will take you through beginner to advanced learning
 
-## Fundamentals
+## Learning
 
-* [Get started with AI Builder](https://docs.microsoft.com/en-us/learn/modules/get-started-with-ai-builder/)
+* [How to create an account on the SAP Gateway Demo System](https://developers.sap.com/tutorials/gateway-demo-signup.html)
+* [MS Learn – Connect Power Platform to SAP on Azure](Connect Power Platform to SAP on Azure - Learn | Microsoft Docs)
 
 
 ## Intermediate
 
-* [Get started with AI Builder Text recognition](https://docs.microsoft.com/en-us/learn/modules/get-started-with-ai-builder-text-recognition/)
+* [MS Docs – Customer Connectors](https://docs.microsoft.com/en-us/connectors/custom-connectors/)
+* [RPA Playbook for SAP GUI Automation with Power Automate](https://aka.ms/MicrosoftRPAPlaybookForSAPGUI)
 
 
 ## Keeping Up
@@ -35,5 +37,5 @@ Below you'll find series of training resources which will take you through begin
 
 ## Documentation and Community
 
-* [AI Builder Labs in MS Documentation](https://docs.microsoft.com/en-us/ai-builder/learn-ai-builder)
-* [AI Builder community](https://docs.microsoft.com/en-us/ai-builder/share-your-experience)
+* [SAP + Power Platform Sales Decks – scroll down to Power Apps + Azure Resources section](https://powerplatformpartners.transform.microsoft.com/products/powerapps?tab=go-to-market)
+
