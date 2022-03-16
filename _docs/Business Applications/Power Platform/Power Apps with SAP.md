@@ -22,7 +22,7 @@ Below you'll find series of training resources which will take you through begin
 ## Learning
 
 * [How to create an account on the SAP Gateway Demo System](https://developers.sap.com/tutorials/gateway-demo-signup.html)
-* [MS Learn – Connect Power Platform to SAP on Azure](Connect Power Platform to SAP on Azure - Learn | Microsoft Docs)
+* [MS Learn – Connect Power Platform to SAP on Azure](https://docs.microsoft.com/en-us/learn/modules/connect-power-platform-to-sap-azure/)
 
 
 ## Intermediate
