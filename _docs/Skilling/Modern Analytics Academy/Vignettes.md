@@ -23,7 +23,7 @@ tags:
 * [Module 3: Data Pipelines](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-pipelines)
 * [Module 4: Data Governance](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-governance)
 * [Module 5: Visualization](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-visualization)
-* Ongoing Vignettes]
+* Ongoing Vignettes
 
 Welcome to the Modern Analytics Academy (MAA) - Vignette Sessions
 
