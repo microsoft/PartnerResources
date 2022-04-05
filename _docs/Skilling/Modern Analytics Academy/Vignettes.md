@@ -13,7 +13,7 @@ tags:
 - workshop
 ---
 
-# Modern Analytics Academy - Data Visualization
+# Modern Analytics Academy - Vignettes
 
 ##  Content
 * [Modern Analytics Academy Home](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy)
@@ -23,7 +23,7 @@ tags:
 * [Module 3: Data Pipelines](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-pipelines)
 * [Module 4: Data Governance](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-governance)
 * [Module 5: Visualization](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-visualization)
-* [Ongoing Vignettes](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-vignettes)
+* Ongoing Vignettes]
 
 Welcome to the Modern Analytics Academy (MAA) - Vignette Sessions
 
@@ -37,5 +37,6 @@ In this high level session, we'll explore what data governance is, why we need i
 * [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Governance%20-%20Overview%20Session.pptx)
 * [Maturity Model Slides (only)]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Governance%20-%20Maturity.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
+* Video recording coming soon
 
 
