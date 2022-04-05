@@ -29,6 +29,9 @@ Welcome to the Modern Analytics Academy (MAA) - Vignette Sessions
 
 In our Vignette sessions, we'll explore topics based on feedback or frequently asked questions. We'll update the content here as the series continues.
 
+## Live Schedule
+We'll update this soon!
+
 ## Vignette #1 - What is Data Governance?
 April 5, 2022
 
