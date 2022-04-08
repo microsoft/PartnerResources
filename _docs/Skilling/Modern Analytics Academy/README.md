@@ -5,7 +5,7 @@ description: Workshop focused on Modern Analytics
 permalink: /skilling/data-analytics-ai/modern-analytics-academy
 redirect_from:
   - /azure/data-analytics-ai/modern-analytics-academy
-updated: 2021-12-16
+updated: 2022-04-05
 showbreadcrumb: false
 tags: 
 - azure
