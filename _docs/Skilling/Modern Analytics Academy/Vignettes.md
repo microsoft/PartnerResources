@@ -40,6 +40,5 @@ In this high level session, we'll explore what data governance is, why we need i
 * [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Governance%20-%20Overview%20Session.pptx)
 * [Maturity Model Slides (only)]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Governance%20-%20Maturity.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
-* Video recording coming soon
-
-
+* [Modern Analytics Academy - Why Data Governance?](https://www.youtube.com/watch?v=OWrO3XmKxqQ)
+[![Modern Analytics Academy Data Governance](https://img.youtube.com/vi/OWrO3XmKxqQ/0.jpg)](https://www.youtube.com/watch?v=OWrO3XmKxqQ)
