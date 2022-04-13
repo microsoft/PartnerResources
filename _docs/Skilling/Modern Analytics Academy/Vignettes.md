@@ -30,7 +30,14 @@ Welcome to the Modern Analytics Academy (MAA) - Vignette Sessions
 In our Vignette sessions, we'll explore topics based on feedback or frequently asked questions. We'll update the content here as the series continues.
 
 ## Live Schedule
-We'll update this soon!
+
+Sessions are both live and on-demand below.
+
+* April 5, 2022 - What is Data Governance?
+* [April 19, 2022 - Schema Design in SQL Pools](https://msuspartners.eventbuilder.com/event/58605?source=AzurePartnerTechTalks)
+* [May 3, 2022 - Azure Data Explorer](https://msuspartners.eventbuilder.com/event/58610?source=AzurePartnerTechTalks)
+* Additional schedule coming soon
+
 
 ## Vignette #1 - What is Data Governance?
 April 5, 2022
