@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Azure Data Academy Home
-description: Series focused on Azure databases, features, and practices
+description: Azure data-centric series focusing on features, best practices, and new developments
 permalink: /skilling/data-analytics-ai/azure-data-academy
 updated: 2022-04-14
 showbreadcrumb: false
@@ -27,6 +27,10 @@ The Azure Data Academy is a series of presentations and hands-on material design
 This page is currently a holding spot.
 
 ## Live Schedule
+
+A list of all live Azure Partner Tech Talks is available [here](https://msuspartners.eventbuilder.com/AzurePartnerTechTalks).
+
+
 
 Coming Soon
 
