@@ -4,7 +4,7 @@ title: Modernize New .NET Applications
 description: Resources for Modernizing .NET Applications
 updated: 2021-12-01
 permalink: /azure/appdev/modernize-new-dot-net-applications
-tags: 
+tags:
 - learning plan
 - azure
 - appdev
@@ -51,7 +51,7 @@ tags:
 * [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/) (Self-Paced) (4 Hours)
 * [Architect message brokering and serverless applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-messaging-serverless/) (Self-Paced) (5 Hours)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) (Self-Paced)
-* [eBook: Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) (Self-Paced)
+* [eBook: Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) 
 * [Book: Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) (Self-Paced)
 
 ## Community Resources
@@ -60,7 +60,7 @@ tags:
 * [.NET Developer Community](https://dotnet.microsoft.com/platform/community) (Self-Paced)
 * [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) (Self-Paced)
 
-## Certifications / Exams
+## Certifications for Modernizing .NET Applications
 
 * [Exam AZ-900: Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) (Self-Paced) (4 Hours)
 * [Exam AZ-204: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)

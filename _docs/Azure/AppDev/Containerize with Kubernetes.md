@@ -4,7 +4,7 @@ title: Containerize with Kubernetes
 description: Resources for Kubernetes on Azure
 updated: 2021-12-01
 permalink: /azure/appdev/containerize-with-kubernetes
-tags: 
+tags:
 - learning plan
 - azure
 - appdev
@@ -29,7 +29,7 @@ tags:
 * [Kubernetes core concepts for Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads) (Self-Paced) (15 Minutes)
 * [Implement a code workflow in your build pipeline by using Git and GitHub](https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/) (Self-Paced) (2 Hours)
 * [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/) (Self-Paced) (4 Hours)
-* [AKS Checklist](https://www.the-aks-checklist.com/) (Self-Packed) (30 Minutes)
+
 
 ## Expert
 
@@ -49,14 +49,19 @@ tags:
 
 ## Community Resources
 
-* [The Definitive Guide to Securing Kubernetes](https://info.aquasec.com/securing_kubernetes) (Self-Paced)
 * [AKS Roadmap](https://github.com/Azure/AKS/projects/1)
+* [AKS Release Notes](https://aka.ms/aks/releasenotes)
+* [The AKS Checklist](https://www.the-aks-checklist.com/)
+* [Azure Developer Community Blog](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/bg-p/AzureDevCommunityBlog)
+* [The Definitive Guide to Securing Kubernetes](https://info.aquasec.com/securing_kubernetes)
 
-## Events
+## Events & Forums
 
-* [KubeCon](https://www.cncf.io/kubecon-cloudnativecon-events/) (Self-Paced)
+* [KubeCon](https://www.cncf.io/kubecon-cloudnativecon-events/)
+* [Kubernetes Meetup](https://www.meetup.com/topics/kubernetes/)
+* [Github AKS Community](https://github.com/Azure/AKS)
 
-## Certifications
+## Certifications for Azure Kubernetes Services
 
 * [Microsoft Certified: Azure Solutions Architect](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect) (Self-Paced)
 * [Certified Kubernetes Administrator (CKA) Program](https://www.cncf.io/certification/cka/) (Self-Paced)
