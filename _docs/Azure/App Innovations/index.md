@@ -1,6 +1,6 @@
 ---
 layout: planlist
-title: Azure AppDev Readiness Resources
+title: Azure App Innovations Readiness Resources
 permalink: /azure/appdev/
 includemethod: all
 includeplans:
