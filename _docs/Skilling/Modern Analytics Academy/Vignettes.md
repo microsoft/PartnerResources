@@ -66,4 +66,4 @@ Mike Shelton explores the basics of schema design in a SQL Pool (SQL DW). What i
 * [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Schema%20-%20Design.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
 * [Modern Analytics Academy - Schema Design in SQL Pools](https://www.youtube.com/watch?v=zCqMyRtb41A)
-[![Modern Analytics Academy Schema Design](https://img.youtube.com/vi/OWrO3XmKxqQ/0.jpg)](https://www.youtube.com/watch?v=zCqMyRtb41A)
+[![Modern Analytics Academy Schema Design](https://img.youtube.com/vi/zCqMyRtb41A/0.jpg)](https://www.youtube.com/watch?v=zCqMyRtb41A)
