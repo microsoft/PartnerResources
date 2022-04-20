@@ -29,14 +29,14 @@ Welcome to the Modern Analytics Academy (MAA) - Vignette Sessions
 
 In our Vignette sessions, we'll explore topics based on feedback or frequently asked questions. We'll update the content here as the series continues.
 
-## Live Schedule
+## Upcoming Live Schedule
 
 Sessions are both live and on-demand below.
 
 * April 5, 2022 - What is Data Governance?
-* [April 19, 2022 - Schema Design in SQL Pools](https://msuspartners.eventbuilder.com/event/58605?source=AzurePartnerTechTalks)
+* April 19, 2022 - Schema Design in SQL Pools
 * [May 3, 2022 - Azure Data Explorer](https://msuspartners.eventbuilder.com/event/58610?source=AzurePartnerTechTalks)
-* Additional schedule coming soon
+* More coming soon!
 
 ## Feedback
 
@@ -57,3 +57,13 @@ In this high level session, we'll explore what data governance is, why we need i
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
 * [Modern Analytics Academy - Why Data Governance?](https://www.youtube.com/watch?v=OWrO3XmKxqQ)
 [![Modern Analytics Academy Data Governance](https://img.youtube.com/vi/OWrO3XmKxqQ/0.jpg)](https://www.youtube.com/watch?v=OWrO3XmKxqQ)
+
+## Vignette #2 - Schema Design in a SQL Pool
+April 19, 2022
+
+Mike Shelton explores the basics of schema design in a SQL Pool (SQL DW). What is a star schema and why do we use it? 
+
+* [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Schema%20-%20Design.pptx)
+* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
+* [Modern Analytics Academy - Schema Design in SQL Pools](https://www.youtube.com/watch?v=zCqMyRtb41A)
+[![Modern Analytics Academy Schema Design](https://img.youtube.com/vi/OWrO3XmKxqQ/0.jpg)](https://www.youtube.com/watch?v=zCqMyRtb41A)
