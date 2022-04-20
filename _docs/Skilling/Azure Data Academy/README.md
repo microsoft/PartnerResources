@@ -22,17 +22,21 @@ tags:
 
 Welcome to the Azure Data Academy
 
-The Azure Data Academy is a series of presentations and hands-on material designed to upskill partners on data modernization in Microsoft Azure. 
-
-This page is currently a holding spot.
+The Azure Data Academy is a series of presentations and hands-on material designed to upskill partners on data modernization in Microsoft Azure. Topics will include MySQL, PostgreSQL, SQL Server, Maria DB, Cosmos DB, and other topics related to data modernization. We'll look at features, migration strategies, and roadmap.
 
 ## Live Schedule
 
 A list of all live Azure Partner Tech Talks is available [here](https://msuspartners.eventbuilder.com/AzurePartnerTechTalks).
 
+Our current schedule:
 
-
-Coming Soon
+* [April 27, 2022 - Getting Started with PostgreSQL in Azure](https://msuspartners.eventbuilder.com/event/59074?source=AzurePartnerTechTalks)
+* [May 10, 2022 - PostgreSQL Extensions in Azure Database for PostgreSQL](https://msuspartners.eventbuilder.com/event/59094?source=AzurePartnerTechTalks)
+* [May 12, 2022 - Azure Database for MySQL Overview](https://msuspartners.eventbuilder.com/event/60141?source=AzurePartnerTechTalks)
+* [May 26, 2022 - Azure Database for MySQL Roadmap](https://msuspartners.eventbuilder.com/event/60143?source=AzurePartnerTechTalks)
+* [June 09, 2022 - Azure Database for MySQL Deployment Options - CLI, PowerShell, and Terraform](https://msuspartners.eventbuilder.com/event/60145?source=AzurePartnerTechTalks)
+* [June 23, 2022 - Azure Database for MySQL High Availability and Disaster Recovery](https://msuspartners.eventbuilder.com/event/60146?source=AzurePartnerTechTalks)
+* [July 12, 2022 - Azure Database for MySQL Migration Strategies for Offline and Near Zero Downtime Migration](https://msuspartners.eventbuilder.com/event/60147?source=AzurePartnerTechTalks)
 
 ## Feedback
 
