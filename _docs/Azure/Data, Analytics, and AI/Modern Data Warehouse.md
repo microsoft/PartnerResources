@@ -30,6 +30,7 @@ The latest updates on Azure Sypanse Analytics.
 
 Azure Synapse Analytics is now generally available as of December 2020. 
 
+* [March 2022 Update](...)
 * [January 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-january-update-2022/ba-p/3071681)
   * Additional database templates (Automotive, Genomics, Manufacturing, Pharmaceuticals)
   * SynapseML improvements
