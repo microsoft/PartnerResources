@@ -31,7 +31,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Transition SMB Customers to the Cloud](https://partner.microsoft.com/en-us/marketing/business-applications-smb?wt.mc_id=AID2420183_EML_6301784#tab-content-1) (Self-Paced) (5 Minutes)
 * [Watch Dynamics 365 Business Central Overview Demos](https://dynamics.microsoft.com/en-us/business-central/demo/) (Self-Paced) (9 Minutes)
 * [Read The Business Owner’s Guide to Replacing Accounting Software](https://info.microsoft.com/dynamics365-replacing-acct-software.html) (Self-Paced) (1 Hour)
-* [Review Dynamics 365 Licensing](bit.ly/3jiu48Y) (published April 2022) (1 hour, 3 minutes)
+* [Learn Dynamics 365 Business Central Licensing](bit.ly/3jiu48Y) (published April 2022) (1 hour, 3 minutes)
 
 ## Associate
 
