@@ -81,4 +81,4 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 
 * [Directions North America Conference, April 3 - 6, 2022](https://www.directionsna.com/) (In-person Instructor Led) (3 Days)
 * [Directions Asia Conference, April 27 - 28, 2023](https://directions4partners.com/events/directions-asia-2023/?msclkid=45bcb92cc24611eca8cd3226d570532e) (In-person Instructor Led) (2 Days)
-* [Attend Business Central 2022 Release, Wave 1 Launch Event, April 2022](register @aka.ms/BCLE to access the on demand content)
+* [Business Central 2022 Release, Wave 1 Launch Event, April 2022](register @aka.ms/BCLE to access the on demand content) (April 2022)
