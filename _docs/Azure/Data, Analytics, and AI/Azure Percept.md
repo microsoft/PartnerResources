@@ -20,7 +20,7 @@ tags:
 
 ## Fundamentals
 * [Azure Percept Documentation](https://docs.microsoft.com/en-gb/azure/azure-percept/) (Self-Paced)
-* [Microsoft Mechanics: Azure Percept | Build & Deploy to edge AI devices in minutes](https://youtu.be/zSBNsEqU5NA) (Video 12 mins)
+* [Microsoft Mechanics: Azure Percept - Build & Deploy to edge AI devices in minutes](https://youtu.be/zSBNsEqU5NA) (Video 12 mins)
 
 ## Associate
 * Coming soon!
