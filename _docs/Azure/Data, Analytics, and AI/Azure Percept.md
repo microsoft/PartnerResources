@@ -6,8 +6,10 @@ updated: 2022-04-27
 permalink: /azure/data-analytics-ai/azure-percept
 tags: 
 - azure
-- data, analytics, ml,  and ai
 - learning plan
+- data, analytics, and ai
+- machine learning
+- ai
 - percept
 ---
 
