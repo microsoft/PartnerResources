@@ -67,3 +67,13 @@ Mike Shelton explores the basics of schema design in a SQL Pool (SQL DW). What i
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
 * [Modern Analytics Academy - Schema Design in SQL Pools](https://www.youtube.com/watch?v=zCqMyRtb41A)
 [![Modern Analytics Academy Schema Design](https://img.youtube.com/vi/zCqMyRtb41A/0.jpg)](https://www.youtube.com/watch?v=zCqMyRtb41A)
+
+## Vignette #3 - Synapse Data Explorer
+May 3, 2022
+
+This session will look at Azure Synapse Data Explorer. Azure Synapse Data Explorer provides customers with an interactive query experience to unlock insights from log and telemetry data. To complement existing SQL and Apache Spark analytics runtime engines, the Data Explorer analytics runtime is optimized for efficient log analytics using powerful indexing technology to automatically index free-text and semi-structured data commonly found in telemetry data.
+
+* [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20SynapseDataExplorer.pptx)
+* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
+* [Modern Analytics Academy - Synapase Data Explorer](https://www.youtube.com/watch?v=zCqMyRtb41A)
+[![Modern Analytics Academy Synapase Data Explorer](https://img.youtube.com/vi/zCqMyRtb41A/0.jpg)](https://www.youtube.com/watch?v=zCqMyRtb41A)
