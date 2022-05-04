@@ -75,5 +75,5 @@ This session will look at Azure Synapse Data Explorer. Azure Synapse Data Explor
 
 * [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20SynapseDataExplorer.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
-* [Modern Analytics Academy - Synapase Data Explorer](https://www.youtube.com/watch?v=zCqMyRtb41A)
-[![Modern Analytics Academy Synapase Data Explorer](https://img.youtube.com/vi/zCqMyRtb41A/0.jpg)](https://www.youtube.com/watch?v=zCqMyRtb41A)
+* [Modern Analytics Academy - Synapase Data Explorer](https://www.youtube.com/watch?v=4BAIJd7xdBM)
+[![Modern Analytics Academy Synapase Data Explorer](https://img.youtube.com/vi/4BAIJd7xdBM/0.jpg)](https://www.youtube.com/watch?v=4BAIJd7xdBM)
