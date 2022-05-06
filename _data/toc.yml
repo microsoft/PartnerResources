@@ -90,3 +90,6 @@
     - title: "Modern Analytics Academy"
       url: "skilling/data-analytics-ai/modern-analytics-academy"
       tag: maa
+    - title: "What the Hack"
+      url: "skilling/azure/what-the-hack"
+      tag: wth
