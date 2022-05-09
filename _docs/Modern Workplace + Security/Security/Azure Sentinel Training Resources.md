@@ -29,33 +29,26 @@ Below you will find content to assist in upskilling on Azure Sentinel. Microsoft
 * [Design your Microsoft Sentinel workspace architecture - Decision Tree](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
 
 
-### How to build my demo instance (good for a month to keep it free of charge – see above):
+### How to build a demo instance
+
+Use these steps to build a demo instance; should be free for one month – see above
 
 1. [Azure-Sentinel/Solutions/Training/Azure-Sentinel-Training-Lab
 at master · Azure/Azure-Sentinel · GitHub](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
    * Initial setup - includes dummy data
-
 2. [Deploy and monitor Azure Key Vault honeytokens with Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/monitor-key-vault-honeytokens?tabs=deploy-at-scale)
    * Optional, but useful
-
 3. [Connect your AWS account to Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws?pivots=env-settings)
    * Optional, but useful
-
 4. [Connect security alerts to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud)
    * Defender for Cloud Connector
-
 5. [Alert validation in Microsoft Defender for Cloud - Microsoft Docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/alert-validation)
    * Sample security alerts
-
 6. [Send AAD logs to the workspace](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/howto-integrate-activity-logs-with-log-analytics#send-logs-to-azure-monitor)
-
 7. [Connect Azure Active Directory data to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
-
 8. [Connect Microsoft Sentinel to Amazon Web Services to ingest AWS service log data](https://docs.microsoft.com/en-us/azure/sentinel/connect-aws?tabs=ct)
-
 9. [Possible additional dummy data](https://github.com/OTRF/Microsoft-Sentinel2Go)
    * GitHub - OTRF/Microsoft-Sentinel2Go: Microsoft Sentinel2Go is an open source project developed to expedite the deployment of a Microsoft Sentinel research lab.
-
 10. [Sample CEF Data into Azure Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-sample-cef-data-into-azure-sentinel/ba-p/1064158)
 
 
