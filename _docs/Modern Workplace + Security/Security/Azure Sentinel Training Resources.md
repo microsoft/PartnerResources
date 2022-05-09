@@ -68,16 +68,6 @@ at master · Azure/Azure-Sentinel · GitHub](https://github.com/Azure/Azure-Sent
    * Map the data fields in the various connector tables to Sentinel recognized entities; this will also help when grouping alerts into incidents.
 * [Ingest, Archive, Search, and Restore Data in Microsoft Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-archive-search-and-restore-data-in-microsoft-sentinel/ba-p/3195126)
 
-
-
-
-## Expert
-* [Azure Sentinel Ninja L400 Training](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310)
-* [The FAQ companion to the Azure Sentinel Ninja training](https://techcommunity.microsoft.com/t5/azure-sentinel/the-faq-companion-to-the-azure-sentinel-ninja-training/ba-p/2022485)
-
-## Community
-* [Security Community Webinars](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
-
 ### Build a SOC and operationalize Security Operations
 
 * [What's New: Azure Sentinel - SOC Process Framework Workbook - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-soc-process-framework-workbook/ba-p/2339315)
@@ -199,3 +189,5 @@ REF: [Plan and manage costs for Microsoft Sentinel - Microsoft Docs](https://doc
 * Partners can [sign up for the ongoing Cloud Security Private Community program](https://www.aka.ms/prseccom), and will receive access to our NDA roadmap calls, design exercises, surveys, and private previews. Note: Partners must have a valid NDA with Microsoft to be able to sign up for this program.
 * [Offer listing best practices - Microsoft commercial marketplace - Microsoft Docs](https://docs.microsoft.com/en-us/azure/marketplace/gtm-offer-listing-best-practices) and [Marketing best practices - Microsoft commercial marketplace - Microsoft Docs](https://docs.microsoft.com/en-us/azure/marketplace/gtm-marketing-best-practices)
 
+## Community
+* [Security Community Webinars](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
