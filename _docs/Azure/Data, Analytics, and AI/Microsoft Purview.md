@@ -40,7 +40,8 @@ tags:
 
 ## Expert
 
-* [https://aka.ms/PurviewAPIDoc](https://aka.ms/PurviewAPIDoc)
+* [Microsoft Purview Resource Provider Rest API](https://aka.ms/PurviewAPIDoc)
+* [PyApacheAtlas: A Python SDK for Azure Purview and Apache Atlas](https://github.com/wjohnson/pyapacheatlas)
 
 ## Hands on lab
 

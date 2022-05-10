@@ -26,7 +26,7 @@ tags:
    * [Micro-Agent Now Available for Public Preview for IoT Edge Devices - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/micro-agent-now-available-for-public-preview-for-iot-edge/ba-p/3159736)
    * [Latest Threat Intelligence (February 2022) - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot/latest-threat-intelligence-february-2022/m-p/3160118)
 * [Invitation - Join the Microsoft Defender for IoT community to influence and earn swag! - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot/invitation-join-the-microsoft-defender-for-iot-community-to/m-p/3073243#M89)
-* [Secure your Intelligent Platforms with Azure Defender for IOT featuring Accenture Security - YouTube](https://www.youtube.com/watch?v=E14ADt1G8xQ) – Great demo by Accenture
+* [Secure your Intelligent Platforms with Azure Defender for IOT featuring Accenture Security - YouTube](https://www.youtube.com/watch?v=E14ADt1G8xQ) – Demo by Accenture
 * [Microsoft Defender for IoT - General Release Update - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/microsoft-defender-for-iot-general-release-update/ba-p/3199919) – latest version (Feb 2022)
 * [Defender for IoT POC](https://github.com/mpram/Azure-Defender-for-IoT/) - with a few recommended modifications:
    1. Modify the Networking for the VM to only allow RDP connections from your IP, not everything.

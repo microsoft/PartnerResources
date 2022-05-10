@@ -64,7 +64,7 @@ tags:
 * [Simulating risk detections in Azure AD Identity Protection - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-simulate-risk)
 
 ## Defender for IoT – Created separate document.
-See [Defender for IoT]() in its own resource guide
+See [Defender for IoT](/modern-workplace/security/microsoft-defender-for-iot) in its own resource guide
 
 ## Information Protection
 
