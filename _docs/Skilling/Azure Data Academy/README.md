@@ -44,8 +44,8 @@ May 12, 2022
 Avnish Rastogi from the Azure Database for MySQL engineering team joins us in this session to introduce Azure Database for MySQL. Azure Database for MySQL Flexible Server is a fully managed MySQL database offering that provides flexible scalability and allows for granular control over database management and configuration settings. The flexible server architecture has several compute tiers to fit different workload patterns, with configurable high availability to suit business continuity needs. 
 
 * [Playlist for all Azure Data Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjlOS4hbINKqLVBafb5yD5Rm)
-* [Introduction to Azure Database for PostgreSQL Flexible Server](https://youtu.be/nCOW0WAIU7k)
-[![Introduction to Azure Database for PostgreSQL Flexible Server](https://img.youtube.com/vi/nCOW0WAIU7k/0.jpg)](https://youtu.be/nCOW0WAIU7k)
+* [Introduction to Azure Database for PostgreSQL Flexible Server](https://youtu.be/UmM_hM_aJ4Q)
+[![Introduction to Azure Database for PostgreSQL Flexible Server](https://img.youtube.com/vi/UmM_hM_aJ4Q/0.jpg)](https://youtu.be/UmM_hM_aJ4Q)
 
 ---
 
