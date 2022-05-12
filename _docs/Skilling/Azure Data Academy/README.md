@@ -47,6 +47,8 @@ Avnish Rastogi from the Azure Database for MySQL engineering team joins us in th
 * [Introduction to Azure Database for PostgreSQL Flexible Server](https://youtu.be/nCOW0WAIU7k)
 [![Introduction to Azure Database for PostgreSQL Flexible Server](https://img.youtube.com/vi/nCOW0WAIU7k/0.jpg)](https://youtu.be/nCOW0WAIU7k)
 
+---
+
 ##  PostgreSQL Extensions in Azure Database for PostgreSQL
 May 10, 2022
 
@@ -56,6 +58,8 @@ In this session, Gennady Kostinsky expands on his introduction to Azure Database
 * [Introduction to Azure Database for PostgreSQL Flexible Server](https://youtu.be/nCOW0WAIU7k)
 [![Introduction to Azure Database for PostgreSQL Flexible Server](https://img.youtube.com/vi/nCOW0WAIU7k/0.jpg)](https://youtu.be/nCOW0WAIU7k)
 
+--- 
+
 ##  Introduction to Azure Database for PostgreSQL Flexible Server
 April 27, 2022
 
@@ -64,6 +68,8 @@ Our Azure Data Academy series will demonstrate the latest data-centric technolog
 * [Playlist for all Azure Data Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjlOS4hbINKqLVBafb5yD5Rm)
 * [Introduction to Azure Database for PostgreSQL Flexible Server](https://www.youtube.com/watch?v=fzVROh-xgto)
 [![Introduction to Azure Database for PostgreSQL Flexible Server](https://img.youtube.com/vi/fzVROh-xgto/0.jpg)](https://www.youtube.com/watch?v=fzVROh-xgto)
+
+---
 
 ## Feedback
 
