@@ -31,12 +31,34 @@ A list of all live Azure Partner Tech Talks is available [here](https://msuspart
 Our current schedule:
 
 * April 27, 2022 - Introduction to Azure Database for PostgreSQL Flexible Server
-* [May 10, 2022 - PostgreSQL Extensions in Azure Database for PostgreSQL](https://msuspartners.eventbuilder.com/event/59094?source=AzurePartnerTechTalks)
-* [May 12, 2022 - Azure Database for MySQL Overview](https://msuspartners.eventbuilder.com/event/60141?source=AzurePartnerTechTalks)
+* May 10, 2022 - PostgreSQL Extensions in Azure Database for PostgreSQL
+* May 12, 2022 - Azure Database for MySQL Overview
 * [May 26, 2022 - Azure Database for MySQL Roadmap](https://msuspartners.eventbuilder.com/event/60143?source=AzurePartnerTechTalks)
 * [June 09, 2022 - Azure Database for MySQL Deployment Options - CLI, PowerShell, and Terraform](https://msuspartners.eventbuilder.com/event/60145?source=AzurePartnerTechTalks)
 * [June 23, 2022 - Azure Database for MySQL High Availability and Disaster Recovery](https://msuspartners.eventbuilder.com/event/60146?source=AzurePartnerTechTalks)
 * [July 12, 2022 - Azure Database for MySQL Migration Strategies for Offline and Near Zero Downtime Migration](https://msuspartners.eventbuilder.com/event/60147?source=AzurePartnerTechTalks)
+
+##  Azure Database for MySQL Overview
+May 12, 2022
+
+Avnish Rastogi from the Azure Database for MySQL engineering team joins us in this session to introduce Azure Database for MySQL. Azure Database for MySQL Flexible Server is a fully managed MySQL database offering that provides flexible scalability and allows for granular control over database management and configuration settings. The flexible server architecture has several compute tiers to fit different workload patterns, with configurable high availability to suit business continuity needs. 
+
+* [Playlist for all Azure Data Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjlOS4hbINKqLVBafb5yD5Rm)
+* [Introduction to Azure Database for PostgreSQL Flexible Server](https://youtu.be/UmM_hM_aJ4Q)
+[![Introduction to Azure Database for PostgreSQL Flexible Server](https://img.youtube.com/vi/UmM_hM_aJ4Q/0.jpg)](https://youtu.be/UmM_hM_aJ4Q)
+
+---
+
+##  PostgreSQL Extensions in Azure Database for PostgreSQL
+May 10, 2022
+
+In this session, Gennady Kostinsky expands on his introduction to Azure Database for PostgreSQL with a look at how to implement extensions in Azure Database for PostgreSQL. Extensions in PostgreSQL enable additional functionality based on the needs of your application.
+
+* [Playlist for all Azure Data Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjlOS4hbINKqLVBafb5yD5Rm)
+* [Introduction to Azure Database for PostgreSQL Flexible Server](https://youtu.be/nCOW0WAIU7k)
+[![Introduction to Azure Database for PostgreSQL Flexible Server](https://img.youtube.com/vi/nCOW0WAIU7k/0.jpg)](https://youtu.be/nCOW0WAIU7k)
+
+--- 
 
 ##  Introduction to Azure Database for PostgreSQL Flexible Server
 April 27, 2022
@@ -46,6 +68,8 @@ Our Azure Data Academy series will demonstrate the latest data-centric technolog
 * [Playlist for all Azure Data Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjlOS4hbINKqLVBafb5yD5Rm)
 * [Introduction to Azure Database for PostgreSQL Flexible Server](https://www.youtube.com/watch?v=fzVROh-xgto)
 [![Introduction to Azure Database for PostgreSQL Flexible Server](https://img.youtube.com/vi/fzVROh-xgto/0.jpg)](https://www.youtube.com/watch?v=fzVROh-xgto)
+
+---
 
 ## Feedback
 
