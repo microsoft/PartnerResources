@@ -2,7 +2,7 @@
 layout: page
 title: Power Apps with SAP on Azure
 description: Resources for Power Apps with SAP
-updated: 2021-12-01
+updated: 2022-03-21
 permalink: /business-applications/power-platform/power-apps-sap-azure
 tags:
 - learning plan
