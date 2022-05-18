@@ -36,6 +36,7 @@ Sessions are both live and on-demand below.
 * April 5, 2022 - What is Data Governance?
 * April 19, 2022 - Schema Design in SQL Pools
 * May 3, 2022 - Azure Data Explorer
+* May 17, 2022 - Power BI Deployment Pipelines
 * More coming soon!
 
 ## Feedback
@@ -81,3 +82,15 @@ This session will look at Azure Synapse Data Explorer. Azure Synapse Data Explor
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
 * [Modern Analytics Academy - Synapase Data Explorer](https://www.youtube.com/watch?v=4BAIJd7xdBM)
 [![Modern Analytics Academy Synapase Data Explorer](https://img.youtube.com/vi/4BAIJd7xdBM/0.jpg)](https://www.youtube.com/watch?v=4BAIJd7xdBM)
+
+---
+
+## Vignette #4 - Power BI Deployment Pipelines
+May 17, 2022
+
+ Analytics is a vital part of decision making, and more than ever creators must collaborate effectively to author reliable and available reports. This session will look at the deployment pipelines tool in Power BI, allowing creators to manage the lifecycle (develop and test) before moving into production.
+
+* [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Power%20BI%20Deployment%20Pipelines.pptx)
+* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
+* [Modern Analytics Academy - Power BI Deployment Pipelines](https://www.youtube.com/watch?v=kYdEYfOpVqk)
+[![Modern Analytics Academy Power BI Deployment Pipelines](https://img.youtube.com/vi/kYdEYfOpVqk/0.jpg)](https://www.youtube.com/watch?v=kYdEYfOpVqk)
