@@ -3,7 +3,7 @@ layout: page
 title: Modern Analytics Academy - Vignettes
 description: Workshop focused on Modern Analytics
 permalink: /skilling/data-analytics-ai/modern-analytics-academy-vignettes
-updated: 2022-04-05
+updated: 2022-05-17
 showbreadcrumb: false
 tags: 
 - azure
