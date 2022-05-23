@@ -52,7 +52,7 @@ In the main session, we'll explore Azure Purview's main features, with a number 
 
 Each module contains several options for hands-on learning. In most cases, there are multiple options available designed to meet your specific skilling needs, from simple tutorial/demo content to more advanced workshops. We understand that some people may just want to see demos while others want to dive deep; most are somewhere in between. Use the content that best suits you!
 
-## Suggessted HOL / Workshops
+## Suggested HOL / Workshops
 
 * [Azure Purview Demo Environment Tutorial](https://github.com/tayganr/purviewdemo)
 * [Azure Purview Lab](https://github.com/tayganr/purviewlab)

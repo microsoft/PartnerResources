@@ -42,7 +42,7 @@ In Data Pipeline, we'll look at the definition and key concepts of Data Pipeline
 
 Each module contains several options for hands-on learning. In most cases, there are multiple options available designed to meet your specific skilling needs, from simple tutorial/demo content to more advanced workshops. We understand that some people may just want to see demos while others want to dive deep; most are somewhere in between. Use the content that best suits you!
 
-## Suggessted HOL / Workshops
+## Suggested HOL / Workshops
 
 * [Delivering the Modern Data Warehouse with Azure Synapse Analytics, Azure Databricks, Azure Data Factory, and Power BI](https://github.com/solliancenet/tech-immersion-data-ai/blob/master/data-exp6/README.md) - In this lab, you will see how Azure Data Factory (ADF), Azure Databricks, and Azure Synapse Analytics (Data Warehouse) can be used together to build a modern data warehouse. You will start by using Azure Data Factory (ADF) to automate the movement of data in various formats gathered from various sources, including Cosmos DB, into a centralized Azure Data Lake Storage Gen2 (ADLS Gen2) repository. You will then use Azure Databricks to prepare and analyze those data, and finally write the aggregations to Azure Synapse Analytics.
 * [Azure Synapse Analytics Data Pipeline quickstart](https://docs.microsoft.com/en-us/azure/synapse-analytics/quickstart-copy-activity-load-sql-pool) - In this tutorial, you will create a data pipeline to copy data from SQL DB to Azure Synapse Dedicated SQL Pool. Afterward, You can then use the left navigation panel to try other data pipeline  tutorials. 
