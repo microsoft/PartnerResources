@@ -43,7 +43,7 @@ In this session, we dive into Power BI.
 * [Contoso Sales Demo Github repo](https://github.com/microsoft/Power-BI-Embedded-Contoso-Sales-Demo)
 * [Power BI Data Flow Whitepaper](https://go.microsoft.com/fwlink/?linkid=2011419&clcid=0x409)
 
-## Suggessted HOL / Workshops
+## Suggested HOL / Workshops
 
 * [Paginated Reports in a Day Series](https://docs.microsoft.com/en-us/power-bi/learning-catalog/paginated-reports-online-course)
 * [Developer in a Day Series](https://docs.microsoft.com/en-us/power-bi/learning-catalog/developer-online-course)

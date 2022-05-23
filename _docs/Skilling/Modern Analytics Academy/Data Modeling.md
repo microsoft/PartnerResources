@@ -42,7 +42,7 @@ In Data Modeling we'll look at how to Structure a Data Lake, and how to leverage
 
 Each module contains several options for hands-on learning. In most cases, there are multiple options available designed to meet your specific skilling needs, from simple tutorial/demo content to more advanced workshops. We understand that some people may just want to see demos while others want to dive deep; most are somewhere in between. Use the content that best suits you!
 
-## Suggessted HOL / Workshops
+## Suggested HOL / Workshops
 
 * [Load New York Taxicab Data](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/load-data-from-azure-blob-storage-using-copy) - In this tutorial, you will learn how to use the COPY statement to load New York Taxicab dataset into an Azure Synapse Dedicated SQL Pool from an Azure Blob Storage account.
 
