@@ -20,7 +20,6 @@ tags:
 * [Concept - Azure Container Apps Environments](https://docs.microsoft.com/en-us/azure/container-apps/environment)
 * [Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) (Self-Paced) (10 Hours)
 * [Microsoft Azure Fundamentals](https://www.microsoft.com/learning/course.aspx?cid=AZ-900T01) (In-person Instructor Led) (1 Day)
-*
 * [Video: Build and Deliver Apps with Container Apps](https://www.youtube.com/watch?v=b3dopSTnSRg)
 
 ## Associate
