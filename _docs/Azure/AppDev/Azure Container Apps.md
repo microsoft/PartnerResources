@@ -2,7 +2,7 @@
 layout: page
 title: Azure Container Apps
 description: Resources for Azure Container Apps
-updated: 2022-05-04
+updated: 2022-05-24
 permalink: /azure/appdev/azure-container-apps
 tags:
 - learning plan
