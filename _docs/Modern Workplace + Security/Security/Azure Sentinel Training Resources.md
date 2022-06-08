@@ -92,8 +92,8 @@ at master · Azure/Azure-Sentinel · GitHub](https://github.com/Azure/Azure-Sent
 
 ### ADX
 
-[Start for free using Azure Data Explorer - Microsoft Docs](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free)
-   * Free cluster, you just need a Microsoft Identity. 100GB, up to 10 DBs, up to 100 tables per DB, up to 200 columns per table. Free for 1 year, but can be extended.
+   * [Start for free using Azure Data Explorer - Microsoft Docs](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free) Free cluster, you just need a Microsoft Identity. 100GB, up to 10 DBs, up to 100 tables per DB, up to 200 columns per table. Free for 1 year, but can be extended.
+   * [Azure Data Explorer in 60 minutes with the new samples gallery - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-in-60-minutes-with-the-new-samples-gallery/ba-p/3447552)
 
 ### Notebooks
 
@@ -107,6 +107,9 @@ at master · Azure/Azure-Sentinel · GitHub](https://github.com/Azure/Azure-Sent
 
 ### Migration
 
+* [Plan your migration to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/migration)
+* [Microsoft Sentinel migration: Select a target Azure platform to host exported data](https://docs.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
+* [Microsoft Sentinel migration: Select a data ingestion tool](https://docs.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
 * [Best practices for migrating detection rules from ArcSight, Splunk and QRadar to Azure Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/best-practices-for-migrating-detection-rules-from-arcsight/ba-p/2216417)
 * [Uncoder.IO - Universal Sigma Rule Converter for SIEM, EDR, and NTDR](https://uncoder.io/)
 * [Azure-Sentinel/Tools/RuleMigration at master · Azure/Azure-Sentinel (github.com)](https://github.com/Azure/Azure-Sentinel/tree/master/Tools/RuleMigration)
