@@ -1,0 +1,18 @@
+# Resources for Integrations
+
+## Fundamentals
+* [Integration between Finance and Operations apps and third-party services](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/integration-overview) 
+* [Data management package REST API](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/data-management-api) 
+* [Open Data Protocol (OData)](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/odata) 
+* [Test services by using third-party utilities](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/third-party-service-test) 
+* [Custom service development](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/custom-services) 
+* [Service protection API limits](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/service-protection-api-limits) 
+
+
+## Integration via OData
+* [Integrating Products / Product Master data with Dynamics 365 Supply Chain Management](https://community.dynamics.com/365/b/ocp/posts/integrating-products-product-master-data-with-dynamics-365-supply-chain-management) 
+* [Integrating Vendors / Purchase Order data with Dynamics 365 Supply Chain Management](https://community.dynamics.com/365/b/ocp/posts/integrating-vendors-purchase-order-data-with-dynamics-365-supply-chain-management) 
+* [Integrating Customer / Sales Order data with Dynamics 365 Supply Chain Management](https://community.dynamics.com/365/b/ocp/posts/integrating-customer-sales-order-data-with-dynamics-365-supply-chain-management) 
+
+## Generating Data Events
+* [Generate CUD Data Events in D365 Finance & Operations and Capture in 3rd Party Applications](https://community.dynamics.com/365/b/ocp/posts/generate-cud-data-events-in-d365-finance-operations-and-capture-in-3rd-party-applications) 
