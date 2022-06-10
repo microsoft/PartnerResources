@@ -3,7 +3,7 @@ layout: page
 title: Azure Data Academy Home
 description: Azure data-centric series focusing on features, best practices, and new developments
 permalink: /skilling/data-analytics-ai/azure-data-academy
-updated: 2022-04-14
+updated: 2022-06-10
 showbreadcrumb: false
 tags: 
 - azure
