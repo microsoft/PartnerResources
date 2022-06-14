@@ -87,14 +87,14 @@ May 17, 2022
 
 ---
 
-## Vignette #5 - AKV in Synapse
+## Vignette #5 - How to use Azure key vault in Synapse pipeline / Notebook
 June 14, 2022
 
-description goes here
+We know that security is job one in the cloud. In this session, we’ll explore how to create secure solutions on the secure Azure platform using Azure key vault.
 
 * [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Power%20BI%20Deployment%20Pipelines.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
-* [Modern Analytics Academy - AKV Synapse](https://www.youtube.com/watch?v=09aBpfcqY2Q)
-[![Modern Analytics Academy AKV Synapse](https://img.youtube.com/vi/09aBpfcqY2Q/0.jpg)](https://www.youtube.com/watch?v=09aBpfcqY2Q)
+* [Modern Analytics Academy - How to use Azure key vault in Synapse pipeline / Notebook](https://www.youtube.com/watch?v=09aBpfcqY2Q)
+[![Modern Analytics Academy How to use Azure key vault in Synapse pipeline / Notebook](https://img.youtube.com/vi/09aBpfcqY2Q/0.jpg)](https://www.youtube.com/watch?v=09aBpfcqY2Q)
 
 ---
