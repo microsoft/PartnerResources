@@ -47,6 +47,7 @@ In this high level session, we'll explore what data governance is, why we need i
 * [Maturity Model Slides (only)]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Governance%20-%20Maturity.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
 * [Modern Analytics Academy - Why Data Governance?](https://www.youtube.com/watch?v=OWrO3XmKxqQ)
+
 [![Modern Analytics Academy Data Governance](https://img.youtube.com/vi/OWrO3XmKxqQ/0.jpg)](https://www.youtube.com/watch?v=OWrO3XmKxqQ)
 
 ---
@@ -59,6 +60,7 @@ Mike Shelton explores the basics of schema design in a SQL Pool (SQL DW). What i
 * [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Schema%20-%20Design.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
 * [Modern Analytics Academy - Schema Design in SQL Pools](https://www.youtube.com/watch?v=zCqMyRtb41A)
+
 [![Modern Analytics Academy Schema Design](https://img.youtube.com/vi/zCqMyRtb41A/0.jpg)](https://www.youtube.com/watch?v=zCqMyRtb41A)
 
 ---
@@ -71,6 +73,7 @@ This session will look at Azure Synapse Data Explorer. Azure Synapse Data Explor
 * [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20SynapseDataExplorer.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
 * [Modern Analytics Academy - Synapase Data Explorer](https://www.youtube.com/watch?v=4BAIJd7xdBM)
+
 [![Modern Analytics Academy Synapase Data Explorer](https://img.youtube.com/vi/4BAIJd7xdBM/0.jpg)](https://www.youtube.com/watch?v=4BAIJd7xdBM)
 
 ---
@@ -83,6 +86,7 @@ May 17, 2022
 * [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Power%20BI%20Deployment%20Pipelines.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
 * [Modern Analytics Academy - Power BI Deployment Pipelines](https://www.youtube.com/watch?v=kYdEYfOpVqk)
+
 [![Modern Analytics Academy Power BI Deployment Pipelines](https://img.youtube.com/vi/kYdEYfOpVqk/0.jpg)](https://www.youtube.com/watch?v=kYdEYfOpVqk)
 
 ---
@@ -95,6 +99,7 @@ We know that security is job one in the cloud. In this session, we’ll explore 
 * [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20AKV%20usage%20in%20Synapse%20pipeline%20and%20notebook.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
 * [Modern Analytics Academy - How to use Azure key vault in Synapse pipeline / Notebook](https://www.youtube.com/watch?v=09aBpfcqY2Q)
+
 [![Modern Analytics Academy How to use Azure key vault in Synapse pipeline / Notebook](https://img.youtube.com/vi/09aBpfcqY2Q/0.jpg)](https://www.youtube.com/watch?v=09aBpfcqY2Q)
 
 ---
