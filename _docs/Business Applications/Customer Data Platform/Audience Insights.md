@@ -46,7 +46,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Expert
 
-* [Customer Insights Advanced Training - Self Paced](https://assetsprod.microsoft.com/mpn/en-us/customer-insights-advanced-training.zip)
+* [Customer Insights Advanced Training - Self Paced](https://dynamicspartners.transform.microsoft.com/products/dynamics-365-customer-insights?tab=drive-readiness)
 _**Note:** An on-demand video version will be available shortly_
 
 
