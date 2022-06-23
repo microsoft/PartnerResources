@@ -26,6 +26,8 @@ The Azure Data Academy is a series of presentations and hands-on material design
 
 ## Live Schedule
 
+For all sessions in this series, please our tech intensity page [here](https://msuspartners.eventbuilder.com/EnableOSSDB)
+
 A list of all live Azure Partner Tech Talks is available [here](https://msuspartners.eventbuilder.com/AzurePartnerTechTalks).
 
 Our current schedule:
@@ -33,13 +35,25 @@ Our current schedule:
 * April 27, 2022 - Introduction to Azure Database for PostgreSQL Flexible Server
 * May 10, 2022 - PostgreSQL Extensions in Azure Database for PostgreSQL
 * May 12, 2022 - Azure Database for MySQL Overview
-* [June 23, 2022 - Azure Database for MySQL High Availability and Disaster Recovery](https://msuspartners.eventbuilder.com/event/60146?source=AzurePartnerTechTalks)
+* June 23, 2022 - Azure Database for MySQL High Availability and Disaster Recovery
 * [June 28, 2022 - Azure Database for MySQL Deployment Options - CLI, PowerShell, and Terraform](https://msuspartners.eventbuilder.com/event/60145?source=AzurePartnerTechTalks)
 * [July 12, 2022 - Azure Database for MySQL Migration Strategies for Offline and Near Zero Downtime Migration](https://msuspartners.eventbuilder.com/event/60147?source=AzurePartnerTechTalks)
 * [July 14, 2022 1pm ET - Azure Database for MySQL Roadmap, Live Q&A](https://msuspartners.eventbuilder.com/event/60143?source=AzurePartnerTechTalks)
 
 __Note__: Our [July 14 Roadmap and Q&A Session](https://msuspartners.eventbuilder.com/event/60143?source=AzurePartnerTechTalks) will be live, and will not be recorded. An NDA is required, so please register with your Partner email address.
 
+##  Azure Database for MySQL HA/DR
+June 23, 2022
+
+Azure Database for MySQL Flexible Server is a fully managed MySQL database offering that provides flexible scalability and allows for granular control over database management and configuration settings. This session, delivered by Avnish Rastogi from the MySQL Flexible Server team, will explore the high availability and disaster recovery options available to Azure SQL Database for MySQL Flexible Server, ensuring the right level of business continuity that meets your objectives. We’ll discuss zone availability, backups, and scaling considerations.
+
+* [Presentation Deck]({{ site.baseurl }}/assets/ada/Azure%20DB%20Flexible%20Server%20HADR.pdf)
+* [Playlist for all Azure Data Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjlOS4hbINKqLVBafb5yD5Rm)
+* [Introduction to Azure Database for MySQL Flexible Server](https://youtu.be/rPcxDTAisMk)
+
+[![Introduction to Azure Database for MySQL Flexible Server](https://img.youtube.com/vi/rPcxDTAisMk/0.jpg)](https://youtu.be/rPcxDTAisMk)
+
+---
 
 ##  Azure Database for MySQL Overview
 May 12, 2022
@@ -47,8 +61,9 @@ May 12, 2022
 Avnish Rastogi from the Azure Database for MySQL engineering team joins us in this session to introduce Azure Database for MySQL. Azure Database for MySQL Flexible Server is a fully managed MySQL database offering that provides flexible scalability and allows for granular control over database management and configuration settings. The flexible server architecture has several compute tiers to fit different workload patterns, with configurable high availability to suit business continuity needs. 
 
 * [Playlist for all Azure Data Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjlOS4hbINKqLVBafb5yD5Rm)
-* [Introduction to Azure Database for PostgreSQL Flexible Server](https://youtu.be/UmM_hM_aJ4Q)
-[![Introduction to Azure Database for PostgreSQL Flexible Server](https://img.youtube.com/vi/UmM_hM_aJ4Q/0.jpg)](https://youtu.be/UmM_hM_aJ4Q)
+* [Introduction to Azure Database for MySQL Flexible Server](https://youtu.be/UmM_hM_aJ4Q)
+
+[![Introduction to Azure Database for MySQL Flexible Server](https://img.youtube.com/vi/UmM_hM_aJ4Q/0.jpg)](https://youtu.be/UmM_hM_aJ4Q)
 
 ---
 
@@ -59,6 +74,7 @@ In this session, Gennady Kostinsky expands on his introduction to Azure Database
 
 * [Playlist for all Azure Data Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjlOS4hbINKqLVBafb5yD5Rm)
 * [Introduction to Azure Database for PostgreSQL Flexible Server](https://youtu.be/nCOW0WAIU7k)
+
 [![Introduction to Azure Database for PostgreSQL Flexible Server](https://img.youtube.com/vi/nCOW0WAIU7k/0.jpg)](https://youtu.be/nCOW0WAIU7k)
 
 --- 
@@ -70,6 +86,7 @@ Our Azure Data Academy series will demonstrate the latest data-centric technolog
 
 * [Playlist for all Azure Data Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjlOS4hbINKqLVBafb5yD5Rm)
 * [Introduction to Azure Database for PostgreSQL Flexible Server](https://www.youtube.com/watch?v=fzVROh-xgto)
+
 [![Introduction to Azure Database for PostgreSQL Flexible Server](https://img.youtube.com/vi/fzVROh-xgto/0.jpg)](https://www.youtube.com/watch?v=fzVROh-xgto)
 
 ---
