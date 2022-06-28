@@ -31,3 +31,11 @@ tags:
 
 [Azure SaaS Offer](https://docs.microsoft.com/en-us/azure/marketplace/plan-saas-offer)
 
+## Azure SaaS Metered Billing
+
+* [Metered billing for SaaS using the commercial marketplace metering service](https://docs.microsoft.com/en-us/azure/marketplace/partner-center-portal/saas-metered-billing)
+* [Managed application metered billing](https://docs.microsoft.com/en-us/azure/marketplace/azure-app-metered-billing)
+* [Mastering the Metered Billing Solution](https://microsoft.github.io/Mastering-the-Marketplace/metered-billing-accelerator/)
+* [Metered Billing Accelerator](https://github.com/microsoft/metered-billing-accelerator)
+* [Community Sample Code and SDK for SaaS Applications](https://github.com/Azure/Commercial-Marketplace-SaaS-Accelerator)
+
