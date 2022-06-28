@@ -36,11 +36,26 @@ Our current schedule:
 * May 10, 2022 - PostgreSQL Extensions in Azure Database for PostgreSQL
 * May 12, 2022 - Azure Database for MySQL Overview
 * June 23, 2022 - Azure Database for MySQL High Availability and Disaster Recovery
-* [June 28, 2022 - Azure Database for MySQL Deployment Options - CLI, PowerShell, and Terraform](https://msuspartners.eventbuilder.com/event/60145?source=AzurePartnerTechTalks)
+* June 28, 2022 - Azure Database for MySQL Deployment Options - CLI, PowerShell, and Terraform
 * [July 12, 2022 - Azure Database for MySQL Migration Strategies for Offline and Near Zero Downtime Migration](https://msuspartners.eventbuilder.com/event/60147?source=AzurePartnerTechTalks)
 * [July 14, 2022 1pm ET - Azure Database for MySQL Roadmap, Live Q&A](https://msuspartners.eventbuilder.com/event/60143?source=AzurePartnerTechTalks)
 
 __Note__: Our [July 14 Roadmap and Q&A Session](https://msuspartners.eventbuilder.com/event/60143?source=AzurePartnerTechTalks) will be live, and will not be recorded. An NDA is required, so please register with your Partner email address.
+
+
+##  Azure Database for MySQL - Deployment with Terraform, ARM, Bicep
+June 28, 2022
+
+Azure Database for MySQL Flexible Server is a fully managed MySQL database offering that provides flexible scalability and allows for granular control over database management and configuration settings. In this session, delivered by the MySQL team at Microsoft, we’ll explore the different deployment options to best fit your devops environment, primarily focusing on Terraform by HashiCorp, and discussing high level differences with CLI, ARM, and Bicep. 
+
+* [Presentation Deck]({{ site.baseurl }}/assets/ada/Azure%20DB%20for%20MySQL%20Deployment%20Options.pdf)
+* [Playlist for all Azure Data Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjlOS4hbINKqLVBafb5yD5Rm)
+* [Azure Database for MySQL Flexible Server Deployment with Terraform, ARM, Bicep](https://youtu.be/X9nEQEyHgoo)
+
+[![Azure Database for MySQL Flexible Server Deployment with Terraform, ARM, Bicep](https://img.youtube.com/vi/X9nEQEyHgoo/0.jpg)](https://youtu.be/X9nEQEyHgoo)
+
+---
+
 
 ##  Azure Database for MySQL HA/DR
 June 23, 2022
@@ -49,9 +64,9 @@ Azure Database for MySQL Flexible Server is a fully managed MySQL database offer
 
 * [Presentation Deck]({{ site.baseurl }}/assets/ada/Azure%20DB%20Flexible%20Server%20HADR.pdf)
 * [Playlist for all Azure Data Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjlOS4hbINKqLVBafb5yD5Rm)
-* [Introduction to Azure Database for MySQL Flexible Server](https://youtu.be/rPcxDTAisMk)
+* [Azure Database for MySQL Flexible Server HADR](https://youtu.be/rPcxDTAisMk)
 
-[![Introduction to Azure Database for MySQL Flexible Server](https://img.youtube.com/vi/rPcxDTAisMk/0.jpg)](https://youtu.be/rPcxDTAisMk)
+[![Azure Database for MySQL Flexible Server HADR](https://img.youtube.com/vi/rPcxDTAisMk/0.jpg)](https://youtu.be/rPcxDTAisMk)
 
 ---
 
