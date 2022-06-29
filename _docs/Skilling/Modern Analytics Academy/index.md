@@ -8,7 +8,7 @@ redirect_from:
   - /skilling/data-analytics-ai/modern-analytics-academy
 updated: 2022-04-05
 showbreadcrumb: true
-tags: 
+tags:
 - azure
 - data, analytics, and ai
 - synapse
