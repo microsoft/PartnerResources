@@ -97,6 +97,7 @@ In our Vignette sessions, we'll explore topics based on feedback or frequently a
 {% endfor %}
 {% assign filteredtags = filteredtags | uniq | sort %}
 
+
 <div class="tag-entry">
     <div>
         <a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
@@ -105,7 +106,7 @@ In our Vignette sessions, we'll explore topics based on feedback or frequently a
         {% endif %}
     </div>
   
-    <div>{% for tag in filteredtags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
+    <div style="padding-bottom: 5px;">{% for tag in filteredtags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
     <div>
     {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}"><img width="160" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/0.jpg" style="float:left; padding-right:15px;"/></a>
     {% endif %}
@@ -113,7 +114,7 @@ In our Vignette sessions, we'll explore topics based on feedback or frequently a
     </div>
 </div>
 
-<div style="clear:both; padding-top: 20px; padding-bottom: 5px;">
+<div style="clear:both; padding-top: 20px; padding-bottom: 0px;">
 <hr/>
 </div>
 
