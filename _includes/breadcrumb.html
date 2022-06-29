@@ -3,6 +3,7 @@
     {% assign linkText = "" %}
     {% assign crumbs = page.url | append: "/"  | replace: '//', '/' | split: '/' %}
     {% for crumb in crumbs offset: 1 %}
+        {% if crumb != "skilling" %}
         {% if crumb != "index" %}
        
         {% capture crumbUrl %}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb }}{% unless forloop.first or forloop.last %}/{% endunless %}{% endfor %}{% endcapture %}
@@ -20,6 +21,7 @@
                 {% endfor %}{% endif %}{% endfor %}
             <li class="breadcrumb-item"><a href="{{ site.url }}{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{% if crumb == "docs" %}Documentation{% else %}{{ linkText }}{% endif %}</a></li>
             {% endif %}
+        {% endif %}
         {% endif %}
         {% endif %}
     {% endfor %}
