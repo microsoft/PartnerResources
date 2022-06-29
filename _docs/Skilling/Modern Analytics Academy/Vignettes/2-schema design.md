@@ -3,7 +3,7 @@ layout: page
 title: Schema Design in a Synapse SQL Pool
 description: Mike Shelton explores the basics of schema design in a SQL Pool (SQL DW). What is a star schema and why do we use it?
 updated: 2022-04-19
-permalink: /skilling/data-analytics-ai/maa-vignettes/schema-design-sql-pool
+permalink: /skilling/modern-analytics-academy/vignettes/schema-design-sql-pool
 youtubeid: zCqMyRtb41A
 tags: 
 - azure
