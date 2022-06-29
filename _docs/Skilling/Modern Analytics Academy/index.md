@@ -4,6 +4,7 @@ title: Modern Analytics Academy Home
 description: Workshop focused on Modern Analytics
 permalink: /skilling/modern-analytics-academy
 redirect_from:
+  - /skilling/modern-analytics-academy/
   - /azure/data-analytics-ai/modern-analytics-academy
   - /skilling/data-analytics-ai/modern-analytics-academy
 updated: 2022-04-05
