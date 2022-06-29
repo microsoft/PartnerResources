@@ -2,12 +2,13 @@
 layout: page
 title: Modern Analytics Academy Overview
 description: Workshop focused on Modern Analytics - Overview
-permalink: /skilling/data-analytics-ai/modern-analytics-academy-overview
+permalink: /skilling/modern-analytics-academy/overview
 redirect_from:
+  - /skilling/data-analytics-ai/modern-analytics-academy-overview
   - /azure/data-analytics-ai/modern-analytics-academy-overview
   - /azure/some-test-page
 updated: 2021-12-16
-showbreadcrumb: false
+showbreadcrumb: true
 tags: 
 - azure
 - data, analytics, and ai
@@ -17,22 +18,24 @@ tags:
 
 # Modern Analytics Academy - Overview
 
+<!--
 ## Content
 
-* [Modern Analytics Academy Home](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy)
-* Modern Analytics Overview
-* [Module 1: Data Acquisition and Storage](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-acquisition)
-* [Module 2: Data Modeling](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-modeling)
-* [Module 3: Data Pipelines](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-pipelines)
-* [Module 4: Data Governance](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-governance)
-* [Module 5: Visualization](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-visualization)
-* [Ongoing Vignettes](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-vignettes)
+* [Modern Analytics Academy Home](/PartnerResources/skilling/modern-analytics-academy)
+* [Modern Analytics Overview](/PartnerResources/skilling/modern-analytics-academy/overview)
+* [Module 1: Data Acquisition and Storage](/PartnerResources//skilling/modern-analytics-academy/data-acquisition)
+* [Module 2: Data Modeling](/PartnerResources/skilling/modern-analytics-academy/data-modeling)
+* [Module 3: Data Pipelines](/PartnerResources/skilling/modern-analytics-academy/data-pipelines)
+* [Module 4: Data Governance](/PartnerResources/skilling/modern-analytics-academy/data-governance)
+* [Module 5: Visualization](/PartnerResources/skilling/modern-analytics-academy/data-visualization)
+* [Ongoing Vignettes](/PartnerResources/skilling/modern-analytics-academy/vignettes)
+-->
 
 Welcome to the Modern Analytics Academy (MAA) Overview!
 
 The Overview session is designed to give an overall picture of modern analytics in Azure -- understanding the business needs in a modern organization, and understanding the choices available in the Azure platform. We'll answer many of the "why" questions in this high level presentation. 
 
-# Main Presentation
+## Main Presentation
 
 * [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Overview.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)

@@ -2,11 +2,12 @@
 layout: page
 title: Modern Analytics Academy - Acquisition and Storage
 description: Workshop focused on Modern Analytics - Acquisition and Storage
-permalink: /skilling/data-analytics-ai/modern-analytics-academy-data-acquisition
+permalink: /skilling/modern-analytics-academy/data-acquisition
 redirect_from:
+  - /skilling/data-analytics-ai/modern-analytics-academy-data-acquisition
   - /azure/data-analytics-ai/modern-analytics-academy-data-acquisition
 updated: 2021-12-16
-showbreadcrumb: false
+showbreadcrumb: true
 tags: 
 - azure
 - data, analytics, and ai
@@ -16,21 +17,11 @@ tags:
 
 # Modern Analytics Academy - Data Acquisition and Storage
 
-##  Content
-* [Modern Analytics Academy Home](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy)
-* [Modern Analytics Overview](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-overview)
-* Module 1: Data Acquisition and Storage
-* [Module 2: Data Modeling](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-modeling)
-* [Module 3: Data Pipelines](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-pipelines)
-* [Module 4: Data Governance](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-governance)
-* [Module 5: Visualization](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-visualization)
-* [Ongoing Vignettes](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-vignettes)
-
 Welcome to the Modern Analytics Academy (MAA) - Data Acquisition and Storage!
 
 In Data Acquisition and Storage we’ll look at the nuances of how to integrate source systems to move data into Azure for long term retention and analysis. Technologies include Azure Data Lake, Azure Cosmos DB, Azure Event Hubs, and Azure Synapse Analytics.
 
-# Main Presentation
+## Main Presentation
 
 * [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Data%20Acquisition%20and%20Storage.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
