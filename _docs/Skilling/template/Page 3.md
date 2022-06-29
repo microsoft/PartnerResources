@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 layout: page
 title: Name of Workshop or Series
 description: Short Description of Workshop - Subpage Name
