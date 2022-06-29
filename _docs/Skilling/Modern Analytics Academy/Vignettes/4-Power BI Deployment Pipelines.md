@@ -3,7 +3,7 @@ layout: page
 title: Power BI Deployment Pipelines
 description: Analytics is a vital part of decision making, and more than ever creators must collaborate effectively to author reliable and available reports. This session will look at the deployment pipelines tool in Power BI, allowing creators to manage the lifecycle (develop and test) before moving into production.
 updated: 2022-05-17
-permalink: /skilling/data-analytics-ai/maa-vignettes/power-bi-deployment-pipelines
+permalink: /skilling/modern-analytics-academy/vignettes/power-bi-deployment-pipelines
 youtubeid: kYdEYfOpVqk
 tags: 
 - azure

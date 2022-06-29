@@ -3,7 +3,7 @@ layout: page
 title: What is data governance?
 description: In this high level session, we'll explore what data governance is, why we need it, and the people, processes, and technology needed to implement a data governance strategy. This presentation is primarily for those new to data governance, looking for guidance on best practices, or planning a strategy for evolving their current data governance strategy.
 updated: 2022-04-05
-permalink: /skilling/data-analytics-ai/maa-vignettes/what-is-data-gov
+permalink: /skilling/modern-analytics-academy/vignettes/what-is-data-gov
 youtubeid: OWrO3XmKxqQ
 tags: 
 - azure
