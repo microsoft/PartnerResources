@@ -2,7 +2,7 @@
 layout: page
 title: Modern Analytics Academy - Vignettes
 description: Workshop focused on Modern Analytics
-permalink: /skilling/data-analytics-ai/modern-analytics-academy-vignettes
+permalink: /skilling/data-analytics-ai/modern-analytics-academy-vignettes-old
 updated: 2022-06-14
 showbreadcrumb: false
 tags: 
@@ -14,16 +14,6 @@ tags:
 ---
 
 # Modern Analytics Academy - Vignettes
-
-##  Content
-* [Modern Analytics Academy Home](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy)
-* [Modern Analytics Overview](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-overview)
-* [Module 1: Data Acquisition and Storage](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-acquisition)
-* [Module 2: Data Modeling](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-modeling)
-* [Module 3: Data Pipelines](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-pipelines)
-* [Module 4: Data Governance](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-governance)
-* [Module 5: Visualization](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-visualization)
-* Ongoing Vignettes
 
 Welcome to the Modern Analytics Academy (MAA) - Vignette Sessions
 

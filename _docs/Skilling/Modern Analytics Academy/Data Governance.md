@@ -2,11 +2,12 @@
 layout: page
 title: Modern Analytics Academy - Governance
 description: Workshop focused on Modern Analytics - Data Governance
-permalink: /skilling/data-analytics-ai/modern-analytics-academy-data-governance
+permalink: /skilling/modern-analytics-academy/data-governance
 redirect_from:
   - /azure/data-analytics-ai/modern-analytics-academy-data-governance
+  - /skilling/data-analytics-ai/modern-analytics-academy-data-governance
 updated: 2021-12-16
-showbreadcrumb: false
+showbreadcrumb: true
 tags: 
 - azure
 - data, analytics, and ai
@@ -16,16 +17,6 @@ tags:
 ---
 
 # Modern Analytics Academy - Data Governance
-
-##  Content
-* [Modern Analytics Academy Home](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy)
-* [Modern Analytics Overview](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-overview)
-* [Module 1: Data Acquisition and Storage](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-acquisition)
-* [Module 2: Data Modeling](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-modeling)
-* [Module 3: Data Pipelines](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-pipelines)
-* Module 4: Data Governance
-* [Module 5: Visualization](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-visualization)
-* [Ongoing Vignettes](/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-vignettes)
 
 Welcome to the Modern Analytics Academy (MAA) - Data Governance with Azure Purview!
 
