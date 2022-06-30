@@ -2,7 +2,7 @@
 layout: page
 title: Azure Synapse Analytics
 description: Resources for Azure Synapse Analytics
-updated: 2022-06-23
+updated: 2022-06-30
 permalink: /azure/data-analytics-ai/modern-data-warehouse
 tags: 
 - azure
@@ -30,6 +30,8 @@ The latest updates on Azure Sypanse Analytics.
 
 Azure Synapse Analytics is now generally available as of December 2020. 
 
+* [June 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-june-update-2022/ba-p/3535086)
+* 
 * [May 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-may-update-2022/ba-p/3430970)
   * Data warehouse migration guide for dedicated SQL Pools
   * Apache Spark for Synapse
