@@ -31,7 +31,9 @@ The latest updates on Azure Sypanse Analytics.
 Azure Synapse Analytics is now generally available as of December 2020. 
 
 * [June 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-june-update-2022/ba-p/3535086)
-* 
+  * Azure Orbital analytics
+  * Azure Synapse Success by Design
+  * Synapse Data Explorer updates
 * [May 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-may-update-2022/ba-p/3430970)
   * Data warehouse migration guide for dedicated SQL Pools
   * Apache Spark for Synapse
