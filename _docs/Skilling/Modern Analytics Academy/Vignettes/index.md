@@ -3,6 +3,7 @@ layout: default
 title: Modern Analytics Academy Vignettes
 permalink: /skilling/modern-analytics-academy/vignettes
 redirect_from:
+  - /skilling/modern-analytics-academy/vignettes/
   - /skilling/data-analytics-ai/modern-analytics-academy-vignettes
 showbreadcrumb: true
 includemethod: all
