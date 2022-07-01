@@ -74,7 +74,7 @@ removetags:
 
 {% assign current_docs = current_docs | uniq %}
 
-# Modern Analytics Academy - Vignettes
+# {{ page.title }}
 
 In our Vignette sessions, we'll explore topics based on feedback or frequently asked questions. We'll update the content here as the series continues.
 
@@ -101,7 +101,7 @@ In our Vignette sessions, we'll explore topics based on feedback or frequently a
 
 <div class="tag-entry">
     <div>
-        <a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+        <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}" id="{{ doc.title }}">{{ doc.title }}</a> 
         {% if doc.updated %}
             <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
         {% endif %}
@@ -121,7 +121,7 @@ In our Vignette sessions, we'll explore topics based on feedback or frequently a
 
 {% endfor %}
 
-## Feedback
+# Feedback
 
 Have a content session recommendation or general feedback? Here's how to give it:
 * Use of [feedback form to let us know](https://aka.ms/maa-feedback)
