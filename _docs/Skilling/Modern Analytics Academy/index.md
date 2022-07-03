@@ -132,10 +132,3 @@ The lab environments available are listed below. The source content is available
 ## Contributions
 
 We welcome contributors to this project. Please use the GitHub links near the upper right and consider submitting pull requests or filing issues as needed.
-
-The core team of individuals:
-* Alex Karasek
-* Annie Xu
-* Brian Hitney
-* Chris Mitchell
-* Jason Virtue
