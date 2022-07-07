@@ -1,0 +1,24 @@
+---
+layout: null
+sitemap: false
+permalink: /feed/tocv2-all.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+{% assign tmp_docs = site.docs | sort: "url" %}
+<urlset>
+  {% for doc in tmp_docs %}
+  {% unless doc.tags contains "deprecated" %}
+  {% if doc.nav_exclude != true %}
+  <url>
+  <loc>{{ doc.permalink | absolute_url | xml_escape }}</loc>
+  <path>{{ doc.path | xml_escape }}</path>
+  <title>{{ doc.title | xml_escape }}</title>
+  <description>{{ doc.description | xml_escape }}</description>
+  <updated>{{ doc.updated | xml_escape }}</updated>
+  <solutionarea>{% assign tmp_sa = doc.path | split: "/" %}{{ tmp_sa[1] | xml_escape }}</solutionarea>
+  <tags>{{ doc.tags | xml_escape }}</tags>
+  </url>
+  {% endif %}
+  {% endunless %}
+  {% endfor %}
+</urlset>
