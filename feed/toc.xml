@@ -1,9 +1,7 @@
 ---
 layout: null
 sitemap: false
-permalink: /feed/toc.xml
-redirect_from:
-  - /pages/toc.xml
+permalink: /pages/toc.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 
