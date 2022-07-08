@@ -32,7 +32,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Watch Dynamics 365 Business Central Overview Demos](https://dynamics.microsoft.com/en-us/business-central/demo/) (Self-Paced) (9 Minutes)
 * [Read The Business Owner’s Guide to Replacing Accounting Software](https://info.microsoft.com/dynamics365-replacing-acct-software.html) (Self-Paced) (1 Hour)
 * [Learn Dynamics 365 Business Central Licensing](bit.ly/3jiu48Y) (published April 2022) (1 hour, 3 minutes)
-* [Resources to Migrate Customers to the Cloud](https://msuspartners.eventbuilder.com/SMBMigrationEventsRecordings?source=Insideremail0517&wt.mc_id=AID3034966_EML_8001467) NEW!(published June 2022) (7 On-Demand Videos)
+* [Resources to Migrate Customers to the Cloud](https://msuspartners.eventbuilder.com/SMBMigrationEventsRecordings?source=Insideremail0517&wt.mc_id=AID3034966_EML_8001467) **NEW** (published June 2022) (7 On-Demand Videos)
 
 ## Associate
 
