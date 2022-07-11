@@ -62,8 +62,7 @@ tags:
    * [Govern multi-cloud sources with Microsoft Purview - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-purview-blog/govern-multi-cloud-sources-with-azure-purview/ba-p/2884914)
    * [Browse and search relevant data in the Microsoft Purview Data Catalog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-purview-blog/browse-and-search-relevant-data-in-the-azure-purview-data/ba-p/3020375)
 * [Newest 'Purview' posts - Stack Overflow at Microsoft](https://stackoverflow.microsoft.com/posts/tagged/23099)
-
-
+* [Newest 'Purview' posts - Microsoft Q&A](https://docs.microsoft.com/en-us/answers/topics/azure-purview.html)
 
 
 
