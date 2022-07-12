@@ -88,7 +88,8 @@
     <div>
     {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}"><img width="160" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/0.jpg" style="float:left; padding-right:15px;"/></a>
     {% endif %}
-    {{ doc.description }}
+    {{ doc.description }} 
+    <a href="{{- site.baseurl -}}{{- doc.url -}}">more &#187;</a> 
     </div>
 </div>
 
