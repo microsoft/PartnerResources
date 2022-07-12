@@ -3,7 +3,7 @@ layout: page
 title: Azure Database for MySQL Migration
 description: 
 updated: 2022-07-12
-permalink: /skilling/azure-data-academy/azure-database-mysql-deployment
+permalink: /skilling/azure-data-academy/azure-database-mysql-migration
 youtubeid: 
 tags: 
 - azure
