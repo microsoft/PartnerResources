@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Azure Database for MySQL Migration
-description: This session, by the MySQL team at Microsoft, explores the latest features, tools, and strategies for successful migrations. Whether you are looking to migrate a mission critical application from on-premises or from another cloud, we'll look at ways to approach migration for a variety of scenarios from offline to near-zero downtime requirements.
+description: This session, by the MySQL team at Microsoft, explores the latest features, tools, and strategies for successful migrations. Whether you are looking to migrate a mission critical application from on-premises or from another cloud, we'll look at ways to approach migration for a variety of scenarios from offline to near-zero downtime requirements. See additional links for the content referenced in session.
 updated: 2022-07-12
 permalink: /skilling/azure-data-academy/azure-database-mysql-migration
-youtubeid: 
+youtubeid: ZC3W2qHDS5c
 tags: 
 - azure
 - data, analytics, and ai
@@ -20,7 +20,9 @@ tags:
 
 * [Presentation Deck]({{ site.baseurl }}/assets/ada/Azure%20DB%20for%20MySQL%20Migration.pdf)
 * [Playlist for all Azure Data Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjlOS4hbINKqLVBafb5yD5Rm)
-* Video coming soon!
+* [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
+
+[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 ## Additional Links
 
