@@ -19,7 +19,7 @@ Our current schedule:
 * May 12, 2022 - Azure Database for MySQL Overview
 * June 23, 2022 - Azure Database for MySQL High Availability and Disaster Recovery
 * June 28, 2022 - Azure Database for MySQL Deployment Options - CLI, PowerShell, and Terraform
-* [July 12, 2022 - Azure Database for MySQL Migration Strategies for Offline and Near Zero Downtime Migration](https://msuspartners.eventbuilder.com/event/60147?source=AzurePartnerTechTalks)
+* July 12, 2022 - Azure Database for MySQL Migration Strategies for Offline and Near Zero Downtime Migration
 * [July 14, 2022 1pm ET - Azure Database for MySQL Roadmap, Live Q&A](https://msuspartners.eventbuilder.com/event/60143?source=AzurePartnerTechTalks)
 
 __Note__: Our [July 14 Roadmap and Q&A Session](https://msuspartners.eventbuilder.com/event/60143?source=AzurePartnerTechTalks) will be live, and will not be recorded. An NDA is required, so please register with your Partner email address.
