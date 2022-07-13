@@ -3,7 +3,9 @@ layout: page
 title: Azure Synapse Analytics
 description: Resources for Azure Synapse Analytics
 updated: 2022-06-30
-permalink: /azure/data-analytics-ai/modern-data-warehouse
+permalink: /azure/data-analytics-ai/azure-synapse-analytics
+redirect_from:
+- /azure/data-analytics-ai/modern-data-warehouse
 tags: 
 - azure
 - data, analytics, and ai
@@ -44,23 +46,6 @@ Azure Synapse Analytics is now generally available as of December 2020.
   * Additional database templates (Automotive, Genomics, Manufacturing, Pharmaceuticals)
   * SynapseML improvements
   * Data flow connector for Dynamics
-* [December 2021 Update](https://docs.microsoft.com/en-us/azure/synapse-analytics/whats-new)
-  * Article listing updates including Apache Spark updates, ML updates, security updates, and more.
-* [November 2021 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog)
-  * Preview of Data Explorer, Lake database designed, and more.
-  * See [Ignite 2021 video on Synapse Data Explorer](https://www.youtube.com/watch?v=DZEuqhqZ8Tg&t=586s)
-* [January 27 2021 Overview, Key Features, and Resources Webcast](https://microsoftevent.eventbuilder.com/event/37611)
-  * Webcast from the Azure Synapse Team
-  * Additional Resources from this webcast:
-    * [Customer References (PPTX)](https://www.microsoft.com/azure/partners/resources/azure-synapse-analytics-customer-references)
-    * [Youtube: Azure Synapse: SQL, data warehouse, ML, and on-demand](https://www.youtube.com/watch?v=ixJlsYc3Lwc) (Microsoft Ignite 2019)
-    * [Webcast: Azure Synapse: How it Works](https://info.microsoft.com/Virtual-Event-Azure-Synapse-Analytics-How-It-Works-On-Demand-Registration.html)
-    * [Guides: On-premises data warehouse migration guides](https://partner.microsoft.com/en-us/asset/collection/on-premises-data-warehouse-migration-to-azure-synapse-analtyics#/)
-    * [Azure Synapse Analytics with Azure Free Account](https://azure.microsoft.com/en-us/free/synapse-analytics/)
-    * [Digital Event: Shape your Future with Azure Data and Analytics](https://azuredataandanalytics2020.eventcore.com)
-    * [Analytics-in-a-Day Content](https://partner.microsoft.com/en-us/asset/collection/analytics-in-a-day#/)
-    * [Synapse Knowledge Center Documentation](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-knowledge-center)
-    * [Azure Synapse Tech Community](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/bg-p/AzureSynapseAnalyticsBlog)
 
 ## Fundamentals
 
