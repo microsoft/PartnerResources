@@ -9,7 +9,7 @@ tags:
 - modern workplace
 - security
 - certicications
-- SC-2000
+- SC-200
 - SC-300
 - SC-400
 ---
