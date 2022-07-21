@@ -102,11 +102,11 @@ tags:
   
   ### Exam Resources
   
-*[Home page for the exam](https://aka.ms/SC-400)
-*[In-depth discussion of the exam concepts](https://aka.ms/YouTube/SC-400)
-*[Study guide created by Charbel Nemnom MVP](https://charbelnemnom.com/sc-400-exam-study-guide-microsoft-information-protection-administrator/)
-*[SC 400 Learning  Path for Partners](https://partner.microsoft.com/en-us/training/assets/collection/microsoft-information-protection-administrator-sc-400#/)
-*[Microsoft Certification Live Training for Partners](https://partner.microsoft.com/en-us/marketing/cloud-weeks)
+* [Home page for the exam](https://aka.ms/SC-400)
+* [In-depth discussion of the exam concepts](https://aka.ms/YouTube/SC-400)
+* [Study guide created by Charbel Nemnom MVP](https://charbelnemnom.com/sc-400-exam-study-guide-microsoft-information-protection-administrator/)
+* [SC 400 Learning  Path for Partners](https://partner.microsoft.com/en-us/training/assets/collection/microsoft-information-protection-administrator-sc-400#/)
+* [Microsoft Certification Live Training for Partners](https://partner.microsoft.com/en-us/marketing/cloud-weeks)
 
 
   
