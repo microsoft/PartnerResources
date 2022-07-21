@@ -8,7 +8,7 @@ tags:
 - learning plan
 - modern workplace
 - security
-- certicications
+- Certifications
 - SC-200
 - SC-300
 - SC-400
