@@ -9,12 +9,148 @@ tags:
 - modern workplace
 - security
 - certicications
+- SC-2000
+- SC-300
 - SC-400
 ---
 
 # Security Certifications
 
 Below you will find information about some of the security certifications that are critical for you. Please use the navigation pane on the right to quickly jump between sections or specific certification that you are interested in.
+
+## Microsoft Security Operations Analyst (SC-200)
+
+### Exam Overview
+
+* Mitigate threats using Microsoft 365 Defender (25-30%)
+* Mitigate threats using Azure Defender (25-30%)
+* Mitigate threats using Azure Sentinel (40-45%)
+
+### Module 1 (Part 1)
+
+* Detect, investigate, respond, and remediate endpoint threats by using Microsoft Defender for Endpoint 
+	* Manage data retention, alert notification, and advanced features 
+	* Configure device attack surface reduction rules 
+	* Configure and manage custom detections and alerts
+	* Respond to incidents and alerts 
+	* Manage automated investigations and remediations 
+
+* Assess and recommend endpoint configurations to reduce and remediate vulnerabilities by using Microsoft’s Threat and Vulnerability Management solution. 
+	* Manage Microsoft Defender for Endpoint threat indicators 
+	* Analyze Microsoft Defender for Endpoint threat analytics 
+
+* Manage cross-domain investigations in Microsoft 365 Defender portal 
+	* Manage incidents across Microsoft 365 Defender products 
+	* Manage actions pending approval across products 
+	* Perform advanced threat hunting
+
+### Module 1 (Part 2)
+
+* Detect, investigate, respond, and remediate threats to the productivity environment by using Microsoft Defender for Office 365 
+	* Detect, investigate, respond, remediate Microsoft Teams, sharepoint, and onedrive for Business threats 
+	* Detect, investigate, respond, remediate threats to email by using Defender for Office 365 
+	* Manage data loss prevention policy alerts 
+	* Assess and recommend sensitivity labels 
+	* Assess and recommend insider risk policies 
+
+* Detect, investigate, respond, and remediate identity threats 
+	* Identify and remediate security risks related to sign-in risk policies 
+	* Identify and remediate security risks related to Conditional Access events 
+	* Identify and remediate security risks related to Azure Active Directory 
+	* Identify and remediate security risks using Secure Score 
+	* Identify, investigate, and remediate security risks related to privileged identities 
+	* Configure detection alerts in Azure AD Identity Protection 
+	* Identify and remediate security risks related to Active Directory Domain Services using Microsoft Defender for Identity 
+
+* Detect, investigate, respond, and remediate application threats 
+	* Identify, investigate, and remediate security risks by using Microsoft Cloud Application Security (MCAS) 
+	* Configure MCAS to generate alerts and reports to detect threats
+
+### Module 2
+
+* Design and configure an Azure Defender implementation 
+	* Plan and configure Azure Defender settings, including selecting target subscriptions and workspace 
+	* Configure Azure Defender roles 
+	* Configure data retention policies 
+	* Assess and recommend cloud workload protection 
+
+* Plan and implement the use of data connectors for ingestion of data sources in Azure Defender 
+	* Identify data sources to be ingested for Azure Defender 
+	* Configure Automated Onboarding for Azure resources 
+	* Connect on-premises computers 
+	* Connect AWS cloud resources 
+	* Connect GCP cloud resources 
+	* Configure data collection 
+
+* Manage Azure Defender alert rules 
+	* Validate alert configuration 
+	* Setup email notifications 
+	* Create and manage alert suppression rules
+
+### Module 3 (Part 1)
+
+* Design and configure an Azure Sentinel workspace 
+	* Plan an Azure Sentinel workspace 
+	* Configure Azure Sentinel roles 
+	* Design Azure Sentinel data storage 
+	* Configure Azure Sentinel service security 
+
+* Plan and Implement the use of Data Connectors for Ingestion of Data Sources in Azure Sentinel 
+	* Identify data sources to be ingested for Azure Sentinel 
+	* Identify the prerequisites for a data connector 
+	* Configure and use Azure Sentinel data connectors 
+	* Configure data connectors by using Azure Policy 
+	* Design and configure Syslog and CEF event collections 
+	* Design and Configure Windows Events collections 
+	* Configure custom threat intelligence connectors 
+	* Create custom logs in Azure Log Analytics to store custom data 
+
+* Manage Azure Sentinel analytics rules 
+	* Design and configure analytics rules 
+	* Create custom analytics rules to detect threats 
+	* Activate Microsoft security analytical rules 
+	* Configure connector provided scheduled queries 
+	* Configure custom scheduled queries 
+	* Define incident creation logic 
+
+* Manage Azure Sentinel Incidents 
+	* Investigate incidents in Azure Sentinel 
+	* Triage incidents in Azure Sentinel 
+	* Respond to incidents in Azure Sentinel 
+	* Investigate multi-workspace incidents 
+	* Identify advanced threats with User and Entity Behavior Analytics (UEBA) 
+
+### Module 3 (Part 2)
+
+* Configure Security Orchestration Automation and Response (SOAR) in Azure Sentinel 
+	* Create Azure Sentinel playbooks 
+	* Configure rules and incidents to trigger playbooks 
+	* Use playbooks to remediate threats 
+	* Use playbooks to manage incidents 
+	* Use playbooks across Microsoft Defender solutions 
+
+* Use Azure Sentinel workbooks to analyze and interpret data 
+	* Activate and customize Azure Sentinel workbook templates 
+	* Create custom workbooks 
+	* Configure advanced visualizations 
+	* View and analyze Azure Sentinel data using workbooks 
+	* Track incident metrics using the security operations efficiency workbook 
+
+* Hunt for threats using the Azure Sentinel portal 
+	* Create custom hunting queries 
+	* Run hunting queries manually 
+	* Monitor hunting queries by using Livestream 
+	* Perform advanced hunting with notebooks 
+	* Track query results with bookmarks 
+	* Use hunting bookmarks for data investigations 
+	* Convert a hunting query to an analytic rule
+
+### Exam Resources
+
+* [Home page for the Exam](https://aka.ms/SC-200)
+* [SC-200 offcial learning path](https://docs.microsoft.com/en-us/certifications/exams/sc-200)
+* [In depth discussion of the exam concepts](https://aka.ms/YouTube/SC-200)
+* [Study guide created by Charbel Nemnom, MVP](https://aka.ms/SC-200StudyGuide)
 
 ## Microsoft Identity and Access Administrator (SC-300)
 
@@ -140,6 +276,7 @@ Below you will find information about some of the security certifications that a
 ### Exam Resources
 
 * [Home page for the exam](https://aka.ms/SC-300)
+* [SC-300 official learning plan](https://docs.microsoft.com/en-us/learn/paths/implement-identity-management-solution/)
 * [In-depth discussion of the concepts](https://aka.ms/YouTube/SC-300)
 * [Study guide from Charbel Nemnom, MVP](https://aka.ms/SC-300StudyGuide)
 * [Exam Readiness tips and tricks](https://docs.microsoft.com/en-us/shows/exam-readiness-zone/?terms=sc-300)
@@ -234,20 +371,8 @@ Below you will find information about some of the security certifications that a
   ### Exam Resources
   
 * [Home page for the exam](https://aka.ms/SC-400)
+* [SC-400 official learning plan](https://docs.microsoft.com/en-us/learn/paths/implement-data-loss-prevention/)
 * [In-depth discussion of the exam concepts](https://aka.ms/YouTube/SC-400)
 * [Study guide created by Charbel Nemnom MVP](https://charbelnemnom.com/sc-400-exam-study-guide-microsoft-information-protection-administrator/)
 * [SC 400 Learning  Path for Partners](https://partner.microsoft.com/en-us/training/assets/collection/microsoft-information-protection-administrator-sc-400#/)
 * [Microsoft Certification Live Training for Partners](https://partner.microsoft.com/en-us/marketing/cloud-weeks)
-
-
-  
-
-
-
-
-
-
-
-
-## Exam 2
-### Module 1
