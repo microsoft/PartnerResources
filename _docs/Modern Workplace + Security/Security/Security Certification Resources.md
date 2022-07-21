@@ -368,7 +368,7 @@ Below you will find information about some of the security certifications that a
     *	Configure event-based retention 
     *	Manage disposition of record
   
-  ### Exam Resources
+### Exam Resources
   
 * [Home page for the exam](https://aka.ms/SC-400)
 * [SC-400 official learning plan](https://docs.microsoft.com/en-us/learn/paths/implement-data-loss-prevention/)
