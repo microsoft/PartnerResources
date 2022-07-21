@@ -9,11 +9,142 @@ tags:
 - modern workplace
 - security
 - certicications
+- SC-400
 ---
 
 # Security Certifications
 
-## ![image](https://user-images.githubusercontent.com/77458814/180242574-e0db54d0-4971-4761-8e2f-bcd58c1565b2.png)
+Below you will find information about some of the security certifications that are critical for you. Please use the navigation pane on the right to quickly jump between sections or specific certification that you are interested in.
+
+## Microsoft Identity and Access Administrator (SC-300)
+
+### Exam Overview
+
+* Implement an identity management solution (25-30%)
+* Implement an authentication and access management solution (25-30%)
+* Implement access management for apps (10-15%)
+* Plan and implement an identity governance strategy (25-30%)
+
+### Module 1
+
+* Implement initial configuration of Azure Active Directory 
+	* Configure and manage Azure AD directory roles 
+	* Configure and manage custom domains 
+	* Configure and manage device registration options 
+	* Configure delegation by using administrative units 
+	* Configure tenant-wide settings 
+
+* Create, configure and manage identities 
+	* Create, configure and manage users 
+	* Create, configure and manage groups 
+	* Manage licenses Implement and manage external identities 
+	* Manage external collaboration settings in Azure Active Directory 
+	* Invite external users (individually or in bulk) 
+	* Manage external user accounts in Azure Active Directory 
+	* Configure identity providers (social and SAML/WS-fed) 
+
+* Implement and manage hybrid identity 
+	* Implement and manage Azure Active Directory Connect (AADC) 
+	* Implement and manage Azure AD Connect cloud sync 
+	* Implement and manage Password Hash Synchronization (PHS) 
+	* Implement and manage Pass-Through Authentication (PTA) 
+	* Implement and manage seamless Single Sign-On (SSO) 
+	* Implement and manage Federation (excluding manual ADFS deployments) 
+	* Implement and manage Azure Active Directory Connect Health 
+	* Troubleshoot synchronization errors
+
+### Module 2
+
+* Plan and implement Azure Multifactor Authentication (MFA) 
+	* Plan Azure MFA deployment (excluding MFA Server) 
+	* Implement and manage Azure MFA settings 
+	* Manage MFA settings for users 
+
+* Manage user authentication 
+	* Administer authentication methods (FIDO2 / Passwordless) 
+	* Implement an authentication solution based on Windows Hello for Business 
+	* Configure and deploy self-service password reset 
+	* Deploy and manage password protection 
+	* Implement and manage tenant restrictions 
+
+* Plan, implement and administer conditional access 
+	* Plan and implement security defaults 
+	* Plan conditional access policies 
+	* Implement conditional access policy controls and assignments (targeting, applications, and conditions) 
+	* Testing and troubleshooting conditional access policies 
+	* Implement application controls 
+	* Implement session management 
+	* Configure smart lockout thresholds 
+
+* Manage Azure AD Identity Protection 
+	* Implement and manage a user risk policy 
+	* Implement and manage sign-in risk policies 
+	* Implement and manage MFA registration policy 
+	* Monitor, investigate and remediate elevated risky users
+
+### Module 3
+
+* Plan, implement, and monitor the integration of Enterprise Apps for SSO 
+	* Implement and configure consent settings 
+	* Discover apps by using MCAS or ADFS app report 
+	* Design and implement access management for apps 
+	* Design and implement app management roles 
+	* Monitor and audit access / Sign-Ons to Azure Active Directory integrated enterprise applications 
+	* Integrate on-premises apps by using Azure AD application proxy 
+	* Integrate custom saas apps for SSO 
+	* Configure pre-integrated (gallery) saas apps 
+	* Implement application user provisioning 
+
+* Implement app registrations 
+	* Plan your line of business application registration strategy 
+	* Implement application registrations 
+	* Configure application permissions 
+	* Implement application authorization 
+	* Plan and configure multi-tier application permissions
+
+### Module 4
+
+* Plan and implement entitlement management 
+	* Define catalogs 
+	* Define access packages 
+	* Plan, implement and manage entitlements 
+	* Implement and manage terms of use 
+	* Manage the lifecycle of external users in Azure AD Identity Governance settings 
+
+* Plan, implement and manage access reviews 
+	* Plan for access reviews 
+	* Create access reviews for groups and apps 
+	* Monitor access review findings 
+	* Manage licenses for access reviews 
+	* Automate access review management tasks 
+	* Configure recurring access reviews 
+
+* Plan and implement privileged access 
+	* Define a privileged access strategy for administrative users (resources, roles, approvals, thresholds) 
+	* Configure Privileged Identity Management for Azure AD roles 
+	* Configure Privileged Identity Management for Azure resources 
+	* Assign roles ·
+	* Manage PIM requests 
+	* Analyze PIM audit history and reports 
+	* Create and manage break-glass accounts 
+
+* Monitor and maintain Azure Active Directory 
+	* Analyze and investigate sign-in logs to troubleshoot access issues 
+	* Review and monitor Azure AD audit logs 
+	* Enable and integrate Azure AD diagnostic logs with Log Analytics / Azure Sentinel 
+	* Export sign-in and audit logs to a third-party SIEM 
+	* Review Azure AD activity by using Log Analytics / Azure Sentinel, excluding KQL use 
+	* Analyze Azure Active Directory workbooks / reporting 
+	* Configure notifications
+
+### Exam Resources
+
+* [Home page for the exam](https://aka.ms/SC-300)
+* [In-depth discussion of the concepts](https://aka.ms/YouTube/SC-300)
+* [Study guide from Charbel Nemnom, MVP](https://aka.ms/SC-300StudyGuide)
+* [Exam Readiness tips and tricks](https://docs.microsoft.com/en-us/shows/exam-readiness-zone/?terms=sc-300)
+
+## Microsoft Information Protection Administrator (SC-400) 
 
 ### Exam Overview
 
