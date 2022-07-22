@@ -42,7 +42,7 @@ tags:
 * [Configure IoT Edge certificates](https://docs.microsoft.com/azure/iot-edge/how-to-manage-device-certificates?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Implement and configure offline support (including local storage)](https://docs.microsoft.com/azure/iot-edge/offline-capabilities?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Create a layered hierarchy of IoT Edge devices](https://docs.microsoft.com/azure/iot-edge/tutorial-nested-iot-edge?wt.mc_id=eventspg_16482_webpage_reactor)
-* [Interact with the IoT Edge security manager](https://docs.microsoft.com/azure/iot-edge/security?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Interact with the IoT Edge security manager](https://docs.microsoft.com/azure/iot-edge/iot-edge-security-manager?wt.mc_id=eventspg_16482_webpage_reactor)
 
 *NOTE: In most cases, exams do NOT cover preview features, and some features will only be added to an exam when they are GA (General Availability).*
 
@@ -83,6 +83,7 @@ Learn about programming for the IoT Edge runtime environment, the tools and proc
 * [Azure IoT Blogs](https://azure.microsoft.com/blog/topics/internet-of-things/?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Azure IoT Edge for Linux on Windows](https://docs.microsoft.com/azure/iot-edge/iot-edge-for-linux-on-windows)
 * [Azure IoT Hub Pricing](https://azure.microsoft.com/pricing/details/iot-hub/?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Azure IoT Edge Security](https://docs.microsoft.com/azure/iot-edge/security?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Azure IoT Reference Architecture](https://docs.microsoft.com/azure/architecture/reference-architectures/iot?wt.mc_id=eventspg_16482_webpage_reactor)
 * [End-to-end solution using Azure Machine Learning and IoT Edge](https://docs.microsoft.com/azure/iot-edge/tutorial-machine-learning-edge-01-intro?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Microsoft Tech Community - IoT](https://techcommunity.microsoft.com/t5/internet-of-things-iot/ct-p/IoT?wt.mc_id=eventspg_16482_webpage_reactor) - Blogs and conversation spaces
