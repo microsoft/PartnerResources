@@ -3,7 +3,7 @@ layout: page
 title: Modern Analytics Power BI
 description: Resources for Modern Analytics with Power BI
 updated: 2021-12-01
-permalink: /business-applications/power-platform/modern-analytics-power-bi
+permalink: /business-applications/power-platform/power-bi
 tags:
 - learning plan
 - business applications
@@ -13,7 +13,7 @@ tags:
 - data, analytics, and ai
 ---
 
-# Learning Plan Resources for Modern Analytics/Power BI
+# Learning Plan Resources for Power BI
 
 With Power BI connect to and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight.
 
