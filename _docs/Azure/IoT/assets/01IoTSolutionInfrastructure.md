@@ -50,8 +50,6 @@ Learn about the IoT Hub service properties and limitations, the IoT device lifec
 * [Azure IoT Blogs](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Azure IoT Hub Pricing](https://azure.microsoft.com/en-us/pricing/details/iot-hub/?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Azure IoT Reference Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot?wt.mc_id=eventspg_16482_webpage_reactor)
-* [Choose a Communication Protocol](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-protocols?wt.mc_id=eventspg_16482_webpage_reactor)
-* [Chosing the right IoT Hub Tier](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-scaling?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Comparing IoT Hub and Event Hubs](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-compare-event-hubs?wt.mc_id=eventspg_16482_webpage_reactor)
 * [IoT Hub query language for device and module twins, jobs, and message routing](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-query-language?wt.mc_id=eventspg_16482_webpage_reactor)
 * [IoT Hub Endpoints](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-endpoints?wt.mc_id=eventspg_16482_webpage_reactor)
