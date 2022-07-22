@@ -26,8 +26,8 @@ The Microsoft Global Partner Solutions (GPS) Technical Team, IoT Product Group, 
 * [Deprovision an auto-enrollment](https://docs.microsoft.com/en-us/azure/iot-dps/how-to-unprovision-devices?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Decommission (disenroll) a device](https://docs.microsoft.com/en-us/azure/iot-dps/how-to-revoke-device-access-portal?wt.mc_id=eventspg_16482_webpage_reactor)
 
-### [Manage IoT devices by using IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-csharp-csharp-device-management-get-started?wt.mc_id=eventspg_16482_webpage_reactor)
-* [Manage devices list in the IoT Hub device registry](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-device-management-overview?wt.mc_id=eventspg_16482_webpage_reactor)
+### [Manage IoT devices by using IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-device-management-overview?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Manage devices list in the IoT Hub device registry](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-identity-registry?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Modify device twin tags and properties](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-device-twins?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Specify a set of devices to manage by using IoT Hub Automatic Device Management](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-automatic-device-management?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Implement and manage configuration on a set of devices by using IoT Hub Automatic Device Management](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-automatic-device-management?wt.mc_id=eventspg_16482_webpage_reactor)
@@ -113,7 +113,6 @@ Learn about the Azure IoT Central application platform and the support that it p
 * [Microsoft Tech Community - IoT](https://techcommunity.microsoft.com/t5/internet-of-things-iot/ct-p/IoT?wt.mc_id=eventspg_16482_webpage_reactor) - Blogs and conversation spaces
 * [Schedule jobs on multiple devices](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-jobs?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Transform data externally for IoT Central](https://docs.microsoft.com/en-us/azure/iot-central/core/howto-transform-data?wt.mc_id=eventspg_16482_webpage_reactor)
-* [Understand the Identity Registry in your IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-identity-registry?wt.mc_id=eventspg_16482_webpage_reactor)
 * [YouTube - Microsoft IoT Developers](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ?wt.mc_id=eventspg_16482_webpage_reactor)
 
 Happy studies!
