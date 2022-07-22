@@ -14,7 +14,7 @@ tags:
 
 The Microsoft Global Partner Solutions (GPS) Technical Team, IoT Product Group, IoT Advocates, and Microsoft Worldwide Learning have collaborated to create this guide to help you prepare for the Microsoft Azure IoT Developer exam!
 
-## Skills Measured: Setup the Azure IoT Hub Solution Infrastructure
+## Skills Measured: Setup the Azure IoT Solution Infrastructure
 
 ### [Create and configure an IoT hub](https://docs.microsoft.com/en-us/azure/iot-hub/?wt.mc_id=eventspg_16482_webpage_reactor) 
 * [Create an IoT hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-create-through-portal#create-an-iot-hub?wt.mc_id=eventspg_16482_webpage_reactor)
