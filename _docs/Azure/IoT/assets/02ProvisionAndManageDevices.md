@@ -22,7 +22,7 @@ The Microsoft Global Partner Solutions (GPS) Technical Team, IoT Product Group, 
 * [Link an IoT hub to the device provisioning service](https://docs.microsoft.com/en-us/azure/iot-dps/quick-setup-auto-provision#link-the-iot-hub-and-your-device-provisioning-service?wt.mc_id=eventspg_16482_webpage_reactor)
 
 ### [Manage the device lifecycle](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-device-management-overview?wt.mc_id=eventspg_16482_webpage_reactor) 
-* [Provision a device by using the device provisioning service](https://docs.microsoft.com/en-us/azure/iot-dps/quick-create-device-symmetric-key-csharp?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Provision a device by using the device provisioning service](https://docs.microsoft.com/en-us/azure/iot-dps/how-to-manage-enrollments?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Deprovision an auto-enrollment](https://docs.microsoft.com/en-us/azure/iot-dps/how-to-unprovision-devices?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Decommission (disenroll) a device](https://docs.microsoft.com/en-us/azure/iot-dps/how-to-revoke-device-access-portal?wt.mc_id=eventspg_16482_webpage_reactor)
 
@@ -98,6 +98,7 @@ Learn about the Azure IoT Central application platform and the support that it p
 * [Azure IoT Blogs](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Azure IoT Hub Pricing](https://azure.microsoft.com/en-us/pricing/details/iot-hub/?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Azure IoT Reference Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Best practices for device configuration within an IoT solution](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-configuration-best-practices)
 * [Export IoT data to Azure Data Explorer](https://docs.microsoft.com/en-us/azure/iot-central/core/howto-export-to-azure-data-explorer?wt.mc_id=eventspg_16482_webpage_reactor)
 * [How to deprovision devices that were previously auto-provisioned](https://docs.microsoft.com/en-us/azure/iot-dps/how-to-unprovision-devices?wt.mc_id=eventspg_16482_webpage_reactor)
 * [How to disenroll a device from Azure IoT Hub Device Provisioning Service](https://docs.microsoft.com/en-us/azure/iot-dps/how-to-revoke-device-access-portal)
