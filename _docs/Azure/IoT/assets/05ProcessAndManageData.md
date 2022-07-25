@@ -23,7 +23,7 @@ tags:
 * [Configure IoT Hub as an Azure Event Grid source](https://docs.microsoft.com/azure/iot-hub/iot-hub-event-grid?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Reconfigure the default Azure Event Hubs endpoint when there are multiple endpoints](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-endpoints?wt.mc_id=eventspg_16482_webpage_reactor)
 
-### [Configure stream processing of IoT data ](https://docs.microsoft.com/azure/time-series-insights/time-series-insights-overview?wt.mc_id=eventspg_16482_webpage_reactor)
+### [Configure stream processing of IoT data ](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-get-started-with-azure-stream-analytics-to-process-data-from-iot-devices?wt.mc_id=eventspg_16482_webpage_reactor)
 
 * [Create Azure Stream Analytics for data, and stream processing by using the Azure portal](https://docs.microsoft.com/azure/stream-analytics/?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Process and filter IoT data by using Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-bindings-event-iot-output?wt.mc_id=eventspg_16482_webpage_reactor)
@@ -36,7 +36,7 @@ tags:
 * [Write a Stream Analytics query that runs in IoT Edge](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-edge?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Write a Stream Analytics query that runs in the cloud](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-stream-analytics-query-patterns?wt.mc_id=eventspg_16482_webpage_reactor)
 
-### [Process real-time data by using Azure Time Series Insights](https://docs.microsoft.com/azure/time-series-insights/time-series-insights-overview?wt.mc_id=eventspg_16482_webpage_reactor)
+### [Process real-time data by using Azure Time Series Insights](https://docs.microsoft.com/azure/time-series-insights/?wt.mc_id=eventspg_16482_webpage_reactor)
 
 * [Create a Time Series Insights environment](https://docs.microsoft.com/azure/time-series-insights/tutorials-set-up-tsi-environment#create-an-azure-time-series-insights-gen2-environment?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Connect the IoT hub and the Time Series Insights environment](https://docs.microsoft.com/azure/time-series-insights/time-series-insights-send-events#create-an-azure-time-series-insights-event-source?wt.mc_id=eventspg_16482_webpage_reactor)
