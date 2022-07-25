@@ -11,59 +11,46 @@ tags:
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)
 * [Microsoft Certified: Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
-* [Microsoft Tech Community "Learn IoT" Conversation Space](https://aka.ms/iottechcommunity/learniot) - Where you can discuss IoT learning resources and homework questions 
 
-## Skills Measured:
-### Configure routing in Azure IoT Hub
-* Implement message enrichment in IoT Hub
-* Configure routing of IoT Device messages to endpoints
-* Define and test routing queries
-* Integrate with Event Grid
+## Skills Measured: Process and Manage Data
 
-### Configure stream processing
-* Create Azure Stream Analytics (ASA) for data and stream processing of IoT data
-* Process and filter IoT data by using Azure Functions
-* Configure Stream Analytics outputs
+### [Configure message routing in Azure IoT Hub](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-messages-d2c?wt.mc_id=eventspg_16482_webpage_reactor)
 
-### Configure an IoT solution for Time Series Insights (TSI)
-* Implement solutions to handle telemetry and time-stamped data
-* Create an Azure Time Series Insights (TSI) environment
-* Connect the IoT Hub and the Time Series Insights (TSI)
+* [Implement message enrichment in IoT Hub](https://docs.microsoft.com/azure/iot-hub/iot-hub-message-enrichments-overview?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Implement routing of IoT device telemetry to endpoints](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-messages-d2c?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Implement routing of IoT Hub non-telemetry events to endpoints](https://docs.microsoft.com/azure/iot-hub/iot-hub-non-telemetry-event-schema?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Define and test routing queries](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-messages-d2c#testing-routes?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Configure IoT Hub as an Azure Event Grid source](https://docs.microsoft.com/azure/iot-hub/iot-hub-event-grid?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Reconfigure the default Azure Event Hubs endpoint when there are multiple endpoints](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-endpoints?wt.mc_id=eventspg_16482_webpage_reactor)
 
-## Homework:
-### [AZ-220 IoT Labs](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer) 
-* Module 4: Message Processing and Analytics
-  * [Lab 07: Device Message Routing](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/Instructions/Labs/LAB_AK_07-analyze-message-data-in-real-time.html)
-  <br />Exercise 1: Verify Lab Prerequisites
-  <br />Exercise 2: Write Code for Vibration Telemetry
-  <br />Exercise 3: Create a Message Route to Azure Blob Storage
-  <br />Exercise 4: Logging Route Azure Stream Analytics Job
+### [Configure stream processing of IoT data ](https://docs.microsoft.com/azure/time-series-insights/time-series-insights-overview?wt.mc_id=eventspg_16482_webpage_reactor)
 
-* Module 5: Insights and Business Integration
-  * [Lab 08: Visualize a Data Stream in Power BI](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/Instructions/Labs/LAB_AK_08-visualize-data-stream-in-power-bi.html)
-  <br />Make a Call to a Built-in Machine Learning Model
-  <br />Visualize data using Power BI
-  <br />Exercise 1: Sign Up For Power BI
-  <br />Exercise 2: Verify Lab Prerequisites
-  <br />Exercise 3: Create an Azure Event Hubs service
-  <br />Exercise 4: Create Real-Time Message Route
-  <br />Exercise 5: Add Telemetry Route
-  <br />Exercise 6: Create a Power BI Dashboard
+* [Create Azure Stream Analytics for data, and stream processing by using the Azure portal](https://docs.microsoft.com/azure/stream-analytics/?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Process and filter IoT data by using Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-bindings-event-iot-output?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Write user-defined functions and aggregations in Stream Analytics](https://docs.microsoft.com/azure/stream-analytics/functions-overview?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Consume Azure Machine Learning functions in Stream Analytics](https://docs.microsoft.com/azure/stream-analytics/machine-learning-udf?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Configure Stream Analytics outputs](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-define-outputs?wt.mc_id=eventspg_16482_webpage_reactor)
 
-  * [Lab 09: Integrate IoT Hub with Event Grid](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/Instructions/Labs/LAB_AK_09-iot-hub-integration-with-azure-event-grid.html)
-  <br />Exercise 1: Verify Lab Prerequisites
-  <br />Exercise 2: Create HTTP Web Hook Logic App that sends an email
-  <br />Exercise 3: Configure Azure IoT Hub Event Subscription
-  <br />Exercise 4: Test Your Logic App with New Devices
+### [Create Azure Stream Analytics queries](https://docs.microsoft.com/stream-analytics-query/stream-analytics-query-language-reference?wt.mc_id=eventspg_16482_webpage_reactor)
 
-  * [Lab 10: Explore and analyze time stamped data with Time Series Insights](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/Instructions/Labs/LAB_AK_10-analyze-time-stamped-data-with-time-series-insights.html)
-  <br />Exercise 1: Verify Lab Prerequisites
-  <br />Exercise 2: Setup Time Series Insights
-  <br />Exercise 3: Run Simulated IoT Devices
-  <br />Exercise 4: View Time Series Insights Explorer
+* [Write a Stream Analytics query that runs in IoT Edge](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-edge?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Write a Stream Analytics query that runs in the cloud](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-stream-analytics-query-patterns?wt.mc_id=eventspg_16482_webpage_reactor)
 
-### [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop) - 6-part webinar series on building solutions with Azure IoT
-* Part 4: [Understanding IoT Messaging processing, analytics, and business integration](https://www.youtube.com/watch?v=78FR6BFPSK0&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=4) - Learn more about IoT data types, storage options, analytics, stream processing, and business integration. After this session, follow the Hands on Labs found here: https://aka.ms/Training/LearnAzureIoT 
+### [Process real-time data by using Azure Time Series Insights](https://docs.microsoft.com/azure/time-series-insights/time-series-insights-overview?wt.mc_id=eventspg_16482_webpage_reactor)
+
+* [Create a Time Series Insights environment](https://docs.microsoft.com/azure/time-series-insights/tutorials-set-up-tsi-environment#create-an-azure-time-series-insights-gen2-environment?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Connect the IoT hub and the Time Series Insights environment](https://docs.microsoft.com/azure/time-series-insights/time-series-insights-send-events#create-an-azure-time-series-insights-event-source?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Create a reference data set for a Time Series Insights environment by using the Azure portal](https://docs.microsoft.com/azure/time-series-insights/time-series-insights-add-reference-data-set?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Implement Time Series Model hierarchies, types, and instance fields](https://docs.microsoft.com/azure/time-series-insights/concepts-model-overview#time-series-model-hierarchies?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Consume data by using Time Series Expression syntax](https://docs.microsoft.com/rest/api/time-series-insights/reference-time-series-expression-syntax?wt.mc_id=eventspg_16482_webpage_reactor)
+
+*NOTE: In most cases, exams do NOT cover preview features, and some features will only be added to an exam when they are GA (General Availability).*
+
+## Microsoft Learn - Related Learning Paths
+
+### [Implement device message processing and data analytics](https://docs.microsoft.com/learn/paths/implement-device-message-processing-data-analytics?wt.mc_id=eventspg_16482_webpage_reactor) (5 Modules)
+
+Learn about the message processing and data analytics capabilities that must be implemented within your Azure IoT solution, and the storage options that are often configured as part of your solution.
 
 ## Quick Reference: Key Concepts and Terminology
 * Event Concepts:
@@ -133,25 +120,18 @@ tags:
   * Trending of data over time
   * Anomaly detection over time with basic machine learning
 
-## Resources
-* [IoT Technical Community](https://techcommunity.microsoft.com/t5/internet-of-things-iot/ct-p/IoT)
-* [Microsoft Learn IoT Learning Paths](http://aka.ms/mslearniot)
-* [Azure IoT Reference Architecture Guide](https://docs.Microsoft.com/azure/architecture/reference-architectures/iot)
-* [Message Enrichments for D2C IoT Hub messages](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-message-enrichments-overview)
-* [Tutorial: Message Enrichments](https://docs.microsoft.com/en-us/azure/iot-hub/tutorial-message-enrichments)
-* [IoT Hub Metrics](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-metrics)
-* [Azure Stream Analytics (ASA) Documentation](https://docs.microsoft.com/en-us/azure/stream-analytics/)
-* [Stream Analytics Query Patterns](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-stream-analytics-query-patterns)
-* [Stream Analytics Window Functions](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions)
-* [Stream Analytics Query Language Reference](https://docs.microsoft.com/en-us/stream-analytics-query/stream-analytics-query-language-reference?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fstream-analytics%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fbread%2Ftoc.json)
-* [Stream Analytics Outputs](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-define-outputs)
-* [Stream Analytics Solution Patterns](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-solution-patterns)
-* [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
-* [Run Azure Functions from Azure Stream Analytics jobs](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions)
-* [Time Series Insights (TSI) Product Page](https://azure.microsoft.com/en-us/services/time-series-insights)
-* [Time Series Insights Documentation](https://docs.microsoft.com/en-us/azure/time-series-insights/time-series-insights-update-overview)
-* [Tutorial: Time Series Insights](https://docs.microsoft.com/en-us/azure/time-series-insights/tutorial-create-populate-tsi-environment)
-* [Create IoT Hub and Device to Cloud Consumer Group](https://github.com/Azure/azure-quickstart-templates/tree/master/101-iothub-with-consumergroup-create)
+## Other Helpful Resources
 
-NOTE: In most cases, exams do NOT cover preview features, and some features will only be
-added to an exam when they are GA (General Availability).
+* [Azure IoT Blogs](https://azure.microsoft.com/blog/topics/internet-of-things/?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Azure IoT Central Data Integration Guide](https://docs.microsoft.com/azure/iot-central/core/overview-iot-central-solution-builder?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Azure IoT Reference Architecture](https://docs.microsoft.com/azure/architecture/reference-architectures/iot?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Export IoT Central Data to Azure Blob Storage](https://docs.microsoft.com/azure/iot-central/core/howto-export-to-blob-storage?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Export IoT Central Data to Azure Data Explorer](https://docs.microsoft.com/azure/iot-central/core/howto-export-to-azure-data-explorer?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Export IoT Central Data to Azure Event Hubs](https://docs.microsoft.com/azure/iot-central/core/howto-export-to-event-hubs?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Export IoT Central Data to Azure Service Bus](https://docs.microsoft.com/azure/iot-central/core/howto-export-to-service-bus?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Microsoft Tech Community - IoT](https://techcommunity.microsoft.com/t5/internet-of-things-iot/ct-p/IoT?wt.mc_id=eventspg_16482_webpage_reactor) - Blogs and conversation spaces
+* [Transform Data Externally for IoT Central](https://docs.microsoft.com/azure/iot-central/core/howto-transform-data?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Transform Data Internally for IoT Central](https://docs.microsoft.com/azure/iot-central/core/howto-transform-data-internally?wt.mc_id=eventspg_16482_webpage_reactor)
+* [YouTube - Microsoft IoT Developers](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ?wt.mc_id=eventspg_16482_webpage_reactor)
+
+Happy studies!
