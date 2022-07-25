@@ -69,7 +69,6 @@ Learn about the features and capabilities of Azure Digital Twins service, how to
 * [Azure Digital Twins Data Ingress and Egress](https://docs.microsoft.com/azure/digital-twins/concepts-data-ingress-egress?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Azure Event Grid](https://docs.microsoft.com/azure/event-grid/overview?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Azure IoT Blogs](https://azure.microsoft.com/blog/topics/internet-of-things?wt.mc_id=eventspg_16482_webpage_reactor)
-* [Azure IoT Hub Pricing](https://azure.microsoft.com/pricing/details/iot-hub/?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Azure IoT Reference Architecture](https://docs.microsoft.com/azure/architecture/reference-architectures/iot?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Comapre IoT Hub and Event Hubs](https://docs.microsoft.com/azure/iot-hub/iot-hub-compare-event-hubs?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Compare Message Routing and Event Grid for IoT Hub](https://docs.microsoft.com/azure/iot-hub/iot-hub-event-grid-routing-comparison?wt.mc_id=eventspg_16482_webpage_reactor)
