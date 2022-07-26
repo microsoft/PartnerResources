@@ -37,7 +37,7 @@ tags:
 * [Write a Stream Analytics query that runs in the cloud](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-stream-analytics-query-patterns?wt.mc_id=eventspg_16482_webpage_reactor)
 
 ### [Process real-time data by using Azure Time Series Insights](https://docs.microsoft.com/azure/time-series-insights/?wt.mc_id=eventspg_16482_webpage_reactor)
-*Though Time Series Insights has been deprecated, it is still on this exam for now. It will be removed with an upcoming exam revision.*
+*Though Time Series Insights has been deprecated, it is still on this exam for now. It will be removed with a future exam revision.*
 
 * [Create a Time Series Insights environment](https://docs.microsoft.com/azure/time-series-insights/tutorials-set-up-tsi-environment#create-an-azure-time-series-insights-gen2-environment?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Connect the IoT hub and the Time Series Insights environment](https://docs.microsoft.com/azure/time-series-insights/how-to-ingest-data-iot-hub?wt.mc_id=eventspg_16482_webpage_reactor)
