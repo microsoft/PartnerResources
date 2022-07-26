@@ -19,7 +19,7 @@ tags:
 * [Implement secure connections, including access control, authentication, shared access policies, and TLS](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-security?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Implement secure networking, including IP filtering and private endpoints](https://docs.microsoft.com/azure/iot-hub/virtual-network-support?wt.mc_id=eventspg_16482_webpage_reactor)
 
-### [Implement Microsoft Defender for IoT](https://docs.microsoft.com/azure/security-center/security-center-introduction?wt.mc_id=eventspg_16482_webpage_reactor) 
+### [Implement Microsoft Defender for IoT](https://docs.microsoft.com/azure/defender-for-iot/organizations/overview?wt.mc_id=eventspg_16482_webpage_reactor) 
 
 * [Configure a Defender for IoT agent-based solution](https://docs.microsoft.com/azure/defender-for-iot/device-builders/tutorial-configure-agent-based-solution?wt.mc_id=eventspg_16482_webpage_reactor)
 * [Install and configure Defender-IoT-micro-agents (security agents)](https://docs.microsoft.com/azure/defender-for-iot/device-builders/concept-security-module?wt.mc_id=eventspg_16482_webpage_reactor)
