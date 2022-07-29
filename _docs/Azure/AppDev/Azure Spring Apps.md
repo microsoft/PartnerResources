@@ -50,6 +50,6 @@ tags:
 
 ## Videos 
 
-* [![How to Use Azure Spring Cloud](https://img.youtube.com/vi/_L8ez4sY67I/0.jpg)](https://www.youtube.com/watch?v=_L8ez4sY67I)
-* [![Deploy an App Using Azure Spring Apps & PostgreSQL](https://img.youtube.com/vi/b9c5ZDMuAzw/0.jpg)](https://www.youtube.com/watch?v=b9c5ZDMuAzw)
-* [![Azure Spring App - A Fully Managed Service for Spring Boot Apps](https://img.youtube.com/vi/nlYLfw2T_Nc/0.jpg)](https://www.youtube.com/watch?v=nlYLfw2T_Nc)
+[![How to Use Azure Spring Cloud](https://img.youtube.com/vi/_L8ez4sY67I/0.jpg)](https://www.youtube.com/watch?v=_L8ez4sY67I)  
+[![Deploy an App Using Azure Spring Apps & PostgreSQL](https://img.youtube.com/vi/b9c5ZDMuAzw/0.jpg)](https://www.youtube.com/watch?v=b9c5ZDMuAzw)  
+[![Azure Spring App - A Fully Managed Service for Spring Boot Apps](https://img.youtube.com/vi/nlYLfw2T_Nc/0.jpg)](https://www.youtube.com/watch?v=nlYLfw2T_Nc)  
