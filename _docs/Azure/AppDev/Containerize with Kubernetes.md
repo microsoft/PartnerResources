@@ -46,7 +46,7 @@ tags:
 * [Exam AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
 * [Learning Path: 50 days from zero to hero with Kubernetes](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path_Version%202.0.pdf) (Self-Paced)
 * [Microservices architecture on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/microservices/aks) (Self-Paced)
-* [Kuberentes & Azure Arc Multi-cloud Management]([https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/microservices/aks](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_k8s/) (Self-Paced)
+* [Kuberentes & Azure Arc Multi-cloud Management](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_k8s/) (Self-Paced)
 
 ## Community Resources
 
