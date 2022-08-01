@@ -16,19 +16,19 @@ tags:
 
 * [Introduction to Kubernetes Tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 * [Katacoda: Kubernetes Introduction](https://www.katacoda.com/loodse/courses/kubernetes) (Self-Paced)
-* [Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) (Self-Paced) (10 Hours)
-* [Microsoft Azure Fundamentals](https://www.microsoft.com/learning/course.aspx?cid=AZ-900T01) (In-person Instructor Led) (1 Day)
-* [Phippy Goes to the Zoo](https://azure.microsoft.com/mediahandler/files/resourcefiles/phippy-goes-to-the-zoo/Phippy%20Goes%20To%20The%20Zoo_MSFTonline.pdf) (Self-Paced) (6 Minutes)
-* [Introduction to Kubernetes on Azure](https://docs.microsoft.com/en-us/learn/paths/intro-to-kubernetes-on-azure/) (5 Hours)
+* [Learning Path: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) (Self-Paced)
+* [Microsoft Azure Fundamentals](https://www.microsoft.com/learning/course.aspx?cid=AZ-900T01) (In-person Instructor Led) 
+* [Phippy Goes to the Zoo](https://azure.microsoft.com/mediahandler/files/resourcefiles/phippy-goes-to-the-zoo/Phippy%20Goes%20To%20The%20Zoo_MSFTonline.pdf) (Self-Paced) 
+* [Introduction to Kubernetes on Azure](https://docs.microsoft.com/en-us/learn/paths/intro-to-kubernetes-on-azure/)
   * Learn about the basics of Docker containers, container orchestration with Kubernetes, and managed clusters on Azure Kubernetes Service.
 
 ## Associate
 
-* [Katacoda: Launch Single Node Kubernetes Cluster](https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster) (Self-Paced) (15 Minutes)
+* [Katacoda: Launch Single Node Kubernetes Cluster](https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster) (Self-Paced) 
 * [WhatTheHack: Intro to Kubernetes](https://github.com/microsoft/WhatTheHack/tree/master/001-IntroToKubernetes) (In-person Instructor Led)
-* [Kubernetes core concepts for Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads) (Self-Paced) (15 Minutes)
-* [Implement a code workflow in your build pipeline by using Git and GitHub](https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/) (Self-Paced) (2 Hours)
-* [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/) (Self-Paced) (4 Hours)
+* [Kubernetes core concepts for Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads) (Self-Paced) 
+* [Implement a code workflow in your build pipeline by using Git and GitHub](https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/) (Self-Paced) 
+* [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/) (Self-Paced)
 
 
 ## Expert
