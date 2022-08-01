@@ -48,9 +48,9 @@ tags:
 * [Microservices architecture on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/microservices/aks) (Self-Paced)
 * [Kuberentes & Azure Arc Multi-cloud Management](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_k8s/) (Self-Paced)
 
-## Azure Kubernetes Service (AKS) Well-Architected Framework Baseline Implmentation 
+## AKS Well-Architected Framework Baseline Implmentation 
 
-* [Well-Architected Framework Baseline for AKS](https://github.com/mspnp/aks-baseline)) (Self-Paced)
+* [Well-Architected Framework Baseline for AKS](https://github.com/mspnp/aks-baseline) (Self-Paced)
 
 ## Community Resources
 
