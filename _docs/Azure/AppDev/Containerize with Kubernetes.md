@@ -2,7 +2,7 @@
 layout: page
 title: Containerize with Kubernetes
 description: Resources for Kubernetes on Azure
-updated: 202-08-01
+updated: 2002-08-01
 permalink: /azure/appdev/containerize-with-kubernetes
 tags:
 - learning plan
