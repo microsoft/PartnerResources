@@ -73,18 +73,17 @@ Weekly releases of the IoT Show, regular premieres of the IoT Deep Dives, advoca
 |Exam Skills Measured|Links to Learning Paths|
 | - | - |
 |**Set up the Azure IoT Hub solution infrastructure (10–15%)**|[Implement IoT device communication by using the Azure IoT SDKs](https://docs.microsoft.com/learn/paths/implement-iot-device-communication-by-using-azure-iot-sdks/)
-*	[1-Examine IoT Hub properties](https://docs.microsoft.com/learn/modules/examine-iot-hub-properties/)
-*	[2-Examine IoT device lifecycle concepts](https://docs.microsoft.com/learn/modules/examine-iot-device-lifecycle-concepts/)
-*	[3-Examine the IoT developer tools](https://docs.microsoft.com/learn/modules/examine-iot-developer-tools/)
-*	[4-Explore device configuration and communication](https://docs.microsoft.com/learn/modules/explore-device-configuration-communication/)
-
-[Manage IoT devices by using IoT Hub and apps](https://docs.microsoft.com/learn/paths/use-iot-hub-apps-manage-iot-devices/)
-*	[1-Examine device management concepts and methods](https://docs.microsoft.com/learn/modules/examine-device-management-concepts-methods/)
-*	[2-Examine device management tools](https://docs.microsoft.com/learn/modules/examine-device-management-tools/)
-*	[3-Examine approaches to device management at scale](https://docs.microsoft.com/learn/modules/device-management-scale/)
-*	[4-Explore device management with device twins and direct methods](https://docs.microsoft.com/learn/modules/explore-device-management-device-twins-direct-methods/)
-*	[5-Explore IoT Hub automatic device management](https://docs.microsoft.com/learn/modules/explore-iot-hub-automatic-device-management/)|
-| - | - |
+<br />  [1-Examine IoT Hub properties](https://docs.microsoft.com/learn/modules/examine-iot-hub-properties/)
+<br /> 	[2-Examine IoT device lifecycle concepts](https://docs.microsoft.com/learn/modules/examine-iot-device-lifecycle-concepts/)
+<br /> 	[3-Examine the IoT developer tools](https://docs.microsoft.com/learn/modules/examine-iot-developer-tools/)
+<br />  [4-Explore device configuration and communication](https://docs.microsoft.com/learn/modules/explore-device-configuration-communication/)
+<br />
+<br />[Manage IoT devices by using IoT Hub and apps](https://docs.microsoft.com/learn/paths/use-iot-hub-apps-manage-iot-devices/)
+<br />  [1-Examine device management concepts and methods](https://docs.microsoft.com/learn/modules/examine-device-management-concepts-methods/)
+<br />  [2-Examine device management tools](https://docs.microsoft.com/learn/modules/examine-device-management-tools/)
+<br />  [3-Examine approaches to device management at scale](https://docs.microsoft.com/learn/modules/device-management-scale/)
+<br />  [4-Explore device management with device twins and direct methods](https://docs.microsoft.com/learn/modules/explore-device-management-device-twins-direct-methods/)
+<br />  [5-Explore IoT Hub automatic device management](https://docs.microsoft.com/learn/modules/explore-iot-hub-automatic-device-management/)|
 
 ## Exam Updates
 
