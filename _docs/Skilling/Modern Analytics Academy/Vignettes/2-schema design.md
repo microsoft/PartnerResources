@@ -17,7 +17,8 @@ tags:
 
 {{ page.description }}
 
-* [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Schema%20-%20Design.pptx)
+* [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/
+Modern%20Analytics%20Academy%20-%20Schema%20Design.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
