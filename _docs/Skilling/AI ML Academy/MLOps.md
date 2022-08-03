@@ -2,7 +2,7 @@
 layout: page
 title: AI & ML Academy - ML Engineering in Production (MLOps) 
 description: Workshop focused on AI and ML - ML Engineering in Production (MLOps) 
-permalink: /skilling/modern-analytics-academy/mlops
+permalink: /skilling/ai-ml-academy/mlops
 redirect_from:
   - /skilling/data-analytics-ai/ai-ml-academy-mlops
   - /azure/data-analytics-ai/ai-ml-academy-mlops
