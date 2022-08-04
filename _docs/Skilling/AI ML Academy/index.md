@@ -2,7 +2,7 @@
 layout: page
 title: AI & ML Academy Home
 description: Workshop focused on AI & ML
-permalink: /skilling/ai-ml-academy-overview
+permalink: /skilling/ai-ml-academy
 updated: 2022-08-05
 showbreadcrumb: true
 tags:
@@ -17,7 +17,7 @@ tags:
 
 ## Content
 
-* [AI & ML Academy Home](/PartnerResources/skilling/ai-ml-academy)
+* [AI & ML Academy Home](/skilling/ai-ml-academy)
 * [AI & ML Overview](/PartnerResources/skilling/ai-ml-academy-overview)
 * [Module 1: Prebuilt AI](/PartnerResources//skilling/ai-ml-academy-prebuilt-ai)
 * [Module 2: Applied AI](/PartnerResources/skilling/ai-ml-academy-applied-ai)
