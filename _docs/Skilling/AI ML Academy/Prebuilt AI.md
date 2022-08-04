@@ -2,10 +2,7 @@
 layout: page
 title: AI & ML Academy - Prebuilt AI
 description: Workshop focused on AI and ML - Prebuilt AI
-permalink: /skilling/modern-analytics-academy/prebuilt-ai
-redirect_from:
-  - /skilling/data-analytics-ai/ai-ml-academy-prebuilt-ai
-  - /azure/data-analytics-ai/ai-ml-academy-prebuilt-ai
+permalink: /skilling/ai-ml-academy/prebuilt-ai
 updated: 2022-08-05
 showbreadcrumb: true
 tags: 
