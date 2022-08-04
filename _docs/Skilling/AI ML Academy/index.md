@@ -18,13 +18,13 @@ tags:
 ## Content
 
 * [AI & ML Academy Home](/skilling/ai-ml-academy)
-* [AI & ML Overview](/PartnerResources/skilling/ai-ml-academy-overview)
-* [Module 1: Prebuilt AI](/PartnerResources//skilling/ai-ml-academy-prebuilt-ai)
-* [Module 2: Applied AI](/PartnerResources/skilling/ai-ml-academy-applied-ai)
-* [Module 3: Built Your Own AI](/PartnerResources/skilling/ai-ml-academy/build-your-own-ml)
-* [Module 4: Big Data AI](/PartnerResources/skilling/ai-ml-academy/big-data-ml)
-* [Module 5: ML Engineering in Production (MLOps)](/PartnerResources/skilling/ai-ml-academy/mlops)
-* [Ongoing Vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)
+* [AI & ML Overview](/skilling/ai-ml-academy/overview)
+* [Module 1: Prebuilt AI](/skilling/ai-ml-academy/prebuilt-ai)
+* [Module 2: Applied AI](/skilling/ai-ml-academy/applied-ai)
+* [Module 3: Built Your Own AI](/skilling/ai-ml-academy/build-your-own-ml)
+* [Module 4: Big Data AI](/skilling/ai-ml-academy/big-data-ml)
+* [Module 5: ML Engineering in Production (MLOps)](/skilling/ai-ml-academy/mlops)
+* [Ongoing Vignettes](/skilling/ai-ml-academy/vignettes)
 
 Welcome to the AI & ML Academy (AIMLA)! 
 
