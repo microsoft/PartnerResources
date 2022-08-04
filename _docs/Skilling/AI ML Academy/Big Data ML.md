@@ -13,7 +13,7 @@ tags:
 - workshop
 ---
 
-# AI & ML Academy - Big Data ml
+# AI & ML Academy - Big Data ML
 
 Welcome to the AI & ML Academy (AIMLA) - Big Data ML!
 
