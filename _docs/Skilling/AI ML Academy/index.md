@@ -2,7 +2,7 @@
 layout: page
 title: AI & ML Academy Home
 description: Workshop focused on AI & ML
-permalink: /skilling/ai-ml-academy
+permalink: /skilling/ai-ml-academy-overview
 redirect_from:
   - /skilling/data-analytics-ai/ai-ml-academy-overview
   - /azure/data-analytics-ai/ai-ml-academy-overview
@@ -21,7 +21,7 @@ tags:
 ## Content
 
 * [AI & ML Academy Home](/PartnerResources/skilling/ai-ml-academy)
-* [AI & ML Overview](/PartnerResources/skilling/ai-ml-academy/overview)
+* [AI & ML Overview](/skilling/ai-ml-academy/overview)
 * [Module 1: Prebuilt AI](/PartnerResources//skilling/ai-ml-academy/prebuilt-ai)
 * [Module 2: Applied AI](/PartnerResources/skilling/ai-ml-academy/applied-ai)
 * [Module 3: Built Your Own AI](/PartnerResources/skilling/ai-ml-academy/build-your-own-ml)
