@@ -2,10 +2,7 @@
 layout: page
 title: AI & ML Academy - Big Data AI
 description: Workshop focused on AI and ML - Big Data AI
-permalink: /skilling/modern-analytics-academy/big-data-ai
-redirect_from:
-  - /skilling/data-analytics-ai/ai-ml-academy-big-data-ai
-  - /azure/data-analytics-ai/ai-ml-academy-big-data-ai
+permalink: /skilling/ai-ml-academy/big-data-ai
 updated: 2022-08-05
 showbreadcrumb: true
 tags: 
