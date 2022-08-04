@@ -1,20 +1,18 @@
 ---
 layout: page
-title: Modern Analytics Academy Vignettes
+title: AI & ML Academy Vignettes
 description: In our Vignette sessions, we'll explore topics based on feedback or frequently asked questions. We'll update the content here as the series continues.
-permalink: /skilling/modern-analytics-academy/vignettes
-redirect_from:
-  - /skilling/modern-analytics-academy/vignettes/
-  - /skilling/data-analytics-ai/modern-analytics-academy-vignettes
+permalink: /skilling/ai-ml-academy/vignettes
 showbreadcrumb: true
 includemethod: all
 includeplans:
-- modern analytics academy
+- ai ml academy
 - vignettes
 removetags:
 - azure
 - data, analytics, and ai
-- modern analytics academy
+- artificial intelligence
+- machine learning
 - vignettes
 ---
 
