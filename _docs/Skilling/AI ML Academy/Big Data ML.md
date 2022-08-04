@@ -1,8 +1,8 @@
 ---
 layout: page
-title: AI & ML Academy - Big Data AI
-description: Workshop focused on AI and ML - Big Data AI
-permalink: /skilling/ai-ml-academy/big-data-ai
+title: AI & ML Academy - Big Data ML
+description: Workshop focused on AI and ML - Big Data ML
+permalink: /skilling/ai-ml-academy/big-data-ml
 updated: 2022-08-05
 showbreadcrumb: true
 tags: 
@@ -13,13 +13,13 @@ tags:
 - workshop
 ---
 
-# AI & ML Academy - Big Data AI
+# AI & ML Academy - Big Data ml
 
-Welcome to the AI & ML Academy (AIMLA) - Big Data AI!
+Welcome to the AI & ML Academy (AIMLA) - Big Data ML!
 
-In this module, we’ll look at options for AI with large volumes of data.  
+In this module, we’ll look at options for machine learning with large volumes of data.  
 
-## Big Data AI
+## Big Data ML
 
 Coming soon! **(Break into sections, as needed)**
 
