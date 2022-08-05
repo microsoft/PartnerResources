@@ -2,7 +2,7 @@
 layout: page
 title: Containerize with Kubernetes
 description: Resources for Kubernetes on Azure
-updated: 2002-08-01
+updated: 2022-08-04
 permalink: /azure/appdev/containerize-with-kubernetes
 tags:
 - learning plan
@@ -25,7 +25,6 @@ tags:
 ## Associate
 
 * [Katacoda: Launch Single Node Kubernetes Cluster](https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster) (Self-Paced) 
-* [WhatTheHack: Intro to Kubernetes](https://github.com/microsoft/WhatTheHack/tree/master/001-IntroToKubernetes) (In-person Instructor Led)
 * [Kubernetes core concepts for Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads) (Self-Paced) 
 * [Implement a code workflow in your build pipeline by using Git and GitHub](https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/) (Self-Paced) 
 * [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/) (Self-Paced)
@@ -47,6 +46,36 @@ tags:
 * [Learning Path: 50 days from zero to hero with Kubernetes](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path_Version%202.0.pdf) (Self-Paced)
 * [Microservices architecture on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/microservices/aks) (Self-Paced)
 * [Kuberentes & Azure Arc Multi-cloud Management](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_k8s/) (Self-Paced)
+
+## Learn Kubernetes & AKS through What The Hack
+
+[What the Hack](https://aka.ms/wth) is a set of challenge based hackathons that can be hosted in-person or virtually via Microsoft Teams.
+
+Attendees work in squads of 3 to 5 people to solve a series of technical challenges for a given technology or solution scenario. Challenges describe high-level tasks and goals to be accomplished. Challenges are not step-by-step labs.
+
+What The Hack is designed to be a collaborative learning experience. Attendees “learn from” and “share with” each other. Without step-by-step instructions given for the challenges, attendees have to “figure it out” together as a team. This results in greater knowledge retention for the attendees.
+
+The attendee squads are not alone in solving the challenges. Coaches work with each squad to provide guidance for, but not answers to, the challenges. The coaches may also provide lectures and demos to introduce the challenges, as well as review challenge solutions throughout the event.
+
+* [What The Hack: Intro to Kubernetes](https://microsoft.github.io/WhatTheHack/001-IntroToKubernetes/) (In-person Instructor Led)
+
+This intro level hack will help you get hands-on experience with Docker, Kubernetes and the Azure Kubernetes Service (AKS) on Microsoft Azure. 
+
+The hack starts off by covering containers, what problems they solve, and why Kubernetes is needed to help orchestrate them. You will learn all of the Kubernetes jargon (pods, services, and deployments, oh my!). By the end, you should have a good understanding of what Kubernetes is and be familiar with how to run it on Azure.
+
+* [What The Hack: Advanced Kubernetes](https://microsoft.github.io/WhatTheHack/023-AdvancedKubernetes/) (In-person Instructor Led)
+
+If you've gone through the [Intro to Kubernetes WTH](https://microsoft.github.io/WhatTheHack/001-IntroToKubernetes/), now you know the jargon.  Pods, services, and YAML are second nature to you. This hack will dive into more advanced features of Kubernetes itself. Unlike the intro level hack where the challenges build on each other, this hack is more of a "choose your own adventure". Once you get a Kubernetes cluster running with the hack's sample application, you can dive deep into any or all of the covered areas you are interested in.
+
+Topics include: Helm, Resiliency, Scaling, GitOps, Service Mesh, and Data Volumes.
+
+* [What The Hack: AKS - Enterprise Grade](https://microsoft.github.io/WhatTheHack/039-AKSEnterpriseGrade/) (In-person Instructor Led)
+
+In the [Intro To Kubernetes WTH](https://microsoft.github.io/WhatTheHack/001-IntroToKubernetes/), you learn the basics of Kubernetes itself. You may know how to deploy a basic cluster, but do you know how to get it ready for production in an Enterprise environment? Kubernetes can run in any cloud or on-premises, but knowing the integration points with the underlying platform is important.
+
+This hack focuses on the integration between Kubernetes, the Azure Kubernetes Service (AKS), and other Azure services. You will explore how to integrate an AKS cluster into your existing private network and make it secure.  This includes configuring policies to limit access to the cluster, configuring secrets with Azure Key Vault, and how to monitor your cluster with Azure's monitoring tools.
+
+If you are interested in attending a What The Hack event, contact your Microsoft Partner representative.  Alternatively, you can host one yourself using the guidance in the [What The Hack Hosting Guide](https://aka.ms/wthhost)
 
 ## AKS Well-Architected Framework Baseline Implmentation 
 
