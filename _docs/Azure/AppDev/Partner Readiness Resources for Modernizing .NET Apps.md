@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Technical Resources for Modernizing .NET Apps
-description: Resources for Modernizing .NET Apps
+title: Partner Readiness Resources for Modernizing .NET Apps
+description: Readiness Resources for Modernizing .NET Apps
 updated: 2022-08-10
 permalink: /azure/appdev/modernize-dot-net-apps
 tags:
