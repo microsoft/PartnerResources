@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Plan for Azure Kubernetes Service
+title: Learning Plan Resources for Azure Kubernetes Service
 description: Learning Plan for Azure Kubernetes Service
 updated: 2022-08-10
 permalink: /azure/appdev/containerize-with-kubernetes
