@@ -12,7 +12,7 @@ tags:
 
 Microsoft Azure Spring Apps is a fully managed service that brings modern microservices patterns to Spring Boot and Steeltoe .NET core applications. 
 
-These resourcea are recommended for partners looking to expand their service offering.  They can expect to learn how to develop and deliver Java or Steeltoe .NET core applications quickly, and understand how to build, deploy, and monitor Spring Cloud apps on Azure for their customers.
+These resourcea are recommended for partners looking to expand their service offering.  They can expect to learn how to develop and deliver Java or Steeltoe .NET core applications quickly, and understand how to build, deploy, and monitor Spring Cloud Apps on Azure for their customers.
 
 These resources have a specific prerequisite: **an understanding of the Spring and Spring Boot frameworks.**
 
