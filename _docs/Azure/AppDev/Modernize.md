@@ -54,20 +54,20 @@ tags:
 * [eBook: Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) 
 * [Book: Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) (Self-Paced)
 
-### Workshops
+## Workshops
 
-#### Basic
+### Basic
 
 * [Modern Cloud Apps Workshop](https://github.com/Microsoft/MCW-Modern-Cloud-Apps)
 * [Azure SQL Labs](https://github.com/microsoft/sqlworkshops-azuresqllabs)
 * [Modernize .Net](https://azuredevopslabs.com/labs/vstsextend/aspnetmodernize/)
 * [.Net Apps Migration](https://github.com/Microsoft/MCW-Modern-Cloud-Apps)
 
-#### Advanced
+### Advanced
 
 * [What The Hack - App Modernization Hack](https://github.com/microsoft/WhatTheHack/tree/master/006-AppModernization)
 
-### Certification Paths for Modernizing .Net Apps
+## Certification Paths for Modernizing .Net Apps
 
 * [Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator)
 * [Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect)
