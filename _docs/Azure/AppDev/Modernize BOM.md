@@ -2,12 +2,12 @@
 layout: page
 title: Partner Resources for Modernizing .NET Apps
 description: Resources for Modernizing .NET Apps
-updated: 2021-12-01
+updated: 2022-08-10
 permalink: /azure/appdev/modernize-dot-net-apps
 tags:
-- learning plan
 - azure
 - appdev
+- partner resources 
 ---
 
 # Modernize .Net Apps with App Service, Azure SQL DB
