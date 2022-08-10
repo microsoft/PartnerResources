@@ -61,22 +61,7 @@ tags:
 * [Design Principles for Azure Applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/)
 * [Application Performance Management (APM) on Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
 
-## Readiness and Training
-
-### Learning Path
-
-* [Data Migration and Modernization](https://docs.microsoft.com/en-us/learn/modules/data-estate-migration-and-modernization/)
-* [Migrate SQL to Azure](https://docs.microsoft.com/en-us/learn/paths/migrate-sql-workloads-azure/)
-* [Protect, Monitor, and Tune a Migrated Database](https://docs.microsoft.com/en-us/learn/modules/protect-monitor-tuning-migrated-database/)
-* [Migrate .NET Apps to Azure](https://docs.microsoft.com/en-us/learn/paths/migrate-dotnet-apps-azure/)
-* [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)
-* [Zero to Hero with App Service, Part 1: Setting Up](https://techcommunity.microsoft.com/t5/apps-on-azure/zero-to-hero-with-app-service-part-1-setting-up/ba-p/1496757)
-* [Zero to Hero with App Service, Part 2: Continuous Integration and Delivery](https://techcommunity.microsoft.com/t5/apps-on-azure/zero-to-hero-with-app-service-part-2-continuous-integration-and/ba-p/1497221)
-* [Zero to Hero with App Service, Part 3: Releasing to Production](https://techcommunity.microsoft.com/t5/apps-on-azure/zero-to-hero-with-app-service-part-3-releasing-to-production/ba-p/1506722)
-* [Zero to Hero with App Service, Part 4: Migrate Applications to Azure App Service](https://techcommunity.microsoft.com/t5/apps-on-azure/zero-to-hero-with-app-service-part-4-migrate-applications-to/ba-p/1533914)
-* [Zero to Hero with App Service, Part 5: Add and Secure a Custom Domain on Your Azure App Service Web](https://techcommunity.microsoft.com/t5/apps-on-azure/zero-to-hero-with-app-service-part-5-add-and-secure-a-custom/ba-p/1548950)
-* [Zero to Hero with App Service, Part 6: Securing your web app](https://techcommunity.microsoft.com/t5/apps-on-azure/zero-to-hero-with-app-service-part-6-securing-your-web-app/ba-p/1594677)
-* [Zero to Hero with App Service, Part 7: Multi-tier web applications](https://techcommunity.microsoft.com/t5/apps-on-azure/zero-to-hero-with-app-service-part-7-multi-tier-web-applications/ba-p/1752015)
+## Partner Readiness
 
 ### Demos & Walkthroughs
 
