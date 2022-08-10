@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Partner Readiness Resources for Modernizing .NET Apps
-description: Readiness Resources for Modernizing .NET Apps
+description: Resources for Modernizing .NET Apps
 updated: 2022-08-10
 permalink: /azure/appdev/modernize-dot-net-apps
 tags:
@@ -49,7 +49,6 @@ tags:
 ### SQL Database Migration
 
 * [SQL Migration](https://docs.microsoft.com/en-us/sql/sql-server/migrate/?view=sql-server-2017)
-* [SQL Decision Tree](https://microsoft.sharepoint.com/:p:/r/sites/Infopedia_G01KC/_layouts/15/WopiFrame.aspx?sourcedoc=%7Bf8151f93-1d31-4c89-8e34-e5e4f61a0302%7D&amp;action=default&amp;DefaultItemOpen=)
 * [Choosing Your Database Migration Path](https://azure.microsoft.com/en-us/resources/choosing-your-database-migration-path-to-azure/)
 
 ## Deployment
