@@ -7,7 +7,7 @@ permalink: /azure/appdev/modernize-dot-net-apps
 tags:
 - azure
 - appdev
-- partner resources 
+- technical resources 
 ---
 
 # Modernize .Net Apps with App Service, Azure SQL DB
