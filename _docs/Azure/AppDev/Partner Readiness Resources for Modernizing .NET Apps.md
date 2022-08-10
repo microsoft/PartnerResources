@@ -11,15 +11,16 @@ tags:
 - learning plan
 ---
 
-# Modernize .Net Apps with App Service, Azure SQL DB
+# Partner Readiness Resources for Modernizing .NET Apps
 
+## Modernize .Net Apps with App Service, Azure SQL DB
 
-## Cost Benefit
+### Cost Benefit
 
 * [Apply Azure Hybrid Benefit (AHUB) to Azure SQL Database PaaS services](https://azure.microsoft.com/en-us/services/sql-database/)
 * [Enterprise Dev/Test Offer](https://azure.microsoft.com/en-us/offers/ms-azr-0148p/#:~:text=The%20Enterprise%20Dev/Test%20offer%20is,be%20accessed%20by%20any%20users.)
 
-## Discovery Assessment
+### Discovery Assessment
 
 * [App Service Migration Assistant Tool](https://appmigration.microsoft.com/)
 * [App Service Migration Assistant Documentation](https://github.com/Azure/App-Service-Migration-Assistant/tree/master/MigrationDocs)
@@ -62,7 +63,7 @@ tags:
 * [Design Principles for Azure Applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/)
 * [Application Performance Management (APM) on Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
 
-## Partner Readiness
+## Partner Readiness Content
 
 ### Demos & Walkthroughs
 
