@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Modernize .NET Apps
+title: Partner Resources for Modernizing .NET Apps
 description: Resources for Modernizing .NET Apps
 updated: 2021-12-01
 permalink: /azure/appdev/modernize-dot-net-apps
