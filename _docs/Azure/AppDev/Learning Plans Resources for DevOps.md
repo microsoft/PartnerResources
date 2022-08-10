@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Learning Plans Resources for DevOps
-description: Resources for DevOps on Azure
-updated: 2021-12-01
+description: Learning Plans Resources for DevOps
+updated: 2022-08-10
 permalink: /azure/appdev/devops
 tags: 
 - learning plan
