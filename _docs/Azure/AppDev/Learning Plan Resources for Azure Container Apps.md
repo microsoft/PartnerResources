@@ -39,7 +39,7 @@ tags:
 * [Managing Secrets with Azure Container Apps](https://docs.microsoft.com/en-us/azure/container-apps/manage-secrets?tabs=arm-template) (Self-Paced)
 * [Publish Revisions with GitHub Actions](https://docs.microsoft.com/en-us/azure/container-apps/github-actions-cli?tabs=bash) (Self-Paced)
 * [Architecting Health Probes in Azure Container Apps](https://docs.microsoft.com/en-us/azure/container-apps/health-probes?tabs=arm-template) (Self-Paced)
-* [Architecting a Diaster Recovery Plan for Azure Container Apps](hhttps://docs.microsoft.com/en-us/azure/container-apps/disaster-recovery/) (Self-Paced)
+* [Architecting a Diaster Recovery Plan for Azure Container Apps](https://docs.microsoft.com/en-us/azure/container-apps/disaster-recovery/) (Self-Paced)
 * [Demo - Azure Container App Samples](https://docs.microsoft.com/en-us/azure/container-apps/samples) (Self-Paced)
 * [Archiecture - Microservices with Azure Container Apps](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/serverless/microservices-with-container-apps) (Self-Paced)
 * [Archiecture - Microservices with Azure Container Apps and Dapr](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/serverless/microservices-with-container-apps-dapr) (Self-Paced)
