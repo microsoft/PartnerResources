@@ -13,6 +13,7 @@ tags:
 
 # Partner Readiness Resources for Modernizing .NET Apps
 
+
 ## Modernize .Net Apps with App Service, Azure SQL DB
 
 ### Cost Benefit
