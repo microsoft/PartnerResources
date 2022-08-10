@@ -9,7 +9,6 @@ tags:
 - business applications
 - power platform
 - app modernization
-- appdev
 ---
 
 # Learning Plan Resources for App Modernization
