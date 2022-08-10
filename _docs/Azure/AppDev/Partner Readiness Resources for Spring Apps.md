@@ -25,7 +25,15 @@ These resources have a specific prerequisite: **an understanding of the Spring a
 https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?simulive=y&eventid=3488470&sessionid=1&username=&partnerref=&format=fhvideo1&mobile=&flashsupportedmobiledevice=&helpcenter=&key=FD34242BFCE418CF1E9A6CC9EC0B5AEB&newConsole=true&nxChe=true&newTabCon=true&consoleEarEventConsole=false&text_language_id=en&playerwidth=748&playerheight=526&eventuserid=551859162&contenttype=A&mediametricsessionid=475218469&mediametricid=4896780&usercd=551859162&mode=launch)
 [Automating, Troubleshooting, and Migrating Apps to Azure Spring Apps](https://note.microsoft.com/US-NOGEP-WBNR-FY22-12Dec-16-ImplementingMicrosoftAzureSpringCloudAutomationtroubleshootingandmigratingyourappstoAzureSpringCloud-SRDEM91195-04_LP02OnDemandRegistration-ForminBody.html)
 
-## Accelerateing Azure Spring Apps Adoption.
+## Accelerateing Azure Spring Apps Adoption
+
+### Provisioning Azure Spring App
+
+* [Provision using Azure Bicep](https://docs.microsoft.com/en-us/azure/spring-apps/quickstart-deploy-infrastructure-vnet-bicep?tabs=azure-spring-apps-standard)
+* [Provision using ARM Template](https://docs.microsoft.com/en-us/azure/spring-apps/quickstart-deploy-infrastructure-vnet?tabs=azure-spring-apps-standard%2Cazure-cli)
+* [Provision using Azure CLI](https://docs.microsoft.com/en-us/azure/spring-apps/quickstart-deploy-infrastructure-vnet-azure-cli?tabs=azure-spring-apps-standard)
+* [Provision using Terraform](https://docs.microsoft.com/en-us/azure/spring-apps/quickstart-deploy-infrastructure-vnet-terraform?tabs=azure-spring-apps-standard)
+
 
 ### Spring App Resources  
 
@@ -41,5 +49,5 @@ https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?simulive
 
 ### Azure Compete Scenarios
 
-* [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
-* [GCP to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/services)
+* [AWS to Azure Services Comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
+* [GCP to Azure Services Comparison](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/services)
