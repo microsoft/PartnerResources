@@ -2,7 +2,7 @@
 layout: page
 title: Learning Plan for Azure Container Apps
 description: Learning Plan Resources for Azure Container Apps
-updated: 2022-05-24
+updated: 2022-08-10
 permalink: /azure/appdev/azure-container-apps
 tags:
 - learning plan
