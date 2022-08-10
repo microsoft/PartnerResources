@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Learning Plan Resources for Modernizing .NET Apps
-description: Resources for Modernizing .NET Applications
+title: Learning Plans for Modernizing .NET Apps
+description: Learning Plans for Modernizing .NET Applications
 updated: 2021-12-01
 permalink: /azure/appdev/modernize-new-dot-net-applications
 tags:
@@ -53,6 +53,29 @@ tags:
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) (Self-Paced)
 * [eBook: Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) 
 * [Book: Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) (Self-Paced)
+
+### Workshops
+
+#### Basic
+
+* [Modern Cloud Apps Workshop](https://github.com/Microsoft/MCW-Modern-Cloud-Apps)
+* [Azure SQL Labs](https://github.com/microsoft/sqlworkshops-azuresqllabs)
+* [Modernize .Net](https://azuredevopslabs.com/labs/vstsextend/aspnetmodernize/)
+* [.Net Apps Migration](https://github.com/Microsoft/MCW-Modern-Cloud-Apps)
+
+#### Advanced
+
+* [What The Hack - App Modernization Hack](https://github.com/microsoft/WhatTheHack/tree/master/006-AppModernization)
+
+### Certification Paths for Modernizing .Net Apps
+
+* [Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator)
+* [Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect)
+* [Azure DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-devops)
+* [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer)
+* [Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer)
+* [Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer)
+
 
 ## Community Resources
 
