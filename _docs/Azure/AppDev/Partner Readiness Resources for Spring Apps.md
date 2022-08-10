@@ -25,13 +25,19 @@ These resources have a specific prerequisite: **an understanding of the Spring a
 https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?simulive=y&eventid=3488470&sessionid=1&username=&partnerref=&format=fhvideo1&mobile=&flashsupportedmobiledevice=&helpcenter=&key=FD34242BFCE418CF1E9A6CC9EC0B5AEB&newConsole=true&nxChe=true&newTabCon=true&consoleEarEventConsole=false&text_language_id=en&playerwidth=748&playerheight=526&eventuserid=551859162&contenttype=A&mediametricsessionid=475218469&mediametricid=4896780&usercd=551859162&mode=launch)
 [Automating, Troubleshooting, and Migrating Apps to Azure Spring Apps](https://note.microsoft.com/US-NOGEP-WBNR-FY22-12Dec-16-ImplementingMicrosoftAzureSpringCloudAutomationtroubleshootingandmigratingyourappstoAzureSpringCloud-SRDEM91195-04_LP02OnDemandRegistration-ForminBody.html)
 
+## Accelerateing Azure Spring Apps Adoption.
 
+### Spring App Resources  
 
-## Demos & Walkthroughs
-
-* [Web App Modernization Demo - Video](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX)
-* [Web App Modernization Demo – Click Through](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX)
-* [Azure Apps Demo](https://azureappsdemomap.com/map)
+* [Azure Spring Apps Reference Architecture](https://docs.microsoft.com/en-us/azure/spring-apps/reference-architecture?tabs=azure-spring-enterprise)
+* [Azure Roadmap](https://azure.microsoft.com/updates)
+* [Azure Spring Apps FAQs] (https://docs.microsoft.com/en-us/azure/spring-apps/faq)
+* [Azure Spring Apps Troubleshooting Guide](https://docs.microsoft.com/en-us/azure/spring-apps/troubleshoot)
+* [Spring Cloud Services for VMWare Tanzu Documentation](https://docs.pivotal.io/spring-cloud-services/1-5/common/index.html)
+* [Steeltoe](https://steeltoe.io/)
+* [Spring](https://spring.io/)
+* [Spring Framework](https://spring.io/projects/spring-cloud-azure)
+* [Spring on Azure](https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/)
 
 ### Azure Compete Scenarios
 
