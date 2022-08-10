@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Partner Resources for Modernizing .NET Apps
+title: Resources for Modernizing .NET Apps
 description: Resources for Modernizing .NET Apps
 updated: 2022-08-10
 permalink: /azure/appdev/modernize-dot-net-apps
@@ -89,24 +89,3 @@ tags:
 * [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 * [GCP to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/services)
 
-### Workshops
-
-#### Basic
-
-* [Modern Cloud Apps Workshop](https://github.com/Microsoft/MCW-Modern-Cloud-Apps)
-* [Azure SQL Labs](https://github.com/microsoft/sqlworkshops-azuresqllabs)
-* [Modernize .Net](https://azuredevopslabs.com/labs/vstsextend/aspnetmodernize/)
-* [.Net Apps Migration](https://github.com/Microsoft/MCW-Modern-Cloud-Apps)
-
-#### Advanced
-
-* [What The Hack - App Modernization Hack](https://github.com/microsoft/WhatTheHack/tree/master/006-AppModernization)
-
-### Certification Paths for Modernizing .Net Apps
-
-* [Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator)
-* [Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect)
-* [Azure DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-devops)
-* [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer)
-* [Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer)
-* [Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer)
