@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Azure Spring Apps
-description: Resources for Azure Spring Apps
+title: Learning Plan for Azure Spring Apps
+description: Learning Plan Resources for Azure Spring Apps
 updated: 2022-07-29
 permalink: /azure/appdev/azure-spring-apps
 tags:
