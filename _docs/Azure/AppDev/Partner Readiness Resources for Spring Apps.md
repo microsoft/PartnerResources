@@ -31,7 +31,7 @@ https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?simulive
 
 * [Azure Spring Apps Reference Architecture](https://docs.microsoft.com/en-us/azure/spring-apps/reference-architecture?tabs=azure-spring-enterprise)
 * [Azure Roadmap](https://azure.microsoft.com/updates)
-* [Azure Spring Apps FAQs] (https://docs.microsoft.com/en-us/azure/spring-apps/faq)
+* [Azure Spring Apps FAQs](https://docs.microsoft.com/en-us/azure/spring-apps/faq)
 * [Azure Spring Apps Troubleshooting Guide](https://docs.microsoft.com/en-us/azure/spring-apps/troubleshoot)
 * [Spring Cloud Services for VMWare Tanzu Documentation](https://docs.pivotal.io/spring-cloud-services/1-5/common/index.html)
 * [Steeltoe](https://steeltoe.io/)
