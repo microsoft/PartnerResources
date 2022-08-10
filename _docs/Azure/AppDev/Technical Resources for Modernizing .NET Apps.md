@@ -8,7 +8,7 @@ tags:
 - azure
 - appdev
 - technical resources 
-- learning plan\
+- learning plan
 ---
 
 # Modernize .Net Apps with App Service, Azure SQL DB
