@@ -13,7 +13,7 @@ tags:
 
 # Partner Readiness Resources for Modernizing Java Apps
 
-## Modernize Java Apps with App Service, Azure SQL DB
+## Envisioning Briefing
 
 ### Cost Benefit
 
@@ -29,7 +29,7 @@ tags:
 <!-- * [Data Migration Assistant](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017) -->
 <!-- * [SQL Server Migration Assistant](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017) -->
 
-##  Migration Tools & Frameworks
+## Architectural Design Session
 
 ### Cloud Migration (General)
 
@@ -45,7 +45,7 @@ tags:
 <!-- * [Apps Migration Considerations](https://docs.microsoft.com/en-us/dotnet/azure/migration/app-service) -->
 * [Choosing an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?_lrsc=e623b82d-6c35-449e-9ff0-8cc81a0819e3)
 
-### SQL Database Migration
+### Database Migration
 
 <!-- * [SQL Migration](https://docs.microsoft.com/en-us/sql/sql-server/migrate/?view=sql-server-2017) -->
 * [Choosing Your Database Migration Path](https://azure.microsoft.com/en-us/resources/choosing-your-database-migration-path-to-azure/)
@@ -62,7 +62,25 @@ tags:
 * [Design Principles for Azure Applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/)
 * [Application Performance Management (APM) on Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
 
-## Partner Readiness Content
+### Azure Compete Scenarios
+
+* [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
+* [GCP to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/services)
+
+## Assessments (Technical & Solution)
+
+[Partner Readiness Resources for Azure Spring Apps](./Partner%20Readiness%20Resources%20for%20Spring%20Apps.md)
+
+## Hackathon
+
+"What the Hack" is a set of challenge-based hackathons that can be hosted in-person or virtually via Microsoft Teams.
+
+* [_What the Hack_ overview](https://microsoft.github.io/WhatTheHack/)
+* [_What the Hack_ repo](https://github.com/Microsoft/WhatTheHack)
+
+## POC
+
+## Tech Briefing
 
 ### Demos & Walkthroughs
 
@@ -70,7 +88,11 @@ tags:
 * [Web App Modernization Demo – Click Through](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX) -->
 * [Azure Apps Demo](https://azureappsdemomap.com/map)
 
-### Azure Compete Scenarios
+## Solution Tech Review
 
-* [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
-* [GCP to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/services)
+## Build & Assist
+
+## Roadmap Planning
+
+## Migration Tools & Frameworks
+
