@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Learning Plans Resources for Modernizing .NET Apps
-description: Learning Plans Resources for Modernizing .NET Applications
+title: Modernizing .NET Apps
+description: Resources for Modernizing .NET Applications
 updated: 2021-08-10
 permalink: /azure/appdev/modernize-new-dot-net-applications
 tags:
 - learning plan
 - azure
 - appdev
+- app modernization
 ---
 
 # Learning Plan Resources for Modernizing Applications with Azure

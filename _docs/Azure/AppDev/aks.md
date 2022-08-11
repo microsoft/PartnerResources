@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Partner Readiness Resources for AKS
-description: Partner Readiness Resources for AKS
+title: Azure Kubernetes - AKS
+description: Resources for Azure Kubernetes (AKS)
 updated: 2022-08-10
 permalink: /azure/appdev/readiness-for-aks
 tags:
-
+- learning plan
+- azure
+- appdev
+- app modernization
+- aks
 ---
 
 # Partner Readiness Resources for Azure Kubernetes Resources 
