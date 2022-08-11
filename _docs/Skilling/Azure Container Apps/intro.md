@@ -33,7 +33,7 @@ Applications built on Azure Container Apps can dynamically scale based on the fo
 #### Example scenarios for Azure Container Apps:
 <div style="text-align: center;">
 
-![](assets/aca-workshop/azure-container-apps-example-scenarios.png)
+![](/assets/aca-workshop/azure-container-apps-example-scenarios.png)
 
 </div>
 
@@ -64,10 +64,9 @@ Azure Container Apps comes with a handful of components that you will need to un
 
 <div style="text-align: center;">
 
-![](assets/aca-workshop/azure-container-apps-containers.png)
+![](/assets/aca-workshop/azure-container-apps-containers.png)
 
 </div>
-#### Core components of Azure Container Apps
 
 ### Containers in Azure Container Apps
 
@@ -176,11 +175,11 @@ az containerapp create \
  --query configuration.ingress.fqdn
 ```
 
-This command will print the FQDN, which we can use in the browser to access NGINX using it’s public address.
+The above command will print the FQDN, which we can use in the browser to access the Hello World example..
 
 <div style="text-align: center;">
 
-![](assets/aca-workshop/azure-container-apps-quickstart.jpg)
+![](/assets/aca-workshop/azure-container-apps-quickstart.jpg)
 
 </div>
 
