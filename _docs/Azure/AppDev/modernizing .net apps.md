@@ -3,7 +3,7 @@ layout: page
 title: Modernizing .NET Apps
 description: Resources for Modernizing .NET Applications
 updated: 2021-08-10
-permalink: /azure/appdev/modernize-new-dot-net-applications
+permalink: /azure/appdev/modernize-dot-net-applications
 tags:
 - learning plan
 - azure
@@ -11,7 +11,7 @@ tags:
 - app modernization
 ---
 
-# Learning Plan Resources for Modernizing Applications with Azure
+# Resources for Modernizing Applications with Azure
 
 ## Fundamentals
 
@@ -21,6 +21,7 @@ tags:
 * [Microsoft Azure Fundamentals](https://www.microsoft.com/learning/course.aspx?cid=AZ-900T01) (In-person Instructor Led) (1 Day)
 * [Manage resources in Azure](https://docs.microsoft.com/en-us/learn/paths/manage-resources-in-azure/) (Self-Paced) (4 Hours)
 * [Create a Linux virtual machine in Azure](https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/) (Self-Paced) (2 Hours)
+
 
 ## Associate
 
@@ -54,6 +55,66 @@ tags:
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) (Self-Paced)
 * [eBook: Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) 
 * [Book: Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) (Self-Paced)
+
+##  Migration Tools & Frameworks
+
+### Cost Benefit
+
+* [Apply Azure Hybrid Benefit (AHUB) to Azure SQL Database PaaS services](https://azure.microsoft.com/en-us/services/sql-database/)
+* [Enterprise Dev/Test Offer](https://azure.microsoft.com/en-us/offers/ms-azr-0148p/#:~:text=The%20Enterprise%20Dev/Test%20offer%20is,be%20accessed%20by%20any%20users.)
+
+### Discovery Assessment
+
+* [App Service Migration Assistant Tool](https://appmigration.microsoft.com/)
+* [App Service Migration Assistant Documentation](https://github.com/Azure/App-Service-Migration-Assistant/tree/master/MigrationDocs)
+* [Azure Database Migration Guide](https://datamigration.microsoft.com/)
+* [Data Migration Service](https://docs.microsoft.com/en-us/azure/dms/)
+* [Data Migration Assistant](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017)
+* [SQL Server Migration Assistant](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017)
+
+### Cloud Migration (General)
+
+* [Cloud Journey Tracker](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment&amp;session=f13774ce-3324-46c7-9803-3b0298c49aed)
+* [Solutions Assessment](https://www.microsoft.com/en-us/solutionassessments/solutionassessments.aspx?SilentAuth=1)
+* [Migration Plan](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-refactor-web-app-sql)
+
+### App Migration
+
+* [Architecture, Migration Process, Components](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/net-app-modernization)
+* [Migrate, modernize .NET applications with Azure](https://techcommunity.microsoft.com/t5/apps-on-azure/migrate-modernize-net-applications-with-azure/ba-p/1696499)
+* [Migration Checklist for Azure App Service](https://azure.microsoft.com/en-us/blog/migration-checklist-when-moving-to-azure-app-service/)
+* [Apps Migration Considerations](https://docs.microsoft.com/en-us/dotnet/azure/migration/app-service)
+* [Choosing an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?_lrsc=e623b82d-6c35-449e-9ff0-8cc81a0819e3)
+
+### SQL Database Migration
+
+* [SQL Migration](https://docs.microsoft.com/en-us/sql/sql-server/migrate/?view=sql-server-2017)
+* [Choosing Your Database Migration Path](https://azure.microsoft.com/en-us/resources/choosing-your-database-migration-path-to-azure/)
+
+## Deployment
+
+* [Best Practices for Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-best-practices)
+* [Azure App Service Deployment Best Practices](https://docs.microsoft.com/en-us/azure/app-service/deploy-best-practices)
+* [Highly Available Multi-Region Web Application on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region)
+* [Highly Available SQL Database on Azure](https://docs.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla)
+* [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
+* [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
+* [Best Practices for Cloud Applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+* [Design Principles for Azure Applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/)
+* [Application Performance Management (APM) on Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
+
+## Partner Readiness Content
+
+### Demos & Walkthroughs
+
+* [Web App Modernization Demo - Video](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX)
+* [Web App Modernization Demo – Click Through](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX)
+* [Azure Apps Demo](https://azureappsdemomap.com/map)
+
+### Azure Compete Scenarios
+
+* [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
+* [GCP to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/services)
 
 ## Workshops
 

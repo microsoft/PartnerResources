@@ -3,12 +3,14 @@ layout: page
 title: Partner Readiness Resources for Azure Spring Apps
 description: Partner Readiness Resources for Azure Spring Apps
 updated: 2022-08-10
-permalink: /azure/appdev/readiness-for-aks
+permalink: /azure/appdev/azure-spring-apps-deprecated
 tags:
-
+- azure
+- appdev
+- deprecated
 ---
 
-# Partner Readiness Resources for Azure Spring Apps
+# Readiness Resources for Azure Spring Apps
 
 Microsoft Azure Spring Apps is a fully managed service that brings modern microservices patterns to Spring Boot and Steeltoe .NET core applications. 
 
