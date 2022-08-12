@@ -15,12 +15,20 @@ tags:
 
 ## Envisioning Briefing
 
+### Demos & Walkthroughs
+
+<!-- * [Web App Modernization Demo - Video](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX)
+* [Web App Modernization Demo – Click Through](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX) -->
+* [Azure Apps Demo](https://azureappsdemomap.com/map)
+
 ### Cost Benefit
 
 <!-- * [Apply Azure Hybrid Benefit (AHUB) to Azure SQL Database PaaS services](https://azure.microsoft.com/en-us/services/sql-database/) -->
 * [Enterprise Dev/Test Offer](https://azure.microsoft.com/en-us/offers/ms-azr-0148p/#:~:text=The%20Enterprise%20Dev/Test%20offer%20is,be%20accessed%20by%20any%20users.)
 
-### Discovery Assessment
+## Architectural Design Session
+
+### Discovery
 
 * [App Service Migration Assistant Tool](https://appmigration.microsoft.com/)
 <!-- * [App Service Migration Assistant Documentation](https://github.com/Azure/App-Service-Migration-Assistant/tree/master/MigrationDocs) -->
@@ -29,15 +37,18 @@ tags:
 <!-- * [Data Migration Assistant](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017) -->
 <!-- * [SQL Server Migration Assistant](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017) -->
 
-## Architectural Design Session
+(Include third party tools)
 
-### Cloud Migration (General)
+### Assessment
 
-* [Cloud Journey Tracker](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment&amp;session=f13774ce-3324-46c7-9803-3b0298c49aed)
-* [Solutions Assessment](https://www.microsoft.com/en-us/solutionassessments/solutionassessments.aspx?SilentAuth=1)
-<!-- * [Migration Plan](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-refactor-web-app-sql) -->
+(Which apps are candidates for modernization? We have a tool for this)
 
-### App Migration
+### Plan
+
+(What are the steps and the order?)
+(See slide 46 of Taxonomy deck)
+
+#### App Migration Planning
 
 <!-- * [Architecture, Migration Process, Components](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/net-app-modernization) -->
 <!-- * [Migrate, modernize .NET applications with Azure](https://techcommunity.microsoft.com/t5/apps-on-azure/migrate-modernize-net-applications-with-azure/ba-p/1696499) -->
@@ -45,10 +56,29 @@ tags:
 <!-- * [Apps Migration Considerations](https://docs.microsoft.com/en-us/dotnet/azure/migration/app-service) -->
 * [Choosing an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?_lrsc=e623b82d-6c35-449e-9ff0-8cc81a0819e3)
 
-### Database Migration
+#### Database Migration Planning
 
 <!-- * [SQL Migration](https://docs.microsoft.com/en-us/sql/sql-server/migrate/?view=sql-server-2017) -->
 * [Choosing Your Database Migration Path](https://azure.microsoft.com/en-us/resources/choosing-your-database-migration-path-to-azure/)
+
+### Cloud Modernization
+
+(Automate move from on-prem to Azure. What are considerations?)
+
+#### App Modernization
+
+#### Database Modernization
+
+* [Cloud Journey Tracker](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment&amp;session=f13774ce-3324-46c7-9803-3b0298c49aed)
+* [Solutions Assessment](https://www.microsoft.com/en-us/solutionassessments/solutionassessments.aspx?SilentAuth=1)
+<!-- * [Migration Plan](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-refactor-web-app-sql) -->
+
+### Operationalization
+
+Monitoring
+Security
+Observability
+Metrics
 
 ## Deployment
 
@@ -82,11 +112,15 @@ tags:
 
 ## Tech Briefing
 
-### Demos & Walkthroughs
+### Reliability
 
-<!-- * [Web App Modernization Demo - Video](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX)
-* [Web App Modernization Demo – Click Through](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX) -->
-* [Azure Apps Demo](https://azureappsdemomap.com/map)
+### Security
+
+### Cost Optimization
+
+### Operational Excellence
+
+### Performance Efficiency
 
 ## Solution Tech Review
 
