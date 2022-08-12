@@ -118,19 +118,37 @@ Metrics
 
 (Assigned to David G)
 
-The [Azure Well Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) provides guidance on migrating an application to Azure.
-
-(Add links to each section)
+The [Microsoft Azure Well Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) provides guidance on building and migrating an application to Azure. The framework consists of five architectural "pillars": Reliability, Security, Cost Optimization, Operational Excellence, and Performance Efficiency.
 
 ### Reliability
 
+Reliability is the ability to keep an application or service running, to anticipate failures, and to have a plan to recover quickly from those failures.
+
+You can learn more about improving reliability in Azure applications [here](https://docs.microsoft.com/en-us/azure/architecture/framework/#reliability).
+
 ### Security
+
+Security is an important pillar when architecting any application, whether or not it is in Azure. A key principle to keep in mind when designing your application is "Zero Trust" - never assume you can trust the person or account accessing your application.
+
+You can learn more about improving security [here](https://docs.microsoft.com/en-us/azure/architecture/framework/#security).
 
 ### Cost Optimization
 
+Azure resources can provide, but they cost money. This pillar helps you maximize the value for the price you are paying: Are you getting sufficient value for money outlayed and are there ways to save money, while still meeting your needs?
+
+You can learn more about optimizing cost in Azure applications [here](https://docs.microsoft.com/en-us/azure/architecture/framework/#cost-optimization).
+
 ### Operational Excellence
 
+Operational Excellence refers to the ability to deploy an application reliably and to verify that deployment.
+
+You can learn more about improving operational excellence in Azure applications [here](https://docs.microsoft.com/en-us/azure/architecture/framework/#operational-excellence).
+
 ### Performance Efficiency
+
+There are two ways to increase performance and capacity: Scaling up (increasing the power of your servers) and scaling out (increasing the number of nodes).
+
+You can learn more about improving performance efficiency in Azure applications [here](https://docs.microsoft.com/en-us/azure/architecture/framework/#performance-efficiency).
 
 ## Solution Tech Review
 
