@@ -46,7 +46,6 @@ tags:
 ### Plan
 
 (What are the steps and the order?)
-(See slide 46 of Taxonomy deck)
 
 #### App Migration Planning
 
