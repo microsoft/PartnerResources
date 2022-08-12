@@ -61,6 +61,10 @@ tags:
 <!-- * [SQL Migration](https://docs.microsoft.com/en-us/sql/sql-server/migrate/?view=sql-server-2017) -->
 * [Choosing Your Database Migration Path](https://azure.microsoft.com/en-us/resources/choosing-your-database-migration-path-to-azure/)
 
+##### Migrate SQL open source DB to Azure DB
+
+##### Migrate NoSQL open source DB to CosmosDB
+
 ### Cloud Modernization
 
 (Automate move from on-prem to Azure. What are considerations?)
@@ -112,6 +116,12 @@ Metrics
 
 ## Tech Briefing
 
+(Assigned to David G)
+
+The [Azure Well Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) provides guidance on migrating an application to Azure.
+
+(Add links to each section)
+
 ### Reliability
 
 ### Security
@@ -124,9 +134,12 @@ Metrics
 
 ## Solution Tech Review
 
+(Assigned to Mike R)
+
 ## Build & Assist
+
+(Assigned to Mike R)
 
 ## Roadmap Planning
 
-## Migration Tools & Frameworks
-
+(Assigned to Mike R)
