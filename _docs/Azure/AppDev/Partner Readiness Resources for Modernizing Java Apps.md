@@ -56,6 +56,30 @@ tags:
 <!-- * [Apps Migration Considerations](https://docs.microsoft.com/en-us/dotnet/azure/migration/app-service) -->
 * [Choosing an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?_lrsc=e623b82d-6c35-449e-9ff0-8cc81a0819e3)
 
+The following Azure services can host a Java application. Consider which is appropriate for the current solution.
+
+* Azure Spring Apps
+* Azure App Service
+* Azure Kubernetes Service
+
+##### Azure Spring Apps
+
+Azure Spring Apps is a Platform as a Service (PAAS) offering providing hosting, configuration, and Applicatino Lifecycle Management, specifically designed for hosting Java Spring applications.
+
+Read more about Azure Spring Apps [here](https://azure.microsoft.com/en-us/services/spring-apps/).
+
+##### Azure App Service
+
+Azure App Service is a PAAS offering that hosts web applications, REST APIs, and mobile backends. Code can be deployed from a Java application or a number of other languages and platforms.
+
+Read more about Azure App Service [here](https://docs.microsoft.com/en-us/azure/app-service/).
+
+##### Azure Kubernetes Service
+
+Azure Kubernetes Service is a service that allows you to manage Kubernetes clusters within Azure. It supports any application that can run in a container, including Java applications.
+
+Read more about Azure Kubernetes Service [here](https://docs.microsoft.com/en-us/azure/aks/).
+
 #### Database Migration Planning
 
 <!-- * [SQL Migration](https://docs.microsoft.com/en-us/sql/sql-server/migrate/?view=sql-server-2017) -->
