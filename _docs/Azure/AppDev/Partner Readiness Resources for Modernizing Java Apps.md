@@ -116,8 +116,6 @@ Metrics
 
 ## Tech Briefing
 
-(Assigned to David G)
-
 The [Microsoft Azure Well Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) provides guidance on building and migrating an application to Azure. The framework consists of five architectural "pillars": Reliability, Security, Cost Optimization, Operational Excellence, and Performance Efficiency.
 
 ### Reliability
