@@ -1,5 +1,6 @@
 - title: Readiness Resources
-  url: ""
+  url: "readiness-resources/"
+  tag: readiness
   links:
     - title: "Azure"
       url: "azure"
@@ -78,7 +79,7 @@
           url: "modern-workplace/security"
           tag: security
 - title: Skilling & Hands-on
-  url: ""
+  url: "skilling/"
   tag: workshop
   links:
     - title: "AVS Hands-on Labs"
