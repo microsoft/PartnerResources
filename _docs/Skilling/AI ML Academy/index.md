@@ -28,13 +28,11 @@ tags:
 
 Welcome to the AI & ML Academy (AIMLA)! 
 
-The AI & ML Academy consists of several modules designed to illustrate and upskill on modern techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore ... 
-
-The content is designed to be highly integrated but loosely coupled: each module stands on its own, while collectively representing a cohesive piece of modern-day AI and ML solutions. If you just want to dive into **replace with AI/ML services...** Power BI or Data Governance, for example, you can simply pick those modules. Those new to Azure or AI in general may prefer to work through all modules, starting with the Overview.
+Welcome to the AI and ML Academy! This academy includes 5 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions.
 
 ## Live Schedule
 
-We'll update this section with our upcoming vignette series available as a webcast and all content will be included here.
+We'll update this section with our upcoming Partner prep series and AI shows available as a webcast and all content will be included here.
 
 ## Table of Contents
 
@@ -103,12 +101,6 @@ Want to go hands-on with a fully provisioned environment? Check out our AI & ML 
 The lab environments available are listed below. The source content is available if you'd like to see what's covered in each lab -- however, the lab environment will display all of this info for you as you progress through the lab. Once the lab environment is started, there is a limited time to complete the lab due to the number of resources provisioned. If you'd like to keep all of the assets as you go through the lab, we recommend following the lab guides listed below and deploy the resources into your Azure account. 
 -->
 
-| Lab Name | Time | Content | 
-|---|---|---|
-| Azure Synapse Analytics and AI | 8 hours | [Lab](https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI/blob/master/Hands-on%20lab/HOL%20step-by%20step%20-%20Azure%20Synapse%20Analytics%20and%20AI.md) |
-| Analytics In a Day - Synapse | 4 hours | [Lab](https://github.com/solliancenet/azure-synapse-analytics-day) |
-| Simplifying data flows with Azure Data Factory | 8 hours | [Lab](https://github.com/solliancenet/tech-immersion-data-ai/blob/master/data-exp5/README.md) |
-| Modern Data Warehouse with Azure Synapse Analytics, <br />Azure Databricks, Azure Data Factory, and Power BI | 4 hours | [Lab](https://github.com/solliancenet/tech-immersion-data-ai/blob/master/data-exp6/README.md) |
 
 ## Contributions
 
