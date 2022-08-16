@@ -17,11 +17,12 @@ tags:
 
 Welcome to the AI & ML Academy (AIMLA) - Prebuilt AI!
 
-In this module, we’ll look at general purpose AI Cognitive Services (including Azure OpenAI) and customization options.
+In this section we will go through an overview of the AI Cognitive Services pillars and what services reside within each of them. There is also a level of customization that can be achieved in each of these pillars through services like Custom Vision and Custom Speech that we will introduce.  Finally, we provide some best practices for each of these services.
 
 ## AI Cognitive Services
 
 Coming soon! (Can break into sub-sections, where needed)
+
 
 ### Vision 
 
