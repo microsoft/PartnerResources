@@ -23,7 +23,37 @@ In this section we will go through an overview of the AI Cognitive Services pill
 
 Coming soon! (Can break into sub-sections, where needed)
 
+<!--
+```html
+<!DOCTYPE html>
+<html>
+  <style>
+    body {
+        block {
+      display: inline-block;
+      width: 200px;
+      height: 200px;
+      background-color: lightgray;
+        }
+      container  {
+  text-align: center;
+    }
+    }
+  </style>
+  <body>
+    <pre>
+      <div class="container">
+          <div class="block"></div>
+          <div class="block"></div>
+          <div class="block"></div>
+          <div class="block"></div>
+      </div>
+    </pre>
+  </body>
+</html>
 
+```
+-->
 ### Vision 
 
 Coming soon
