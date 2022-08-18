@@ -86,7 +86,7 @@
       url: "skilling/infrastructure/avs-hands-on-labs"
       tag: avshol
     - title: "Azure Data Academy"
-      url: "skilling/data-analytics-ai/azure-data-academy"
+      url: "skilling/azure-data-academy"
       tag: ada
     - title: "Modern Analytics Academy"
       url: "skilling/modern-analytics-academy"
