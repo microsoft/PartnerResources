@@ -4,6 +4,7 @@ title: Azure Data Academy
 description: The Azure Data Academy is a series of presentations and hands-on material designed to upskill partners on data modernization in Microsoft Azure.
 permalink: /skilling/azure-data-academy
 redirect_from:
+  - /skilling/azure-data-academy/
   - /skilling/data-analytics-ai/azure-data-academy
 showbreadcrumb: true
 includemethod: all
