@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Business Central Academy
+title: D365 Business Central Academy
 description: Description of the academy.
 permalink: /skilling/business-central-academy
 redirect_from:
