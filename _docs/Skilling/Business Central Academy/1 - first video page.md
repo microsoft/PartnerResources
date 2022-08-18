@@ -3,7 +3,7 @@ layout: page
 title: First Video Page
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 updated: 2022-08-18
-permalink: /skilling/business-centeral-academy/page-1
+permalink: /skilling/business-central-academy/page-1
 youtubeid: fzVROh-xgto
 tags: 
 - business central academy

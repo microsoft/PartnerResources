@@ -2,9 +2,9 @@
 layout: page
 title: Business Central Academy
 description: Description of the academy.
-permalink: /skilling/business-centeral-academy
+permalink: /skilling/business-central-academy
 redirect_from:
-  - /skilling/business-centeral-academy/
+  - /skilling/business-central-academy/
 showbreadcrumb: true
 includemethod: all
 includeplans:
