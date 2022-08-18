@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D365 Business Central Academy
+title: D365 Business Central Presales Academy
 description: Description of the academy.
 permalink: /skilling/business-central-academy
 redirect_from:
