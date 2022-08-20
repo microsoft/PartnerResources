@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Demo Video Page
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+title: How to demo - Integrating Outlook and Business Central
+description: Business Central offers an add-in for Microsoft Outlook that allows users to streamline business interactions with  customers and vendors, directly in Microsoft Outlook. With the Business Central add-in for Outlook, users can see financial data related to customers and vendors, and quickly create and send financial documents, such as quotes and invoices from inbound emails.
 updated: 2022-08-18
 permalink: /skilling/business-central-academy/page-2
 youtubeid: fzVROh-xgto
