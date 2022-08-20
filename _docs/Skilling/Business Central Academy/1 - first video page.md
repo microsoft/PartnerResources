@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Configure Video Page
+title: How to configure your demo - Integrating Outlook and Business Central
 description: Guides you through the steps to install the Outlook add-in to allow you to take advantage of the ability to manage business interactions with customers and vendors directly in Microsoft Outlook. 
 updated: 2022-08-18
 permalink: /skilling/business-central-academy/page-1
