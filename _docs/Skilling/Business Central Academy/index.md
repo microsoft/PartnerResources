@@ -3,8 +3,6 @@ layout: page
 title: D365 Business Central Presales Academy
 description: Description of the academy.
 permalink: /skilling/business-central-academy-oldindex
-redirect_from:
-  - /skilling/business-central-academy/
 showbreadcrumb: true
 includemethod: all
 includeplans:
