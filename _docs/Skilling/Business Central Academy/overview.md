@@ -13,11 +13,11 @@ includeplans:
 
 {% include_relative header.md %}
 
-* [Overview](/skilling/business-central-academy)
-* [D365](/skilling/business-central-academy-d365)
-* [Power BI](/skilling/business-central-academy-powerbi)
-* [Outlook](/skilling/business-central-academy-outlook)
-* [PVA](/skilling/business-central-academy-pva)
+* [Overview](/PartnerResources/skilling/business-central-academy)
+* [D365](/PartnerResources/skilling/business-central-academy-d365)
+* [Power BI](/PartnerResources/skilling/business-central-academy-powerbi)
+* [Outlook](/PartnerResources/skilling/business-central-academy-outlook)
+* [PVA](/PartnerResources/skilling/business-central-academy-pva)
 
 
 This is the new overview page....
