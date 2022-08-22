@@ -13,6 +13,7 @@ includeplans:
 
 {% include_relative header.md %}
 
+## Sessions
 * [Overview](/PartnerResources/skilling/business-central-academy)
 * [D365](/PartnerResources/skilling/business-central-academy-d365)
 * [Power BI](/PartnerResources/skilling/business-central-academy-powerbi)
