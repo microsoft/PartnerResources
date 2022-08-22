@@ -7,6 +7,7 @@ permalink: /skilling/business-central-academy/page-1
 youtubeid: fzVROh-xgto
 tags: 
 - business central academy
+- outlook
 ---
 
 # {{ page.title }}

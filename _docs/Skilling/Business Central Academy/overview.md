@@ -2,7 +2,7 @@
 layout: page
 title: D365 Business Central Presales Academy
 description: Description of the academy.
-permalink: /skilling/business-central-academy-oldindex
+permalink: /skilling/business-central-academy
 redirect_from:
   - /skilling/business-central-academy/
 showbreadcrumb: true
@@ -12,6 +12,10 @@ includeplans:
 ---
 
 {% include_relative header.md %}
+
+nav to other pages here
+
+This is the new overview page....
 
 ## Sessions
 
