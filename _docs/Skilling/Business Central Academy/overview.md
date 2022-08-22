@@ -19,11 +19,6 @@ includeplans:
 * [Outlook](/PartnerResources/skilling/business-central-academy-outlook)
 * [PVA](/PartnerResources/skilling/business-central-academy-pva)
 
-
-This is the new overview page....
-
 ## Sessions
-
-{% include series.md %}
 
 {% include_relative footer.md %}
