@@ -2,9 +2,7 @@
 
 Additional supporting resources.
 
-* [Get the Outlook Add-in](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-outlook)
-* [Synchronize Contacts](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-synchronize-outlook-contacts)
+* Dynamics 365 Roadmap [Follow the Dynamics 365 Roadmap](https://roadmap.dynamics.com)
+* Follow Business Central Twitter Feed [Follow Twitter Feed] (https://twitter.com/MSDYN365BC)
+* Bookmark BC Docs [Bookmark docs.microsoft.com] (https://docs.microsoft.com/en-us/dynamics365/business-central/)
 
-## Sample Section
-
-Another sample section
