@@ -14,9 +14,9 @@ includeplans:
 
 ## Videos
 
-Want to learn how to integrate Outlook in your BC demo environment to highlight demos such as Quote-to-Cash or Procure-to-Pay from an email in your Outlook inbox.
+Configure Microsoft Outlook in your Business Central demo environment to highlight demos such as Quote-to-Cash or Procure-to-Pay from an email in your Outlook inbox.
 
-These two videos provide pre-sales engineers guidance on how to demonstrate the integrated experience betweeen Microsoft Oulook and Business Central and how to configure your own environment.
+These two videos provide pre-sales engineers guidance on how to demonstrate the integrated experience betweeen Oulook and Business Central and how to configure in your own demo environment.
 
 {% include series.md %}
 
