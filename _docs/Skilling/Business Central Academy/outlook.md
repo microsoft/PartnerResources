@@ -18,7 +18,5 @@ These two videos provide pre-sales engineers guidance on how to demonstrate the 
 
 ## Supporting Resources
 
-Additional supporting resources.
-
 * Read more about how to install the Outlook Add-in (https://docs.microsoft.com/en-us/dynamics365/business-central/admin-outlook)
 * Learn how to Synchronize Contacts (https://docs.microsoft.com/en-us/dynamics365/business-central/admin-synchronize-outlook-contacts)
