@@ -88,6 +88,9 @@
     - title: "Azure Data Academy"
       url: "skilling/azure-data-academy"
       tag: azure data academy
+    - title: "Data Governance Academy"
+      url: "skilling/data-governance-academy"
+      tag: dga
     - title: "Modern Analytics Academy"
       url: "skilling/modern-analytics-academy"
       tag: modern analytics academy
