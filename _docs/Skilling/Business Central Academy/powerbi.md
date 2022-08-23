@@ -7,7 +7,7 @@ showbreadcrumb: true
 includemethod: all
 includeplans:
 - business central academy
-- power bi
+- outlook
 - demo
 ---
 
