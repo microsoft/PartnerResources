@@ -9,14 +9,13 @@ includeplans:
 - business central academy
 - power bi
 - demo
-- configure
 ---
 
 # {{ page.title }}
 
 ## Videos
 
-Connect Power BI in your Business Central demo environment in order to deliver demos which include insights and data visualizations originating from BC data. 
+Connect Power BI in your Business Central demo environment in order to deliver demos which include deep insights and rich data visualizations originating from BC data. 
 
 These two videos provide pre-sales engineers guidance on how to demonstrate the integrated experience betweeen Power BI and Business Central and how to configure in your own demo environment.
 
