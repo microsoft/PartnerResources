@@ -5,7 +5,7 @@ description: The Data Governance Academy is a series of presentations and hands-
 permalink: /skilling/data-governance-academy
 redirect_from:
   - /skilling/data-governance-academy/
-showbreadcrumb: true
+showbreadcrumb: false
 includemethod: all
 includeplans:
 - data governance academy
