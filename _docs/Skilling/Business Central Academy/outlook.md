@@ -16,8 +16,9 @@ Business Central offers an add-in for Microsoft Outlook that allows users to str
 
 These two videos provide pre-sales engineers guidance on how to demonstrate the integrated experience betweeen Microsoft Oulook and Business Central and how to configure your own environment. 
 
-## Sessions
+## Supporting Resources
 
-{% include series.md %}
+Additional supporting resources.
 
-{% include_relative footer.md %}
+* [Get the Outlook Add-in](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-outlook)
+* [Synchronize Contacts](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-synchronize-outlook-contacts)
