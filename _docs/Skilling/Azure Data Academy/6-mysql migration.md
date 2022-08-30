@@ -24,7 +24,7 @@ Since this video was posted, the MySQL team at Microsoft has released MySQL Repl
 
 ## Session Details
 
-* [Presentation Deck]({{ site.baseurl }}/assets/ada/Azure%20DB%20for%20MySQL%20Migration.pdf)
+* [Presentation Deck]({{ site.baseurl }}/assets/ada/Azure%20DB%20Flexible%20Server%20Migration.pdf)
 * [Playlist for all Azure Data Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjlOS4hbINKqLVBafb5yD5Rm)
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
