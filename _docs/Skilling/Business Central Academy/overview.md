@@ -15,10 +15,10 @@ includeplans:
 
 ## Sessions
 * [Overview](/PartnerResources/skilling/business-central-academy)
-* [D365](/PartnerResources/skilling/business-central-academy-d365)
-* [Power BI](/PartnerResources/skilling/business-central-academy-powerbi)
-* [Outlook](/PartnerResources/skilling/business-central-academy-outlook)
-* [PVA](/PartnerResources/skilling/business-central-academy-pva)
+* [Business Central & Dynamics 365 Sales](/PartnerResources/skilling/business-central-academy-d365)
+* [Business Central & Power BI](/PartnerResources/skilling/business-central-academy-powerbi)
+* [Business Central & Outlook](/PartnerResources/skilling/business-central-academy-outlook)
+* [Business Central & PVA](/PartnerResources/skilling/business-central-academy-pva)
 
 ## Sessions
 
