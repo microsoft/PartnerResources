@@ -12,8 +12,6 @@ includeplans:
 
 # {{ page.title }}
 
-## Videos
-
 Connect Dynamics 365 Sales in your Business Central demo environment to highlight demos such as Lead-to-Cash.
 
 These two videos provide pre-sales engineers guidance on how to demonstrate the integrated experience betweeen Dynamics 365 Sales and Business Central and also how to connect and synchronize the data between apps.
