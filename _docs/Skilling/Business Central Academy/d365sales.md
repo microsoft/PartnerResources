@@ -14,13 +14,14 @@ includeplans:
 
 ## Videos
 
-Connect Dynamics 365 Sales in your Business Central demo environment to highlight demos such as Quote-to-Cash leveraging both apps. 
+Connect Dynamics 365 Sales in your Business Central demo environment to highlight demos such as Lead-to-Cash by leveraging both apps. 
 
-These two videos provide pre-sales engineers guidance on how to demonstrate the integrated experience betweeen Dynamics 365 Sales and Business Central and how to connect and sychrnonbize data in your own demo environment.
+These two videos provide pre-sales engineers guidance on how to demonstrate the integrated experience betweeen Dynamics 365 Sales and Business Central and also how to connect and sychrnonbize data in your own demo environment.
 
 {% include series.md %}
 
-Integrating Business Central and Dynamics 365 Sales, you can give your sales people insights they need to perform their job in their preferred licensed app. The integration will let people view information in Business Central while working in Dynamics 365 Sales.
+Integrating Business Central and Dynamics 365 Sales gives your sales people insights they need to perform their job in their preferred app. The integration will let people view information in Business Central while working in Dynamics 365 Sales. This allows Business Central to process backend tasks such as processing orders and managing inventory. 
+
 ### Supporting Resources
 
 * Read more about how to install the Outlook Add-in [https://docs.microsoft.com/en-us/dynamics365/business-central/admin-outlook](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-outlook)
