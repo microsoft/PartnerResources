@@ -21,7 +21,7 @@ The Modern Analytics Academy core sessions consist of the original sessions crea
 
 {% include series.md 
     includetags="modern analytics academy|main series" includemethod="all" 
-    removetags="azure|data, analytics, and ai|modern analytics academy|main series" 
+    removetags="azure|data, analytics, and ai|modern analytics academy|main series|academy content" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="true"
     visualstyle="normal"
 %}
