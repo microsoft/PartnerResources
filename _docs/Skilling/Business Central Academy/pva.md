@@ -12,14 +12,16 @@ includeplans:
 
 # {{ page.title }}
 
-Explore the integrated experience by connecting Business Central with Power Virtual Agent, Microsoft Teams and Power Automate. The scenario is a customer onboarding process.
+Explore the integrated experience of connecting Business Central with Power Virtual Agent, Microsoft Teams and Power Automate. The scenario is based on a customer onboarding process.
 
 These two videos provide pre-sales engineers guidance on how to demonstrate and configure the integrated experience betweeen Business Central and the other Microsoft Cloud apps.
 
 {% include series.md %}
 
-With the Business Central add-in for Outlook, users can see financial data related to customers and vendors, and quickly create and send financial documents, such as quotes and invoices from inbound emails.
+Power Virtual Agents lets you create powerful AI-powered chatbots for a range of requests—from providing simple answers to common questions to resolving issues requiring complex conversations.
 
-### Supporting Resources
+### Supporting Resources for these sessions
 
-* Read more about how the Business Central and Power Automate connector [https://docs.microsoft.com/en-us/dynamics365/business-central/across-how-use-financials-data-source-flow](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-outlook)
+* [https://docs.microsoft.com/en-us/dynamics365/business-central/across-how-use-financials-data-source-flow] (Read more about how the Business Central and Power Automate connector)
+* [https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents] (Intro to Power Virtual Agents)
+* [https://docs.microsoft.com/en-us/power-virtual-agents/teams/fundamentals-what-is-power-virtual-agents-teams] (Overview of Power Vritual Agents inside Teams)
