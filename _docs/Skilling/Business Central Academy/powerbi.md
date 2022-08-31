@@ -21,8 +21,8 @@ These two videos provide pre-sales engineers guidance on how to demonstrate the 
 
 Power BI provides a flexible alternative to reports built in Business Central, enabling you to drill down and customize the visualization, and also merge data from different companies in Business Central.
 
-### Supporting Resources
+### Supporting Resources for these videos
 
-* Read more about the Power BI Integration Component and Architecture for Business Central [https://docs.microsoft.com/en-us/dynamics365/business-central/admin-powerbi-overview](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-powerbi-overview)
+* [https://docs.microsoft.com/en-us/dynamics365/business-central/admin-powerbi-overview](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-powerbi-overview) Read more about the Power BI Integration Component and Architecture for Business Central
 
-* Power BI and Business Central FAQ [https://docs.microsoft.com/en-us/dynamics365/business-central/power-bi-faq?tabs=general](https://docs.microsoft.com/en-us/dynamics365/business-central/power-bi-faq?tabs=general)
+* [https://docs.microsoft.com/en-us/dynamics365/business-central/power-bi-faq?tabs=general](https://docs.microsoft.com/en-us/dynamics365/business-central/power-bi-faq?tabs=general) Power BI and Business Central FAQ 
