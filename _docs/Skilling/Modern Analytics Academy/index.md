@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Modern Analytics Academy Home
+title: Modern Analytics Academy - Home
 description: Workshop focused on Modern Analytics
 permalink: /skilling/modern-analytics-academy
 redirect_from:
@@ -12,6 +12,7 @@ showbreadcrumb: true
 tags:
 - azure
 - data, analytics, and ai
+- modern analytics academy
 - synapse
 - workshop
 ---
@@ -22,19 +23,26 @@ Welcome to the Modern Analytics Academy (MAA)!
 
 The Modern Analytics Academy consists of several modules designed to illustrate and upskill on modern techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. 
 
-## Main Sessions
+We've organized the content into a few key areas:
+* [Main Sessions](/PartnerResources/skilling/modern-analytics-academy/core-sessions) The original main sessions designed to be a soup-to-nuts overview of a modern analytics solution
+* [Hands-on Content](/PartnerResources/skilling/modern-analytics-academy/hands-on) Recommended labs, workshops, and other hands-on material
+* [Vignettes](/PartnerResources/skilling/modern-analytics-academy/vignettes) Our ongoing series that dives into analytics-related topics
+
+## Core Sessions
+
+For a more immersive list with full descriptions, visit the [core sessions](/PartnerResources/skilling/modern-analytics-academy/core-sessions) page.
 
 {% include series.md 
     includetags="modern analytics academy|main series" includemethod="all" 
     removetags="azure|data, analytics, and ai|modern analytics academy|main series" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
-    visualstyle="compact"
+    visualstyle="supercompact"
 %}
 
 ## Ongoing "Vignette" Sessions
 
-Our ongoing Modern Analytics Academy series, which we've called "vignettes", dive into topical areas related to analytics. The list of sessions is below, and you can refer to our
-[vignette page](/PartnerResources/skilling/modern-analytics-academy/vignettes) for an expanded list with descriptions and videos.
+Our ongoing Modern Analytics Academy series, which we've called "vignettes", dive into topical areas related to analytics. For a more immersive list of sessions, visit the 
+[vignette page](/PartnerResources/skilling/modern-analytics-academy/vignettes) for an expanded list with descriptions and thumbmails.
 
 {% include series.md 
     includetags="modern analytics academy|vignettes" includemethod="all" 
@@ -44,6 +52,8 @@ Our ongoing Modern Analytics Academy series, which we've called "vignettes", div
 %}
 
 ## Suggested Labs
+
+Each session may have recommended hands-on material that will be listed on each session page. A quick list of recommended labs is below - for a complete list of hands-on content, visit the [hands-on page](/PartnerResources/skilling/modern-analytics-academy/hands-on).
 
 | Lab Name | Time | Content | 
 |---|---|---|
