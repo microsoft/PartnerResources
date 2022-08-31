@@ -1,34 +1,37 @@
 ---
 layout: page
 title: Modern Analytics Academy - Data Pipelines
-description: Workshop focused on Modern Analytics - Data Pipelines
+sorttitle: 3 Modern Analytics Academy - Data Pipelines
+description: In Data Pipelines, we'll look at the definition and key concepts of creating a data pipeline. We will dive into four Microsoft cloud resources, including Azure Data Factory, Azure Synapse Data Pipelines, Power BI Data Flow, and Azure Streaming Analytics. Lastly, we will review the comparison metrics to help you decide which service to choose for your scenario.
+updated: 2021-12-16
 permalink: /skilling/modern-analytics-academy/data-pipelines
 redirect_from:
   - /azure/data-analytics-ai/modern-analytics-academy-data-pipelines
   - /skilling/data-analytics-ai/modern-analytics-academy-data-pipelines
-updated: 2021-12-16
 showbreadcrumb: true
+youtubeid: tW2EmBZf25s
 tags: 
 - azure
 - data, analytics, and ai
+- modern analytics academy
+- main series
 - synapse
 - azure data factory
-- workshop
 ---
 
 # Modern Analytics Academy - Data Pipelines
 
 Welcome to the Modern Analytics Academy (MAA) - Data Pipeline!
 
-In Data Pipeline, we'll look at the definition and key concepts of Data Pipeline. Also, We will dive into 4 Microsoft cloud resources, including Azure Data Factory, Azure Synapse Data Pipeline, Power BI Data Flow, and Azure Streaming Analytics. In each technology showcase session, we will cover what it is and provide a demo. Lastly, we will review the comparison metrics to help you decide which service to choose for your scenario.
+In Data Pipeline, we'll look at the definition and key concepts of creating a data pipeline. We will dive into four Microsoft cloud resources, including Azure Data Factory, Azure Synapse Data Pipelines, Power BI Data Flow, and Azure Streaming Analytics. Lastly, we will review the comparison metrics to help you decide which service to choose for your scenario.
 
 ## Main Presentation
 
 * [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Data%20Pipelines.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
-* [Modern Analytics Academy - Data Modeling](https://www.youtube.com/watch?v=tW2EmBZf25s)
+* [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
-[![Modern Analytics Academy Data Modeling](https://img.youtube.com/vi/tW2EmBZf25s/0.jpg)](https://www.youtube.com/watch?v=tW2EmBZf25s)
+[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 ## Hands-on Content
 

@@ -1,18 +1,23 @@
 ---
 layout: page
 title: Modern Analytics Academy - Acquisition and Storage
-description: Workshop focused on Modern Analytics - Acquisition and Storage
+sorttitle: 1 Modern Analytics Academy - Acquisition and Storage
+description: In Data Acquisition and Storage we’ll look at the nuances of how to integrate source systems to move data into Azure for long term retention and analysis. Technologies include Azure Data Lake, Azure Cosmos DB, Azure Event Hubs, and Azure Synapse Analytics.
+updated: 2021-12-16
 permalink: /skilling/modern-analytics-academy/data-acquisition
 redirect_from:
   - /skilling/data-analytics-ai/modern-analytics-academy-data-acquisition
   - /azure/data-analytics-ai/modern-analytics-academy-data-acquisition
-updated: 2021-12-16
 showbreadcrumb: true
+youtubeid: sdiaojWtz1Y
 tags: 
 - azure
 - data, analytics, and ai
+- modern analytics academy
+- main series
 - synapse
-- workshop
+- data lake
+- data acquisition
 ---
 
 # Modern Analytics Academy - Data Acquisition and Storage
@@ -25,9 +30,9 @@ In Data Acquisition and Storage we’ll look at the nuances of how to integrate 
 
 * [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Data%20Acquisition%20and%20Storage.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
-* [Modern Analytics Academy - Data Acquisition and Storage](https://www.youtube.com/watch?v=sdiaojWtz1Y)
+* [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
-[![Modern Analytics Academy Data Acquisition and Storage](https://img.youtube.com/vi/sdiaojWtz1Y/0.jpg)](https://www.youtube.com/watch?v=sdiaojWtz1Y)
+[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 
 ## Hands-on Content

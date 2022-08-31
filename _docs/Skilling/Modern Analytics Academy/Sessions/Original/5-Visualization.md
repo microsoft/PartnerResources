@@ -1,33 +1,37 @@
 ---
 layout: page
 title: Modern Analytics Academy - Visualization
-description: Workshop focused on Modern Analytics - Data Pipelines
+sorttitle: 5 Modern Analytics Academy - Visualization
+description: In this session, we dive into Power BI, from feature overview, creating compelling dashboards, and best practices.
+updated: 2022-08-31
 permalink: /skilling/modern-analytics-academy/data-visualization
 redirect_from:
   - /azure/data-analytics-ai/modern-analytics-academy-data-visualization
   - /skilling/data-analytics-ai/modern-analytics-academy-data-visualization
-updated: 2021-12-16
 showbreadcrumb: true
+youtubeid: eHswo4mPAiI
 tags: 
 - azure
 - data, analytics, and ai
+- modern analytics academy
+- main series
 - synapse
-- workshop
+- power bi
 ---
 
 # Modern Analytics Academy - Data Visualization
 
 Welcome to the Modern Analytics Academy (MAA) - Visualization session!
 
-In this session, we dive into Power BI.
+In this session, we dive into Power BI, from feature overview, creating compelling dashboards, and best practices.
 
 ## Main Presentation
 
 * [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Visualization.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
-* [Modern Analytics Academy - Visualization](https://www.youtube.com/watch?v=eHswo4mPAiI)
+* [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
-[![Modern Analytics Academy Visualization](https://img.youtube.com/vi/eHswo4mPAiI/0.jpg)](https://www.youtube.com/watch?v=eHswo4mPAiI)
+[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 ## Resources
 
