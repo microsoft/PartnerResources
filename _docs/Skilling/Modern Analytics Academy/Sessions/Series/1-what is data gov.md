@@ -8,6 +8,7 @@ youtubeid: OWrO3XmKxqQ
 tags: 
 - azure
 - data, analytics, and ai
+- academy content
 - modern analytics academy
 - vignettes
 - purview
