@@ -3,7 +3,7 @@ layout: page
 title: Modern Analytics Academy - Visualization
 sorttitle: 5 Modern Analytics Academy - Visualization
 description: In this session, we dive into Power BI, from feature overview, creating compelling dashboards, and best practices.
-updated: 2022-08-31
+updated: 2021-12-16
 permalink: /skilling/modern-analytics-academy/data-visualization
 redirect_from:
   - /azure/data-analytics-ai/modern-analytics-academy-data-visualization
