@@ -17,11 +17,10 @@ tags:
 
 Welcome to the AI & ML Academy (AIMLA) - Applied AI!
 
-In this module, we’ll look at Applied AI services, including Form Recognizer, Metrics Advisor, Cognitive Search, Video Analyzer, Bot service, Immersive Reader, and more.
+In this module, we’ll look at Applied AI services, including Form Recognizer, Metrics Advisor, Cognitive Search, Video Indexer, Personalizer, Anomaly Detector, and Power Virtual Agents. 
 
 ## Applied AI
 
-Coming soon! (Break into sub-sections, where needed)
 
 ### Form Recognizer 
 
