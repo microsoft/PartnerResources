@@ -17,10 +17,10 @@ tags:
 
 Welcome to the AI & ML Academy - ML Engineering in Production (MLOps)!
 
-Machine learning operations (MLOps) applies DevOps principles and techniques to machine learning projects and help in efficiently scaling your project from experimentation to production. This module illustrates key DevOps concepts such as source control, automation, and CI/CD to build an end-to-end MLOps solution using popular tools such as Azure DevOps and GitHub Actions.
+Machine learning Operations (MLOps) applies DevOps principles and techniques to machine learning projects and help in efficiently scaling your project from experimentation to production. This module illustrates key DevOps concepts such as source control, automation, and CI/CD to build an end-to-end MLOps solution using popular tools such as Azure DevOps and GitHub Actions.
 
 
-## Getting Started
+## Getting Started - A Journey, not a Destination!
 
 * [Introduction to MLOps](https://docs.microsoft.com/en-us/learn/paths/introduction-machine-learn-operations/) - this is a great resource if you are new to MLOps and looking for a learning resource for a decent understanding of the process.
 * [MLOps Best Practices](MLOps (microsoft.com)) - this is a one-pager infographic that walks through 5 best practices to optimize your MLOps lifecycle on Azure.
