@@ -15,7 +15,7 @@ includeplans:
 
 **Connect Power BI** in your Business Central demo environment in order to deliver demos which include deep insights and rich data visualizations originating from Business Central data. 
 
-These two videos provide pre-sales engineers guidance on how to demonstrate and configure the integrated experience betweeen Power BI and Business Central.
+These two videos provide pre-sales engineers guidance on how to **_demonstrate_** and **_configure_** the integrated experience betweeen Power BI and Business Central.
 
 {% include series.md %}
 
@@ -23,6 +23,5 @@ Power BI provides a flexible alternative to reports built in Business Central, e
 
 ### Supporting Resources for these videos
 
-* [https://docs.microsoft.com/en-us/dynamics365/business-central/admin-powerbi-overview](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-powerbi-overview) Read more about the Power BI Integration Component and Architecture for Business Central
-
-* [https://docs.microsoft.com/en-us/dynamics365/business-central/power-bi-faq?tabs=general](https://docs.microsoft.com/en-us/dynamics365/business-central/power-bi-faq?tabs=general) Power BI and Business Central FAQ 
+* [Read more about the Power BI Integration Component and Architecture for Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-powerbi-overview)
+* [Power BI and Business Central FAQ](https://docs.microsoft.com/en-us/dynamics365/business-central/power-bi-faq?tabs=general) 
