@@ -20,7 +20,9 @@
         - include.showdate
         - include.showtags
         - include.visualstyle
-     
+        - include.includesecondarytags
+        - include.includetertiarytags
+
         For parameters, values are strings (no hyphens) 
         and delimited with | if needed. Example:
         includeplans="modern analytics academy | vignettes"
@@ -38,6 +40,8 @@
 {% assign assetsToInclude = "" | split: ',' %}
 {% assign tagsToRemove = "" | split: ',' %}
 {% assign includeMethod = "all" %}
+{% assign secondaryAssetsToInclude = "" | split: ',' %}
+{% assign tertiaryAssetsToInclude = "" | split: ',' %}
 {% assign sortField = "updated" %}
 {% assign sortOrder = "desc" %}
 {% assign showDate = "true" %}
@@ -55,6 +59,12 @@
     {% assign assetsToInclude = include.includetags | split:'|' | compact %}
     {% assign tagsToRemove = include.removetags | split:'|' | compact %}
     {% assign includeMethod = include.includemethod %}
+    {% if include.includesecondarytags %}
+        {% assign secondaryAssetsToInclude = include.includesecondarytags | split:'|' | compact %}
+    {% endif %}
+    {% if include.includetertiarytags %}
+        {% assign tertiaryAssetsToInclude = include.includetertiarytags | split:'|' | compact %}
+    {% endif %}
     {% if include.sortfield %}
         {% assign sortField = include.sortfield %}
     {% endif %}
@@ -79,6 +89,12 @@
     {% assign assetsToInclude = page.includeplans %}
     {% assign tagsToRemove = page.removetags  %}
     {% assign includeMethod = page.includemethod %}
+    {% if page.includesecondarytags %}
+        {% assign page.secondaryAssetsToInclude = page.includesecondarytags | split:'|' | compact %}
+    {% endif %}
+    {% if page.includetertiarytags %}
+        {% assign tertiaryAssetsToInclude = page.includetertiarytags | split:'|' | compact %}
+    {% endif %}
     {% if page.sortfield %}
         {% assign sortField = page.sortfield %}
     {% endif %}
@@ -138,28 +154,52 @@
 
 {% if includeMethod == 'all' %}
     {% for doc in filtered_docs %}
-    {% unless doc.tags contains "deprecated" %}
-    {% assign uniquedoctags = doc.tags | uniq | sort %}
+        {% unless doc.tags contains "deprecated" %}
+        {% assign uniquedoctags = doc.tags | uniq | sort %}
+        {% assign concatplans = uniquedoctags | concat: assetsToInclude | uniq %}
 
-    {% assign concatplans = uniquedoctags | concat: assetsToInclude | uniq %}
-    {% comment %}
-        To see if a document is a match, we'll concat assetsToInclude and doc.tags --
-        if they have the same number of tags, the document matches the filter so will be included
-    {% endcomment %}
-    {% if uniquedoctags.size == concatplans.size %}
-    {% assign current_docs = current_docs | push: doc %}
-    {% endif %}
-    {% endunless %}
+        {% comment %}
+            To see if a document is a match, we'll concat assetsToInclude and doc.tags --
+            if they have the same number of tags, the document matches the "include all" 
+            filter so will be included in results
+        {% endcomment %}
+        {% if uniquedoctags.size == concatplans.size %}
+        {% assign current_docs = current_docs | push: doc %}
+        {% endif %}
+
+        {% comment %}
+            To support mingling of additional tag sets, use secondaryAssetsToInclude
+            and tertiaryAssetsToInclude to keep a second set of tags to match. 
+            This allows functionality like 'doc must match tags one,two,three OR six,seven'
+        {% endcomment %}
+        {% if secondaryAssetsToInclude.size > 0 %}
+            {% assign concatplans = uniquedoctags | concat: secondaryAssetsToInclude | uniq %}
+            {% if uniquedoctags.size == concatplans.size %}
+            {% assign current_docs = current_docs | push: doc %}
+            {% endif %}
+        {% endif %}
+        {% if tertiaryAssetsToInclude.size > 0 %}
+            {% assign concatplans = uniquedoctags | concat: tertiaryAssetsToInclude | uniq %}
+            {% if uniquedoctags.size == concatplans.size %}
+            {% assign current_docs = current_docs | push: doc %}
+            {% endif %}
+        {% endif %}
+
+        {% endunless %}
     {% endfor %}
 {% else %}
     {% for doc in filtered_docs %}
-    {% for includetag in assetsToInclude %}
-    {% unless doc.tags contains "deprecated" %}
-    {% if doc.tags contains includetag %}
-    {% assign current_docs = current_docs | push: doc %}
-    {% endif %}
-    {% endunless %}
-    {% endfor %}
+        {% for includetag in assetsToInclude %}
+        {% unless doc.tags contains "deprecated" %}
+         {% comment %}
+            To see if a document is a match, we'll just verify the document contains the 
+            tag.
+        {% endcomment %}
+        {% if doc.tags contains includetag %}
+        {% assign current_docs = current_docs | push: doc %}
+        {% endif %}
+        {% endunless %}
+        {% endfor %}
     {% endfor %}
 {% endif %}
 
