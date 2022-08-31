@@ -78,17 +78,17 @@ Conceptual
 Conceptual
 
 * [Video Indexer 101 Overview ](https://microsofteur.sharepoint.com/:p:/r/teams/VideoIndexer-Fieldenablement/_layouts/15/Doc.aspx?sourcedoc=%7B75F0BD14-23E3-4BFF-A3F4-2D87AF41C682%7D&file=Video%20Indexer%20101%20overview.pptx&action=edit&mobileredirect=true&share=IQEUvfB14yP_S6P0LYevQcaCAdJcxUBz7nH4mrKVCl4z-rQ&cid=caff4f28-2e35-458a-8d42-e5c1a4bcdb7a) - This is a helpful deck with a good overview of video indexer and its features.
-* [Official Azure Media Services | Video Indexer Samples](https://github.com/Azure-Samples/media-services-video-indexer) - Hands-on lab with many examples
+* [Official Azure Media Services | Video Indexer Samples](https://github.com/Azure-Samples/media-services-video-indexer) - Hands-on lab with many examples of video indexer in action
 
 
 ### Anomaly Detector 
 
 Conceptual
 
-* [4 sets of best practices to use Multivariate Anomaly Detector when monitoring your equipment](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/4-sets-of-best-practices-to-use-multivariate-anomaly-detector/ba-p/3490848)
-* [Time-Series Anomaly Detection Service at Microsoft](https://www.youtube.com/watch?v=ERTaAnwCarM)
-* [AI Show Live-Episode 11-New to Anomaly Detector: Multivariate Capabilities](https://www.youtube.com/watch?v=FwuI02edclQ)
-* [Anomaly Detector API Samples](https://github.com/Azure-Samples/AnomalyDetector)
+* [4 sets of best practices to use Multivariate Anomaly Detector when monitoring your equipment](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/4-sets-of-best-practices-to-use-multivariate-anomaly-detector/ba-p/3490848) - This is a helpful blog post with best practices.
+* [Time-Series Anomaly Detection Service at Microsoft](https://www.youtube.com/watch?v=ERTaAnwCarM) - All about Univariate Anomaly Detection.
+* [AI Show Live-Episode 11-New to Anomaly Detector: Multivariate Capabilities](https://www.youtube.com/watch?v=FwuI02edclQ) - All about Multivariate Anomaly Detection
+* [Anomaly Detector API Samples](https://github.com/Azure-Samples/AnomalyDetector) - Hands on lab with many samples for anomaly detection
 
 
 
@@ -96,9 +96,9 @@ Conceptual
 
 Conceptual 
 
-* [Power Virtual Agents Blog](https://powervirtualagents.microsoft.com/en-us/blog/)
-* [Power Virtual Agents Demo](https://powervirtualagents.microsoft.com/en-us/demo/)
-* [Power Virtual Agents Overview](https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents)
+* [Power Virtual Agents Blog](https://powervirtualagents.microsoft.com/en-us/blog/) - Blog post that describes the latest and greatest updates!
+* [Power Virtual Agents Demo](https://powervirtualagents.microsoft.com/en-us/demo/) - Helpful demo to showcase PVA capabilities.
+* [Power Virtual Agents Overview](https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents) - This is a documentation page with a good overview on PVA along with tutorials.
 
 ## Hands-on Content
 
