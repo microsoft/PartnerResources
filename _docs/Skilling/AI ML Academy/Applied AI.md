@@ -27,13 +27,12 @@ Coming soon! (Break into sub-sections, where needed)
 
 Conceptual Information
 
-* https://www.youtube.com/watch?v=86cZgYJdRGc - AI Show - Analyze unstructured docs and more with Azure Form Recognizer
-* https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/bg-p/AppliedAIBlog/label-name/Form%20Recognizer
-* https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/bg-p/CognitiveServicesBlog/label-name/Form%20Recognizer
+* [The AI Show: Ep 52 | Analyze unstructured docs and more with Azure Form Recognizer](https://www.youtube.com/watch?v=86cZgYJdRGc) - This is a great resource to understand Form Recognizer capabilites and updates.
+* [Applied AI Blog](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/bg-p/AppliedAIBlog/label-name/Form%20Recognizer) - A place to ask any questions you have about Form Recognizer as you work on your solutions.
 
 Updates 
 
-* https://www.youtube.com/watch?v=o1dEJMoFeus - Build Recap | The Newest Features from Azure Form Recognizer
+* [Build Recap | The Newest Features from Azure Form Recognizer](https://www.youtube.com/watch?v=o1dEJMoFeus) - A great place to see the new features for Azure Form Recognizer
 
 ### Cognitive Search 
 
