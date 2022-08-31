@@ -4,7 +4,7 @@ title: Modern Analytics Academy - Overview
 sorttitle: 0 Modern Analytics Academy - Overview
 description: The Overview session is designed to give an overall picture of modern analytics in Azure -- understanding the business needs in a modern organization, and understanding the choices available in the Azure platform. We'll answer many of the "why" questions in this high level presentation.
 updated: 2021-12-16
-permalink: /skilling/modern-analytics-academy/data-acquisition
+permalink: /skilling/modern-analytics-academy/overview
 showbreadcrumb: true
 redirect_from:
   - /skilling/data-analytics-ai/modern-analytics-academy-overview
