@@ -12,7 +12,7 @@ includeplans:
 
 # {{ page.title }}
 
-Explore the integrated experience of connecting Business Central with Power Virtual Agent, Microsoft Teams and Power Automate. The scenario is based on a customer onboarding process.
+Explore Business Central integrated with **Power Virtual Agents**, **Microsoft Teams** and **Power Automate**. The scenario is based on a customer onboarding process.
 
 These two videos provide pre-sales engineers guidance on how to demonstrate and configure the integrated experience betweeen Business Central and the other Microsoft Cloud apps.
 
