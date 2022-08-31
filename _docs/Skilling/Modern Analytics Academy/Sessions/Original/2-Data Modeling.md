@@ -1,33 +1,38 @@
 ---
 layout: page
-title: Modern Analytics Academy - Modeling
-description: Workshop focused on Modern Analytics - Data Modeling
+title: Modern Analytics Academy - Data Modeling
+sorttitle: 2 Data Modeling
+description: In Data Modeling we'll look at how to structure a Data Lake, and how to leverage technologies like Synapse Spark, Synapse SQL, and Synapse Serverless SQL in conjunction with technologies like Delta to provde a mechanism for users and downstream visualization tools to query and explore data.
+updated: 2021-12-16
 permalink: /skilling/modern-analytics-academy/data-modeling
 redirect_from:
   - /azure/data-analytics-ai/modern-analytics-academy-data-modeling
   - /skilling/data-analytics-ai/modern-analytics-academy-data-modeling
-updated: 2021-12-16
 showbreadcrumb: true
+youtubeid: eQ-7o5cYM3I
 tags: 
 - azure
 - data, analytics, and ai
+- modern analytics academy
+- main series
 - synapse
-- workshop
+- data lake
+- delta lake
 ---
 
 # Modern Analytics Academy - Data Modeling
 
 Welcome to the Modern Analytics Academy (MAA) - Data Modeling!
 
-In Data Modeling we'll look at how to Structure a Data Lake, and how to leverage technologies like Synapse Spark, Synapse SQL, and Synapse Serverless SQL in conjunction with technologies like Delta to provde a mechanism for users and downstream visualization tools to query and explore data.
+In Data Modeling we'll look at how to structure a Data Lake, and how to leverage technologies like Synapse Spark, Synapse SQL, and Synapse Serverless SQL in conjunction with technologies like Delta to provde a mechanism for users and downstream visualization tools to query and explore data.
 
 ## Main Presentation
 
 * [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Data%20Modeling.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
-* [Modern Analytics Academy - Data Modeling](https://www.youtube.com/watch?v=eQ-7o5cYM3I)
+* [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
-[![Modern Analytics Academy Data Modeling](https://img.youtube.com/vi/eQ-7o5cYM3I/0.jpg)](https://www.youtube.com/watch?v=eQ-7o5cYM3I)
+[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 ## Hands-on Content
 

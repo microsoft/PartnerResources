@@ -1,37 +1,37 @@
 ---
 layout: page
-title: Modern Analytics Academy - Governance
-description: Workshop focused on Modern Analytics - Data Governance
+title: Modern Analytics Academy - Data Governance
+sorttitle: 4 Modern Analytics Academy - Data Governance
+description: Data Governance is defined as the people, processes, and technology needed to securely and properly handle data across an organization. Microsoft Purview has been designed to help curate, identify, and manage that data, whether it be on-premises, in Azure, or in another cloud. In the main session, we'll explore Microsoft Purview's main features, with a number of demos and examples for you to explore on your own.
+updated: 2022-08-31
 permalink: /skilling/modern-analytics-academy/data-governance
 redirect_from:
   - /azure/data-analytics-ai/modern-analytics-academy-data-governance
   - /skilling/data-analytics-ai/modern-analytics-academy-data-governance
-updated: 2021-12-16
 showbreadcrumb: true
+youtubeid: QAfUOnWF9Ro
 tags: 
 - azure
 - data, analytics, and ai
+- modern analytics academy
+- main series
 - purview
 - data governance
-- workshop
 ---
 
 # Modern Analytics Academy - Data Governance
 
 Welcome to the Modern Analytics Academy (MAA) - Data Governance with Azure Purview!
 
-Data Governance is defined as the people, processes, and technology needed to securely and properly handle data across an organization. Azure Purview has been designed to help curate, identify, and manage that data, whether it be on-premises, in Azure, or in another cloud.
-
-In the main session, we'll explore Azure Purview's main features, with a number of demos and examples for you to explore on your own. In addition, we're providing additional content to help in related topics, as we can't get to it all in a single session (coming soon).
+Data Governance is defined as the people, processes, and technology needed to securely and properly handle data across an organization. Microsoft Purview has been designed to help curate, identify, and manage that data, whether it be on-premises, in Azure, or in another cloud. In the main session, we'll explore Microsoft Purview's main features, with a number of demos and examples for you to explore on your own.
 
 ## Main Presentation
 
 * [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Data%20Governance.pptx)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
-* [Modern Analytics Academy - Data Governance](https://www.youtube.com/watch?v=QAfUOnWF9Ro)
+* [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
-[![Modern Analytics Academy Data Governance](https://img.youtube.com/vi/QAfUOnWF9Ro/0.jpg)](https://www.youtube.com/watch?v=QAfUOnWF9Ro)
-
+[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 ## Resources
 
