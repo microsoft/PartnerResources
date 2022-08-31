@@ -38,51 +38,47 @@ Updates
 
 Conceptual Information
 
-* https://docs.microsoft.com/en-us/samples/azure-samples/azure-search-knowledge-mining/azure-search-knowledge-mining/
-* https://docs.microsoft.com/en-us/learn/paths/implement-knowledge-mining-azure-cognitive-search/
-* https://github.com/ruoccofabrizio/azure-cognitive-search-multiple-containers-indexer
-* https://github.com/Azure-Samples/azure-search-dotnet-samples/tree/main/multiple-search-services
-* https://github.com/aditmer/Event-Driven-Indexing-For-Cognitive-Search
-* https://github.com/dereklegenzoff/azure-search-react-template
-* https://github.com/Azure/business-process-automation
-* https://gearup.microsoft.com/product/azure-cognitive-search?tab=overview
-
-Updates
-
+* [Knowledge Mining Solution Accelerator](https://docs.microsoft.com/en-us/samples/azure-samples/azure-search-knowledge-mining/azure-search-knowledge-mining/) - A tool to get hands-on and build a knowledge mining prototype with azure cognitive search.
+* [Implement knowledge mining with Azure Cognitive Search](https://docs.microsoft.com/en-us/learn/paths/implement-knowledge-mining-azure-cognitive-search/) - This is a good learning path to understand knowledge mining with azure cognitive search
+* [Indexing multiple Azure Blob Storage containers in Azure Cognitive Search](https://github.com/ruoccofabrizio/azure-cognitive-search-multiple-containers-indexer) - This is a good hands-on lab to understand how to index multiple blob storage containers in Azure Cog Search.
+* [Search over multiple search services](https://github.com/Azure-Samples/azure-search-dotnet-samples/tree/main/multiple-search-services) - This shows how to combine Search Results and Relevance Scores from different indexes 
+* [ServerlessIndexer](https://github.com/aditmer/Event-Driven-Indexing-For-Cognitive-Search) - Another great hands on tool for a trigger indexer with Push API solution 
+* [Azure Cognitive Search UI](https://github.com/dereklegenzoff/azure-search-react-template) - Hands-On React template for Azure Cognitive Search
+* [Business Process Accelerator](https://github.com/Azure/business-process-automation) - No code solution for creating a multi-stage AI pipeline
 
 ### Metrics Advisor
 
 Conceptual Information
 
-* https://github.com/Azure-Samples/MetricsAdvisor
-* https://github.com/MS-AI-Platform/MetricsAdvisorSample
-* https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-metrics-advisor-a-new-cognitive-service/ba-p/1668025
-* https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/customer-support-how-azure-metrics-advisor-can-help-improve/ba-p/3038907
-* [Detecting Methane Leaks using Azure Metrics Advisor](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/detecting-methane-leaks-using-azure-metrics-advisor/ba-p/3254005)
-* [Introducing Metrics Advisor](https://www.youtube.com/watch?v=0Y26cJqZMIM)
-* [Azure Metrics Advisor Documentation](https://docs.microsoft.com/en-us/azure/applied-ai-services/metrics-advisor/)
+* [MetricsAdvisorSample](https://github.com/Azure-Samples/MetricsAdvisor) - This is a great hands-on lab to understand the capabilities of Azure Metrics Advisor.
+* [Introducing Metrics Advisor - A new Cognitive Service](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-metrics-advisor-a-new-cognitive-service/ba-p/1668025) - An overview of metrics advisor and what is possible.
+* [Introducing Metrics Advisor - A new Cognitive Service](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/customer-support-how-azure-metrics-advisor-can-help-improve/ba-p/3038907) - Great page for user stories.
+* [Detecting Methane Leaks using Azure Metrics Advisor](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/detecting-methane-leaks-using-azure-metrics-advisor/ba-p/3254005) - Blog post for use case with detecting methane leaks
+* [Introducing Metrics Advisor](https://www.youtube.com/watch?v=0Y26cJqZMIM) - Great video with an overview on metrics advisor
+* [Azure Metrics Advisor Documentation](https://docs.microsoft.com/en-us/azure/applied-ai-services/metrics-advisor/) - Documentation page with quickstarts and tutorials
+* [Supply Chain Anomaly Detection and Root Cause Analysis with Azure Metric Advisor](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/supply-chain-anomaly-detection-and-root-cause-analysis-with/ba-p/2871920) - Blog post with use case supply chain anomaly detection
 
 Updates
 
-* [Protect your organization’s growth by using Azure Metrics Advisor](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/protect-your-organization-s-growth-by-using-azure-metrics/ba-p/2564682)
-* [Supply Chain Anomaly Detection and Root Cause Analysis with Azure Metric Advisor](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/supply-chain-anomaly-detection-and-root-cause-analysis-with/ba-p/2871920)
+* [Protect your organization’s growth by using Azure Metrics Advisor](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/protect-your-organization-s-growth-by-using-azure-metrics/ba-p/2564682) - Blog post for new updates with metrics advisor
+
 
 ### Personalizer
 
 Conceptual 
 
-* [With reinforcement learning, Microsoft brings a new class of AI solutions to customers](https://blogs.microsoft.com/ai/reinforcement-learning/)
-* [Azure Cognitive Services - Personalizer Samples](https://github.com/Azure-Samples/cognitive-services-personalizer-samples)
-* [Personalizer documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/personalizer/)
-* [Personalizer API Reference](https://westus2.dev.cognitive.microsoft.com/docs/services/personalizer-api/operations/Rank)
+* [With reinforcement learning, Microsoft brings a new class of AI solutions to customers](https://blogs.microsoft.com/ai/reinforcement-learning/) - Great blog post for reinforcement learning use cases
+* [Azure Cognitive Services - Personalizer Samples](https://github.com/Azure-Samples/cognitive-services-personalizer-samples) - This is a hands-on link with tutorials and resources for Personalizer
+* [Personalizer documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/personalizer/) - This link includes a lot of conceptual documentation and helpful quickstarts.
+* [Personalizer API Reference](https://westus2.dev.cognitive.microsoft.com/docs/services/personalizer-api/operations/Rank) - API reference guide 
 
 
 ### Video Indexer
 
 Conceptual
 
-* [Video Indexer 101 Overview ](https://microsofteur.sharepoint.com/:p:/r/teams/VideoIndexer-Fieldenablement/_layouts/15/Doc.aspx?sourcedoc=%7B75F0BD14-23E3-4BFF-A3F4-2D87AF41C682%7D&file=Video%20Indexer%20101%20overview.pptx&action=edit&mobileredirect=true&share=IQEUvfB14yP_S6P0LYevQcaCAdJcxUBz7nH4mrKVCl4z-rQ&cid=caff4f28-2e35-458a-8d42-e5c1a4bcdb7a)
-* [Official Azure Media Services | Video Indexer Samples](https://github.com/Azure-Samples/media-services-video-indexer)
+* [Video Indexer 101 Overview ](https://microsofteur.sharepoint.com/:p:/r/teams/VideoIndexer-Fieldenablement/_layouts/15/Doc.aspx?sourcedoc=%7B75F0BD14-23E3-4BFF-A3F4-2D87AF41C682%7D&file=Video%20Indexer%20101%20overview.pptx&action=edit&mobileredirect=true&share=IQEUvfB14yP_S6P0LYevQcaCAdJcxUBz7nH4mrKVCl4z-rQ&cid=caff4f28-2e35-458a-8d42-e5c1a4bcdb7a) - This is a helpful deck with a good overview of video indexer and its features.
+* [Official Azure Media Services | Video Indexer Samples](https://github.com/Azure-Samples/media-services-video-indexer) - Hands-on lab with many examples
 
 
 ### Anomaly Detector 
