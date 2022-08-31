@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Audience Insights
-description: Resources for Audience Insights
+title: Customer Insights
+description: Resources for Customer Insights
 updated: 2022-08-31
 permalink: /business-applications/customer-data-platform/customer-insights
 tags:
