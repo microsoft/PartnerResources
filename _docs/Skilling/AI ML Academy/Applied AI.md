@@ -27,7 +27,32 @@ Coming soon! (Break into sub-sections, where needed)
 
 Coming soon
 
+### Cognitive Search 
+
+Coming soon
+
+
 ### Metrics Advisor
+
+Coming soon
+
+
+### Personalizer
+
+Coming soon
+
+
+### Video Indexer
+
+Coming soon
+
+
+### Anomaly Detector 
+
+Coming soon
+
+
+### Power Virtual Agents 
 
 Coming soon
 
