@@ -15,7 +15,7 @@ showbreadcrumb: false
 
 {% include series.md 
     includetags="azure data academy" includemethod="all" 
-    removetags="azure|data, analytics, and ai|azure data academy|academy session" 
+    removetags="azure|data, analytics, and ai|azure data academy|academy content" 
     sortfield="updated" sortorder="desc" showdate="true" showtags="true"
     visualstyle="normal"
 %}

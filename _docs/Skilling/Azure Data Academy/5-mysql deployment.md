@@ -9,7 +9,7 @@ tags:
 - azure
 - data, analytics, and ai
 - azure data academy
-- academy session
+- academy content
 - mysql
 - flexible server
 - terraform

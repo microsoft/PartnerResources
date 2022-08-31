@@ -21,7 +21,7 @@ In our Vignette sessions, we'll explore topics based on feedback, new releases, 
 
 {% include series.md 
     includetags="modern analytics academy|vignettes" includemethod="all" 
-    removetags="azure|data, analytics, and ai|modern analytics academy|vignettes|academy session" 
+    removetags="azure|data, analytics, and ai|modern analytics academy|vignettes|academy content" 
     sortfield="updated" sortorder="desc" showdate="true" showtags="true"
     visualstyle="normal"
 %}

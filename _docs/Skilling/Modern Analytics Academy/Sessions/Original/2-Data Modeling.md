@@ -13,7 +13,7 @@ youtubeid: eQ-7o5cYM3I
 tags: 
 - azure
 - data, analytics, and ai
-- academy session
+- academy content
 - modern analytics academy
 - main series
 - synapse
