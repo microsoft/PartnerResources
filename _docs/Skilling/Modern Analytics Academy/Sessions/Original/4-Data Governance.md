@@ -13,6 +13,7 @@ youtubeid: QAfUOnWF9Ro
 tags: 
 - azure
 - data, analytics, and ai
+- academy session
 - modern analytics academy
 - main series
 - purview

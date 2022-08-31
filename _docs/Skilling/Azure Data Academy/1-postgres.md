@@ -9,6 +9,7 @@ tags:
 - azure
 - data, analytics, and ai
 - azure data academy
+- academy session
 - postgresql
 - flexible server
 ---

@@ -8,6 +8,7 @@ youtubeid: 5FeHDRRVqbk
 tags: 
 - azure
 - data, analytics, and ai
+- academy session
 - modern analytics academy
 - vignettes
 - synapse

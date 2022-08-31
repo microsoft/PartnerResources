@@ -8,6 +8,7 @@ youtubeid: sTyHNlfNZy0
 tags: 
 - azure
 - data, analytics, and ai
+- academy session
 - modern analytics academy
 - vignettes
 - power bi

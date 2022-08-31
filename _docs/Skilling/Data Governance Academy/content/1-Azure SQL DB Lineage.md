@@ -8,6 +8,7 @@ youtubeid: BIVh_8QhMKY
 tags: 
 - azure
 - data, analytics, and ai
+- academy session
 - data governance academy
 - sql
 - lineage
