@@ -14,7 +14,7 @@ includeplans:
 
 **Configure Microsoft Outlook** in your Business Central demo environment to highlight demos such as Quote-to-Cash or Procure-to-Pay from an email in your Outlook inbox.
 
-These two videos provide pre-sales engineers guidance on how to demonstrate and configure the integrated experience betweeen Oulook and Business Central.
+These two videos provide pre-sales engineers guidance on how to **_demonstrate_** and **_configure_** the integrated experience betweeen Oulook and Business Central.
 
 {% include series.md %}
 
@@ -22,5 +22,5 @@ With the Business Central add-in for Outlook, users can see financial data relat
 
 ### Supporting Resources for these videos
 
-* [https://docs.microsoft.com/en-us/dynamics365/business-central/admin-outlook](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-outlook) Read more about how to install the Outlook Add-in
-* [https://docs.microsoft.com/en-us/dynamics365/business-central/admin-synchronize-outlook-contacts](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-synchronize-outlook-contacts) Learn how to Synchronize Contacts
+* [Read more about how to install the Outlook Add-in](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-outlook)
+* [Learn how to Synchronize Contacts](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-synchronize-outlook-contacts)
