@@ -7,7 +7,7 @@ redirect_from:
   - /skilling/modern-analytics-academy/
   - /azure/data-analytics-ai/modern-analytics-academy
   - /skilling/data-analytics-ai/modern-analytics-academy
-updated: 2022-04-05
+updated: 2022-08-31
 showbreadcrumb: true
 tags:
 - azure
@@ -31,7 +31,7 @@ The Modern Analytics Academy consists of several modules designed to illustrate 
     visualstyle="compact"
 %}
 
-## On-going "Vignette" Sessions
+## Ongoing "Vignette" Sessions
 
 Our ongoing Modern Analytics Academy series, which we've called "vignettes", dive into topical areas related to analytics. The list of sessions is below, and you can refer to our
 [vignette page](/PartnerResources/skilling/modern-analytics-academy/vignettes) for an expanded list with descriptions and videos.
