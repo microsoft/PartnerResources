@@ -25,36 +25,85 @@ Coming soon! (Break into sub-sections, where needed)
 
 ### Form Recognizer 
 
-Coming soon
+Conceptual Information
+
+* https://www.youtube.com/watch?v=86cZgYJdRGc - AI Show - Analyze unstructured docs and more with Azure Form Recognizer
+* https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/bg-p/AppliedAIBlog/label-name/Form%20Recognizer
+* https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/bg-p/CognitiveServicesBlog/label-name/Form%20Recognizer
+
+Updates 
+
+* https://www.youtube.com/watch?v=o1dEJMoFeus - Build Recap | The Newest Features from Azure Form Recognizer
 
 ### Cognitive Search 
 
-Coming soon
+Conceptual Information
+
+* https://docs.microsoft.com/en-us/samples/azure-samples/azure-search-knowledge-mining/azure-search-knowledge-mining/
+* https://docs.microsoft.com/en-us/learn/paths/implement-knowledge-mining-azure-cognitive-search/
+* https://github.com/ruoccofabrizio/azure-cognitive-search-multiple-containers-indexer
+* https://github.com/Azure-Samples/azure-search-dotnet-samples/tree/main/multiple-search-services
+* https://github.com/aditmer/Event-Driven-Indexing-For-Cognitive-Search
+* https://github.com/dereklegenzoff/azure-search-react-template
+* https://github.com/Azure/business-process-automation
+* https://gearup.microsoft.com/product/azure-cognitive-search?tab=overview
+
+Updates
 
 
 ### Metrics Advisor
 
-Coming soon
+Conceptual Information
 
+* https://github.com/Azure-Samples/MetricsAdvisor
+* https://github.com/MS-AI-Platform/MetricsAdvisorSample
+* https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-metrics-advisor-a-new-cognitive-service/ba-p/1668025
+* https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/customer-support-how-azure-metrics-advisor-can-help-improve/ba-p/3038907
+* [Detecting Methane Leaks using Azure Metrics Advisor](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/detecting-methane-leaks-using-azure-metrics-advisor/ba-p/3254005)
+* [Introducing Metrics Advisor](https://www.youtube.com/watch?v=0Y26cJqZMIM)
+* [Azure Metrics Advisor Documentation](https://docs.microsoft.com/en-us/azure/applied-ai-services/metrics-advisor/)
+
+Updates
+
+* [Protect your organization’s growth by using Azure Metrics Advisor](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/protect-your-organization-s-growth-by-using-azure-metrics/ba-p/2564682)
+* [Supply Chain Anomaly Detection and Root Cause Analysis with Azure Metric Advisor](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/supply-chain-anomaly-detection-and-root-cause-analysis-with/ba-p/2871920)
 
 ### Personalizer
 
-Coming soon
+Conceptual 
+
+* [With reinforcement learning, Microsoft brings a new class of AI solutions to customers](https://blogs.microsoft.com/ai/reinforcement-learning/)
+* [Azure Cognitive Services - Personalizer Samples](https://github.com/Azure-Samples/cognitive-services-personalizer-samples)
+* [Personalizer documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/personalizer/)
+* [Personalizer API Reference](https://westus2.dev.cognitive.microsoft.com/docs/services/personalizer-api/operations/Rank)
 
 
 ### Video Indexer
 
-Coming soon
+Conceptual
+
+* [Video Indexer 101 Overview ](https://microsofteur.sharepoint.com/:p:/r/teams/VideoIndexer-Fieldenablement/_layouts/15/Doc.aspx?sourcedoc=%7B75F0BD14-23E3-4BFF-A3F4-2D87AF41C682%7D&file=Video%20Indexer%20101%20overview.pptx&action=edit&mobileredirect=true&share=IQEUvfB14yP_S6P0LYevQcaCAdJcxUBz7nH4mrKVCl4z-rQ&cid=caff4f28-2e35-458a-8d42-e5c1a4bcdb7a)
+* [Official Azure Media Services | Video Indexer Samples](https://github.com/Azure-Samples/media-services-video-indexer)
 
 
 ### Anomaly Detector 
 
-Coming soon
+Conceptual
+
+* [4 sets of best practices to use Multivariate Anomaly Detector when monitoring your equipment](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/4-sets-of-best-practices-to-use-multivariate-anomaly-detector/ba-p/3490848)
+* [Time-Series Anomaly Detection Service at Microsoft](https://www.youtube.com/watch?v=ERTaAnwCarM)
+* [AI Show Live-Episode 11-New to Anomaly Detector: Multivariate Capabilities](https://www.youtube.com/watch?v=FwuI02edclQ)
+* [Anomaly Detector API Samples](https://github.com/Azure-Samples/AnomalyDetector)
+
 
 
 ### Power Virtual Agents 
 
-Coming soon
+Conceptual 
+
+* [Power Virtual Agents Blog](https://powervirtualagents.microsoft.com/en-us/blog/)
+* [Power Virtual Agents Demo](https://powervirtualagents.microsoft.com/en-us/demo/)
+* [Power Virtual Agents Overview](https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents)
 
 ## Hands-on Content
 
