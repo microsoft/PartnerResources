@@ -20,6 +20,4 @@ includeplans:
 * [Business Central & Outlook](/PartnerResources/skilling/business-central-academy-outlook)
 * [Business Central & Dynamics 365 Sales](/PartnerResources/skilling/business-central-academy-d365)
 
-## Sessions
-
 {% include_relative footer.md %}
