@@ -22,6 +22,7 @@ Power Virtual Agents lets you create powerful AI-powered chatbots for a range of
 
 ### Supporting Resources for these sessions
 
-* [https://docs.microsoft.com/en-us/dynamics365/business-central/across-how-use-financials-data-source-flow](Read more about how the Business Central and Power Automate connector)
-* [https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents](Intro to Power Virtual Agents)
-* [https://docs.microsoft.com/en-us/power-virtual-agents/teams/fundamentals-what-is-power-virtual-agents-teams](Overview of Power Vritual Agents inside Teams)
+* [Read more about the Business Central and Power Automate connector](https://docs.microsoft.com/en-us/dynamics365/business-central/across-how-use-financials-data-source-flow)
+* [Intro to Power Virtual Agents](https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents)
+* [(Overview of Power Vritual Agents inside Teams](https://docs.microsoft.com/en-us/power-virtual-agents/teams/fundamentals-what-is-power-virtual-agents-teams)
+
