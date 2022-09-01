@@ -9,6 +9,7 @@ includeplans:
 - business central academy
 - outlook
 ---
+
 # {{ page.title }}
 
 **Configure Microsoft Outlook** in your Business Central demo environment to highlight demos such as Quote-to-Cash or Procure-to-Pay from an email in your Outlook inbox.
