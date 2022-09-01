@@ -128,9 +128,110 @@ Metrics
 
 [Partner Readiness Resources for Azure Spring Apps](./Partner%20Readiness%20Resources%20for%20Spring%20Apps.md)
 
+## Architecture Design Session
+
+A key part of any application modernization project is to conduct an Architecture Design Session (ADS) with the customer or partner. This is ideally done in-person to avoid distractions; however, it can also be accomplished successfully remotely or as a hybrid event with some attendees meeting in person and others participating virtually.
+
+The goals of an Architectural Design Session are:
+
+* Align the specific capabilities of the Azure platform with the requirements of the customer's project
+* Identify areas of risk and prioritize design and development tasks
+
+The steps for a successful ADS are:
+
+* Planning
+* Delivery
+* Follow-up
+
+### Planning
+
+Before the ADS, establish the objectives you wish to achieve. Then, determine and prioritize the topics to cover. From this, create an agenda.
+
+Collect any relevant artifacts that will assist in designing the architecture. This can include descriptions and diagrams of existing systems, as well as documentation on their roadmap. 
+
+Identify the right people to attend the ADS. From your side, this should be a project owner and the subject-matter experts on the required technologies. From the customer's side, this should be the product owner and the architect who will work on the project. 
+
+Decide when, where, and how to host the ADS. Ideally, this will be on-site and away from the customer's work environment. This is not always possible, so you may choose to host the ADS virtually or hold a hybrid event in which some attend in-person and others attend virtually. The important thing is that we remove the participants from potential distractions, so they can focus on the ADS.
+
+Depending on the scope of the project, an ADS can last anywhere from 4 hours to 3 day.
+
+Here is a sample agenda for a 2-day ADS:
+
+Day 1:
+
+| When| What |
+| --- | --- |
+| 9:00AM-9:15AM | Introduction |
+| 9:15AM-Noon | Discovery Session: Review existing subsystems and requirements |
+| Noon-1:00PM | Lunch |
+| 1:00PM-3:00PM | Azure Technologies Walkthrough |
+| 3:00PM-5:00PM | Architecture and Solution Design |
+
+Day 2:
+
+| When| What |
+| --- | --- |
+| 9:00AM-Noon | Architecture and Solution Design |
+| Noon-1:00PM | Lunch |
+| 1:00PM-3:00PM | Architecture and Solution Design |
+| 3:00PM-4:30PM | Plan Next Steps |
+
+### Delivery
+
+On the day(s) of the ADS, we should strive to ???
+
+#### Kickoff
+
+Begin with a brief kickoff: Recap the purpose of the session; allow attendees to briefly introducte themselves; share the agenda; and explicitly state the objectives, roles, and responsibilities of team members.
+
+#### Discovery
+
+The goal of  this section is to understand the project goals and requirements - from a business and a technical perspective.
+
+What is the current state of the application and the desired state? What is the business driver for this change? Are there any pain points?
+
+Capture everything on a whiteboard and/or a notetaking application, such as OneNote.
+
+Avoid discussing the solution at this point
+
+#### Architecture and Solution Design
+
+Design the future state of the application.
+
+Discuss the components that can be used to implement the solution. How do these components communicate with one another? Use a whiteboard and/or whiteboard software to capture this.
+
+For a Java application, consider the follwing Azure technologies:
+
+* Azure Spring Apps
+* Azure App Services
+* Azure Container services
+* Azure Kubernetes Service
+
+There are likely to be other technologies, such as databases and queueing services that interact with the application.
+
+Identify the non-functional requirements and determine how to handle them. These can include deployment, maintenance, high availability, disaster recovery, logging, and others.
+
+Identify any risks in the proposed solution and provide guidance on mitigating those risks.
+
+Define the architecture and design patterns that will be used in the solution.
+
+Capture everything on a whiteboard and/or a notetaking application, such as OneNote.
+
+Create a "Parking Lot" list for items that are out of scope.
+
+### Follow-up
+
+Take time at the end of the ADS to discuss the next steps. 
+
+For the next meeting(s)?
+
+* What is the cadence?
+* Who should attend?
+* What should be done by whom between now and then?
+
 ## Hackathon
 
-"What the Hack" is a set of challenge-based hackathons that can be hosted in-person or virtually via Microsoft Teams.
+Some customers will require upskilling on the technologies used in the solution. One method for upskilling is a "What the Hack" event. "What the Hack" is a set of challenge-based hackathons that can be hosted in-person or virtually via Microsoft Teams.
 
 * [_What the Hack_ overview](https://microsoft.github.io/WhatTheHack/)
 * [_What the Hack_ repo](https://github.com/Microsoft/WhatTheHack)
