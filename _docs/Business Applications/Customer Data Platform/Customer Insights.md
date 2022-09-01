@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Audience Insights
-description: Resources for Audience Insights
-updated: 2021-12-01
-permalink: /business-applications/customer-data-platform/audience-insights
+title: Customer Insights
+description: Resources for Customer Insights
+updated: 2022-08-31
+permalink: /business-applications/customer-data-platform/customer-insights
 tags:
 - learning plan
 - business applications
@@ -15,9 +15,9 @@ tags:
 
 # Learning Plan Resources for Dynamics 365 Customer Insights
 
-**Audience insights**
+**Customer Insights**
 
-Below you will find content to assist in upskilling on Dynamics 365 Customer Insights - *Audience insights*.  Content is broken down as follows:
+Below you will find content to assist in upskilling on Dynamics 365 Customer Insights.  Content is broken down as follows:
 
 * Fundamentals, Associate, Expert, Specialist: content categorized in increase levels of complexity
 * Certifications:  relevant Microsoft exams or certifications
