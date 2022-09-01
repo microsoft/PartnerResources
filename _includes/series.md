@@ -20,6 +20,7 @@
         - include.showdate
         - include.showtags
         - include.visualstyle
+        - include.limit
         - include.includesecondtags
         - include.includethirdtags
         - include.includefourthtags
@@ -34,7 +35,7 @@
     options include 
         - "normal" (default)
         - "compact" (titles/tags/dates/description)
-        - "supercompact" (for long lists)
+        - "tiny" (for long lists)
 
 {% endcomment %}
 
@@ -44,6 +45,7 @@
 {% assign secondAssetsToInclude = "" | split: ',' %}
 {% assign thirdAssetsToInclude = "" | split: ',' %}
 {% assign fourthAssetsToInclude = "" | split: ',' %}
+{% assign postLimit = 0 %}
 {% assign sortField = "updated" %}
 {% assign sortOrder = "desc" %}
 {% assign showDate = "true" %}
@@ -61,6 +63,9 @@
     {% assign assetsToInclude = include.includetags | split:'|' | compact %}
     {% assign tagsToRemove = include.removetags | split:'|' | compact %}
     {% assign includeMethod = include.includemethod %}
+    {% if include.limit %}
+        {% assign postLimit = include.limit | plus: 0 %}
+    {% endif %}
     {% if include.includesecondtags %}
         {% assign secondAssetsToInclude = include.includesecondtags | split:'|' | compact %}
     {% endif %}
@@ -82,8 +87,8 @@
     {% if include.visualstyle == "compact" %}
        {% assign visualStyle = "compact" %}
     {% endif %}
-    {% if include.visualstyle == "supercompact" %}
-       {% assign visualStyle = "supercompact" %}
+    {% if include.visualstyle == "tiny" %}
+       {% assign visualStyle = "tiny" %}
     {% endif %}
     {% if include.showtags == "false" %}
        {% assign showTags = "false" %}
@@ -94,6 +99,9 @@
     {% assign assetsToInclude = page.includeplans %}
     {% assign tagsToRemove = page.removetags  %}
     {% assign includeMethod = page.includemethod %}
+    {% if page.limit %}
+        {% assign postLimit = page.limit | plus: 0 %}
+    {% endif %}
     {% if page.includesecondtags %}
         {% assign secondAssetsToInclude = page.includesecondtags | split:'|' | compact %}
     {% endif %}
@@ -115,8 +123,8 @@
     {% if page.visualstyle == "compact" %}
        {% assign visualStyle = "compact" %}
     {% endif %}
-    {% if page.visualstyle == "supercompact" %}
-       {% assign visualStyle = "supercompact" %}
+    {% if page.visualstyle == "tiny" %}
+       {% assign visualStyle = "tiny" %}
     {% endif %}
     {% if page.showtags == "false" %}
        {% assign showTags = "false" %}
@@ -224,7 +232,17 @@
 
 {% assign current_docs = current_docs | uniq %}
 
-{% for doc in current_docs %}
+{% comment %}
+----------------------------------------------------
+    display results
+----------------------------------------------------
+{% endcomment %}
+
+{% if postLimit == 0 %}
+    {% assign postLimit = current_docs.size %}
+{% endif %}
+
+{% for doc in current_docs limit: postLimit %}
 {% assign uniquedoctags = doc.tags | uniq | sort %}
 
 {% comment %}
@@ -243,12 +261,6 @@
     {% endif %}
 {% endfor %}
 {% assign filteredtags = filteredtags | uniq | sort %}
-
-{% comment %}
-----------------------------------------------------
-    display results
-----------------------------------------------------
-{% endcomment %}
 
 {% if visualStyle == "normal" %}
 <div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
@@ -291,7 +303,7 @@
 <div style="clear:both; padding-top: 15px; padding-bottom: 0px;">
 </div>
 
-{% elsif visualStyle == "supercompact" %}
+{% elsif visualStyle == "tiny" %}
 <div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
     <div>
         <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 

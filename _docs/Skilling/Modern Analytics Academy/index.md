@@ -36,7 +36,7 @@ For a more immersive list with full descriptions, visit the [core sessions](/Par
     includetags="modern analytics academy|main series" includemethod="all" 
     removetags="azure|data, analytics, and ai|modern analytics academy|main series|academy content" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
-    visualstyle="supercompact"
+    visualstyle="tiny"
 %}
 
 ## Ongoing "Vignette" Sessions
@@ -48,7 +48,7 @@ Our ongoing Modern Analytics Academy series, which we've called "vignettes", div
     includetags="modern analytics academy|vignettes" includemethod="all" 
     removetags="azure|data, analytics, and ai|modern analytics academy|vignettes|academy content" 
     sortfield="updated" sortorder="desc" showtags="true"
-    visualstyle="supercompact"
+    visualstyle="tiny"
 %}
 
 ## Suggested Labs
