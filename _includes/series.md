@@ -20,8 +20,10 @@
         - include.showdate
         - include.showtags
         - include.visualstyle
-        - include.includesecondarytags
-        - include.includetertiarytags
+        - include.limit
+        - include.includesecondtags
+        - include.includethirdtags
+        - include.includefourthtags
 
         For parameters, values are strings (no hyphens) 
         and delimited with | if needed. Example:
@@ -33,15 +35,17 @@
     options include 
         - "normal" (default)
         - "compact" (titles/tags/dates/description)
-        - "supercompact" (for long lists)
+        - "tiny" (for long lists)
 
 {% endcomment %}
 
 {% assign assetsToInclude = "" | split: ',' %}
 {% assign tagsToRemove = "" | split: ',' %}
 {% assign includeMethod = "all" %}
-{% assign secondaryAssetsToInclude = "" | split: ',' %}
-{% assign tertiaryAssetsToInclude = "" | split: ',' %}
+{% assign secondAssetsToInclude = "" | split: ',' %}
+{% assign thirdAssetsToInclude = "" | split: ',' %}
+{% assign fourthAssetsToInclude = "" | split: ',' %}
+{% assign postLimit = 0 %}
 {% assign sortField = "updated" %}
 {% assign sortOrder = "desc" %}
 {% assign showDate = "true" %}
@@ -59,11 +63,17 @@
     {% assign assetsToInclude = include.includetags | split:'|' | compact %}
     {% assign tagsToRemove = include.removetags | split:'|' | compact %}
     {% assign includeMethod = include.includemethod %}
-    {% if include.includesecondarytags %}
-        {% assign secondaryAssetsToInclude = include.includesecondarytags | split:'|' | compact %}
+    {% if include.limit %}
+        {% assign postLimit = include.limit | plus: 0 %}
     {% endif %}
-    {% if include.includetertiarytags %}
-        {% assign tertiaryAssetsToInclude = include.includetertiarytags | split:'|' | compact %}
+    {% if include.includesecondtags %}
+        {% assign secondAssetsToInclude = include.includesecondtags | split:'|' | compact %}
+    {% endif %}
+    {% if include.includethirdtags %}
+        {% assign thirdAssetsToInclude = include.includethirdtags | split:'|' | compact %}
+    {% endif %}
+    {% if include.includefourthtags %}
+        {% assign fourthAssetsToInclude = include.includefourthtags | split:'|' | compact %}
     {% endif %}
     {% if include.sortfield %}
         {% assign sortField = include.sortfield %}
@@ -77,8 +87,8 @@
     {% if include.visualstyle == "compact" %}
        {% assign visualStyle = "compact" %}
     {% endif %}
-    {% if include.visualstyle == "supercompact" %}
-       {% assign visualStyle = "supercompact" %}
+    {% if include.visualstyle == "tiny" %}
+       {% assign visualStyle = "tiny" %}
     {% endif %}
     {% if include.showtags == "false" %}
        {% assign showTags = "false" %}
@@ -89,11 +99,17 @@
     {% assign assetsToInclude = page.includeplans %}
     {% assign tagsToRemove = page.removetags  %}
     {% assign includeMethod = page.includemethod %}
-    {% if page.includesecondarytags %}
-        {% assign page.secondaryAssetsToInclude = page.includesecondarytags | split:'|' | compact %}
+    {% if page.limit %}
+        {% assign postLimit = page.limit | plus: 0 %}
     {% endif %}
-    {% if page.includetertiarytags %}
-        {% assign tertiaryAssetsToInclude = page.includetertiarytags | split:'|' | compact %}
+    {% if page.includesecondtags %}
+        {% assign secondAssetsToInclude = page.includesecondtags | split:'|' | compact %}
+    {% endif %}
+    {% if page.includethirdtags %}
+        {% assign thirdAssetsToInclude = page.includethirdtags | split:'|' | compact %}
+    {% endif %}
+     {% if page.includefourthtags %}
+        {% assign fourthAssetsToInclude = page.includefourthtags | split:'|' | compact %}
     {% endif %}
     {% if page.sortfield %}
         {% assign sortField = page.sortfield %}
@@ -107,8 +123,8 @@
     {% if page.visualstyle == "compact" %}
        {% assign visualStyle = "compact" %}
     {% endif %}
-    {% if page.visualstyle == "supercompact" %}
-       {% assign visualStyle = "supercompact" %}
+    {% if page.visualstyle == "tiny" %}
+       {% assign visualStyle = "tiny" %}
     {% endif %}
     {% if page.showtags == "false" %}
        {% assign showTags = "false" %}
@@ -153,6 +169,9 @@
 {% endcomment %}
 
 {% if includeMethod == 'all' %}
+   {% comment %}
+        Match all tags
+    {% endcomment %}
     {% for doc in filtered_docs %}
         {% unless doc.tags contains "deprecated" %}
         {% assign uniquedoctags = doc.tags | uniq | sort %}
@@ -168,18 +187,24 @@
         {% endif %}
 
         {% comment %}
-            To support mingling of additional tag sets, use secondaryAssetsToInclude
-            and tertiaryAssetsToInclude to keep a second set of tags to match. 
+            To support mingling of additional tag sets, use secondAssetsToInclude
+            and thirdAssetsToInclude to add a second/third/fourth etc set of tags to match. 
             This allows functionality like 'doc must match tags one,two,three OR six,seven'
         {% endcomment %}
-        {% if secondaryAssetsToInclude.size > 0 %}
-            {% assign concatplans = uniquedoctags | concat: secondaryAssetsToInclude | uniq %}
+        {% if secondAssetsToInclude.size > 0 %}
+            {% assign concatplans = uniquedoctags | concat: secondAssetsToInclude | uniq %}
             {% if uniquedoctags.size == concatplans.size %}
             {% assign current_docs = current_docs | push: doc %}
             {% endif %}
         {% endif %}
-        {% if tertiaryAssetsToInclude.size > 0 %}
-            {% assign concatplans = uniquedoctags | concat: tertiaryAssetsToInclude | uniq %}
+        {% if thirdAssetsToInclude.size > 0 %}
+            {% assign concatplans = uniquedoctags | concat: thirdAssetsToInclude | uniq %}
+            {% if uniquedoctags.size == concatplans.size %}
+            {% assign current_docs = current_docs | push: doc %}
+            {% endif %}
+        {% endif %}
+        {% if fourthAssetsToInclude.size > 0 %}
+            {% assign concatplans = uniquedoctags | concat: fourthAssetsToInclude | uniq %}
             {% if uniquedoctags.size == concatplans.size %}
             {% assign current_docs = current_docs | push: doc %}
             {% endif %}
@@ -188,12 +213,14 @@
         {% endunless %}
     {% endfor %}
 {% else %}
+    {% comment %}
+        Match any tag
+    {% endcomment %}
     {% for doc in filtered_docs %}
         {% for includetag in assetsToInclude %}
         {% unless doc.tags contains "deprecated" %}
          {% comment %}
-            To see if a document is a match, we'll just verify the document contains the 
-            tag.
+            To see if a document is a match, we'll just verify the document contains the tag.
         {% endcomment %}
         {% if doc.tags contains includetag %}
         {% assign current_docs = current_docs | push: doc %}
@@ -205,7 +232,17 @@
 
 {% assign current_docs = current_docs | uniq %}
 
-{% for doc in current_docs %}
+{% comment %}
+----------------------------------------------------
+    display results
+----------------------------------------------------
+{% endcomment %}
+
+{% if postLimit == 0 %}
+    {% assign postLimit = current_docs.size %}
+{% endif %}
+
+{% for doc in current_docs limit: postLimit %}
 {% assign uniquedoctags = doc.tags | uniq | sort %}
 
 {% comment %}
@@ -224,12 +261,6 @@
     {% endif %}
 {% endfor %}
 {% assign filteredtags = filteredtags | uniq | sort %}
-
-{% comment %}
-----------------------------------------------------
-    display results
-----------------------------------------------------
-{% endcomment %}
 
 {% if visualStyle == "normal" %}
 <div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
@@ -272,7 +303,7 @@
 <div style="clear:both; padding-top: 15px; padding-bottom: 0px;">
 </div>
 
-{% elsif visualStyle == "supercompact" %}
+{% elsif visualStyle == "tiny" %}
 <div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
     <div>
         <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
