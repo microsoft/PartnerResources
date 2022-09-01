@@ -24,7 +24,7 @@ In this module, we’ll look at Applied AI services, including Form Recognizer, 
 
 ### Form Recognizer 
 
-Conceptual Information
+Conceptual 
 
 * [The AI Show: Ep 52 | Analyze unstructured docs and more with Azure Form Recognizer](https://www.youtube.com/watch?v=86cZgYJdRGc) - This is a great resource to understand Form Recognizer capabilites and updates.
 * [Applied AI Blog](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/bg-p/AppliedAIBlog/label-name/Form%20Recognizer) - A place to ask any questions you have about Form Recognizer as you work on your solutions.
@@ -35,7 +35,7 @@ Updates
 
 ### Cognitive Search 
 
-Conceptual Information
+Conceptual 
 
 * [Knowledge Mining Solution Accelerator](https://docs.microsoft.com/en-us/samples/azure-samples/azure-search-knowledge-mining/azure-search-knowledge-mining/) - A tool to get hands-on and build a knowledge mining prototype with azure cognitive search.
 * [Implement knowledge mining with Azure Cognitive Search](https://docs.microsoft.com/en-us/learn/paths/implement-knowledge-mining-azure-cognitive-search/) - This is a good learning path to understand knowledge mining with azure cognitive search
@@ -47,7 +47,7 @@ Conceptual Information
 
 ### Metrics Advisor
 
-Conceptual Information
+Conceptual 
 
 * [MetricsAdvisorSample](https://github.com/Azure-Samples/MetricsAdvisor) - This is a great hands-on lab to understand the capabilities of Azure Metrics Advisor.
 * [Introducing Metrics Advisor - A new Cognitive Service](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-metrics-advisor-a-new-cognitive-service/ba-p/1668025) - An overview of metrics advisor and what is possible.
