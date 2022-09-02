@@ -88,6 +88,42 @@
     - title: "Azure Data Academy"
       url: "skilling/azure-data-academy"
       tag: azure data academy
+    - title: "D365 Business Central Academy"
+      url: "skilling/business-central-academy"
+      tag: business central academy
+      children:
+        - title: D365 Sales
+          url: "skilling/business-central-academy-d365"
+          tag: bca d365
+        - title: Outlook
+          url: "skilling/business-central-academy-outlook"
+          tag: bca outlook
+        - title: Power BI
+          url: "skilling/business-central-academy-powerbi"
+          tag: bca powerbi
+        - title: PVA
+          url: "skilling/business-central-academy-pva"
+          tag: bca pva
+    - title: "Business Applications Academy"
+      url: "skilling/business-central-academy"
+      tag: business central academy
+      children: 
+        - title: D365 Business Central Academy
+        - url: "skilling/business-central-academy"
+        - tag: business central academy
+        children:
+          - title: D365 Sales
+            url: "skilling/business-central-academy-d365"
+            tag: bca d365
+          - title: Outlook
+            url: "skilling/business-central-academy-outlook"
+            tag: bca outlook
+          - title: Power BI
+            url: "skilling/business-central-academy-powerbi"
+            tag: bca powerbi
+          - title: PVA
+            url: "skilling/business-central-academy-pva"
+            tag: bca pva
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lineage Extraction with Azure SQL Database in Microsoft Purview
-description: Extracting lineage -- the ability to weave together the lifecycle of data as it moves through the enterprise -- is challenging due to the complexities of many different systems. Microsoft Purview is able to extract lineage from an Azure SQL Database by examining the execution of stored procedures. This video looks at how it works, and how to set it up. Additional code snippets are here for demos used in session. 
+description: Extracting lineage -- the ability to weave together the lifecycle of data as it moves through the enterprise -- is challenging due to the complexities of many different systems. Microsoft Purview is able to extract lineage from an Azure SQL Database by examining the execution of stored procedures. This video looks at how it works, and how to set it up. Additional code snippets are here for the demos used in this session.
 updated: 2022-08-23
 permalink: /skilling/data-governance-academy/purview-lineage-azure-sql-db
 youtubeid: BIVh_8QhMKY
