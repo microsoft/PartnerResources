@@ -109,8 +109,8 @@
       tag: business central academy
       children: 
         - title: D365 Business Central Academy
-        - url: "skilling/business-central-academy"
-        - tag: business central academy
+          url: "skilling/business-central-academy"
+          tag: business central academy
         children:
           - title: D365 Sales
             url: "skilling/business-central-academy-d365"
