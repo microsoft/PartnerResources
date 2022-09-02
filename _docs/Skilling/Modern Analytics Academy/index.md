@@ -24,7 +24,7 @@ Welcome to the Modern Analytics Academy (MAA)!
 The Modern Analytics Academy consists of several modules designed to illustrate and upskill on modern techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. 
 
 We've organized the content into a few key areas:
-* [Main Sessions](/PartnerResources/skilling/modern-analytics-academy/core-sessions) The original main sessions designed to be a soup-to-nuts overview of a modern analytics solution
+* [Core Sessions](/PartnerResources/skilling/modern-analytics-academy/core-sessions) The original main sessions designed to be a soup-to-nuts overview of a modern analytics solution
 * [Hands-on Content](/PartnerResources/skilling/modern-analytics-academy/hands-on) Recommended labs, workshops, and other hands-on material
 * [Vignettes](/PartnerResources/skilling/modern-analytics-academy/vignettes) Our ongoing series that dives into analytics-related topics
 
