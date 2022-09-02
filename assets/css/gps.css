@@ -30,3 +30,13 @@ h6 {
     margin-top: 5px;
 }
 /* modified .col-xl-2, col-xl-8 */
+
+h1 {
+    font-size: 1.8rem;
+}
+h2 {
+    font-size: 1.6rem;
+}
+h3 {
+    font-size: 1.4rem;
+}
