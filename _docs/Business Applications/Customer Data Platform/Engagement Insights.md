@@ -11,6 +11,7 @@ tags:
 - customer data platform
 - customer insights
 - engagement insights
+- deprecated
 ---
 
 # Learning Plan Resources for Dynamics 365 Customer Insights

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: HOW TO CONFIGURE - Integrating Microsoft Outlook and Business Central
-description: Guides you through the steps to install the Outlook add-in to allow you to take advantage of the ability to manage business interactions with customers and vendors directly in Microsoft Outlook. 
+title: HOW TO DEMO - Integrating Power Virtual Agents and Business Central
+description: Business Central integrates with PVA, Power Automate and Microsoft Teams.
 updated: 2022-08-18
-permalink: /skilling/business-central-academy/outlook
+permalink: /skilling/business-central-academy/demo-pva
 youtubeid: fzVROh-xgto
 tags: 
 - business central academy
 - academy content
-- outlook
-- configure
+- pva
+- demo
 ---
 
 # {{ page.title }}

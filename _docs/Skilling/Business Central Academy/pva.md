@@ -7,7 +7,7 @@ showbreadcrumb: true
 includemethod: all
 includeplans:
 - business central academy
-- outlook
+- pva
 ---
 
 # {{ page.title }}
