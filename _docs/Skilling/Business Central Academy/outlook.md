@@ -2,7 +2,7 @@
 layout: page
 title: D365 Business Central Presales Academy - Outlook
 description: Integrating your demo environment in order to highlight demos such as Quote-to-Cash from Outlook or Procure-to-Pay all from a single inbound email. 
-permalink: /skilling/business-central-academy-outlook
+permalink: /skilling/business-central-academy/outlook
 showbreadcrumb: true
 includemethod: all
 includeplans:

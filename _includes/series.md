@@ -13,14 +13,15 @@
         - page.removetags
     2. OR, by passing parameters into this file directly, using:
         - include.includetags
-        - include.includemethod
-        - include.removetags
+        - include.includemethod         all/any - all=all tags must match
+        - include.removetags            specifies tags to hide from display on list
         - include.sortfield
         - include.sortorder
         - include.showdate
         - include.showtags
-        - include.visualstyle
-        - include.limit
+        - include.showlink              show/hide deep link to content, default "true"
+        - include.visualstyle           normal / compact / tiny
+        - include.limit                 limit of number to display (no pagination support)
         - include.includesecondtags
         - include.includethirdtags
         - include.includefourthtags
@@ -50,6 +51,7 @@
 {% assign sortOrder = "desc" %}
 {% assign showDate = "true" %}
 {% assign showTags = "true" %}
+{% assign showLink = "true" %}
 {% assign visualStyle = "normal" %}
 
 {% comment %}
@@ -93,6 +95,9 @@
     {% if include.showtags == "false" %}
        {% assign showTags = "false" %}
     {% endif %}
+    {% if include.showlink == "false" %}
+       {% assign showLink = "false" %}
+    {% endif %}
 
 {% else %}
 
@@ -129,7 +134,9 @@
     {% if page.showtags == "false" %}
        {% assign showTags = "false" %}
     {% endif %}
-
+    {% if page.showlink == "false" %}
+       {% assign showLink = "false" %}
+    {% endif %}
 {% endif %}
 
 {% comment %}
@@ -265,7 +272,11 @@
 {% if visualStyle == "normal" %}
 <div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
     <div>
-        <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+        {% if showLink == "true" %}
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+        {% else %}
+            <span class="nav-entry">{{ doc.title }}</span> 
+        {% endif %}
         {% if doc.updated and showDate == "true" %}
             <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
         {% endif %}
@@ -276,8 +287,10 @@
     <div>
     {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}"><img width="160" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/0.jpg" style="float:left; padding-right:15px;"/></a>
     {% endif %}
-    {{ doc.description }} 
-    <a href="{{- site.baseurl -}}{{- doc.url -}}">more &#187;</a> 
+    {{ doc.description }}
+    {% if showLink == "true" %}
+        <a href="{{- site.baseurl -}}{{- doc.url -}}">more &#187;</a> 
+    {% endif %}
     </div>
 </div>
 
@@ -287,7 +300,11 @@
 {% elsif visualStyle == "compact" %}
 <div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
     <div>
-        <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+        {% if showLink == "true" %}
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+        {% else %}
+            <span class="nav-entry">{{ doc.title }}</span> 
+        {% endif %}
         {% if doc.updated and showDate == "true" %}
             <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
         {% endif %}
@@ -306,7 +323,11 @@
 {% elsif visualStyle == "tiny" %}
 <div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
     <div>
-        <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+        {% if showLink == "true" %}
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+        {% else %}
+            <span class="nav-entry">{{ doc.title }}</span> 
+        {% endif %}
         {% if doc.updated and showDate == "true" %}
             <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
         {% endif %}
