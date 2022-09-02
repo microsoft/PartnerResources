@@ -13,7 +13,7 @@ tags:
 
 # Partner Readiness Resources for Modernizing Java Apps
 
-## Envisioning Briefing
+These resources are recommended for partners looking to migrate their Java applications to Azure and will cover mainstream Java on Azure scenarios.  They can expect to learn how to migrate different types of Java applications to Azure, and understand how to build, deploy, and monitor those applications on Azure for their customers.
 
 ### Demos & Walkthroughs
 
@@ -36,6 +36,9 @@ tags:
 * [Data Migration Service](https://docs.microsoft.com/en-us/azure/dms/)
 <!-- * [Data Migration Assistant](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017) -->
 <!-- * [SQL Server Migration Assistant](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017) -->
+* [Migrate Java Applications to Azure](https://docs.microsoft.com/en-us/azure/developer/java/migration/migration-overview)
+* [Java on Azure Customer Pitch](https://gearup.microsoft.com/download/aa39a4b4-5457-4dc2-934f-6196a7cd91de)
+* [How to Containerize and Deploy a Java app to Azure](https://www.youtube.com/watch?v=8BxcPngGaaM)
 
 (Include third party tools)
 
@@ -46,6 +49,9 @@ tags:
 ### Plan
 
 (What are the steps and the order?)
+<!-- (Not sure if this goes here, but thought this link should go somewhere) -->
+[Java on Azure](https://azure.microsoft.com/en-us/resources/developers/java/)
+[Introduction to Java on Azure Learning Path](https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/)
 
 #### App Migration Planning
 
@@ -61,32 +67,49 @@ The following Azure services can host a Java application. Consider which is appr
 * Azure App Service
 * Azure Kubernetes Service
 
-##### Azure Spring Apps
+#### **Azure Spring Apps**
 
-Azure Spring Apps is a Platform as a Service (PAAS) offering providing hosting, configuration, and Applicatino Lifecycle Management, specifically designed for hosting Java Spring applications.
+Azure Spring Apps is a Platform as a Service (PaaS) offering providing hosting, configuration, and Application Lifecycle Management, specifically designed for hosting Java Spring applications.
 
 Read more about Azure Spring Apps [here](https://azure.microsoft.com/en-us/services/spring-apps/).
 
-##### Azure App Service
+*More resources:*
+* [Spring Boot to Azure Spring Apps](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-spring-boot-to-azure-spring-cloud)
+* [Tomcat to Azure Spring Apps](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-tomcat-to-azure-spring-cloud)
 
-Azure App Service is a PAAS offering that hosts web applications, REST APIs, and mobile backends. Code can be deployed from a Java application or a number of other languages and platforms.
+#### **Azure App Service**
+
+Azure App Service is a PaaS offering that hosts web applications, REST APIs, and mobile backends. Code can be deployed from a Java application or a number of other languages and platforms.
 
 Read more about Azure App Service [here](https://docs.microsoft.com/en-us/azure/app-service/).
 
-##### Azure Kubernetes Service
+*More resources:*
+* [Spring Boot to Azure App Service](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-spring-boot-to-app-service)
+* [Tomcat to Azure App Service](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-tomcat-to-tomcat-app-service)
+* [JBoss EAP to Azure App Service](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-jboss-eap-to-jboss-eap-on-azure-app-service)
+* [Configuring a Java app for Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/configure-language-java?pivots=platform-linux)
+
+#### **Azure Kubernetes Service**
 
 Azure Kubernetes Service is a service that allows you to manage Kubernetes clusters within Azure. It supports any application that can run in a container, including Java applications.
 
-Read more about Azure Kubernetes Service [here](https://docs.microsoft.com/en-us/azure/aks/).
+Read more about Azure Kubernetes Service (AKS) [here](https://docs.microsoft.com/en-us/azure/aks/).
 
-#### Database Migration Planning
+*More resources:*
+* [Spring Boot to Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-spring-boot-to-azure-kubernetes-service)
+* [Java web applications to Azure Kubernetes Service Learning Path](https://docs.microsoft.com/en-us/learn/modules/migrate-java-app-azure-kubernetes-service/)
+* [Java Web App Containerization and Migration to Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-kubernetes)
+
+### Database Migration Planning
 
 <!-- * [SQL Migration](https://docs.microsoft.com/en-us/sql/sql-server/migrate/?view=sql-server-2017) -->
 * [Choosing Your Database Migration Path](https://azure.microsoft.com/en-us/resources/choosing-your-database-migration-path-to-azure/)
 
 ##### Migrate SQL open source DB to Azure DB
+* [Deploy a Java EE/Jakarta EE application to App Service and bind it to Azure DB for MySQL](https://docs.microsoft.com/en-us/learn/modules/deploy-java-ee-app-to-jboss-app-service/)
 
 ##### Migrate NoSQL open source DB to CosmosDB
+* [Java app to manage CosmosDB SQL Data Quickstart](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/create-sql-api-java?tabs=sync)
 
 ### Cloud Modernization
 
@@ -118,6 +141,7 @@ Metrics
 * [Best Practices for Cloud Applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 * [Design Principles for Azure Applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/)
 * [Application Performance Management (APM) on Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
+* [Azure for Java developer documentation](https://docs.microsoft.com/en-us/azure/developer/java/?view=azure-java-stable)
 
 ### Azure Compete Scenarios
 
@@ -236,6 +260,11 @@ Some customers will require upskilling on the technologies used in the solution.
 * [_What the Hack_ overview](https://microsoft.github.io/WhatTheHack/)
 * [_What the Hack_ repo](https://github.com/Microsoft/WhatTheHack)
 
+<!-- (Not sure if this is helpful, but here are some targeted links for the hacks) -->
+Specific *What The Hack*s
+* [Java on Azure App Service](https://microsoft.github.io/WhatTheHack/040-JavaOnAppService/)
+* [App Modernization](https://microsoft.github.io/WhatTheHack/006-AppModernization/)
+
 ## POC
 
 ## Tech Briefing
@@ -253,6 +282,11 @@ You can learn more about improving reliability in Azure applications [here](http
 Security is an important pillar when architecting any application, whether or not it is in Azure. A key principle to keep in mind when designing your application is "Zero Trust" - never assume you can trust the person or account accessing your application.
 
 You can learn more about improving security [here](https://docs.microsoft.com/en-us/azure/architecture/framework/#security).
+
+**More resources:**
+* [Enable end-user authentication](https://docs.microsoft.com/en-us/azure/active-directory/develop/web-app-quickstart?pivots=devlang-java)
+* [Microsoft Authentication Library](https://docs.microsoft.com/en-us/azure/active-directory/develop/migrate-adal-msal-java)
+* [Manage app secrets](https://docs.microsoft.com/en-us/azure/key-vault/quick-create-java)
 
 ### Cost Optimization
 
