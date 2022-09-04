@@ -7,6 +7,7 @@ permalink: /skilling/business-central-academy/demo-outlook
 youtubeid: fzVROh-xgto
 tags: 
 - business central academy
+- academy content
 - outlook
 - demo
 ---
