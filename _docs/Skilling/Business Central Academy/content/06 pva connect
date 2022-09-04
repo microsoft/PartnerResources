@@ -1,0 +1,21 @@
+---
+layout: page
+title: HOW TO CONFIGURE - Integrating Power Virtual Agents and Business Central
+description: Business Central integrates with PVA, Power Automate and Microsoft Teams.
+updated: 2022-08-18
+permalink: /skilling/business-central-academy/demo-pva
+youtubeid: fzVROh-xgto
+tags: 
+- business central academy
+- academy content
+- pva
+- configure
+---
+
+# {{ page.title }}
+
+{{ page.description }}
+
+* [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
+
+[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
