@@ -8,6 +8,7 @@ youtubeid: fzVROh-xgto
 tags: 
 - business central academy
 - power bi
+- configure
 ---
 
 # {{ page.title }}
