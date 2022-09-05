@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Azure Key Vault in Synapse Pipelines and Notebooks
-description: We know that security is job one in the cloud. In this session, we’ll explore how to create secure solutions on the secure Azure platform using Azure Key Vault.
+description: We know that security is job one in the cloud. In this session, we’ll explore how to secure both Synapse pipelines and notebooks using Azure Key Vault (AKV).
 updated: 2022-06-14
 permalink: /skilling/modern-analytics-academy/vignettes/key-vault-synapse-pipelines
 youtubeid: 09aBpfcqY2Q
