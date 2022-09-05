@@ -24,3 +24,4 @@ Integrating Business Central and Dynamics 365 Sales gives sales people insights 
 
 * [Using Dynamics 365 Sales with Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/marketing-integrate-dynamicscrm?tabs=current-experience)
 * [Integrating Dynamics 365 Sales with Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-prepare-dynamics-365-for-sales-for-integration)
+* [Integrating Dataverse with Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-common-data-service)
