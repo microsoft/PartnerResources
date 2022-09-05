@@ -14,7 +14,7 @@ includeplans:
 
 **Configure Microsoft Outlook** in your Business Central demo environment to highlight demos such as Quote-to-Cash or Procure-to-Pay from an email in your Outlook inbox.
 
-These two videos provide pre-sales engineers guidance on how to **_demonstrate_** and **_configure_** the integrated experience betweeen Oulook and Business Central.
+These two videos provide pre-sales engineers guidance on how to **_demonstrate_** and **configure** the integrated experience betweeen Oulook and Business Central.
 
 {% include series.md %}
 
