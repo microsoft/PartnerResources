@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Azure Synapse Link for Cosmos DB
-description: Real time analytics is most important in today's digital world and that's where Synapse Link for Cosmos DB comes into the picture. In this session, we will learn how Synapse Link for Cosmos DB helps to run near real time analytics on your transactional data.
+description: Real time analytics is important in today’s digital world and that’s where Synapse Link for Cosmos DB comes into the picture. In this session, we will learn how Synapse Link for Cosmos DB helps to deliver near real time analytics on your transactional data.
 updated: 2022-07-01
 permalink: /skilling/modern-analytics-academy/vignettes/synapse-link-cosmos-db
 youtubeid: WCBu6T6aJYQ

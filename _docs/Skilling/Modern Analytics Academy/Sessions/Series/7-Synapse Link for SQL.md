@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Azure Synapse Link for SQL
-description: Real time Analytics is most important in today's digital world and that's where Synapse Link for SQL comes into picture. In this session, we will learn how Synapse Link for SQL helps to run near real time analytics on your transcational data.
+description: Real time analytics is important in today’s digital world. If your transactional data is stored in SQL, Synapse Link for SQL can help turn the transactional data into near real time analytical data. In this session, we will learn how Synapse Link for SQL works and how to get started.
 updated: 2022-07-13
 permalink: /skilling/modern-analytics-academy/vignettes/synapse-link-sql
 youtubeid: 5FeHDRRVqbk
