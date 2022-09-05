@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Power BI Incremental Refresh and Hybrid Tables
-description: In this session we examine advanced model design principles for Power BI. When dealing with larger models and lower data latency requirements, incremental refresh can be great tools to acheive these goals.  We will discuss the problems incremental refresh and hybrid tables were designed to address, and will demostrate how to build and deploy these features.  Finally we'll discuss best practices for using these features in your own environment.
+description: In this session we examine advanced model design principles for Power BI. When dealing with larger models and lower data latency requirements, incremental refresh can be great tools to achieve these goals. We will discuss the problems incremental refresh and hybrid tables were designed to address, and will demonstrate how to build and deploy these features. Finally we'll discuss best practices for using these features in your own environment.
 updated: 2022-08-08
 permalink: /skilling/modern-analytics-academy/vignettes/power-bi-hybrid-tables
 youtubeid: sTyHNlfNZy0
