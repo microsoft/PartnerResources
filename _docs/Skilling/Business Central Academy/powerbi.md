@@ -15,7 +15,7 @@ includeplans:
 
 **Connect Power BI** in your Business Central demo environment in order to deliver demos which include deep insights and rich data visualizations originating from Business Central data. 
 
-These two videos provide pre-sales engineers guidance on how to **_demonstrate_** and **_configure_** the integrated experience betweeen Power BI and Business Central.
+This video provides pre-sales engineers guidance on how to **_configure_** the integrated experience betweeen Power BI and Business Central.
 
 {% include series.md %}
 
