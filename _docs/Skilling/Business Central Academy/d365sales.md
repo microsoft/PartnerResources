@@ -22,5 +22,5 @@ Integrating Business Central and Dynamics 365 Sales gives sales people insights 
 
 ### Supporting Resources for these videos
 
-* [Read more about how to install the Outlook Add-in](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-outlook)
-* [Learn how to Synchronize Contacts](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-synchronize-outlook-contacts)
+* [Using Dynamics 365 Sales with Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/marketing-integrate-dynamicscrm?tabs=current-experience)
+* [Integrating Dynamics 365 Sales with Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-prepare-dynamics-365-for-sales-for-integration)
