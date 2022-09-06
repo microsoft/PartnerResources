@@ -10,7 +10,7 @@ showbreadcrumb: true
 
 **Connect Dynamics 365 Sales** in your Business Central demo environment to highlight demos such as Lead-to-Cash.
 
-These two videos provide pre-sales engineers guidance on how to **demonstrate** and **configure** the integrated experience betweeen Dynamics 365 Sales and Business Central in order to connect and synchronize the data between apps.
+These two videos provide pre-sales engineers guidance on how to **demonstrate** and **configure** the integrated experience between Dynamics 365 Sales and Business Central in order to connect and synchronize the data between apps.
 
 {% include series.md 
     includetags="business central academy|d365 sales" includemethod="all" 
