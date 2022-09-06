@@ -1,6 +1,6 @@
 ## Resources
 
-Additional supporting resources (*to open the link below, right-click and open in new tab*).
+Additional supporting resources (*to open a link below, right-click and open in new tab*).
 
 * [Visit Dynamics 365 Roadmap](https:/roadmap.dynamics.com) (roadmap.dynamics.com) 
 * [Follow Business Central Twitter Feed](https://twitter.com/MSDYN365BC) (#MSDYN365BC)
