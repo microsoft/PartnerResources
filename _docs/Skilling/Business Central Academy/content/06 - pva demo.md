@@ -1,6 +1,6 @@
 ---
 layout: page
-title: **HOW TO DEMO** - Integrating Power Virtual Agents and Business Central
+title: HOW TO DEMO - Integrating Power Virtual Agents and Business Central
 description: Business Central integrates with PVA, Power Automate and Microsoft Teams.
 updated: 2022-09-04
 permalink: /skilling/business-central-academy/demo-pva
