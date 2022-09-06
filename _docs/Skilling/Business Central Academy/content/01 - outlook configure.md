@@ -1,6 +1,7 @@
 ---
 layout: page
-title: **HOW TO CONFIGURE** - Integrating Microsoft Outlook and Business Central
+title: HOW TO CONFIGURE - Integrating Microsoft Outlook and Business Central
+sorttitle: 2 HOW TO CONFIGURE - Integrating Microsoft Outlook and Business Central
 description: Guides you through the steps to install the Outlook add-in to allow you to take advantage of the ability to manage business interactions with customers and vendors directly in Microsoft Outlook. 
 updated: 2022-09-04
 permalink: /skilling/business-central-academy/configure-outlook

@@ -4,10 +4,6 @@ title: D365 Business Central Presales Academy - Dynamics 365 Sales
 description: Integrating your demo environment in order to demo the integrated experience between Dynamics 365 Sales and Business Central. 
 permalink: /skilling/business-central-academy/d365
 showbreadcrumb: true
-includemethod: all
-includeplans:
-- business central academy
-- d365 sales
 ---
 
 # {{ page.title }}
@@ -16,7 +12,11 @@ includeplans:
 
 These two videos provide pre-sales engineers guidance on how to **demonstrate** and **configure** the integrated experience betweeen Dynamics 365 Sales and Business Central in order to connect and synchronize the data between apps.
 
-{% include series.md %}
+{% include series.md 
+    includetags="business central academy|d365 sales" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    visualstyle="normal" target="_blank" showlink="false"
+%}
 
 Integrating Business Central and Dynamics 365 Sales gives sales people insights they need to perform their job in their preferred app. The integration allows users to view information in Business Central while working in Dynamics 365 Sales. In turn, Business Central processes the backend tasks such as processing orders and managing inventory. 
 

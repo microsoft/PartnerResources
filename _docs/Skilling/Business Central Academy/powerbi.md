@@ -4,10 +4,6 @@ title: D365 Business Central Presales Academy - Power BI
 description: Integrating your demo environment in order to highlight graphs, charts and rich visualizations through Power BI
 permalink: /skilling/business-central-academy/powerbi
 showbreadcrumb: true
-includemethod: all
-includeplans:
-- business central academy
-- power bi
 ---
 
 # {{ page.title }}
@@ -16,7 +12,11 @@ includeplans:
 
 This video provides pre-sales engineers guidance on how to **configure** the integrated experience betweeen Power BI and Business Central.
 
-{% include series.md %}
+{% include series.md 
+    includetags="business central academy|power bi" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    visualstyle="normal" target="_blank" showlink="false"
+%}
 
 Power BI provides a flexible alternative to reports built in Business Central, enabling you to drill down and customize the visualization, and also merge data from different companies in Business Central.
 
