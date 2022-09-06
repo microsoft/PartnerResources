@@ -7,7 +7,7 @@ showbreadcrumb: true
 includemethod: all
 includeplans:
 - business central academy
-- outlook
+- d365 sales
 ---
 
 # {{ page.title }}
