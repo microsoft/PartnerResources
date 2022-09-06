@@ -8,7 +8,7 @@ youtubeid: tKOBj1Gw3rY
 tags: 
 - business central academy
 - academy content
-- d365sales
+- d365 sales
 - configure
 ---
 

@@ -8,7 +8,7 @@ youtubeid: IXrAuN8_KPg
 tags: 
 - business central academy
 - academy content
-- d365sales
+- d365 sales
 - demo
 ---
 

@@ -20,6 +20,7 @@
         - include.showdate
         - include.showtags
         - include.showlink              show/hide deep link to content, default "true"
+        - include.target                specify a target like target="_blank"
         - include.visualstyle           normal / compact / tiny
         - include.limit                 limit of number to display (no pagination support)
         - include.includesecondtags
@@ -43,6 +44,7 @@
 {% assign assetsToInclude = "" | split: ',' %}
 {% assign tagsToRemove = "" | split: ',' %}
 {% assign includeMethod = "all" %}
+{% assign target = "" %}
 {% assign secondAssetsToInclude = "" | split: ',' %}
 {% assign thirdAssetsToInclude = "" | split: ',' %}
 {% assign fourthAssetsToInclude = "" | split: ',' %}
@@ -67,6 +69,9 @@
     {% assign includeMethod = include.includemethod %}
     {% if include.limit %}
         {% assign postLimit = include.limit | plus: 0 %}
+    {% endif %}
+    {% if include.target %}
+        {% assign target = include.target %}
     {% endif %}
     {% if include.includesecondtags %}
         {% assign secondAssetsToInclude = include.includesecondtags | split:'|' | compact %}
@@ -106,6 +111,9 @@
     {% assign includeMethod = page.includemethod %}
     {% if page.limit %}
         {% assign postLimit = page.limit | plus: 0 %}
+    {% endif %}
+    {% if page.target %}
+        {% assign target = page.target %}
     {% endif %}
     {% if page.includesecondtags %}
         {% assign secondAssetsToInclude = page.includesecondtags | split:'|' | compact %}
@@ -285,7 +293,8 @@
     <div style="padding-bottom: 5px;">{% for tag in filteredtags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
     {% endif %}
     <div>
-    {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}"><img width="160" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/0.jpg" style="float:left; padding-right:15px;"/></a>
+    {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}" 
+    {% if target.size > 0 %}_target={{target}}{% endif %}><img width="160" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/0.jpg" style="float:left; padding-right:15px;"/></a>
     {% endif %}
     {{ doc.description }}
     {% if showLink == "true" %}
