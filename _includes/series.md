@@ -294,7 +294,7 @@
     {% endif %}
     <div>
     {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}" 
-    {% if target.size > 0 %}_target={{target}}{% endif %}><img width="160" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/0.jpg" style="float:left; padding-right:15px;"/></a>
+    {% if target.size > 0 %}target={{target}}{% endif %}><img width="160" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/0.jpg" style="float:left; padding-right:15px;"/></a>
     {% endif %}
     {{ doc.description }}
     {% if showLink == "true" %}
