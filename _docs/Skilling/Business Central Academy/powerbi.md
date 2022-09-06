@@ -14,7 +14,7 @@ This video provides pre-sales engineers guidance on how to **configure** the int
 
 {% include series.md 
     includetags="business central academy|power bi" includemethod="all" 
-    sortfield="sorttitle" sortorder="desc" showdate="true" showtags="true" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
 %}
 

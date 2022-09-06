@@ -14,7 +14,7 @@ These two videos provide pre-sales engineers guidance on how to **demonstrate** 
 
 {% include series.md
     includetags="business central academy|outlook" includemethod="all" 
-    sortfield="sorttitle" sortorder="desc" showdate="true" showtags="true" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
  %}
 
