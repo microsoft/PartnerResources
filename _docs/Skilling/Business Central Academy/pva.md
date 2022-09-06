@@ -4,10 +4,6 @@ title: D365 Business Central Presales Academy - Power Virtual Agents
 description: Integrating your demo environment in order to highlight integrated demos between Business Central, Power Virtual Agent, Microsoft Teams and Power Automate. 
 permalink: /skilling/business-central-academy/pva
 showbreadcrumb: true
-includemethod: all
-includeplans:
-- business central academy
-- pva
 ---
 
 # {{ page.title }}
