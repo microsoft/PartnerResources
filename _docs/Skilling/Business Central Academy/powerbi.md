@@ -8,7 +8,7 @@ includemethod: all
 includeplans:
 - business central academy
 - outlook
-- demo
+- power bi
 ---
 
 # {{ page.title }}
