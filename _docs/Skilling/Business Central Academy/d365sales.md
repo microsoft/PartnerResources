@@ -14,10 +14,8 @@ These two videos provide pre-sales engineers guidance on how to **demonstrate** 
 
 {% include series.md 
     includetags="business central academy|d365 sales" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" showtags="true"
-    visualstyle="normal"
-    target="_blank"
-    showlink="false"
+    sortfield="sorttitle" sortorder="desc" showdate="true" showtags="true" 
+    visualstyle="normal" target="_blank" showlink="false"
 %}
 
 Integrating Business Central and Dynamics 365 Sales gives sales people insights they need to perform their job in their preferred app. The integration allows users to view information in Business Central while working in Dynamics 365 Sales. In turn, Business Central processes the backend tasks such as processing orders and managing inventory. 
