@@ -9,6 +9,8 @@ showbreadcrumb: false
 
 The Skilling & Hands-on Content section contains labs, videos, and other material desiged around topics like analytics, data, and app modernization.
 
+Have a suggestion, comment, or would like to contribute? [Use our form](https://forms.office.com/r/GZwiMqB3Zg) to contact us. Be sure to include an e-mail address if you'd like a reply.
+
 #### [Modern Analytics Academy](/PartnerResources/skilling/modern-analytics-academy)
 Modern analytics and data warehousing techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. Most recent content:
 
@@ -37,5 +39,16 @@ Sessions on data governance and Microsoft Purview. Topics include data catalog, 
 {% include series.md 
     includetags="data governance academy|academy content" includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="true" limit=5
+    visualstyle="tiny"
+%}
+
+<hr/>
+
+#### [D365 Business Central Pre-Sales Academy](/PartnerResources/skilling/business-central-academy)
+The Business Central Pre-Sales Academy is a series of presentations combined with hands-on materials designed to upskill individuals who are responsible for preparing and delivering Business Central software demonstrations. Most recent content:
+
+{% include series.md 
+    includetags="business central academy|academy content" includemethod="all" 
+    sortfield="sorttitle" sortorder="desc" showdate="true" limit=5
     visualstyle="tiny"
 %}
