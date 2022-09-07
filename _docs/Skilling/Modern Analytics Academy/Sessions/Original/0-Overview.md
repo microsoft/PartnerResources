@@ -9,7 +9,7 @@ showbreadcrumb: true
 redirect_from:
   - /skilling/data-analytics-ai/modern-analytics-academy-overview
   - /azure/data-analytics-ai/modern-analytics-academy-overview
-youtubeid: mk31vgGCzy4
+youtubeid: REhXp0-5ikU
 tags: 
 - azure
 - data, analytics, and ai
@@ -28,7 +28,7 @@ The Overview session is designed to give an overall picture of modern analytics 
 ## Main Presentation
 
 * [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Overview.pptx)
-* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
+* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PL8_VXqhvJI9DtxeuFmmQ0V6Z_zL0MXnnI)
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 [![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})

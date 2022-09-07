@@ -9,7 +9,7 @@ redirect_from:
   - /azure/data-analytics-ai/modern-analytics-academy-data-governance
   - /skilling/data-analytics-ai/modern-analytics-academy-data-governance
 showbreadcrumb: true
-youtubeid: QAfUOnWF9Ro
+youtubeid: k3pz-7QJaUI
 tags: 
 - azure
 - data, analytics, and ai
@@ -29,7 +29,7 @@ Data Governance is defined as the people, processes, and technology needed to se
 ## Main Presentation
 
 * [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Data%20Governance.pptx)
-* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
+* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PL8_VXqhvJI9DtxeuFmmQ0V6Z_zL0MXnnI)
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 [![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
