@@ -9,7 +9,7 @@ redirect_from:
   - /azure/data-analytics-ai/modern-analytics-academy-data-visualization
   - /skilling/data-analytics-ai/modern-analytics-academy-data-visualization
 showbreadcrumb: true
-youtubeid: k3pz-7QJaUI
+youtubeid: 8ekNonOm3RI
 tags: 
 - azure
 - data, analytics, and ai
