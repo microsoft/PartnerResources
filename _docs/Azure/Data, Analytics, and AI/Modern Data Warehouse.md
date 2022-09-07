@@ -32,6 +32,14 @@ The latest updates on Azure Sypanse Analytics.
 
 Azure Synapse Analytics is now generally available as of December 2020. 
 
+* [August 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-august-update-2022/ba-p/3535126)
+  * Distribution Advisor for dedicated SQL pools
+  * Spark Delta Lake tables in serverless SQL
+  * New Cast transformation that was added to mapping data flows.
+  * Synapse Data Explorer updates
+  * SynapseML improvements
+  * Security Updates
+
 * [June 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-june-update-2022/ba-p/3535086)
   * Azure Orbital analytics
   * Azure Synapse Success by Design
