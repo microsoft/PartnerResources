@@ -74,6 +74,7 @@ Azure Spring Apps is a Platform as a Service (PaaS) offering providing hosting, 
 Read more about Azure Spring Apps [here](https://azure.microsoft.com/en-us/services/spring-apps/).
 
 *More resources:*
+
 * [Spring Boot to Azure Spring Apps](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-spring-boot-to-azure-spring-cloud)
 * [Tomcat to Azure Spring Apps](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-tomcat-to-azure-spring-cloud)
 
@@ -84,6 +85,7 @@ Azure App Service is a PaaS offering that hosts web applications, REST APIs, and
 Read more about Azure App Service [here](https://docs.microsoft.com/en-us/azure/app-service/).
 
 *More resources:*
+
 * [Spring Boot to Azure App Service](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-spring-boot-to-app-service)
 * [Tomcat to Azure App Service](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-tomcat-to-tomcat-app-service)
 * [JBoss EAP to Azure App Service](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-jboss-eap-to-jboss-eap-on-azure-app-service)
@@ -96,6 +98,7 @@ Azure Kubernetes Service is a service that allows you to manage Kubernetes clust
 Read more about Azure Kubernetes Service (AKS) [here](https://docs.microsoft.com/en-us/azure/aks/).
 
 *More resources:*
+
 * [Spring Boot to Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-spring-boot-to-azure-kubernetes-service)
 * [Java web applications to Azure Kubernetes Service Learning Path](https://docs.microsoft.com/en-us/learn/modules/migrate-java-app-azure-kubernetes-service/)
 * [Java Web App Containerization and Migration to Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-kubernetes)
@@ -105,15 +108,17 @@ Read more about Azure Kubernetes Service (AKS) [here](https://docs.microsoft.com
 <!-- * [SQL Migration](https://docs.microsoft.com/en-us/sql/sql-server/migrate/?view=sql-server-2017) -->
 * [Choosing Your Database Migration Path](https://azure.microsoft.com/en-us/resources/choosing-your-database-migration-path-to-azure/)
 
-##### Migrate SQL open source DB to Azure DB
+#### Migrate SQL open source DB to Azure DB
+
 * [Deploy a Java EE/Jakarta EE application to App Service and bind it to Azure DB for MySQL](https://docs.microsoft.com/en-us/learn/modules/deploy-java-ee-app-to-jboss-app-service/)
 
-##### Migrate NoSQL open source DB to CosmosDB
+#### Migrate NoSQL open source DB to CosmosDB
+
 * [Java app to manage CosmosDB SQL Data Quickstart](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/create-sql-api-java?tabs=sync)
 
 ### Cloud Modernization
 
-(Automate move from on-prem to Azure. What are considerations?)
+(Automate move from on-premise to Azure. What are considerations?)
 
 #### App Modernization
 
@@ -171,9 +176,9 @@ The steps for a successful ADS are:
 
 Before the ADS, establish the objectives you wish to achieve. Then, determine and prioritize the topics to cover. From this, create an agenda.
 
-Collect any relevant artifacts that will assist in designing the architecture. This can include descriptions and diagrams of existing systems, as well as documentation on their roadmap. 
+Collect any relevant artifacts that will assist in designing the architecture. This can include descriptions and diagrams of existing systems, as well as documentation on their roadmap.
 
-Identify the right people to attend the ADS. From your side, this should be a project owner and the subject-matter experts on the required technologies. From the customer's side, this should be the product owner and the architect who will work on the project. 
+Identify the right people to attend the ADS. From your side, this should be a project owner and the subject-matter experts on the required technologies. From the customer's side, this should be the product owner and the architect who will work on the project.
 
 Decide when, where, and how to host the ADS. Ideally, this will be on-site and away from the customer's work environment. This is not always possible, so you may choose to host the ADS virtually or hold a hybrid event in which some attend in-person and others attend virtually. The important thing is that we remove the participants from potential distractions, so they can focus on the ADS.
 
@@ -214,7 +219,7 @@ The goal of  this section is to understand the project goals and requirements - 
 
 What is the current state of the application and the desired state? What is the business driver for this change? Are there any pain points?
 
-Capture everything on a whiteboard and/or a notetaking application, such as OneNote.
+Capture everything on a whiteboard and/or a note-taking application, such as OneNote.
 
 Avoid discussing the solution at this point
 
@@ -224,7 +229,7 @@ Design the future state of the application.
 
 Discuss the components that can be used to implement the solution. How do these components communicate with one another? Use a whiteboard and/or whiteboard software to capture this.
 
-For a Java application, consider the follwing Azure technologies:
+For a Java application, consider the following Azure technologies:
 
 * Azure Spring Apps
 * Azure App Services
@@ -239,13 +244,13 @@ Identify any risks in the proposed solution and provide guidance on mitigating t
 
 Define the architecture and design patterns that will be used in the solution.
 
-Capture everything on a whiteboard and/or a notetaking application, such as OneNote.
+Capture everything on a whiteboard and/or a note-taking application, such as OneNote.
 
 Create a "Parking Lot" list for items that are out of scope.
 
 ### Follow-up
 
-Take time at the end of the ADS to discuss the next steps. 
+Take time at the end of the ADS to discuss the next steps.
 
 For the next meeting(s)?
 
@@ -257,11 +262,11 @@ For the next meeting(s)?
 
 Some customers will require upskilling on the technologies used in the solution. One method for upskilling is a "What the Hack" event. "What the Hack" is a set of challenge-based hackathons that can be hosted in-person or virtually via Microsoft Teams.
 
-* [_What the Hack_ overview](https://microsoft.github.io/WhatTheHack/)
-* [_What the Hack_ repo](https://github.com/Microsoft/WhatTheHack)
+* [*What the Hack* overview](https://microsoft.github.io/WhatTheHack/)
+* [*What the Hack* repo](https://github.com/Microsoft/WhatTheHack)
 
-<!-- (Not sure if this is helpful, but here are some targeted links for the hacks) -->
 Specific *What The Hack*s
+
 * [Java on Azure App Service](https://microsoft.github.io/WhatTheHack/040-JavaOnAppService/)
 * [App Modernization](https://microsoft.github.io/WhatTheHack/006-AppModernization/)
 
@@ -284,6 +289,7 @@ Security is an important pillar when architecting any application, whether or no
 You can learn more about improving security [here](https://docs.microsoft.com/en-us/azure/architecture/framework/#security).
 
 **More resources:**
+
 * [Enable end-user authentication](https://docs.microsoft.com/en-us/azure/active-directory/develop/web-app-quickstart?pivots=devlang-java)
 * [Microsoft Authentication Library](https://docs.microsoft.com/en-us/azure/active-directory/develop/migrate-adal-msal-java)
 * [Manage app secrets](https://docs.microsoft.com/en-us/azure/key-vault/quick-create-java)

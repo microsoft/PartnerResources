@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QSpring Boot to Azure App Service\nTomcat to Azure App Service\nJBoss EAP to Azure App Service\nConfiguring a Java app for Azure App Service\\E$"}
