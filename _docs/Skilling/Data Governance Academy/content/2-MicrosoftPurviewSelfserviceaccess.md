@@ -6,14 +6,15 @@ updated: 2022-09-07
 permalink: /skilling/data-governance-academy/microsoft-purview-self-service-data-access
 youtubeid: 7DUPcMwV-Ig
 tags: 
-- microsoft purview self-service workflow
-- microsoft purview data policy
-- data Marketplace
-- data consumption
 - azure
 - data, analytics, and ai
-- academy content
 - data governance academy
+- academy content
+- microsoft purview 
+- self-service
+- data policy
+- data marketplace
+- data consumption
 ---
 
 # {{ page.title }}
