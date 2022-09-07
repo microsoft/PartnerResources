@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Azure Digital Twins
-description: Resources for Azuer Digital Twins
+description: Resources for Azure Digital Twins
 updated: 2022-01-31
 permalink: /azure/iot/iot-adt
 tags: 
