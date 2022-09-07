@@ -13,7 +13,8 @@ showbreadcrumb: false
 ## Sessions
 
 {% include series.md 
-    includetags="data governance academy" includemethod="all" 
+    includetags="data governance academy|academy content" includemethod="all" 
+    includesecondtags="data governance|academy content" 
     removetags="azure|data, analytics, and ai|data governance academy|academy content" 
     sortfield="updated" sortorder="desc" showdate="true" showtags="true"
     visualstyle="normal"
