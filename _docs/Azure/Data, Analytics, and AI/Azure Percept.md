@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Azure Percept
-description: Resources for AI/IOT with Azure Percept
+description: Resources for AI/IoT with Azure Percept
 updated: 2022-04-27
 permalink: /azure/data-analytics-ai/azure-percept
 tags: 
