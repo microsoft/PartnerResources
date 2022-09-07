@@ -80,7 +80,7 @@
           tag: security
 - title: Academies
   url: "skilling/academies"
-  tag: workshop
+  tag: academies
   links:
     - title: "Azure Data Academy"
       url: "skilling/azure-data-academy"
@@ -117,7 +117,7 @@
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
           tag: vignettes
- title: Skilling & Hands-on
+- title: Skilling & Hands-on
   url: "skilling/"
   tag: workshop
   links:
