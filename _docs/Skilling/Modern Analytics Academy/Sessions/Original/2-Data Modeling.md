@@ -9,7 +9,7 @@ redirect_from:
   - /azure/data-analytics-ai/modern-analytics-academy-data-modeling
   - /skilling/data-analytics-ai/modern-analytics-academy-data-modeling
 showbreadcrumb: true
-youtubeid: eQ-7o5cYM3I
+youtubeid: 32-jIm60M4s
 tags: 
 - azure
 - data, analytics, and ai
@@ -30,7 +30,7 @@ In Data Modeling we'll look at how to structure a Data Lake, and how to leverage
 ## Main Presentation
 
 * [PowerPoint Deck]({{ site.baseurl }}/assets/maa/Modern%20Analytics%20Academy%20-%20Data%20Modeling.pptx)
-* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PLz7jPMmpNrjm35mPO6KcOeNdMEMSYKXfj)
+* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PL8_VXqhvJI9DtxeuFmmQ0V6Z_zL0MXnnI)
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 [![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
