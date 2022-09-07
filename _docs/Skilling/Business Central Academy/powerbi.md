@@ -23,5 +23,4 @@ Power BI provides a flexible alternative to reports built in Business Central, e
 ### Supporting Resources for these videos
 
 * [Read more about the Power BI Integration Component and Architecture for Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-powerbi-overview)
-* [Power BI and Business Central FAQ](https://docs.microsoft.com/en-us/dynamics365/business-central/power-bi-faq?tabs=general) 
-* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/power-bi-faq?tabs=general" target="_blank">Visit Power BI and Business Central
+* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/power-bi-faq?tabs=general" target="_blank">Visit Power BI and Business Central FAQ
