@@ -7,10 +7,19 @@ permalink: /skilling/Azure Container Apps/3-terraform
 updated: 2022-08-22
 showbreadcrumb: false
 tags:
- - workshop1
- - appdev1
- - modernize1
+ - workshop
+ - appdev
+ - modernize
 ---
+
+## Content
+* [Azure Container Apps Introduction](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/intro)
+* [Module 1: Hands-On: Getting Started with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/1-container-deployment)
+* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/2-bicep)
+* [Module 3: Hands-On: Routing Traffic to Different Revisions](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/3-terraform)
+* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/4-probes)
+* Ongoing Video Resource - COMING SOON!
+
 
 # Hands-On: Deploying Azure Container Apps with Bicep
 
@@ -18,11 +27,11 @@ Although the Azure Portal and Azure CLI provide a through experience deploying A
 
 ## What is Azure Container Apps
 
-Azure Container Apps is a serverless runtime for containerized workloads. If you want to learn more about Azure Container Apps, [pleae visit our introduction to Azure Container Apps”](https://../intro.md).
+Azure Container Apps is a serverless runtime for containerized workloads. If you want to learn more about Azure Container Apps, [pleae visit our introduction to Azure Container Apps”](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/intro).
 
 [Dapr](https://dapr.io/) (Distributed Application Runtime) is a runtime that helps you build resilient stateless and stateful microservices.
 
-This sample shows how to deploy a [Dapr](https://dapr.io/) application to [Azure Container Apps](https://docs.microsoft.com/en-us/azure/container-apps/overview) using Terraform modules and the [AzAPI Provider](https://registry.terraform.io/providers/azure/azapi/latest/docs) instead of an Azure Resource Manager (ARM) or Bicep template like we completed in [Module 2](2-bicep.md) You can find the code of this sample along with Terraform modules under this [Azure Sample](https://github.com/Azure-Samples/container-apps-azapi-terraform).
+This sample shows how to deploy a [Dapr](https://dapr.io/) application to [Azure Container Apps](https://docs.microsoft.com/en-us/azure/container-apps/overview) using Terraform modules and the [AzAPI Provider](https://registry.terraform.io/providers/azure/azapi/latest/docs) instead of an Azure Resource Manager (ARM) or Bicep template like we completed in [Module 2](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/2-bicep). You can find the code of this sample along with Terraform modules under this [Azure Sample](https://github.com/Azure-Samples/container-apps-azapi-terraform).
 
 **In this module you will learn how to:**
 
