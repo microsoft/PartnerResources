@@ -78,13 +78,10 @@
         - title: Security
           url: "modern-workplace/security"
           tag: security
-- title: Skilling & Hands-on
-  url: "skilling/"
-  tag: workshop
+- title: Academies
+  url: "skilling/academies"
+  tag: academies
   links:
-    - title: "AVS Hands-on Labs"
-      url: "skilling/infrastructure/avs-hands-on-labs"
-      tag: avshol
     - title: "Azure Data Academy"
       url: "skilling/azure-data-academy"
       tag: azure data academy
@@ -120,6 +117,13 @@
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
           tag: vignettes
+- title: Skilling & Hands-on
+  url: "skilling/"
+  tag: workshop
+  links:
+    - title: "AVS Hands-on Labs"
+      url: "skilling/infrastructure/avs-hands-on-labs"
+      tag: avshol
     - title: "What the Hack"
       url: "skilling/azure/what-the-hack"
       tag: wth
