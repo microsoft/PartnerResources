@@ -7,9 +7,9 @@ permalink: /skilling/Azure Container Apps/intro
 updated: 2022-08-12
 showbreadcrumb: false
 tags:
- - workshop1
- - appdev1
- - modernize1
+ - workshop
+ - appdev
+ - modernize
 ---
 
 # Azure Container Apps - Zero to Hero Academy
@@ -17,7 +17,7 @@ tags:
 Welcome to the Azure Container Apps - Zero to Hero Academy. This series will give you a comprehensive introduction to what Azure Container Apps are, which technologies are used to provide our serverless container runtime, and how you can build and run containerized workloads within Azure Container Apps (ACA).
 
 ## Content
-* Azure Container Apps Introduction()
+* Azure Container Apps Introduction
 * [Module 1: Hands-On: Getting Started with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure Container Apps/skilling/Azure Container Apps/1-container-deployment)
 * [Module 2: Hands-On: Deploying Azure Container Apps with Bicep](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure Container Apps/2-bicep)
 * [Module 3: Hands-On: Routing Traffic to Different Revisions](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure Container Apps/3-terraform)
