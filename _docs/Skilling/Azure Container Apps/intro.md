@@ -18,10 +18,10 @@ Welcome to the Azure Container Apps - Zero to Hero Academy. This series will giv
 
 ## Content
 * Azure Container Apps Introduction()
-* [Module 1: Hands-On: Getting Started with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/72f1a4f5ff23f9b064a95accd523d3ee7e2971d9/_docs/Skilling/Azure%20Container%20Apps/1-container-deployment.md))
-* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep](https://github.com/microsoft/PartnerResources/blob/72f1a4f5ff23f9b064a95accd523d3ee7e2971d9/_docs/Skilling/Azure%20Container%20Apps/2-bicep.md)
-* [Module 3: Hands-On: Routing Traffic to Different Revisions](/skilling/Azure Container Apps/3-terraform)
-* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps](https://keda.sh/)
+* [Module 1: Hands-On: Getting Started with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure Container Apps/skilling/Azure Container Apps/1-container-deployment)
+* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure Container Apps/2-bicep)
+* [Module 3: Hands-On: Routing Traffic to Different Revisions](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure Container Apps/3-terraform)
+* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure Container Apps/4-probes)
 * Ongoing Video Resource - COMING SOON!
 
 ## Azure Container Apps Overview
