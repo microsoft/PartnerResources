@@ -3,7 +3,7 @@ nav_exclude: true
 layout: page
 title: Creating Custom Health Probes with Azure Container Apps
 description: This series will give you a comprehensive introduction Azure Container Apps.
-permalink: /skilling/Azure Container Apps/3-terraform
+permalink: /skilling/Azure Container Apps/4-probes
 updated: 2022-08-22
 showbreadcrumb: false
 tags:
