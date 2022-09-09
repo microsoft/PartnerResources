@@ -4,6 +4,12 @@
     color: #888888;
 }
 
+.doctags {
+    line-height: 0.2rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 .homepagelink {
     font-size: 16px;
     font-weight: 700;
