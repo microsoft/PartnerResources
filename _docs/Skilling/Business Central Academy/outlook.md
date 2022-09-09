@@ -22,5 +22,5 @@ With the Business Central add-in for Outlook, users can see financial data relat
 
 ### Supporting Resources for these videos
 
-* [Read more about how to install the Outlook Add-in](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-outlook)
-* [Learn how to Synchronize Contacts](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-synchronize-outlook-contacts)
+* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/admin-outlook" target="_blank">Read more about how to install the Outlook Add-in
+* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/admin-synchronize-outlook-contacts" target="_blank">Learn how to Synchronize Contacts
