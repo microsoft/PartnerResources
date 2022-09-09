@@ -18000,8 +18000,9 @@ a.text-dark:focus {
 }
 
 .headerlink {
+    font-size: 0.1rem;
     display: inline-block;
-    margin-left: 1rem;
+    margin-left: 0.1rem;
     -webkit-transform: translateY(.5rem);
     transform: translateY(.5rem);
     transition: color .25s, opacity .125s .25s, -webkit-transform .25s .25s;
