@@ -1,21 +1,30 @@
 ---
 layout: page
-title: Partner Readiness Resources for Modernizing Java Apps
-description: Resources for Modernizing Java Apps
-updated: 2022-08-11
+title: Modernizing Java Applications
+description: A Plan for Modernizing Java Applications
+updated: 2022-09-09
 permalink: /azure/appdev/modernize-dot-java-apps
 tags:
 - azure
 - appdev
 - technical resources 
 - learning plan
+- modernization
 ---
 
-# Partner Readiness Resources for Modernizing Java Apps
+# Modernizing Java Applications
 
-These resources are recommended for partners looking to migrate their Java applications to Azure and will cover mainstream Java on Azure scenarios.  They can expect to learn how to migrate different types of Java applications to Azure, and understand how to build, deploy, and monitor those applications on Azure for their customers.
+## Overview
 
-### Demos & Walkthroughs
+Existing Java applications may run well on-premise, but may not be designed to take advantage of the flexibility and scalability that Microsoft Azure provides.
+
+When considering migrating an application to Azure, it is useful to modernize the application and make it "cloud native" to better take advantage of the benefits of cloud computing. While a "lift and shift" approach - running your applications and data on virtual machines in the cloud - may work, it is likely to be inefficient.
+
+This document describes an approach to modernizing Java applications to optimize the benefits of migrating an application to Azure.
+
+We have included links to resources recommended for partners looking to migrate their Java applications to Azure and will cover mainstream Java on Azure scenarios.  They can expect to learn how to migrate different types of Java applications to Azure, and understand how to build, deploy, and monitor those applications on Azure for their customers.
+
+## Demos & Walkthroughs
 
 <!-- * [Web App Modernization Demo - Video](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX)
 * [Web App Modernization Demo – Click Through](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX) -->
