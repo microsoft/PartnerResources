@@ -7,18 +7,26 @@ permalink: /skilling/Azure Container Apps/2-bicep
 updated: 2022-08-12
 showbreadcrumb: false
 tags:
- - workshop1
- - appdev1
- - modernize1
+ - workshop
+ - appdev
+ - modernize
 ---
 
 # Hands-On: Deploying Azure Container Apps with Bicep
 
 Although the Azure Portal and Azure CLI provide a through experience deploying Azure Container Apps, if your organization/customers prefer using Infrastructure as Code (IaC) to deploy and manage cloud infrastructure then leveraging Azure Bicep will meet those needs. This hands-on lab will guide you through the process of deploying Azure Container Apps using Azure Bicep.
 
+## Content
+* [Azure Container Apps Introduction](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/intro)
+* [Module 1: Hands-On: Getting Started with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/1-container-deployment)
+* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/2-bicep)
+* [Module 3: Hands-On: Routing Traffic to Different Revisions](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/3-terraform)
+* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/4-probes)
+* Ongoing Video Resource - COMING SOON!
+
 ## What is Azure Container Apps
 
-Azure Container Apps is a serverless runtime for containerized workloads. If you want to learn more about Azure Container Apps, [pleae visit our introduction to Azure Container Apps”](https://../intro.md).
+Azure Container Apps is a serverless runtime for containerized workloads. If you want to learn more about Azure Container Apps, [pleae visit our introduction to Azure Container Apps”](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/intro).
 
 ## What is Bicep
 

@@ -7,9 +7,9 @@ permalink: /skilling/Azure Container Apps/intro
 updated: 2022-08-12
 showbreadcrumb: false
 tags:
- - workshop1
- - appdev1
- - modernize1
+ - workshop
+ - appdev
+ - modernize
 ---
 
 # Azure Container Apps - Zero to Hero Academy
@@ -17,14 +17,12 @@ tags:
 Welcome to the Azure Container Apps - Zero to Hero Academy. This series will give you a comprehensive introduction to what Azure Container Apps are, which technologies are used to provide our serverless container runtime, and how you can build and run containerized workloads within Azure Container Apps (ACA).
 
 ## Content
-* Azure Container Apps Introduction()
-* [Module 1: Hands-On: Getting Started with Azure Container Apps](https://keda.sh/)
-* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep](/skilling/Azure Container Apps/2-bicep)
-* [Module 3: Hands-On: Routing Traffic to Different Revisions](https://keda.sh/)
-* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps](https://keda.sh/)
-* [Module 5: Hands-On: Setting up Managed Identities with Azure Container Apps](https://keda.sh/)
-* [Ongoing Video Resource](https://keda.sh/)
-
+* Azure Container Apps Introduction
+* [Module 1: Hands-On: Getting Started with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/1-container-deployment)
+* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/2-bicep)
+* [Module 3: Hands-On: Routing Traffic to Different Revisions](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/3-terraform)
+* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/4-probes)
+* Ongoing Video Resource - COMING SOON!
 
 ## Azure Container Apps Overview
 
@@ -103,6 +101,6 @@ An _environment_ consists of at least one _container app_. Every _environment_ a
 
 ## Conclusion
 
-Getting started with Kubernetes can be challenge for organizations. This is especially true for newcomers or developers who want to focus on solving business requirements instead of tackling and mastering the underlying application platform. With the rise of Azure Container Apps, organizations and individual developers can remain focussed on solving business requirements and deploy cloud-native applications with ease to a fully-managed service offering.
+Getting started with Azure Kubernetes Services can be challenge for organizations. This is especially true for newcomers or developers who want to focus on solving business requirements instead of tackling and mastering the underlying application platform. With the rise of Azure Container Apps, organizations and individual developers can remain focussed on solving business requirements and deploy cloud-native applications with ease to a fully-managed service offering.
 
 If you want to learn more about Azure Container Apps, consult the [official documentation](https://docs.microsoft.com/en-us/azure/container-apps/).
