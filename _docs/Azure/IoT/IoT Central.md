@@ -1,7 +1,7 @@
 ---
 layout: page
-title: IoT Central
-description: Resources for IoT Central
+title: Azure IoT Central
+description: Resources for Azure IoT Central
 updated: 2021-12-01
 permalink: /azure/iot/iot-central
 tags: 
@@ -10,7 +10,7 @@ tags:
 - iot
 ---
 
-# Learning Plan Resources for IoT Central
+# Learning Plan Resources for Azure IoT Central
 
 ## Keeping Up
 
