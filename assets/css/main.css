@@ -18098,6 +18098,12 @@ html body .md-typeset .headerlink {
     font-weight: 500
 }
 
+.td-sidebar-nav__section-title_strong {
+    display: block;
+    font-weight: 500;
+    color: #000000;
+}
+
 .td-sidebar-nav__section-title .active {
     font-weight: 700
 }
@@ -18114,6 +18120,11 @@ html body .md-typeset .headerlink {
 .td-sidebar-nav .td-sidebar-link__page {
     color: #495057;
     font-weight: 300
+}
+
+.td-sidebar-nav .td-sidebar-link__page_strong {
+    color: #495057;
+    font-weight: 600
 }
 
 .td-sidebar-nav a:hover {
