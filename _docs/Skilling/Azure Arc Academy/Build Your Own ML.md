@@ -2,7 +2,7 @@
 layout: page
 title: Azure Arc Academy - Build Your Own ML
 description: Workshop focused on Azure Arc - Build Your Own ML
-permalink: /skilling/ai-ml-academy/build-your-own-ml
+permalink: /skilling/azure-arc-academy/build-your-own-ml
 updated: 2022-09-09
 showbreadcrumb: true
 tags: 
