@@ -7,9 +7,9 @@ permalink: /skilling/Azure Container Apps/2-bicep
 updated: 2022-08-12
 showbreadcrumb: false
 tags:
- - workshop1
- - appdev1
- - modernize1
+ - workshop
+ - appdev
+ - modernize
 ---
 
 # Hands-On: Deploying Azure Container Apps with Bicep
