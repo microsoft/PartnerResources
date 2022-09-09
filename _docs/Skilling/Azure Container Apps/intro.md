@@ -18,7 +18,7 @@ Welcome to the Azure Container Apps - Zero to Hero Academy. This series will giv
 
 ## Content
 * Azure Container Apps Introduction
-* [Module 1: Hands-On: Getting Started with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure Container Apps/skilling/Azure%20Container%20Apps/1-container-deployment)
+* [Module 1: Hands-On: Getting Started with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/1-container-deployment)
 * [Module 2: Hands-On: Deploying Azure Container Apps with Bicep](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/2-bicep)
 * [Module 3: Hands-On: Routing Traffic to Different Revisions](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/3-terraform)
 * [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/4-probes)
