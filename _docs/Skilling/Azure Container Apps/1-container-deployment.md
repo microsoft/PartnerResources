@@ -7,21 +7,20 @@ permalink: /skilling/Azure Container Apps/1-container-deployment
 updated: 2022-08-12
 showbreadcrumb: false
 tags:
- - workshop1
- - appdev1
- - modernize1
+ - workshop
+ - appdev
+ - modernize
 ---
 
 # Hands-On: Getting started with Azure Container Apps
 
 ## Content
-* [Azure Container Apps Introduction](https://123.com)
-* [Module 1: Hands-On: Getting Started with Azure Container Apps](https://keda.sh/)
-* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep](https://keda.sh/)
-* [Module 3: Hands-On: Routing Traffic to Different Revisions](https://keda.sh/)
-* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps](https://keda.sh/)
-* [Module 5: Hands-On: Setting up Managed Identities with Azure Container Apps](https://keda.sh/)
-* [Ongoing Video Resource](https://keda.sh/)
+* [Azure Container Apps Introduction](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/intro)
+* [Module 1: Hands-On: Getting Started with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/1-container-deployment)
+* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/2-bicep)
+* [Module 3: Hands-On: Routing Traffic to Different Revisions](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/3-terraform)
+* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/4-probes)
+* Ongoing Video Resource - COMING SOON!
 
 Now that we have covered the general concepts of Azure Container Apps, now it is time to do some hands-on labs and deploy a simple container to Azure Container Apps.
 
