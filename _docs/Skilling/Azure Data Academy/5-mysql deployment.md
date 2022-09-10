@@ -4,7 +4,7 @@ title: Azure Database for MySQL Deployment Options
 description: Azure Database for MySQL Flexible Server is a fully managed MySQL database offering that provides flexible scalability and allows for granular control over database management and configuration settings. In this session, delivered by the MySQL team at Microsoft, we’ll explore the different deployment options to best fit your devops environment, primarily focusing on Terraform by HashiCorp, and discussing high level differences with CLI, ARM, and Bicep. 
 updated: 2022-06-28
 permalink: /skilling/azure-data-academy/azure-database-mysql-deployment
-youtubeid: X9nEQEyHgoo
+youtubeid: 7ZpD39EtTHk
 tags: 
 - azure
 - data, analytics, and ai

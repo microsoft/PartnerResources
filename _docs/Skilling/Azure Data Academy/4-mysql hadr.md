@@ -4,7 +4,7 @@ title: Azure Database for MySQL HA/DR
 description: Azure Database for MySQL Flexible Server is a fully managed MySQL database offering that provides flexible scalability and allows for granular control over database management and configuration settings. This session, delivered by Avnish Rastogi from the MySQL Flexible Server team, will explore the high availability and disaster recovery options available to Azure SQL Database for MySQL Flexible Server, ensuring the right level of business continuity that meets your objectives. We’ll discuss zone availability, backups, and scaling considerations.
 updated: 2022-06-23
 permalink: /skilling/azure-data-academy/azure-database-mysql-hadr
-youtubeid: rPcxDTAisMk
+youtubeid: uzMJDOSZZH4
 tags: 
 - azure
 - data, analytics, and ai
