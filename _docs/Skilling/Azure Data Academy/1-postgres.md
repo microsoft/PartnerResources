@@ -4,7 +4,7 @@ title: Introduction to Azure Database for PostgreSQL Flexible Server
 description: Our Azure Data Academy series will demonstrate the latest data-centric technologies on Microsoft Azure. In this session, Gennady Kostinsky introduces Azure Database for PostgreSQL, a fully managed PaaS service allowing you to focus on application innovation, not database management. The Flexible Server architecture provides single-zone or zone-redundant high availability to suit application needs.
 updated: 2022-04-27
 permalink: /skilling/azure-data-academy/azure-database-postgres-overview
-youtubeid: fzVROh-xgto
+youtubeid: NSEmJfUgNzE
 tags: 
 - azure
 - data, analytics, and ai
