@@ -11,7 +11,7 @@ Welcome to the Academy Hub. This area contains all of our Academy series content
 
 Have a suggestion, comment, or would like to contribute? [Use our form](https://forms.office.com/r/GZwiMqB3Zg) to contact us. Be sure to include an e-mail address if you'd like a reply.
 
-### [Modern Analytics Academy](/PartnerResources/skilling/modern-analytics-academy)
+## [Modern Analytics Academy](/PartnerResources/skilling/modern-analytics-academy)
 Modern analytics and data warehousing techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. Most recent content:
 
 {% include series.md 
@@ -22,7 +22,7 @@ Modern analytics and data warehousing techniques, principles, and technologies a
 
 <hr/>
 
-### [Azure Data Academy](/PartnerResources/skilling/azure-data-academy)
+## [Azure Data Academy](/PartnerResources/skilling/azure-data-academy)
 Skilling on all database technologies on Azure, including SQL Server, MySQL, and PostgreSQL. While the Modern Analytics Academy focuses mainly on the analytical side of data engineering, Azure Data Academy focuses more on the operational/transactional side. Most recent content:
 
 {% include series.md 
@@ -33,7 +33,7 @@ Skilling on all database technologies on Azure, including SQL Server, MySQL, and
 
 <hr/>
 
-### [Data Governance Academy](/PartnerResources/skilling/data-governance-academy)
+## [Data Governance Academy](/PartnerResources/skilling/data-governance-academy)
 Sessions on data governance and Microsoft Purview. Topics include data catalog, lineage management, and integration with third party solutions. Most recent content:
 
 {% include series.md 
@@ -44,7 +44,7 @@ Sessions on data governance and Microsoft Purview. Topics include data catalog, 
 
 <hr/>
 
-### [D365 Business Central Pre-Sales Academy](/PartnerResources/skilling/business-central-academy)
+## [D365 Business Central Pre-Sales Academy](/PartnerResources/skilling/business-central-academy)
 The Business Central Pre-Sales Academy is a series of presentations combined with hands-on materials designed to upskill individuals who are responsible for preparing and delivering Business Central software demonstrations. Most recent content:
 
 {% include series.md 
