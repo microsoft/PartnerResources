@@ -10,6 +10,7 @@ tags:
 - data, analytics, and ai
 - academy content
 - data governance academy
+- microsoft purview 
 - sql
 - lineage
 ---
