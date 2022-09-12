@@ -2,7 +2,7 @@
 layout: page
 title: Understanding Resource Sets in Microsoft Purview
 description: Microsoft Purview represents partitioned data in a data lake using Resource Sets. In this video, we'll look at what resource sets are, how they work, and when you might need to use advanced resource sets for additional control over the resource set scanning process. See links below for references.
-updated: 2022-08-23
+updated: 2022-09-12
 permalink: /skilling/data-governance-academy/purview-resource-sets
 youtubeid: XBuUOqyX1gM
 tags: 
