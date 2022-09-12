@@ -43,10 +43,27 @@ We have included links to resources recommended for partners looking to migrate 
 
 ### Cost Benefit
 
+Migrating an application to the cloud provides potential cost savings. By renting compute and storage resources instead of buying them, we move from Capital Expenses to Operating Expenses. For volatile workloads, this can offer significant savings, as we don't need to pay for excess capacity when demand is low.
+
+The [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) allows you to estimate the cost of an application deployed to Azure.
+
+Links:
 <!-- * [Apply Azure Hybrid Benefit (AHUB) to Azure SQL Database PaaS services](https://azure.microsoft.com/en-us/services/sql-database/) -->
 * [Enterprise Dev/Test Offer](https://azure.microsoft.com/en-us/offers/ms-azr-0148p/#:~:text=The%20Enterprise%20Dev/Test%20offer%20is,be%20accessed%20by%20any%20users.)
 
 ## <a name="ads"></a>Architectural Design Session
+
+An Architecture Design Session (ADS) is a session to analyze the application requirements, select appropriate services and other technologies to meet those requirements, and define how those services will interact with one another.
+
+The goals of an ADS are:
+
+* Review the objectives of the modernization
+* Gain an understanding of the application's functional and non-functional requirements
+* Capture the requirements and the backlog
+* Identify potential bottlenecks
+* Identify potential performance, availability, and scalability issues
+* Design solutions for potential issues
+* Develop a plan for deployment and testing
 
 ### Discovery
 
