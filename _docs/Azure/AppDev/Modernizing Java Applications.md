@@ -14,7 +14,18 @@ tags:
 
 # Modernizing Java Applications
 
-## Overview
+* [Overview](#overview)
+* [Demos & Walkthroughs](#demos)
+* [Architectural Design Session](#ads)
+* [Assessments](#assessments)
+* [Hackathon](#hackathon)
+* [Proof of Concept](#poc)
+* [Tech Briefing](#techbriefing)
+* [Solution Technical Review](#techreview)
+* [Build & Assist](#build)
+* [Roadmap Planning](#roadmap)
+* [Envisioning](#envisioning)
+## <a name="overview"></a>Overview
 
 Existing Java applications may run well on-premise, but may not be designed to take advantage of the flexibility and scalability that Microsoft Azure provides.
 
@@ -24,7 +35,7 @@ This document describes an approach to modernizing Java applications to optimize
 
 We have included links to resources recommended for partners looking to migrate their Java applications to Azure and will cover mainstream Java on Azure scenarios.  They can expect to learn how to migrate different types of Java applications to Azure, and understand how to build, deploy, and monitor those applications on Azure for their customers.
 
-## Demos & Walkthroughs
+## <a name="demos"></a>Demos & Walkthroughs
 
 <!-- * [Web App Modernization Demo - Video](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX)
 * [Web App Modernization Demo – Click Through](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX) -->
@@ -35,7 +46,7 @@ We have included links to resources recommended for partners looking to migrate 
 <!-- * [Apply Azure Hybrid Benefit (AHUB) to Azure SQL Database PaaS services](https://azure.microsoft.com/en-us/services/sql-database/) -->
 * [Enterprise Dev/Test Offer](https://azure.microsoft.com/en-us/offers/ms-azr-0148p/#:~:text=The%20Enterprise%20Dev/Test%20offer%20is,be%20accessed%20by%20any%20users.)
 
-## Architectural Design Session
+## <a name="ads"></a>Architectural Design Session
 
 ### Discovery
 
@@ -162,7 +173,7 @@ Metrics
 * [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 * [GCP to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/services)
 
-## Assessments (Technical & Solution)
+## <a name="assessments"></a>Assessments (Technical & Solution)
 
 [Partner Readiness Resources for Azure Spring Apps](./Partner%20Readiness%20Resources%20for%20Spring%20Apps.md)
 
@@ -267,7 +278,7 @@ For the next meeting(s)?
 * Who should attend?
 * What should be done by whom between now and then?
 
-## Hackathon
+## <a name="hackathon"></a>Hackathon
 
 Some customers will require upskilling on the technologies used in the solution. One method for upskilling is a "What the Hack" event. "What the Hack" is a set of challenge-based hackathons that can be hosted in-person or virtually via Microsoft Teams.
 
@@ -279,9 +290,9 @@ Specific *What The Hack*s
 * [Java on Azure App Service](https://microsoft.github.io/WhatTheHack/040-JavaOnAppService/)
 * [App Modernization](https://microsoft.github.io/WhatTheHack/006-AppModernization/)
 
-## POC
+## <a name="POC"></a> Proof of Concept
 
-## Tech Briefing
+## <a name="techbriefing"></a>Tech Briefing
 
 The [Microsoft Azure Well Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) provides guidance on building and migrating an application to Azure. The framework consists of five architectural "pillars": Reliability, Security, Cost Optimization, Operational Excellence, and Performance Efficiency.
 
@@ -321,14 +332,19 @@ There are two ways to increase performance and capacity: Scaling up (increasing 
 
 You can learn more about improving performance efficiency in Azure applications [here](https://docs.microsoft.com/en-us/azure/architecture/framework/#performance-efficiency).
 
-## Solution Tech Review
+## <a name="techreview"></a>Solution Tech Review
 
 (Assigned to Mike R)
 
-## Build & Assist
+## <a name="build"></a>Build & Assist
 
 (Assigned to Mike R)
 
-## Roadmap Planning
+## <a name="roadmap"></a>Roadmap Planning
 
 (Assigned to Mike R)
+
+## <a name="envisioning"></a>Envisioning
+
+(Assigned to Mike R)
+
