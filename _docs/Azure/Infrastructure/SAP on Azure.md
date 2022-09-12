@@ -67,6 +67,12 @@ tags:
 
 [SAP HANA infrastructure configurations and operations on Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-operations)
 
+## Azure Center For SAP Solutions 
+[Announcing Azure Center for SAP Solutions ](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/announcing-public-preview-for-microsoft-azure-center-for-sap/ba-p/3573408)
+
+[Azure Center for SAP Solutions Documentation](https://docs.microsoft.com/en-us/azure/center-sap-solutions/)
+
+
 ## Automate SAP Deployment on Azure 
 [The SAP deployment automation framework](https://github.com/Azure/sap-automation)
 
@@ -80,7 +86,7 @@ tags:
 
 [Azure Backup as Service for SAP HANA Database](https://docs.microsoft.com/en-us/azure/backup/backup-azure-sap-hana-database)
 
-[Native Monitoring Solution for SAP on Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/monitor-sap-on-azure)
+[Azure Monitor for SAP Solutions V2](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/monitor-sap-on-azure)
 
 [Integrating SAP on Azure with native Azure cloud services](https://www.youtube.com/watch?v=Im2YlaFCWSc)
 
