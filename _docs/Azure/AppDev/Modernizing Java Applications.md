@@ -42,6 +42,18 @@ Links:
 
 ## Architectural Design Session
 
+An Architecture Design Session (ADS) is a session to analyze the application requirements, select appropriate services and other technologies to meet those requirements, and define how those services will interact with one another.
+
+The goals of an ADS are:
+
+* Review the objectives of the modernization
+* Gain an understanding of the application's functional and non-functional requirements
+* Capture the requirements and the backlog
+* Identify potential bottlenecks
+* Identify potential performance, availability, and scalability issues
+* Design solutions for potential issues
+* Develop a plan for deployment and testing
+
 ### Discovery
 
 * [App Service Migration Assistant Tool](https://appmigration.microsoft.com/)
