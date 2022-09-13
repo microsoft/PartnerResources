@@ -18,8 +18,6 @@ tags:
   * [Why Modernize?](#why)
   * [Cost Benefits](#cost)
 * [Envisioning](#envisioning)
-  * [Customer Stories](#stories)
-  * [Demo](#demos)
 * [Architectural Design Session for Service partners](#ads)
   * [Discover](#discover)
   * [Assess](#assess)
@@ -48,6 +46,7 @@ Many companies have successfully migrated their Java applications to Microsoft A
 This document describes an approach to modernizing Java applications to optimize the benefits of migrating an application to Azure.
 
 ### <a name="why"></a>Why Modernize?
+
 When considering migrating an application to Azure, it is useful to modernize the application and make it "cloud native" to better take advantage of the benefits of cloud computing. While a "lift and shift" approach - running your applications and data on virtual machines in the cloud - may work, it is likely to be inefficient.
 
 We have included links to resources recommended for partners looking to migrate their Java applications to Azure and will cover mainstream Java on Azure scenarios.  Readers can expect to learn how to migrate different types of Java applications to Azure, and understand how to build, deploy, and monitor those applications on Azure for their customers.
@@ -59,7 +58,7 @@ Migrating an application to the cloud provides potential cost savings. By rentin
 The [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) allows you to estimate the cost of an application deployed to Azure.
 
 ##### Links
-<!-- * [Apply Azure Hybrid Benefit (AHUB) to Azure SQL Database PaaS services](https://azure.microsoft.com/en-us/services/sql-database/) -->
+
 * [Enterprise Dev/Test Offer](https://azure.microsoft.com/en-us/offers/ms-azr-0148p/#:~:text=The%20Enterprise%20Dev/Test%20offer%20is,be%20accessed%20by%20any%20users.)
 * [Total Economic Impact of Cloud Services](https://azure.microsoft.com/en-in/resources/the-total-economic-impact-of-microsoft-developer-tools-and-cloud-services/)
 * [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
@@ -72,24 +71,18 @@ The goals of an Envisioning Session are:
 
 * Establish a clear understanding of business objectives
 * Define how a potential solution would be used and how its performance should be measured
-* Determine what relevant data is available
-* Understand the capabilities of the development team
+* Understand the capabilities of the development team and address any gasp
 * Make sure all parties have the same understanding of the scope of the project
 * Clearly communicate the next steps
 
-You can learn more about conducting an Envisioning Session [here](https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-problem-formulation-envisioning/).
-
-#### <a name="demos"></a>Demos & Walkthroughs
-
-<!-- * [Web App Modernization Demo - Video](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX)
-* [Web App Modernization Demo – Click Through](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX) -->
-* [Azure Apps Demo](https://azureappsdemomap.com/map)
+At the end of the Envisioning Session, both parties should reach an agreement whether and when to proceed with the project.
 
 ## <a name="ads"></a>Architectural Design Session for Services Partners
 
-This guidance is specifically for Microsoft service partners (consulting companies, system integrators, managed service providers, Cloud Solution Providers, etc) that are interested in modernizing their customer's Java workloads on Azure. 
+This guidance is specifically for Microsoft service partners (consulting companies, system integrators, managed service providers, Cloud Solution Providers, etc.) that are interested in modernizing their customer's Java workloads on Azure. 
 
 Microsoft provides resource for partners throughout the entire modernize journey. The journey is divided into distinct stages.
+
 * Discover
 * Assess
 * Plan
@@ -408,7 +401,7 @@ The solution must contain at least one of these services listed below.
 * RedHat OpenShift
 * Service Bus
 * Signal R
-	
+
 Additional Solution Services: Beyond the basic services, the solution may contain the below listed additional services, as part of the well architected solution. 
 
 * Application Gateway
@@ -418,9 +411,11 @@ Additional Solution Services: Beyond the basic services, the solution may contai
 * Key Vault
 * Security Center
 * Traffic Manager
-	
+
 ### Tech Review Requirements
+
 * The partner should provide detailed explanation for one or more customer reference stories that clearly demonstrate Modernizing with Java.
+
 *  The partner should have sufficient staff with skills or certifications for Modernizing with Java.
 *  The partner’s staff should understand and leverage best practices as well as guidance and principles described in Application Architecture Center, Well-Architected Framework, Cloud Adoption Framework
 * The partner's staff should understand and leverage App + Data Migration Tools – Azure Migrate, App Service Migration Assistant, Data Migration Assistant – for application migration projects.
@@ -428,13 +423,14 @@ Additional Solution Services: Beyond the basic services, the solution may contai
   * Related competency: Must have an active Gold Cloud Platform Competency 
   * Knowledge: Your organization must have at least six individuals who pass the following certifications: 
     * One unique individual must pass Azure Administrator Associate certification AND
-    *  One unique individual must pass Azure Solutions Architect Expert certification AND
-    *  One unique individual must pass Azure DevOps Engineer Expert certification AND 
-    *  One unique individual must pass Azure Security Engineer Associate certification AND
-    *  One unique individual must pass Azure Data Engineer Associate certification AND
-    *  One unique individual must pass Azure Developer Associate certification 
+    * One unique individual must pass Azure Solutions Architect Expert certification AND
+    * One unique individual must pass Azure DevOps Engineer Expert certification AND 
+    * One unique individual must pass Azure Security Engineer Associate certification AND
+    * One unique individual must pass Azure Data Engineer Associate certification AND
+    * One unique individual must pass Azure Developer Associate certification 
 
 ### Best Practices
+
 * HA: The partner should articulate how they ensure the solution is highly available for customers. They might implement at least one of the below services in the case of App Service Environment.
   * Availability Zones
   * Availability Sets
