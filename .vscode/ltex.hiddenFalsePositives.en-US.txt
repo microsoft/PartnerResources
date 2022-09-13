@@ -1,1 +1,7 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QSpring Boot to Azure App Service\nTomcat to Azure App Service\nJBoss EAP to Azure App Service\nConfiguring a Java app for Azure App Service\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QMicrosoft Azure Well-Architected Framework\nCloud Adoption Framework\nBest Practices for Cloud Applications\nDesign Principles for Azure Applications\nApplication Performance Management (APM) on Azure\nAzure for Java developer documentation\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QAzure Security Benchmark\nSecurity Pillar of the Well Architected Framework\nEasy Auth\nHTTPS\nService Endpoints\nPrivate Endpoints\nVNET Integration\nApp Service Environments\nAllow Lists\nAuthentication\nKey Vault\nApp Configuration\nApplication Gateway\nMicrosoft Defender for Cloud\nMicrosoft Sentinel\nBCDR: The partner should explain the solution SLA, RTO/RPO and backup practices.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QRaley's\nSwiis Re\nBosch\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QArchitecture Design Session for ISVs\\E$"}
+{"rule":"WHETHER","sentence":"^\\QSecurity is an important pillar when architecting any application, whether or not it is in Azure.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QCost Benefits\nEnvisioning\nArchitectural Design Session for Service partners\nDiscover\nAssess\nPlan\nOperationalize\nArchitectural Design Session for ISVs\nAssessments\nHackathon\nProof of Concept\nTech Briefing\nSolution Technical Review\nBuild & Assist\nRoadmap Planning\\E$"}
