@@ -22,7 +22,6 @@ tags:
   * [Discover](#discover)
   * [Assess](#assess)
   * [Plan](#plan)
-  * [Migrate](#migrate)
   * [Operationalize](#operationalize)
 * [Architectural Design Session for ISVs](#adsisv)
 * [Assessments](#assessments)
