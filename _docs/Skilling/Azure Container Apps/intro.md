@@ -17,6 +17,15 @@ tags:
 
 Welcome to the Azure Container Apps - Zero to Hero Academy. This series will give you a comprehensive introduction to what Azure Container Apps are, which technologies are used to provide our serverless container runtime, and how you can build and run containerized workloads within Azure Container Apps (ACA).
 
+## Test Links 
+
+* [Introduction]({% link _docs/Skilling/Azure Container Apps/intro.md %})
+* [Module 1: Hands-On: Getting Started with Azure Container Apps]({% link _docs/Skilling/Azure Container Apps/1-container-deployment.md %}))
+* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep]({% link _docs/Skilling/Azure Container Apps/2-bicep.md %})
+* [Module 3: Hands-On: Routing Traffic to Different Revisions]({% link _docs/Skilling/Azure Container Apps/3-terraform.md %}))
+* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps]({% link _docs/Skilling/Azure Container Apps/4-custom-health-probes.md %}))
+
+
 ## Content
 
 * [Introduction]({{ site.baseurl }}/skilling/azure-container-apps/intro)
