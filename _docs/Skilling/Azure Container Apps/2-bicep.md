@@ -3,10 +3,11 @@ nav_exclude: true
 layout: page
 title: Azure Container Apps - Zero to Hero Academy
 description: This series will give you a comprehensive introduction Azure Container Apps.
-permalink: /skilling/Azure Container Apps/2-bicep
-updated: 2022-08-12
+permalink: /skilling/azure-container-apps/2-bicep
+updated: 2022-09-12
 showbreadcrumb: false
 tags:
+ - azure container apps academy
  - workshop
  - appdev
  - modernize
@@ -17,12 +18,12 @@ tags:
 Although the Azure Portal and Azure CLI provide a through experience deploying Azure Container Apps, if your organization/customers prefer using Infrastructure as Code (IaC) to deploy and manage cloud infrastructure then leveraging Azure Bicep will meet those needs. This hands-on lab will guide you through the process of deploying Azure Container Apps using Azure Bicep.
 
 ## Content
-* [Azure Container Apps Introduction](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/intro)
-* [Module 1: Hands-On: Getting Started with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/1-container-deployment)
-* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/2-bicep)
-* [Module 3: Hands-On: Routing Traffic to Different Revisions](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/3-terraform)
-* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/4-probes)
-* Ongoing Video Resource - COMING SOON!
+
+* [Introduction]({{ site.baseurl }}/skilling/azure-container-apps/intro)
+* [Module 1: Hands-On: Getting Started with Azure Container Apps]({{ site.baseurl }}/skilling/azure-container-apps/1-container-deployment)
+* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep]({{ site.baseurl }}/skilling/azure-container-apps/2-bicep)
+* [Module 3: Hands-On: Routing Traffic to Different Revisions]({{ site.baseurl }}/skilling/azure-container-apps/3-terraform)
+* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps]({{ site.baseurl }}/skilling/azure-container-apps/4-probes)
 
 ## What is Azure Container Apps
 
@@ -63,7 +64,7 @@ Inside Visual Studio Code, verify that you have installed the Bicep extension (`
 
 Launch the _Extension View_ from the _Activitiy Bar_ (or just press `Cmd+Shift+X`). Search for `Bicep` and install it if necessary.
 
-![](assets/aca-workshop/bicep_install.png)
+![Bicep Install]({{ site.baseurl }}/assets/aca-workshop/bicep_install.png)
 
 ### Bicep extension in Visual Studio Code
 
@@ -303,10 +304,6 @@ fqdn=$(az deployment group show -g rg-blog-sample --query properties.outputs.fqd
 # test a public API endpoint
 curl --silent https://$fqdn/weatherforecast | jq
 ```
-
-![ASP.NET Core Weatherforecast running in Azure Container Apps](https://www.thorsten-hans.com/how-to-deploy-azure-container-apps-with-bicep/images/how-to-deploy-azure-container-apps-with-bicep-1.png)
-
-#### ASP.NET Core Weatherforecast running in Azure Container Apps
 
 ## Conclusion
 
