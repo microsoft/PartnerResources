@@ -3,10 +3,11 @@ nav_exclude: true
 layout: page
 title: Azure Container Apps - Zero to Hero Academy
 description: This series will give you a comprehensive introduction Azure Container Apps.
-permalink: /skilling/Azure Container Apps/1-container-deployment
-updated: 2022-08-12
+permalink: /skilling/azure-container-apps/1-container-deployment
+updated: 2022-09-12
 showbreadcrumb: false
 tags:
+ - azure container apps academy
  - workshop
  - appdev
  - modernize
@@ -15,12 +16,12 @@ tags:
 # Hands-On: Getting started with Azure Container Apps
 
 ## Content
-* [Azure Container Apps Introduction](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/intro)
-* [Module 1: Hands-On: Getting Started with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/1-container-deployment)
-* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/2-bicep)
-* [Module 3: Hands-On: Routing Traffic to Different Revisions](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/3-terraform)
-* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/4-probes)
-* Ongoing Video Resource - COMING SOON!
+
+* [Introduction]({{ site.baseurl }}/skilling/azure-container-apps/intro)
+* [Module 1: Hands-On: Getting Started with Azure Container Apps]({{ site.baseurl }}/skilling/azure-container-apps/1-container-deployment)
+* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep]({{ site.baseurl }}/skilling/azure-container-apps/2-bicep)
+* [Module 3: Hands-On: Routing Traffic to Different Revisions]({{ site.baseurl }}/skilling/azure-container-apps/3-terraform)
+* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps]({{ site.baseurl }}/skilling/azure-container-apps/4-probes)
 
 Now that we have covered the general concepts of Azure Container Apps, now it is time to do some hands-on labs and deploy a simple container to Azure Container Apps.
 
@@ -111,8 +112,4 @@ az containerapp create \
 
 This command will print the FQDN, which we can use in the browser to access NGINX using it’s public address.
 
-<div style="text-align: center;">
-
-![](assets/aca-workshop/azure-container-apps-quickstart.jpg)
-
-</div>
+![Quickstart]({{ site.baseurl }}/assets/aca-workshop/azure-container-apps-quickstart.jpg)

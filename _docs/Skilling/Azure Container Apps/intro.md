@@ -3,10 +3,11 @@ nav_exclude: true
 layout: page
 title: Azure Container Apps - Zero to Hero Academy
 description: This series will give you a comprehensive introduction Azure Container Apps.
-permalink: /skilling/Azure Container Apps/intro
-updated: 2022-08-12
+permalink: /skilling/azure-container-apps/intro
+updated: 2022-09-12
 showbreadcrumb: false
 tags:
+ - azure container apps academy
  - workshop
  - appdev
  - modernize
@@ -17,11 +18,12 @@ tags:
 Welcome to the Azure Container Apps - Zero to Hero Academy. This series will give you a comprehensive introduction to what Azure Container Apps are, which technologies are used to provide our serverless container runtime, and how you can build and run containerized workloads within Azure Container Apps (ACA).
 
 ## Content
-* Azure Container Apps Introduction
-* [Module 1: Hands-On: Getting Started with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/1-container-deployment)
-* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/2-bicep)
-* [Module 3: Hands-On: Routing Traffic to Different Revisions](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/3-terraform)
-* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps](https://github.com/microsoft/PartnerResources/blob/main/PartnerResources/skilling/Azure%20Container%20Apps/4-probes)
+
+* [Introduction]({{ site.baseurl }}/skilling/azure-container-apps/intro)
+* [Module 1: Hands-On: Getting Started with Azure Container Apps]({{ site.baseurl }}/skilling/azure-container-apps/1-container-deployment)
+* [Module 2: Hands-On: Deploying Azure Container Apps with Bicep]({{ site.baseurl }}/skilling/azure-container-apps/2-bicep)
+* [Module 3: Hands-On: Routing Traffic to Different Revisions]({{ site.baseurl }}/skilling/azure-container-apps/3-terraform)
+* [Module 4: Hands-On: Creating Custom Health Probes with Azure Container Apps]({{ site.baseurl }}/skilling/azure-container-apps/4-probes)
 * Ongoing Video Resource - COMING SOON!
 
 ## Azure Container Apps Overview
@@ -42,11 +44,8 @@ Azure Container Apps enables you to run microservices and containerized applicat
 * Any KEDA-supported scaler
 
 #### Example scenarios for Azure Container Apps:
-<div style="text-align: center;">
 
-![](assets/aca-workshop/azure-container-apps-example-scenarios.png)
-
-</div>
+![Example Scenarios]({{ site.baseurl }}/assets/aca-workshop/azure-container-apps-example-scenarios.png)
 
 Azure Container Apps enables executing application code packaged in any container and is unopinionated about runtime or programming model. With Container Apps, you enjoy the benefits of running containers while leaving behind the concerns of managing cloud infrastructure and complex container orchestrators.
 
@@ -73,12 +72,7 @@ You can upgrade from Azure Container Apps to full-fledged Azure Kubernetes Servi
 
 Azure Container Apps comes with a handful of components that you will need to understand and know how to properly leverage to build cloud-native enterprise applications. The image below is a high-level example of a few applications/containers deployed to the Azure Container Apps environment.
 
-<div style="text-align: center;">
-
-![](assets/aca-workshop/azure-container-apps-containers.png)
-
-</div>
-
+![Azure Container Apps Containers]({{ site.baseurl }}/assets/aca-workshop/azure-container-apps-containers.png)
 
 ### Containers in Azure Container Apps
 
@@ -97,7 +91,6 @@ A _container app_ consists of at least one _revision_. Every _container app_ can
 ### Environments in Azure Container Apps
 
 An _environment_ consists of at least one _container app_. Every _environment_ acts as a security boundary, which means all its _container apps_ are deployed into a dedicated _Azure Virtual Network_. All logs produced from containers inside of the _environment_ are sent to a dedicated _Azure Log Analytics Workspace_.
-
 
 ## Conclusion
 

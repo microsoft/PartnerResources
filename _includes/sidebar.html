@@ -12,7 +12,7 @@
     <li class="td-sidebar-nav__section-title"><a href="{{ site.baseurl }}/{{ section.url }}"><span class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">{{ section.title }}</span></a></li>
     {% if section.links %}
       <ul>
-        <li class="collapse show" id="{{ section.title | slugify }}">
+        <li class="collapse show" id="sidebar_{{ section.title | slugify }}">
           <ul class="td-sidebar-nav__section pr-md-3">
               {% for entry in section.links %}
                 {% assign sectionText = "" %}
@@ -20,7 +20,7 @@
                 {% assign cleanedPage = page.url | remove: "/" %}
                 {% assign cleanedEntry = entry.url | remove: "/" %}
 
-                {% capture sectionHead %}<ul><li class="collapse show" id="{{ child.title | slugify }}">{% endcapture %}
+                {% capture sectionHead %}<ul><li class="collapse show" id="sidebar_{{ child.title | slugify }}">{% endcapture %}
                 {% capture sectionTail %}</li></ul>{% endcapture %}
                 {% assign sectionText = sectionHead %}
                 {% assign childText = "" %}
