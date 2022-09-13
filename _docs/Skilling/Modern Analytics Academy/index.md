@@ -54,15 +54,8 @@ Our ongoing Modern Analytics Academy series, which we've called "vignettes", div
 
 ## Suggested Labs
 
-Each session may have recommended hands-on material that will be listed on each session page. A quick list of recommended labs is below - for a complete list of hands-on content, visit the [hands-on page](/PartnerResources/skilling/modern-analytics-academy/hands-on).
-
-| Lab Name | Time | Content | 
-|---|---|---|
-| Azure Synapse Analytics and AI | 8 hours | [Lab](https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI/blob/master/Hands-on%20lab/HOL%20step-by%20step%20-%20Azure%20Synapse%20Analytics%20and%20AI.md) |
-| Analytics In a Day - Synapse | 4 hours | [Lab](https://github.com/solliancenet/azure-synapse-analytics-day) |
-| Simplifying data flows with Azure Data Factory | 8 hours | [Lab](https://github.com/solliancenet/tech-immersion-data-ai/blob/master/data-exp5/README.md) |
-| Modern Data Warehouse with Azure Synapse Analytics, <br />Azure Databricks, Azure Data Factory, and Power BI | 4 hours | [Lab](https://github.com/solliancenet/tech-immersion-data-ai/blob/master/data-exp6/README.md) |
-| Microsoft Purview | 8 hours | [Lab](https://aka.ms/purviewlab) |
+Each session may have recommended hands-on material that will be listed on each session page. Visit the [hands-on page](/PartnerResources/skilling/modern-analytics-academy/hands-on) for 
+recommended labs and workshops that supplement this content.
 
 ## Contributions
 
