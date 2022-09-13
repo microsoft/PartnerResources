@@ -9,6 +9,7 @@ redirect_from:
   - /skilling/data-analytics-ai/modern-analytics-academy
 updated: 2022-08-31
 showbreadcrumb: true
+navheadersonly: true
 tags:
 - azure
 - data, analytics, and ai
