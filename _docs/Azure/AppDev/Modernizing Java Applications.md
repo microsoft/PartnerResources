@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Modernizing Java Applications
-description: A Plan for Modernizing Java Applications
+title: Modernizing Java Applications on Azure
+description: A Plan for Modernizing Java Applications on Azure
 updated: 2022-09-09
 permalink: /azure/appdev/modernize-dot-java-apps
 tags:
@@ -12,11 +12,21 @@ tags:
 - modernization
 ---
 
-# Modernizing Java Applications
+# Modernizing Java Applications on Azure
 
 * [Overview](#overview)
-* [Demos & Walkthroughs](#demos)
-* [Architectural Design Session](#ads)
+  * [Why Modernize?](#why)
+  * [Cost Benefits](#cost)
+* [Envisioning](#envisioning)
+  * [Customer Stories](#stories)
+  * [Demo](#demos)
+* [Architectural Design Session for Service partners](#ads)
+  * [Discover](#discover)
+  * [Assess](#assess)
+  * [Plan](#plan)
+  * [Migrate](#migrate)
+  * [Operationalize](#operationalize)
+* [Architectural Design Session for ISVs](#adsisv)
 * [Assessments](#assessments)
 * [Hackathon](#hackathon)
 * [Proof of Concept](#poc)
@@ -24,71 +34,77 @@ tags:
 * [Solution Technical Review](#techreview)
 * [Build & Assist](#build)
 * [Roadmap Planning](#roadmap)
-* [Envisioning](#envisioning)
+
 ## <a name="overview"></a>Overview
 
-Existing Java applications may run well on-premise, but may not be designed to take advantage of the flexibility and scalability that Microsoft Azure provides.
-
-When considering migrating an application to Azure, it is useful to modernize the application and make it "cloud native" to better take advantage of the benefits of cloud computing. While a "lift and shift" approach - running your applications and data on virtual machines in the cloud - may work, it is likely to be inefficient.
+Existing Java applications that run well on-premises may not be designed to take advantage of the flexibility and scalability that Microsoft Azure provides.
 
 This document describes an approach to modernizing Java applications to optimize the benefits of migrating an application to Azure.
+### <a name="why"></a>Why Modernize?
+When considering migrating an application to Azure, it is useful to modernize the application and make it "cloud native" to better take advantage of the benefits of cloud computing. While a "lift and shift" approach - running your applications and data on virtual machines in the cloud - may work, it is likely to be inefficient.
 
 We have included links to resources recommended for partners looking to migrate their Java applications to Azure and will cover mainstream Java on Azure scenarios.  They can expect to learn how to migrate different types of Java applications to Azure, and understand how to build, deploy, and monitor those applications on Azure for their customers.
 
-## <a name="demos"></a>Demos & Walkthroughs
-
-<!-- * [Web App Modernization Demo - Video](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX)
-* [Web App Modernization Demo – Click Through](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX) -->
-* [Azure Apps Demo](https://azureappsdemomap.com/map)
-
-### Cost Benefit
+#### <a name="cost"></a>Cost Benefits
 
 Migrating an application to the cloud provides potential cost savings. By renting compute and storage resources instead of buying them, we move from Capital Expenses to Operating Expenses. For volatile workloads, this can offer significant savings, as we don't need to pay for excess capacity when demand is low.
 
 The [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) allows you to estimate the cost of an application deployed to Azure.
 
-Links:
+##### Links
 <!-- * [Apply Azure Hybrid Benefit (AHUB) to Azure SQL Database PaaS services](https://azure.microsoft.com/en-us/services/sql-database/) -->
 * [Enterprise Dev/Test Offer](https://azure.microsoft.com/en-us/offers/ms-azr-0148p/#:~:text=The%20Enterprise%20Dev/Test%20offer%20is,be%20accessed%20by%20any%20users.)
+* [Total Economic Impact of Cloud Services](https://azure.microsoft.com/en-in/resources/the-total-economic-impact-of-microsoft-developer-tools-and-cloud-services/)
 
-## <a name="ads"></a>Architectural Design Session
+## <a name="envisioning"></a>Envisioning
 
-An Architecture Design Session (ADS) is a session to analyze the application requirements, select appropriate services and other technologies to meet those requirements, and define how those services will interact with one another.
+#### <a name="stories"></a>Modernize Java on Azure Customer stories
+* [Raley's](https://customers.microsoft.com/en-gb/story/1388620728739667057-raleys-uses-azure-spring-cloud-to-optimize-scale-and-drive-innovation)
+* [Swiis Re](https://customers.microsoft.com/en-gb/story/1358540087031302788-swiss-re-accelerates-java-app-modernization-using-azure-spring-cloud)
+* [Bosch](https://customers.microsoft.com/en-gb/story/1475571259638279673-bosch-delivers-supply-chain-efficiencies-java-azure)
 
-The goals of an ADS are:
 
-* Review the objectives of the modernization
-* Gain an understanding of the application's functional and non-functional requirements
-* Capture the requirements and the backlog
-* Identify potential bottlenecks
-* Identify potential performance, availability, and scalability issues
-* Design solutions for potential issues
-* Develop a plan for deployment and testing
+#### <a name="demos"></a>Demos & Walkthroughs
 
-### Discovery
+<!-- * [Web App Modernization Demo - Video](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX)
+* [Web App Modernization Demo – Click Through](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX) -->
+* [Azure Apps Demo](https://azureappsdemomap.com/map)
+
+
+
+## <a name="ads"></a>Architectural Design Session for Services Partners
+
+This guidance is specifically for Microsoft service partners (consulting companies, system integrators, managed service providers, Cloud Solution Providers, etc) that are interested in modernizing their customer's Java workloads on Azure. 
+
+Microsoft provides resource for partners throughout the entire modernize journey. The journey is divided into distinct stages.
+* Discover
+* Assess
+* Plan
+* Modernize
+* Operatioanlize
+
+### <a name="discover"></a>Discover
 
 * [App Service Migration Assistant Tool](https://appmigration.microsoft.com/)
 <!-- * [App Service Migration Assistant Documentation](https://github.com/Azure/App-Service-Migration-Assistant/tree/master/MigrationDocs) -->
 <!-- * [Azure Database Migration Guide](https://datamigration.microsoft.com/) -->
 * [Data Migration Service](https://docs.microsoft.com/en-us/azure/dms/)
-<!-- * [Data Migration Assistant](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017) -->
-<!-- * [SQL Server Migration Assistant](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017) -->
+<!-- * [Data Migration Assistant](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017) 
+* [SQL Server Migration Assistant](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017) -->
 * [Migrate Java Applications to Azure](https://docs.microsoft.com/en-us/azure/developer/java/migration/migration-overview)
 * [Java on Azure Customer Pitch](https://gearup.microsoft.com/download/aa39a4b4-5457-4dc2-934f-6196a7cd91de)
 * [How to Containerize and Deploy a Java app to Azure](https://www.youtube.com/watch?v=8BxcPngGaaM)
 
-(Include third party tools)
+### <a name="assess"></a>Assess
+* [Buil migration plan with Azure Migrate](https://docs.microsoft.com/en-us/azure/migrate/concepts-migration-planning)
+* [Azure App Service Migration Tool](https://azure.microsoft.com/en-us/services/app-service/migration-tools/)
+* [Modernizing Java Apps and Data on Azure Part One: Introduction](https://www.codeproject.com/Articles/5324868/Modernizing-Java-Apps-and-Data-on-Azure-Part-One)
 
-### Assessment
+### <a name="plan"></a>Plan
 
-(Which apps are candidates for modernization? We have a tool for this)
-
-### Plan
-
-(What are the steps and the order?)
 <!-- (Not sure if this goes here, but thought this link should go somewhere) -->
-[Java on Azure](https://azure.microsoft.com/en-us/resources/developers/java/)
-[Introduction to Java on Azure Learning Path](https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/)
+* [Java on Azure](https://azure.microsoft.com/en-us/resources/developers/java/)
+* [Introduction to Java on Azure Learning Path](https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/)
 
 #### App Migration Planning
 
@@ -140,7 +156,9 @@ Read more about Azure Kubernetes Service (AKS) [here](https://docs.microsoft.com
 * [Java web applications to Azure Kubernetes Service Learning Path](https://docs.microsoft.com/en-us/learn/modules/migrate-java-app-azure-kubernetes-service/)
 * [Java Web App Containerization and Migration to Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-kubernetes)
 
-### Database Migration Planning
+### <a name="modernize"></a>Modernize
+
+#### Database Migration Planning
 
 <!-- * [SQL Migration](https://docs.microsoft.com/en-us/sql/sql-server/migrate/?view=sql-server-2017) -->
 * [Choosing Your Database Migration Path](https://azure.microsoft.com/en-us/resources/choosing-your-database-migration-path-to-azure/)
@@ -153,7 +171,7 @@ Read more about Azure Kubernetes Service (AKS) [here](https://docs.microsoft.com
 
 * [Java app to manage CosmosDB SQL Data Quickstart](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/create-sql-api-java?tabs=sync)
 
-### Cloud Modernization
+#### Cloud Modernization
 
 (Automate move from on-premise to Azure. What are considerations?)
 
@@ -165,14 +183,7 @@ Read more about Azure Kubernetes Service (AKS) [here](https://docs.microsoft.com
 * [Solutions Assessment](https://www.microsoft.com/en-us/solutionassessments/solutionassessments.aspx?SilentAuth=1)
 <!-- * [Migration Plan](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-refactor-web-app-sql) -->
 
-### Operationalization
-
-Monitoring
-Security
-Observability
-Metrics
-
-## Deployment
+#### Deploy
 
 * [Best Practices for Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-best-practices)
 * [Azure App Service Deployment Best Practices](https://docs.microsoft.com/en-us/azure/app-service/deploy-best-practices)
@@ -185,16 +196,18 @@ Metrics
 * [Application Performance Management (APM) on Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
 * [Azure for Java developer documentation](https://docs.microsoft.com/en-us/azure/developer/java/?view=azure-java-stable)
 
+### <a name="operationalize"></a>Operationalize
+
+* [Azure Monitor for Java apps](https://docs.microsoft.com/en-us/azure/azure-monitor/app/java-in-process-agent)
+* [Sign-in with Microsoft to a Java app](https://docs.microsoft.com/en-us/azure/active-directory/develop/web-app-quickstart?pivots=devlang-java)
+* [Build Java apps with Azure Devops](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/java?view=azure-devops)
+* [Deploying Java to Azure App Service](https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-azure/deploying-java-to-azure-app-service) 
 ### Azure Compete Scenarios
 
 * [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 * [GCP to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/services)
 
-## <a name="assessments"></a>Assessments (Technical & Solution)
-
-[Partner Readiness Resources for Azure Spring Apps](./Partner%20Readiness%20Resources%20for%20Spring%20Apps.md)
-
-## Architecture Design Session
+## <a name="adsisv"></a>Architecture Design Session for ISVs
 
 A key part of any application modernization project is to conduct an Architecture Design Session (ADS) with the customer or partner. This is ideally done in-person to avoid distractions; however, it can also be accomplished successfully remotely or as a hybrid event with some attendees meeting in person and others participating virtually.
 
@@ -295,6 +308,11 @@ For the next meeting(s)?
 * Who should attend?
 * What should be done by whom between now and then?
 
+
+## <a name="assessments"></a>Assessments (Technical & Solution)
+
+[Partner Readiness Resources for Azure Spring Apps](./Partner%20Readiness%20Resources%20for%20Spring%20Apps.md)
+
 ## <a name="hackathon"></a>Hackathon
 
 Some customers will require upskilling on the technologies used in the solution. One method for upskilling is a "What the Hack" event. "What the Hack" is a set of challenge-based hackathons that can be hosted in-person or virtually via Microsoft Teams.
@@ -307,11 +325,22 @@ Specific *What The Hack*s
 * [Java on Azure App Service](https://microsoft.github.io/WhatTheHack/040-JavaOnAppService/)
 * [App Modernization](https://microsoft.github.io/WhatTheHack/006-AppModernization/)
 
-## <a name="POC"></a> Proof of Concept
+### Labs
 
+* [Azure Spring Cloud Training](https://github.com/CloudLabsAI-Azure/azure-spring-cloud-training)
+* [Azure Immersion Workshop for Java](https://partner.microsoft.com/en-us/asset/collection/aiw-modernize-java-apps#/)
+
+## <a name="poc"></a> Proof of Concept
+* [Azure for Java quickstarts](https://docs.microsoft.com/en-us/azure/developer/java/quickstarts/)
+* [Get help from Microsoft on Java](https://docs.microsoft.com/en-us/azure/developer/java/learning-resources/get-help)
 ## <a name="techbriefing"></a>Tech Briefing
 
-The [Microsoft Azure Well Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) provides guidance on building and migrating an application to Azure. The framework consists of five architectural "pillars": Reliability, Security, Cost Optimization, Operational Excellence, and Performance Efficiency.
+The [Microsoft Azure Well Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) provides guidance on building and migrating an application to Azure. The framework consists of five architectural "pillars": 
+* Reliability, 
+* Security, 
+* Cost Optimization, 
+* Operational Excellence, and 
+* Performance Efficiency.
 
 ### Reliability
 
@@ -351,17 +380,108 @@ You can learn more about improving performance efficiency in Azure applications 
 
 ## <a name="techreview"></a>Solution Tech Review
 
-(Assigned to Mike R)
+Here is technical review guidance from the Microsoft US Partner Tech Team team.
 
+The solution must contain at least one of these services listed below. 
+* API Management
+* App Service
+* Azure Container Instance
+* Azure Spring Apps
+* Azure SQL DB
+* Event Grid
+* Functions
+* Logic Apps
+* Media Services
+* RedHat OpenShift
+* Service Bus
+* Signal R
+	
+Additional Solution Services: Beyond the basic services, the solution may contain the below listed additional services, as part of the well architected solution. 
+
+* Application Gateway
+* Azure Active Directory
+* Azure Monitor
+* Azure Storage
+* Key Vault
+* Security Center
+* Traffic Manager
+	
+### Tech Review Requirements
+* The partner should provide detailed explanation for one or more customer reference stories that clearly demonstrate Modernizing with Java.
+*  The partner should have sufficient staff with skills or certifications for Modernizing with Java.
+*  The partner’s staff should understand and leverage best practices as well as guidance and principles described in Application Architecture Center, Well-Architected Framework, Cloud Adoption Framework
+* The partner's staff should understand and leverage App + Data Migration Tools – Azure Migrate, App Service Migration Assistant, Data Migration Assistant – for application migration projects.
+* Earning the Advanced Specialization in "Modernization of Web Applications to Microsoft Azure"  is recommended for a qualified partner. A partner is considered qualified for earning the advanced specialization if they meet both the criteria
+  * Related competency: Must have an active Gold Cloud Platform Competency 
+  * Knowledge: Your organization must have at least six individuals who pass the following certifications: 
+    * One unique individual must pass Azure Administrator Associate certification AND
+    *  One unique individual must pass Azure Solutions Architect Expert certification AND
+    *  One unique individual must pass Azure DevOps Engineer Expert certification AND 
+    *  One unique individual must pass Azure Security Engineer Associate certification AND
+    *  One unique individual must pass Azure Data Engineer Associate certification AND
+    *  One unique individual must pass Azure Developer Associate certification 
+
+### Best Practices
+* HA: The partner should articulate how they ensure the solution is highly available for customers. They might implement at least one of the below services in the case of App Service Environment.
+  * Availability Zones
+  * Availability Sets
+* Security: The partner should implement at least one or more of the below frameworks or methodologies for a secure solution architecture.
+  * Azure Security Benchmark
+  * Security Pillar of the Well Architected Framework
+  * Easy Auth
+  * HTTPS
+  * Service Endpoints
+  * Private Endpoints
+  * VNET Integration
+  * App Service Environments
+  * Allow Lists
+  * Authentication
+  * Key Vault
+  * App Configuration
+  * Application Gateway
+  * Microsoft Defender for Cloud
+  * Microsoft Sentinel
+* BCDR: The partner should explain the solution SLA, RTO/RPO and backup practices.
+* Governance: The partner should explain the different access control and governance policies practiced as part of solution implementation.
+* IAM: The partner should explain how they implement identity, authentication and authorization in their solution. They should implement at least one of the below services.
+  * Easy Auth
+  * Azure Active Directory
+  * Azure Active Directory B2C
+  * Enterprise Applications
+* DevOps: The partner should explain in detail on how they implement their devops strategy for easier repeatable code or infrastructure deployments. They should be familiar with the DevOps offerings with Azure and their implementations. Below is a list of such implementations.
+  * Web Apps Deployment Slots
+  * App Configuration
+  * App Service Deployment Center
+  * Git Integration
+  * Containers (Linux + Windows)
+* Observability: The partner must articulate their strategy for knowing the health of the solution. They must implement one or more of the below listed services.
+  * Application Insights
+  * Azure Monitor
+  * Alerts
+  * Log Analytics (Azure Monitor Logs)
+  * Dashboards
+  * Workbooks
+  * KQL
+  * Microsoft Sentinel
+* Cost Effectiveness: The partner must be familiar with the scaling and compute options for all the Basic Solution Services listed above, to implement a cost effective solution for the customer.
+* Performance: The partner must articulate their strategy for high performing solution delivery. They should leverage at least one of the below:
+  * Azure CDN
+  * Azure Frontdoor
+  * App Service Always On
+  * Local Cache within App Configuration
+  * Co-located deployments of DB with App Service in Azure Regions
+* Compliance: The partner must explain the strategy implemented in the solution to comply with customer regulations. They may leverage one or more of the below:
+  * Microsoft Defender for Cloud
+  * App Service Environments (ASE)
+  * Encryption
+  * HTTPS
 ## <a name="build"></a>Build & Assist
-
-(Assigned to Mike R)
-
+* [Azure for Java developer documentation](https://docs.microsoft.com/en-us/azure/developer/java/)
 ## <a name="roadmap"></a>Roadmap Planning
 
-(Assigned to Mike R)
+* [Microsoft for Java Developers Blog](https://devblogs.microsoft.com/java/tag/java/)
+* [Azure Blog](https://azure.microsoft.com/en-us/blog)
+* [Java and Azure Github Projects](https://github.com/search?q=azure+spring&ref=opensearch)
 
-## <a name="envisioning"></a>Envisioning
 
-(Assigned to Mike R)
 
