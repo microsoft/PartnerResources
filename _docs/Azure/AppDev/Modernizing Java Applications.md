@@ -2,8 +2,8 @@
 layout: page
 title: Modernizing Java Applications on Azure
 description: A Plan for Modernizing Java Applications on Azure
-updated: 2022-09-09
-permalink: /azure/appdev/modernize-dot-java-apps
+updated: 2022-09-13
+permalink: /azure/appdev/Modernizing-JavaApplications.md
 tags:
 - azure
 - appdev
@@ -37,13 +37,20 @@ tags:
 
 ## <a name="overview"></a>Overview
 
-Existing Java applications that run well on-premises may not be designed to take advantage of the flexibility and scalability that Microsoft Azure provides.
+Existing Java applications that run well on-premise may not be designed to take advantage of the flexibility and scalability that Microsoft Azure provides.
+
+Many companies have successfully migrated their Java applications to Microsoft Azure, including the following:
+
+* [Raley's](https://customers.microsoft.com/en-gb/story/1388620728739667057-raleys-uses-azure-spring-cloud-to-optimize-scale-and-drive-innovation)
+* [Swiis Re](https://customers.microsoft.com/en-gb/story/1358540087031302788-swiss-re-accelerates-java-app-modernization-using-azure-spring-cloud)
+* [Bosch](https://customers.microsoft.com/en-gb/story/1475571259638279673-bosch-delivers-supply-chain-efficiencies-java-azure)
 
 This document describes an approach to modernizing Java applications to optimize the benefits of migrating an application to Azure.
+
 ### <a name="why"></a>Why Modernize?
 When considering migrating an application to Azure, it is useful to modernize the application and make it "cloud native" to better take advantage of the benefits of cloud computing. While a "lift and shift" approach - running your applications and data on virtual machines in the cloud - may work, it is likely to be inefficient.
 
-We have included links to resources recommended for partners looking to migrate their Java applications to Azure and will cover mainstream Java on Azure scenarios.  They can expect to learn how to migrate different types of Java applications to Azure, and understand how to build, deploy, and monitor those applications on Azure for their customers.
+We have included links to resources recommended for partners looking to migrate their Java applications to Azure and will cover mainstream Java on Azure scenarios.  Readers can expect to learn how to migrate different types of Java applications to Azure, and understand how to build, deploy, and monitor those applications on Azure for their customers.
 
 #### <a name="cost"></a>Cost Benefits
 
@@ -55,22 +62,28 @@ The [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calcula
 <!-- * [Apply Azure Hybrid Benefit (AHUB) to Azure SQL Database PaaS services](https://azure.microsoft.com/en-us/services/sql-database/) -->
 * [Enterprise Dev/Test Offer](https://azure.microsoft.com/en-us/offers/ms-azr-0148p/#:~:text=The%20Enterprise%20Dev/Test%20offer%20is,be%20accessed%20by%20any%20users.)
 * [Total Economic Impact of Cloud Services](https://azure.microsoft.com/en-in/resources/the-total-economic-impact-of-microsoft-developer-tools-and-cloud-services/)
+* [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 
 ## <a name="envisioning"></a>Envisioning
 
-#### <a name="stories"></a>Modernize Java on Azure Customer stories
-* [Raley's](https://customers.microsoft.com/en-gb/story/1388620728739667057-raleys-uses-azure-spring-cloud-to-optimize-scale-and-drive-innovation)
-* [Swiis Re](https://customers.microsoft.com/en-gb/story/1358540087031302788-swiss-re-accelerates-java-app-modernization-using-azure-spring-cloud)
-* [Bosch](https://customers.microsoft.com/en-gb/story/1475571259638279673-bosch-delivers-supply-chain-efficiencies-java-azure)
+An Envisioning Session is useful to exchange knowledge and determine if the project is appropriate for modernization.
 
+The goals of an Envisioning Session are:
+
+* Establish a clear understanding of business objectives
+* Define how a potential solution would be used and how its performance should be measured
+* Determine what relevant data is available
+* Understand the capabilities of the development team
+* Make sure all parties have the same understanding of the scope of the project
+* Clearly communicate the next steps
+
+You can learn more about conducting an Envisioning Session [here](https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-problem-formulation-envisioning/).
 
 #### <a name="demos"></a>Demos & Walkthroughs
 
 <!-- * [Web App Modernization Demo - Video](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX)
 * [Web App Modernization Demo – Click Through](https://microsoft.sharepoint.com/:p:/t/AppSpecialist/EciMr9FUoWZMuWuPVwm18XkBNSPMMBGuq9XdXP1o-Dpysg?e=jJh1nX) -->
 * [Azure Apps Demo](https://azureappsdemomap.com/map)
-
-
 
 ## <a name="ads"></a>Architectural Design Session for Services Partners
 
