@@ -27,7 +27,10 @@ tags:
 * [Architectural Design Session for ISVs](#adsisv)
 * [Assessments](#assessments)
 * [Upskilling](#upskilling)
-* [Hackathon](#hackathon)
+  * [Documentation](#documentation)
+  * [Labs](#labs)
+  * [Hackathon](#hackathon)
+  * [Other](#otherupskilling)
 * [Proof of Concept](#poc)
 * [Tech Briefing](#techbriefing)
 * [Solution Technical Review](#techreview)
@@ -320,7 +323,7 @@ For the next meeting(s)?
 
 Some partners will require upskilling on the technologies used in the solution. Microsoft and third parties offer a number of resources to assist in upskilling - with Java, with Azure, and with Java on Azure. Here are some options.
 
-### Documentation
+### <a name="documentation"></a>Documentation
 
 * [Azure for Java developer documentation](https://docs.microsoft.com/en-us/azure/developer/java/)
 * [Get help from Microsoft on Java](https://docs.microsoft.com/en-us/azure/developer/java/learning-resources/get-help)
@@ -328,12 +331,12 @@ Some partners will require upskilling on the technologies used in the solution. 
 * [Java on Azure](https://azure.microsoft.com/en-us/resources/developers/java/)
 * [Introduction to Java on Azure Learning Path](https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/)
 
-### Labs
+### <a name="labs"></a>Labs
 
 * [Azure Spring Cloud Training](https://github.com/CloudLabsAI-Azure/azure-spring-cloud-training)
 * [Azure Immersion Workshop for Java](https://partner.microsoft.com/en-us/asset/collection/aiw-modernize-java-apps#/)
 
-### <a name="hackathon"></a>Hackathon
+### <a name="hackathon"></a>Hackathons
 
 One method for upskilling is a "What the Hack" event. "What the Hack" is a set of challenge-based hackathons that can be hosted in-person or virtually via Microsoft Teams.
 
@@ -345,7 +348,7 @@ Specific *What The Hack*s
 * [Java on Azure App Service](https://microsoft.github.io/WhatTheHack/040-JavaOnAppService/)
 * [App Modernization](https://microsoft.github.io/WhatTheHack/006-AppModernization/)
 
-### Other Upskilling Resources
+### <a name="otherupskilling"></a>Other Upskilling Resources
 
 * Modernizing Java Apps and Data
   * [Part One: Introduction](https://www.codeproject.com/Articles/5324868/Modernizing-Java-Apps-and-Data-on-Azure-Part-One)
