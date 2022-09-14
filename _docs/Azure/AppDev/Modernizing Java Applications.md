@@ -2,7 +2,7 @@
 layout: page
 title: Modernizing Java Applications on Azure
 description: A Plan for Modernizing Java Applications on Azure
-updated: 2022-09-13
+updated: 2022-09-14
 permalink: /azure/appdev/Modernizing-JavaApplications.md
 tags:
 - azure
@@ -12,7 +12,7 @@ tags:
 - modernization
 ---
 
-# Modernizing Java Applications on Azure
+# Modernizing Java Applications on Azure (Draft)
 
 * [Overview](#overview)
   * [Why Modernize?](#why)
