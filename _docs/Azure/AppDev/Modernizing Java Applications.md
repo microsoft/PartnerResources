@@ -16,7 +16,7 @@ tags:
 
 * [Overview](#overview)
   * [Why Modernize?](#why)
-  * [Cost vs Benefits](#cost)
+  * [Costs vs Benefits](#costbenefit)
 * [Envisioning](#envisioning)
 * [Architecture Design Sessions](#ads)
 * [Architecture Design Session for Service partners](#adspartner)
@@ -52,7 +52,7 @@ When considering migrating an application to Azure, it is useful to modernize th
 
 We have included links to resources recommended for partners looking to migrate their Java applications to Azure and will cover mainstream Java on Azure scenarios.  Readers can expect to learn how to migrate different types of Java applications to Azure, and understand how to build, deploy, and monitor those applications on Azure for their customers.
 
-#### <a name="cost"></a>Costs vs Benefits
+#### <a name="costbenefit"></a>Costs vs Benefits
 
 Migrating an application to Azure provides potential cost savings. By renting compute and storage resources instead of buying them, we move from Capital Expenses to Operating Expenses. For volatile workloads, this can offer significant savings, as we don't need to pay for excess capacity when demand is low.
 
@@ -63,6 +63,8 @@ The [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calcula
 * [Enterprise Dev/Test Offer](https://azure.microsoft.com/en-us/offers/ms-azr-0148p/#:~:text=The%20Enterprise%20Dev/Test%20offer%20is,be%20accessed%20by%20any%20users.)
 * [Total Economic Impact of Cloud Services](https://azure.microsoft.com/en-in/resources/the-total-economic-impact-of-microsoft-developer-tools-and-cloud-services/)
 * [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+* [Cost Optimization video](https://docs.microsoft.com/en-us/azure/architecture/framework/#cost-optimization)
+* [Cost Optimization documentation](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/)
 
 ## <a name="envisioning"></a>Envisioning
 
