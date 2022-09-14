@@ -7,3 +7,4 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QCost Benefits\nEnvisioning\nArchitectural Design Session for Service partners\nDiscover\nAssess\nPlan\nOperationalize\nArchitectural Design Session for ISVs\nAssessments\nHackathon\nProof of Concept\nTech Briefing\nSolution Technical Review\nBuild & Assist\nRoadmap Planning\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QBelow we cover ADS details for SI partners and for ISVs.\\E$"}
 {"rule":"AGREEMENT_SENT_START","sentence":"^\\QAn ADS allows us to define and agree upon the architecture and scope of the application, making it easier to plan the development.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QAzure for Java developer documentation\nGet help from Microsoft on Java\nAzure for Java quickstarts\\E$"}

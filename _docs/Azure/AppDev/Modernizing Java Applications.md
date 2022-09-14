@@ -16,7 +16,7 @@ tags:
 
 * [Overview](#overview)
   * [Why Modernize?](#why)
-  * [Cost Benefits](#cost)
+  * [Cost vs Benefits](#cost)
 * [Envisioning](#envisioning)
 * [Architecture Design Sessions](#ads)
 * [Architecture Design Session for Service partners](#adspartner)
@@ -26,6 +26,7 @@ tags:
   * [Operationalize](#operationalize)
 * [Architectural Design Session for ISVs](#adsisv)
 * [Assessments](#assessments)
+* [Upskilling](#upskilling)
 * [Hackathon](#hackathon)
 * [Proof of Concept](#poc)
 * [Tech Briefing](#techbriefing)
@@ -316,9 +317,24 @@ For the next meeting(s)?
 
 [Partner Readiness Resources for Azure Spring Apps](./Partner%20Readiness%20Resources%20for%20Spring%20Apps.md)
 
-## <a name="hackathon"></a>Hackathon
+## <a name="upskilling"></a>Upskilling
 
-Some customers will require upskilling on the technologies used in the solution. One method for upskilling is a "What the Hack" event. "What the Hack" is a set of challenge-based hackathons that can be hosted in-person or virtually via Microsoft Teams.
+Some partners will require upskilling on the technologies used in the solution. Microsoft and third parties offer a number of resources to assist in upskilling - with Java, with Azure, and with Java on Azure. Here are some options.
+
+### Documentation
+
+* [Azure for Java developer documentation](https://docs.microsoft.com/en-us/azure/developer/java/)
+* [Get help from Microsoft on Java](https://docs.microsoft.com/en-us/azure/developer/java/learning-resources/get-help)
+* [Azure for Java quickstarts](https://docs.microsoft.com/en-us/azure/developer/java/quickstarts/)
+
+### Labs
+
+* [Azure Spring Cloud Training](https://github.com/CloudLabsAI-Azure/azure-spring-cloud-training)
+* [Azure Immersion Workshop for Java](https://partner.microsoft.com/en-us/asset/collection/aiw-modernize-java-apps#/)
+
+### <a name="hackathon"></a>Hackathon
+
+One method for upskilling is a "What the Hack" event. "What the Hack" is a set of challenge-based hackathons that can be hosted in-person or virtually via Microsoft Teams.
 
 * [*What the Hack* overview](https://microsoft.github.io/WhatTheHack/)
 * [*What the Hack* repo](https://github.com/Microsoft/WhatTheHack)
@@ -328,17 +344,9 @@ Specific *What The Hack*s
 * [Java on Azure App Service](https://microsoft.github.io/WhatTheHack/040-JavaOnAppService/)
 * [App Modernization](https://microsoft.github.io/WhatTheHack/006-AppModernization/)
 
-### Labs
-
-* [Azure Spring Cloud Training](https://github.com/CloudLabsAI-Azure/azure-spring-cloud-training)
-* [Azure Immersion Workshop for Java](https://partner.microsoft.com/en-us/asset/collection/aiw-modernize-java-apps#/)
-
-## <a name="poc"></a> Proof of Concept
+## <a name="poc"></a>Proof of Concept
 
 We may have uncertainty if a technology is a good fit for our solution. In this case, a Proof of Concept (POC) will help. A Proof of Concept is a small application that demonstrates the capabilities of a technology in a given scenario. This helps us decide if the technology is appropriate for the solution, minimizing risk without investing inordinate time and money.
-
-* [Azure for Java quickstarts](https://docs.microsoft.com/en-us/azure/developer/java/quickstarts/)
-* [Get help from Microsoft on Java](https://docs.microsoft.com/en-us/azure/developer/java/learning-resources/get-help)
 
 ## <a name="techbriefing"></a>Tech Briefing
 
@@ -488,9 +496,6 @@ Additional Solution Services: Beyond the basic services, the solution may contai
   * Encryption
   * HTTPS
 
-## <a name="build"></a>Build & Assist
-
-* [Azure for Java developer documentation](https://docs.microsoft.com/en-us/azure/developer/java/)
 
 ## <a name="roadmap"></a>Roadmap Planning
 
