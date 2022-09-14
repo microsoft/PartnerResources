@@ -2,7 +2,7 @@
 layout: page
 title: High Performance Computing (HPC) on Azure Resources
 description: Resources for HPC on Azure
-updated: 2022-01-19
+updated: 2022-09-14
 permalink: /azure/infrastructure/HPC-on-Azure
 tags: 
 - learning plan
