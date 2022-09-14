@@ -36,7 +36,7 @@ tags:
 
 ## <a name="overview"></a>Overview
 
-Existing Java applications that run well on-premise may not be designed to take advantage of the flexibility and scalability that Microsoft Azure provides.
+Microsoft Azure contains native support for Java applications and the Java ecosystem. Java developers can continue using their favorite development environments, plugins, package managers, code repositories, and Life Cycle Management Tools, when deploying to Azure.
 
 Many companies have successfully migrated their Java applications to Microsoft Azure, including the following:
 
@@ -47,6 +47,8 @@ Many companies have successfully migrated their Java applications to Microsoft A
 This document describes an approach to modernizing Java applications to optimize the benefits of migrating an application to Azure.
 
 ### <a name="why"></a>Why Modernize?
+
+Existing Java applications that run well on-premise may not be designed to take advantage of the flexibility and scalability that Microsoft Azure provides.
 
 When considering migrating an application to Azure, it is useful to modernize the application and make it "cloud native" to better take advantage of the benefits of cloud computing. While a "lift and shift" approach - running your applications and data on virtual machines in the cloud - may work, it is likely to be inefficient. By architecting your application into distinct services that can be developed deployed and managed separately, you can increase the flexibility, maintainability, and scalability of your application. Microsoft Azure offers hundreds of managed services that free the developer from maintaining the underlying infrastructure of the application, allowing them to focus on solving business problems.
 
