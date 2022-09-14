@@ -112,7 +112,6 @@ Microsoft provides resource for partners throughout the entire modernize journey
 
 * [Build migration plan with Azure Migrate](https://docs.microsoft.com/en-us/azure/migrate/concepts-migration-planning)
 * [Azure App Service Migration Tool](https://azure.microsoft.com/en-us/services/app-service/migration-tools/)
-* [Modernizing Java Apps and Data on Azure Part One: Introduction](https://www.codeproject.com/Articles/5324868/Modernizing-Java-Apps-and-Data-on-Azure-Part-One)
 
 ### <a name="plan"></a>Plan
 
@@ -344,6 +343,17 @@ Specific *What The Hack*s
 
 * [Java on Azure App Service](https://microsoft.github.io/WhatTheHack/040-JavaOnAppService/)
 * [App Modernization](https://microsoft.github.io/WhatTheHack/006-AppModernization/)
+
+### Other Upskilling Resources
+
+* Modernizing Java Apps and Data
+  * [Part One: Introduction](https://www.codeproject.com/Articles/5324868/Modernizing-Java-Apps-and-Data-on-Azure-Part-One)
+  * [Part Two: Migrating Data](https://www.codeproject.com/Articles/5324869/Modernizing-Java-Apps-and-Data-on-Azure-Part-Two-M)
+  * [Part Three: Migrating to Azure App Service](https://www.codeproject.com/Articles/5324870/Modernizing-Java-Apps-and-Data-on-Azure-Part-Three)
+  * [Part Four: Migrating to Azure Kubernetes Service](https://www.codeproject.com/Articles/5329178/Modernizing-Java-Apps-and-Data-on-Azure-Part-Four)
+  * [Part Five: Data Modernization](https://www.codeproject.com/Articles/5329179/Modernizing-Java-Apps-and-Data-on-Azure-Part-Five)
+  * [Part Six: Becoming Cloud Native](https://www.codeproject.com/Articles/5329180/Modernizing-Java-Apps-and-Data-on-Azure-Part-Six-B)
+* [Java and Spring Boot Articles and Videos](https://davidgiard.com/java-and-spring-boot-articles-and-videos)
 
 ## <a name="poc"></a>Proof of Concept
 
