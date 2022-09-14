@@ -25,6 +25,7 @@ In this module, we’ll look at Applied AI services, including Form Recognizer, 
 ### Form Recognizer 
 
 Form Recognizer is an AI service that applies advanced machine learning to extract text, key-value pairs, tables, and structures from documents automatically and accurately. Turn documents into usable data and shift your focus to acting on information rather than compiling it.
+
 Conceptual 
 
 * [The AI Show: Ep 52 | Analyze unstructured docs and more with Azure Form Recognizer](https://www.youtube.com/watch?v=86cZgYJdRGc) - This is a great resource to understand Form Recognizer capabilites and updates.
@@ -37,6 +38,7 @@ Updates
 ### Cognitive Search 
 
 Azure Cognitive Search is a cloud search service with built-in AI capabilities that enrich all types of information to help you identify and explore relevant content at scale. Use cognitive skills for vision, language, and speech, or use custom machine learning models to uncover insights from all types of content.
+
 Conceptual 
 
 * [Knowledge Mining Solution Accelerator](https://docs.microsoft.com/en-us/samples/azure-samples/azure-search-knowledge-mining/azure-search-knowledge-mining/) - A tool to get hands-on and build a knowledge mining prototype with azure cognitive search.
@@ -50,6 +52,7 @@ Conceptual
 ### Metrics Advisor
 
 Metrics Advisor is a part of Azure Applied AI Services that uses AI to perform data monitoring and anomaly detection in time series data. The service automates the process of applying models to your data, and provides a set of APIs and a web-based workspace for data ingestion, anomaly detection, and diagnostics - without needing to know machine learning.
+
 Conceptual 
 
 * [MetricsAdvisorSample](https://github.com/Azure-Samples/MetricsAdvisor) - This is a great hands-on lab to understand the capabilities of Azure Metrics Advisor.
@@ -68,6 +71,7 @@ Updates
 ### Personalizer
 
 Create optimized user experiences, boost conversion and engagement, and add real-time relevance to product recommendations, with reinforcement learning–based capabilities. Personalizer can suggest general and individual layouts for users, using API calls.
+
 Conceptual 
 
 * [With reinforcement learning, Microsoft brings a new class of AI solutions to customers](https://blogs.microsoft.com/ai/reinforcement-learning/) - Great blog post for reinforcement learning use cases
