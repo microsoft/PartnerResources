@@ -100,13 +100,9 @@ Microsoft provides resource for partners throughout the entire modernize journey
 ### <a name="discover"></a>Discover
 
 * [App Service Migration Assistant Tool](https://appmigration.microsoft.com/)
-<!-- * [App Service Migration Assistant Documentation](https://github.com/Azure/App-Service-Migration-Assistant/tree/master/MigrationDocs) -->
-<!-- * [Azure Database Migration Guide](https://datamigration.microsoft.com/) -->
+* [Azure Database Migration Guide](https://datamigration.microsoft.com/)
 * [Data Migration Service](https://docs.microsoft.com/en-us/azure/dms/)
-<!-- * [Data Migration Assistant](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017) 
-* [SQL Server Migration Assistant](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017) -->
 * [Migrate Java Applications to Azure](https://docs.microsoft.com/en-us/azure/developer/java/migration/migration-overview)
-<!-- * [Java on Azure Customer Pitch](https://gearup.microsoft.com/download/aa39a4b4-5457-4dc2-934f-6196a7cd91de) -->
 * [How to Containerize and Deploy a Java app to Azure](https://www.youtube.com/watch?v=8BxcPngGaaM)
 
 ### <a name="assess"></a>Assess
@@ -116,17 +112,13 @@ Microsoft provides resource for partners throughout the entire modernize journey
 * [Modernizing Java Apps and Data on Azure Part One: Introduction](https://www.codeproject.com/Articles/5324868/Modernizing-Java-Apps-and-Data-on-Azure-Part-One)
 
 ### <a name="plan"></a>Plan
-
 <!-- (Not sure if this goes here, but thought this link should go somewhere) -->
 * [Java on Azure](https://azure.microsoft.com/en-us/resources/developers/java/)
 * [Introduction to Java on Azure Learning Path](https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/)
 
 #### App Migration Planning
 
-<!-- * [Architecture, Migration Process, Components](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/net-app-modernization) -->
-<!-- * [Migrate, modernize .NET applications with Azure](https://techcommunity.microsoft.com/t5/apps-on-azure/migrate-modernize-net-applications-with-azure/ba-p/1696499) -->
 * [Migration Checklist for Azure App Service](https://azure.microsoft.com/en-us/blog/migration-checklist-when-moving-to-azure-app-service/)
-<!-- * [Apps Migration Considerations](https://docs.microsoft.com/en-us/dotnet/azure/migration/app-service) -->
 * [Choosing an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?_lrsc=e623b82d-6c35-449e-9ff0-8cc81a0819e3)
 
 The following Azure services can host a Java application. Consider which is appropriate for the current solution.
@@ -175,8 +167,8 @@ Read more about Azure Kubernetes Service (AKS) [here](https://docs.microsoft.com
 
 #### Database Migration Planning
 
-<!-- * [SQL Migration](https://docs.microsoft.com/en-us/sql/sql-server/migrate/?view=sql-server-2017) -->
 * [Choosing Your Database Migration Path](https://azure.microsoft.com/en-us/resources/choosing-your-database-migration-path-to-azure/)
+* [SQL Migration](https://docs.microsoft.com/en-us/sql/sql-server/migrate/?view=sql-server-2017)
 
 #### Migrate SQL open source DB to Azure DB
 
@@ -196,14 +188,12 @@ Read more about Azure Kubernetes Service (AKS) [here](https://docs.microsoft.com
 
 * [Cloud Journey Tracker](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment&amp;session=f13774ce-3324-46c7-9803-3b0298c49aed)
 * [Solutions Assessment](https://www.microsoft.com/en-us/solutionassessments/solutionassessments.aspx?SilentAuth=1)
-<!-- * [Migration Plan](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-refactor-web-app-sql) -->
 
 #### Deploy
 
 * [Best Practices for Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-best-practices)
 * [Azure App Service Deployment Best Practices](https://docs.microsoft.com/en-us/azure/app-service/deploy-best-practices)
 * [Highly Available Multi-Region Web Application on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region)
-<!-- * [Highly Available SQL Database on Azure](https://docs.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla) -->
 * [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
 * [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 * [Best Practices for Cloud Applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
