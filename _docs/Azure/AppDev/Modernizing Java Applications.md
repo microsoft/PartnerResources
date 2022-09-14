@@ -50,9 +50,9 @@ When considering migrating an application to Azure, it is useful to modernize th
 
 We have included links to resources recommended for partners looking to migrate their Java applications to Azure and will cover mainstream Java on Azure scenarios.  Readers can expect to learn how to migrate different types of Java applications to Azure, and understand how to build, deploy, and monitor those applications on Azure for their customers.
 
-#### <a name="cost"></a>Cost Benefits
+#### <a name="cost"></a>Costs vs Benefits
 
-Migrating an application to the cloud provides potential cost savings. By renting compute and storage resources instead of buying them, we move from Capital Expenses to Operating Expenses. For volatile workloads, this can offer significant savings, as we don't need to pay for excess capacity when demand is low.
+Migrating an application to Azure provides potential cost savings. By renting compute and storage resources instead of buying them, we move from Capital Expenses to Operating Expenses. For volatile workloads, this can offer significant savings, as we don't need to pay for excess capacity when demand is low.
 
 The [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) allows you to estimate the cost of an application deployed to Azure.
 
@@ -97,7 +97,7 @@ Microsoft provides resource for partners throughout the entire modernize journey
 <!-- * [Data Migration Assistant](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017) 
 * [SQL Server Migration Assistant](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017) -->
 * [Migrate Java Applications to Azure](https://docs.microsoft.com/en-us/azure/developer/java/migration/migration-overview)
-* [Java on Azure Customer Pitch](https://gearup.microsoft.com/download/aa39a4b4-5457-4dc2-934f-6196a7cd91de)
+<!-- * [Java on Azure Customer Pitch](https://gearup.microsoft.com/download/aa39a4b4-5457-4dc2-934f-6196a7cd91de) -->
 * [How to Containerize and Deploy a Java app to Azure](https://www.youtube.com/watch?v=8BxcPngGaaM)
 
 ### <a name="assess"></a>Assess
