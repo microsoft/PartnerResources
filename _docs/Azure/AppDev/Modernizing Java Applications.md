@@ -18,7 +18,8 @@ tags:
   * [Why Modernize?](#why)
   * [Cost Benefits](#cost)
 * [Envisioning](#envisioning)
-* [Architectural Design Session for Service partners](#ads)
+* [Architecture Design Sessions](#ads)
+* [Architecture Design Session for Service partners](#adspartner)
   * [Discover](#discover)
   * [Assess](#assess)
   * [Plan](#plan)
@@ -76,7 +77,15 @@ The goals of an Envisioning Session are:
 
 At the end of the Envisioning Session, both parties should reach an agreement whether and when to proceed with the project.
 
-## <a name="ads"></a>Architectural Design Session for Services Partners
+## <a name="ads"></a>Architecture Design Sessions
+
+A key part of any application modernization project is to conduct an Architecture Design Session (ADS) with the customer or partner. An ADS allows us to define and agree upon the architecture and scope of the application, making it easier to plan the development.
+
+This is ideally done in-person to avoid distractions; however, it can also be accomplished successfully remotely or as a hybrid event with some attendees meeting in person and others participating virtually.
+
+Below we cover ADS details for SI partners and for ISVs.
+
+## <a name="adspartner"></a>Architecture Design Session for Services Partners
 
 This guidance is specifically for Microsoft service partners (consulting companies, system integrators, managed service providers, Cloud Solution Providers, etc.) that are interested in modernizing their customer's Java workloads on Azure.
 
@@ -215,8 +224,6 @@ Read more about Azure Kubernetes Service (AKS) [here](https://docs.microsoft.com
 * [GCP to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/services)
 
 ## <a name="adsisv"></a>Architecture Design Session for ISVs
-
-A key part of any application modernization project is to conduct an Architecture Design Session (ADS) with the customer or partner. This is ideally done in-person to avoid distractions; however, it can also be accomplished successfully remotely or as a hybrid event with some attendees meeting in person and others participating virtually.
 
 The goals of an Architectural Design Session are:
 
