@@ -113,9 +113,6 @@ Microsoft provides resource for partners throughout the entire modernize journey
 * [Modernizing Java Apps and Data on Azure Part One: Introduction](https://www.codeproject.com/Articles/5324868/Modernizing-Java-Apps-and-Data-on-Azure-Part-One)
 
 ### <a name="plan"></a>Plan
-<!-- (Not sure if this goes here, but thought this link should go somewhere) -->
-* [Java on Azure](https://azure.microsoft.com/en-us/resources/developers/java/)
-* [Introduction to Java on Azure Learning Path](https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/)
 
 #### App Migration Planning
 
@@ -326,6 +323,8 @@ Some partners will require upskilling on the technologies used in the solution. 
 * [Azure for Java developer documentation](https://docs.microsoft.com/en-us/azure/developer/java/)
 * [Get help from Microsoft on Java](https://docs.microsoft.com/en-us/azure/developer/java/learning-resources/get-help)
 * [Azure for Java quickstarts](https://docs.microsoft.com/en-us/azure/developer/java/quickstarts/)
+* [Java on Azure](https://azure.microsoft.com/en-us/resources/developers/java/)
+* [Introduction to Java on Azure Learning Path](https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/)
 
 ### Labs
 
