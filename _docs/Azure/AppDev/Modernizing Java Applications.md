@@ -31,7 +31,6 @@ tags:
 * [Proof of Concept](#poc)
 * [Tech Briefing](#techbriefing)
 * [Solution Technical Review](#techreview)
-* [Build & Assist](#build)
 * [Roadmap Planning](#roadmap)
 
 ## <a name="overview"></a>Overview
@@ -426,7 +425,7 @@ The solution must contain at least one of these services listed below:
 * Service Bus
 * Signal R
 
-Additional Solution Services: Beyond the basic services, the solution may contain the below listed additional services, as part of the well architected solution. 
+Additional Solution Services: Beyond the basic services, the solution may contain the below listed additional services, as part of the well architected solution.
 
 * Application Gateway
 * Azure Active Directory
@@ -499,7 +498,7 @@ Additional Solution Services: Beyond the basic services, the solution may contai
 * Cost Effectiveness: The partner must be familiar with the scaling and compute options for all the Basic Solution Services listed above, to implement a cost-effective solution for the customer.
 * Performance: The partner must articulate their strategy for high performing solution delivery. They should leverage at least one of the below:
   * Azure CDN
-  * Azure Frontdoor
+  * Azure Front Door
   * App Service Always On
   * Local Cache within App Configuration
   * Co-located deployments of DB with App Service in Azure Regions
@@ -508,7 +507,6 @@ Additional Solution Services: Beyond the basic services, the solution may contai
   * App Service Environments (ASE)
   * Encryption
   * HTTPS
-
 
 ## <a name="roadmap"></a>Roadmap Planning
 
