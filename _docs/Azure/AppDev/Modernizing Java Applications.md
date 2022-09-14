@@ -125,7 +125,7 @@ The following Azure services can host a Java application. Consider which is appr
 * Azure App Service
 * Azure Kubernetes Service
 
-#### **Azure Spring Apps**
+##### **Azure Spring Apps**
 
 Azure Spring Apps is a Platform as a Service (PaaS) offering providing hosting, configuration, and Application Lifecycle Management, specifically designed for hosting Java Spring applications.
 
@@ -136,7 +136,7 @@ Read more about Azure Spring Apps [here](https://azure.microsoft.com/en-us/servi
 * [Spring Boot to Azure Spring Apps](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-spring-boot-to-azure-spring-cloud)
 * [Tomcat to Azure Spring Apps](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-tomcat-to-azure-spring-cloud)
 
-#### **Azure App Service**
+##### **Azure App Service**
 
 Azure App Service is a PaaS offering that hosts web applications, REST APIs, and mobile backends. Code can be deployed from a Java application or a number of other languages and platforms.
 
@@ -149,7 +149,7 @@ Read more about Azure App Service [here](https://docs.microsoft.com/en-us/azure/
 * [JBoss EAP to Azure App Service](https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-jboss-eap-to-jboss-eap-on-azure-app-service)
 * [Configuring a Java app for Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/configure-language-java?pivots=platform-linux)
 
-#### **Azure Kubernetes Service**
+##### **Azure Kubernetes Service**
 
 Azure Kubernetes Service is a service that allows you to manage Kubernetes clusters within Azure. It supports any application that can run in a container, including Java applications.
 
