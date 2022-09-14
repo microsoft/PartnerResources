@@ -335,6 +335,8 @@ Specific *What The Hack*s
 
 ## <a name="poc"></a> Proof of Concept
 
+We may have uncertainty if a technology is a good fit for our solution. In this case, a Proof of Concept (POC) will help. A Proof of Concept is a small application that demonstrates the capabilities of a technology in a given scenario. This helps us decide if the technology is appropriate for the solution, minimizing risk without investing inordinate time and money.
+
 * [Azure for Java quickstarts](https://docs.microsoft.com/en-us/azure/developer/java/quickstarts/)
 * [Get help from Microsoft on Java](https://docs.microsoft.com/en-us/azure/developer/java/learning-resources/get-help)
 
