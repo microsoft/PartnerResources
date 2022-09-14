@@ -48,7 +48,7 @@ This document describes an approach to modernizing Java applications to optimize
 
 ### <a name="why"></a>Why Modernize?
 
-When considering migrating an application to Azure, it is useful to modernize the application and make it "cloud native" to better take advantage of the benefits of cloud computing. While a "lift and shift" approach - running your applications and data on virtual machines in the cloud - may work, it is likely to be inefficient.
+When considering migrating an application to Azure, it is useful to modernize the application and make it "cloud native" to better take advantage of the benefits of cloud computing. While a "lift and shift" approach - running your applications and data on virtual machines in the cloud - may work, it is likely to be inefficient. By architecting your application into distinct services that can be developed deployed and managed separately, you can increase the flexibility, maintainability, and scalability of your application. Microsoft Azure offers hundreds of managed services that free the developer from maintaining the underlying infrastructure of the application, allowing them to focus on solving business problems.
 
 We have included links to resources recommended for partners looking to migrate their Java applications to Azure and will cover mainstream Java on Azure scenarios.  Readers can expect to learn how to migrate different types of Java applications to Azure, and understand how to build, deploy, and monitor those applications on Azure for their customers.
 
