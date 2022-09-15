@@ -266,10 +266,6 @@ Day 2:
 | 1:00PM-3:00PM | Architecture and Solution Design |
 | 3:00PM-4:30PM | Plan Next Steps |
 
-### Delivery
-
-On the day(s) of the ADS, we should strive to ???
-
 #### Kickoff
 
 Begin with a brief kickoff: Recap the purpose of the session; allow attendees to briefly introduce themselves; share the agenda; and explicitly state the objectives, roles, and responsibilities of team members.
