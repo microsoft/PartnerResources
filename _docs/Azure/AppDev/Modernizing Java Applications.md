@@ -121,6 +121,8 @@ Microsoft provides resource for partners throughout the entire modernize journey
 
 #### App Migration Planning
 
+*Links:*
+
 * [Migration Checklist for Azure App Service](https://azure.microsoft.com/en-us/blog/migration-checklist-when-moving-to-azure-app-service/)
 * [Choosing an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?_lrsc=e623b82d-6c35-449e-9ff0-8cc81a0819e3)
 
@@ -129,6 +131,8 @@ The following Azure services can host a Java application. Consider which is appr
 * Azure Spring Apps
 * Azure App Service
 * Azure Kubernetes Service
+
+[This document](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?_lrsc=e623b82d-6c35-449e-9ff0-8cc81a0819e3) contrasts these services and provides some guidance on choosing the appropriate service.
 
 ##### **Azure Spring Apps**
 
