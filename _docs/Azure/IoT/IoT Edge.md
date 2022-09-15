@@ -1,7 +1,7 @@
 ---
 layout: page
-title: IoT Edge
-description: Resources for IoT Edge
+title: Azure IoT Edge
+description: Resources for Azure IoT Edge
 updated: 2021-12-01
 permalink: /azure/iot/iot-edge
 tags: 
@@ -10,7 +10,7 @@ tags:
 - iot
 ---
 
-# Learning Plan Resources for IoT Edge
+# Learning Plan Resources for Azure IoT Edge
 
 ## Keeping Up
 

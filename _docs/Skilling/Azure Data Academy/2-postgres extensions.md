@@ -4,11 +4,12 @@ title: PostgreSQL Extensions in Azure Database for PostgreSQL
 description: In this session, Gennady Kostinsky expands on his introduction to Azure Database for PostgreSQL with a look at how to implement extensions in Azure Database for PostgreSQL. Extensions in PostgreSQL enable additional functionality based on the needs of your application.
 updated: 2022-05-10
 permalink: /skilling/azure-data-academy/azure-database-postgres-extensions
-youtubeid: nCOW0WAIU7k
+youtubeid: LF_Mgv7GeIs
 tags: 
 - azure
 - data, analytics, and ai
 - azure data academy
+- academy content
 - postgresql
 - flexible server
 ---

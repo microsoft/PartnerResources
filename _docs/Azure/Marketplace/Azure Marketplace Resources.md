@@ -14,6 +14,8 @@ tags:
 
 ## Azure Marketplace
 
+[Mastering the Marketplace](http://aka.ms/MasteringTheMarketplace)
+
 [Azure Marketplace vs Appsource](https://docs.microsoft.com/en-us/azure/marketplace/overview)
 
 [Azure Marketplace Publishing guide by Offer Type](https://docs.microsoft.com/en-us/azure/marketplace/publisher-guide-by-offer-type)

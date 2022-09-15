@@ -2,7 +2,7 @@
 layout: page
 title: OSS DB to Azure
 description: Resources for Azure Database for MySQL, MariaDB, and Postgres
-updated: 2021-12-01
+updated: 2022-08-29
 permalink: /azure/data-analytics-ai/oss-db-to-azure
 tags: 
 - azure
@@ -24,6 +24,13 @@ tags:
 * [Introduction to Azure Database for MySQL](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-database-for-mysql/) (40 minutes)
 * [Introduction to Azure Database for PostgreSQL](https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/) (Self-Paced) (20 minutes)
 * [Create and connect to an Azure Database for PostgreSQL](https://docs.microsoft.com/en-us/learn/modules/create-connect-to-postgres/) (Self-Paced) (46 minutes)
+* [MySQL Server - Replicate Changes in Azure Database Migration Service](https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog/azure-dms-mysql-replicate-changes-now-in-preview/ba-p/3601564)
+  * New functionality to support migration by replicating changes while databases continue to be operational.
+
+### Azure Data Academy series
+
+* [Azure Data Academy series](https://aka.ms/ada)
+  * Sessions on MySQL, PostgreSQL, SQL Server.
 
 ## Associate
 

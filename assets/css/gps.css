@@ -4,11 +4,8 @@
     color: #888888;
 }
 
-.homepagelink {
-    font-size: 16px;
-    font-weight: 700;
-    line-height: 22px;
-    margin: 5px 0 5px 0;
+.doctags {
+    line-height: 0.2rem;
     padding-top: 5px;
     padding-bottom: 5px;
 }
@@ -30,3 +27,13 @@ h6 {
     margin-top: 5px;
 }
 /* modified .col-xl-2, col-xl-8 */
+
+h1 {
+    font-size: 1.8rem;
+}
+h2 {
+    font-size: 1.6rem;
+}
+h3 {
+    font-size: 1.4rem;
+}
