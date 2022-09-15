@@ -513,6 +513,8 @@ Additional Solution Services: Beyond the basic services, the solution may contai
 
 ## <a name="roadmap"></a>Roadmap Planning
 
+The following links provide information on the upcoming roadmap of Java on Microsoft Azure.
+
 * [Microsoft for Java Developers Blog](https://devblogs.microsoft.com/java/tag/java/)
 * [Azure Blog](https://azure.microsoft.com/en-us/blog)
 * [Java and Azure GitHub Projects](https://github.com/search?q=azure+spring&ref=opensearch)
