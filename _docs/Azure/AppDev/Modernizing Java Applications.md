@@ -461,10 +461,10 @@ Additional Solution Services: Beyond the basic services, the solution may contai
 
 ### Best Practices
 
-* HA: The partner should articulate how they ensure the solution is highly available for customers. They might implement at least one of the below services in the case of App Service Environment.
+* **High Availability (HA)**: The partner should articulate how they ensure the solution is highly available for customers. They might implement at least one of the below services in the case of App Service Environment.
   * Availability Zones
   * Availability Sets
-* Security: The partner should implement at least one or more of the below frameworks or methodologies for a secure solution architecture.
+* **Security**: The partner should implement at least one or more of the below frameworks or methodologies for a secure solution architecture.
   * Azure Security Benchmark
   * Security Pillar of the Well Architected Framework
   * Easy Auth
@@ -480,20 +480,20 @@ Additional Solution Services: Beyond the basic services, the solution may contai
   * Application Gateway
   * Microsoft Defender for Cloud
   * Microsoft Sentinel
-* BCDR: The partner should explain the solution SLA, RTO/RPO and backup practices.
-* Governance: The partner should explain the different access control and governance policies practiced as part of solution implementation.
-* IAM: The partner should explain how they implement identity, authentication and authorization in their solution. They should implement at least one of the below services.
+* **Business Continuity and Disaster Recovery (BCDR)**: The partner should explain the solution SLA, RTO/RPO and backup practices.
+* **Governance**: The partner should explain the different access control and governance policies practiced as part of solution implementation.
+* **Identity Access Management (IAM)**: The partner should explain how they implement identity, authentication and authorization in their solution. They should implement at least one of the below services.
   * Easy Auth
   * Azure Active Directory
   * Azure Active Directory B2C
   * Enterprise Applications
-* DevOps: The partner should explain in detail on how they implement their DevOps strategy for easier repeatable code or infrastructure deployments. They should be familiar with the DevOps offerings with Azure and their implementations. Below is a list of such implementations.
+* **DevOps**: The partner should explain in detail on how they implement their DevOps strategy for easier repeatable code or infrastructure deployments. They should be familiar with the DevOps offerings with Azure and their implementations. Below is a list of such implementations.
   * Web Apps Deployment Slots
   * App Configuration
   * App Service Deployment Center
   * Git Integration
   * Containers (Linux + Windows)
-* Observability: The partner must articulate their strategy for knowing the health of the solution. They must implement one or more of the below listed services.
+* **Observability**: The partner must articulate their strategy for knowing the health of the solution. They must implement one or more of the below listed services.
   * Application Insights
   * Azure Monitor
   * Alerts
@@ -502,14 +502,14 @@ Additional Solution Services: Beyond the basic services, the solution may contai
   * Workbooks
   * KQL
   * Microsoft Sentinel
-* Cost Effectiveness: The partner must be familiar with the scaling and compute options for all the Basic Solution Services listed above, to implement a cost-effective solution for the customer.
-* Performance: The partner must articulate their strategy for high performing solution delivery. They should leverage at least one of the below:
+* **Cost Effectiveness**: The partner must be familiar with the scaling and compute options for all the Basic Solution Services listed above, to implement a cost-effective solution for the customer.
+* **Performance**: The partner must articulate their strategy for high performing solution delivery. They should leverage at least one of the below:
   * Azure CDN
   * Azure Front Door
   * App Service Always On
   * Local Cache within App Configuration
   * Co-located deployments of DB with App Service in Azure Regions
-* Compliance: The partner must explain the strategy implemented in the solution to comply with customer regulations. They may leverage one or more of the below:
+* **Compliance**: The partner must explain the strategy implemented in the solution to comply with customer regulations. They may leverage one or more of the below:
   * Microsoft Defender for Cloud
   * App Service Environments (ASE)
   * Encryption
