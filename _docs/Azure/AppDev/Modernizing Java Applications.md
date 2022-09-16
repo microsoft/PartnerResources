@@ -3,12 +3,13 @@ layout: page
 title: Modernizing Java Applications on Azure
 description: A Plan for Modernizing Java Applications on Azure
 updated: 2022-09-14
-permalink: /azure/appdev/Modernizing-JavaApplications.md
+permalink: /azure/appdev/modernizing-javaapplications
 tags:
 - azure
 - appdev
 - technical resources 
 - learning plan
+- java
 - modernization
 ---
 
