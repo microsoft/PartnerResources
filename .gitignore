@@ -1,3 +1,5 @@
 vendor
 _site
 Gemfile.lock
+markdownlink.json
+.vscode/
