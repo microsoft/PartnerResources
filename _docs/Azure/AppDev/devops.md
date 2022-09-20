@@ -73,8 +73,6 @@ Microsoft offers [AZ-400: Designing and Implementing Microsoft DevOps Solutions]
 The exam has recently been updated to include topics related to GitHub.
 To obtain the [DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/) certification (AZ-400), you *must* pass at least one of the following prerequiste exams: [Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/) or [Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/).
 
-NOTE: GitHub certification is coming soon. Register [here](https://resources.github.com/certifications) for updates.
-
 ## Advanced Specialization
 Validate your organization's capabilities implementing secure software development practices using DevOps principles with the DevOps with GitHub on Microsoft Azure advanced specialization. Learn more [here](https://partner.microsoft.com/en-us/membership/advanced-specialization) (scroll down to the DevOps with GitHub section).
 
