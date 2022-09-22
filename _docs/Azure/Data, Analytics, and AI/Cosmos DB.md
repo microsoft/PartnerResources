@@ -38,6 +38,7 @@ Microsoft Azure Cosmos DB offers multiple database APIs - Core (SQL) API, API fo
 
 ## Expert
 * [Multi-Region Application use case - Azure Cosmos DB Essentials Season 3](https://youtu.be/PcauRgQcuic?list=PLLasX02E8BPDd2fKwLCHnmWoyo4bL-oKr) (Self-Paced) (5 minutes) <br>Explore software development tips and tricks for building and deploying a multi-region application with Azure Traffic Manager, Azure Web Apps, and Azure Cosmos DB.  
+* [Data Modeling and Partitioning in Azure Cosmos DB](https://www.youtube.com/watch?v=XU1ZuwiWW_k&list=PLmamF3YkHLoLN_24E41jSPVilv5B3GTBg&index=14) (Self-Paced) (0.5 hours) <br>Learn the key strategies for modeling and partitioning data effectively in Azure Cosmos DB.
 
 ## Community Resources
 
