@@ -58,7 +58,7 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 ## Associate
 
 * [Data Access Migration Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-databasemigration.data-access-migration-toolkit) (Tooling)
-  * This cool can be useful in scanning documents/code for data access patterns.
+  * This tool can be useful in scanning application source documents/code for data access patterns.
 
 ### SQL Server Resources
 
