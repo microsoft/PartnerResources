@@ -33,6 +33,7 @@ tags:
 
 ## Expert
 
+* [AKS Construction Kit](https://azure.github.io/AKS-Construction/)
 * [Azure Kubernetes Service production baseline](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)
 * [Architect compute infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/) (Self-Paced) 
 * [Architect great solutions in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-great-solutions-in-azure/) (Self-Paced) 
