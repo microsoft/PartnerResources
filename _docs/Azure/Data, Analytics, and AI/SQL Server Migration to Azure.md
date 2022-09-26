@@ -77,7 +77,7 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 
 ### Pluralsight Courses
 
-* [Pluralsight: Migrating to SQL Server 2016](https://www.pluralsight.com/courses/sqlserver-2016-upgrading-migrating)
+* [Pluralsight: Migrating to SQL Server 2016](https://www.pluralsight.com/courses/sqlserver-2016-upgrading-migrating) (3rd Party, $)
 * [Pluralsight: Azure SQL Database](https://www.pluralsight.com/courses/azure-sql-database-dba)
 
 ### Video Series
