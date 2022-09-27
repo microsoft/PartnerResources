@@ -106,7 +106,7 @@ To begin getting hands-on, refer to the following resources:
 
 ### Speech
 
-[Cognitive Services for Speech] (https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/) also has both pre-trained models as well as customizable services to convert speech to text, text to speech, as well as speaker recognition and speech translation.
+[Cognitive Services for Speech](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/) also has both pre-trained models as well as customizable services to convert speech to text, text to speech, as well as speaker recognition and speech translation.
 
 Speech to Text:
 * [Speech to Text Overview](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-to-text): Explore the capabilities of the STT service. There are also quick starts available below this tab on the same page.
