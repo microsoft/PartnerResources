@@ -78,7 +78,7 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 ### Pluralsight Courses
 
 * [Pluralsight: Migrating to SQL Server 2016](https://www.pluralsight.com/courses/sqlserver-2016-upgrading-migrating) (3rd Party, $)
-* [Pluralsight: Azure SQL Database](https://www.pluralsight.com/courses/azure-sql-database-dba)
+* [Pluralsight: Azure SQL Database](https://www.pluralsight.com/courses/azure-sql-database-dba) (3rd Party, $)
 
 ### Video Series
 
@@ -92,5 +92,6 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 
 ## Certifications
 
-* [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
-* [DP-300: Administering Relational Databases on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300) 
+* [AZ-900 Azure Fundamentals Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) <br>Demonstrate a fundamental knowledge of cloud concepts, along with Azure services, workloads, security, privacy, pricing, and support
+* [DP-900 Azure Data Fundamentals Certification](https://learn.microsoft.com/en-us/certifications/exams/dp-900) <br>Demonstrate knowledge of core data concepts and related Microsoft Azure data services
+* [DP-300: Administering Relational Databases on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300) <br>This exam is for database administrators who manage on-premises and cloud databases built with SQL Server and SQL database services. Candidates for this exam should have knowledge of and experience with Azure SQL Edge, Azure SQL Database, Azure SQL Managed Instance, and SQL Server on Azure Virtual Machines (Windows and Linux).
