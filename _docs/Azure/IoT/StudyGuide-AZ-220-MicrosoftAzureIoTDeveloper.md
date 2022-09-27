@@ -2,12 +2,13 @@
 layout: page
 title: Study Guide for Exam AZ-220 Microsoft Azure IoT Developer
 description: Study Guide for Exam AZ-220 Microsoft Azure IoT Developer
-updated: 2021-12-01
+updated: 2022-09-27
 permalink: /azure/iot/StudyGuide-AZ-220-MicrosoftAzureIoTDeveloper
 tags: 
 - learning plan
 - azure
 - iot
+- certification
 ---
 
 # AZ-220: Microsoft Azure IoT Developer
