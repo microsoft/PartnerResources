@@ -118,18 +118,18 @@ Speaker Recognition:
 * [Speaker Recognition Overview](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/speaker-recognition-overview): Explore Speaker Recognition and some commonly asked questions. There is a quick start available below this tab on the same page.
 
 Speech Translation:
-* [Speech Translation Quickstart](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/get-started-speech-translation?tabs=terminal&pivots=programming-language-csharp): Get hands on with translating speech from a microphone in the langauge of choice.
+* [Speech Translation Quickstart](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/get-started-speech-translation?tabs=terminal&pivots=programming-language-csharp): Get hands on with translating speech from a microphone in the language of choice.
 
 Custom Neural Voice
 * [Custom Neural Voice Overview](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/custom-neural-voice): Explore the different project types for custom neural voice. This page is followed by a great step by step guide on how to get started.
-* [Custom Nural Voice - Getting Started](https://www.youtube.com/watch?v=di3vKMhyLaY): Video tutorial for getting started.
-* [How to Create a Custom Neural Voice](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/how-to-create-a-custom-neural-voice/ba-p/3028275): A great turoial along with best practices.
-* [Latest Updates pn Azure Neural TTS](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/latest-updates-on-azure-neural-tts-new-voices-for-casual/ba-p/2761278): Stay up to date with the lastest changes and view some examples.
+* [Custom Neural Voice - Getting Started](https://www.youtube.com/watch?v=di3vKMhyLaY): Video tutorial for getting started.
+* [How to Create a Custom Neural Voice](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/how-to-create-a-custom-neural-voice/ba-p/3028275): A great tutorial along with best practices.
+* [Latest Updates on Azure Neural TTS](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/latest-updates-on-azure-neural-tts-new-voices-for-casual/ba-p/2761278): Stay up to date with the latest changes and view some examples.
 * [Announcing new voices and emotions](https://azure.microsoft.com/en-us/blog/announcing-new-voices-and-emotions-to-azure-neural-text-to-speech/): Check out some new additions to the service!
 * [Applying for Custom Neural Voice](https://learn.microsoft.com/en-us/shows/azure-videos/applying-for-custom-neural-voice): Official form to start working with Custom Neural Voice.
 * [Transparency Note and Use Cases](https://learn.microsoft.com/en-us/legal/cognitive-services/speech-service/custom-neural-voice/transparency-note-custom-neural-voice?context=%2Fazure%2Fcognitive-services%2Fspeech-service%2Fcontext%2Fcontext): Understanding some key considerations when using Custom Neural Voice
-* [Guidelines for responsible deployment of synthetic voice technology](https://learn.microsoft.com/en-us/legal/cognitive-services/speech-service/custom-neural-voice/concepts-guidelines-responsible-deployment-synthetic): Understand how to resposibly use synthetic voice technology.
-* [Data, privacym and security for Custom Neural Voice](https://learn.microsoft.com/en-us/legal/cognitive-services/speech-service/custom-neural-voice/data-privacy-security-custom-neural-voice?context=%2Fazure%2Fcognitive-services%2Fspeech-service%2Fcontext%2Fcontext): Understand how the data will be used and processed.
+* [Guidelines for responsible deployment of synthetic voice technology](https://learn.microsoft.com/en-us/legal/cognitive-services/speech-service/custom-neural-voice/concepts-guidelines-responsible-deployment-synthetic): Understand how to responsibly use synthetic voice technology.
+* [Data, privacy and security for Custom Neural Voice](https://learn.microsoft.com/en-us/legal/cognitive-services/speech-service/custom-neural-voice/data-privacy-security-custom-neural-voice?context=%2Fazure%2Fcognitive-services%2Fspeech-service%2Fcontext%2Fcontext): Understand how the data will be used and processed.
 
 Content Creation
 * [Speech Studio](https://speech.microsoft.com/audiocontentcreation?msclkid=68f18c52c10711ec8b45f75fc0c21c62): Test out the features of Content Creation
