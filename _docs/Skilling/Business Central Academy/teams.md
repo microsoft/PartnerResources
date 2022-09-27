@@ -22,5 +22,6 @@ Microsoft Teams provides organizations many ways to stay connected and communica
 
 ### Supporting Resources for these videos
 
-* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/admin-powerbi-overview" target="_blank">Read more about the Power BI Integration Component and Architecture for Business Central
-* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/power-bi-faq?tabs=general" target="_blank">Visit Power BI and Business Central FAQ
+* <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/admin-teams-integration" target="_blank">Read more about Managing the Teams Integration for Business Central
+* <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/teams-faq?tabs=general" target="_blank">Visit the Teams and Business Central FAQ
+* <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/admin-teams-troubleshooting" target="_blank">Troubleshooting Teams and Business Central
