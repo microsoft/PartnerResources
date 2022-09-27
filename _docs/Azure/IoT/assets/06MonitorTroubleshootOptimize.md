@@ -51,5 +51,4 @@ Learn about the solution monitoring tools available in Azure and how to apply th
 * [Monitoring Azure IoT Hub Data](https://docs.microsoft.com/azure/iot-hub/monitor-iot-hub-reference?wt.mc_id=eventspg_16482_webpage_reactor)
 * [YouTube - Microsoft IoT Developers](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ?wt.mc_id=eventspg_16482_webpage_reactor)
 
-NOTE: In most cases, exams do NOT cover preview features, and some features will only be
-added to an exam when they are GA (General Availability).
+Happy studies!
