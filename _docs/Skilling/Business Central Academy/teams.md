@@ -8,9 +8,9 @@ showbreadcrumb: true
 
 # {{ page.title }}
 
-**Connect Microsoft Teams** in your Business Central demo environment in order to deliver demos which include deep insights and rich data visualizations originating from Business Central data. 
+**Connect Microsoft Teams** in your Business Central demo environment in order to deliver demos which highlight scenarios where customers streamline business process by accessing Business Central data while working inside Microsoft Teams. 
 
-This video provides pre-sales engineers guidance on how to **connect** the integrated experience betweeen Power BI and Business Central.
+This video provides pre-sales engineers guidance on how to **connect** the integrated experience betweeen Microsoft Teams and Business Central.
 
 {% include series.md 
     includetags="business central academy|power bi" includemethod="all" 
