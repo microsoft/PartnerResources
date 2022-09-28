@@ -13,7 +13,7 @@ showbreadcrumb: true
 This video provides pre-sales engineers guidance on how to **connect** the integrated experience betweeen Microsoft Teams and Business Central.
 
 {% include series.md 
-    includetags="business central academy|power bi" includemethod="all" 
+    includetags="business central academy|microsoft teams" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
 %}
