@@ -50,6 +50,6 @@ The Business Central Pre-Sales Academy is a series of presentations combined wit
 
 {% include series.md 
     includetags="business central academy|academy content" includemethod="all" 
-    sortfield="sorttitle" sortorder="desc" showdate="true" limit=5
+    sortfield="updated" sortorder="desc" showdate="true" limit=5 
     visualstyle="tiny"
 %}
