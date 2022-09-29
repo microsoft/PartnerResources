@@ -41,13 +41,25 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 
 * [Data Migraton Assistant](https://docs.microsoft.com/en-us/sql/dma/dma-overview) (Microsoft Docs / Application)
   * Primary tool for evaluating a SQL Database for compatibility issues
+* [Migrate SQL workloads to Azure](https://learn.microsoft.com/en-us/training/paths/migrate-sql-workloads-azure/) (Micorosft Docs)
+  * Learn how to migrate SQL Server workloads to SQL Services that exist on Azure
 * [Choose the Right Deployment Option in Azure SQL](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas) (Microsoft Docs)
   * Outlines the deployment options for SQL Server in Azure
 * [SQL Server on Azure VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-server-iaas-overview) (Microsoft Docs)
   * Overview of best practices in creating SQL Server in VMs
-* [PaaS vs IaaS - Navigating the Decision Tree](https://channel9.msdn.com/Series/SAIIK-SQL-Server-on-Azure-IaaS-Implementation-Kit/SAIIK-PaaS-vs-IaaS) (Video)
+* [PaaS vs IaaS](https://learn.microsoft.com/en-us/shows/azure-sql-for-beginners/paas-vs-iaas-5-of-61) (Video)
   * Presentation that contrasts Azure SQL DB and SQL in VMs.
   * Information is dated as it does not include Azure SQL Database Managed Instance, but conceptually many of the ideas apply
+* [Plan and implement data platform resources](https://learn.microsoft.com/en-us/training/paths/plan-implement-data-platform-resources/) (Microsoft Docs)
+  * Explore options for deployment and migration
+  * Calculate resource requirements and create templates
+* [Monitor and optimize operational resources in Azure SQL](https://learn.microsoft.com/en-us/training/paths/monitor-optimize-operational-resources-sql-server/) (Microsoft Docs)
+  * Configure hardware and server resources for optimum performance after establishing a baseline
+* [Optimize query performance in Azure SQL](https://learn.microsoft.com/en-us/training/paths/optimize-query-performance-sql-server/) (Microsoft Docs)
+  * Explore performance-related Dynamic Management Objects
+  * Investigate how indexes and database design affect queries
+* [Get Started Querying with Transact-SQL](https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/) (Microsoft Docs)
+  * Learn how to use Transact-SQL to query data in a database
  
 ### MySQL, PostgreSQL, and MariaDB Migration Guides
 
