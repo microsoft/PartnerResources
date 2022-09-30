@@ -2,7 +2,7 @@
 layout: page
 title: Customer Insights
 description: Resources for Customer Insights
-updated: 2022-08-31
+updated: 2022-09-30
 permalink: /business-applications/customer-data-platform/customer-insights
 tags:
 - learning plan
@@ -52,7 +52,7 @@ _**Note:** An on-demand video version will be available shortly_
 
 ## Certifications
 
-* No Certification Exists at This Time
+* [Exam MB-260: Microsoft Customer Data Platform Specialist](https://learn.microsoft.com/en-us/certifications/exams/mb-230)
 
 
 ## Community Resources
