@@ -24,8 +24,8 @@ The Microsoft Global Partner Solutions (GPS) Technical Team, IoT Product Group, 
 |3|**Implement IoT Edge (15-20%)**| [Link](assets/03ImplementEdge.md) |
 |4|**Implement Business Integration (5-10%)**| [Link](assets/04BusinessIntegration.md) |
 |5|**Process and Manage Data (15-20%)**| [Link](assets/05ProcessAndManageData.md) |
-|6|**Monitor, Troubleshoot, and Optimize IoT Solutions (15-20%)**| [Link](assets/06MonitorTroubleshootOptimize.md) |
-|7|**Implement security (10-15%)**| [Link](assets/07ImplementSecurity.md) |
+|6|**Monitor, Troubleshoot, and Optimize IoT Solutions (5-10%)**| [Link](assets/06MonitorTroubleshootOptimize.md) |
+|7|**Implement security (5-10%)**| [Link](assets/07ImplementSecurity.md) |
 
 ## How to use this study guide
 
