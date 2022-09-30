@@ -37,7 +37,7 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 
 * [Microsoft Online Migration Guide](https://datamigration.microsoft.com/)
 
-### SQL Server Resources (fundamentals)
+### SQL Server Resources
 
 * [Data Migraton Assistant](https://docs.microsoft.com/en-us/sql/dma/dma-overview) (Microsoft Docs / Application)
   * Primary tool for evaluating a SQL Database for compatibility issues
@@ -51,9 +51,13 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
  
 ### MySQL, PostgreSQL, and MariaDB Migration Guides
 
-* [Migrate MySQL to Azure Database for MySQL](https://datamigration.microsoft.com/scenario/mysql-to-azuremysql?step=1)
-* [Migrate PostgreSQL to Azure Database for PostgreSQL](https://datamigration.microsoft.com/scenario/postgresql-to-azurepostgresql?step=1)
-* [Migrate MariaDB to Azure Database for MariaDB](https://datamigration.microsoft.com/scenario/mariadb-to-azuremariadb?step=1)
+* [Migrate MySQL to Azure Database for MySQL](https://learn.microsoft.com/en-us/azure/mysql/single-server/concepts-migrate-import-export)
+  * Approaches to import and export data to an Azure Database for MySQL server by using MySQL Workbench
+* [Migrate PostgreSQL to Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/azure/postgresql/migrate/how-to-migrate-using-dump-and-restore)
+  * Use pg_dump to extract a PostgreSQL database into a dump file. Then use pg_restore to restore the PostgreSQL database from an archive file created by pg_dump
+* [Migrate MariaDB to Azure Database for MariaDB](https://learn.microsoft.com/en-us/azure/mariadb/howto-migrate-dump-restore)
+  * Dump and restore by using a command-line tool (using mysqldump)
+  * Dump and restore using phpMyAdmin
 
 ## Associate
 
