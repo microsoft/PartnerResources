@@ -7,7 +7,7 @@ tags:
  - iot
 ---
 
-# AZ-220 Implement Security (10-15%)
+# AZ-220 Implement Security (5-10%)
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)
 * [Microsoft Certified: Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
