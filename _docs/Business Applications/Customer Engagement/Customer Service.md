@@ -2,7 +2,7 @@
 layout: page
 title: Customer Service
 description: Resources for Customer Service
-updated: 2021-12-01
+updated: 2022-09-30
 permalink: /business-applications/customer-engagement/customer-service
 tags:
 - learning plan
@@ -34,11 +34,11 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners.  Release wave 1 covers features releasing from April through September.  Release wave 2 covers features releasing from October through March.
 
 * [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
-
+* [Dynamics 365 2022 release wave 2](https://cloudblogs.microsoft.com/dynamics365/bdm/2022/07/12/2022-release-wave-2-plans-for-dynamics-365-and-power-platform-now-available/)
 * [Dynamics 365 2021 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave2/)
 * [Power Platform 2021 release wave 2](https://docs.microsoft.com/en-us/power-platform-release-plan/2021wave2/)
 
-* [Dynamics 365 Customer Service 2021 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave2/service/dynamics365-customer-service/get-started)
+* [Dynamics 365 Customer Service 2022 release wave 2](https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/service/dynamics365-customer-service/)
 
 ## Fundamentals
 
@@ -77,7 +77,7 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 
 ## Certifications
 
-* [Exam PL-200: Microsoft Power Platform Functional Consultant (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200)
+* [Exam PL-200: Microsoft Power Platform Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200)
 * [Exam MB-230: Microsoft Dynamics 365 Customer Service](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230)
 
 * [Exam PL-400: Microsoft Dynamics 365 Power Apps + Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400)
