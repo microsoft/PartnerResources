@@ -84,25 +84,24 @@ Weekly releases of the IoT Show, regular premieres of the IoT Deep Dives, advoca
 ## Exam Updates
 
 ### Skills Measured - Exam update on July 28, 2022
-* **Modified** "Build device messaging and communication", subtopic "Connect to IoT Hub using TLS server certificates" changed to "Connect to IoT Hub by using Transport Layer Security (TLS) server certificates"
-* **Added** "Configure physical IoT devices", subtopic "Add IoT Plug and Play capabilities to a device in a model-driven solution"
-* **Minor Revision** Manage IoT devices by using IoT Hub
-* **Major Revision** Manage IoT devices by using Azure IoT Central
-* **Minor Revision** Set up an IoT Edge device
-* **Minor Revision** Develop IoT Edge modules
-* **Minor Revision** Integrate with upstream and downstream systems
-* **Minor Revision** Develop Azure Digital Twins (ADT) solutions
-* **Minor Revision** Configure message routing in Azure IoT Hub
-* **Minor Revision** Configure stream processing of IoT data
-* **Minor Revision** Configure health monitoring of a solution
-* **Minor Revision** Troubleshoot device communication
-* **Removed** Ensure performance and availability
-* **Minor Revision** Implement security for IoT devices and services
-* **Minor Revision** Implement Microsoft Defender for IoT
-
+* **Modified** "Build device messaging and communication": subtopic "Connect to IoT Hub using TLS server certificates" changed to "Connect to IoT Hub by using Transport Layer Security (TLS) server certificates"
+* **Added** "Configure physical IoT devices"" subtopic "Add IoT Plug and Play capabilities to a device in a model-driven solution"
+* **Minor Revision** "Manage IoT devices by using IoT Hub"
+* **Major Revision** "Manage IoT devices by using Azure IoT Central"
+* **Minor Revision** "Set up an IoT Edge device"
+* **Minor Revision** "Develop IoT Edge modules"
+* **Minor Revision** "Integrate with upstream and downstream systems"
+* **Minor Revision** "Develop Azure Digital Twins (ADT) solutions"
+* **Minor Revision** "Configure message routing in Azure IoT Hub"
+* **Minor Revision** "Configure stream processing of IoT data"
+* **Minor Revision** "Configure health monitoring of a solution"
+* **Minor Revision** "Troubleshoot device communication"
+* **Removed** "Ensure performance and availability"
+* **Minor Revision** "Implement security for IoT devices and services"
+* **Minor Revision** "Implement Microsoft Defender for IoT"
 
 ### Skills Measured - Exam update on May 25, 2021
-* **Modified** "Develop Azure Digital Twins (ADT)", subtopic "Create a digital twin by using the DTDL" changed to "Solutions create ADT models and digital twins"
+* **Modified** "Develop Azure Digital Twins (ADT)": subtopic "Create a digital twin by using the DTDL" changed to "Solutions create ADT models and digital twins"
 * **Added** "Configure an Azure Defender for IoT agent-based solution" to "Implement Security", subtopic "Implement Azure Defender for IoT"
 * **Added** "Implement Defender-IoT-micro-agents (security agents)" to "Implement Security", subtopic "Implement Azure Defender for IoT"
 * **Added** "Configure built-in and custom alerts for IoT Hub" to "Implement Security", subtopic "Implement Azure Defender for IoT"
@@ -121,7 +120,7 @@ Weekly releases of the IoT Show, regular premieres of the IoT Deep Dives, advoca
 * **Added** "Deploy on constrained devices" to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
 * **Added** "Secure IoT Edge solutions" to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
 * **Added** "Deploy production certificates" to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
-* **Modified** Implement and configure offline support (*including local storage*) to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
+* **Modified** "Implement and configure offline support (*including local storage*)" to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
 
 ### Skills Measured - Exam update on May 28, 2020
 * **Added** "Custom and industry-focused application templates" to "Provision and Manage Devices", subtopic "IoT Central"
