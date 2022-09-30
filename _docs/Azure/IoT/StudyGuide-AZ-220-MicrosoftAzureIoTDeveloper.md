@@ -103,30 +103,30 @@ Weekly releases of the IoT Show, regular premieres of the IoT Deep Dives, advoca
 
 ### Skills Measured - Exam update on May 25, 2021
 * **Modified** "Develop Azure Digital Twins (ADT)", subtopic "Create a digital twin by using the DTDL" changed to "Solutions create ADT models and digital twins"
-* **Added** *Configure an Azure Defender for IoT agent-based solution* to "Implement Security", subtopic "Implement Azure Defender for IoT"
-* **Added** *implement Defender-IoT-micro-agents (security agents)* to "Implement Security", subtopic "Implement Azure Defender for IoT"
-* **Added** *configure built-in and custom alerts for IoT Hub* to "Implement Security", subtopic "Implement Azure Defender for IoT"
-* **Removed** *Enable Azure Defender for IoT in Azure IoT Hub* from "Implement Security", subtopic "Implement Azure Defender for IoT"
-* **Removed** *Create security modules* from "Implement Security", subtopic "Implement Azure Defender for IoT"
-* **Removed** *Configure custom alerts* from "Implement Security", subtopic "Implement Azure Defender for IoT"
-* **Removed** *Configure the interval at which messages are sent*  from "Implement Security", subtopic "Implement Azure Defender for IoT"
+* **Added** "Configure an Azure Defender for IoT agent-based solution" to "Implement Security", subtopic "Implement Azure Defender for IoT"
+* **Added** "Implement Defender-IoT-micro-agents (security agents)" to "Implement Security", subtopic "Implement Azure Defender for IoT"
+* **Added** "Configure built-in and custom alerts for IoT Hub" to "Implement Security", subtopic "Implement Azure Defender for IoT"
+* **Removed** "Enable Azure Defender for IoT in Azure IoT Hub" from "Implement Security", subtopic "Implement Azure Defender for IoT"
+* **Removed** "Create security modules" from "Implement Security", subtopic "Implement Azure Defender for IoT"
+* **Removed** "Configure custom alerts" from "Implement Security", subtopic "Implement Azure Defender for IoT"
+* **Removed** "Configure the interval at which messages are sent" from "Implement Security", subtopic "Implement Azure Defender for IoT"
 
 ### Skills Measured - Exam update on September 24, 2020
-* **Added** *Monitor application health using metrics* to "Provision and Manage Devices", subtopic "Build a solution by using IoT Central"
-*	**Added** *Implement Industrial IoT solutions with modules like Modbus and OPC* to "Implement Edge", subtopic "Configure an IoT Edge device"
-*	**Added** *Use Azure Policy definitions for IoT Hub* to "Monitor, troubleshoot, and optimize IoT solutions", subtopic "Configure health monitoring"
+* **Added** "Monitor application health using metrics" to "Provision and Manage Devices", subtopic "Build a solution by using IoT Central"
+*	**Added** "Implement Industrial IoT solutions with modules like Modbus and OPC" to "Implement Edge", subtopic "Configure an IoT Edge device"
+*	**Added** "Use Azure Policy definitions for IoT Hub" to "Monitor, troubleshoot, and optimize IoT solutions", subtopic "Configure health monitoring"
 
 ### Skills Measured - Exam update on July 21, 2020
-* **Added** *IoT Edge automatic deployments* to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
-* **Added** *Deploy on constrained devices* to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
-* **Added** *Secure IoT Edge solutions* to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
-* **Added** *Deploy production certificates* to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
+* **Added** "IoT Edge automatic deployments" to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
+* **Added** "Deploy on constrained devices" to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
+* **Added** "Secure IoT Edge solutions" to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
+* **Added** "Deploy production certificates" to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
 * **Modified** Implement and configure offline support (*including local storage*) to "Implement Edge", subtopic "Setup and deploy an IoT Edge Device"
 
 ### Skills Measured - Exam update on May 28, 2020
-* **Added** *Custom and industry-focused application templates* to "Provision and Manage Devices", subtopic "IoT Central"
-*	**Added** *Provision IoT Edge devices with DPS* to "Implement Edge", subtopic "Setup and Deploy an IoT Edge Device"
-*	**Removed** *Set up device D2C message tracing by using Azure Distributed Tracing* from "Monitor, troubleshoot, and optimizeIoT solutions", subtopic "Perform end-to-end solution testing and diagnostics"
+* **Added** "Custom and industry-focused application templates" to "Provision and Manage Devices", subtopic "IoT Central"
+*	**Added** "Provision IoT Edge devices with DPS" to "Implement Edge", subtopic "Setup and Deploy an IoT Edge Device"
+*	**Removed** "Set up device D2C message tracing by using Azure Distributed Tracing" from "Monitor, troubleshoot, and optimizeIoT solutions", subtopic "Perform end-to-end solution testing and diagnostics"
 
 ## AZ-220 Practice Exams
 Are you ready for the AZ-220 exam?
