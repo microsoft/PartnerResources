@@ -2,7 +2,7 @@
 layout: page
 title: Power Apps with SAP on Azure
 description: Resources for Power Apps with SAP
-updated: 2022-03-21
+updated: 2022-09-30
 permalink: /business-applications/power-platform/power-apps-sap-azure
 tags:
 - learning plan
@@ -24,7 +24,7 @@ Below you'll find series of training resources which will take you through begin
 * [How to create an account on the SAP Gateway Demo System](https://developers.sap.com/tutorials/gateway-demo-signup.html)
 * [MS Learn – Connect Power Platform to SAP on Azure](https://docs.microsoft.com/en-us/learn/modules/connect-power-platform-to-sap-azure/)
 * [Extend SAP solutions using Microsoft Power Platform Deep Dive Video series](https://www.youtube.com/playlist?list=PLvqyDwoCkBXb3tRy411U3Cut8rBvZ_oNI)
-* [Leveraging Power Apps with SAP on Azure Workshop Resources](https://github.com/microsoft/PartnerResources/tree/main/_docs/Skilling/Power%20Apps%20with%20SAP%20on%20Azure)
+* [Leveraging Power Apps with SAP on Azure Workshop Resources](https://github.com/microsoft/PartnerResources/tree/main/assets/PowerAppsWithSAP)
 * [Leveraging Power Apps with SAP on Azure On Demand Webinar](https://msuspartners.eventbuilder.com/event/53451?source=LeveragingPowerAppsSAPonAzure)
 
 
