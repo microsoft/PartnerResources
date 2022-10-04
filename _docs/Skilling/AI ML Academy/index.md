@@ -54,7 +54,7 @@ Refer to links below for the module breakouts.
 <tr>
 <td>
   <ul>
-    <li>General-purpose AI Cognitive Services, including Azure OpenAI</li>
+    <li>General-purpose AI Cognitive Services, including Vision, Speech, Language</li>
     <li>Customization of these Cognitive Services</li>
   </ul>
 </td>
