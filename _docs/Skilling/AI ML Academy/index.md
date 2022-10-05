@@ -22,7 +22,7 @@ tags:
 * [Module 1: Prebuilt AI](/PartnerResources/skilling/ai-ml-academy/prebuilt-ai)
 * [Module 2: Applied AI](/PartnerResources/skilling/ai-ml-academy/applied-ai)
 * [Module 3: Built Your Own AI](/PartnerResources/skilling/ai-ml-academy/build-your-own-ml)
-* [Module 4: Big Data AI](/PartnerResources/skilling/ai-ml-academy/big-data-ml)
+* [Module 4: ML Platform](/PartnerResources/skilling/ai-ml-academy/big-data-ml)
 * [Module 5: ML Engineering in Production (MLOps)](/PartnerResources/skilling/ai-ml-academy/mlops)
 * [Ongoing Vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)
 
@@ -48,7 +48,7 @@ Refer to links below for the module breakouts.
 <td>Prebuilt AI</td>
 <td>Applied AI</td>
 <td>Build Your Own ML</td>
-<td>Big Data ML</td>
+<td>ML Platform</td>
 <td>ML Engineering in Production (MLOps)</td>
 </tr>
 <tr>
@@ -65,24 +65,20 @@ Refer to links below for the module breakouts.
 </td>
 <td>
   <ul>
-    <li>Custom ML with Auto ML, Designer, Notebooks</li>
-    <li>Custom Deep Learning models using Azure ML</li>
+    <li>Custom ML with Notebooks, Auto ML, Designer using Azure ML</li>
   </ul>
 </td>
 <td>
   <ul>
-    <li>Custom ML on Big Data in distributed Environments using PySpark
-				<ul>
-          <li>Synapse and Databricks</li>
-        </ul>
-    <li>Distributed Deep Learning</li>
+	  <li>Train and Deploy models across a host of environments and compute types</li>
+		
   </ul>
 </td>
 <td>
   <ul>
     <li>Azure DevOps</li>
 		<li>GitHub Actions</li>
-    <li>MLFlow</li>
+    <li>KubeFlow</li>
   </ul>
 </td>
 </tr>
