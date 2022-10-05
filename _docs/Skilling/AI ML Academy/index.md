@@ -65,8 +65,7 @@ Refer to links below for the module breakouts.
 </td>
 <td>
   <ul>
-    <li>Custom ML with Auto ML, Designer, Notebooks</li>
-    <li>Custom Deep Learning models using Azure ML</li>
+    <li>Custom ML with Notebooks, Auto ML, Designer using Azure ML</li>
   </ul>
 </td>
 <td>
