@@ -24,9 +24,7 @@ tags:
 * [Module 5: ML Engineering in Production (MLOps)](/PartnerResources/skilling/ai-ml-academy/mlops)
 * [Ongoing Vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)
 
-Welcome to the AI & ML Academy (AIMLA)! 
-
-Welcome to the AI and ML Academy! This academy includes 5 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions.
+Welcome to the AI and ML Academy! This academy includes 5 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions.
 
 ## Live Schedule
 
