@@ -88,6 +88,9 @@
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga
+    - title: "/skilling/d365-sales-academy"
+      url: "skilling/d365-sales-academy"
+      tag: d365 sales academy
     - title: "D365 Business Central Academy"
       url: "skilling/business-central-academy"
       tag: business central academy
