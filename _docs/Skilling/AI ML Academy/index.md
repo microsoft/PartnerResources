@@ -17,8 +17,6 @@ tags:
 
 ## Content
 
-* [AI & ML Academy Home](/PartnerResources/skilling/ai-ml-academy)
-* [AI & ML Overview](/PartnerResources/skilling/ai-ml-academy/overview)
 * [Module 1: Prebuilt AI](/PartnerResources/skilling/ai-ml-academy/prebuilt-ai)
 * [Module 2: Applied AI](/PartnerResources/skilling/ai-ml-academy/applied-ai)
 * [Module 3: Built Your Own AI](/PartnerResources/skilling/ai-ml-academy/build-your-own-ml)
