@@ -26,5 +26,6 @@ With the Business Central add-in for Outlook, users can see financial data relat
 
 ### Supporting Resources for these videos
 
-* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/admin-outlook" target="_blank">Read more about how to install the Outlook Add-in
-* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/admin-synchronize-outlook-contacts" target="_blank">Learn how to Synchronize Contacts
+* <a href="https://learn.microsoft.com/en-us/viva/sales/install-viva-sales-as-an-integrated-app" target="_blank">Install Viva Sales as an integrated app
+* <a href="https://learn.microsoft.com/en-us/viva/sales/install-pin-viva-sales-teams" target="_blank">Install and Pin Viva Sales in Teams
+* <a href="https://learn.microsoft.com/en-us/viva/sales/data-handling" target="_blank">Data Handling in Viva Sales
