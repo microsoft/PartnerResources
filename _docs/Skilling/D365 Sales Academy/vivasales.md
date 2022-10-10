@@ -12,9 +12,9 @@ showbreadcrumb: true
 
 Viva Sales Temp Page - Delete line when complete
 
-**Configure Microsoft Outlook** in your Business Central demo environment to highlight demos such as Quote-to-Cash or Procure-to-Pay from an email in your Outlook inbox.
+**Configure Viva Sales** in your Dynamics 365 demo environment to highlight demos.
 
-These two videos provide pre-sales engineers guidance on how to **demonstrate** and **configure** the integrated experience betweeen Oulook and Business Central.
+These two videos provide pre-sales engineers guidance on how to **demonstrate** and **configure** the integrated experience betweeen Viva Sales, Dynamics 365, Microsoft Teams and Outlook.
 
 {% include series.md
     includetags="business central academy|outlook" includemethod="all" 
@@ -22,7 +22,7 @@ These two videos provide pre-sales engineers guidance on how to **demonstrate** 
     visualstyle="normal" target="_blank" showlink="false"
  %}
 
-With the Business Central add-in for Outlook, users can see financial data related to customers and vendors, and quickly create and send financial documents, such as quotes and invoices from inbound emails.
+Microsoft Viva Sales is a seller experience application that uses Microsoft 365 and Microsoft Teams to automatically capture, access, and register data into any customer relationship management (CRM) system.
 
 ### Supporting Resources for these videos
 
