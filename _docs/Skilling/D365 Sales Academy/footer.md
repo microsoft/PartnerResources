@@ -3,7 +3,6 @@
 Additional supporting resources:
 
 * <a href="https://roadmap.dynamics.com" target="_blank">Visit Dynamics 365 Roadmap</a> (roadmap.dynamics.com) 
-* <a href="https://twitter.com/MSDYN365BC" target="_blank">Follow Business Central Twitter Feed</a> (#MSDYN365BC)
-* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/" target="_blank">Bookmark Business Central Docs</a> (docs.microsoft.com)
-* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/update-rollout-timeline" target="_blank">Bookmark Business Central Updates</a> (aka.ms/bcupdates)  
-* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-ready-to-go" target="_blank">Access all Business Central Partner Resources</a> (aka.ms/bcall)
+* <a href="https://community.dynamics.com/crm/b/crminthefield" target="_blank">Follow Dynamics 365 Community</a> (CRM in the Field)
+* <a href="https://cloudblogs.microsoft.com/dynamics365/" target="_blank">Follow Dynamics 365 Blog</a> (D365 Blogs)
+* <a href="https://learn.microsoft.com/en-us/dynamics365/sales/help-hub" target="_blank">Bookmark Dynamics 365 Documentation</a> (docs.microsoft.com)  
