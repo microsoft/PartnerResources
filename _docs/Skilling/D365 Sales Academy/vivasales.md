@@ -10,11 +10,11 @@ showbreadcrumb: true
 
 # {{ page.title }}
 
-Viva Sales Temp Page - Delete line when complete
+Microsoft Viva Sales is a seller experience application that uses Microsoft 365 and Microsoft Teams to automatically capture, access, and register data into any customer relationship management (CRM) system.
 
 **Configure Viva Sales** in your Dynamics 365 demo environment to highlight demos.
 
-These two videos provide pre-sales engineers guidance on how to **demonstrate** and **configure** the integrated experience betweeen Viva Sales, Dynamics 365, Microsoft Teams and Outlook.
+These two videos provide pre-sales engineers guidance on how to **configure** and **demonstrate** the integrated experience betweeen Viva Sales, Dynamics 365 Sales, Microsoft Teams and Outlook.
 
 {% include series.md
     includetags="business central academy|outlook" includemethod="all" 
@@ -22,7 +22,7 @@ These two videos provide pre-sales engineers guidance on how to **demonstrate** 
     visualstyle="normal" target="_blank" showlink="false"
  %}
 
-Microsoft Viva Sales is a seller experience application that uses Microsoft 365 and Microsoft Teams to automatically capture, access, and register data into any customer relationship management (CRM) system.
+By enriching the data set with customer engagement data from Microsoft 365 and the power of AI, Viva Sales empowers sellers with sales intelligence that helps them deeply understand their customers for faster deal closure.
 
 ### Supporting Resources for these videos
 
