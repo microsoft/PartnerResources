@@ -12,7 +12,7 @@ showbreadcrumb: true
 
 ## Sessions
 
-* [Business Central & Power BI](/PartnerResources/skilling/business-central-academy/powerbi)
+* [Viva Sales](/PartnerResources/skilling/business-central-academy/powerbi)
 * [Business Central & Outlook](/PartnerResources/skilling/business-central-academy/outlook)
 * [Business Central & Teams](/PartnerResources/skilling/business-central-academy/teams)
 * [Business Central & Power Virtual Agents](/PartnerResources/skilling/business-central-academy/pva)
