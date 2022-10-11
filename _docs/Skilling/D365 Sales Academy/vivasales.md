@@ -16,11 +16,11 @@ Microsoft Viva Sales is a new seller experience, an application, that leverages 
 
 These two videos provide pre-sales engineers guidance on how to **configure** and **demonstrate** the integrated experience betweeen Viva Sales, Dynamics 365 Sales, Teams and Outlook.
 
-{% include series.md
-    includetags="business central academy|outlook" includemethod="all" 
+ {% include series.md 
+    includetags="d365 sales academy" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
- %}
+%}
 
 ### Supporting Resources for these videos
 
