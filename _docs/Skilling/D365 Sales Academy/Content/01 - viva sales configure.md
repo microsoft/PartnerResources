@@ -1,7 +1,7 @@
 ---
 layout: page
-title: D365 Sales Academy - Viva Sales
-sorttitle: D365 Sales Academy - Viva Sales
+title: HOW TO CONFIGURE - Viva Sales
+sorttitle: HOW TO CONFIGURE - Viva Sales
 description: Viva Sales Presales Academy provides partners with the opportunity to learn how to configure and demo Viva Sales
 updated: 2022-10-12
 permalink: /skilling/d365-sales-academy/vivasales
