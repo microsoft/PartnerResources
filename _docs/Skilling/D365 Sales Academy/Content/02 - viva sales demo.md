@@ -2,7 +2,7 @@
 layout: page
 title: HOW TO DEMO - Viva Sales
 sorttitle: HOW TO DEMO - Viva Sales
-description: Offers various customer scenarios for partners to demonstrate Viva Sales, Dynamics 365 Sales, Microsoft Outlook and Microsoft Teams
+description: Demonstrates the various customer scenarios for partners to leverage as they demonstrate Viva Sales, Dynamics 365 Sales, Microsoft Outlook and Microsoft Teams
 updated: 2022-10-12
 permalink: /skilling/d365-sales-academy/temp-page
 youtubeid: ulU6nm2-06o
@@ -10,6 +10,7 @@ tags:
 - d365 sales academy
 - academy content
 - dynamics
+- demo
 ---
 
 # {{ page.title }}
