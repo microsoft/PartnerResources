@@ -13,5 +13,6 @@ showbreadcrumb: true
 ## Sessions
 
 * [Viva Sales](/PartnerResources/skilling/d365-sales-academy/vivasales)
+* [Business Central](/PartnerResources/skilling/business-central-academy/d365)
 
 {% include_relative footer.md %}
