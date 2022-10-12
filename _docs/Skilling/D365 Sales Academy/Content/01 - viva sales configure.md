@@ -3,7 +3,7 @@ layout: page
 title: Temp Page for D365 Academy
 sorttitle: Temp Page for D365 Academy
 description: Temp Page for D365 Academy
-updated: 2022-10-11
+updated: 2022-10-12
 permalink: /skilling/d365-sales-academy/vivasales
 youtubeid: xXiYny_kldU
 tags: 
