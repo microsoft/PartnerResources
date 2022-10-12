@@ -5,7 +5,7 @@ sorttitle: Temp Page for D365 Academy
 description: Temp Page for D365 Academy
 updated: 2022-10-11
 permalink: /skilling/d365-sales-academy/vivasales
-youtubeid: pc1aHp6MLGg
+youtubeid: xXiYny_kldU
 tags: 
 - d365 sales academy
 - academy content
