@@ -2,7 +2,7 @@
 layout: page
 title: HOW TO CONFIGURE - Viva Sales
 sorttitle: HOW TO CONFIGURE - Viva Sales
-description: Viva Sales Presales Academy provides partners with the opportunity to learn how to configure and demo Viva Sales
+description: Provides partners guidance on how to configure and integrate Viva Sales, Dynamics 365 Sales, Microsoft Outlook and Microsoft Teams.
 updated: 2022-10-12
 permalink: /skilling/d365-sales-academy/vivasales
 youtubeid: xXiYny_kldU
