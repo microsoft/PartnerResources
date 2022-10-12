@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Temp Page for D365 Academy
-sorttitle: Temp Page for D365 Academy
+title: Dynamics 365 Sales Academy - Viva Sales
+sorttitle: Dynamics 365 Sales Academy - Viva Sales
 description: Temp Page for D365 Academy
 updated: 2022-10-12
 permalink: /skilling/d365-sales-academy/temp-page
