@@ -106,3 +106,4 @@ This hack focuses on the integration between Kubernetes, the Azure Kubernetes Se
 * [Mastering Container Offers Workshop](https://microsoftcloudpartner.eventbuilder.com/event/66707)
 * [How to prepare your Technical Assets](https://learn.microsoft.com/en-us/azure/marketplace/azure-container-technical-assets-kubernetes)
 * [How to Create/Publish offer in Partner Center](https://learn.microsoft.com/en-us/azure/marketplace/azure-container-offer-setup)
+* [Example GitHub Repo](https://github.com/lastcoolnameleft/minecraft-server-charts)
