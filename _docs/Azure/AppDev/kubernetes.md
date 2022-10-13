@@ -98,3 +98,9 @@ This hack focuses on the integration between Kubernetes, the Azure Kubernetes Se
 * [Certified Kubernetes Application Developer (CKAD) Program](https://www.cncf.io/certification/ckad/) (Self-Paced)
 * [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) (Self-Paced)
 
+## Kubernetes Apps Marketplace
+
+* [Ignite Announcement](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/releasing-kubernetes-apps-offer-in-microsoft-cloud-marketplace/ba-p/3650628)
+* [Oct 2022 Marketplace Update](https://aka.ms/October2022MarketplaceUpdate)
+* [Public Preview Invite Form](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR0isU_qQJglCq3xE2-4gcIRUMFRIQk05Rk5WQlRPR05BVlhRQzNaMk9YOC4u)
+* [Mastering Container Offers Workshop](https://microsoftcloudpartner.eventbuilder.com/event/66707)
