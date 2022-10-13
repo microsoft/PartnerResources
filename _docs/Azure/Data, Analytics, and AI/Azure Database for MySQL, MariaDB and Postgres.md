@@ -50,20 +50,21 @@ Know where to find the documentation for each of these offerings:
 - [Azure Database for MySQL Documentation](https://learn.microsoft.com/en-us/azure/mysql/)
 - [Azure Database for MariaDB Documentation](https://learn.microsoft.com/en-us/azure/mariadb/)
 
-For MySQL and PostgreSQL, understand the differences between "single server", "flexible server", and "hyperscale" (PostgreSQL only):
-
-PostgreSQL options:
-- [Azure Database for PostgreSQL - Single Server](https://learn.microsoft.com/en-us/azure/postgresql/single-server/overview-single-server)
-- [Azure Database for PostgreSQL - Flexible Server](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/overview)
-- [Azure Database for PostgreSQL - Hyperscale](https://learn.microsoft.com/en-us/azure/postgresql/hyperscale/overview)
-  - **NOTE:** As of September 2022, Hyperscale is an option for PostgreSQL only.
-- [Comparison chart - Azure Database for PostgreSQL Single Server and Flexible Server](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/concepts-compare-single-server-flexible-server)
+For MySQL and PostgreSQL, understand the differences between "single server" and "flexible server":
 
 MySQL options:
 - [Azure Database for MySQL - Single Server](https://learn.microsoft.com/en-us/azure/mysql/single-server/single-server-overview)
 - [Azure Database for MySQL - Flexible Server](https://learn.microsoft.com/en-us/azure/mysql/flexible-server/overview)
 **NOTE:** MySQL Single Server is being retired. Read here for details: [What's happening to Azure Database for MySQL - Single Server?](https://learn.microsoft.com/en-us/azure/mysql/single-server/whats-happening-to-mysql-single-server)
 - [Choose the right MySQL Server option in Azure](https://learn.microsoft.com/en-us/azure/mysql/single-server/select-right-deployment-type)
+
+PostgreSQL options:
+- [Azure Database for PostgreSQL - Single Server](https://learn.microsoft.com/en-us/azure/postgresql/single-server/overview-single-server)
+- [Azure Database for PostgreSQL - Flexible Server](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/overview)
+- [Comparison chart - Azure Database for PostgreSQL Single Server and Flexible Server](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/concepts-compare-single-server-flexible-server)
+
+For PostgreSQL, there is a new option called Azure CosmosDB for PostgreSQL.  This was formerly known as "Azure Database for PostgreSQL Hyperscale":
+- [Azure CosmosDB for PostgreSQL](https://learn.microsoft.com/en-us/azure/cosmos-db/postgresql/introduction)
 
 ### Migration Options
 
@@ -93,8 +94,8 @@ If you've made it through the fundamentals above, you might want to dig into som
   - Microsoft Learn has many "Learning Path" modules that take you through various PostgreSQL concepts. This is a great resource for digging deeper into Azure Database for PostgreSQL.
 - [Microsoft Learn - Azure Database for MySQL - Beginner and Intermediate modules](https://learn.microsoft.com/en-us/training/browse/?filter-products=mysql&products=azure-database-mysql)
   - Microsoft Learn has many "Learning Path" modules that take you through various MySQL concepts. This is a great resource for digging deeper into Azure Database for MySQL.
-- [Introduction to Hyperscale (Citus) on Azure Database for PostgreSQL](https://docs.microsoft.com/en-us/learn/modules/intro-to-hyperscale/) (Self-Paced) (46 Minutes)
-  - Hyperscale is an option only for Azure Database for PostgreSQL. This Microsoft Learning module will help you learn the basics of hyperscale databases by setting one up.
+- [Ingest and query data using Azure CosmosDB for PostgreSQL](https://learn.microsoft.com/en-us/training/modules/ingest-query-data-using-azure-cosmos-db-for-postgresql/)
+  - This Microsoft Learning module will help you learn the basics of Azure CosmosDB for PostgreSQL by setting one up.   
 - [Limitations in Azure Database for MySQL](https://learn.microsoft.com/en-us/azure/mysql/single-server/concepts-limits)
   - Nothing is perfect in life.  There are always gotchas.  Here is a list of them to have handy for MySQL.
 - [Limitations in Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/azure/postgresql/single-server/concepts-limits)
@@ -108,6 +109,7 @@ If you've made it through the fundamentals above, you might want to dig into som
 - [Azure Data Studio](https://learn.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver16)
   - Azure Data Studio is a tool that any DBA working with Azure should have in their toolbox. Based on the same technology as [Visual Studio Code](https://code.visualstudio.com/), Azure Data Studio provides you an extensible tool that lets you connect to and manage many different types of databases.
   - [PostgreSQL extension for Azure Data Studio](https://learn.microsoft.com/en-us/sql/azure-data-studio/extensions/postgres-extension?view=sql-server-ver16)
+  - [Database Migration Assessment for Oracle extension](https://learn.microsoft.com/en-us/sql/azure-data-studio/extensions/database-migration-assessment-for-oracle-extension?view=sql-server-ver16)
 - [Ora2PG Tool](https://ora2pg.darold.net/)
   - Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scans it automatically and extracts its structure or data, then generates SQL scripts that you can load into your PostgreSQL database.
   - Ora2Pg can be used for anything from reverse engineering Oracle database to huge enterprise database migration or simply replicating some Oracle data into a PostgreSQL database. It is really easy to use and doesn't require any Oracle database knowledge other than providing the parameters needed to connect to the Oracle database.
