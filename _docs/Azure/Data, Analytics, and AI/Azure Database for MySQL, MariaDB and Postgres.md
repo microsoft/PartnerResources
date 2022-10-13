@@ -65,6 +65,7 @@ PostgreSQL options:
 
 For PostgreSQL, there is a new option called Azure CosmosDB for PostgreSQL.  This was formerly known as "Azure Database for PostgreSQL Hyperscale":
 - [Azure CosmosDB for PostgreSQL](https://learn.microsoft.com/en-us/azure/cosmos-db/postgresql/introduction)
+- [Distributed PostegreSQL comes to Azure CosmosDB](https://devblogs.microsoft.com/cosmosdb/distributed-postgresql-comes-to-azure-cosmos-db/)
 
 ### Migration Options
 
