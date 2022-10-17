@@ -33,7 +33,7 @@ Here is the current list of What The Hack hackathons available in the [What The 
 - [Using BGP Networking for Hybrid Connectivity](https://microsoft.github.io/WhatTheHack/036-BGP/)
 - [Azure Virtual WAN](https://microsoft.github.io/WhatTheHack/041-VirtualWAN/)
 - [Azure Governance](https://microsoft.github.io/WhatTheHack/022-AzureGovernance/)
-- [Mastering Linux](https://microsoft.github.io/WhatTheHack/020-MasteringLinux/)
+- [Linux Fundamentals](https://microsoft.github.io/WhatTheHack/020-LinuxFundamentals/)
 - [Azure Virtual Desktop](https://microsoft.github.io/WhatTheHack/037-AzureVirtualDesktop/)
 - [SAP On Azure](https://microsoft.github.io/WhatTheHack/042-SAPOnAzure/)
 
@@ -42,12 +42,14 @@ Here is the current list of What The Hack hackathons available in the [What The 
 - [Rock, Paper, Scissors, Boom!](https://microsoft.github.io/WhatTheHack/005-RockPaperScissorsBoom/)
 - [App Modernization](https://microsoft.github.io/WhatTheHack/006-AppModernization/)
 - [Microservices In Azure](https://microsoft.github.io/WhatTheHack/009-MicroservicesInAzure/)
-- [Serverless](https://microsoft.github.io/WhatTheHack/015-Serverless/)
+- [Azure Serverless](https://microsoft.github.io/WhatTheHack/015-Serverless/)
 - [Migrating Applications To The Cloud](https://microsoft.github.io/WhatTheHack/016-AppMigration/)
 - [IdentityForApps](https://microsoft.github.io/WhatTheHack/021-IdentityForApps/)
-- [Mastering Linux](https://microsoft.github.io/WhatTheHack/020-MasteringLinux/)
+- [Linux Fundamentals](https://microsoft.github.io/WhatTheHack/020-LinuxFundamentals/)
 - [FHIR Powered Healthcare](https://microsoft.github.io/WhatTheHack/027-FHIRPoweredHealthcare/)
 - [Traffic Control with Dapr](https://microsoft.github.io/WhatTheHack/047-TrafficControlWithDapr/)
+- [Azure Integration Services - API Management with Function Apps](https://microsoft.github.io/WhatTheHack/050-AIS-APIManagmentwithFunctions)
+- [SAP on Azure: Application Modernization](https://microsoft.github.io/WhatTheHack/052-SAPAppModernization)
 
 ## Operations
 - [Azure Monitoring](https://microsoft.github.io/WhatTheHack/007-AzureMonitoring/)
@@ -56,9 +58,13 @@ Here is the current list of What The Hack hackathons available in the [What The 
 - [Azure DevOps](https://microsoft.github.io/WhatTheHack/010-AzureDevOps/)
 - [Open Source DevOps](https://microsoft.github.io/WhatTheHack/014-OSSDevOps/)
 - [MLOps from Scratch](https://microsoft.github.io/WhatTheHack/032-MLOpsFromScratch/)
-- [Mastering Linux](https://microsoft.github.io/WhatTheHack/020-MasteringLinux/)
+- [Linux Fundamentals](https://microsoft.github.io/WhatTheHack/020-LinuxFundamentals/)
+- [Data Governance with Microsoft Purview](https://microsoft.github.io/WhatTheHack/051-MicrosoftPurview)
+- [Sentinel Automated Response](https://microsoft.github.io/WhatTheHack/053-SentinelAutomatedResponse)
+- [Azure Load Testing](https://microsoft.github.io/WhatTheHack/054-AzureLoadTesting)
 
 ## Data & AI
+- [Data Governance with Microsoft Purview](https://microsoft.github.io/WhatTheHack/051-MicrosoftPurview)
 - [SQL Modernization and Migration](https://microsoft.github.io/WhatTheHack/043-SQLModernization/)
 - [OSS Database Migration](https://microsoft.github.io/WhatTheHack/033-OSSDatabaseMigration/)
 - [MLOps from Scratch](https://microsoft.github.io/WhatTheHack/032-MLOpsFromScratch/)
@@ -71,8 +77,8 @@ Here is the current list of What The Hack hackathons available in the [What The 
 - [Synapse Dedicated SQL Pool - Performance Best Practices](https://microsoft.github.io/WhatTheHack/049-SQLDedicatedPoolPerf/)
 - [Conversational AI](https://microsoft.github.io/WhatTheHack/030-ConversationalAI/)
 - [Databricks/Intro to ML](https://microsoft.github.io/WhatTheHack/008-DatabricksIntroML/)
-- [Intro To Azure AI](https://microsoft.github.io/WhatTheHack/002-IntroToAzureAI/)
-- [Driving Miss Data](https://microsoft.github.io/WhatTheHack/003-DrivingMissData/)
+- [Intro To Azure AI](https://microsoft.github.io/WhatTheHack/002-IntroToAzureAI/) - ARCHIVED
+- [Driving Miss Data](https://microsoft.github.io/WhatTheHack/003-DrivingMissData/) - ARCHIVED
 
 ## Microsoft Teams Platform
 - [Microsoft Teams: Make It Real](https://microsoft.github.io/WhatTheHack/034-MicrosoftTeams-MakeItReal/)
@@ -89,3 +95,15 @@ Here is the current list of What The Hack hackathons available in the [What The 
 - [Using BGP Networking for Hybrid Connectivity](https://microsoft.github.io/WhatTheHack/036-BGP/)
 - [Azure Virtual WAN](https://microsoft.github.io/WhatTheHack/041-VirtualWAN/)
 - [Azure Front Door](https://microsoft.github.io/WhatTheHack/017-FrontDoor/)
+
+## SAP on Azure
+
+- [SAP On Azure](https://microsoft.github.io/WhatTheHack/042-SAPOnAzure/)
+- [SAP on Azure: Application Modernization](https://microsoft.github.io/WhatTheHack/052-SAPAppModernization)
+
+## Archived
+
+These hacks have been archived due to obsolesence or dependencies on sample code or data that is no longer available. If you are interested in updating these hacks, [contributions are welcome](https://aka.ms/wthcontribute)! Please consider contributing to keep What The Hack up to date.
+
+- [Intro To Azure AI](https://microsoft.github.io/WhatTheHack/002-IntroToAzureAI/) - ARCHIVED
+- [Driving Miss Data](https://microsoft.github.io/WhatTheHack/003-DrivingMissData/) - ARCHIVED

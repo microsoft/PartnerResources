@@ -1,5 +1,6 @@
 - title: Readiness Resources
-  url: ""
+  url: "readiness-resources/"
+  tag: readiness
   links:
     - title: "Azure"
       url: "azure"
@@ -77,41 +78,62 @@
         - title: Security
           url: "modern-workplace/security"
           tag: security
+- title: Academies
+  url: "skilling/academies"
+  tag: academies
+  links:
+    - title: "Azure Data Academy"
+      url: "skilling/azure-data-academy"
+      tag: azure data academy
+    - title: "Data Governance Academy"
+      url: "skilling/data-governance-academy"
+      tag: dga
+    - title: "D365 Sales Academy"
+      url: "skilling/d365-sales-academy"
+      tag: d365 sales academy
+      children:
+        - title: Viva Sales
+          url: "skilling/d365-sales-academy/vivasales"
+          tag: d365 sales academy viva sales
+    - title: "D365 Business Central Academy"
+      url: "skilling/business-central-academy"
+      tag: business central academy
+      children:
+        - title: D365 Sales
+          url: "skilling/business-central-academy/d365"
+          tag: bca d365
+        - title: Outlook
+          url: "skilling/business-central-academy/outlook"
+          tag: bca outlook
+        - title: Power BI
+          url: "skilling/business-central-academy/powerbi"
+          tag: bca powerbi
+        - title: PVA
+          url: "skilling/business-central-academy/pva"
+          tag: bca pva
+        - title: Teams
+          url: "skilling/business-central-academy/teams"
+          tag: bca teams
+    - title: "Modern Analytics Academy"
+      url: "skilling/modern-analytics-academy"
+      tag: modern analytics academy
+      children:
+        - title: Core Sessions
+          url: "skilling/modern-analytics-academy/core-sessions"
+          tag: maa core
+        - title: Hands-on
+          url: "skilling/modern-analytics-academy/hands-on"
+          tag: maa hands on
+        - title: Vignettes
+          url: "skilling/modern-analytics-academy/vignettes"
+          tag: vignettes
 - title: Skilling & Hands-on
-  url: ""
+  url: "skilling/"
   tag: workshop
   links:
     - title: "AVS Hands-on Labs"
       url: "skilling/infrastructure/avs-hands-on-labs"
       tag: avshol
-    - title: "Azure Data Academy"
-      url: "skilling/data-analytics-ai/azure-data-academy"
-      tag: ada
-    - title: "Modern Analytics Academy"
-      url: "skilling/modern-analytics-academy"
-      tag: modern analytics academy
-      children:
-        - title: Overview
-          url: "skilling/modern-analytics-academy/overview"
-          tag: maa overview
-        - title: Acquisition & Storage
-          url: "skilling/modern-analytics-academy/data-acquisition"
-          tag: maa acquisition
-        - title: Data Modeling
-          url: "skilling/modern-analytics-academy/data-modeling"
-          tag: maa data modeling
-        - title: Data Pipelines
-          url: "skilling/modern-analytics-academy/data-pipelines"
-          tag: maa data pipelines
-        - title: Data Governance
-          url: "skilling/modern-analytics-academy/data-governance"
-          tag: maa data governance
-        - title: Visualization
-          url: "skilling/modern-analytics-academy/data-visualization"
-          tag: maa data visualization
-        - title: Vignettes
-          url: "skilling/modern-analytics-academy/vignettes"
-          tag: vignettes
     - title: "What the Hack"
       url: "skilling/azure/what-the-hack"
       tag: wth

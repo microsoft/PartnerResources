@@ -44,6 +44,17 @@ The Microsoft Global Partner Solutions (GPS) Technical Team, IoT Product Group, 
 
 *NOTE: In most cases, exams do NOT cover preview features, and some features will only be added to an exam when they are GA (General Availability).*
 
+## Microsoft Learn - Related Learning Paths
+
+### [Provision IoT devices at scale by using the Device Provisioning Service](https://docs.microsoft.com/en-us/learn/paths/provision-iot-devices-scale-use-device/?wt.mc_id=eventspg_16482_webpage_reactor) (5 Modules)
+Learn about the Device Provisioning Service properties and capabilities, device attestation mechanisms, device provisioning lifecycle tasks, and you will implement device enrollment (and disenrollment) using individual and group enrollment processes.
+
+### [Manage IoT devices by using IoT Hub and apps](https://docs.microsoft.com/en-us/learn/paths/use-iot-hub-apps-manage-iot-devices/?wt.mc_id=eventspg_16482_webpage_reactor) (5 Modules)
+Learn about device management patterns and the capabilities for device management, including bulk device management, that can be implemented using features of IoT Hub and by developing code.
+
+### [Build low touch IoT solutions by using Azure IoT Central](https://docs.microsoft.com/en-us/learn/paths/build-low-touch-iot-solutions-by-using-azure-iot-central/?wt.mc_id=eventspg_16482_webpage_reactor) (4 Modules)
+Learn about the Azure IoT Central application platform and the support that it provides to companies with limited budgets and technical resources who are interested in developing, managing, and maintaining IoT solutions.
+
 ## Quick Reference: Key Concepts and Terminology
 * Device Provisioning Service (DPS) Features: 
   * **Secure attestation support** for X.509 and TPM-based identities
@@ -81,17 +92,6 @@ The Microsoft Global Partner Solutions (GPS) Technical Team, IoT Product Group, 
 * *Hardware security module (HSM)* – used for secure, hardware-based storage of device secrets
 * *Individual Enrollments* - An Individual enrollment is an entry for a single device that may register. Individual enrollments may use either X.509 certificates or SAS tokens (from a physical or virtual TPM) as attestation mechanisms. 
 * *Group Enrollments* - An Enrollment group is an entry for a group of devices that share a common attestation mechanism of X.509 certificates, signed by the same signing certificate, which can be the root certificate or the intermediate certificate, used to produce device certificate on physical device.
-
-## Microsoft Learn - Related Learning Paths
-
-### [Provision IoT devices at scale by using the Device Provisioning Service](https://docs.microsoft.com/en-us/learn/paths/provision-iot-devices-scale-use-device/?wt.mc_id=eventspg_16482_webpage_reactor) (5 Modules)
-Learn about the Device Provisioning Service properties and capabilities, device attestation mechanisms, device provisioning lifecycle tasks, and you will implement device enrollment (and disenrollment) using individual and group enrollment processes.
-
-### [Manage IoT devices by using IoT Hub and apps](https://docs.microsoft.com/en-us/learn/paths/use-iot-hub-apps-manage-iot-devices/?wt.mc_id=eventspg_16482_webpage_reactor) (5 Modules)
-Learn about device management patterns and the capabilities for device management, including bulk device management, that can be implemented using features of IoT Hub and by developing code.
-
-### [Build low touch IoT solutions by using Azure IoT Central](https://docs.microsoft.com/en-us/learn/paths/build-low-touch-iot-solutions-by-using-azure-iot-central/?wt.mc_id=eventspg_16482_webpage_reactor) (4 Modules)
-Learn about the Azure IoT Central application platform and the support that it provides to companies with limited budgets and technical resources who are interested in developing, managing, and maintaining IoT solutions.
 
 ## Other Helpful Resources
 

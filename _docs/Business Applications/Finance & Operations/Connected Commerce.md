@@ -20,9 +20,9 @@ tags:
 * [Introduction to Dynamics 365 Commerce](https://docs.microsoft.com/en-us/learn/wwl/introduction-dynamics-365-commerce/) (Self-Paced) (24 Minutes)
 * [Microsoft Dynamics 365 Commerce and Connected Store Vision](https://www.youtube.com/watch?v=WOpBUpYDf6g) (Self-Paced) (3 Minutes)
 * [Seamless Commerce & Omni Channel Excellence with Microsoft Dynamics 365](https://www.youtube.com/watch?v=ztCpOHEgeyg) (Self-Paced) (2 Minutes)
-* [Starter kit overview](https://docs.microsoft.com/en-us/dynamics365/commerce/starter-kit-overview) (Self-Paced)
 * [Templates and layouts overview](https://docs.microsoft.com/en-us/dynamics365/commerce/templates-layouts-overview) (Self-Paced)
 * [Ratings and reviews overview](https://docs.microsoft.com/en-us/dynamics365/commerce/ratings-reviews-overview) (Self-Paced)
+* [Starter kit overview](https://docs.microsoft.com/en-us/dynamics365/commerce/starter-kit-overview) (Self-Paced)
 
 ## Associate
 

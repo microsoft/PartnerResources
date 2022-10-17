@@ -1,7 +1,7 @@
 ---
 layout: page
-title: IoT Hub
-description: Resources for IoT Hub
+title: Azure IoT Hub
+description: Resources for Azure IoT Hub
 updated: 2021-12-01
 permalink: /azure/iot/iot-hub
 tags: 
@@ -10,7 +10,7 @@ tags:
 - iot
 ---
 
-# Learning Plan Resources for IoT Hub
+# Learning Plan Resources for Azure IoT Hub
 
 ## Keeping Up
 

@@ -171,7 +171,8 @@ section {
 body {
     margin: 0;
     font-family: open sans, -apple-system, BlinkMacSystemFont, segoe ui, Roboto, helvetica neue, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
-    font-size: 1rem;
+    /*font-size: 1rem;*/
+    font-size: 0.875rem;
     font-weight: 400;
     line-height: 1.5;
     color: #222;
@@ -17999,8 +18000,9 @@ a.text-dark:focus {
 }
 
 .headerlink {
+    font-size: 0.1rem;
     display: inline-block;
-    margin-left: 1rem;
+    margin-left: 0.1rem;
     -webkit-transform: translateY(.5rem);
     transform: translateY(.5rem);
     transition: color .25s, opacity .125s .25s, -webkit-transform .25s .25s;
@@ -18096,6 +18098,12 @@ html body .md-typeset .headerlink {
     font-weight: 500
 }
 
+.td-sidebar-nav__section-title_strong {
+    display: block;
+    font-weight: 500;
+    color: #000000;
+}
+
 .td-sidebar-nav__section-title .active {
     font-weight: 700
 }
@@ -18112,6 +18120,11 @@ html body .md-typeset .headerlink {
 .td-sidebar-nav .td-sidebar-link__page {
     color: #495057;
     font-weight: 300
+}
+
+.td-sidebar-nav .td-sidebar-link__page_strong {
+    color: #495057;
+    font-weight: 600
 }
 
 .td-sidebar-nav a:hover {
