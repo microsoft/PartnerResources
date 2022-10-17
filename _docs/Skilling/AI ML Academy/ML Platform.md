@@ -3,7 +3,7 @@ layout: page
 title: AI & ML Academy - Azure Machine Learning Platform
 description: Workshop focused on AI and ML - runtime environments
 permalink: /skilling/ai-ml-academy/aml-plat
-updated: 2022-09-27
+updated: 2022-10-17
 showbreadcrumb: true
 tags: 
 - azure
