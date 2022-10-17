@@ -3,7 +3,7 @@ layout: page
 title: AI & ML Academy - Applied AI
 description: Workshop focused on AI and ML - Applied AI
 permalink: /skilling/ai-ml-academy/applied-ai
-updated: 2022-08-05
+updated: 2022-10-17
 showbreadcrumb: true
 tags: 
 - azure
