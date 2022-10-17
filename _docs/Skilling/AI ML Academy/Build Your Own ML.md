@@ -3,7 +3,7 @@ layout: page
 title: AI & ML Academy - Build Your Own ML
 description: Workshop focused on AI and ML - Build Your Own ML
 permalink: /skilling/ai-ml-academy/build-your-own-ml
-updated: 2022-10-05
+updated: 2022-10-17
 showbreadcrumb: true
 tags: 
 - azure
