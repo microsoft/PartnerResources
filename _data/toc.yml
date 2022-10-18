@@ -82,6 +82,9 @@
   url: "skilling/academies"
   tag: academies
   links:
+    - title: "AI & ML Academy"
+      url: "/skilling/ai-ml-academy"
+      tag: ai ml academy
     - title: "Azure Data Academy"
       url: "skilling/azure-data-academy"
       tag: azure data academy
