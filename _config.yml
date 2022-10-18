@@ -74,6 +74,3 @@ relative_links:
 plugins:
   - jekyll-redirect-from
   - jekyll-relative-links
-
-
-theme: jekyll-theme-minimal
