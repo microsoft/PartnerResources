@@ -74,4 +74,3 @@ relative_links:
 plugins:
   - jekyll-redirect-from
   - jekyll-relative-links
-
