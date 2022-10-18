@@ -3,6 +3,8 @@ layout: page
 title: AI & ML Academy Home
 description: Workshop focused on AI & ML
 permalink: /skilling/ai-ml-academy
+redirect_from:
+  - /skilling/ai-ml-academy/
 updated: 2022-10-17
 showbreadcrumb: true
 tags:
@@ -19,8 +21,8 @@ tags:
 
 * [Module 1: Prebuilt AI](/PartnerResources/skilling/ai-ml-academy/prebuilt-ai)
 * [Module 2: Applied AI](/PartnerResources/skilling/ai-ml-academy/applied-ai)
-* [Module 3: Built Your Own AI](/PartnerResources/skilling/ai-ml-academy/build-your-own-ml)
-* [Module 4: ML Platform](/PartnerResources/skilling/ai-ml-academy/big-data-ml)
+* [Module 3: Build Your Own AI](/PartnerResources/skilling/ai-ml-academy/build-your-own-ml)
+* [Module 4: ML Platform](/PartnerResources/skilling/ai-ml-academy/aml-plat)
 * [Module 5: ML Engineering in Production (MLOps)](/PartnerResources/skilling/ai-ml-academy/mlops)
 
 Welcome to the AI and ML Academy! This academy includes 5 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions.
