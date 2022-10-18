@@ -15,6 +15,8 @@ tags:
 
 # AI & ML Academy - Azure Machine Learning Platform
 
+Welcome to the AI & ML Academy (AIA) - ML Platform!
+
 ## Overview
 Azure Machine Learning Services is a platform and not just a notebook to run ML models.  AML service brings enterprise users the ability to train, test and deploy their models across a host of environments to support their machine learning applications.  The goal is to run our machine learning models in an evergreen production environment as an application and not only one-time experiments. 
  
