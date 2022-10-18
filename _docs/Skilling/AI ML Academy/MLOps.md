@@ -15,7 +15,7 @@ tags:
 
 # AI & ML Academy - ML Engineering in Production (MLOps) 
 
-Welcome to the AI & ML Academy - ML Engineering in Production (MLOps)!
+Welcome to the AI & ML Academy (AIA) - ML Engineering in Production (MLOps)!
 
 Machine learning Operations (MLOps) applies DevOps principles and techniques to machine learning projects and help in efficiently scaling your project from experimentation to production. This module illustrates key DevOps concepts such as source control, automation, and CI/CD to build an end-to-end MLOps solution using popular tools such as Azure DevOps and GitHub Actions.
 
