@@ -15,7 +15,7 @@ tags:
 
 # AI & ML Academy - Applied AI
 
-Welcome to the AI & ML Academy (AIMLA) - Applied AI!
+Welcome to the AI & ML Academy (AIA) - Applied AI!
 
 In this module, we’ll look at Applied AI services, including Form Recognizer, Metrics Advisor, Cognitive Search, Video Indexer, Personalizer, Anomaly Detector, and Power Virtual Agents. 
 

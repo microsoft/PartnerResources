@@ -15,7 +15,7 @@ tags:
 
 # AI & ML Academy - Build Your Own ML
 
-Welcome to the AI & ML Academy (AIMLA) - Build Your Own ML!
+Welcome to the AI & ML Academy (AIA) - Build Your Own ML!
 
 
 
