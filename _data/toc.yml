@@ -83,7 +83,7 @@
   tag: academies
   links:
     - title: "AI & ML Academy"
-      url: "/skilling/ai-ml-academy"
+      url: "skilling/ai-ml-academy"
       tag: ai ml academy
       children:
         - title: Prebuilt AI
