@@ -2,7 +2,7 @@
 layout: page
 title: Power Virtual Agents
 description: Resources for Power Virtual Agents
-updated: 2021-12-01
+updated: 2022-10-20
 permalink: /business-applications/power-platform/power-virtual-agents
 tags:
 - learning plan
@@ -52,6 +52,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 
 ## Keeping Up
 
+* [Unified BOT Building Experience](https://powervirtualagents.microsoft.com/en-us/blog/whats-new-the-evolution-of-power-virtual-agents/) (Self-Paced)
 * [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
 ## Community Resources
