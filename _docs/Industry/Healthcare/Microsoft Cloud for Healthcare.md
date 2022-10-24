@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Cloud for Healthcare
 description: Resources for Microsoft Cloud for Healthcare
-updated: 2021-12-01
+updated: 2022-10-24
 permalink: /industry/healthcare/microsoft-cloud-healthcare
 tags:
 - learning plan
@@ -33,6 +33,9 @@ Additionally, some content may be marked with one or more icons:
 ## Fundamentals
 
 * [What is Microsoft cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/overview)
+* [Partner Walking Deck](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-walking-deck.pptx)
+* [SI Play Book](https://microsoft.sharepoint.com/teams/Healthcarehub/Shared%20Documents/Forms/AllItems.aspx?id=/teams/Healthcarehub/Shared%20Documents/Microsoft%20cloud%20for%20healthcare/Healthcare%20-%20Industry%20cloud%20SI%20playbook.pdf&parent=/teams/Healthcarehub/Shared%20Documents/Microsoft%20cloud%20for%20healthcare)
+* [Battlecards](https://microsoft.sharepoint.com/teams/Healthcarehub/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FHealthcarehub%2FShared%20Documents%2FMicrosoft%20cloud%20for%20healthcare%2FMS%20Cloud%20for%20Healthcare%20Battlecard%202020%2001%2011%2Epdf&parent=%2Fteams%2FHealthcarehub%2FShared%20Documents%2FMicrosoft%20cloud%20for%20healthcare)
 * [Get started with Microsoft Cloud for Healthcare solutions](https://docs.microsoft.com/en-us/learn/modules/get-started-healthcare)
 * [Microsoft Cloud for Healthcare - Partner Walking Deck](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-partner-walking-deck.pdf)
 * [Microsoft Cloud for Healthcare - Partner Capabilities Overview](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-partner-capabilities-overview-guide.pdf)
