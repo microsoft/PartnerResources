@@ -36,8 +36,12 @@ Additionally, some content may be marked with one or more icons:
 * [Partner Walking Deck](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-walking-deck.pptx)
 * [SI Play Book](https://microsoft.sharepoint.com/teams/Healthcarehub/Shared%20Documents/Forms/AllItems.aspx?id=/teams/Healthcarehub/Shared%20Documents/Microsoft%20cloud%20for%20healthcare/Healthcare%20-%20Industry%20cloud%20SI%20playbook.pdf&parent=/teams/Healthcarehub/Shared%20Documents/Microsoft%20cloud%20for%20healthcare)
 * [Battlecards](https://microsoft.sharepoint.com/teams/Healthcarehub/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FHealthcarehub%2FShared%20Documents%2FMicrosoft%20cloud%20for%20healthcare%2FMS%20Cloud%20for%20Healthcare%20Battlecard%202020%2001%2011%2Epdf&parent=%2Fteams%2FHealthcarehub%2FShared%20Documents%2FMicrosoft%20cloud%20for%20healthcare)
+* [Partner Messaging Framework](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-partner-messaging-framework.docx)
+* [Partner Sandbox Request](https://experience.dynamics.com/requestlicense/)
+* [Sign up for a free trial of the MC4H](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2Fmc4h_trial&data=05%7C01%7Cpujeyasi%40microsoft.com%7C8407253c37bc4f5dcdf908daac946fd1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638012050851381549%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EAZx8Y0YSmgfuNRQlwGOzFKzYMgoMnyhk0s%2BCfD7bVc%3D&reserved=0)
+* [Demos](https://cdx.transform.microsoft.com/experience-detail/1a4be2b1-89c6-4978-a69e-a2c481721f85)
+* [MC4HC skilling](https://docs.microsoft.com/en-us/learn/paths/healthcare-in-a-day/)
 * [Get started with Microsoft Cloud for Healthcare solutions](https://docs.microsoft.com/en-us/learn/modules/get-started-healthcare)
-* [Microsoft Cloud for Healthcare - Partner Walking Deck](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-partner-walking-deck.pdf)
 * [Microsoft Cloud for Healthcare - Partner Capabilities Overview](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-partner-capabilities-overview-guide.pdf)
 * [Microsoft Cloud for Healthcare - Capabilities Drill Down Guide](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-partner-capabilities-drill-down-guide.pptx)
 * [Microsoft Cloud for Healthcare - Partner Readiness Guide](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-partner-readiness-guide.pdf)
@@ -47,17 +51,16 @@ Additionally, some content may be marked with one or more icons:
 * [Compliance in Microsoft Cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/compliance-overview)
 * [Security in Microsoft Cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/security-overview)
 * [Microsoft cloud for Healthcare - Pricing and Licensing](https://docs.microsoft.com/en-us/industry/healthcare/buy)
-* [Set up and configure Microsoft Cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/configure-cloud-for-healthcare)
-* [Videos and learning resources for Microsoft Cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/training-videos)
+
 
 ## Associate
 
-{ Add associate/mid-level items here; baseline content to be proficient with technology }
-
+* [Set up and configure Microsoft Cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/configure-cloud-for-healthcare)
+* [Videos and learning resources for Microsoft Cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/training-videos)
 
 ## Expert
 
-{ Add expert/high-level items here; content intended for in-depth and hands-on experiences }
+* [Azure Health Data Services: FHIR, DICOM, IOT](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2Faka.ms%2FHCIoT&data=05%7C01%7Cpujeyasi%40microsoft.com%7C8407253c37bc4f5dcdf908daac946fd1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638012050851381549%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=QF3D7SamTqQqw89zGBeDSig2DFBsB3TkS9guAAKMA70%3D&reserved=0)
 
 
 ## Specialist
