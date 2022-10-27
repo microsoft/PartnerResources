@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Session 1
+sorttitle: Session 1
 description: Session 1 description goes here.
 updated: 2022-10-26
 permalink: /skilling/azure-security-academy/session-1
