@@ -36,14 +36,14 @@ The best place to start with HDInsight is with the [HDInsight documentation](htt
 * [Migrating Big Data Workloads to Azure HDInsight](https://azure.microsoft.com/en-us/resources/migrating-big-data-workloads-hdinsight/)
     * This comprehensive guide walks through many scenarios and considerations, and includes samples. 
 
-
-
 ## Certifications
 
 * [DP-900 Azure Data Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/dp-900)
     * A broad exam that tests knowledge of core data concepts related to Microsoft Azure data services, including HDInsight.
 * [DP-203 Data Engineering on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203).
     * Passing [DP-203](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203) is required for the [Microsoft Certified: Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer?wt.mc_id=learningredirect_certs-web-wwl) certification.
+
+
 
 ## Community
 

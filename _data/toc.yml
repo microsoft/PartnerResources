@@ -104,6 +104,9 @@
     - title: "Azure Data Academy"
       url: "skilling/azure-data-academy"
       tag: azure data academy
+    - title: "Azure Security Academy"
+      url: "skilling/azure-security-academy"
+      tag: asa
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga
