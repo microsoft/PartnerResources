@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Session 1
-description: Session 1 description goes here. multiple 
-lines are okay
+description: Session 1 description goes here.
 updated: 2022-10-26
 permalink: /skilling/azure-security-academy/session-1
 youtubeid: XBuUOqyX1gM
