@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Session 2
-sorttitle: Session 2
-description: Session 2 description goes here.
+title: Planning for Microsoft Defender for Cloud
+sorttitle: 2 MSFT Defender for Cloud
+description: How to best prepare your organization to adopt Microsoft Defender for Cloud.
 updated: 2022-10-26
-permalink: /skilling/azure-security-academy/session-2
-youtubeid: XBuUOqyX1gM
+permalink: /skilling/azure-security-academy/defender-for-cloud-planning
+youtubeid: 8Y6v2vUdAJ4
 tags: 
 - azure
 - academy content
 - azure security academy
-- network security
+- microsoft defender for cloud
 ---
 
 # {{ page.title }}
