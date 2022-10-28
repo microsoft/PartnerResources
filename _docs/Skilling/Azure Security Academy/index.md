@@ -14,7 +14,7 @@ showbreadcrumb: true
 
 {% include series.md 
     includetags="azure security academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" showtags="true"
+    sortfield="sorttitle" sortorder="desc" showdate="true" showtags="true"
     visualstyle="normal"
 %}
 
