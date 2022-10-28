@@ -20,3 +20,9 @@ tags:
 
 [![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
+
+- Information Protection
+ -video 1, 2, 3
+- Defender for Cloud
+ -video 1,2,3
+- Network Security

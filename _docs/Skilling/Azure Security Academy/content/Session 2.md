@@ -10,6 +10,7 @@ tags:
 - azure
 - academy content
 - azure security academy
+- network security
 ---
 
 # {{ page.title }}

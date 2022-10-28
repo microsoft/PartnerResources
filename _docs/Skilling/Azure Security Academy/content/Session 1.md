@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Session 1
-sorttitle: Session 1
+title: session 1
+sorttitle: session 1
 description: Session 1 description goes here.
 updated: 2022-10-26
 permalink: /skilling/azure-security-academy/session-1
@@ -10,11 +10,14 @@ tags:
 - azure
 - academy content
 - azure security academy
+- information protection
 ---
 
 # {{ page.title }}
 
 {{ page.description }}
+
+* [Presentation Deck]({{ site.baseurl }}/assets/asa/PurviewWorkshopOverview.pptx)
 
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
