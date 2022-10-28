@@ -107,6 +107,16 @@
     - title: "Azure Security Academy"
       url: "skilling/azure-security-academy"
       tag: asa
+      children:
+        - title: Defender for Cloud
+          url: "skilling/azure-security-academy/defender-for-cloud"
+          tag: asa dfc
+        - title: Identity & Access Management
+          url: "skilling/azure-security-academy/identity-access"
+          tag: asa ns
+        - title: Network Security
+          url: "skilling/azure-security-academy/network-security"
+          tag: asa ns      
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga
