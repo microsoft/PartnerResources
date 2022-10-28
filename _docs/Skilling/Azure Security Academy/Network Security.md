@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Azure Security Academy - ns
+title: Azure Security Academy - Network Security
 description: Azure Security Academy Description Goes Here
-permalink: /skilling/azure-security-academy/ns
+permalink: /skilling/azure-security-academy/network-security
 showbreadcrumb: true
 ---
 
