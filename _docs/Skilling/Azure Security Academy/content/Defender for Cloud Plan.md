@@ -2,9 +2,9 @@
 layout: page
 title: Planning for Microsoft Defender for Cloud
 sorttitle: 2 MSFT Defender for Cloud
-description: How to best prepare your organization to adopt Microsoft Defender for Cloud.
+description: In this session, we will explore how to best prepare your organization for Microsoft Defender for Cloud adoption. Learn about key areas to consider when planning, overall pricing, enhanced security features, and a demo. for a hands-on walk-through.
 updated: 2022-10-26
-permalink: /skilling/azure-security-academy/defender-for-cloud-planning
+permalink: /skilling/azure-security-academy/defender-cloud-plan
 youtubeid: 8Y6v2vUdAJ4
 tags: 
 - azure

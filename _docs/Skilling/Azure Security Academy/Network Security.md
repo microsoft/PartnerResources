@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Azure Security Academy - Network Security
+title: Azure Security Academy - NS
 description: Azure Security Academy Description Goes Here
 permalink: /skilling/azure-security-academy/network-security
 showbreadcrumb: true

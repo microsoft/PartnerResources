@@ -108,7 +108,7 @@
       url: "skilling/azure-security-academy"
       tag: asa
       children:
-        - title: Defender for Cloud
+        - title: Microsoft Defender for Cloud
           url: "skilling/azure-security-academy/defender-for-cloud"
           tag: asa dfc
         - title: Identity & Access Management
