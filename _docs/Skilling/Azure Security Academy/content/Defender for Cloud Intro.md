@@ -1,16 +1,16 @@
 ---
 layout: page
-title: session 1
-sorttitle: session 1
-description: Session 1 description goes here.
+title: Introduction to Microsoft Defender for Cloud
+sorttitle: 1 MSFT Defender for Cloud
+description: An introduction session for Microsoft Defender for Cloud.
 updated: 2022-10-26
-permalink: /skilling/azure-security-academy/session-1
-youtubeid: XBuUOqyX1gM
+permalink: /skilling/azure-security-academy/defender-for-cloud-intro
+youtubeid: SPle4DyJ00A
 tags: 
 - azure
 - academy content
 - azure security academy
-- information protection
+- microsoft defender for cloud
 ---
 
 # {{ page.title }}

@@ -2,7 +2,7 @@
 layout: page
 title: Azure Security Academy - IP
 description: Azure Security Academy Description Goes Here
-permalink: /skilling/azure-security-academy/information-protection
+permalink: /skilling/azure-security-academy/defender-for-cloud
 showbreadcrumb: true
 ---
 
