@@ -18,10 +18,22 @@ The Azure Security Academy content is organized into a few key areas:
 
 ## Complete Session Listing
 
+visualstyle=tiny:
+
 {% include series.md 
     includetags="azure security academy|academy content" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
     visualstyle="tiny"
 %}
+
+visualstyle=compact:
+
+{% include series.md 
+    includetags="azure security academy|academy content" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true"
+    visualstyle="compact"
+%}
+
+
 
 {% include_relative footer.md %}
