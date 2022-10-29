@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Azure Security Academy - IP
-description: Azure Security Academy Description Goes Here
-permalink: /skilling/azure-security-academy/defender-for-cloud
+title: Azure Security Academy - DFC
+description: Azure Security Academy Microsoft Defender for Cloud.
+permalink: /skilling/azure-security-academy/defender-cloud
 showbreadcrumb: true
 ---
 

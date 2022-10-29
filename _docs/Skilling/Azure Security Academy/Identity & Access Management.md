@@ -11,7 +11,7 @@ showbreadcrumb: true
 ## Sessions
 
 {% include series.md 
-    includetags="azure security academy|academy content|information protection" includemethod="all" 
+    includetags="azure security academy|academy content|identity & access management" includemethod="all"
     sortfield="updated" sortorder="desc" showdate="true" showtags="true"
     visualstyle="normal"
 %}
