@@ -109,7 +109,7 @@
       tag: asa
       children:
         - title: Microsoft Defender for Cloud
-          url: "skilling/azure-security-academy/defender-for-cloud"
+          url: "skilling/azure-security-academy/defender-cloud"
           tag: asa dfc
         - title: Identity & Access Management
           url: "skilling/azure-security-academy/identity-access"
