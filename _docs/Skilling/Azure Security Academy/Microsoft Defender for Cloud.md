@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Azure Security Academy - DFC
+title: Azure Security Academy - Microsoft Defender for Cloud
 description: Azure Security Academy Microsoft Defender for Cloud.
 permalink: /skilling/azure-security-academy/defender-cloud
 showbreadcrumb: true
