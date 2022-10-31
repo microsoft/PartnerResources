@@ -17,6 +17,8 @@ tags:
 
 {{ page.description }}
 
+* [Presentation Deck]({{ site.baseurl }}/assets/asa/Microsoft%20Sentinel.pdf)
+
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 [![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})

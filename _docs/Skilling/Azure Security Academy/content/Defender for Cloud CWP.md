@@ -17,6 +17,8 @@ tags:
 
 {{ page.description }}
 
+* [Presentation Deck]({{ site.baseurl }}/assets/asa/Defender%20for%20Cloud%20CWP.pdf)
+
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 [![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
