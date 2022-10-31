@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cloud Workload Protection Capabilities in Microsoft Defender for Cloud
-sorttitle: 3 MSFT Defender for Cloud
+sorttitle: 3 Microsoft Defender for Cloud
 description: Come learn about the critical importance of cloud workload protection, highlighting multi-cloud and hybrid enviroment offerings. This session will help to gain an understanding about Microsoft Defenders for DNS, Key Vault, Servers, Storage, SQL Servers, and more, along with vulnerability assessments, adaptive application controls & network hardening, Just-in-Time (JIT) access, file integrity, fileless attack detection, and security alerts. Lastly, come explore powerful features within Azure Lighthouse!
 updated: 2022-10-26
 permalink: /skilling/azure-security-academy/defender-cloud-wpc
@@ -20,10 +20,3 @@ tags:
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 [![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
-
-
-- Information Protection
- -video 1, 2, 3
-- Defender for Cloud
- -video 1,2,3
-- Network Security
