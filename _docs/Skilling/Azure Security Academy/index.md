@@ -12,9 +12,9 @@ showbreadcrumb: true
 
 The Azure Security Academy content is organized into a few key areas:
 
-* [Microsoft Defender for Cloud](/PartnerResources/skilling/azure-security-academy/defender-cloud) - Defending DNS, servers, storage, and other services
-* [Identity & Access Management](/PartnerResources/skilling/azure-security-academy/identity-access) - Risks and managing identity across multi-cloud environments
-* [Network Security](/PartnerResources/skilling/azure-security-academy/network-security) - Zero trust principles & architecture, best practices
+* [Microsoft Defender for Cloud](/PartnerResources/skilling/azure-security-academy/defender-cloud) - Microsoft Defender for Cloud's core features, Planning for Microsoft Defender for Cloud, Cloud Security Posture Management (CSPM) & Regulatory Compliance, Cloud Workload Protection Capabilities, etc.
+* [Identity & Access Management](/PartnerResources/skilling/azure-security-academy/identity-access) - Key concepts (e.g., zero trust), Identity Governance, Identity & Access Lifecycles, Entitlements Mangagement, Entra Permissions Management, etc.
+* [Network Security](/PartnerResources/skilling/azure-security-academy/network-security) - Fundamental principles (e.g., layered defense), Network Security Groups (NSGs), Azure Bastion, Advanced Architecture, best practices, etc.
 
 ## Complete Session Listing
 
