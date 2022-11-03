@@ -27,8 +27,6 @@ Machine learning Operations (MLOps) applies DevOps principles and techniques to 
 * Comparisons of MSFT and Open Source Tools
     * Overview of Azure DevOps and GitHub Actions
         ![Comparing Azure DevOps and GitHub Actions]({{ site.baseurl }}/assets/aiml/Slide1.jpg)
-    * Different user scenarios for Azure DevOps and GitHub Actions
-        ![Comparing scenarios in which to use Azure DevOps or GitHub Actions]({{ site.baseurl }}/assets/aiml/Slide2.jpg)
     * Overview of Kubeflow and MLflow
       ![Comparing Kubeflow and MLflow]({{ site.baseurl }}/assets/aiml/Slide3.jpg)
 
