@@ -121,7 +121,7 @@ INSERT INTO dbo.DestinationTest
 SELECT ID, FirstName, LastName
 FROM dbo.SourceTest
 WHERE dbo.SourceTest.ID = @UserId
-go
+GO
 
 CREATE PROCEDURE dbo.MoveDataTestBranch
 @UserId int
@@ -142,6 +142,7 @@ BEGIN
     FROM dbo.SourceTest
     WHERE dbo.SourceTest.ID = @UserId
 END
+GO
 
 CREATE PROCEDURE dbo.MoveDataTestCombo
 @UserId int
