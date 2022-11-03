@@ -12,10 +12,10 @@ showbreadcrumb: true
 
 The Azure Security Academy content is organized into four key areas:
 
-* [Cloud Security](/PartnerResources/skilling/azure-security-academy/cloud-security) - Microsoft Defender for Cloud's core features, Planning for Microsoft Defender for Cloud, Cloud Security Posture Management (CSPM) & Regulatory Compliance, Cloud Workload Protection Capabilities, etc.
-* [Identity & Access](/PartnerResources/skilling/azure-security-academy/identity-access) - Key concepts (e.g., zero trust), Identity Governance, Identity & Access Lifecycles, Entitlements Mangagement, Entra Permissions Management, etc.
-* [Endpoint Security](/PartnerResources/skilling/azure-security-academy/endpoint-security) - Fundamental principles (e.g., layered defense), Network Security Groups (NSGs), Azure Firewall/Firewall Premium, Azure Bastion, Advanced Architecture, best practices, etc.
-* [SIEM & XDR](/PartnerResources/skilling/azure-security-academy/endpoint-security) - TBD
+* [Cloud Security](/PartnerResources/skilling/azure-security-academy/cloud-security) - Microsoft Defender for Cloud's core features, Planning for Microsoft Defender for Cloud, Cloud Security Posture Management (CSPM), Cloud Workload Protection Capabilities, Security Automation with Logic Apps, Azure DDoS Protection, Netowrk Security, Azure Firewall & Firewall Premium, Azure Firewall Manager, etc.
+* [Identity & Access](/PartnerResources/skilling/azure-security-academy/identity-access) - Key concepts (e.g., zero trust), Entra Permissions Management, Identity Governance Entitlements Mangagement, etc.
+* [Endpoint Security](/PartnerResources/skilling/azure-security-academy/endpoint-security) - Microsoft Defender for IoT
+* [SIEM & XDR](/PartnerResources/skilling/azure-security-academy/endpoint-security) - Microsoft Sentinel
 
 ## Complete Session Listing
 

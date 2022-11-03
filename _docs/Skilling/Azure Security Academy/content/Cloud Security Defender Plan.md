@@ -2,7 +2,7 @@
 layout: page
 title: Planning for Microsoft Defender for Cloud
 sorttitle: 2 Cloud Security
-description: In this session, we will explore how to best prepare your organization for Microsoft Defender for Cloud adoption. Learn about key areas to consider when planning, overall pricing, enhanced security features, and a demo. for a hands-on walk-through.
+description: In this session, we will explore how to best prepare your organization for Microsoft Defender for Cloud adoption. Learn about key areas to consider when planning, overall pricing, enhanced security features, and a demo for a hands-on walk-through.
 updated: 2022-11-03
 permalink: /skilling/azure-security-academy/cs-defender-plan
 youtubeid: 8Y6v2vUdAJ4

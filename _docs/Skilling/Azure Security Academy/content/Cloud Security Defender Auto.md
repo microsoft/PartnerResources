@@ -2,7 +2,7 @@
 layout: page
 title: Automate Security with Microsoft Defender for Cloud & Logic Apps
 sorttitle: 5 Cloud Security
-description: Develop skills necessary to automate security with Defender for Cloud & Logic Apps across Azure Integration Services. Discover easy hybrid integration capabilities, triggers, actions, error handling, concurrency control, and scheduling executions, followed by a thorough demo. within Defender for Cloud.
+description: Develop skills necessary to automate security with Defender for Cloud & Logic Apps across Azure Integration Services. Discover easy hybrid integration capabilities, triggers, actions, error handling, concurrency control, and scheduling executions, followed by a thorough demo within Defender for Cloud.
 updated: 2022-11-03
 permalink: /skilling/azure-security-academy/cs-defender-auto
 youtubeid: u6N5PwQy61w
