@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Microsoft Entra Permissions Management
-sorttitle: 1 Identity & Access Management
+sorttitle: 1 Identity & Access
 description: A high-level session analyzing Microsoft Entra Permissions Management, covering security risks with unmanaged permissions, managing permissions across multi-cloud environments, least-privilege capabilities, Cloud Infrastructure Entitlements Management (CIEM), Privileged Access Management (PAM), Identity Governance & Administration, and more.
-updated: 2022-11-02
+updated: 2022-11-03
 permalink: /skilling/azure-security-academy/identity-access-entra
 youtubeid: zlg3gI95gnA
 tags: 
 - azure
 - academy content
 - azure security academy
-- identity & access management
+- identity & access
 ---
 
 # {{ page.title }}

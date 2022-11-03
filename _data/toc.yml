@@ -108,15 +108,15 @@
       url: "skilling/azure-security-academy"
       tag: asa
       children:
-        - title: Microsoft Defender for Cloud
-          url: "skilling/azure-security-academy/defender-cloud"
-          tag: asa dfc
-        - title: Identity & Access Management
+        - title: Cloud Security
+          url: "skilling/azure-security-academy/cloud-security"
+          tag: asa cs
+        - title: Identity & Access
           url: "skilling/azure-security-academy/identity-access"
-          tag: asa ns
-        - title: Network Security
-          url: "skilling/azure-security-academy/network-security"
-          tag: asa ns      
+          tag: asa ia
+        - title: Endpoint Security
+          url: "skilling/azure-security-academy/endpoint-security"
+          tag: asa es
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga

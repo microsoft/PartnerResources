@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Azure Firewall Premium Intrusion Detection & Prevention System (IDPS)
-sorttitle: 3 Network Security
+sorttitle: 9 Cloud Security
 description: Explore Azure Firewall Premium's powerful capabilities (e.g., TLS Inspection, URL Filtering, Web Categories) as a cloud native next-gen Firewall as a Service. At focus, learn about Azure Firewall's Intrusion Detection & Prevention System (IDPS), policies, insights or analytics, followed by a comprehensive demo.
-updated: 2022-11-02
-permalink: /skilling/azure-security-academy/network-security-idps
+updated: 2022-11-03
+permalink: /skilling/azure-security-academy/cs-firewall-idps
 youtubeid: tLdr-dfXsP4
 tags: 
 - azure
 - academy content
 - azure security academy
-- network security
+- cloud security
 ---
 
 # {{ page.title }}

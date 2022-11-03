@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Azure Security Academy - Identity & Access Management
+title: Azure Security Academy - Identity & Access
 description: Azure Security Academy Identity & Access Management.
 permalink: /skilling/azure-security-academy/identity-access
 showbreadcrumb: true
@@ -11,7 +11,7 @@ showbreadcrumb: true
 ## Sessions
 
 {% include series.md 
-    includetags="azure security academy|academy content|identity & access management" includemethod="all"
+    includetags="azure security academy|academy content|identity & access" includemethod="all"
     sortfield="updated" sortorder="desc" showdate="true" showtags="true"
     visualstyle="normal"
 %}
