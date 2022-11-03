@@ -26,12 +26,11 @@ Machine learning Operations (MLOps) applies DevOps principles and techniques to 
 * [MLOps Best Practices](https://azure.microsoft.com/en-us/resources/mlops-infographic/) - this is a one-pager infographic that walks through 5 best practices to optimize your MLOps lifecycle on Azure.
 * Comparisons of MSFT and Open Source Tools
     * Overview of Azure DevOps and GitHub Actions
-        <a href="url"><img src="./images/Slide1.jpg" alt="Blue chart comparing Azure DevOps and GitHub Actions" style="width: 90%"></a>
+        ![Comparing Azure DevOps and GitHub Actions]({{ site.baseurl }}/assets/aiml/Slide1.jpg)
     * Different user scenarios for Azure DevOps and GitHub Actions
-        <a href="url"><img src="./images/Slide2.jpg" alt="Blue chart comparing scenarios in which to use Azure DevOps or GitHub Actions" style="width: 90%"></a>
+        ![Comparing scenarios in which to use Azure DevOps or GitHub Actions]({{ site.baseurl }}/assets/aiml/Slide2.jpg)
     * Overview of Kubeflow and MLflow
-        <a href="url"><img src="./images/Slide3.jpg" alt="Blue chart comparing Kubeflow and MLflow" style="width: 90%"></a>
-
+      ![Comparing Kubeflow and MLflow]({{ site.baseurl }}/assets/aiml/Slide3.jpg)
 
 ## MLOps with Azure DevOps 
 
