@@ -117,6 +117,9 @@
         - title: Endpoint Security
           url: "skilling/azure-security-academy/endpoint-security"
           tag: asa es
+        - title: SIEM & XDR
+          url: "skilling/azure-security-academy/siem-xdr"
+          tag: asa siem
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga
