@@ -12,7 +12,7 @@ showbreadcrumb: true
 
 {% include series.md 
     includetags="azure security academy|academy content|cloud security" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" showtags="true"
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true"
     visualstyle="normal"
 %}
 
