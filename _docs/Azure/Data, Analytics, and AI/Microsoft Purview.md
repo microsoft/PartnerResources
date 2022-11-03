@@ -20,7 +20,7 @@ tags:
 
 ## Fundamentals
 
-* [What is Data Governance?](https://microsoft.github.io/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-vignettes#vignette-1---what-is-data-governance)
+* [What is Data Governance?](https://microsoft.github.io/PartnerResources/skilling/modern-analytics-academy/vignettes/what-is-data-gov)
 * [Microsoft Purview Documentation](https://docs.microsoft.com/en-us/azure/purview/) (Self-Paced)
 * [Microsoft Purview Overview from Microsoft Mechanics](https://www.youtube.com/watch?v=27bA4KFiEKk) (13 Minutes)
 * [Microsoft Purview Overview from Azure Friday](https://www.youtube.com/watch?v=W2bsj3ULw0Y) (25 Minutes)
