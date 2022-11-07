@@ -46,6 +46,12 @@ Machine learning Operations (MLOps) applies DevOps principles and techniques to 
 * [Install and Explore Kubeflow on Azure Kubernetes Service](https://hackmd.io/u2567iIUSiWBVnLIlD49yg) 
 * [End-to-End Pipeline Example on Azure](https://www.kubeflow.org/docs/distributions/azure/azureendtoend/) - This guide takes you through using your Kubeflow deployment to build a machine learning (ML) pipeline on Azure.
 
+## MLOps with mlFlow 
 
+* [Getting Started with mlFlow](https://www.mlflow.org) 
+* [mlFlow Documentation](https://www.mlflow.org/docs/latest/index.html) - The latest on mlFlow.
+* [mlflow with AzureML](https://www.mlflow.org/docs/latest/python_api/mlflow.azureml.html) - The mlflow.azureml module provides an API for deploying MLflow models to Azure Machine Learning
+* [Track ML models with MLflow and Azure Machine Learning](https://learn.microsoft.com/en-us/azure/machine-learning/v1/how-to-use-mlflow?tabs=azuremlsdk)
+* [Databricks Academy: GitHub Repo](https://github.com/databricks-academy) 
 
 
