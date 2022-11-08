@@ -32,7 +32,12 @@ The latest updates on Azure Sypanse Analytics.
 
 Azure Synapse Analytics is now generally available as of December 2020. 
 
-* [September 2022 Update] (https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-september-update-2022/ba-p/3535133)
+* [October 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-october-update-2022-microsoft-ignite/ba-p/3535136)
+  * New Microsoft 365 Pipeline Template Dataflows in Preview
+  * SAP Change Data Capture (CDC) Connector is now General Available
+  * R language support with key library management capabilities is now in preview.
+
+* [September 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-september-update-2022/ba-p/3535133)
   * Auto-statistics for OPENROWSET in CSV datasets
   * MERGE T-SQL is now Generally Available
   * New informative Livy errors codes
