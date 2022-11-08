@@ -32,6 +32,18 @@ The latest updates on Azure Sypanse Analytics.
 
 Azure Synapse Analytics is now generally available as of December 2020. 
 
+* [September 2022 Update] (https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-september-update-2022/ba-p/3535133)
+  * Auto-statistics for OPENROWSET in CSV datasets
+  * MERGE T-SQL is now Generally Available
+  * New informative Livy errors codes
+  * Logstash connector HTTP/HTTPS proxy configuration
+  * Kafka Connect support of Protobuf format 
+  * Embed Azure Data Explorer dashboards in third-party apps 
+  * Funnel visuals
+  * .NET and Node.js support in Sample App Generator
+  * Gantt Chart view supported in Integration Runtime Monitoring
+  * Maximum column optimization in mapping dataflow 
+
 * [August 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-august-update-2022/ba-p/3535126)
   * Distribution Advisor for dedicated SQL pools
   * Spark Delta Lake tables in serverless SQL
