@@ -15,9 +15,9 @@ tags:
 
 ##  Content
 
-* [Page 1](/skilling/academy-template/academy-template-page-1)
-* [Page 2](/skilling/academy-template/academy-template-page-2)
-* [Page 3](/skilling/academy-template/academy-template-page-3)
+* [Page 1](/PartnerResources/skilling/academy-template/academy-template-page-1)
+* [Page 2](/PartnerResources/skilling/academy-template/academy-template-page-2)
+* [Page 3](/PartnerResources/skilling/academy-template/academy-template-page-3)
 
 Welcome to the Workshop Template!
 
