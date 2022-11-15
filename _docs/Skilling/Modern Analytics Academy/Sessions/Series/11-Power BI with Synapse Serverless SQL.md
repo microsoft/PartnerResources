@@ -21,7 +21,7 @@ tags:
 
 {{ page.description }}
 
-* [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Power%20BI%with%20Synapse%20Serverless%20SQL.pptx)
+* [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Power%20BI%20with%20Synapse%20Serverless%20SQL.pptx)
 * [Code samples and setup instructions](https://github.com/chmitch/SynapseServerlessSQLExamples)
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PL8_VXqhvJI9DtxeuFmmQ0V6Z_zL0MXnnI)
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
