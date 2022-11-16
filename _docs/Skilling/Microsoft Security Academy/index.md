@@ -20,7 +20,7 @@ The Microsoft Security Academy content is organized into four key areas:
 ## Complete Session Listing
 
 {% include series.md 
-    includetags="azure security academy|academy content" includemethod="all" 
+    includetags="microsoft security academy|academy content" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
     visualstyle="tiny"
 %}
