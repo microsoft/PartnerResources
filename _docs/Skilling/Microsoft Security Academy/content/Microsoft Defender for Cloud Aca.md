@@ -14,6 +14,10 @@ tags:
 
 {{ page.description }}
 
+
+### Microsoft Defender for Cloud Academy
+Description, description, description, etc.
+
 * [Introduction to Microsoft Defender for Cloud](https://www.youtube.com/watch?v=SPle4DyJ00A) - An introduction session for Microsoft Defender for Cloud, exploring key security challenges facing the industry, Defender for Cloud's core features, its comprehensive protection across varying workloads, along with a demo showcasing baseline capabilities for all of your Azure, on-premises, and multicloud (Amazon AWS and Google GCP) resources.
 
 
