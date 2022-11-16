@@ -9,6 +9,8 @@ showbreadcrumb: true
 {% include_relative header.md %}
 
 ## Microsoft Cloud Security Academies
+
+
 ### Microsoft Defender for Cloud Academy
 Description, description, description, etc.
 
