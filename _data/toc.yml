@@ -104,22 +104,22 @@
     - title: "Azure Data Academy"
       url: "skilling/azure-data-academy"
       tag: azure data academy
-    - title: "Azure Security Academy"
-      url: "skilling/azure-security-academy"
-      tag: asa
+    - title: "Microsoft Security Academy"
+      url: "skilling/microsoft-security-academy"
+      tag: msa
       children:
         - title: Cloud Security
-          url: "skilling/azure-security-academy/cloud-security"
-          tag: asa cs
+          url: "skilling/microsoft-security-academy/cloud-security"
+          tag: msa cs
         - title: Identity & Access
-          url: "skilling/azure-security-academy/identity-access"
-          tag: asa ia
+          url: "skilling/microsoft-security-academy/identity-access"
+          tag: msa ia
         - title: Endpoint Security
-          url: "skilling/azure-security-academy/endpoint-security"
-          tag: asa es
+          url: "skilling/microsoft-security-academy/endpoint-security"
+          tag: msa es
         - title: SIEM & XDR
-          url: "skilling/azure-security-academy/siem-xdr"
-          tag: asa siem
+          url: "skilling/microsoft-security-academy/siem-xdr"
+          tag: msa siem
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga

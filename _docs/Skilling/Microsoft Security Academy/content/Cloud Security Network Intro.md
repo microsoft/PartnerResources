@@ -3,13 +3,13 @@ layout: page
 title: Azure Network Security Introduction
 sorttitle: 07 Cloud Security
 description: An introduction session for Azure Network Security, diving into the challenges of a more dangerous environment, zero trust principles & architecture, best practices, Azure Network Security's layered defenses, Network Security Groups (NSGs), Azure Bastion, connection to service endpoints, and how to establish private links.
-updated: 2022-11-03
-permalink: /skilling/azure-security-academy/cs-network-intro
+updated: 2022-11-16
+permalink: /skilling/microsoft-security-academy/cs-network-intro
 youtubeid: 7ZThupBuRZw
 tags: 
 - azure
 - academy content
-- azure security academy
+- microsoft security academy
 - cloud security
 ---
 
