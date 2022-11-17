@@ -3,29 +3,28 @@ layout: page
 title: Microsoft Security Academy - Cloud Security
 description: Microsoft Security Academy Cloud Security.
 permalink: /skilling/microsoft-security-academy/cloud-security
+updated: 2022-11-17
 showbreadcrumb: true
+tags: 
+- academy content
+- microsoft security academy
+- cloud security
 ---
 
 {% include_relative header.md %}
 
+## Cloud Security
 
 ### Microsoft Defender for Cloud Academy
-Description, description, description, etc.
-
-* [Introduction to Microsoft Defender for Cloud](https://www.youtube.com/watch?v=SPle4DyJ00A) - An introduction session for Microsoft Defender for Cloud, exploring key security challenges facing the industry, Defender for Cloud's core features, its comprehensive protection across varying workloads, along with a demo showcasing baseline capabilities for all of your Azure, on-premises, and multicloud (Amazon AWS and Google GCP) resources.
+The Microsoft Defender for Cloud Academy highlights Defender for Cloud's core features, how to best plan for Microsoft Defender for Cloud, Cloud Security Posture Management (CSPM), Cloud Workload Protection Capabilities, and Security Automation with Logic Apps.
 
 
-### Azure Network Security Academy 
-Description, description, description, etc.
+### Azure Network Security Academy
+The Azure Network Security Academy focuses on high-level network security features, Azure Network Security Advanced Architecture, how to best manage network security with Azure Firewall Manager, next generation capabilities within Azure Firewall Premium (e.g., TLS, IDPS), and Azure DDoS Protection's powerful answer to rising threats.
 
-* [Introduction to Azure Network Security](https://www.youtube.com/watch?v=7ZThupBuRZw) - An introduction session for Azure Network Security, diving into the challenges of a more dangerous environment, zero trust principles & architecture, best practices, Azure Network Security's layered defenses, Network Security Groups (NSGs), Azure Bastion, connection to service endpoints, and how to establish private links.
-
-### More Resources
-* [Getting Started with Microsoft Defender for Cloud - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/getting-started-with-microsoft-defender-for-cloud/ba-p/3255653)
 
 {% include series.md 
-    includetags="microsoft security academy|academy content|cloud security" includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true"
+    includetags="microsoft security academy|academy content|cloud security" includemethod="all" sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true"
     visualstyle="normal"
 %}
 
