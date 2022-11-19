@@ -67,15 +67,15 @@ The learning resources will not be a deep dive into how to support and develop i
 |                              |                              |                              |
 |------------------------------|------------------------------|------------------------------|
 | **Resource**	| **Level** | **Training Assets URL**|
-| Local| 100|https://www.youtube.com/watch?v=CtX0GZpWz6M&list=PLLasX02E8BPCL966bJ00oIeOhm7w5ejvt&index=11&ab_channel=MicrosoftAzure|
-|| 200|https://devblogs.microsoft.com/python/enhance-your-azure-machine-learning-experience-with-the-vs-code-extension/|
-|| 300 |https://github.com/Azure/MachineLearningNotebooks/blob/master/tutorials/image-classification-mnist-data/img-classification-part1-training.ipynb|
-| Remote Azure VM| 100|https://www.youtube.com/watch?v=YJePRMYCTOM&ab_channel=MicrosoftDeveloper|
-|| 200|https://github.com/Azure/azureml-examples/blob/main/tutorials/azureml-in-a-day/azureml-in-a-day.ipynb|
-|| 300 |https://azure.github.io/azureml-cheatsheets/docs/cheatsheets/python/v1/cheatsheet|
-| ML.NET| 100|https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?context=azure%2Fmachine-learning%2Fcontext%2Fml-context#mlnet|
-|| 200|https://www.youtube.com/watch?v=THVD4nzi8vk&ab_channel=dotnet|
-|| 300 |https://learn.microsoft.com/en-us/dotnet/machine-learning/tutorials/?WT.mc_id=dotnet-35129-website|
+| Local| 100| [Fundamentals of machine learning in the cloud](https://www.youtube.com/watch?v=CtX0GZpWz6M&list=PLLasX02E8BPCL966bJ00oIeOhm7w5ejvt&index=11&ab_channel=MicrosoftAzure) |
+|| 200|[Enhance your Azure Machine Learning experience with the VS Code extension](https://devblogs.microsoft.com/python/enhance-your-azure-machine-learning-experience-with-the-vs-code-extension/)|
+|| 300 |[Train an image classification model with Azure Machine Learning](https://github.com/Azure/MachineLearningNotebooks/blob/master/tutorials/image-classification-mnist-data/img-classification-part1-training.ipynb)|
+| Remote Azure VM| 100|[Supercharge Your Azure ML Development Through Visual Studio Code](https://www.youtube.com/watch?v=YJePRMYCTOM&ab_channel=MicrosoftDeveloper)|
+|| 200|[AzureML in a Day](https://github.com/Azure/azureml-examples/blob/main/tutorials/azureml-in-a-day/azureml-in-a-day.ipynb)|
+|| 300 |[Machine Learning Cheat Sheet](https://azure.github.io/azureml-cheatsheets/docs/cheatsheets/python/v1/cheatsheet)|
+| ML.NET| 100|[ML.NET Comparison Sheet](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?context=azure%2Fmachine-learning%2Fcontext%2Fml-context#mlnet)|
+|| 200|[On .NET Live - Adding Machine Learning to your .NET Apps with ML .NET](https://www.youtube.com/watch?v=THVD4nzi8vk&ab_channel=dotnet)|
+|| 300 |[ML.NET tutorialsi](https://learn.microsoft.com/en-us/dotnet/machine-learning/tutorials/?WT.mc_id=dotnet-35129-website)|
 
 
 
@@ -96,15 +96,15 @@ The learning resources will not be a deep dive into how to support and develop i
 |                              |                              |                              |
 |------------------------------|------------------------------|------------------------------|
 | **Resource**	| **Level** | **Training Assets URL**|
-| Local Web Service| 100|https://youtu.be/n8h6_Expf38|
-|| 200|https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-custom-container?tabs=cli|
-|| 300 |https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/deployment/deploy-to-local/register-model-deploy-local.ipynb|
-| Remote VM| 100|https://www.youtube.com/watch?v=WZ7vS10KPAw&ab_channel=MicrosoftAzure|
-|| 200|https://learn.microsoft.com/en-us/azure/machine-learning/concept-onnx|
-|| 300 |https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/deployment/production-deploy-to-aks/production-deploy-to-aks.ipynb|
-| Windows ML| 100|https://learn.microsoft.com/en-us/windows/ai/|
-|| 200|https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/mlnet-intro|
-|| 300 |https://learn.microsoft.com/en-us/windows/ai/windows-ml/samples|
+| Local Web Service| 100|[How do you deploy a machine learning model as a web service within Azure?](https://youtu.be/n8h6_Expf38)|
+|| 200|[Deploy a TensorFlow model served with TF Serving using a custom container in an online endpoint](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-custom-container?tabs=cli)|
+|| 300 |[Register model and deploy locally](https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/deployment/deploy-to-local/register-model-deploy-local.ipynb)|
+| Remote VM| 100|[Model deployment and inferencing with Azure Machine Learning](https://www.youtube.com/watch?v=WZ7vS10KPAw&ab_channel=MicrosoftAzure)|
+|| 200|[ONNX and Azure Machine Learning: Create and accelerate ML models](https://learn.microsoft.com/en-us/azure/machine-learning/concept-onnx)|
+|| 300 |[Deploying a web service to Azure Kubernetes Service (AKS)](https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/deployment/production-deploy-to-aks/production-deploy-to-aks.ipynb)|
+| Windows ML| 100|[Windows AI](https://learn.microsoft.com/en-us/windows/ai/)|
+|| 200|[Image Classification with ML.NET and Windows Machine Learning](https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/mlnet-intro)|
+|| 300 |[Windows Machine Learning Samples](https://learn.microsoft.com/en-us/windows/ai/windows-ml/samples)|
 
 
 
