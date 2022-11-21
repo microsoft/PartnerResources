@@ -3,6 +3,7 @@ layout: page
 title: Microsoft Security Academy - Risk Management & Privacy
 description: Microsoft Security Academy Risk Management & Privacy.
 permalink: /skilling/microsoft-security-academy/purview-academy
+Updated: 2022-11-21
 showbreadcrumb: true
 ---
 

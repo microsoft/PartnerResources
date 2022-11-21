@@ -130,7 +130,7 @@
           tag: endpoint security
             - title: Endpoint Security Academy
               url: "skilling/microsoft-security-academy/endpoint-academy"
-              tag: endpoint academy
+              tag: endpoint security academy
         - title: SIEM & XDR
           url: "skilling/microsoft-security-academy/siem-xdr"
           tag: siem & xdr
