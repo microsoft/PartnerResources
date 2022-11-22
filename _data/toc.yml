@@ -162,6 +162,17 @@
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
           tag: vignettes
+    - title: "Test First"
+      url: "skilling/academy-template/academy-template-page-1"
+      tag: test first
+      children:
+        - title: Test Second
+          url: "skilling/academy-template/academy-template-page-2"
+          tag: test second
+          children:
+            - title: Test Third
+              url: "skilling/academy-template/academy-template-page-3"
+              tag: test third
 - title: Skilling & Hands-on
   url: "skilling/"
   tag: workshop
