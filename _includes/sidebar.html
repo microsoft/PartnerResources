@@ -24,6 +24,7 @@
                 {% capture sectionTail %}</li></ul>{% endcapture %}
                 {% assign sectionText = sectionHead %}
                 {% assign childText = "" %}
+                {% assign subchildText = "" %}
                 {% if entry.children %}
                         
                     {% for child in entry.children %}
@@ -36,6 +37,25 @@
                         {% capture childFragment %}<a class="td-sidebar-link td-sidebar-link__page " id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ child.title | slugify }}" href="{{ linkUrl }}">{{ child.title }}</a>{% endcapture %}
                       {% endif %}
                       {% assign childText = childText | append: childFragment %}
+
+                      {% comment %}
+                      Third level nesting
+                      {% endcomment %}     
+                      {% if child.children %}     
+                      {% for subpage in child.children %}
+                        {% if subpage.url %}{% assign linkUrl = site.baseurl | append: "/" | append: subpage.url %}{% else %}{% assign linkUrl = subpage.external_url %}{% endif %}
+                        {% assign cleanedChild = subpage.url | remove: "/" %}
+                        {% if cleanedPage == cleanedChild %}
+                          {% assign isCurrentSection = true %}
+                          {% capture subchildFragment %}<a class="td-sidebar-link td-sidebar-link__page_strong " style="padding-left:10px;" id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ subpage.title | slugify }}" href="{{ linkUrl }}">{{ subpage.title }}</a>{% endcapture %}
+                        {% else %}
+                          {% capture subchildFragment %}<a class="td-sidebar-link td-sidebar-link__page " style="padding-left:10px;" id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ subpage.title | slugify }}" href="{{ linkUrl }}">{{ subpage.title }}</a>{% endcapture %}
+                        {% endif %}
+                        {% assign subchildText = subchildText | append: subchildFragment %}
+                        {% endfor %}
+                      {% endif %}         
+                    
+
                     {% endfor %}
       
                   {% endif %}
@@ -49,10 +69,12 @@
 
                   {% if isCurrentSection == true %}
                     {% assign sectionText = sectionText | append: childText %}
+                    {% assign sectionText = sectionText | append: subchildText %}
                   {% endif %}
                   {% assign sectionText = sectionText | append: sectionTail %}
                   {{ entryFragment }}
                   {{ sectionText }}
+
               {% endfor %}
           </ul>
         </li>
