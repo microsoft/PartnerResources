@@ -128,6 +128,7 @@
         - title: Endpoint Security
           url: "skilling/microsoft-security-academy/endpoint-security"
           tag: endpoint security
+          children: 
             - title: Endpoint Security Academy
               url: "skilling/microsoft-security-academy/endpoint-academy"
               tag: endpoint security academy
