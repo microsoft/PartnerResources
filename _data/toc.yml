@@ -104,22 +104,51 @@
     - title: "Azure Data Academy"
       url: "skilling/azure-data-academy"
       tag: azure data academy
-    - title: "Azure Security Academy"
-      url: "skilling/azure-security-academy"
-      tag: asa
+    - title: "Microsoft Security Academy"
+      url: "skilling/microsoft-security-academy"
+      tag: microsoft security academy
       children:
         - title: Cloud Security
-          url: "skilling/azure-security-academy/cloud-security"
-          tag: asa cs
+          url: "skilling/microsoft-security-academy/cloud-security"
+          tag: cloud security
+          children:
+            - title: Microsoft Defender for Cloud Academy
+              url: "skilling/microsoft-security-academy/defender-academy"
+              tag: defender for cloud
+            - title: Azure Network Security Academy
+              url: "skilling/microsoft-security-academy/network-academy"
+              tag: network security
         - title: Identity & Access
-          url: "skilling/azure-security-academy/identity-access"
-          tag: asa ia
+          url: "skilling/microsoft-security-academy/identity-access"
+          tag: identity & access
+          children:
+            - title: Microsoft Entra Academy
+              url: "skilling/microsoft-security-academy/entra-academy"
+              tag: entra
         - title: Endpoint Security
-          url: "skilling/azure-security-academy/endpoint-security"
-          tag: asa es
+          url: "skilling/microsoft-security-academy/endpoint-security"
+          tag: endpoint security
+          children: 
+            - title: Endpoint Security Academy
+              url: "skilling/microsoft-security-academy/endpoint-academy"
+              tag: endpoint security academy
         - title: SIEM & XDR
-          url: "skilling/azure-security-academy/siem-xdr"
-          tag: asa siem
+          url: "skilling/microsoft-security-academy/siem-xdr"
+          tag: siem & xdr
+          children:
+            - title: Microsoft Sentinel Academy
+              url: "skilling/microsoft-security-academy/sentinel-academy"
+              tag: sentinel
+            - title: Microsoft 365 Defender Academy
+              url: "skilling/microsoft-security-academy/d365-academy"
+              tag: d365 defender
+        - title: Risk Management & Privacy
+          url: "skilling/microsoft-security-academy/risk-mgmt"
+          tag: risk management
+          children:
+            - title: Microsoft Purview Academy
+              url: "skilling/microsoft-security-academy/purview-academy"
+              tag: purview
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga
@@ -162,17 +191,6 @@
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
           tag: vignettes
-    - title: "Test First"
-      url: "skilling/academy-template/academy-template-page-1"
-      tag: test first
-      children:
-        - title: Test Second
-          url: "skilling/academy-template/academy-template-page-2"
-          tag: test second
-          children:
-            - title: Test Third
-              url: "skilling/academy-template/academy-template-page-3"
-              tag: test third
 - title: Skilling & Hands-on
   url: "skilling/"
   tag: workshop
