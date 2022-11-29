@@ -2,7 +2,7 @@
 layout: page
 title: Cloud Security - Microsoft Defender for Cloud Academy
 description: Microsoft Security Academy Cloud Security.
-permalink: /skilling/microsoft-security-academy/defender-academy"
+permalink: /skilling/microsoft-security-academy/defender-academy
 updated: 2022-11-17
 showbreadcrumb: true
 tags: 
