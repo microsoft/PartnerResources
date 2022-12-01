@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Nonprofit Resources
-description:  Microsoft Cloud for Nonprofits Resources
+title: Microsoft Cloud for Nonprofit Resources
+description:  Microsoft Cloud for Nonprofit Resources
 updated: 2022-12-01
 permalink: /industry/nonprofit/nonprofit-resources
 tags:
