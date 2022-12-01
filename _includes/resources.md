@@ -20,9 +20,12 @@
 
     For parameters, values are strings (no hyphens) 
     and delimited with | if needed. Example:
-    includeplans="modern analytics academy | vignettes
+    includetags="modern analytics academy | vignettes"
 
 {% endcomment %}
+
+{% assign tagsToInclude = "" | split: ',' %}
+{% assign tagsToInclude = include.includetags | split:'|' | compact %}
 
 {% capture site_tags %}
 {% for tag in site.tags %}
@@ -54,9 +57,9 @@
     {% for doc in filtered_docs %}
     {% unless doc.tags contains "deprecated" %}
     {% assign uniquedoctags = doc.tags | uniq | sort %}
-    {% assign concatplans = uniquedoctags | concat: include.includetags | uniq %}
+    {% assign concatplans = uniquedoctags | concat: tagsToInclude | uniq %}
     {% comment %}
-        To see if a document is a match, we'll concat include.includetags and doc.tags --
+        To see if a document is a match, we'll concat tagsToInclude and doc.tags --
         if they have the same number of tags, the document matches the filter so will be included
     {% endcomment %}
     {% if uniquedoctags.size == concatplans.size %}
@@ -66,7 +69,7 @@
     {% endfor %}
 {% else %}
     {% for doc in filtered_docs %}
-    {% for includetag in include.includetags %}
+    {% for includetag in tagsToInclude %}
     {% unless doc.tags contains "deprecated" %}
     {% if doc.tags contains includetag %}
     {% assign current_docs = current_docs | push: doc %}
