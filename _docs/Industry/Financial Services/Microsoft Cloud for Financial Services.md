@@ -25,15 +25,27 @@ Additionally, some content may be marked with one or more icons:
 
 ## Keeping Up
 
-{ Add new/roadmap items here; content to continue to be proficient with technology }
+* [Overview of Microsoft cloud for Financial Services](https://aka.ms/FinancialServices)
+* [Introducing Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=xByz3P6FlMQ)![image](https://user-images.githubusercontent.com/10658684/205160952-c71c1d78-185f-400f-86a2-69af4dc3c93e.png)
+
 
 ## Fundamentals
 
-{ Add fundamentals/beginning-level items here; baseline content to be proficient with technology }
+* [What is Microsoft Cloud for Financial Services?](https://learn.microsoft.com/en-us/industry/financial-services/overview)
+* [Microsoft Cloud for Financial Services Partner Assets](https://partner.microsoft.com/en-us/asset/collection/microsoft-cloud-for-financial-services-partner-assets#/)
+* [Learning Resources: Get started with Microsoft Cloud for Financial Services](https://docs.microsoft.com/en-us/learn/paths/financial-services-in-a-day/)
+* [How to buy Microsoft Cloud for Financial Services?](https://learn.microsoft.com/en-us/industry/financial-services/buy)
+* [Demo environment: Microsoft Customer Digital Experiences | Microsoft Cloud for Financial Services](https://cdx.transform.microsoft.com/experience-detail/c3325ad2-0746-4ee1-8df3-37d2eeb07141)
+* [Roadmap: What's new and planned?](https://docs.microsoft.com/en-us/dynamics365-release-plan/2022wave1/industry-clouds/financial-services/planned-features)![image](https://user-images.githubusercontent.com/10658684/205161025-180354fb-8781-49fb-90a3-692f13463ce9.png)
+
 
 ## Associate
 
-{ Add associate/mid-level items here; baseline content to be proficient with technology }
+* [Deployment: Microsoft Cloud Solution Center](https://solutions.microsoft.com/Microsoft%20Cloud%20for%20Financial%20Services)
+* [Request licenses for development environment](https://experience.dynamics.com/requestlicense/)
+* [30 day FSI Trial that is documented here](https://docs.microsoft.com/en-us/learn/modules/training-environment-preparation/)
+* [Set up and configure Microsoft Cloud for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/configure-cloud-for-financial-services)
+* [Videos and learning resources for Microsoft Cloud for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/training-videos)![image](https://user-images.githubusercontent.com/10658684/205161111-be64cb85-c75b-486d-a323-91f3f175aada.png)
 
 
 ## Expert
@@ -52,10 +64,13 @@ Additionally, some content may be marked with one or more icons:
 
 ## Resources
 
-* [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/)
+* [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/financial-services/)![image](https://user-images.githubusercontent.com/10658684/205161167-f943e74f-3874-4525-8ba9-50b2ff094f12.png)
+
 
 
 ## Community
 
-{ Add links to community resources: blogs, forums, yammer channels, etc. }
+* [Microsoft Cloud for Financial Services: Create new value with deeper customer connections](https://cloudblogs.microsoft.com/industry-blog/financial-services/2022/10/26/microsoft-cloud-for-financial-services-create-new-value-with-deeper-customer-connections/)
+![image](https://user-images.githubusercontent.com/10658684/205161208-3500f531-3438-4560-8054-015636919e49.png)
+
 
