@@ -33,6 +33,7 @@ tags:
 
 * [Modern Analytics Academy - Data Governance](https://microsoft.github.io/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-governance)
   * This session from the Modern Analytics Academy covers Microsoft Purview as part of a series on modern data analytics
+* [Microsoft Purview Official YouTube Channel](https://www.youtube.com/@MicrosoftPurview)
 * [Microsoft Purview Playlist in Microsoft Security Community - YouTube](https://www.youtube.com/playlist?list=PLmAptfqzxVEVS587Mc1UVvlKjPZv4GDev) (last updated July 2021)
 * [Quickstart: Create an Microsoft Purview account in the Azure portal - Microsoft Docs](https://docs.microsoft.com/en-us/azure/purview/create-catalog-portal)
 * [Integrate Microsoft Sentinel and Microsoft Purview - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/purview-solution)
