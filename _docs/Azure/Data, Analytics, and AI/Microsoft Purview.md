@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Purview
 description: Resources for Data Governance with Microsoft Purview
-updated: 2022-05-10
+updated: 2022-12-01
 permalink: /azure/data-analytics-ai/microsoft-purview
 redirect_from:
   - /azure/data-analytics-ai/azure-purview
@@ -28,6 +28,7 @@ tags:
 * [Microsoft Purview Webinar: Introduction to Microsoft Purview](https://www.youtube.com/watch?v=Kmr_LXm1ulg) (49 Minutes)
 * [Purview Demo 1 – YouTube](https://www.youtube.com/watch?v=27bA4KFiEKk) (2020)
 * [Purview Demo2 – YouTube](https://www.youtube.com/watch?v=W2bsj3ULw0Y) (2020)
+* [Microsoft Purview architecture review & demo](https://youtu.be/RGXJlO1wvBQ?t=1) (57 Minutes)
 
 ## Associate
 
