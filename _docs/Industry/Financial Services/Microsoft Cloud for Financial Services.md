@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Microsoft Cloud for Sustainability Resources
-description: Resources for Microsoft Cloud for Sustainability
+title: Microsoft Cloud for Financial Services
+description: Resources for Microsoft Cloud for Financial Services
 updated: 2022-12-01
-permalink: /industry/sustainability/sustainability-resources
+permalink: /industry/financial-services/microsoft-cloud-for-financial-services
 tags:
 - learning plan
 - industry
-- sustainability
+- financial services
 ---
 
-# Learning Plan Resources for Microsoft Cloud for Sustainability
+# Learning Plan Resources for Microsoft Cloud for Financial Services
 
-Microsoft Cloud for Sustainability is an extensible SaaS solution that enables organizations at any stage of their sustainability journey to record, report, and reduce emissions through their enterprise and their value chain. It integrates previously disparate solutions into a new system of record that enables comprehensive, integrated, and automated sustainability management
+Microsoft Cloud for Financial Services
 
 Content is broken down as follows:
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
@@ -25,14 +25,11 @@ Additionally, some content may be marked with one or more icons:
 
 ## Keeping Up
 
-{ Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
+{ Add new/roadmap items here; content to continue to be proficient with technology }
 
 ## Fundamentals
 
-{ Add fundamental/beginner/high level items here; generally applicable to all audiences }
-
-* [Welcome to Microsoft Cloud for Sustainability](https://www.microsoft.com/en-us/sustainability/cloud)
-    * Accelerate your sustainability journey
+{ Add fundamentals/beginning-level items here; baseline content to be proficient with technology }
 
 ## Associate
 
@@ -55,7 +52,6 @@ Additionally, some content may be marked with one or more icons:
 
 ## Resources
 
-* [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/)
 
 ## Community
 

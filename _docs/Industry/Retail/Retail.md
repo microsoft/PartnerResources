@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Cloud for Retail Resources
 description: Resources for Retailers using the Microsoft Cloud
-updated: 2021-12-01
+updated: 2022-12-01
 permalink: /industry/retail/retail-resources
 tags:
 - learning plan
@@ -54,6 +54,10 @@ Additionally, some content may be marked with one or more icons:
 
 { Add certifications that may apply. Visit https://docs.microsoft.com/en-us/learn/certifications/ as a starting point.  You may include links to training classes and related resources related to certifications.  }
 
+## Resources
+
+* [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/)
 
 ## Community
+
 * [Shelley Bransten's Blog](https://cloudblogs.microsoft.com/industry-blog/retail/2021/02/24/announcing-microsoft-cloud-for-retail-built-for-whats-next/)

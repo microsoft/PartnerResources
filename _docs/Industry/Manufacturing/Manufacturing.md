@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Nonprofit Resources
-description:  Microsoft Cloud for Nonprofits Resources
+title: Manufacturing Resources
+description:  Microsoft Cloud for Manufacturing Resources
 updated: 2022-12-01
-permalink: /industry/nonprofit/nonprofit-resources
+permalink: /industry/manufacturing/manufacturing-resources
 tags:
 - learning plan
 - industry
-- nonprofit
+- manufacturing
 ---
 
-# Learning Plan Resources for Nonprofit
+# Learning Plan Resources for Manufacturing
 
-Microsoft Cloud for Nonprofit connects the intelligent and integrated cloud capabilities of the Microsoft stack to the most common nonprofit organizational scenarios, including constituent engagement and fundraising, staff collaboration and volunteer management, and program design and delivery. By bringing together disparate data sources from across the organization, it enables nonprofits to realize the true value of their data to help accelerate mission outcomes. More capabilities coming soon for public preview.
+Microsoft Cloud for Manufacturing is designed to deliver capabilities that support the core processes and requirements of the industry. These end-to-end manufacturing cloud solutions include released and new capabilities that help securely connect people, assets, workflow, and business processes, empowering organizations to be more resilient.
 
 Content is broken down as follows:
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
@@ -25,14 +25,14 @@ Additionally, some content may be marked with one or more icons:
 
 ## Keeping Up
 
-* [Stay informed about Microsoft Cloud for Nonprofit](https://nonprofits.tsi.microsoft.com/Microsoft-Cloud-for-Nonprofit-Sign-to-stay-Informed/)
-    * Sign up to stay informed on Microsoft Cloud for Nonprofit. We’ll be in touch in the coming months with more information on public preview and general availability.
+* [Stay informed about Microsoft Cloud for Manufacturing](https://info.microsoft.com/ww-landing-Manufacturing-StayInformed.html)
+    * Sign up to stay informed on Microsoft Cloud for Manufacturing. We’ll be in touch in the coming months with more information on public preview and general availability.
 
 
 ## Fundamentals
 
-* [Microsoft Cloud for Nonprofit](https://nonprofit.microsoft.com/en-us/getting-started)
-    * Getting started with Microsoft Cloud for Nonprofit
+* [Microsoft Cloud for Nonprofit](https://www.microsoft.com/en-us/industry/manufacturing/microsoft-cloud-for-manufacturing)
+    * Getting started with Microsoft Cloud for Manufacturing
 
 ## Associate
 
@@ -55,9 +55,10 @@ Additionally, some content may be marked with one or more icons:
 
 ## Resources
 
-* [Microsoft Cloud for Nonprofit](https://www.microsoft.com/en-us/nonprofits/microsoft-cloud-for-nonprofit)
+* [Microsoft CLoud for Manufacturing](https://www.microsoft.com/en-us/industry/manufacturing/microsoft-cloud-for-manufacturing)
 * [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/)
 
 ## Community
 
 { Add links to community resources: blogs, forums, yammer channels, etc. }
+
