@@ -52,6 +52,8 @@ Additionally, some content may be marked with one or more icons:
 
 ## Resources
 
+* [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/)
+
 
 ## Community
 
