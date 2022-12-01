@@ -193,7 +193,10 @@
           tag: maa hands on
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
-          tag: vignettes
+          tag: maa vignettes
+        - title: Resources
+          url: "skilling/modern-analytics-academy/resources"
+          tag: maa resources      
 - title: Skilling & Hands-on
   url: "skilling/"
   tag: workshop
