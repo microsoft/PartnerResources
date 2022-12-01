@@ -12,7 +12,7 @@ tags:
 
 # Learning Plan Resources for Microsoft Cloud for Financial Services
 
-Microsoft Cloud for Financial Services
+Microsoft Cloud for Financial Services provides capabilities to manage data to deliver differentiated experiences, empower employees, and combat financial crime while facilitating security, compliance, and interoperability.![image](https://user-images.githubusercontent.com/10658684/205162088-d718efce-e52b-4754-a029-8d1f0a140de3.png)
 
 Content is broken down as follows:
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
