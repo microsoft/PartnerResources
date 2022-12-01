@@ -21,6 +21,8 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
 ### Sessions
 * [Introduction to Microsoft Defender for Cloud](https://www.youtube.com/watch?v=SPle4DyJ00A) - An introduction session for Microsoft Defender for Cloud, exploring key security challenges facing the industry, Defender for Cloud's core features, its comprehensive protection across varying workloads, along with a demo showcasing baseline capabilities for all of your Azure, on-premises, and multicloud (Amazon AWS and Google GCP) resources.
 
+* [Planning for Microsoft Defender for Cloud](https://www.youtube.com/watch?v=8Y6v2vUdAJ4) - In this session, we will explore how to best prepare your organization for Microsoft Defender for Cloud adoption. Learn about key areas to consider when planning, overall pricing, enhanced security features, and a demo for a hands-on walk-through.
+
 
 ### Learning Path
 TBD
