@@ -25,11 +25,11 @@ Additionally, some content may be marked with one or more icons:
 
 ## Keeping Up
 
-
+{ Add new/roadmap items here; content to continue to be proficient with technology }
 
 ## Fundamentals
 
-
+{ Add fundamentals/beginning-level items here; baseline content to be proficient with technology }
 
 ## Associate
 
