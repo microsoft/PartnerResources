@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Sustainability Resources
+description: Resources for Microsoft Cloud for Sustainability
+updated: 2022-12-01
 permalink: /industry/sustainability/sustainability-resources
 tags:
 - learning plan
