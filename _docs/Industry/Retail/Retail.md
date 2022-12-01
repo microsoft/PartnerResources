@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Microsoft Cloud for Retail Resources
+title: Microsoft Cloud for Retail
 description: Resources for Retailers using the Microsoft Cloud
 updated: 2022-12-01
 permalink: /industry/retail/retail-resources
