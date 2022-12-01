@@ -26,8 +26,8 @@ Additionally, some content may be marked with one or more icons:
 ## Keeping Up
 
 * [Overview of Microsoft cloud for Financial Services](https://aka.ms/FinancialServices)
-* [Introducing Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=xByz3P6FlMQ)
 
+* [Introducing Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=xByz3P6FlMQ)![image](https://user-images.githubusercontent.com/10658684/205116647-8da5807b-ddb8-40a9-9297-abdf3078df01.png)
 
 ## Fundamentals
 
@@ -60,8 +60,12 @@ Additionally, some content may be marked with one or more icons:
 
 * [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/financial-services/)
 
-
 ## Community
 
+* [Microsoft Cloud for Financial Services: Create new value with deeper customer connections](https://cloudblogs.microsoft.com/industry-blog/financial-services/2022/10/26/microsoft-cloud-for-financial-services-create-new-value-with-deeper-customer-connections/)
+
+* [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/financial-services/)
+
+## Community
 * [Microsoft Cloud for Financial Services: Create new value with deeper customer connections](https://cloudblogs.microsoft.com/industry-blog/financial-services/2022/10/26/microsoft-cloud-for-financial-services-create-new-value-with-deeper-customer-connections/)
 
