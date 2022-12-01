@@ -31,7 +31,7 @@ Additionally, some content may be marked with one or more icons:
 
 { Add fundamental/beginner/high level items here; generally applicable to all audiences }
 
-* [Welcome to Microsoft CLoud for Sustainability](https://www.microsoft.com/en-us/sustainability/cloud)
+* [Welcome to Microsoft Cloud for Sustainability](https://www.microsoft.com/en-us/sustainability/cloud)
     * Accelerate your sustainability journey
 
 ## Associate
