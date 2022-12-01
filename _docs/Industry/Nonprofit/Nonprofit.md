@@ -55,8 +55,8 @@ Additionally, some content may be marked with one or more icons:
 
 ## Resources
 
-* [Microsoft CLoud for Nonprofit](https://www.microsoft.com/en-us/nonprofits/microsoft-cloud-for-nonprofit)
-    * General overview
+* [Microsoft Cloud for Nonprofit](https://www.microsoft.com/en-us/nonprofits/microsoft-cloud-for-nonprofit)
+* [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/)
 
 ## Community
 
