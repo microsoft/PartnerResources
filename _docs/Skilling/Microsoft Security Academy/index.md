@@ -17,12 +17,5 @@ The Microsoft Security Academy content is organized into four key areas:
 * [Endpoint Security](/PartnerResources/skilling/microsoft-security-academy/endpoint-security) - Microsoft Defender for IoT
 * [SIEM & XDR](/PartnerResources/skilling/microsoft-security-academy/endpoint-security) - Microsoft Sentinel
 
-## Complete Session Listing
-
-{% include series.md 
-    includetags="microsoft security academy|academy content" includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
-    visualstyle="tiny"
-%}
 
 {% include_relative footer.md %}

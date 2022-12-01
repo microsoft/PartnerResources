@@ -1,20 +1,32 @@
 ---
 layout: page
-title: Microsoft Security Academy - Risk Management & Privacy
+title: Risk Management & Privacy - Microsoft Purview Academy
 description: Microsoft Security Academy Risk Management & Privacy.
 permalink: /skilling/microsoft-security-academy/purview-academy
-Updated: 2022-11-21
+updated: 2022-12-01
 showbreadcrumb: true
+Tags:
+- academy content
+- microsoft security academy
+- risk management & privacy
+- purview
 ---
 
 {% include_relative header.md %}
 
-## Sessions
+## Microsoft Purview Academy
+Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessions delivered directly to partners, detailed learning paths, certifications, and further resources.
 
-{% include series.md 
-    includetags="microsoft security academy|academy content|risk management|purview" includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true"
-    visualstyle="normal"
-%}
+
+### Sessions
+*In Development*
+
+
+### Learning Path
+*In Development*
+
+### Certifications
+*In Development*
+
 
 {% include_relative footer.md %}
