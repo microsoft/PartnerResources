@@ -21,7 +21,22 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 
 
 ### Learning Path
-TBD
+
+#### Azure Sentinel Readiness Resources
+
+Below you will find content to assist in upskilling on Azure Sentinel. Microsoft Azure Sentinel is a scalable, cloud-native, security information event management (SIEM) and security orchestration automated response (SOAR) solution. Azure Sentinel delivers intelligent security analytics and threat intelligence across the enterprise, providing a single solution for alert detection, threat visibility, proactive hunting, and threat response.
+
+##### Keeping Up
+* [Azure Sentinel Technical Documentation](https://docs.microsoft.com/en-us/azure/sentinel/)
+* [Security Community Webinars](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
+* [Azure Sentinel Blog Series](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
+
+##### Fundamentals
+* [MSSP Whitepaper](http://aka.ms/azsentinelmssp)
+   * Great insights on how MSSPs can configure and add value to Microsoft Sentinel.
+* [Azure Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
+   * New workspaces can ingest up to 10GB/day of log data for the first 31-days at no cost. Both Log Analytics data ingestion and Microsoft Sentinel charges are waived during the 31-day trial period. This free trial is subject to a 20 workspace limit per Azure tenant. See below for usage steps.
+* [Design your Microsoft Sentinel workspace architecture - Decision Tree](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
 
 
 {% include_relative footer.md %}
