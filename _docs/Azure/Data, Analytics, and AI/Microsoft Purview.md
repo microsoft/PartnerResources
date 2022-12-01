@@ -37,6 +37,7 @@ tags:
 * [Quickstart: Create an Microsoft Purview account in the Azure portal - Microsoft Docs](https://docs.microsoft.com/en-us/azure/purview/create-catalog-portal)
 * [Integrate Microsoft Sentinel and Microsoft Purview - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/purview-solution)
 * [Prerequisites to successfully deploy a Microsoft Purview account - Microsoft Docs](https://docs.microsoft.com/en-us/azure/purview/tutorial-azure-purview-checklist)
+* [Microsoft Purview with MIP integration - YouTube](https://youtu.be/QEp5zWiPrhA?list=PL-8L4E6a4nOYbG5Eltf4vH-4Wiaq8WekQ) (18 Minutes)
 
 ## Expert
 
