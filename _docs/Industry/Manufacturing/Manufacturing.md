@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Manufacturing Resources
+title: Microsoft Cloud for Manufacturing
 description:  Microsoft Cloud for Manufacturing Resources
 updated: 2022-12-01
 permalink: /industry/manufacturing/manufacturing-resources
@@ -31,7 +31,7 @@ Additionally, some content may be marked with one or more icons:
 
 ## Fundamentals
 
-* [Microsoft Cloud for Nonprofit](https://www.microsoft.com/en-us/industry/manufacturing/microsoft-cloud-for-manufacturing)
+* [Microsoft Cloud for Manufacturing](https://www.microsoft.com/en-us/industry/manufacturing/microsoft-cloud-for-manufacturing)
     * Getting started with Microsoft Cloud for Manufacturing
 
 ## Associate
@@ -55,7 +55,7 @@ Additionally, some content may be marked with one or more icons:
 
 ## Resources
 
-* [Microsoft CLoud for Manufacturing](https://www.microsoft.com/en-us/industry/manufacturing/microsoft-cloud-for-manufacturing)
+* [Microsoft Cloud for Manufacturing](https://www.microsoft.com/en-us/industry/manufacturing/microsoft-cloud-for-manufacturing)
 * [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/)
 
 ## Community
