@@ -3,17 +3,19 @@ layout: page
 title: Microsoft Security Academy - SIEM & XDR
 description: Microsoft Security Academy SIEM & XDR.
 permalink: /skilling/microsoft-security-academy/siem-xdr
+updated: 2022-12-01
 showbreadcrumb: true
+tags: 
+- academy content
+- microsoft security academy
+- siem & xdr
 ---
 
-{% include_relative header.md %}
+## SIEM & XDR
 
-## Sessions
+### Microsoft Sentinel Academy
+The Microsoft Sentinel Academy TBD
 
-{% include series.md 
-    includetags="microsoft security academy|academy content|siem & xdr" includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true"
-    visualstyle="normal"
-%}
 
-{% include_relative footer.md %}
+### Certifications
+TBD

@@ -12,8 +12,6 @@ Tags:
 - sentinel
 ---
 
-{% include_relative header.md %}
-
 ## Microsoft Sentinel Academy
 Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sessions delivered directly to partners, detailed learning paths, certifications, and further resources.
 
@@ -23,9 +21,6 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 
 
 ### Learning Path
-TBD
-
-### Certifications
 TBD
 
 

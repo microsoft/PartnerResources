@@ -11,8 +11,6 @@ tags:
 - endpoint security
 ---
 
-{% include_relative header.md %}
-
 ## Microsoft Endpoint Security Academy
 Welcome to the Microsoft Endpoint Security Academy. Explore Microsoft endpoint security video sessions delivered directly to partners, detailed learning paths, certifications, and further resources.
 
@@ -22,9 +20,6 @@ Welcome to the Microsoft Endpoint Security Academy. Explore Microsoft endpoint s
 
 
 ### Learning Path
-TBD
-
-### Certifications
 TBD
 
 

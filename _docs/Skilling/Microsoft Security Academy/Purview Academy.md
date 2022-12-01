@@ -12,21 +12,16 @@ Tags:
 - purview
 ---
 
-{% include_relative header.md %}
-
 ## Microsoft Purview Academy
 Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessions delivered directly to partners, detailed learning paths, certifications, and further resources.
 
 
 ### Sessions
-*In Development*
+TBD
 
 
 ### Learning Path
-*In Development*
-
-### Certifications
-*In Development*
+TBD
 
 
 {% include_relative footer.md %}

@@ -12,8 +12,6 @@ Tags:
 - entra
 ---
 
-{% include_relative header.md %}
-
 ## Microsoft Entra Academy
 Welcome to the Microsoft Entra Academy. Explore Microsoft Entra video sessions delivered directly to partners, detailed learning paths, certifications, and further resources.
 
@@ -25,9 +23,6 @@ Welcome to the Microsoft Entra Academy. Explore Microsoft Entra video sessions d
 
 
 ### Learning Path
-TBD
-
-### Certifications
 TBD
 
 

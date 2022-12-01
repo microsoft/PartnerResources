@@ -10,12 +10,22 @@ showbreadcrumb: true
 
 {% include_relative header.md %}
 
-The Microsoft Security Academy content is organized into four key areas:
+Welcome to the Microsoft Security Academy! This academy is organized into five primary categories (Cloud Security, Identity & Access, Endpoint Security, SIEM & XDR, and Risk Management & Privacy), all of which include detailed academies incorporating video sessions, demonstrations, learning paths, related certifications, and other related materials. The resources are created by architects across the GPSUS security-aligned team who are experts in their field. The overall objective of the academies it to help you all scale in learning and grow in experience.
 
-* [Cloud Security](/PartnerResources/skilling/microsoft-security-academy/cloud-security) - Microsoft Defender for Cloud's core features, Planning for Microsoft Defender for Cloud, Cloud Security Posture Management (CSPM), Cloud Workload Protection Capabilities, Security Automation with Logic Apps, Azure DDoS Protection, Network Security, Azure Firewall & Firewall Premium, Azure Firewall Manager, etc.
-* [Identity & Access](/PartnerResources/skilling/microsoft-security-academy/identity-access) - Key concepts (e.g., zero trust), Entra Permissions Management, Identity Governance Entitlements Management, etc.
-* [Endpoint Security](/PartnerResources/skilling/microsoft-security-academy/endpoint-security) - Microsoft Defender for IoT
-* [SIEM & XDR](/PartnerResources/skilling/microsoft-security-academy/endpoint-security) - Microsoft Sentinel
+* [Cloud Security](/PartnerResources/skilling/microsoft-security-academy/cloud-security): Microsoft Defender for Cloud Academy, Azure Network Security Academy
+* [Identity & Access](/PartnerResources/skilling/microsoft-security-academy/identity-access): Microsoft Entra Academy
+* [Endpoint Security](/PartnerResources/skilling/microsoft-security-academy/endpoint-security): Microsoft Endpoint Security Academy
+* [SIEM & XDR](/PartnerResources/skilling/microsoft-security-academy/endpoint-security): Microsoft Sentinel Academy, Microsoft 365 Defender Academy
+* [Risk Management & Privacy](/PartnerResources/skilling/microsoft-security-academy/risk-mgmt): Microsoft Purview Academy
 
+
+## Organization
+*Insert chart here*
+
+
+## Important Updates
+
+We'll update this section with our upcoming events or critical content!
 
 {% include_relative footer.md %}
+

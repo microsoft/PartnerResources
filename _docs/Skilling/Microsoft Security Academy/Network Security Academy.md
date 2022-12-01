@@ -12,8 +12,6 @@ tags:
 - network security
 ---
 
-{% include_relative header.md %}
-
 ## Network Security Academy
 Welcome to the Network Security Academy. Explore network security video sessions delivered directly to partners, detailed learning paths, certifications, and further resources.
 
@@ -33,9 +31,6 @@ Welcome to the Network Security Academy. Explore network security video sessions
 
 
 ### Learning Path
-TBD
-
-### Certifications
 TBD
 
 

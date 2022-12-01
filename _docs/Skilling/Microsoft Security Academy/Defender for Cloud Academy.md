@@ -12,8 +12,6 @@ tags:
 - defender for cloud
 ---
 
-{% include_relative header.md %}
-
 ## Microsoft Defender for Cloud Academy
 Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender for Cloud video sessions delivered directly to partners, detailed learning paths, certifications, and further resources.
 
@@ -31,9 +29,6 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
 
 
 ### Learning Path
-TBD
-
-### Certifications
 TBD
 
 

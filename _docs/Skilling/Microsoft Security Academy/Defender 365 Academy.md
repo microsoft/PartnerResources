@@ -12,21 +12,16 @@ Tags:
 - 365 defender
 ---
 
-{% include_relative header.md %}
-
 ## Microsoft 365 Defender Academy
 Welcome to the Microsoft 365 Defender Academy. Explore Microsoft 365 Defender video sessions delivered directly to partners, detailed learning paths, certifications, and further resources.
 
 
 ### Sessions
-*In Development*
+TBD
 
 
 ### Learning Path
-*In Development*
-
-### Certifications
-*In Development*
+TBD
 
 
 {% include_relative footer.md %}
