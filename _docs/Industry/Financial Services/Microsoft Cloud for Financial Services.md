@@ -61,11 +61,5 @@ Additionally, some content may be marked with one or more icons:
 * [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/financial-services/)
 
 ## Community
-
-* [Microsoft Cloud for Financial Services: Create new value with deeper customer connections](https://cloudblogs.microsoft.com/industry-blog/financial-services/2022/10/26/microsoft-cloud-for-financial-services-create-new-value-with-deeper-customer-connections/)
-
-* [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/financial-services/)
-
-## Community
 * [Microsoft Cloud for Financial Services: Create new value with deeper customer connections](https://cloudblogs.microsoft.com/industry-blog/financial-services/2022/10/26/microsoft-cloud-for-financial-services-create-new-value-with-deeper-customer-connections/)
 
