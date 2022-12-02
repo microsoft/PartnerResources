@@ -18,11 +18,16 @@ Welcome to the Microsoft Endpoint Security Academy. Explore Microsoft endpoint s
 ### Sessions
 * [All About Microsoft Defender for IoT](https://www.youtube.com/watch?v=-j9qj-JfN98) - Protect your IoT/OT infrastructure with Microsoft Defender for IoT. Come learn about Defender for IoT's agentless network detection and response (NDR) that is rapidly deployed and interoperable with Microsoft 365 Defender, Microsoft Sentinel, and external security operations center (SOC) tools. Explore differences between IT & OT security and upskill with a detailed demo within Defender for IoT.
 
+* [Secure your Intelligent Platforms with Azure Defender for IOT featuring Accenture Security - YouTube](https://www.youtube.com/watch?v=E14ADt1G8xQ) - Accenture Security explores how to secure your intelligent platforms with Azure Defender for IoT.
 
+
+### Keeping Up
+* [Microsoft Defender for IoT Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/microsoft-defender-for-iot-ninja-training/ba-p/2428899?WT.mc_id=m365-0000-rotrent)
+* [Microsoft Defender for IoT/OT Hands-on Lab Workshop](https://github.com/mpram/Azure-Defender-for-IoT/) - with a few recommended modifications:
+   1. Modify the VM networking to only allow RDP connections from your IP, not everything.
+   2. Do not use the user/password in the lab, use a unique value.
+   3. Configure auto-shutdown to minimize costs.
 ### Learning Path
-
-#### Microsoft Endpoint Management
-* [Overview of Microsoft Endpoint Manager](https://learn.microsoft.com/en-us/mem/endpoint-manager-overview)
 
 
 {% include_relative footer.md %}
