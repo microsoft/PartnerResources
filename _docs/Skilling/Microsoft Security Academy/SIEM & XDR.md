@@ -15,7 +15,3 @@ tags:
 
 ### Microsoft Sentinel Academy
 The Microsoft Sentinel Academy TBD
-
-
-### Certifications
-TBD

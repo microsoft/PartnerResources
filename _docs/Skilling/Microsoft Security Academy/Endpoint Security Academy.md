@@ -20,7 +20,9 @@ Welcome to the Microsoft Endpoint Security Academy. Explore Microsoft endpoint s
 
 
 ### Learning Path
-TBD
+
+#### Microsoft Endpoint Management
+* [Overview of Microsoft Endpoint Manager](https://learn.microsoft.com/en-us/mem/endpoint-manager-overview)
 
 
 {% include_relative footer.md %}

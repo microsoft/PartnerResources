@@ -15,7 +15,3 @@ tags:
 
 ### Microsoft Purview Academy
 The Microsoft Purview Academy TBD
-
-
-### Certifications
-TBD

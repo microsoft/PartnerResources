@@ -15,7 +15,3 @@ tags:
 
 ### Microsoft Endpoint Security Academy
 The Microsoft Endpoint Security Academy TBD
-
-
-### Certifications
-TBD

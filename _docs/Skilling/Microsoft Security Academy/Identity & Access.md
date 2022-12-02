@@ -15,7 +15,3 @@ tags:
 
 ### Microsoft Entra Academy
 The Microsoft Entra Academy TBD
-
-
-### Certifications
-TBD
