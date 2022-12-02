@@ -27,6 +27,8 @@ Welcome to the Microsoft Endpoint Security Academy. Explore Microsoft endpoint s
    1. Modify the VM networking to only allow RDP connections from your IP, not everything.
    2. Do not use the user/password in the lab, use a unique value.
    3. Configure auto-shutdown to minimize costs.
+
+   
 ### Learning Path
 
 
