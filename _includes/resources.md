@@ -3,7 +3,10 @@
     Parameters:
         - include.includemethod         all/any - all=all tags must match
         - include.includetags
-  
+        - include.includesecondtags
+        - include.includethirdtags
+        - include.includefourthtags
+
     Not yet implemented:
         - include.removetags            specifies tags to hide from display on list
         - include.sortfield
@@ -26,6 +29,50 @@
 
 {% assign tagsToInclude = "" | split: ',' %}
 {% assign tagsToInclude = include.includetags | split:'|' | compact %}
+
+{% assign tagsToRemove = "" | split: ',' %}
+{% assign secondAssetsToInclude = "" | split: ',' %}
+{% assign thirdAssetsToInclude = "" | split: ',' %}
+{% assign fourthAssetsToInclude = "" | split: ',' %}
+{% assign postLimit = 0 %}
+{% assign sortField = "updated" %}
+{% assign sortOrder = "desc" %}
+{% assign showDate = "true" %}
+{% assign showTags = "true" %}
+{% assign showLink = "true" %}
+{% assign visualStyle = "normal" %}
+{% if include.includesecondtags %}
+    {% assign secondAssetsToInclude = include.includesecondtags | split:'|' | compact %}
+{% endif %}
+{% if include.includethirdtags %}
+    {% assign thirdAssetsToInclude = include.includethirdtags | split:'|' | compact %}
+{% endif %}
+{% if include.includefourthtags %}
+    {% assign fourthAssetsToInclude = include.includefourthtags | split:'|' | compact %}
+{% endif %}
+{% if include.sortfield %}
+    {% assign sortField = include.sortfield %}
+{% endif %}
+{% if include.sortorder == "asc" %}
+    {% assign sortOrder = "asc" %}
+{% endif %}
+{% if include.showdate == "false" %}
+    {% assign showDate = "false" %}
+{% endif %}
+{% if include.visualstyle == "compact" %}
+    {% assign visualStyle = "compact" %}
+{% endif %}
+{% if include.visualstyle == "tiny" %}
+    {% assign visualStyle = "tiny" %}
+{% endif %}
+{% if include.showtags == "false" %}
+    {% assign showTags = "false" %}
+{% endif %}
+{% if include.showlink == "false" %}
+    {% assign showLink = "false" %}
+{% endif %}
+
+
 
 {% capture site_tags %}
 {% for tag in site.tags %}
@@ -65,6 +112,32 @@
     {% if uniquedoctags.size == concatplans.size %}
     {% assign current_docs = current_docs | push: doc %}
     {% endif %}
+
+    {% comment %}
+        To support mingling of additional tag sets, use secondAssetsToInclude
+        and thirdAssetsToInclude to add a second/third/fourth etc set of tags to match. 
+        This allows functionality like 'doc must match tags one,two,three OR six,seven'
+    {% endcomment %}
+    {% if secondAssetsToInclude.size > 0 %}
+        {% assign concatplans = uniquedoctags | concat: secondAssetsToInclude | uniq %}
+        {% if uniquedoctags.size == concatplans.size %}
+        {% assign current_docs = current_docs | push: doc %}
+        {% endif %}
+    {% endif %}
+    {% if thirdAssetsToInclude.size > 0 %}
+        {% assign concatplans = uniquedoctags | concat: thirdAssetsToInclude | uniq %}
+        {% if uniquedoctags.size == concatplans.size %}
+        {% assign current_docs = current_docs | push: doc %}
+        {% endif %}
+    {% endif %}
+    {% if fourthAssetsToInclude.size > 0 %}
+        {% assign concatplans = uniquedoctags | concat: fourthAssetsToInclude | uniq %}
+        {% if uniquedoctags.size == concatplans.size %}
+        {% assign current_docs = current_docs | push: doc %}
+        {% endif %}
+    {% endif %}
+
+
     {% endunless %}
     {% endfor %}
 {% else %}
@@ -85,7 +158,9 @@
 {% assign uniquedoctags = doc.tags | uniq | sort %}
 <div class="tag-entry">
     <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a></div>
+    {% if showTags == "true" %}
     <div>{% for tag in uniquedoctags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
+    {% endif %}
     <div>{{ doc.description }}</div>
     {% if doc.updated %}
     <div class="docupdated">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></div>

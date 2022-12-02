@@ -197,6 +197,9 @@
         - title: Resources
           url: "skilling/modern-analytics-academy/resources"
           tag: maa resources      
+        - title: Resources 2
+          url: "skilling/modern-analytics-academy/resources2"
+          tag: maa resources 2
 - title: Skilling & Hands-on
   url: "skilling/"
   tag: workshop
