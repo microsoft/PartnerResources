@@ -26,6 +26,7 @@ Additionally, some content may be marked with one or more icons:
 ## Keeping Up
 
 * [Overview of Microsoft cloud for Financial Services](https://aka.ms/FinancialServices)
+
 * [Introducing Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=xByz3P6FlMQ)
 
 ## Fundamentals
