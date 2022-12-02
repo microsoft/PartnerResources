@@ -26,8 +26,7 @@ Additionally, some content may be marked with one or more icons:
 ## Keeping Up
 
 * [Overview of Microsoft cloud for Financial Services](https://aka.ms/FinancialServices)
-
-* [Introducing Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=xByz3P6FlMQ)![image](https://user-images.githubusercontent.com/10658684/205116647-8da5807b-ddb8-40a9-9297-abdf3078df01.png)
+* [Introducing Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=xByz3P6FlMQ)
 
 ## Fundamentals
 
@@ -35,14 +34,14 @@ Additionally, some content may be marked with one or more icons:
 * [Microsoft Cloud for Financial Services Partner Assets](https://partner.microsoft.com/en-us/asset/collection/microsoft-cloud-for-financial-services-partner-assets#/)
 * [Learning Resources: Get started with Microsoft Cloud for Financial Services](https://docs.microsoft.com/en-us/learn/paths/financial-services-in-a-day/)
 * [How to buy Microsoft Cloud for Financial Services?](https://learn.microsoft.com/en-us/industry/financial-services/buy)
-* [Demo environment: Microsoft Customer Digital Experiences | Microsoft Cloud for Financial Services](https://cdx.transform.microsoft.com/experience-detail/c3325ad2-0746-4ee1-8df3-37d2eeb07141)
+* [Demo environment: Microsoft Customer Digital Experiences for Microsoft Cloud for Financial Services](https://cdx.transform.microsoft.com/experience-detail/c3325ad2-0746-4ee1-8df3-37d2eeb07141)
 * [Roadmap: What's new and planned?](https://docs.microsoft.com/en-us/dynamics365-release-plan/2022wave1/industry-clouds/financial-services/planned-features)
 
 ## Associate
 
 * [Deployment: Microsoft Cloud Solution Center](https://solutions.microsoft.com/Microsoft%20Cloud%20for%20Financial%20Services)
-* [Request licenses for development environment](https://experience.dynamics.com/requestlicense/)
-* [30 day FSI Trial that is documented here](https://docs.microsoft.com/en-us/learn/modules/training-environment-preparation/)
+* [Request licenses for development environment (for partners only)](https://experience.dynamics.com/requestlicense/)
+* [Getting 30 day FSI Trial environment](https://docs.microsoft.com/en-us/learn/modules/training-environment-preparation/)
 * [Set up and configure Microsoft Cloud for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/configure-cloud-for-financial-services)
 * [Videos and learning resources for Microsoft Cloud for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/training-videos)
 
@@ -62,10 +61,5 @@ Additionally, some content may be marked with one or more icons:
 
 ## Community
 
-* [Microsoft Cloud for Financial Services: Create new value with deeper customer connections](https://cloudblogs.microsoft.com/industry-blog/financial-services/2022/10/26/microsoft-cloud-for-financial-services-create-new-value-with-deeper-customer-connections/)
-
-* [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/financial-services/)
-
-## Community
 * [Microsoft Cloud for Financial Services: Create new value with deeper customer connections](https://cloudblogs.microsoft.com/industry-blog/financial-services/2022/10/26/microsoft-cloud-for-financial-services-create-new-value-with-deeper-customer-connections/)
 
