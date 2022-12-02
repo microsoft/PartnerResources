@@ -6,8 +6,9 @@
         - include.includesecondtags
         - include.includethirdtags
         - include.includefourthtags
+        - include.showdescription
 
-    Not yet implemented:
+    May not be tested or implemented:
         - include.removetags            specifies tags to hide from display on list
         - include.sortfield
         - include.sortorder
@@ -41,6 +42,10 @@
 {% assign showTags = "true" %}
 {% assign showLink = "true" %}
 {% assign visualStyle = "normal" %}
+{% assign showDescription = "true" %}
+{% if include.showdescription == "false" %}
+    {% assign showDescription = "false" %}
+{% endif %}
 {% if include.includesecondtags %}
     {% assign secondAssetsToInclude = include.includesecondtags | split:'|' | compact %}
 {% endif %}
@@ -156,15 +161,34 @@
 
 {% for doc in current_docs %}
 {% assign uniquedoctags = doc.tags | uniq | sort %}
+
+{% if visualStyle == "normal" %}
 <div class="tag-entry">
     <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a></div>
     {% if showTags == "true" %}
     <div>{% for tag in uniquedoctags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
     {% endif %}
+    {% if showDescription == "true" %}
     <div>{{ doc.description }}</div>
-    {% if doc.updated %}
+    {% endif %}
+    {% if doc.updated and showDate == "true" %}
     <div class="docupdated">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></div>
     {% endif %}
 </div>
+{% elsif visualStyle == "compact" %}
+
+<div class="tag-entry" style="padding-left:25px;">
+    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a>
+    {% if doc.updated %}
+    <span class="docupdated" style="padding-left: 5px;">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
+    {% endif %}
+    </div>
+    {% if showDescription == "true" %}
+    <div>{{ doc.description }}</div>
+    {% endif %}
+</div>
+
+{% endif %}
+
 <div style="padding-bottom: 20px;"></div>
 {% endfor %}

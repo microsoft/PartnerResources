@@ -16,7 +16,7 @@ tags:
 
 Browse all data & analytics focused readiness resources below.
 
-## OLTP/OLAP database resources:
+## (Compact Style) OLTP/OLAP database resources:
 
 {% include resources.md 
     includetags="data, analytics, and ai|sql server" 
@@ -24,10 +24,13 @@ Browse all data & analytics focused readiness resources below.
     includethirdtags="data, analytics, and ai|mysql" 
     includefourthtags="data, analytics, and ai|postgres" 
     includemethod="all" 
-    showtags="false"
+    showtags="false" 
+    showdate="true" 
+    visualstyle="compact" 
+    showdescription="true"
 %}
 
-## Synapse, Databricks, and other analytical platform resources:
+## (Normal Style) Synapse, Databricks, and other analytical platform resources:
 
 {% include resources.md 
     includetags="data, analytics, and ai|synapse" 
@@ -35,14 +38,20 @@ Browse all data & analytics focused readiness resources below.
     includethirdtags="data, analytics, and ai|big data" 
     includefourthtags="data, analytics, and ai|cosmos db" 
     includemethod="all" 
-    showtags="false"
+    showtags="false" 
+    showdate="true" 
+    visualstyle="normal" 
+    showdescription="true"
 %}
 
-## Power BI and dashboards resources:
+## (Normal Style) Power BI and dashboards resources:
 
 {% include resources.md 
     includetags="power bi" 
     includesecondtags="dashboards" 
     includemethod="all" 
-    showtags="false"
+    showtags="false" 
+    showdate="true" 
+    visualstyle="normal" 
+    showdescription="true"
 %}
