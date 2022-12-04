@@ -23,7 +23,7 @@ Welcome to the Microsoft Entra Academy. Explore Microsoft Entra video sessions d
 
 
 ### Learning Path
-TBD
+*In Development*
 
 
 {% include_relative footer.md %}

@@ -20,7 +20,7 @@ Welcome to the Microsoft Security Academy! This academy is organized into five p
 
 
 ## Organization
-*Insert chart here*
+*Organizational chart in development*
 
 
 ## Important Updates

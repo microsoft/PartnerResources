@@ -17,11 +17,11 @@ Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessio
 
 
 ### Sessions
-TBD
+*In Development*
 
 
 ### Learning Path
-TBD
+*In Development*
 
 
 {% include_relative footer.md %}

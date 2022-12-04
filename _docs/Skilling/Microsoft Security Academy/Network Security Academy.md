@@ -31,7 +31,7 @@ Welcome to the Network Security Academy. Explore network security video sessions
 
 
 ### Learning Path
-TBD
+*In Development*
 
 
 {% include_relative footer.md %}

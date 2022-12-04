@@ -27,6 +27,6 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 
 
 ### Learning Path
-
+*In Development*
 
 {% include_relative footer.md %}

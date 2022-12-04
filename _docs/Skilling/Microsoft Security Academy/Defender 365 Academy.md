@@ -21,7 +21,7 @@ Welcome to the Microsoft 365 Defender Academy. Explore Microsoft 365 Defender vi
 
 
 ### Learning Path
-TBD
+*In Development*
 
 
 {% include_relative footer.md %}
