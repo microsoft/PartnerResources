@@ -63,7 +63,3 @@ tags:
 * [Microsoft Defender for Cloud Price Estimation Dashboard - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622)
 * [Microsoft Defender for Storage – Price Estimation Dashboard - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-storage-price-estimation-dashboard/ba-p/2429724)
 * [Microsoft Defender for Storage - excluding a storage account - Microsoft Docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-storage-exclude?tabs=enable-storage-protection-ps)
-
-## Certifications
-
-* [Exam SC-200: Microsoft Security Operations Analyst - Learn - Microsoft Docs](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200?tab=tab-learning-paths)
