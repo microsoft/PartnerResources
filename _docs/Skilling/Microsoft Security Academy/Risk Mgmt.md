@@ -14,4 +14,4 @@ tags:
 ## Risk Management & Privacy
 
 ### Microsoft Purview Academy
-The Microsoft Purview Academy TBD
+The Microsoft Purview Academy highlights Microsoft Purview's core capabilities of data visibility, security, and compliance. Learn how to govern sensitive data, protect data across platforms, and improve your data compliance.

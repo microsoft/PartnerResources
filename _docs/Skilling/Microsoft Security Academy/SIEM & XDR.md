@@ -14,4 +14,8 @@ tags:
 ## SIEM & XDR
 
 ### Microsoft Sentinel Academy
-The Microsoft Sentinel Academy TBD
+The Microsoft Sentinel Academy teaches you how to stop threats before they happen with Microsoft Sentinel's cloud and large-scale intelligence, making threat detection and response faster with AI. Learn how to collect data at scale or how to detect, investigate and hunt threats. Dive into training that highlights incident response with built-in orchestration, automation, and AI.
+
+
+### Microsoft 365 Defender Academy
+The Microsoft 365 Defender Academy features its enterprise defense suite that coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications. Learn about integrated Microsoft 365 Defender solutions, including Microsoft Defender for Office 365, Defender for Identity, Defender for Cloud Apps, and Defender Vulnerability Management.

@@ -14,4 +14,4 @@ tags:
 ## Identity & Access
 
 ### Microsoft Entra Academy
-The Microsoft Entra Academy TBD
+The Microsoft Entra Academy is all about effective identity and access for a modern world. As threats rise, it is vital to properly secure and manage your organization's resources, identities, and permissions. Learn how to manage permissions across enviroments, the powerful capabilities of Azure Active Directory, identity governance, identity & access lifecycles, access reviews, the critical concepts of least privilege and zero trust, and more.

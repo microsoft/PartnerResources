@@ -14,4 +14,4 @@ tags:
 ## Endpoint Security
 
 ### Microsoft Endpoint Security Academy
-The Microsoft Endpoint Security Academy TBD
+The Microsoft Endpoint Security Academy is the epicenter for your security solutions and endpoint protections. Discover how to protect your IoT/OT infrastructure with Microsoft Defender for IoT, along with how to manage threats and evolve defenses with Microsoft Defender for Endpoint. Embrace Microsoft Defender for Business's enterprise-grade protection that is simple to setup, easy to navigate, and cost effective.
