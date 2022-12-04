@@ -17,7 +17,7 @@ Welcome to the Microsoft 365 Defender Academy. Explore Microsoft 365 Defender vi
 
 
 ### Sessions
-TBD
+*In Development*
 
 
 ### Learning Path
