@@ -22,11 +22,7 @@ Welcome to the Microsoft Endpoint Security Academy. Explore Microsoft endpoint s
 
 
 ### Keeping Up
-* [Microsoft Defender for IoT Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/microsoft-defender-for-iot-ninja-training/ba-p/2428899?WT.mc_id=m365-0000-rotrent)
-* [Microsoft Defender for IoT/OT Hands-on Lab Workshop](https://github.com/mpram/Azure-Defender-for-IoT/) - with a few recommended modifications:
-   1. Modify the VM networking to only allow RDP connections from your IP, not everything.
-   2. Do not use the user/password in the lab, use a unique value.
-   3. Configure auto-shutdown to minimize costs.
+* [Microsoft Defender for IoT Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog)
 
 
 ### Learning Path

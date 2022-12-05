@@ -21,9 +21,8 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 
 
 ### Keeping Up
-* [Azure Sentinel Technical Documentation](https://docs.microsoft.com/en-us/azure/sentinel/)
-* [Security Community Webinars](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
-* [Azure Sentinel Blog Series](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
+* [Security, Compliance, and Identity Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
+* [Microsoft Sentinel Blog Series](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
 
 
 ### Learning Path

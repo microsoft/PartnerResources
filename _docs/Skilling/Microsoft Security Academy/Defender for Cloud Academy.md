@@ -30,7 +30,7 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
 
 ### Keeping Up
 * [Microsoft Defender for Cloud Monthly Newsletter](https://aka.ms/ASCNewsSubscribe)
-* [Microsoft Defender for Cloud Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bd-p/MicrosoftDefenderCloud)
+* [Microsoft Defender for Cloud Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bd-p/MicrosoftDefenderCloud)
 
 
 ### Learning Path
