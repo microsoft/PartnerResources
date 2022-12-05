@@ -1,0 +1,6 @@
+sap_icon,importsequencenumber,gilman_menugroupid,gilman_name,gilman_order,gilman_showmenu,statuscode,statecode,timezoneruleversionnumber,utcconversiontimezonecode,versionnumber,owningbusinessunit
+builtinicon:People,,7a3d29af-0c18-ed11-b83e-000d3a315dfe,Sales,1,true,Active,Active,,,3315292,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:ToolsWrench,,8bcc4110-2623-ed11-b83e-000d3a597799,Tools,5,false,Active,Active,,,3315283,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Manufacture,,5fed20bb-0c18-ed11-b83e-000d3a315dfe,Production,4,false,Active,Active,,,3315280,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Money,,05edccb5-0c18-ed11-b83e-000d3a315c79,Finance,3,false,Active,Active,,,3315278,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:ShoppingCart,,b4e223b5-0c18-ed11-b83e-000d3a315dfe,Purchasing,2,false,Active,Active,,,3315275,b52a5002-34a7-ec11-9840-000d3a5c98cc

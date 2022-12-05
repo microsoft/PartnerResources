@@ -1,0 +1,20 @@
+gilman_text,gilman_dropdownsid,gilman_id,importsequencenumber,gilman_language,gilman_name,gilman_parentvalue,statuscode,statecode,timezoneruleversionnumber,utcconversiontimezonecode,gilman_val,versionnumber,owningbusinessunit
+Plant 0001,167a0537-381f-ed11-b83e-000d3a5ace53,20,,EN,Plant,,Active,Active,,,0001,3039709,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Health Insurance,40221673-341f-ed11-b83e-000d3a5acccf,19,,EN,PurchasingGroup,HLTH,Active,Active,,,HLT,3039435,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Health Insurance,5047c901-321f-ed11-b83e-000d3a5acccf,18,,EN,PurchasingOrganization,,Active,Active,,,HLTH,3039123,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Standard Document,2361f0f1-311f-ed11-b83e-000d3a5ace53,17,,EN,PurchaseOrderType,,Active,Active,,,NB,3039116,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Finished Product,5610ae47-5af6-ec11-bb3d-6045bd00d748,16,,EN,MaterialType,,Active,Active,,,FERT,2362370,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Illinois,c149a3be-9fed-ec11-bb3d-000d3a351b1d,14,,EN,State,US,Active,Active,,,IL,2171791,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Indiana,25f51eb7-9fed-ec11-bb3d-000d3a351947,13,,EN,State,US,Active,Active,,,IN,2171789,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Canada,bcd91287-9fed-ec11-bb3d-000d3a351947,12,,EN,Country,,Active,Active,,,CA,2171761,b52a5002-34a7-ec11-9840-000d3a5c98cc
+United States,2127c77c-9fed-ec11-bb3d-000d3a351b1d,11,,EN,Country,,Active,Active,,,US,2171759,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Automobile Company,eb8aca8f-e6e8-ec11-bb3c-000d3a30a881,10,,EN,Plant,,Active,Active,,,AUTO,2093917,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Chemical Company,e208f56d-e6e8-ec11-bb3c-000d3a30a881,9,,EN,Plant,,Active,Active,,,CHEM,2093915,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Software Company,3ddc056b-e6e8-ec11-bb3c-000d3a30a6c8,8,,EN,Plant,,Active,Active,,,SOFT,2093913,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Kilogram,742ac425-e6e8-ec11-bb3c-000d3a30a881,7,,EN,Unit,,Active,Active,,,KG,2093911,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Pound,b02dd119-e6e8-ec11-bb3c-000d3a30a881,6,,EN,Unit,,Active,Active,,,LB,2093908,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Each,2d5cf804-e6e8-ec11-bb3c-000d3a30a6c8,5,,EN,Unit,,Active,Active,,,EA,2093905,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Global Sales,f261556c-e5e8-ec11-bb3c-000d3a30a881,4,,EN,SalesOrganization,,Active,Active,,,GLOB,2093899,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Consulting Order,79caef26-e5e8-ec11-bb3c-000d3a30a6c8,3,,EN,SalesOrderType,,Active,Active,,,CONS,2093897,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Hosting Order,e2564621-e5e8-ec11-bb3c-000d3a30a881,2,,EN,SalesOrderType,,Active,Active,,,HOST,2093883,b52a5002-34a7-ec11-9840-000d3a5c98cc
+Software Order,bb505802-e5e8-ec11-bb3c-000d3a30a881,1,,EN,SalesOrderType,,Active,Active,,,SOFT,2093880,b52a5002-34a7-ec11-9840-000d3a5c98cc
