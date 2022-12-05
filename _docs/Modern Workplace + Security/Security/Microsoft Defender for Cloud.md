@@ -12,12 +12,11 @@ tags:
 
 # Microsoft Defender for Cloud Readiness Resources
 
-## Associate
+## Overview
 * [Getting Started with Microsoft Defender for Cloud](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/getting-started-with-microsoft-defender-for-cloud/ba-p/3255653)
    * Walk through of enabling MDC, initial setup.
 * [Microsoft Defender for Cloud Hands-on Labs](https://aka.ms/MDFCLabs)
 * [Microsoft Defender for Cloud Community Repositories](https://github.com/Azure/Microsoft-Defender-for-Cloud)
-
 
 ## Connect GCP
 * [Connect GCP Account to Microsoft Defender for Cloud - Microsoft Docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp)
