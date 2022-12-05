@@ -3,7 +3,7 @@ layout: page
 title: Cloud Security - Microsoft Defender for Cloud Academy
 description: Microsoft Security Academy Cloud Security.
 permalink: /skilling/microsoft-security-academy/defender-academy
-updated: 2022-12-01
+updated: 2022-12-05
 showbreadcrumb: true
 tags: 
 - academy content
@@ -35,6 +35,8 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
 
 ### Learning Path
 *In Development*
+
+* [Microsoft Defender for Cloud Apps Best Practices](https://docs.microsoft.com/en-us/cloud-app-security/best-practices) (Self-Paced) (20 Minutes)
 
 
 {% include_relative footer.md %}

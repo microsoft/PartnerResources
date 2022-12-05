@@ -20,6 +20,12 @@ Welcome to the Microsoft 365 Defender Academy. Explore Microsoft 365 Defender vi
 *In Development*
 
 
+### Keeping Up
+* [Microsoft Defender for Office 365 Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bg-p/MicrosoftDefenderforOffice365Blog)
+* [Microsoft Defender for Identity Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-identity/bd-p/AzureAdvancedThreatProtection)
+* [Microsoft Defender for Cloud Apps Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bd-p/MicrosoftDefenderCloudApps)
+
+
 ### Learning Path
 *In Development*
 

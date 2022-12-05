@@ -3,7 +3,7 @@ layout: page
 title: SIEM & XDR - Microsoft Sentinel Academy
 description: Microsoft Security Academy SIEM & XDR.
 permalink: /skilling/microsoft-security-academy/sentinel-academy
-updated: 2022-12-01
+updated: 2022-12-04
 showbreadcrumb: true
 Tags:
 - academy content
@@ -22,10 +22,13 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 
 ### Keeping Up
 * [Security, Compliance, and Identity Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
-* [Microsoft Sentinel Blog Series](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
+* [Microsoft Sentinel Blog Series - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
 
 
 ### Learning Path
 *In Development*
+
+* [Quickstart: Onboard Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard) (Self-Paced) (30 Minutes)
+
 
 {% include_relative footer.md %}

@@ -2,6 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
+updated: 2022-12-05
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -24,7 +25,7 @@ Welcome to the Microsoft Security Academy! This academy is organized into five p
 
 
 ## Important Updates
-We'll update this section with our upcoming events or critical content!
+We'll update this section with our upcoming events or critical content! For other Microsoft Security content, explore the [Microsoft Security Youtube](https://www.youtube.com/@MicrosoftSecurity/featured).
 
 
 ## Security Certifications
@@ -78,6 +79,18 @@ Below you will find information about security certifications critical for learn
 * [SC-400 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/sc-400)
 * [Study Guide by Charbel Nemnom, MVP](https://charbelnemnom.com/sc-400-exam-study-guide-microsoft-information-protection-administrator/)
 * [SC-400 Learning  Path for Partners](https://partner.microsoft.com/en-us/training/assets/collection/microsoft-information-protection-administrator-sc-400#/)
+
+
+#### Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
+#### Exam Overview
+* Describe the concepts of security, compliance, and identity (10-15%)
+* Describe the capabilities of Microsoft Azure Active Directory (Azure AD), part of Microsoft Entra (25-30%)
+* Describe the capabilities of Microsoft Security solutions (25-30%)
+* Describe the capabilities of Microsoft compliance solutions (25-30%)
+
+#### Exam Resources
+* [SC-900 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/sc-900)
+* [John Savill Study Cram](https://www.youtube.com/watch?v=Bz-8jM3jg-8)
 
 
 {% include_relative footer.md %}

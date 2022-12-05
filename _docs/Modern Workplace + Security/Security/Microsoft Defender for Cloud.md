@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Defender Resources for Cloud
 description: Resources for Microsoft Defender for Cloud
-updated: 2022-05-10
+updated: 2022-12-04
 permalink: /modern-workplace/security/microsoft-defender-for-cloud
 tags:
 - learning plan
@@ -12,8 +12,8 @@ tags:
 
 # Microsoft Defender for Cloud Readiness Resources
 
-## Overview
-* [Getting Started with Microsoft Defender for Cloud](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/getting-started-with-microsoft-defender-for-cloud/ba-p/3255653)
+## Fundamentals
+* [Getting Started with Microsoft Defender for Cloud - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/getting-started-with-microsoft-defender-for-cloud/ba-p/3255653)
    * Walk through of enabling MDC, initial setup.
 * [Microsoft Defender for Cloud Hands-on Labs](https://aka.ms/MDFCLabs)
 * [Microsoft Defender for Cloud Community Repositories](https://github.com/Azure/Microsoft-Defender-for-Cloud)
