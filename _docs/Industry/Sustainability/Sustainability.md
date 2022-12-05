@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Microsoft Cloud for Sustainability Resources
+title: Microsoft Cloud for Sustainability
 description: Resources for Microsoft Cloud for Sustainability
 updated: 2022-12-01
 permalink: /industry/sustainability/sustainability-resources
