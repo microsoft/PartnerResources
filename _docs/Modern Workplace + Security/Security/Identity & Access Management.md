@@ -6,6 +6,8 @@ updated: 2022-12-05
 permalink: /modern-workplace/security/identity-and-access-management
 tags:
 - learning plan
+- modern workplace
+- security
 - microsoft security academy
 - identity and access management
 ---
@@ -31,5 +33,4 @@ tags:
 
 ## Community
 * [Azure Active Directory Identity Blog](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)
-* [Azure AD on YouTube](http://aka.ms/identityyoutube)
 

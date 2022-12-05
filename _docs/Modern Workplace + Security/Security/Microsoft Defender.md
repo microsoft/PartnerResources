@@ -8,6 +8,8 @@ redirect_from:
   - /modern-workplace/security/microsoft-defender-for-endpoint-training
 tags:
 - learning plan
+- modern workplace
+- security
 - siem & xdr
 - 365 defender
 ---

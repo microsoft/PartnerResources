@@ -6,6 +6,8 @@ updated: 2022-12-04
 permalink: /modern-workplace/security/microsoft-defender-for-cloud
 tags:
 - learning plan
+- modern workplace
+- security
 - cloud security
 - defender for cloud
 ---

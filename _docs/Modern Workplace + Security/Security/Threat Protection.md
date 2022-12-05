@@ -6,6 +6,8 @@ updated: 2022-12-05
 permalink: /modern-workplace/security/threat-protection
 tags:
 - learning plan
+- modern workplace
+- security
 - microsoft security academy
 - threat protection
 ---
