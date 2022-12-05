@@ -5,6 +5,9 @@
     </button>
   </form>  
   <nav class="collapse td-sidebar-nav pt-2 pl-4" id="td-section-nav">
+  {% comment %}
+  Order of Nav: section > entry > area > subarea
+  {% endcomment %}  
   {% for section in site.data.toc %}
     <ul class="td-sidebar-nav__section pr-md-3">
     {% capture sectionUrl %}{{ section.url | replace: "/", "" }}{% endcapture %}
@@ -16,39 +19,68 @@
           <ul class="td-sidebar-nav__section pr-md-3">
               {% for entry in section.links %}
                 {% assign sectionText = "" %}
-                {% assign isCurrentSection = false %}
+                {% assign isCurrentEntry = false %}
+                {% assign isCurrentArea = false %}
+                {% assign isCurrentSubarea = false %}
                 {% assign cleanedPage = page.url | remove: "/" %}
                 {% assign cleanedEntry = entry.url | remove: "/" %}
 
                 {% capture sectionHead %}<ul><li class="collapse show" id="sidebar_{{ child.title | slugify }}">{% endcapture %}
                 {% capture sectionTail %}</li></ul>{% endcapture %}
                 {% assign sectionText = sectionHead %}
-                {% assign childText = "" %}
+                {% assign areatext = "" %}
+                {% assign subareaText = "" %}
                 {% if entry.children %}
-                        
-                    {% for child in entry.children %}
-                      {% if child.url %}{% assign linkUrl = site.baseurl | append: "/" | append: child.url %}{% else %}{% assign linkUrl = child.external_url %}{% endif %}
-                      {% assign cleanedChild = child.url | remove: "/" %}
-                      {% if cleanedPage == cleanedChild %}
-                        {% assign isCurrentSection = true %}
-                        {% capture childFragment %}<a class="td-sidebar-link td-sidebar-link__page_strong " id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ child.title | slugify }}" href="{{ linkUrl }}">{{ child.title }}</a>{% endcapture %}
-                      {% else %}
-                        {% capture childFragment %}<a class="td-sidebar-link td-sidebar-link__page " id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ child.title | slugify }}" href="{{ linkUrl }}">{{ child.title }}</a>{% endcapture %}
+                    {% for area in entry.children %}
+
+                      {% comment %}
+                      Third level nesting - subarea
+                      {% endcomment %}     
+                      {% assign subareaText = "" %} 
+                      {% assign isCurrentSubarea = false %}
+                      {% assign isCurrentArea = false %}
+                      {% if area.children %}  
+                      {% for subarea in area.children %}
+                        {% if subarea.url %}{% assign linkUrl = site.baseurl | append: "/" | append: subarea.url %}{% else %}{% assign linkUrl = subarea.external_url %}{% endif %}
+                        {% assign cleanedChild = subarea.url | remove: "/" %}
+                        {% if cleanedPage == cleanedChild %}
+                          {% assign isCurrentSubarea = true %}
+                          {% assign isCurrentArea = true %}
+                          {% assign isCurrentEntry = true %}
+                          {% capture subareaFragment %}<a class="td-sidebar-link td-sidebar-link__page_strong " style="padding-left:10px;" id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ subarea.title | slugify }}" href="{{ linkUrl }}">{{ subarea.title }}</a>{% endcapture %}
+                        {% else %}
+                          {% assign isCurrentSubarea = false %}
+                          {% capture subareaFragment %}<a class="td-sidebar-link td-sidebar-link__page " style="padding-left:10px;" id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ subarea.title | slugify }}" href="{{ linkUrl }}">{{ subarea.title }}</a>{% endcapture %}
+                        {% endif %}
+                        {% assign subareaText = subareaText | append: subareaFragment %}
+                      {% endfor %}
                       {% endif %}
-                      {% assign childText = childText | append: childFragment %}
+
+                      {% if area.url %}{% assign linkUrl = site.baseurl | append: "/" | append: area.url %}{% else %}{% assign linkUrl = area.external_url %}{% endif %}
+                      {% assign cleanedChild = area.url | remove: "/" %}
+                      {% if cleanedPage == cleanedChild %}{% assign isCurrentArea = true %}{% endif %}
+                      {% if isCurrentArea == true %}
+                        {% assign isCurrentEntry = true %}
+                        {% capture areaFragment %}<a class="td-sidebar-link td-sidebar-link__page_strong " id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ area.title | slugify }}" href="{{ linkUrl }}">{{ area.title }}</a>{% endcapture %}
+                      {% else %}
+                        {% capture areaFragment %}<a class="td-sidebar-link td-sidebar-link__page " id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ area.title | slugify }}" href="{{ linkUrl }}">{{ area.title }}</a>{% endcapture %}
+                      {% endif %}
+                      {% assign areatext = areatext | append: areaFragment %}
+                      {% if isCurrentArea == true %}
+                        {% assign areatext = areatext | append: subareaText %}
+                      {% endif %}
                     {% endfor %}
-      
                   {% endif %}
                   
-                  {% if cleanedPage == cleanedEntry %}{% assign isCurrentSection = true %}{% endif %}
-                  {% if isCurrentSection == true %}
+                  {% if cleanedPage == cleanedEntry %}{% assign isCurrentEntry = true %}{% endif %}
+                  {% if isCurrentEntry == true %}
                     {% capture entryFragment %}<li class="td-sidebar-nav__section-title_strong"><a href="{% if entry.url %}{{ site.baseurl }}/{{ entry.url }}{% else %}{{ entry.external_url }}{% endif %}" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" style="color: #222; font-weight: 700;">{{ entry.title }}</a></li>{% endcapture %}
                   {% else %}
                     {% capture entryFragment %}<li class="td-sidebar-nav__section-title"><a href="{% if entry.url %}{{ site.baseurl }}/{{ entry.url }}{% else %}{{ entry.external_url }}{% endif %}" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">{{ entry.title }}</a></li>{% endcapture %}
                   {% endif %}
 
-                  {% if isCurrentSection == true %}
-                    {% assign sectionText = sectionText | append: childText %}
+                  {% if isCurrentEntry == true %}
+                    {% assign sectionText = sectionText | append: areatext %}
                   {% endif %}
                   {% assign sectionText = sectionText | append: sectionTail %}
                   {{ entryFragment }}
