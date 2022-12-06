@@ -36,7 +36,7 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
 ### Learning Path
 *In Development*
 
-* [Microsoft Defender for Cloud Apps Best Practices](https://docs.microsoft.com/en-us/cloud-app-security/best-practices) (Self-Paced) (20 Minutes)
+* [Microsoft Defender for Cloud Apps Best Practices](https://docs.microsoft.com/en-us/cloud-app-security/best-practices)
 
 
 {% include_relative footer.md %}

@@ -1,36 +1,28 @@
 ---
 layout: page
-title: Azure Sentinel
-description: Resources for Azure Sentinel
-updated: 2022-05-09
-permalink: /modern-workplace/security/azure-sentinel
+title: Microsoft Sentinel
+description: Resources for Microsoft Sentinel
+updated: 2022-12-06
+permalink: /modern-workplace/security/microsoft-sentinel
 tags:
 - learning plan
-- azure
 - modern workplace
-- security
-- azure sentinel
+- siem & xdr
+- sentinel
 ---
 
 # Azure Sentinel Readiness Resources
-Below you will find content to assist in upskilling on Microsoft Sentinel.
-
-## Keeping Up
-* [Azure Sentinel Technical Documentation](https://docs.microsoft.com/en-us/azure/sentinel/)
-* [Security Community Webinars](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
-* [Azure Sentinel Blog Series](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
+Below you will find content to assist in upskilling on Microsoft Sentinel. Content is organized by increasing level of complexity (Fundamentals, Associate, Expert).
 
 ## Fundamentals
-* [MSSP Whitepaper](http://aka.ms/azsentinelmssp)
-   * Great insights on how MSSPs can configure and add value to Sentinel.
-* [Azure Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
-   * New workspaces can ingest up to 10GB/day of log data for the first 31-days at no cost. Both Log Analytics data ingestion and Microsoft Sentinel charges are waived during the 31-day trial period. This free trial is subject to a 20 workspace limit per Azure tenant. See below for usage steps.
-* [Design your Microsoft Sentinel workspace architecture - Decision Tree](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
+* [Azure Sentinel Technical Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/)
+* [Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
+* [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
+* [Design your Microsoft Sentinel Workspace Architecture - Decision Tree](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
 
 
 ### How to build a demo instance
-
-Use these steps to build a demo instance; should be free for one month – see above
+Use these steps to build a demo instance; free for one month
 
 1. [Azure-Sentinel/Solutions/Training/Azure-Sentinel-Training-Lab
 at master · Azure/Azure-Sentinel · GitHub](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)

@@ -28,7 +28,7 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 ### Learning Path
 *In Development*
 
-* [Quickstart: Onboard Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard) (Self-Paced) (30 Minutes)
+* [Quickstart: Onboard Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard)
 
 
 {% include_relative footer.md %}
