@@ -7,6 +7,7 @@ permalink: /modern-workplace/security/microsoft-sentinel
 tags:
 - learning plan
 - modern workplace
+- security
 - siem & xdr
 - sentinel
 ---
