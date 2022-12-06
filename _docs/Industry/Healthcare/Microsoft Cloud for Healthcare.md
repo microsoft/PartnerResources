@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Cloud for Healthcare
 description: Resources for Microsoft Cloud for Healthcare
-updated: 2022-10-24
+updated: 2022-12-01
 permalink: /industry/healthcare/microsoft-cloud-healthcare
 tags:
 - learning plan
@@ -68,6 +68,9 @@ Additionally, some content may be marked with one or more icons:
 
 { Add certifications that may apply. Visit https://docs.microsoft.com/en-us/learn/certifications/ as a starting point.  You may include links to training classes and related resources related to certifications.  }
 
+## Resources
+
+* [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/)
 
 ## Community
 

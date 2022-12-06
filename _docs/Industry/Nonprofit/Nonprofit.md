@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Nonprofit Resources
-description: Resources for Nonprofits
-updated: 2021-12-01
+title: Microsoft Cloud for Nonprofit
+description:  Microsoft Cloud for Nonprofit Resources
+updated: 2022-12-01
 permalink: /industry/nonprofit/nonprofit-resources
 tags:
 - learning plan
@@ -31,7 +31,7 @@ Additionally, some content may be marked with one or more icons:
 
 ## Fundamentals
 
-* [Microsoft CLoud for Nonprofit](https://nonprofit.microsoft.com/en-us/getting-started)
+* [Microsoft Cloud for Nonprofit](https://nonprofit.microsoft.com/en-us/getting-started)
     * Getting started with Microsoft Cloud for Nonprofit
 
 ## Associate
@@ -55,8 +55,8 @@ Additionally, some content may be marked with one or more icons:
 
 ## Resources
 
-* [Microsoft CLoud for Nonprofit](https://www.microsoft.com/en-us/nonprofits/microsoft-cloud-for-nonprofit)
-    * General overview
+* [Microsoft Cloud for Nonprofit](https://www.microsoft.com/en-us/nonprofits/microsoft-cloud-for-nonprofit)
+* [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/)
 
 ## Community
 

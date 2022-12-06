@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Sustainability Resources
+title: Microsoft Cloud for Sustainability
+description: Resources for Microsoft Cloud for Sustainability
+updated: 2022-12-01
 permalink: /industry/sustainability/sustainability-resources
 tags:
 - learning plan
@@ -29,8 +31,8 @@ Additionally, some content may be marked with one or more icons:
 
 { Add fundamental/beginner/high level items here; generally applicable to all audiences }
 
-* [Example Microsoft Home Page Link](https://www.microsoft.com)
-    * This is description of the content
+* [Welcome to Microsoft Cloud for Sustainability](https://www.microsoft.com/en-us/sustainability/cloud)
+    * Accelerate your sustainability journey
 
 ## Associate
 
@@ -51,6 +53,9 @@ Additionally, some content may be marked with one or more icons:
 
 { Add certifications that may apply. Visit https://docs.microsoft.com/en-us/learn/certifications/ as a starting point.  You may include links to training classes and related resources related to certifications.  }
 
+## Resources
+
+* [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/)
 
 ## Community
 

@@ -67,15 +67,15 @@ The learning resources will not be a deep dive into how to support and develop i
 |                              |                              |                              |
 |------------------------------|------------------------------|------------------------------|
 | **Resource**	| **Level** | **Training Assets URL**|
-| Local| 100|https://www.youtube.com/watch?v=CtX0GZpWz6M&list=PLLasX02E8BPCL966bJ00oIeOhm7w5ejvt&index=11&ab_channel=MicrosoftAzure|
-|| 200|https://devblogs.microsoft.com/python/enhance-your-azure-machine-learning-experience-with-the-vs-code-extension/|
-|| 300 |https://github.com/Azure/MachineLearningNotebooks/blob/master/tutorials/image-classification-mnist-data/img-classification-part1-training.ipynb|
-| Remote Azure VM| 100|https://www.youtube.com/watch?v=YJePRMYCTOM&ab_channel=MicrosoftDeveloper|
-|| 200|https://github.com/Azure/azureml-examples/blob/main/tutorials/azureml-in-a-day/azureml-in-a-day.ipynb|
-|| 300 |https://azure.github.io/azureml-cheatsheets/docs/cheatsheets/python/v1/cheatsheet|
-| ML.NET| 100|https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?context=azure%2Fmachine-learning%2Fcontext%2Fml-context#mlnet|
-|| 200|https://www.youtube.com/watch?v=THVD4nzi8vk&ab_channel=dotnet|
-|| 300 |https://learn.microsoft.com/en-us/dotnet/machine-learning/tutorials/?WT.mc_id=dotnet-35129-website|
+| Local| 100| [Fundamentals of machine learning in the cloud](https://www.youtube.com/watch?v=CtX0GZpWz6M&list=PLLasX02E8BPCL966bJ00oIeOhm7w5ejvt&index=11&ab_channel=MicrosoftAzure) |
+|| 200|[Enhance your Azure Machine Learning experience with the VS Code extension](https://devblogs.microsoft.com/python/enhance-your-azure-machine-learning-experience-with-the-vs-code-extension/)|
+|| 300 |[Train an image classification model with Azure Machine Learning](https://github.com/Azure/MachineLearningNotebooks/blob/master/tutorials/image-classification-mnist-data/img-classification-part1-training.ipynb)|
+| Remote Azure VM| 100|[Supercharge Your Azure ML Development Through Visual Studio Code](https://www.youtube.com/watch?v=YJePRMYCTOM&ab_channel=MicrosoftDeveloper)|
+|| 200|[AzureML in a Day](https://github.com/Azure/azureml-examples/blob/main/tutorials/azureml-in-a-day/azureml-in-a-day.ipynb)|
+|| 300 |[Machine Learning Cheat Sheet](https://azure.github.io/azureml-cheatsheets/docs/cheatsheets/python/v1/cheatsheet)|
+| ML.NET| 100|[ML.NET Comparison Sheet](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?context=azure%2Fmachine-learning%2Fcontext%2Fml-context#mlnet)|
+|| 200|[On .NET Live - Adding Machine Learning to your .NET Apps with ML .NET](https://www.youtube.com/watch?v=THVD4nzi8vk&ab_channel=dotnet)|
+|| 300 |[ML.NET tutorialsi](https://learn.microsoft.com/en-us/dotnet/machine-learning/tutorials/?WT.mc_id=dotnet-35129-website)|
 
 
 
@@ -96,15 +96,15 @@ The learning resources will not be a deep dive into how to support and develop i
 |                              |                              |                              |
 |------------------------------|------------------------------|------------------------------|
 | **Resource**	| **Level** | **Training Assets URL**|
-| Local Web Service| 100|https://youtu.be/n8h6_Expf38|
-|| 200|https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-custom-container?tabs=cli|
-|| 300 |https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/deployment/deploy-to-local/register-model-deploy-local.ipynb|
-| Remote VM| 100|https://www.youtube.com/watch?v=WZ7vS10KPAw&ab_channel=MicrosoftAzure|
-|| 200|https://learn.microsoft.com/en-us/azure/machine-learning/concept-onnx|
-|| 300 |https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/deployment/production-deploy-to-aks/production-deploy-to-aks.ipynb|
-| Windows ML| 100|https://learn.microsoft.com/en-us/windows/ai/|
-|| 200|https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/mlnet-intro|
-|| 300 |https://learn.microsoft.com/en-us/windows/ai/windows-ml/samples|
+| Local Web Service| 100|[How do you deploy a machine learning model as a web service within Azure?](https://youtu.be/n8h6_Expf38)|
+|| 200|[Deploy a TensorFlow model served with TF Serving using a custom container in an online endpoint](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-custom-container?tabs=cli)|
+|| 300 |[Register model and deploy locally](https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/deployment/deploy-to-local/register-model-deploy-local.ipynb)|
+| Remote VM| 100|[Model deployment and inferencing with Azure Machine Learning](https://www.youtube.com/watch?v=WZ7vS10KPAw&ab_channel=MicrosoftAzure)|
+|| 200|[ONNX and Azure Machine Learning: Create and accelerate ML models](https://learn.microsoft.com/en-us/azure/machine-learning/concept-onnx)|
+|| 300 |[Deploying a web service to Azure Kubernetes Service (AKS)](https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/deployment/production-deploy-to-aks/production-deploy-to-aks.ipynb)|
+| Windows ML| 100|[Windows AI](https://learn.microsoft.com/en-us/windows/ai/)|
+|| 200|[Image Classification with ML.NET and Windows Machine Learning](https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/mlnet-intro)|
+|| 300 |[Windows Machine Learning Samples](https://learn.microsoft.com/en-us/windows/ai/windows-ml/samples)|
 
 
 
@@ -129,25 +129,24 @@ The learning resources will not be a deep dive into how to support and develop i
 |                              |                              |                              |
 |------------------------------|------------------------------|------------------------------|
 | **Resource**	| **Level** | **Training Assets URL**|
-| DS VM| 100|https://learn.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview|
-|| 200|https://learn.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/how-to-track-experiments||
-| SA Spark Pools| 100|https://www.youtube.com/watch?v=XI_nwAu5WUY&list=PLLasX02E8BPCL966bJ00oIeOhm7w5ejvt&index=7&ab_channel=MicrosoftAzure|
-|| 200|https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-mllib-notebook|
-|| 300 |https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/azure-synapse|
-| SA Workspace| 100|https://www.youtube.com/watch?v=xf3Lej-MWCk&ab_channel=MicrosoftDeveloper|
-|| 200|https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/what-is-machine-learning|
-|| 300 |https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-automl|
-| AML Notebooks| 100|https://www.youtube.com/watch?v=AAj-Fz0uCNk&ab_channel=MicrosoftDeveloper|
-|| 200|https://learn.microsoft.com/en-us/azure/machine-learning/samples-notebooks|
-|| 300 |https://www.youtube.com/watch?v=O5bePha5RiY&t=947s&ab_channel=MicrosoftDeveloper|
-| AML Attached Compute| 100||
-|| 200||
-|| 300 ||
-| Databricks| 100|https://learn.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks-ml|
-|| 200|https://learn.microsoft.com/en-us/azure/databricks/machine-learning/tutorial/|
-|| 300 |https://learn.microsoft.com/en-us/azure/databricks/machine-learning/train-model/|
-| HDInsights| 100|https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-overview|
-|| 200|https://learn.microsoft.com/en-gb/training/paths/build-oss-analytical-solutions-az-hdinsight/||
+| DSVM| 100|[Data Science VIrtual Machine Overview (DSVM)](https://learn.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview)|
+|| 200|[Data Science Tools on DSVM](https://learn.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/tools-included)||
+|| 300|[Samples on the DSVM](https://learn.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-samples-and-walkthroughs)||
+| Synapse Analytics Workspace| 100|[Machine Learning Experiences in Azure Synapse](https://www.youtube.com/watch?v=xf3Lej-MWCk&ab_channel=MicrosoftDeveloper)|
+|| 200|[Cognitive Services in Azure Synapse ANalytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/overview-cognitive-services)||
+|| 300 |[Train ML model without code](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-automl)||
+| Synapse Analytics Spark Pools| 100|[Synapse Analytics Spark Pools Overview](https://www.youtube.com/watch?v=SPOQzcbTgvQ&t=136s)||
+|| 200|[Apache Spark MLLib running on Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-mllib-notebook)||
+|| 300 |[SynapseML running on Synapse Analytics Spark Pools](https://github.com/microsoft/SynapseML#synapse-analytics)||
+| AML Notebooks| 100|[Azure Machine Learning Studio Notebooks](https://www.youtube.com/watch?v=AAj-Fz0uCNk&ab_channel=MicrosoftDeveloper)|
+|| 200|[How to run Jupyter notebooks on AML](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks)||
+|| 300 |[Image Classification Using Notebooks in AML](https://www.youtube.com/watch?v=O5bePha5RiY&t=947s&ab_channel=MicrosoftDeveloper)||
+| AML Compute| 100|[Learn how to utilize right compute for AML Training jobs](https://www.youtube.com/watch?v=_N8RXm2QrrM&ab_channel=MicrosoftAzure)|
+|| 200|[What is an Azure Machine Learning Compute instance](https://learn.microsoft.com/en-us/azure/machine-learning/concept-compute-instance)|
+|| 300 |[AML Training Compute Targets](https://learn.microsoft.com/en-us/azure/machine-learning/concept-compute-target#training-compute-targets)|
+| Databricks| 100|[Azure Databricks Overview](https://learn.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks-ml)|
+|| 200|[Deploy models for inference and prediction](https://learn.microsoft.com/en-us/azure/databricks/machine-learning/model-inference/)||
+|| 300 |[Model training examples](https://learn.microsoft.com/en-us/azure/databricks/machine-learning/train-model/)||
 
 
 ## Managed Environment
@@ -159,12 +158,10 @@ Here are the Azure Services that support AI & ML workloads
 1.  Applied AI
 2.	Cognitive SErvices
 3.	SQL Server Machine Learning Service
-4.  SQL Server Machine Learning Big Data Clusters
 5.  Azure SQL Managed Instance
 6.  AML Inference Cluster
 7.  AML Attached Compute
 8.  AML Managed Endpoints
-9.  Azure Data Lake Analytics
 10. Azure Batch
 11.  SQL Edge
 12.  IoT Edge
@@ -174,30 +171,25 @@ The learning resources will not be a deep dive into how to support and develop i
 |                              |                              |                              |
 |------------------------------|------------------------------|------------------------------|
 | **Resource**	| **Level** | **Training Assets URL**|
-| Applied AI| 100|https://www.youtube.com/watch?v=M6wxdYQrAnQ&ab_channel=MicrosoftDeveloper|
-|| 200|https://www.youtube.com/watch?v=45we8bNPsBc&ab_channel=MicrosoftDeveloper|
-|| 300 |https://learn.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/tutorial-logic-apps|
-| Cognitive Services| 100|https://learn.microsoft.com/en-us/azure/cognitive-services/cognitive-services-development-options|
-|| 200|https://learn.microsoft.com/en-us/azure/cognitive-services/cognitive-services-development-options|
-|| 300 |https://www.youtube.com/watch?time_continue=22&v=gw3d9ouGKWU&feature=emb_logo&ab_channel=MicrosoftAzure|
-| SQL Server ML Svc| 100|https://learn.microsoft.com/en-us/sql/machine-learning/sql-server-machine-learning-services?view=sql-server-ver16|
-| SQL Server Big Data Clusters| 100|https://learn.microsoft.com/en-us/sql/big-data-cluster/machine-learning-services?view=sql-server-ver15&viewFallbackFrom=sql-server-ver16|
-| Azure SQL Managed Instance| 100|https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/machine-learning-services-overview?view=azuresql|
-|| 200|https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/machine-learning-services-differences?view=azuresql|
-|| 300 |https://learn.microsoft.com/en-us/sql/machine-learning/tutorials/python-ski-rental-linear-regression?view=azuresqldb-mi-current|
-| AML Inference Clusters| 100|https://learn.microsoft.com/en-us/azure/machine-learning/how-to-create-attach-compute-cluster?tabs=python|
-| AML Managed Endpoint| 100||
-|| 200||
-|| 300 ||
-| Data Lake Analytics| 100||
-|| 200||
-|| 300 ||
-| Azure Batch| 100||
-|| 200||
-|| 300 ||
-| SQL Edge| 100|https://www.youtube.com/watch?v=QkuJs7S8e6w&ab_channel=MicrosoftDeveloper|
-|| 200|https://learn.microsoft.com/en-us/azure/azure-sql-edge/deploy-onnx|
-|| 300 ||
-| IoT Edge| 100||
-|| 200|https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-machine-learning-edge-01-intro?source=recommendations&view=iotedge-2018-06|
-|| 300 ||
+| Applied AI| 100|[Azure Applied AI Services Overview](https://www.youtube.com/watch?v=M6wxdYQrAnQ&ab_channel=MicrosoftDeveloper)|
+|| 200|[Prebuilt AI models in customer applications](https://www.youtube.com/watch?v=45we8bNPsBc&ab_channel=MicrosoftDeveloper)|
+|| 300 |[Form Recognizer Tutorial](https://learn.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/tutorial-logic-apps)|
+| Cognitive Services| 100|[Getting Started with Cognitive Services](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/integrating-ai-best-practices-and-resources-to-get-started-with/ba-p/2271522)|
+|| 200|[Cognitive Services Development Option](https://learn.microsoft.com/en-us/azure/cognitive-services/cognitive-services-development-options)|
+|| 300 |[Cognitive Services Containers](https://learn.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support)|
+| SQL Server ML Svc| 100|[SQL Server & Machine Learning Service Overview](https://learn.microsoft.com/en-us/sql/machine-learning/sql-server-machine-learning-services?view=sql-server-ver16)|
+| Azure SQL Managed Instance| 100|[Machine Learning Services in Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/machine-learning-services-overview?view=azuresql)|
+|| 200|[Key Differences in Managed Instance and SQL Server](https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/machine-learning-services-differences?view=azuresql)|
+|| 300 |[Linear Regression tutuorial for Managed Instance](https://learn.microsoft.com/en-us/sql/machine-learning/tutorials/python-ski-rental-linear-regression?view=azuresqldb-mi-current)|
+| AML Inference Compute| 100|[Model Deployment and Inferencing in AML](https://www.youtube.com/watch?v=WZ7vS10KPAw&ab_channel=MicrosoftAzure)|
+|| 200|[Compute Targets for Inference](https://learn.microsoft.com/en-us/azure/machine-learning/concept-compute-target#compute-targets-for-inference)|
+|| 300 |[Attach AKS to Azure ML Workspace](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-attach-kubernetes-to-workspace?source=recommendations&tabs=cli)|
+| AML Managed Endpoint| 100|[AML Endpoint Overview](https://learn.microsoft.com/en-us/azure/machine-learning/concept-endpoint)|
+|| 200|[Score model with online endpoint](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-managed-online-endpoints?tabs=azure-cli)|
+|| 300 |[AML in a Day Tutorial](https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day)|
+| SQL Edge| 100|[What is Azure SQL Edge](https://www.youtube.com/watch?v=QkuJs7S8e6w&ab_channel=MicrosoftDeveloper)|
+|| 200 |[Machine Learning on the SQL Edge](https://learn.microsoft.com/en-us/azure/azure-sql-edge/onnx-overview)|
+|| 300|[Deploy ONNX model TO SQL Edge](https://learn.microsoft.com/en-us/azure/azure-sql-edge/deploy-onnx)|
+| IoT Edge| 100|[Audio on the Vision AI DevKit](https://learn.microsoft.com/en-us/shows/internet-of-things-show/use-audio-on-the-vision-ai-devkit)|
+|| 200 |[Vision Developer Kit for Audio Processing](https://github.com/ksaye/vision-ai-developer-kit-audio/tree/master/documentation)|
+|| 300|[End to End Tutorial for AML and IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-machine-learning-edge-01-intro?source=recommendations&view=iotedge-2018-06)|
