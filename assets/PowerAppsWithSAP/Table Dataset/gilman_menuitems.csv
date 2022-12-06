@@ -1,0 +1,30 @@
+gilman_icon,importsequencenumber,gilman_menuitemid,gilman_name,gilman_order,gilman_screen,statuscode,statecode,timezoneruleversionnumber,gilman_url,utcconversiontimezonecode,versionnumber,gilman_menugroup,owningbusinessunit
+builtinicon:Hamburger,,1f7db27c-2623-ed11-b83e-000d3a59760c,Configure Menu,3,,Active,Active,,,,3124427,8bcc4110-2623-ed11-b83e-000d3a597799,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Airplane,,0abd049a-2623-ed11-b83e-000d3a597799,API Explorer,4,,Active,Active,,,,3124424,8bcc4110-2623-ed11-b83e-000d3a597799,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:ArrowDown,,8fce6f50-2623-ed11-b83e-000d3a597799,Drop Downs,2,,Active,Active,,,,3124420,8bcc4110-2623-ed11-b83e-000d3a597799,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:People,,2a24022b-2623-ed11-b83e-000d3a597799,Roles,1,,Active,Active,,,,3124417,8bcc4110-2623-ed11-b83e-000d3a597799,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:ShoppingCart,,6bc76dd5-0d18-ed11-b83e-000d3a315c79,Sales Orders,3,,Active,Active,,,,3041516,7a3d29af-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:ShoppingCart,,2bdd1c86-1918-ed11-b83e-000d3a315dfe,Purchase Orders,3,,Active,Active,,,,3041514,b4e223b5-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:ToolsWrench,,f67c0167-1a18-ed11-b83e-000d3a315c79,Work Orders,5,,Active,Active,,,,3035509,5fed20bb-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:OfficeBuilding,,65ab3174-1918-ed11-b83e-000d3a315dfe,Vendors,1,,Active,Active,,,,3035507,b4e223b5-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Currency,,440e0898-1918-ed11-b83e-000d3a315dfe,Vendor Payments,6,,Active,Active,,,,3035506,b4e223b5-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:ListScrollWatchlist,,68c70f92-1918-ed11-b83e-000d3a315dfe,Vendor Invoices,5,,Active,Active,,,,3035504,b4e223b5-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:ArrowUp,,117bd609-1a18-ed11-b83e-000d3a315c79,Upload Journal Entries,6,,Active,Active,,,,3035503,05edccb5-0c18-ed11-b83e-000d3a315c79,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Train,,18bd3570-1a18-ed11-b83e-000d3a315dfe,Shipments,6,,Active,Active,,,,3035501,5fed20bb-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Currency,,6c95ceeb-1918-ed11-b83e-000d3a315c79,Cash Application,2,,Active,Active,,,,3035499,05edccb5-0c18-ed11-b83e-000d3a315c79,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Money,,403fb2f7-1918-ed11-b83e-000d3a315dfe,Cost Centers,4,,Active,Active,,,,3035497,05edccb5-0c18-ed11-b83e-000d3a315c79,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:ListScrollWatchlist,,31577159-1818-ed11-b83e-000d3a315dfe,Customer Invoices,5,,Active,Active,,,,3035495,7a3d29af-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Currency,,bfc5db5b-1818-ed11-b83e-000d3a315c79,Customer Payments,6,,Active,Active,,,,3035494,7a3d29af-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:People,,2992284a-1818-ed11-b83e-000d3a315dfe,Customers,1,,Active,Active,,,,3035492,7a3d29af-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Train,,9b5f5a83-1818-ed11-b83e-000d3a315dfe,Deliveries,4,,Active,Active,,,,3035490,7a3d29af-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Transportation,,f57c0167-1a18-ed11-b83e-000d3a315c79,Equipment,4,,Active,Active,,,,3035488,5fed20bb-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Post,,6595ceeb-1918-ed11-b83e-000d3a315c79,Financial Postings,1,,Active,Active,,,,3035487,05edccb5-0c18-ed11-b83e-000d3a315c79,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Notebook,,2af7d5f6-1918-ed11-b83e-000d3a315c79,GL Accounts,3,,Active,Active,,,,3035485,05edccb5-0c18-ed11-b83e-000d3a315c79,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Export,,081d285a-1a18-ed11-b83e-000d3a315c79,Goods Movements,3,,Active,Active,,,,3035483,5fed20bb-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Tray,,ac83178c-1918-ed11-b83e-000d3a315dfe,Goods Receipts,4,,Active,Active,,,,3035481,b4e223b5-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Money,,c748ac67-1818-ed11-b83e-000d3a315c79,Mass Update Pricing,7,,Active,Active,,,,3035480,7a3d29af-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Items,,d035584c-1a18-ed11-b83e-000d3a315dfe,Materials,2,,Active,Active,,,,3035478,5fed20bb-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:Manufacture,,65f15f46-1a18-ed11-b83e-000d3a315dfe,Production Orders,1,,Active,Active,,,,3035476,5fed20bb-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:TrendingUpwards,,12e328fe-1918-ed11-b83e-000d3a315dfe,Profit Centers,5,,Active,Active,,,,3035474,05edccb5-0c18-ed11-b83e-000d3a315c79,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:DocumentWithContent,,f1029350-1818-ed11-b83e-000d3a315c79,Quotes,2,,Active,Active,,,,3035471,7a3d29af-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
+builtinicon:ListScrollWatchlist,,53982480-1918-ed11-b83e-000d3a315dfe,Requisitions,2,,Active,Active,,,,3035469,b4e223b5-0c18-ed11-b83e-000d3a315dfe,b52a5002-34a7-ec11-9840-000d3a5c98cc
