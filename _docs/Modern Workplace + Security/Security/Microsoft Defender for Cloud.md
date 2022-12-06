@@ -17,7 +17,6 @@ Below you will find content to assist in upskilling on Microsoft Defender for Cl
 
 ## Fundamentals
 * [Getting Started with Microsoft Defender for Cloud - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/getting-started-with-microsoft-defender-for-cloud/ba-p/3255653)
-   * Walk through of enabling MDC, initial setup.
 * [Microsoft Defender for Cloud Hands-on Labs](https://aka.ms/MDFCLabs)
 * [Microsoft Defender for Cloud Community Repositories](https://github.com/Azure/Microsoft-Defender-for-Cloud)
 
