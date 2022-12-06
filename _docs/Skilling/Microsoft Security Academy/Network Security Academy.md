@@ -33,5 +33,7 @@ Welcome to the Network Security Academy. Explore network security video sessions
 ### Learning Path
 *In Development*
 
+* [Azure Network Security Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101)
+
 
 {% include_relative footer.md %}

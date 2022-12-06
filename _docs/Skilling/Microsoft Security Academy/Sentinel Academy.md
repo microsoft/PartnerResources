@@ -21,6 +21,7 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 
 
 ### Keeping Up
+* [Join the Security Community - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888)
 * [Security, Compliance, and Identity Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
 * [Microsoft Sentinel Blog Series - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
 

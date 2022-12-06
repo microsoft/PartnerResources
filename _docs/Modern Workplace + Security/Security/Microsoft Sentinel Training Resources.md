@@ -18,71 +18,54 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
 * [Azure Sentinel Technical Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/)
 * [Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
-* [Design your Microsoft Sentinel Workspace Architecture - Decision Tree](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
+* [Azure Sentinel Wiki](https://github.com/Azure/Azure-Sentinel/wiki)
 
 
 ### How to build a demo instance
 Use these steps to build a demo instance; free for one month
 
-1. [Azure-Sentinel/Solutions/Training/Azure-Sentinel-Training-Lab
-at master · Azure/Azure-Sentinel · GitHub](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
-   * Initial setup - includes dummy data
-2. [Deploy and monitor Azure Key Vault honeytokens with Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/monitor-key-vault-honeytokens?tabs=deploy-at-scale)
-   * Optional, but useful
-3. [Connect your AWS account to Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws?pivots=env-settings)
-   * Optional, but useful
-4. [Connect security alerts to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud)
-   * Defender for Cloud Connector
-5. [Alert validation in Microsoft Defender for Cloud - Microsoft Docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/alert-validation)
-   * Sample security alerts
-6. [Send AAD logs to the workspace](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/howto-integrate-activity-logs-with-log-analytics#send-logs-to-azure-monitor)
-7. [Connect Azure Active Directory data to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
-8. [Connect Microsoft Sentinel to Amazon Web Services to ingest AWS service log data](https://docs.microsoft.com/en-us/azure/sentinel/connect-aws?tabs=ct)
-9. [Possible additional dummy data](https://github.com/OTRF/Microsoft-Sentinel2Go)
-   * GitHub - OTRF/Microsoft-Sentinel2Go: Microsoft Sentinel2Go is an open source project developed to expedite the deployment of a Microsoft Sentinel research lab.
-10. [Sample CEF Data into Azure Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-sample-cef-data-into-azure-sentinel/ba-p/1064158)
+1. [Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
+   * Initial Setup ("Dummy Data")
+2. [Deploy & Monitor Azure Key Vault Honeytokens with Microsoft Sentinel - Microsofts Docs](https://docs.microsoft.com/en-us/azure/sentinel/monitor-key-vault-honeytokens?tabs=deploy-at-scale)
+   * Optional *but useful*
+3. [Connect AWS Accounts to Microsoft Defender for Cloud - Microsofts Docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws?pivots=env-settings)
+   * Optional *but useful*
+4. [Connect Microsoft Defender for Cloud alerts to Microsoft Sentinel - Microsofts Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud)
+   * Microsoft Defender for Cloud Connector
+5. [Alert Validation in Microsoft Defender for Cloud - Microsoft Docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/alert-validation)
+   * Used for Sample Security Alerts
+6. [Send logs to Azure Monitor - Microsoft Docs](https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/howto-integrate-activity-logs-with-log-analytics#send-logs-to-azure-monitor)
+7. [Connect Azure Active Directory (Azure AD) Data to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
+8. [Connect Microsoft Sentinel to AWS to Ingest AWS Service Log Data - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-aws?tabs=ct)
+9. [Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)
+   * Microsoft Sentinel To-Go is an open source project developed to expedite the deployment of a Microsoft Sentinel lab along with other resources for research purposes. (More "Dummy Data")
 
 ## Associate
-
-* [Join the Security Community - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888)
-* [Azure Sentinel Wiki - GitHub](https://github.com/Azure/Azure-Sentinel/wiki)
-* Exam SC-200: Microsoft Security Operations Analyst - Microsoft Docs[](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200?tab=tab-learning-paths)
-* [Workspace architecture best practices for Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/best-practices-workspace-architecture)
-* [Design your Microsoft Sentinel workspace architecture - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture)
-* [Sample Microsoft Sentinel workspace designs - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/sample-workspace-designs)
-* [Azure Network Security Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101)
-* [Microsoft Sentinel introduces enhancements in machine learning and productivity at Ignite 2021 - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-introduces-enhancements-in-machine-learning/ba-p/2897871)
-* [Behind the Scenes: The ML Approach for Detecting Advanced Multistage Attacks with Sentinel Fusion - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/behind-the-scenes-the-ml-approach-for-detecting-advanced/ba-p/3239236)
-* [Find your Microsoft Sentinel data connector - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
-* [Resources for creating Microsoft Sentinel custom connectors - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/create-custom-connector#compare-custom-connector-methods)
-* [Enrich incidents using entity mapping](https://docs.microsoft.com/en-us/azure/sentinel/entities#entity-mapping)
-   * Map the data fields in the various connector tables to Sentinel recognized entities; this will also help when grouping alerts into incidents.
+* [Microsoft Sentinel Workspace Architecture Best Practices  - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/best-practices-workspace-architecture)
+* [Design your Microsoft Sentinel Workspace Architecture - Decision Tree](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
+* [Microsoft Sentinel Sample Workspace Designs - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/sample-workspace-designs)
+* [Find your Microsoft Sentinel Data Connector - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
+* [Resources for Creating Microsoft Sentinel Custom Connectors - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector#compare-custom-connector-methods)
 * [Ingest, Archive, Search, and Restore Data in Microsoft Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-archive-search-and-restore-data-in-microsoft-sentinel/ba-p/3195126)
+* [Behind the Scenes: The ML Approach for Detecting Advanced Multistage Attacks with Sentinel Fusion - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/behind-the-scenes-the-ml-approach-for-detecting-advanced/ba-p/3239236)
 
-### Build a SOC and operationalize Security Operations
 
+### Build an SOC & Operationalize Security Operations
 * [What's New: Azure Sentinel - SOC Process Framework Workbook - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-soc-process-framework-workbook/ba-p/2339315)
 * [SOC Process Framework Overview - YouTube](https://www.youtube.com/watch?v=RnPMwy7AoS0&amp;list=PL3sJcHWKYIVPhCDIdZjVueLIkAfXijylG)
 
 ### Agents Resources
-
-* [Overview of the Azure Connected Machine Agent - Azure Arc - Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-arc/servers/agent-overview)
-* [Connect hybrid machines to Azure at scale - Azure Arc - Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-arc/servers/onboard-service-principal)
-* [Install the Azure Monitor agent - Azure Monitor - Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-install?tabs=ARMAgentPowerShell%2CPowerShellWindows%2CPowerShellWindowsArc%2CCLIWindows%2CCLIWindowsArc)
-* [Data Collection Rules in Azure Monitor (preview) - Azure Monitor - Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-rule-overview) 
-   * Ability to filter out only the required security data
-* [Azure Monitor service limits - Azure Monitor - Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-monitor/service-limits#data-collection-rules)
-* [We're retiring the Log Analytics agent in Azure Monitor on 31 August 2024](https://azure.microsoft.com/en-us/updates/were-retiring-the-log-analytics-agent-in-azure-monitor-on-31-august-2024/)
+* [Overview of the Azure Connected Machine Agent (Azure Arc) - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-arc/servers/agent-overview)
+* [Connect Hybrid Machines to Azure at Scale (Azure Arc)-  Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-arc/servers/onboard-service-principal)
+* [Azure Monitor Agent Overview - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
 
 ### KQL
-
 * [GitHub - reprise99/Sentinel-Queries: Collection of KQL queries](https://github.com/reprise99/Sentinel-Queries)
 * [GitHub - rod-trent/MustLearnKQL: Code included as part of the MustLearnKQL blog series](https://github.com/rod-trent/MustLearnKQL)
 * [KQL Cheat Sheet — MB Secure](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet)
 * [Advanced KQL Framework Workbook - Empowering you to become KQL-savvy - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766)
 
 ### ADX
-
    * [Start for free using Azure Data Explorer - Microsoft Docs](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free) Free cluster, you just need a Microsoft Identity. 100GB, up to 10 DBs, up to 100 tables per DB, up to 200 columns per table. Free for 1 year, but can be extended.
    * [Azure Data Explorer in 60 minutes with the new samples gallery - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-in-60-minutes-with-the-new-samples-gallery/ba-p/3447552)
 
