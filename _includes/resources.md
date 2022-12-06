@@ -16,7 +16,7 @@
         - include.showtags
         - include.showlink              show/hide deep link to content, default "true"
         - include.target                specify a target like target="_blank"
-        - include.visualstyle           normal / compact / tiny
+        - include.visualstyle           normal / compact / tiny / others
         - include.limit                 limit of number to display (no pagination support)
         - include.includesecondtags
         - include.includethirdtags
@@ -64,11 +64,8 @@
 {% if include.showdate == "false" %}
     {% assign showDate = "false" %}
 {% endif %}
-{% if include.visualstyle == "compact" %}
-    {% assign visualStyle = "compact" %}
-{% endif %}
-{% if include.visualstyle == "tiny" %}
-    {% assign visualStyle = "tiny" %}
+{% if include.visualstyle %}
+    {% assign visualStyle = include.visualstyle %}
 {% endif %}
 {% if include.showtags == "false" %}
     {% assign showTags = "false" %}
@@ -162,7 +159,22 @@
 {% for doc in current_docs %}
 {% assign uniquedoctags = doc.tags | uniq | sort %}
 
-{% if visualStyle == "normal" %}
+{% if visualStyle == "compact" %}
+<div class="tag-entry" style="padding-left:25px;">
+    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a>
+    {% if doc.updated %}
+    <span class="docupdated" style="padding-left: 5px;">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
+    {% endif %}
+    </div>
+    {% if showDescription == "true" %}
+    <div>{{ doc.description }}</div>
+    {% endif %}
+</div>
+
+{% else %}
+{% comment %}
+    Assume the visualstyle is "normal" if not matching any other
+{% endcomment %}
 <div class="tag-entry">
     <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a></div>
     {% if showTags == "true" %}
@@ -175,19 +187,6 @@
     <div class="docupdated">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></div>
     {% endif %}
 </div>
-{% elsif visualStyle == "compact" %}
-
-<div class="tag-entry" style="padding-left:25px;">
-    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a>
-    {% if doc.updated %}
-    <span class="docupdated" style="padding-left: 5px;">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
-    {% endif %}
-    </div>
-    {% if showDescription == "true" %}
-    <div>{{ doc.description }}</div>
-    {% endif %}
-</div>
-
 {% endif %}
 
 <div style="padding-bottom: 20px;"></div>
