@@ -21,7 +21,7 @@
         - include.showtags
         - include.showlink              show/hide deep link to content, default "true"
         - include.target                specify a target like target="_blank"
-        - include.visualstyle           normal / compact / tiny
+        - include.visualstyle           normal / compact / tiny / others
         - include.limit                 limit of number to display (no pagination support)
         - include.includesecondtags
         - include.includethirdtags
@@ -38,6 +38,7 @@
         - "normal" (default)
         - "compact" (titles/tags/dates/description)
         - "tiny" (for long lists)
+        - others as needed
 
 {% endcomment %}
 
@@ -91,11 +92,8 @@
     {% if include.showdate == "false" %}
         {% assign showDate = "false" %}
     {% endif %}
-    {% if include.visualstyle == "compact" %}
-       {% assign visualStyle = "compact" %}
-    {% endif %}
-    {% if include.visualstyle == "tiny" %}
-       {% assign visualStyle = "tiny" %}
+    {% if include.visualstyle %}
+       {% assign visualStyle = include.visualstyle %}
     {% endif %}
     {% if include.showtags == "false" %}
        {% assign showTags = "false" %}
@@ -133,11 +131,8 @@
     {% if page.showdate == "false" %}
         {% assign showDate = "false" %}
     {% endif %}
-    {% if page.visualstyle == "compact" %}
-       {% assign visualStyle = "compact" %}
-    {% endif %}
-    {% if page.visualstyle == "tiny" %}
-       {% assign visualStyle = "tiny" %}
+    {% if page.visualstyle %}
+       {% assign visualStyle = page.visualstyle %}
     {% endif %}
     {% if page.showtags == "false" %}
        {% assign showTags = "false" %}
@@ -277,7 +272,47 @@
 {% endfor %}
 {% assign filteredtags = filteredtags | uniq | sort %}
 
-{% if visualStyle == "normal" %}
+{% if visualStyle == "compact" %}
+<div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
+    <div>
+        {% if showLink == "true" %}
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+        {% else %}
+            <span class="nav-entry">{{ doc.title }}</span> 
+        {% endif %}
+        {% if doc.updated and showDate == "true" %}
+            <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
+        {% endif %}
+    </div>
+    {% if showTags == "true" %}
+    <div style="padding-bottom: 5px;">{% for tag in filteredtags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
+    {% endif %}
+    <div>
+    {{ doc.description }} 
+    </div>
+</div>
+<div style="clear:both; padding-top: 15px; padding-bottom: 0px;">
+</div>
+
+{% elsif visualStyle == "tiny" %}
+<div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
+    <div>
+        {% if showLink == "true" %}
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+        {% else %}
+            <span class="nav-entry">{{ doc.title }}</span> 
+        {% endif %}
+        {% if doc.updated and showDate == "true" %}
+            <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
+        {% endif %}
+    </div>
+</div>
+<div style="clear:both; padding-top: 5px; padding-bottom: 0px;">
+</div>
+{% else %}
+{% comment %}
+    Assume the visualstyle is "normal" if not matching any other
+{% endcomment %}
 <div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
     <div>
         {% if showLink == "true" %}
@@ -302,47 +337,7 @@
     {% endif %}
     </div>
 </div>
-
 <div style="clear:both; padding-top: 20px; padding-bottom: 0px;">
-<hr/>
-</div>
-{% elsif visualStyle == "compact" %}
-<div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
-    <div>
-        {% if showLink == "true" %}
-            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
-        {% else %}
-            <span class="nav-entry">{{ doc.title }}</span> 
-        {% endif %}
-        {% if doc.updated and showDate == "true" %}
-            <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
-        {% endif %}
-    </div>
-    {% if showTags == "true" %}
-    <div style="padding-bottom: 5px;">{% for tag in filteredtags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
-    {% endif %}
-    <div>
-    {{ doc.description }} 
-    </div>
-</div>
-
-<div style="clear:both; padding-top: 15px; padding-bottom: 0px;">
-</div>
-
-{% elsif visualStyle == "tiny" %}
-<div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
-    <div>
-        {% if showLink == "true" %}
-            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
-        {% else %}
-            <span class="nav-entry">{{ doc.title }}</span> 
-        {% endif %}
-        {% if doc.updated and showDate == "true" %}
-            <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
-        {% endif %}
-    </div>
-</div>
-<div style="clear:both; padding-top: 5px; padding-bottom: 0px;">
-</div>
+<hr/></div>
 {% endif %}
 {% endfor %}
