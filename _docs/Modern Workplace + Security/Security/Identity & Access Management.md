@@ -13,6 +13,7 @@ tags:
 ---
 
 # Identity & Access Management Readiness Resources
+Below you will find content to assist in upskilling on Identity & Access Management. Content is organized by increasing level of complexity (Fundamentals, Associate, Expert).
 
 ## Fundamentals
 * [Azure Active Directory Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/)
@@ -30,7 +31,4 @@ tags:
 * [Microsoft Identity Platform Documentation - Microsoft Learn](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
 * [Microsoft Identity Platform Best Practices and Recommendations - Microsoft Learn](https://docs.microsoft.com/en-us/azure/active-directory/develop/identity-platform-integration-checklist)
 * [Enable a Combined MFA and SSPR Registration Experience in Azure AD](https://mslearn.cloudguides.com/en-us/guides/Enable%20a%20combined%20MFA%20and%20SSPR%20registration%20experience%20in%20Azure%20AD)
-
-## Community
-* [Azure Active Directory Identity Blog](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)
 

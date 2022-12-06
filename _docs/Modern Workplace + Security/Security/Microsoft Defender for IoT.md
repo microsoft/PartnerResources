@@ -12,6 +12,7 @@ tags:
 ---
 
 # Microsoft Defender for IoT Readiness Resources
+Below you will find content to assist in upskilling on Microsoft Defender for IoT.
 
 ## Fundamentals
 * [Microsoft Defender for IoT Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/microsoft-defender-for-iot-ninja-training/ba-p/2428899?WT.mc_id=m365-0000-rotrent)

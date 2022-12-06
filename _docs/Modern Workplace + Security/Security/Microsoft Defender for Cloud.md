@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Microsoft Defender Resources for Cloud
+title: Microsoft Defender for Cloud Resources
 description: Resources for Microsoft Defender for Cloud
 updated: 2022-12-04
 permalink: /modern-workplace/security/microsoft-defender-for-cloud
@@ -13,6 +13,7 @@ tags:
 ---
 
 # Microsoft Defender for Cloud Readiness Resources
+Below you will find content to assist in upskilling on Microsoft Defender for Cloud.
 
 ## Fundamentals
 * [Getting Started with Microsoft Defender for Cloud - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/getting-started-with-microsoft-defender-for-cloud/ba-p/3255653)

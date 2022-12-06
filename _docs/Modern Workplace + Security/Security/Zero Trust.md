@@ -13,6 +13,7 @@ tags:
 ---
 
 # Zero Trust Readiness Resources
+Below you will find content to assist in upskilling on zero trust concepts and principles.
 
 ## Fundamentals
 * [Zero Trust Business Overview](https://www.microsoft.com/en-us/security/business/zero-trust) (Self-Paced) (5 Minutes)

@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2022-12-05
+updated: 2022-12-06
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -11,7 +11,7 @@ showbreadcrumb: true
 
 {% include_relative header.md %}
 
-Welcome to the Microsoft Security Academy! This academy is organized into five primary categories (Cloud Security, Identity & Access, Endpoint Security, SIEM & XDR, and Risk Management & Privacy), all of which include detailed academies incorporating video sessions, demonstrations, learning paths, related certifications, and other related materials. The resources are created by architects across the GPSUS security-aligned team who are experts in their field. The overall objective of the academies it to help you all scale in learning and grow in experience.
+Welcome to the Microsoft Security Academy! This academy is organized into five primary categories (Cloud Security, Identity & Access, Endpoint Security, SIEM & XDR, and Risk Management & Privacy), all of which include academies incorporating video sessions, demonstrations, learning paths, certifications, and other related materials. The resources are created by architects across the GPSUS security-aligned team who are experts in their field. The overall objective of the academies it to help you all scale in learning and grow in experience.
 
 * [Cloud Security](/PartnerResources/skilling/microsoft-security-academy/cloud-security): Microsoft Defender for Cloud Academy, Azure Network Security Academy
 * [Identity & Access](/PartnerResources/skilling/microsoft-security-academy/identity-access): Microsoft Entra Academy
@@ -25,7 +25,7 @@ Welcome to the Microsoft Security Academy! This academy is organized into five p
 
 
 ## Important Updates
-We'll update this section with our upcoming events or critical content! For other Microsoft Security content, explore the [Microsoft Security Youtube](https://www.youtube.com/@MicrosoftSecurity/featured).
+We'll update this section with our upcoming events or critical content! For other Microsoft Security content, explore the [Microsoft Security Youtube](https://www.youtube.com/@MicrosoftSecurity/featured) or the [Microsoft Security Community YouTube](https://www.youtube.com/channel/UCGTUbqE3SJiLgtvWjIkSQuQ). For documentation, explore the [Microsoft Security Technical Content Library](https://www.microsoft.com/en-us/security/content-library/Home/Index?culture=en-US).
 
 
 ## Security Certifications
@@ -79,6 +79,17 @@ Below you will find information about security certifications critical for learn
 * [SC-400 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/sc-400)
 * [Study Guide by Charbel Nemnom, MVP](https://charbelnemnom.com/sc-400-exam-study-guide-microsoft-information-protection-administrator/)
 * [SC-400 Learning  Path for Partners](https://partner.microsoft.com/en-us/training/assets/collection/microsoft-information-protection-administrator-sc-400#/)
+
+
+#### Microsoft 365 Security Administration (MS-500)
+#### Exam Overview
+* Implement and manage identity and access (25-30%)
+* Implement and manage threat protection (30-35%)
+* Implement and manage information protection (15-20%)
+* Manage compliance in Microsoft 365 (20-25%)
+
+#### Exam Resources
+* [MS-500 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/ms-500)
 
 
 #### Microsoft Security, Compliance, and Identity Fundamentals (SC-900)

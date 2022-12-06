@@ -13,11 +13,15 @@ tags:
 ---
 
 # Threat Protection Readiness Resources
+Below you will find content to assist in upskilling on Threat Protection. Content is organized by increasing level of complexity (Fundamentals, Associate, Expert).
 
 ## Fundamentals
 * [What is Microsoft Defender for Identity?](https://docs.microsoft.com/en-us/azure-advanced-threat-protection/what-is-atp) (Self-Paced) (5 Minutes)
-* [Advanced Threat Analytics Suspicious Activity Guide](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide) (Self-Paced) (30 Minutes)
+* [Advanced Threat Analytics Suspicious Activity Guide - Microsoft Docs](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide) (Self-Paced) (30 Minutes)
 
 ## Associate
-* [Deploy Microsoft Defender for Identity with Microsoft 365 Defender](https://docs.microsoft.com/en-us/azure-advanced-threat-protection/atp-mcas-integration) (Self-Paced) (10 Minutes)
-* [Design a holistic monitoring strategy on Azure](https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/) (Self-Paced) (60 Minutes)
+* [Deploy Microsoft Defender for Identity with Microsoft 365 Defender - Microsoft Docs](https://docs.microsoft.com/en-us/azure-advanced-threat-protection/atp-mcas-integration) (Self-Paced) (10 Minutes)
+* [Design a holistic monitoring strategy on Azure - Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/) (Self-Paced) (60 Minutes)
+
+## Expert
+*In Development*

@@ -15,6 +15,7 @@ tags:
 ---
 
 # Microsoft Defender Readiness Resources
+Below you will find content to assist in upskilling on Microsoft Defender. Content is organized into fundamentals then by product or solution area.
 
 ## Fundamentals
 * [Microsoft Defender for Endpoint Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
@@ -46,9 +47,6 @@ tags:
 
 ## Defender for IoT
 See [Defender for IoT](/PartnerResources/modern-workplace/security/microsoft-defender-for-iot)
-
-## Information Protection
-* [Microsoft Information Protection (MIP) Ninja Training - October 2021 - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-information-protection-mip-ninja-training-is-here/ba-p/2887478?WT.mc_id=m365-0000-rotrent)
 
 ## Compliance Manager
 * [Microsoft Compliance Manager (MSCM) Ninja Training - February 2022 - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-compliance-manager-mscm-ninja-training-q1-2022/ba-p/3181322#:~:text=Microsoft%20Compliance%20Manager%20%28MSCM%29%20Ninja%20Training%3A%20Q1%202022,Compliance%20Score%20Calculation%20%203%20more%20rows%20)
