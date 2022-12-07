@@ -36,7 +36,14 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
 ### Learning Path
 *In Development*
 
-* [Microsoft Defender for Cloud Apps Best Practices](https://docs.microsoft.com/en-us/cloud-app-security/best-practices)
+{% include resources.md 
+    includetags="defender for cloud resources" 
+    includemethod="all" 
+    showtags="false" 
+    showdate="true" 
+    visualstyle="compact" 
+    showdescription="true"
+%}
 
 
 {% include_relative footer.md %}
