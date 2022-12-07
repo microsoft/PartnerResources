@@ -6,14 +6,14 @@ updated: 2022-12-07
 permalink: /modern-workplace/security/microsoft-sentinel
 tags:
 - learning plan
-- modern workplace
 - security
+- microsoft security academy
 - siem & xdr
-- sentinel
+- sentinel resources
 ---
 
-# Azure Sentinel Readiness Resources
-Below you will find content to assist in upskilling on Microsoft Sentinel. Content is organized by increasing level of complexity (Fundamentals, Associate) followed by other critical resources.
+# Microsoft Sentinel Readiness Resources
+Below you will find content to assist in upskilling on Microsoft Sentinel. Content is organized by increasing levels of complexity (Fundamentals, Associate) followed by other associated critical resources.
 
 ## Fundamentals
 * [Microsoft Sentinel Technical Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/)
