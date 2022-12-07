@@ -5,6 +5,7 @@ description: Resources for Zero Trust
 updated: 2022-12-07
 permalink: /modern-workplace/security/zero-trust
 tags:
+- modern workplace
 - security
 - microsoft security academy
 - zero trust resources

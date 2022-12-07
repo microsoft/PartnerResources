@@ -7,6 +7,7 @@ permalink: /modern-workplace/security/microsoft-defender
 redirect_from:
   - /modern-workplace/security/microsoft-defender-for-endpoint-training
 tags:
+- modern workplace
 - security
 - microsoft security academy
 - siem & xdr

@@ -5,7 +5,7 @@ description: Resources for Microsoft Sentinel
 updated: 2022-12-07
 permalink: /modern-workplace/security/microsoft-sentinel
 tags:
-- learning plan
+- modern workplace
 - security
 - microsoft security academy
 - siem & xdr

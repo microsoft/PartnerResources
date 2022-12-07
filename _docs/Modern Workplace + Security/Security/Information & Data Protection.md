@@ -5,6 +5,7 @@ description: Resources for Information and Data Protection
 updated: 2022-12-07
 permalink: /modern-workplace/security/information-and-data-protection
 tags:
+- modern workplace
 - security
 - microsoft security academy
 - information & data protection resources
