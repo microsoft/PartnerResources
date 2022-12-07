@@ -46,4 +46,24 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
 %}
 
 
+{% include resources.md 
+    includetags="defender for cloud resources"
+    includemethod="all" 
+    showtags="false" 
+    showdate="true" 
+    visualstyle="normal" 
+    showdescription="true"
+%}
+
+
+{% include resources.md 
+    includetags="defender for cloud resources" 
+    includemethod="all" 
+    showtags="false" 
+    showdate="true" 
+    visualstyle="normal" 
+    showdescription="true"
+%}
+
+
 {% include_relative footer.md %}
