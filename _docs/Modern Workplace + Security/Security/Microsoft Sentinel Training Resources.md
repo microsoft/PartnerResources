@@ -21,7 +21,7 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
 * [Microsoft Sentinel Wiki](https://github.com/Azure/Azure-Sentinel/wiki)
 
-### Building a Demo. Instance
+#### Building a Demo. Instance
 Use these steps to build a demo instance; free for one month
 
 1. [Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
@@ -49,28 +49,28 @@ Use these steps to build a demo instance; free for one month
 * [Behind the Scenes: The ML Approach for Detecting Advanced Multistage Attacks with Sentinel Fusion - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/behind-the-scenes-the-ml-approach-for-detecting-advanced/ba-p/3239236)
 
 
-### Build an SOC & Operationalize Security Operations
+#### Build an SOC & Operationalize Security Operations
 * [What's New: Azure Sentinel - SOC Process Framework Workbook - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-soc-process-framework-workbook/ba-p/2339315)
 * [SOC Process Framework Overview - YouTube](https://www.youtube.com/watch?v=RnPMwy7AoS0&amp;list=PL3sJcHWKYIVPhCDIdZjVueLIkAfXijylG)
 
-### Agents Resources
+#### Agents Resources
 * [Overview of the Azure Connected Machine Agent (Azure Arc) - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-arc/servers/agent-overview)
 * [Connect Hybrid Machines to Azure at Scale (Azure Arc)-  Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-arc/servers/onboard-service-principal)
 * [Azure Monitor Agent Overview - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
 
-### KQL
+#### KQL
 * [KQL for Microsoft Sentinel Lab & Queries](https://github.com/reprise99/Sentinel-Queries)
 * [MustLearnKQL Blog Series](https://github.com/rod-trent/MustLearnKQL)
 * [Advanced KQL Framework Workbook - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766)
 
-### ADX
+#### ADX
    * [What is a free Azure Data Explorer cluster? - Microsoft Docs](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free)
    * [Azure Data Explorer in 60 minutes with new Samples Gallery - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-in-60-minutes-with-the-new-samples-gallery/ba-p/3447552)
 
-### Notebooks
+#### Notebooks
 * [Becoming a Microsoft Sentinel Notebooks Ninja - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491)
 
-### Migration
+#### Migration
 * [Plan Migration to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/migration)
 * [Microsoft Sentinel Migration: Select Target Azure Platform for Exported Data](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
 * [Microsoft Sentinel Migration: Select Data Ingestion Tool](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
@@ -78,19 +78,19 @@ Use these steps to build a demo instance; free for one month
 * [Azure Sentinel Side-by-Side with QRadar - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-qradar/ba-p/1488333)
 * [Azure Sentinel Side-by-Side with Splunk - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-splunk/ba-p/1211266)
 
-### Build Solutions & Other Contributions
+#### Build Solutions & Other Contributions
 * [Guide to Building Microsoft Sentinel Solutions](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions#guide-to-building-microsoft-sentinel-solutions)
 
-### Risk IQ Integration
+#### Risk IQ Integration
 * [RiskIQ Illuminate Content Hub Solution within Microsoft Sentinel – My Faber Security](https://myfabersecurity.com/2022/03/04/riskiq-illuminate-content-hub-solution-within-microsoft-sentinel/)
 
-### Repositories
+#### Repositories
 * [Enable Continuous Deployment Natively with Microsoft Sentinel Repositories - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enable-continuous-deployment-natively-with-microsoft-sentinel/ba-p/2929413)
 
-### Storage options
+#### Storage options
 * [Refer to Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
 
-### Costs
+#### Costs
 * [Plan Costs and Microsoft Sentinel Pricing and Billing - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/billing?tabs=commitment-tier#free-data-sources)
 * [Microsoft Sentinel Cost Calculator](https://cloudpartners.transform.microsoft.com/download?assetname=assets/Azure_Sentinel_Calculator.xlsx&download=1)
 * [Microsoft Sentinel Benefit for Microsoft 365 E5, A5, F5, and G5 customers](https://azure.microsoft.com/en-us/offers/sentinel-microsoft-365-offer/)
