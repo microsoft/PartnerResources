@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2022-12-06
+updated: 2022-12-07
 permalink: /modern-workplace/security/microsoft-sentinel
 tags:
 - learning plan
@@ -16,7 +16,7 @@ tags:
 Below you will find content to assist in upskilling on Microsoft Sentinel. Content is organized by increasing level of complexity (Fundamentals, Associate) followed by other critical resources.
 
 ## Fundamentals
-* [Azure Sentinel Technical Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/)
+* [Microsoft Sentinel Technical Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/)
 * [Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
 * [Microsoft Sentinel Wiki](https://github.com/Azure/Azure-Sentinel/wiki)
@@ -30,15 +30,15 @@ Use these steps to build a demo instance; free for one month
    * *Optional*
 3. [Connect AWS Accounts to Microsoft Defender for Cloud - Microsofts Docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws?pivots=env-settings)
    * *Optional*
-4. [Connect Microsoft Defender for Cloud alerts to Microsoft Sentinel - Microsofts Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud)
+4. [Connect Microsoft Defender for Cloud Alerts to Microsoft Sentinel - Microsofts Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud)
    * Microsoft Defender for Cloud Connector
 5. [Alert Validation in Microsoft Defender for Cloud - Microsoft Docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/alert-validation)
    * Used for Sample Security Alerts
-6. [Send logs to Azure Monitor - Microsoft Docs](https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/howto-integrate-activity-logs-with-log-analytics#send-logs-to-azure-monitor)
+6. [Send Logs to Azure Monitor - Microsoft Docs](https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/howto-integrate-activity-logs-with-log-analytics#send-logs-to-azure-monitor)
 7. [Connect Azure Active Directory (Azure AD) Data to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
 8. [Connect Microsoft Sentinel to AWS to Ingest AWS Service Log Data - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-aws?tabs=ct)
 9. [Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)
-   * Microsoft Sentinel To-Go is an open source project developed to expedite the deployment of a Microsoft Sentinel lab along with other resources for research purposes. (More "Dummy Data")
+   * Microsoft Sentinel To-Go is an open source project developed to expedite the deployment of a Microsoft Sentinel lab along with other resources for research purposes. (i.e., more "Dummy Data")
 
 ## Associate
 * [Microsoft Sentinel Workspace Architecture Best Practices  - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/best-practices-workspace-architecture)
@@ -64,8 +64,8 @@ Use these steps to build a demo instance; free for one month
 * [Advanced KQL Framework Workbook - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766)
 
 #### ADX
-   * [What is a free Azure Data Explorer cluster? - Microsoft Docs](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free)
-   * [Azure Data Explorer in 60 minutes with new Samples Gallery - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-in-60-minutes-with-the-new-samples-gallery/ba-p/3447552)
+   * [What is a free Azure Data Explorer Cluster? - Microsoft Docs](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free)
+   * [Azure Data Explorer in 60 minutes with Samples - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-in-60-minutes-with-the-new-samples-gallery/ba-p/3447552)
 
 #### Notebooks
 * [Becoming a Microsoft Sentinel Notebooks Ninja - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491)
@@ -75,8 +75,6 @@ Use these steps to build a demo instance; free for one month
 * [Microsoft Sentinel Migration: Select Target Azure Platform for Exported Data](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
 * [Microsoft Sentinel Migration: Select Data Ingestion Tool](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
 * [Best Practices for Migrating Detection Rules from ArcSight, Splunk and QRadar - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/best-practices-for-migrating-detection-rules-from-arcsight/ba-p/2216417)
-* [Azure Sentinel Side-by-Side with QRadar - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-qradar/ba-p/1488333)
-* [Azure Sentinel Side-by-Side with Splunk - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-splunk/ba-p/1211266)
 
 #### Build Solutions & Other Contributions
 * [Guide to Building Microsoft Sentinel Solutions](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions#guide-to-building-microsoft-sentinel-solutions)
@@ -91,6 +89,5 @@ Use these steps to build a demo instance; free for one month
 * [Refer to Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
 
 #### Costs
-* [Plan Costs and Microsoft Sentinel Pricing and Billing - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/billing?tabs=commitment-tier#free-data-sources)
+* [Plan Costs and Microsoft Sentinel Pricing and Billing - Microsoft Learn](https://learn.microsoft.com/en-us/azure/sentinel/billing?tabs=commitment-tier#free-data-sources)
 * [Microsoft Sentinel Cost Calculator](https://cloudpartners.transform.microsoft.com/download?assetname=assets/Azure_Sentinel_Calculator.xlsx&download=1)
-* [Microsoft Sentinel Benefit for Microsoft 365 E5, A5, F5, and G5 customers](https://azure.microsoft.com/en-us/offers/sentinel-microsoft-365-offer/)
