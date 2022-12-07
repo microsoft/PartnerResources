@@ -27,7 +27,7 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 
 
 ### Learning Path
-See the Microsoft Sentinel Readiness Resources.
+See the Microsoft Sentinel Readiness Resources:
 
 {% include resources.md 
     includetags="sentinel resources"
