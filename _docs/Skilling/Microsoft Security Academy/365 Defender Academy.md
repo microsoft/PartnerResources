@@ -27,7 +27,16 @@ Welcome to the Microsoft 365 Defender Academy. Explore Microsoft 365 Defender vi
 
 
 ### Learning Path
-*In Development*
+See the Microsoft 365 Defender Resources:
+
+{% include resources.md 
+    includetags="365 defender resources"
+    includemethod="all" 
+    showtags="false" 
+    showdate="true" 
+    visualstyle="normal" 
+    showdescription="true"
+%}
 
 
 {% include_relative footer.md %}

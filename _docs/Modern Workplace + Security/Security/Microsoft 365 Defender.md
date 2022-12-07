@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Microsoft Defender Resources
-description: Resources for Microsoft Defender
+title: Microsoft 365 Defender Resources
+description: Resources for Microsoft 365 Defender
 updated: 2022-12-07
 permalink: /modern-workplace/security/microsoft-defender
 redirect_from:
@@ -14,7 +14,7 @@ tags:
 - 365 defender resources
 ---
 
-# Microsoft Defender Readiness Resources
+# Microsoft 365 Defender Readiness Resources
 Below you will find content to assist in upskilling on Microsoft Defender. Content is organized by product or solution area.
 
 ## Defender for Endpoint
