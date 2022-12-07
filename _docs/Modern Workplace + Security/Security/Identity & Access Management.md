@@ -5,7 +5,7 @@ description: Resources for Identity and Access Management
 updated: 2022-12-07
 permalink: /modern-workplace/security/identity-and-access-management
 tags:
-- modern workplace
+- learning plan
 - security
 - microsoft security academy
 - identity and access management resources

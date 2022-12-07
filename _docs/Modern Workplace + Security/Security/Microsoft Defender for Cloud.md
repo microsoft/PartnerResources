@@ -5,7 +5,7 @@ description: Resources for Microsoft Defender for Cloud
 updated: 2022-12-07
 permalink: /modern-workplace/security/microsoft-defender-for-cloud
 tags:
-- modern workplace
+- learning plan
 - security
 - cloud security
 - microsoft security academy

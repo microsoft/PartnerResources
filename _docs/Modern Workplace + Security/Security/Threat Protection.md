@@ -5,7 +5,7 @@ description: Resources for Microsoft Threat Protection
 updated: 2022-12-07
 permalink: /modern-workplace/security/threat-protection
 tags:
-- modern workplace
+- learning plan
 - security
 - microsoft security academy
 - threat protection resources
