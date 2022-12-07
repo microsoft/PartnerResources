@@ -16,7 +16,7 @@ tags:
 Below you will find content to assist in upskilling on Microsoft Sentinel. Content is organized by increasing levels of complexity (Fundamentals, Associate) followed by other associated critical resources.
 
 ## Fundamentals
-* [Microsoft Sentinel Technical Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/)
+* [Microsoft Sentinel Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/)
 * [Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
 * [Microsoft Sentinel Wiki](https://github.com/Azure/Azure-Sentinel/wiki)

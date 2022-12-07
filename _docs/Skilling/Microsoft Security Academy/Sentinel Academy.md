@@ -27,9 +27,16 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 
 
 ### Learning Path
-*In Development*
+See the Microsoft Sentinel Readiness Resources.
 
-* [Quickstart: Onboard Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard)
+{% include resources.md 
+    includetags="sentinel resources"
+    includemethod="all" 
+    showtags="false" 
+    showdate="true" 
+    visualstyle="normal" 
+    showdescription="true"
+%}
 
 
 {% include_relative footer.md %}
