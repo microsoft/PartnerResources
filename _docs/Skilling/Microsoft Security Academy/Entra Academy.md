@@ -3,7 +3,7 @@ layout: page
 title: Identity & Access - Microsoft Entra Academy
 description: Microsoft Security Academy Identity & Access Management.
 permalink: /skilling/microsoft-security-academy/entra-academy
-updated: 2022-12-05
+updated: 2022-12-08
 showbreadcrumb: true
 Tags:
 - academy content
@@ -27,7 +27,27 @@ Welcome to the Microsoft Entra Academy. Explore Microsoft Entra video sessions d
 
 
 ### Learning Path
-*In Development*
+See the Identity & Access Management Readiness Resources:
+
+{% include resources.md 
+    includetags="identity and access management resources"
+    includemethod="all" 
+    showtags="false" 
+    showdate="true" 
+    visualstyle="normal" 
+    showdescription="true"
+%}
+
+See the Zero Trust Readiness Resources for further upskilling:
+
+{% include resources.md 
+    includetags="zero trust resources"
+    includemethod="all" 
+    showtags="false" 
+    showdate="true" 
+    visualstyle="normal" 
+    showdescription="true"
+%}
 
 
 {% include_relative footer.md %}

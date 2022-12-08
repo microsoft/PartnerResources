@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2022-12-07
+updated: 2022-12-08
 permalink: /modern-workplace/security/microsoft-sentinel
 tags:
 - learning plan
@@ -43,6 +43,7 @@ Use these steps to build a demo instance; free for one month
 ## Associate
 * [Microsoft Sentinel Workspace Architecture Best Practices  - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/best-practices-workspace-architecture)
 * [Design your Microsoft Sentinel Workspace Architecture - Microsoft Learn](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
+* [Microsoft 365 Defender Integration with Microsoft Sentinel](https://learn.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender-integration-with-azure-sentinel?view=o365-worldwide)
 * [Find your Microsoft Sentinel Data Connector - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
 * [Resources for Creating Microsoft Sentinel Custom Connectors - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector#compare-custom-connector-methods)
 * [Ingest, Archive, Search, and Restore Data in Microsoft Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-archive-search-and-restore-data-in-microsoft-sentinel/ba-p/3195126)
