@@ -28,7 +28,7 @@ See the Microsoft Purview Readiness Resources:
     includemethod="all" 
     showtags="false" 
     showdate="true" 
-    visualstyle="compact" 
+    visualstyle="normal" 
     showdescription="true"
 %}
 
