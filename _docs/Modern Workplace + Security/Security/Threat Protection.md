@@ -22,7 +22,7 @@ Below you will find content to assist in upskilling on Threat Protection. Conten
 * [Advanced Threat Analytics Suspicious Activity Guide - Microsoft Docs](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide)
 
 ## Associate
-* [Investigate and Respond with Microsoft 365 Defender](https://learn.microsoft.com/en-us/microsoft-365/security/defender/incident-response-overview?view=o365-worldwide)
+* [Investigate and Respond with Microsoft 365 Defender - Microsoft Docs](https://learn.microsoft.com/en-us/microsoft-365/security/defender/incident-response-overview?view=o365-worldwide)
 * [Manage Endpoint Security in Microsoft Intune - Microsoft Docs](https://learn.microsoft.com/en-us/mem/intune/protect/endpoint-security?view=o365-worldwide)
 * [Deploy Microsoft Defender for Identity with Microsoft 365 Defender - Microsoft Docs](https://docs.microsoft.com/en-us/azure-advanced-threat-protection/atp-mcas-integration)
 * [Design a Holistic Monitoring Strategy on Azure - Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/)

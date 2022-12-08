@@ -24,10 +24,7 @@ Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessio
 See the Microsoft Purview Readiness Resources:
 
 {% include resources.md 
-    includetags="azure" 
-    includesecondtags="data, analytics, and ai" 
-    includethirdtags="learning plan" 
-    includefourthtags="purview" 
+    includetags="purview resources"
     includemethod="all" 
     showtags="false" 
     showdate="true" 

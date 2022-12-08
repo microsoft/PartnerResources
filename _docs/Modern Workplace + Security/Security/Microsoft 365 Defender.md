@@ -19,8 +19,8 @@ Below you will find content to assist in upskilling on Microsoft Defender. Conte
 
 ## Defender for Endpoint
 * [Microsoft Defender for Endpoint Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
-* [Matt Soseman's Microsoft Defender for Endpoint Training Videos](https://youtube.com/playlist?list=PLhTS5hnNCfqcrHsntM1f88WVV-UmxOEmD)
 * [Mitigate Threats using Microsoft Defender for Endpoint - Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/)
+* [Matt Soseman's Microsoft Defender for Endpoint Training Videos - YouTube](https://youtube.com/playlist?list=PLhTS5hnNCfqcrHsntM1f88WVV-UmxOEmD)
 * [Updated March 2022: Ultimate Comparison of Defender for Endpoint Features by Operating System](https://campbell.scot/march-22-defender-for-endpoint-feature-comparison/)
 
 ## Defender for Office
