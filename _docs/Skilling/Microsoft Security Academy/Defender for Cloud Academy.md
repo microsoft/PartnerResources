@@ -44,6 +44,7 @@ See the Microsoft Defender for Cloud Readiness Resources:
     visualstyle="normal" 
     showdescription="true"
 %}
+
 See the Information & Data Protection Readiness Resources for further upskilling:
 
 {% include resources.md 
@@ -54,6 +55,7 @@ See the Information & Data Protection Readiness Resources for further upskilling
     visualstyle="normal" 
     showdescription="true"
 %}
+
 See the Threat Protection Readiness Resources for further upskilling:
 
 {% include resources.md 

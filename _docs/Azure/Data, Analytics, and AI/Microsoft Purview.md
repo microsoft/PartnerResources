@@ -11,6 +11,7 @@ tags:
 - data, analytics, and ai
 - learning plan
 - purview
+- purview resources
 - governance
 - modern workplace
 - security
