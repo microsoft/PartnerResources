@@ -34,7 +34,6 @@ Welcome to the Network Security Academy. Explore network security video sessions
 *In Development*
 
 See the Threat Protection Readiness Resources for further upskilling:
-
 {% include resources.md 
     includetags="threat protection resources"
     includemethod="all" 
@@ -45,7 +44,6 @@ See the Threat Protection Readiness Resources for further upskilling:
 %}
 
 See the Zero Trust Readiness Resources for further upskilling:
-
 {% include resources.md 
     includetags="zero trust resources"
     includemethod="all" 
