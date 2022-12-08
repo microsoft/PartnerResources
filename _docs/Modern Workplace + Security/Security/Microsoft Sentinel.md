@@ -43,7 +43,7 @@ Use these steps to build a demo instance; free for one month
 ## Associate
 * [Design your Microsoft Sentinel Workspace Architecture - Microsoft Learn](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
 * [Microsoft Sentinel Workspace Architecture Best Practices  - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/best-practices-workspace-architecture)
-* [Microsoft 365 Defender Integration with Microsoft Sentinel](https://learn.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender-integration-with-azure-sentinel?view=o365-worldwide)
+* [Microsoft 365 Defender Integration with Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender-integration-with-azure-sentinel?view=o365-worldwide)
 * [Find your Microsoft Sentinel Data Connector - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
 * [Resources for Creating Microsoft Sentinel Custom Connectors - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector#compare-custom-connector-methods)
 * [Ingest, Archive, Search, and Restore Data in Microsoft Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-archive-search-and-restore-data-in-microsoft-sentinel/ba-p/3195126)
@@ -56,7 +56,7 @@ Use these steps to build a demo instance; free for one month
 
 #### Agents Resources
 * [Overview of the Azure Connected Machine Agent (Azure Arc) - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-arc/servers/agent-overview)
-* [Connect Hybrid Machines to Azure at Scale (Azure Arc)-  Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-arc/servers/onboard-service-principal)
+* [Connect Hybrid Machines to Azure at Scale (Azure Arc) -  Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-arc/servers/onboard-service-principal)
 * [Azure Monitor Agent Overview - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
 
 #### KQL
