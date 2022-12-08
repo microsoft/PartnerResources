@@ -101,6 +101,10 @@ Here is the current list of What The Hack hackathons available in the [What The 
 - [SAP On Azure](https://microsoft.github.io/WhatTheHack/042-SAPOnAzure/)
 - [SAP on Azure: Application Modernization](https://microsoft.github.io/WhatTheHack/052-SAPAppModernization)
 
+## Business Applications
+
+- [Power Platform Basics](https://microsoft.github.io/WhatTheHack/)
+
 ## Archived
 
 These hacks have been archived due to obsolesence or dependencies on sample code or data that is no longer available. If you are interested in updating these hacks, [contributions are welcome](https://aka.ms/wthcontribute)! Please consider contributing to keep What The Hack up to date.
