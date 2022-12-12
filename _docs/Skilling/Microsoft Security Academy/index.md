@@ -21,7 +21,6 @@ Welcome to the Microsoft Security Academy! This academy is organized into five p
 
 
 ## Organization
-*Organization chart coming soon*
 ![MSA Organizational Chart]({{ site.baseurl }}/assets\asa\MSA Organizational Chart.jpg)
 
 ## Important Updates
