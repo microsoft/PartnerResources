@@ -113,7 +113,7 @@ Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some
    * Alerts from Microsoft Defender products
    * Microsoft Defender for IoT
 
-Reference [Plan Costs and Microsoft Sentinel Pricing and Billing - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/billing?tabs=commitment-tier#free-data-sources) for further information.
+Reference [Plan Costs and Microsoft Sentinel Pricing and Billing - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/billing?tabs=commitment-tier) for further information.
 
 #### Other Ways to Save
 * [Microsoft Sentinel Benefit for Microsoft 365 E5, A5, F5, and G5 Customers](https://azure.microsoft.com/en-us/offers/sentinel-microsoft-365-offer/#:~:text=Microsoft%20Sentinel%20benefit%20for%20Microsoft%20365%20E5%2C%20A5%2C,scale.%204%20Enable%20efficient%20and%20effective%20response%20) 
