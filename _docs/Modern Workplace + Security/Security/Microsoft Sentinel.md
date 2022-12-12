@@ -97,14 +97,14 @@ Use these steps to build a demo instance; free for one month
 
 #### Repositories
 * [Enable Continuous Deployment Natively with Microsoft Sentinel Repositories - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enable-continuous-deployment-natively-with-microsoft-sentinel/ba-p/2929413)
-* [Microsoft Sentinel As-A-Code](https://github.com/sreedharande/Microsoft-Sentinel-As-A-Code)
+* [Microsoft Sentinel As-A-Code Lab](https://github.com/sreedharande/Microsoft-Sentinel-As-A-Code)
 
 #### Storage options
 * [Refer to Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
 
 #### Costs
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/microsoft-sentinel/)
-* [Plan Costs and Microsoft Sentinel Pricing and Billing - Microsoft Learn](https://learn.microsoft.com/en-us/azure/sentinel/billing?tabs=commitment-tier#free-data-sources)
+* [Plan Costs and Microsoft Sentinel Pricing and Billing - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/billing?tabs=commitment-tier#free-data-sources)
 * [Microsoft Sentinel Cost Calculator](https://cloudpartners.transform.microsoft.com/download?assetname=assets/Azure_Sentinel_Calculator.xlsx&download=1)
 * [Locate Microsoft Sentinel Free Benefit in Cost Management & Billing](https://azurecloudai.blog/2022/03/15/how-to-locate-the-microsoft-sentinel-free-benefit-in-cost-management-billing/)
 * [Azure Data Explorer (Kusto) Cost Estimator](https://dataexplorer.azure.com/AzureDataExplorerCostEstimator.html)
