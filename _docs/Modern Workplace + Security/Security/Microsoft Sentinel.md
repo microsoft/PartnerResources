@@ -93,7 +93,6 @@ Use these steps to build a demo instance; free for one month
 
 #### Risk IQ Integration
 * [RiskIQ Illuminate Content Hub Solution within Microsoft Sentinel – My Faber Security](https://myfabersecurity.com/2022/03/04/riskiq-illuminate-content-hub-solution-within-microsoft-sentinel/)
-      * You must request a trial key, which takes time to kick in. If you receive a 402 error while testing, you must wait longer.
 
 #### Repositories
 * [Enable Continuous Deployment Natively with Microsoft Sentinel Repositories - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enable-continuous-deployment-natively-with-microsoft-sentinel/ba-p/2929413)
