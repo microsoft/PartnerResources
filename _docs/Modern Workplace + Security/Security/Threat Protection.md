@@ -2,47 +2,30 @@
 layout: page
 title: Threat Protection
 description: Resources for Microsoft Threat Protection
-updated: 2021-12-01
+updated: 2022-12-08
 permalink: /modern-workplace/security/threat-protection
 tags:
 - learning plan
-- modern workplace
 - security
-- threat protection
+- microsoft security academy
+- threat protection resources
 ---
 
-# Learning Plan Resources for Threat Protection
+# Threat Protection Readiness Resources
+Below you will find content to assist in upskilling on Threat Protection. Content is organized by increasing level of complexity (Fundamentals, Associate, Expert).
 
 ## Fundamentals
-
-* [Advanced Threat Analytics suspicious activity guide](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide) (Self-Paced) (30 Minutes)
-* [Azure Sentinel: Connect to data sources](https://docs.microsoft.com/en-us/azure/sentinel/connect-data-sources) (Self-Paced) (15 Minutes)
-* [M365 Security Technical Overview](https://www.microsoft.com/microsoft-365/partners/tech-hub/security) (Self-Paced) (8 Hours)
-* [Quickstart: On-board Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard) (Self-Paced) (30 Minutes)
-* [Top 20 use cases for CASBs](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3nibJ) (Self-Paced) (10 Minutes)
-* [What is Azure Advanced Threat Protection?](https://docs.microsoft.com/en-us/azure-advanced-threat-protection/what-is-atp) (Self-Paced) (5 Minutes)
+* [Azure Threat Protection Overview - Microsoft Docs](https://learn.microsoft.com/en-us/azure/security/fundamentals/threat-detection)
+* [Azure Network Security Overview (Including DDOS) - Microsoft Docs](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-overview)
+* [ Azure Network Security Solution Architectures](https://azure.microsoft.com/en-us/solutions/network-security/#solution-architectures)
+* [Threat Protection Policies in Microsoft Defender for Cloud - Microsoft Docs](https://learn.microsoft.com/en-us/defender-cloud-apps/policies-threat-protection)
+* [Advanced Threat Analytics Suspicious Activity Guide - Microsoft Docs](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide)
 
 ## Associate
-
-* [Using Azure ATP with Microsoft Cloud App Security](https://docs.microsoft.com/en-us/azure-advanced-threat-protection/atp-mcas-integration) (Self-Paced) (10 Minutes)
-* [THR2058: Discover shadow IT across all your SaaS, IaaS, and PaaS resources](https://myignite.techcommunity.microsoft.com/sessions/79741?source=sessions) (Self-Paced) (20 Minutes)
-* [MDATP Project Plan](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/product-brief) (Self-Paced) (1 Hour)
-* [Deploying and Managing Azure Sentinel as Code](https://techcommunity.microsoft.com/t5/azure-sentinel/deploying-and-managing-azure-sentinel-as-code/ba-p/1131928#) (Self-Paced) (20 Minutes)
-* [Design a holistic monitoring strategy on Azure](https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/) (Self-Paced) (60 Minutes)
-* [Azure Sentinel: End-to-End SOC scenario](https://www.youtube.com/watch?v=HloK6Ay4h1M&feature=youtu.be) (Self-Paced) (60 Minutes)
-* [Azure Sentinel: Threat Hunting](https://www.youtube.com/watch?v=Tiz-ftnlTg4&feature=youtu.be) (Self-Paced) (60 Minutes)
-* [BRK3156: Security in overdrive: best practices for configuring Microsoft Defender ATP](https://myignite.techcommunity.microsoft.com/sessions/79803?source=sessions) (Self-Paced) (45 Minutes)
-* [Cloud App Security Best Practices](https://docs.microsoft.com/en-us/cloud-app-security/best-practices) (Self-Paced) (20 Minutes)
-* [Azure Advanced Threat Protection webinar: Identity Security Posture](https://www.youtube.com/watch?v=e_b7L8t-g_I&feature=youtu.be) (Self-Paced) (60 Minutes)
-* [Azure Advanced Threat Protection: Deployment & Configuration](https://www.youtube.com/watch?v=k2PpzgjROLM&feature=youtu.be) (Self-Paced) (60 Minutes)
-* [Azure Advanced Threat Protection: Detections (Part 1 of 2)](https://www.youtube.com/watch?v=yX4tC6l-oCo&feature=youtu.be) (Self-Paced) (60 Minutes)
-* [Azure Advanced Threat Protection: Detections (Part 2 of 2)](https://www.youtube.com/watch?v=b2Cm1EFiejw&feature=youtu.be) (Self-Paced) (60 Minutes)
-* [Azure ATP investigation of brute force and account enumeration attacks made over the NTLM protocol](https://techcommunity.microsoft.com/t5/security-privacy-and-compliance/azure-atp-investigation-of-brute-force-and-account-enumeration/ba-p/1121006) (10 Minutes)
-* [Azure Sentinel webinar: Threat Hunting (part 1)](https://www.youtube.com/watch?v=Tiz-ftnlTg4) (Self-Paced) (60 Minutes)
+* [Investigate and Respond with Microsoft 365 Defender - Microsoft Docs](https://learn.microsoft.com/en-us/microsoft-365/security/defender/incident-response-overview?view=o365-worldwide)
+* [Manage Endpoint Security in Microsoft Intune - Microsoft Docs](https://learn.microsoft.com/en-us/mem/intune/protect/endpoint-security?view=o365-worldwide)
+* [Deploy Microsoft Defender for Identity with Microsoft 365 Defender - Microsoft Docs](https://docs.microsoft.com/en-us/azure-advanced-threat-protection/atp-mcas-integration)
+* [Design a Holistic Monitoring Strategy on Azure - Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/)
 
 ## Expert
-
-* [Cloud App Security Proof of Concept](https://gallery.technet.microsoft.com/Cloud-App-Security-Proof-2fa94be8) (Self-Paced) (3 Hours)
-* [THR3052: Detecting cloud native attacks and automating remediation](https://myignite.techcommunity.microsoft.com/sessions/79732?source=sessions) (Self-Paced) (20 Minutes)
-* [THR3055: Giving you the upper hand in combating web threats with Microsoft Defender ATP](https://myignite.techcommunity.microsoft.com/sessions/79814?source=sessions) (Self-Paced) (20 Minutes)
-* [THR3056: Unleash the hunter in you: Advanced hunting in Microsoft Defender ATP](https://myignite.techcommunity.microsoft.com/sessions/79816?source=sessions) (Self-Paced) (20 Minutes)
+*In Development*
