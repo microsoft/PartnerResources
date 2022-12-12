@@ -22,7 +22,7 @@ Welcome to the Microsoft Security Academy! This academy is organized into five p
 
 ## Organization
 *Organization chart coming soon*
-
+![MSA Organizational Chart]({{ site.baseurl }}/assets\asa\MSA Organizational Chart.jpg)
 
 ## Important Updates
 We'll update this section with our upcoming events or critical content! For other Microsoft Security content, explore the [Microsoft Security Youtube](https://www.youtube.com/@MicrosoftSecurity/featured) or the [Microsoft Security Community YouTube](https://www.youtube.com/channel/UCGTUbqE3SJiLgtvWjIkSQuQ). For documentation, explore the [Microsoft Security Technical Content Library](https://www.microsoft.com/en-us/security/content-library/Home/Index?culture=en-US).
