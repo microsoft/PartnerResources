@@ -103,7 +103,19 @@ Use these steps to build a demo instance; free for one month
 
 #### Costs
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/microsoft-sentinel/)
-* [Plan Costs and Microsoft Sentinel Pricing and Billing - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/billing?tabs=commitment-tier#free-data-sources)
 * [Microsoft Sentinel Cost Calculator](https://cloudpartners.transform.microsoft.com/download?assetname=assets/Azure_Sentinel_Calculator.xlsx&download=1)
-* [Locate Microsoft Sentinel Free Benefit in Cost Management & Billing](https://azurecloudai.blog/2022/03/15/how-to-locate-the-microsoft-sentinel-free-benefit-in-cost-management-billing/)
 * [Azure Data Explorer (Kusto) Cost Estimator](https://dataexplorer.azure.com/AzureDataExplorerCostEstimator.html)
+
+#### Data at No Cost
+Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some* data at no cost, including:
+   * Azure Activity Logs
+   * Office 365 Audit Logs(e.g., SharePoint, Exchange, Teams)
+   * Alerts from Microsoft Defender products, including; Defender for Cloud, Microsoft 365 Defender, Microsoft Defender for Office 365, Microsoft Defender for Endpoint, Microsoft Defender for Identity, Microsoft Defender for Cloud Apps, and Azure Information Protection (AIP).
+   * Microsoft Defender for IoT
+
+Reference [Plan Costs and Microsoft Sentinel Pricing and Billing - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/billing?tabs=commitment-tier#free-data-sources).
+
+#### Other Ways to Save
+* Commitment Tiers; save up to 65% compared to pay-as-you-go.
+* [Microsoft Sentinel Benefit for Microsoft 365 E5, A5, F5, and G5 Customers](https://azure.microsoft.com/en-us/offers/sentinel-microsoft-365-offer/#:~:text=Microsoft%20Sentinel%20benefit%20for%20Microsoft%20365%20E5%2C%20A5%2C,scale.%204%20Enable%20efficient%20and%20effective%20response%20) 
+* [Locate Microsoft Sentinel Free Benefit in Cost Management & Billing](https://azurecloudai.blog/2022/03/15/how-to-locate-the-microsoft-sentinel-free-benefit-in-cost-management-billing/)
