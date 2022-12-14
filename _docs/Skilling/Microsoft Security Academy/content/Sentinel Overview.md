@@ -3,8 +3,8 @@ layout: page
 title: All About Microsoft Sentinel
 sorttitle: 1
 description: Microsoft Sentinel is a scalable, cloud-native solution that provides Security Information and Event Management (SIEM) and Security Orchestration, Automation, and Response (SOAR). Acquire knowledge about Microsoft Sentinel's core capabilities, data ingestion methods, Azure Monitor Agent (AMA), Sentinel for MSSP, along with a thorough demo into Sentinel's trademark features. Lastly, cover Sentinel's User and Entity Behavior Analytics.
-updated: 2022-12-13
-permalink: /skilling/microsoft-security-academy/sentinel-academy
+updated: 2022-12-14
+permalink: /skilling/microsoft-security-academy/sentinel-academy-overview
 youtubeid: 36MacSmlEgc
 tags: 
 - academy content
