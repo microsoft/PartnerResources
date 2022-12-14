@@ -3,7 +3,7 @@ layout: page
 title: Cloud Security - Microsoft Defender for Cloud Academy
 description: Microsoft Security Academy Cloud Security.
 permalink: /skilling/microsoft-security-academy/defender-academy
-updated: 2022-12-13
+updated: 2022-12-14
 showbreadcrumb: true
 tags: 
 - academy content
@@ -28,6 +28,15 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
 * [Automate Security with Microsoft Defender for Cloud & Logic Apps](https://www.youtube.com/watch?v=u6N5PwQy61w) - Develop skills necessary to automate security with Defender for Cloud & Logic Apps across Azure Integration Services. Discover easy hybrid integration capabilities, triggers, actions, error handling, concurrency control, and scheduling executions, followed by a thorough demo within Defender for Cloud.
 
 
+{% include series.md 
+    includetags=""academy content|defender for cloud"" includemethod="all" 
+    sortfield="updated" sortorder="asc" showdate="true" showtags="true" 
+    visualstyle="normal" 
+%}
+
+{% include_relative footer.md %}
+
+
 ### Keeping Up
 * [Microsoft Defender for Cloud Monthly Newsletter](https://aka.ms/ASCNewsSubscribe)
 * [Microsoft Defender for Cloud Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bd-p/MicrosoftDefenderCloud)
@@ -37,7 +46,7 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
 See the Microsoft Defender for Cloud Readiness Resources:
 
 {% include resources.md 
-    includetags="defender for cloud resources"
+    includetags="academy content|defender for cloud resources"
     includemethod="all" 
     showtags="false" 
     showdate="true" 

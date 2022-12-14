@@ -2,13 +2,12 @@
 layout: page
 title: Microsoft 365 Defender Resources
 description: Resources for Microsoft 365 Defender
-updated: 2022-12-07
+updated: 2022-12-14
 permalink: /modern-workplace/security/microsoft-defender
 redirect_from:
   - /modern-workplace/security/microsoft-defender-for-endpoint-training
 tags:
 - learning plan
-- security
 - microsoft security academy
 - siem & xdr
 - 365 defender resources
