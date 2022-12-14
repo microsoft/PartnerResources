@@ -9,7 +9,7 @@ tags:
 - academy content
 - microsoft security academy
 - cloud security
-- defender for cloud
+- defender for cloud academy
 ---
 
 ## Microsoft Defender for Cloud Academy
