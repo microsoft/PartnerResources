@@ -54,7 +54,7 @@ Sessions on data governance and Microsoft Purview. Topics include data catalog, 
 The Dynamics 365 Pre-Sales Academy is a series of presentations combined with hands-on materials designed to upskill individuals who are responsible for preparing and delivering D365 Sales software demonstrations. Demos and the accompanying hands-on labs cover topics which integrate Dynamics 365 Sales to Microsoft Outlook, Microsoft Excel, Microsoft Word, Mobile experience, Power Platform (PowerApps, Power Automate, Power BI and Power Virtual Agent) and Business Central. Most recent content:
 
 {% include series.md 
-    includetags="business central academy|academy content" includemethod="all" 
+    includetags="d365 sales academy|academy content" includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="true" limit=5 
     visualstyle="tiny"
 %}
