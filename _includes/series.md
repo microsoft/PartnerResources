@@ -327,7 +327,11 @@
         {% if doc.updated and showDate == "true" %}
             <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
         {% endif %}
-    <div>
+    </div>
+    {% if showTags == "true" %}
+    <div style="padding-bottom: 5px;">{% for tag in filteredtags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
+    {% endif %}
+    </div>
     {{ doc.description }}
     </div>
 </div>
