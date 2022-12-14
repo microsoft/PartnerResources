@@ -34,8 +34,6 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
     visualstyle="list" 
 %}
 
-{% include_relative footer.md %}
-
 
 ### Keeping Up
 * [Microsoft Defender for Cloud Monthly Newsletter](https://aka.ms/ASCNewsSubscribe)
