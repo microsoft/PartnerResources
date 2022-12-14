@@ -3,7 +3,7 @@ layout: page
 title: Cloud Security - Azure Network Security Academy
 description: Microsoft Security Academy Cloud Security.
 permalink: /skilling/microsoft-security-academy/network-academy
-updated: 2022-12-08
+updated: 2022-12-14
 showbreadcrumb: true
 tags: 
 - academy content
@@ -28,6 +28,12 @@ Welcome to the Network Security Academy. Explore network security video sessions
 * [Azure Firewall Premium Intrusion Detection & Prevention System (IDPS)](https://www.youtube.com/watch?v=tLdr-dfXsP4) - Explore Azure Firewall Premium's powerful capabilities (e.g., TLS Inspection, URL Filtering, Web Categories) as a cloud native next-gen Firewall as a Service. At focus, learn about Azure Firewall's Intrusion Detection & Prevention System (IDPS), policies, insights or analytics, followed by a comprehensive demo.
 
 * [All About Azure DDoS Protection](https://www.youtube.com/watch?v=2bhYg6FoqLg) - Distributed denial of service (DDoS) attacks are some of the largest availability and security concerns facing customers. Azure DDoS Protection provides enhanced DDoS features, automatically protecting Azure resources in a virtual network. In this session, learn more about the dangers of DDoS and Azure's answer to rising threats, including Azure DDoS Protection Standard's capabilities, setup, and operation (e.g., Adaptive Tuning, Mitigation Pipelines or Metrics, etc.).
+
+{% include series.md 
+    includetags="academy content|network security" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    visualstyle="list" 
+%}
 
 
 ### Learning Path

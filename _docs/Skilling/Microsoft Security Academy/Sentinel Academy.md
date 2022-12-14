@@ -3,7 +3,7 @@ layout: page
 title: SIEM & XDR - Microsoft Sentinel Academy
 description: Microsoft Security Academy SIEM & XDR.
 permalink: /skilling/microsoft-security-academy/sentinel-academy
-updated: 2022-12-08
+updated: 2022-12-14
 showbreadcrumb: true
 Tags:
 - academy content
@@ -18,6 +18,12 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 
 ### Sessions
 * [All About Microsoft Sentinel](https://www.youtube.com/watch?v=36MacSmlEgc) - Microsoft Sentinel is a scalable, cloud-native solution that provides Security Information and Event Management (SIEM) and Security Orchestration, Automation, and Response (SOAR). Acquire knowledge about Microsoft Sentinel's core capabilities, data ingestion methods, Azure Monitor Agent (AMA), Sentinel for MSSP, along with a thorough demo into Sentinel's trademark features. Lastly, cover Sentinel's User and Entity Behavior Analytics.
+
+{% include series.md 
+    includetags="academy content|sentinel" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    visualstyle="list" 
+%}
 
 
 ### Keeping Up
