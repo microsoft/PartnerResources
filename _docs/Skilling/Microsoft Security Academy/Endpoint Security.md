@@ -8,7 +8,6 @@ showbreadcrumb: true
 tags: 
 - academy content
 - microsoft security academy
-- endpoint security
 ---
 
 ## Endpoint Security
