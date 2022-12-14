@@ -163,13 +163,7 @@
 {% assign all_tags = site_tags | append:docs_tags %}
 {% assign tags_list = all_tags | replace: "||", "|" | split:'|' | uniq | sort | compact %}
 
-{% if sortOrder == "asc" %}
-    {% assign all_docs = site.docs | sort: sortField %}
-{% else %}
-    {% assign all_docs = site.docs | sort: sortField | reverse %}
-{% endif %}
-
-{% assign filtered_docs = all_docs %}
+{% assign filtered_docs = site.docs %}
 {% assign current_docs = "" | split: ',' %}
 
 {% comment %}
@@ -241,6 +235,18 @@
 {% endif %}
 
 {% assign current_docs = current_docs | uniq %}
+
+{% comment %}
+----------------------------------------------------
+    additional filtering and sorting
+    todo: check sortField for nulls
+----------------------------------------------------
+{% endcomment %}
+{% if sortOrder == "asc" %}
+    {% assign current_docs = current_docs | sort: sortField %}
+{% else %}
+    {% assign current_docs = current_docs | sort: sortField | reverse %}
+{% endif %}
 
 {% comment %}
 ----------------------------------------------------
