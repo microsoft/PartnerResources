@@ -315,6 +315,32 @@
 </div>
 <div style="clear:both; padding-top: 5px; padding-bottom: 0px;">
 </div>
+
+{% elsif visualStyle == "list" %}
+<div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
+    <div>
+        {% if showLink == "true" %}
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+        {% else %}
+            <span class="nav-entry">{{ doc.title }}</span> 
+        {% endif %}
+        {% if doc.updated and showDate == "true" %}
+            <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
+        {% endif %}
+    </div>
+    {% if showTags == "true" %}
+    <div style="padding-bottom: 5px;">{% for tag in filteredtags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
+    {% endif %}
+    <div>
+    {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}" 
+    {% if target.size > 0 %}target={{target}}{% endif %}>{{ doc.title }}</a>
+    {% endif %}
+    {{ doc.description }}
+    </div>
+</div>
+<div style="clear:both; padding-top: 20px; padding-bottom: 0px;">
+<hr/></div>
+
 {% else %}
 {% comment %}
     Assume the visualstyle is "normal" if not matching any other
