@@ -29,7 +29,7 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
 
 
 {% include series.md 
-    includetags=""academy content|defender for cloud"" includemethod="all" 
+    includetags="academy content|defender for cloud" includemethod="all" 
     sortfield="updated" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" 
 %}
