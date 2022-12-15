@@ -108,9 +108,8 @@ Use these steps to build a demo instance; free for one month
 #### Data at No-Cost
 Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some* data at no cost, including:
    * Azure Activity Logs
-   * Office 365 Audit Logs (e.g., SharePoint, Exchange, Teams)
+   * Office 365 Audit Logs (e.g., SharePoint activity, Exchange activity, Teams)
    * Alerts from Microsoft Defender products
-   * Microsoft Defender for IoT
 
 Reference [Plan Costs and Microsoft Sentinel Pricing and Billing - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/billing?tabs=commitment-tier) for further information.
 
