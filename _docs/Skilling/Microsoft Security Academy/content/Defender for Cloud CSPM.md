@@ -2,8 +2,8 @@
 layout: page
 title: Cloud Security Posture Management (CSPM) & Regulatory Compliance in Microsoft Defender for Cloud
 sorttitle: 4
-description: Protect your multi-cloud and on-premise environments with Defender for Cloud's CSPM capabilities, including analysis of the Secure Score, compliance assessments, and Azure Security Benchmark, along with security posture and regulatory compliance demos. for deep-dive technical learning.
-updated: 2022-12-14
+description: Protect your multi-cloud and on-premises environments with Defender for Cloud's CSPM capabilities, including analysis of the Secure Score, compliance assessments, and Azure Security Benchmark, along with security posture and regulatory compliance demos for deep-dive technical learning.
+updated: 2022-12-15
 permalink: /skilling/microsoft-security-academy/defender-academy-cspm
 youtubeid: o1THcHOT2p0
 tags: 
