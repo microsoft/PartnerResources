@@ -2,10 +2,11 @@
 layout: page
 title: Microsoft Defender for Cloud Resources
 description: Resources for Microsoft Defender for Cloud
-updated: 2022-12-14
+updated: 2022-12-15
 permalink: /modern-workplace/security/microsoft-defender-for-cloud
 tags:
 - learning plan
+- security
 - cloud security
 - microsoft security academy
 - defender for cloud resources
