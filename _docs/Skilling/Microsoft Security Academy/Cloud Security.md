@@ -13,7 +13,7 @@ tags:
 
 ## Cloud Security
 
-### Microsoft Defender for Cloud Academy
+### * [Microsoft Defender for Cloud Academy](/PartnerResources/skilling/microsoft-security-academy/defender-for-cloud-academy)
 The Microsoft Defender for Cloud Academy highlights Defender for Cloud's core features, how to best plan for Microsoft Defender for Cloud, Cloud Security Posture Management (CSPM), Cloud Workload Protection Capabilities, and Security Automation with Logic Apps.
 
 
