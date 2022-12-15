@@ -28,6 +28,7 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 * [Join the Security Community - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888)
 * [Security, Compliance, and Identity Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
 * [Microsoft Sentinel Blog Series - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
+* [Log Analytics Agent in Azure Monitor Retires August 2024](https://azure.microsoft.com/en-us/updates/were-retiring-the-log-analytics-agent-in-azure-monitor-on-31-august-2024/)
 
 
 ### Learning Path
