@@ -68,7 +68,7 @@ Below you will find information about security certifications critical for learn
 * [Study Guide by Charbel Nemnom, MVP](https://aka.ms/SC-300StudyGuide)
 
 
-#### Microsoft Information Protection Administrator (SC-400) 
+#### Microsoft Information Protection Administrator (SC-400)
 #### Exam Overview
 * Implement information protection (35–40%)
 * Implement data loss prevention (30–35%)

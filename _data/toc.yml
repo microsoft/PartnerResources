@@ -81,6 +81,9 @@
         - title: Security
           url: "modern-workplace/security"
           tag: security
+    - title: Security
+      url: "security"
+      tag: security
 - title: Academies
   url: "skilling/academies"
   tag: academies
