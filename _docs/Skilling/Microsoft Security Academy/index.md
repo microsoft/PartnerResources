@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2022-12-15
+updated: 2022-12-16
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -104,4 +104,3 @@ Below you will find information about security certifications critical for learn
 
 
 {% include_relative footer.md %}
-
