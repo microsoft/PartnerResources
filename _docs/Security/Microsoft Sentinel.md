@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2022-12-15
+updated: 2022-12-16
 permalink: /security/microsoft-sentinel
 tags:
 - security
