@@ -1,8 +1,8 @@
 ---
 layout: sectionlist
-title: Modern Workplace + Security Readiness Resources
+title: Modern Workplace Readiness Resources
 permalink: /modern-workplace/
 showbreadcrumb: false
 includesection:
-- Modern Workplace + Security
+- Modern Workplace
 ---
