@@ -2,7 +2,7 @@
 layout: page
 title: Robotic Process Automation
 description: Resources for Robotic Process Automation
-updated: 2021-12-01
+updated: 2022-12-19
 permalink: /business-applications/power-platform/robotic-process-automation
 tags:
 - learning plan
@@ -55,3 +55,6 @@ Additionally, some content may be marked with one or more icons:
 ## Technical Resources
 
 * [Documentation](https://docs.microsoft.com/en-us/power-automate/)
+
+## Community Resources
+* [Power Platform Community](https://powerusers.microsoft.com/)
