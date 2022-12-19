@@ -2,7 +2,7 @@
 layout: page
 title: Power Platform
 description: Resources for Power Platform
-updated: 2021-12-01
+updated: 2022-12-19
 permalink: /business-applications/power-platform/power-platform-learning-plan
 tags:
 - learning plan
@@ -81,6 +81,7 @@ Keeping Up
 * [Participate in Power Apps User Group](https://www.powerappsug.com/home) (Other)
 * [Participate in Power Automate User Group](https://www.automateug.com/home) (Other)
 * [Power BI UG](https://www.pbiusergroup.com/home) (Self-Paced)
+* [Power Platform Community](https://powerusers.microsoft.com/)
 
 ## Hands-on Labs
 

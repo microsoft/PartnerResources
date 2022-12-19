@@ -2,7 +2,7 @@
 layout: page
 title: Power Virtual Agents
 description: Resources for Power Virtual Agents
-updated: 2022-10-20
+updated: 2022-12-19
 permalink: /business-applications/power-platform/power-virtual-agents
 tags:
 - learning plan
@@ -58,6 +58,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 ## Community Resources
 * [Join the discussion with the Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity) (Self-Paced) (1 Minute)
 * [Suggest an idea to the Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Ideas/idb-p/pva_ideas) (Self-Paced) (1 Minute)
+* [Power Platform Community](https://powerusers.microsoft.com/)
 
 
 ## Practice Maturity Model
