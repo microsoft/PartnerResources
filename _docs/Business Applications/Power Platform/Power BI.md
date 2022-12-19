@@ -2,7 +2,7 @@
 layout: page
 title: Modern Analytics Power BI
 description: Resources for Modern Analytics with Power BI
-updated: 2021-12-01
+updated: 2022-12-19
 permalink: /business-applications/power-platform/power-bi
 tags:
 - learning plan
@@ -93,6 +93,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Power BI UG](https://mydacfeed.com/view/welcome-to-your-new-power-community) (Self-Paced)
 * [Microsoft Power BI Community](https://community.powerbi.com/) (Self-Paced)
 * [Subscribe to Microsoft Power BI YouTube Channel](https://www.youtube.com/channel/UCy--PYvwBwAeuYaR8JLmrfg) (Self-Paced)
+* [Power Platform Community](https://powerusers.microsoft.com/)
 
 ## Events
 
