@@ -2,7 +2,7 @@
 layout: page
 title: Customer Service
 description: Resources for Customer Service
-updated: 2022-09-30
+updated: 2022-12-19
 permalink: /business-applications/customer-engagement/customer-service
 tags:
 - learning plan
@@ -74,6 +74,7 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 * [Microsoft Power Platform Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
 * [Monitor the Dynamics 365 Blog](https://cloudblogs.microsoft.com/dynamics365/)
 * [Monitor the Dynamics 365 Customer Engagement in the Field](https://community.dynamics.com/crm/b/crminthefield)
+* [Dynamics 365 Community](https://community.dynamics.com/)
 
 ## Certifications
 
