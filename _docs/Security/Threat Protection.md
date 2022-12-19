@@ -5,7 +5,7 @@ description: Resources for Microsoft Threat Protection
 updated: 2022-12-15
 permalink: /security/threat-protection
 tags:
-- security resources
+- security
 - microsoft security academy
 - threat protection resources
 ---

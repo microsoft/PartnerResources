@@ -5,7 +5,7 @@ description: Resources for Zero Trust
 updated: 2022-12-15
 permalink: /security/zero-trust
 tags:
-- security resources
+- security
 - microsoft security academy
 - zero trust resources
 ---

@@ -5,7 +5,7 @@ description: Resources for Microsoft Defender for Cloud
 updated: 2022-12-15
 permalink: /security/microsoft-defender-for-cloud
 tags:
-- security resources
+- security
 - cloud security
 - microsoft security academy
 - defender for cloud resources
