@@ -2,7 +2,7 @@
 layout: page
 title: Field Service
 description: Resources for Dynamics 365 Field Service
-updated: 2021-12-01
+updated: 2022-12-19
 permalink: /business-applications/customer-engagement/field-service
 tags:
 - learning plan
@@ -91,6 +91,7 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 * [Azure IoT Device Catalog](https://catalog.azureiotsolutions.com/alldevices)
 * [Azure IoT Documentation](https://docs.microsoft.com/en-us/azure/iot-fundamentals/)
 * [Monitor the Dynamics 365 Customer Engagement in the Field](https://community.dynamics.com/crm/b/crminthefield)
+* [Dynamics 365 Community](https://community.dynamics.com/)
 
 ## Certifications
 
