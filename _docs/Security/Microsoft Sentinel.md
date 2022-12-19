@@ -5,7 +5,7 @@ description: Resources for Microsoft Sentinel
 updated: 2022-12-16
 permalink: /security/microsoft-sentinel
 tags:
-- security
+- security resources
 - microsoft security academy
 - siem & xdr
 - sentinel resources

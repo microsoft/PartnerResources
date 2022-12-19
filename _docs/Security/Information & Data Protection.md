@@ -5,7 +5,7 @@ description: Resources for Information and Data Protection
 updated: 2022-12-15
 permalink: /security/information-and-data-protection
 tags:
-- security
+- security resources
 - microsoft security academy
 - information & data protection resources
 ---

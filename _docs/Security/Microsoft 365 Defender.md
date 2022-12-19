@@ -7,7 +7,7 @@ permalink: /security/microsoft-defender
 redirect_from:
   - /security/microsoft-defender-for-endpoint-training
 tags:
-- security
+- security resources
 - microsoft security academy
 - siem & xdr
 - 365 defender resources

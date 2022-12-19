@@ -5,7 +5,7 @@ description: Resources for Identity and Access Management
 updated: 2022-12-15
 permalink: /security/identity-and-access-management
 tags:
-- security
+- security resources
 - microsoft security academy
 - identity and access management resources
 ---
