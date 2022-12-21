@@ -2,7 +2,7 @@
 layout: page
 title: Threat Protection
 description: Resources for Microsoft Threat Protection
-updated: 2022-12-15
+updated: 2022-12-21
 permalink: /security/threat-protection
 tags:
 - security
@@ -16,7 +16,8 @@ Below you will find content to assist in upskilling on Threat Protection. Conten
 ## Fundamentals
 * [Azure Threat Protection Overview - Microsoft Docs](https://learn.microsoft.com/en-us/azure/security/fundamentals/threat-detection)
 * [Azure Network Security Overview (Including DDOS) - Microsoft Docs](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-overview)
-* [ Azure Network Security Solution Architectures](https://azure.microsoft.com/en-us/solutions/network-security/#solution-architectures)
+* [Azure Network Security Solution Architectures](https://azure.microsoft.com/en-us/solutions/network-security/#solution-architectures)
+* [Azure Network Security Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101)
 * [Threat Protection Policies in Microsoft Defender for Cloud - Microsoft Docs](https://learn.microsoft.com/en-us/defender-cloud-apps/policies-threat-protection)
 * [Advanced Threat Analytics Suspicious Activity Guide - Microsoft Docs](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide)
 

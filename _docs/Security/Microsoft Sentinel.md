@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2022-12-16
+updated: 2022-12-21
 permalink: /security/microsoft-sentinel
 tags:
 - security
@@ -22,24 +22,19 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
 * [Microsoft Sentinel Wiki](https://github.com/Azure/Azure-Sentinel/wiki)
 * [Design your Microsoft Sentinel Workspace Architecture - Microsoft Learn](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
 
+
 #### Building a Demo. Instance
 Use these steps to build a demo instance; free for one month
 
 1. [Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
    * Initial Setup ("Dummy Data")
-2. [Deploy & Monitor Azure Key Vault Honeytokens with Microsoft Sentinel - Microsofts Docs](https://docs.microsoft.com/en-us/azure/sentinel/monitor-key-vault-honeytokens?tabs=deploy-at-scale)
-   * *Optional*
-3. [Connect AWS Accounts to Microsoft Defender for Cloud - Microsofts Docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws?pivots=env-settings)
-   * *Optional*
-4. [Connect Microsoft Defender for Cloud Alerts to Microsoft Sentinel - Microsofts Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud)
-   * Microsoft Defender for Cloud Connector
-5. [Alert Validation in Microsoft Defender for Cloud - Microsoft Docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/alert-validation)
-   * Used for Sample Security Alerts
-6. [Send Logs to Azure Monitor - Microsoft Docs](https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/howto-integrate-activity-logs-with-log-analytics#send-logs-to-azure-monitor)
-7. [Connect Azure Active Directory (Azure AD) Data to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
-8. [Connect Microsoft Sentinel to AWS to Ingest AWS Service Log Data - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-aws?tabs=ct)
-9. [Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)
+2. [Connect Azure Active Directory (Azure AD) Data to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
+3. [Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)
    * Microsoft Sentinel To-Go is an open source project developed to expedite the deployment of a Microsoft Sentinel lab along with other resources for research purposes. (i.e., more "Dummy Data")
+4. [Ingest Sample CEF Data into Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-sample-cef-data-into-azure-sentinel/ba-p/1064158)
+   * Sample Data CEF
+5. [Additional Microsoft Sentinel Sample Data](https://github.com/Yaniv-Shasha/Sentinel/tree/master/Sample_Data)
+6. [New Ingestion SampleData-as-a-Service Solution - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-ingestion-sampledata-as-a-service-solution-for-a-great-demos/ba-p/3598500)
 
 ## Associate
 * [Microsoft Sentinel Workspace Architecture Best Practices  - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/best-practices-workspace-architecture)
@@ -47,19 +42,27 @@ Use these steps to build a demo instance; free for one month
 * [Microsoft 365 Defender Integration with Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender-integration-with-azure-sentinel?view=o365-worldwide)
 * [Find your Microsoft Sentinel Data Connector - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
 * [Resources for Creating Microsoft Sentinel Custom Connectors - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector#compare-custom-connector-methods)
-* [Ingest, Archive, Search, and Restore Data in Microsoft Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-archive-search-and-restore-data-in-microsoft-sentinel/ba-p/3195126)
-* [Enrich Incidents using Entity Mapping - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/entities#entity-mapping)
-* [Behind the Scenes: The ML Approach for Detecting Advanced Multistage Attacks with Sentinel Fusion - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/behind-the-scenes-the-ml-approach-for-detecting-advanced/ba-p/3239236)
+* [Become a Microsoft Sentinel Automation Ninja - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377)
 
+
+#### Azure Lighthouse
+* [Delegate Access using Azure Lighthouse for a Sentinel POC - My Faber Security](https://myfabersecurity.com/2022/07/15/delegate-access-using-azure-lighthouse-for-a-sentinel-poc/)
+* [Azure Lighthouse & Microsoft Sentinel: Assigning Access to Managed Identities in Customer Tenant - My Faber Security](https://myfabersecurity.com/2022/08/31/azure-lighthouse-and-sentinel-assigning-access-to-managed-identities-in-the-customer-tenant/)
 
 #### Build an SOC & Operationalize Security Operations
 * [What's New: Azure Sentinel - SOC Process Framework Workbook - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-soc-process-framework-workbook/ba-p/2339315)
 * [SOC Process Framework Overview - YouTube](https://www.youtube.com/watch?v=RnPMwy7AoS0&amp;list=PL3sJcHWKYIVPhCDIdZjVueLIkAfXijylG)
+* [Best Practices for Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/best-practices)
+* [Protecting MSSP Intellectual Property in Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/mssp-protect-intellectual-property)
 
 #### Agents Resources
+* [Migrate to Azure Monitor Agent for better Security, Reliability and Management - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-observability-blog/migrate-to-azure-monitor-agent-for-better-security-reliability/ba-p/3609810)
 * [Overview of the Azure Connected Machine Agent (Azure Arc) - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-arc/servers/agent-overview)
 * [Connect Hybrid Machines to Azure at Scale (Azure Arc) -  Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-arc/servers/onboard-service-principal)
 * [Azure Monitor Agent Overview - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
+* [Data Collection Rules in Azure Monitor - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview)
+* [Sentinel Syslog Forwarder with AMA](https://starkonsec.com/2022/04/18/sentinel-syslog-forwarder-with-the-azure-monitor-agent/)
+* [Azure Monitor Agent Migration (Remove Log Analytics Agent) Lab](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Powershell%20scripts/Remove%20Log%20Analytics%20Agent%20At%20Scale)
 
 #### KQL
 * [KQL for Microsoft Sentinel Lab & Queries](https://github.com/reprise99/Sentinel-Queries)
@@ -74,34 +77,53 @@ Use these steps to build a demo instance; free for one month
 
 #### Notebooks
 * [Becoming a Microsoft Sentinel Notebooks Ninja - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491)
-* [Getting Started with Sentinel Notebooks - YouTube](https://www.youtube.com/watch?v=TgRRJeoyAYw)
 * [Azure Sentinel Notebooks Lab](https://github.com/Azure/Azure-Sentinel-Notebooks/tree/7402ad1fc35fc78c05c51fe068ea547f928000af)
+* [Get Started with Jupyter Notebooks & MSTICPy in Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/notebook-get-started)
+* [Detect Masqueraded Process Name Anomalies with ML Notebook - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-masqueraded-process-name-anomalies-using-an-ml-notebook/ba-p/3596405)
+* [Hunting for Low & Slow Password Sprays Using Machine Learning - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-low-and-slow-password-sprays-using-machine-learning/ba-p/3592052)
+* [Hunting for Teams Phishing with Microsoft Sentinel, Defender, Microsoft Graph and MSTICPy - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-teams-phishing-with-microsoft-sentinel-defender/ba-p/3601746)
 
 #### Migration
 * [Plan Migration to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/migration)
 * [Microsoft Sentinel Migration: Select Target Azure Platform for Exported Data - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
 * [Microsoft Sentinel Migration: Select Data Ingestion Tool - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
-* [Best Practices for Migrating Detection Rules from ArcSight, Splunk and QRadar - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/best-practices-for-migrating-detection-rules-from-arcsight/ba-p/2216417)
-* [Microsoft Sentinel Repository](https://github.com/Azure/Azure-Sentinel)
 * [Unicoder Sigma Rule Converter for SIEM, EDR, & NTDR](https://uncoder.io/)
+* [Microsoft Sentinel Repository](https://github.com/Azure/Azure-Sentinel)
 * [Azure Sentinel Side-by-Side with QRader](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-qradar/ba-p/1488333)
 * [Azure Sentinel Side-by-Side with Splunk](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-splunk/ba-p/1211266)
 
 #### Build Solutions & Other Contributions
 * [Guide to Building Microsoft Sentinel Solutions](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions#guide-to-building-microsoft-sentinel-solutions)
 
-#### Risk IQ Integration
+#### MDTI (Defender for Threat Intelligence) & Risk IQ Integration
+* [Become a Microsoft Defender Threat Intelligence Ninja - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965)
+* [New Threat Intelligence Features in Microsoft Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-threat-intelligence-features-in-microsoft-sentinel/ba-p/3585214)
+* [Infrastructure Chaining with Microsoft Defender Threat Intelligence - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/infrastructure-chaining-with-microsoft-defender-threat/ba-p/3687956)
 * [RiskIQ Illuminate Content Hub Solution within Microsoft Sentinel – My Faber Security](https://myfabersecurity.com/2022/03/04/riskiq-illuminate-content-hub-solution-within-microsoft-sentinel/)
+
+#### SOAR
+* [Microsoft Sentinel Automation Tips & Tricks - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-automation-tips-amp-tricks-part-1-automation/ba-p/3558454)
+* [Safely Integrate Playbooks with Custom APIs with no Pre-built Logic App Connector - My Faber Security](https://myfabersecurity.com/2022/11/21/safely-integrate-playbooks-with-custom-apis-when-there-is-no-pre-built-logic-app-connector/)
 
 #### Repositories
 * [Enable Continuous Deployment Natively with Microsoft Sentinel Repositories - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/enable-continuous-deployment-natively-with-microsoft-sentinel/ba-p/2929413)
 * [Microsoft Sentinel As-A-Code Lab](https://github.com/sreedharande/Microsoft-Sentinel-As-A-Code)
+* [Sample Content Repository](https://github.com/SentinelCICD/RepositoriesSampleContent)
+* [Customize Repository Deployments - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd-custom-deploy?tabs=github)
+
+#### Fusion
+* [Behind the Scenes: The ML Approach for Detecting Advanced Multistage Attacks with Sentinel Fusion - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/behind-the-scenes-the-ml-approach-for-detecting-advanced/ba-p/3239236)
+* [Advanced Multistage Attack Detection in Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/fusion)
+
+#### UEBA
+* [Discover the Power of UEBA Anomalies in Microsoft Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/discover-the-power-of-ueba-anomalies-in-microsoft-sentinel/ba-p/3576185)
+* [Microsoft Sentinel Customizable Ml Based Anomalies now Generally Available - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-customizable-machine-learning-based-anomalies/ba-p/3624436)
 
 #### Storage options
 * [Refer to Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
 
 #### Costs
-* [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/microsoft-sentinel/)
+* [Refer to Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/microsoft-sentinel/)
 * [Microsoft Sentinel Cost Calculator](https://cloudpartners.transform.microsoft.com/download?assetname=assets/Azure_Sentinel_Calculator.xlsx&download=1)
 * [Azure Data Explorer (Kusto) Cost Estimator](https://dataexplorer.azure.com/AzureDataExplorerCostEstimator.html)
 
@@ -110,6 +132,8 @@ Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some
    * Azure Activity Logs
    * Office 365 Audit Logs (e.g., SharePoint activity, Exchange activity, Teams)
    * Alerts from Microsoft Defender products
+   * Azure Information Protection Alerts
+   * Microsoft Defender for IoT Alerts
 
 Reference [Plan Costs and Microsoft Sentinel Pricing and Billing - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/billing?tabs=commitment-tier) for further information.
 
