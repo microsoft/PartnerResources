@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Purview
 description: Resources for Data Governance with Microsoft Purview
-updated: 2022-12-01
+updated: 2022-12-29
 permalink: /azure/data-analytics-ai/microsoft-purview
 redirect_from:
   - /azure/data-analytics-ai/azure-purview
@@ -46,6 +46,7 @@ tags:
 
 * [Microsoft Purview Resource Provider Rest API](https://aka.ms/PurviewAPIDoc)
 * [PyApacheAtlas: A Python SDK for Azure Purview and Apache Atlas](https://github.com/wjohnson/pyapacheatlas)
+* [Azure Purview SHIR VM: Deep Dive into VM using WinDBG to show metadata and data classification flow](https://youtu.be/89AFA7IXz4A) (12 Minutes)
 
 ## Hands on lab
 
