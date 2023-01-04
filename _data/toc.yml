@@ -68,9 +68,9 @@
         - title: Sustainability
           url: "industry/sustainability"
           tag: sustainability
-    - title: Modern Workplace + Security
+    - title: Modern Workplace
       url: "modern-workplace"
-      tag: modern workplace and security
+      tag: modern workplace
       children:
         - title: Management
           url: "modern-workplace/management"
@@ -78,9 +78,9 @@
         - title: Microsoft Teams
           url: "modern-workplace/microsoft-teams"
           tag: microsoft teams
-        - title: Security
-          url: "modern-workplace/security"
-          tag: security
+    - title: Security
+      url: "security"
+      tag: security
 - title: Academies
   url: "skilling/academies"
   tag: academies

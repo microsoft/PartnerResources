@@ -2,11 +2,11 @@
 layout: page
 title: Zero Trust
 description: Resources for Zero Trust
-updated: 2022-12-07
-permalink: /modern-workplace/security/zero-trust
+updated: 2023-01-04
+permalink: /security/zero-trust
 tags:
-- learning plan
 - security
+- learning plan
 - microsoft security academy
 - zero trust resources
 ---

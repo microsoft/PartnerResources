@@ -1,7 +1,7 @@
 ---
 layout: planlist
 title: Security Readiness Resources
-permalink: /modern-workplace/security/
+permalink: /security/
 includemethod: all
 includeplans:
 - security

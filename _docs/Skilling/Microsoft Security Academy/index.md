@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2022-12-15
+updated: 2022-12-16
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -68,7 +68,7 @@ Below you will find information about security certifications critical for learn
 * [Study Guide by Charbel Nemnom, MVP](https://aka.ms/SC-300StudyGuide)
 
 
-#### Microsoft Information Protection Administrator (SC-400) 
+#### Microsoft Information Protection Administrator (SC-400)
 #### Exam Overview
 * Implement information protection (35–40%)
 * Implement data loss prevention (30–35%)
@@ -104,4 +104,3 @@ Below you will find information about security certifications critical for learn
 
 
 {% include_relative footer.md %}
-

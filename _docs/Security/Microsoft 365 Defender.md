@@ -2,13 +2,13 @@
 layout: page
 title: Microsoft 365 Defender Resources
 description: Resources for Microsoft 365 Defender
-updated: 2022-12-15
-permalink: /modern-workplace/security/microsoft-defender
+updated: 2023-01-04
+permalink: /security/microsoft-defender
 redirect_from:
-  - /modern-workplace/security/microsoft-defender-for-endpoint-training
+  - /security/microsoft-defender-for-endpoint-training
 tags:
-- learning plan
 - security
+- learning plan
 - microsoft security academy
 - siem & xdr
 - 365 defender resources
@@ -51,4 +51,3 @@ Below you will find content to assist in upskilling on Microsoft Defender. Conte
 ## Compliance Manager
 * [Microsoft Compliance Manager (MSCM) Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-compliance-manager-mscm-ninja-training-q1-2022/ba-p/3181322#:~:text=Microsoft%20Compliance%20Manager%20%28MSCM%29%20Ninja%20Training%3A%20Q1%202022,Compliance%20Score%20Calculation%20%203%20more%20rows%20)
 * [Quick Assessment Recommendations in Microsoft Compliance Manager - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/quickly-get-assessment-recommendations-in-microsoft-compliance/ba-p/3170065)
-

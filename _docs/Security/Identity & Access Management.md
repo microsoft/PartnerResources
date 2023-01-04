@@ -2,11 +2,11 @@
 layout: page
 title: Identity & Access Management
 description: Resources for Identity and Access Management
-updated: 2022-12-08
-permalink: /modern-workplace/security/identity-and-access-management
+updated: 2023-01-04
+permalink: /security/identity-and-access-management
 tags:
-- learning plan
 - security
+- learning plan
 - microsoft security academy
 - identity and access management resources
 ---
@@ -28,4 +28,3 @@ Below you will find content to assist in upskilling on Identity & Access Managem
 ## Expert
 * [Microsoft Identity Platform Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
 * [Enable a Combined MFA and SSPR Registration Experience in Azure AD](https://mslearn.cloudguides.com/en-us/guides/Enable%20a%20combined%20MFA%20and%20SSPR%20registration%20experience%20in%20Azure%20AD)
-
