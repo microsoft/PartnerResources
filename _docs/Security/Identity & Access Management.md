@@ -6,6 +6,7 @@ updated: 2022-12-15
 permalink: /security/identity-and-access-management
 tags:
 - security
+- learning plan
 - microsoft security academy
 - identity and access management resources
 ---
