@@ -2,7 +2,7 @@
 layout: page
 title: Identity & Access Management
 description: Resources for Identity and Access Management
-updated: 2022-12-15
+updated: 2023-01-04
 permalink: /security/identity-and-access-management
 tags:
 - security

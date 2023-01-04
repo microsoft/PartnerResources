@@ -2,10 +2,11 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2022-12-21
+updated: 2023-01-04
 permalink: /security/microsoft-sentinel
 tags:
 - security
+- learning plan
 - microsoft security academy
 - siem & xdr
 - sentinel resources
