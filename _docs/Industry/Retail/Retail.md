@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Cloud for Retail
 description: Resources for Retailers using the Microsoft Cloud
-updated: 2022-12-01
+updated: 2023-1-4
 permalink: /industry/retail/retail-resources
 tags:
 - learning plan
