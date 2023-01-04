@@ -2,7 +2,7 @@
 layout: page
 title: Power Platform
 description: Resources for Power Platform
-updated: 2022-12-19
+updated: 2023-4-1
 permalink: /business-applications/power-platform/power-platform-learning-plan
 tags:
 - learning plan
@@ -95,6 +95,7 @@ Keeping Up
 * [Power CAT Team](https://www.youtube.com/playlist?list=PLi9EhCY4z99W2QOTgbwhFZEjpqc8YZDVH) (YouTube videos)
 * [Partner Technical Success Channel](https://www.microsoft.com/en-us/us-partner-blog/2021/04/22/announcing-the-new-partner-technical-success-channel) (Other)
 * [Power Platform Blog](https://cloudblogs.microsoft.com/powerplatform) (Other)
+* [Microsoft 365 Developer Podcast](https://www.m365devpodcast.com/)
 
 ## Events
 
