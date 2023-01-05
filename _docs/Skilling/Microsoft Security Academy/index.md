@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2022-12-16
+updated: 2023-01-05
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -25,6 +25,8 @@ Welcome to the Microsoft Security Academy! This academy is organized into five p
 
 ## Important Updates
 We'll update this section with our upcoming events or critical content! For other Microsoft Security content, explore the [Microsoft Security Youtube](https://www.youtube.com/@MicrosoftSecurity/featured) or the [Microsoft Security Community YouTube](https://www.youtube.com/channel/UCGTUbqE3SJiLgtvWjIkSQuQ). For documentation, explore the [Microsoft Security Technical Content Library](https://www.microsoft.com/en-us/security/content-library/Home/Index?culture=en-US).
+
+Interested in Security Compliance and Identity training? Register for events at [Enable Security Compliance and Identity](aka.ms/EnableSCI)!
 
 
 ## Security Certifications
