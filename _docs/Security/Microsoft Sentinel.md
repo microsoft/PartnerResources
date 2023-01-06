@@ -70,6 +70,7 @@ Use these steps to build a demo instance; free for one month
 * [MustLearnKQL Blog Series](https://github.com/rod-trent/MustLearnKQL)
 * [KQL Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet)
 * [Advanced KQL Framework Workbook - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766)
+* [KQL Search](https://www.kqlsearch.com)
 
 #### ADX
    * [What is a free Azure Data Explorer Cluster? - Microsoft Docs](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free)
