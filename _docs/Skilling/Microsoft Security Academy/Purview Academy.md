@@ -17,8 +17,7 @@ Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessio
 
 
 ### Sessions
-[Microsoft Purview End-to-End eDiscovery Workflow Implementation](https://msuspartners.eventbuilder.com/event/62424?source=EnablePurview) 
-
+###### [Microsoft Purview End-to-End eDiscovery Workflow Implementation](https://msuspartners.eventbuilder.com/event/62424?source=EnablePurview) 
 Learn how to detect, preserve, collect, process, cull, and analyze data in-place and do an end-to-end eDiscovery workflow. Discover how you can find and collect data, streamline your eDiscovery process with an end-to-end workflow, and get insights quickly with built-in capabilities.
 
 [Conquer Risk Management & Subject Rights Request with Microsoft Priva](https://msuspartners.eventbuilder.com/event/62426?source=EnablePurview) - In this session, explore how to use Microsoft Priva to meet regulatory requirements, build customer trust, and help organizations take a "privacy by default" stance. Dive into Priva's capabilities including Priva Privacy Risk Management, which provides visibility into your organization's data and policy templates; and Priva Subject Rights Requests, which provides automation and workflow tools for fulfilling data requests.
