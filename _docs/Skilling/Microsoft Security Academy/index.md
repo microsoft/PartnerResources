@@ -43,6 +43,7 @@ Below you will find information about security certifications critical for learn
 #### Exam Resources
 * [SC-100 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/sc-100)
 * [John Savill Study Cram](https://www.youtube.com/watch?v=2Qu5gQjNQh4)
+* [Study Guide by Charbel Nemnom, MVP](https://nemnom.ch/sc100)
 
 
 #### Microsoft Security Operations Analyst (SC-200)
