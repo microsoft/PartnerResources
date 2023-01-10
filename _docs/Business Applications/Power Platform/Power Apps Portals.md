@@ -1,22 +1,24 @@
 ---
 layout: page
-title: Power Apps Portals
-description: Resources for Power Apps Portals
-updated: 2022-12-19
+title: Power Pages
+description: Resources for Power Pages formerly known as Power Apps Portals
+updated: 2023-1-10
 permalink: /business-applications/power-platform/power-apps-portals
 tags:
 - learning plan
 - business applications
 - power platform
 - power apps portals
+- power pages
 ---
 
-# Learning Plan Resources for Power Apps Portals
+# Learning Plan Resources for Power Pages
 
-You can find important resources and learning paths for successfully ramping up on Power Apps Portal
+You can find important resources and learning paths for successfully ramping up on Power Pages (formerly Power Apps Portal
 
-## Power Apps Portal - Fundamentals
+## Power Pages - Fundamentals
 
+* [Power Pages Learning](https://learn.microsoft.com/en-us/power-pages/)
 * [Get Started with Power Apps portals](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fpaths%2Fget-started-power-apps-portals%2F&data=02%7C01%7Csshashi%40microsoft.com%7C8ef16d215e3c47a4282908d85b1ac4b2%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637359517812677124&sdata=LNB1yXBoEhXa0aneIimfAKgnVE6T1Kdspas7BSrFckI%3D&reserved=0) - This training has 5 modules covering fundamentals of Power Apps Portal and it includes Hands on exercises in some of the modules.
 * [Work with Power Apps portals](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fpaths%2Fwork-power-apps-portals%2F&data=02%7C01%7Csshashi%40microsoft.com%7C8ef16d215e3c47a4282908d85b1ac4b2%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637359517812697038&sdata=NwaDbeoDkWu7hXpxT7sBIXfb1UHYbFH6AmEXmYa8O3A%3D&reserved=0) - This training includes 6 modules covering some of the other important concepts around Portal content management and design.
 * [Complete Portals Documentation](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpowerapps%2Fmaker%2Fportals%2Foverview&data=02%7C01%7Csshashi%40microsoft.com%7C8ef16d215e3c47a4282908d85b1ac4b2%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637359517812697038&sdata=Sby48Ka9H0Y2dQd1c%2F02B%2BUU3MDNTsAer%2Fo6YrUK%2Fdo%3D&reserved=0)
