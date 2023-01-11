@@ -102,6 +102,7 @@ tags:
 * [AVS Deployment Checklist](https://learn.microsoft.com/en-us/azure/azure-vmware/production-ready-deployment-steps)
 * [AVS Networking Checklist](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-network-checklist)
 * [Azure Migrate Assessment for AVS](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmware-solution-assessment)
+
 ### Design Considerations
 * [Availability Design Considerations](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-availability-design-considerations/ba-p/3682915)
 * [Auto-Scale](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-auto-scale/ba-p/3690186)
