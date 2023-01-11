@@ -2,7 +2,7 @@
 layout: page
 title: Power Pages
 description: Resources for Power Pages formerly known as Power Apps Portals
-updated: 2023-1-10
+updated: 2023-1-11
 permalink: /business-applications/power-platform/power-apps-portals
 tags:
 - learning plan
@@ -14,7 +14,7 @@ tags:
 
 # Learning Plan Resources for Power Pages
 
-You can find important resources and learning paths for successfully ramping up on Power Pages (formerly Power Apps Portal
+You can find important resources and learning paths for successfully ramping up on Power Pages (formerly Power Apps Portal)
 
 ## Power Pages - Fundamentals
 
