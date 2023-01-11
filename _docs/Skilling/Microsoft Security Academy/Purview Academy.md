@@ -3,7 +3,7 @@ layout: page
 title: Risk Management & Privacy - Microsoft Purview Academy
 description: Microsoft Security Academy Risk Management & Privacy.
 permalink: /skilling/microsoft-security-academy/purview-academy
-updated: 2023-01-10
+updated: 2023-01-11
 showbreadcrumb: true
 Tags:
 - academy content
@@ -25,7 +25,7 @@ Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessio
 
 [Unified Data Governance with Microsoft Purview](https://msuspartners.eventbuilder.com/event/62418?source=EnablePurview) --- Discover how to create an up-to-date map of your data landscape with automated data discovery, sensitive data classification, and end-to-end data lineage. Learn how to get insights into the location and movement of sensitive data and enable data consumers to access valuable, trustworthy data management.
 
-[Understanding & Maximizing Microsoft Purview Data Loss Prevention](https://msuspartners.eventbuilder.com/event/62419?source=EnablePurview) --- Learn how to prevent data loss by identifying the inappropriate sharing, transfer, or use of sensitive data on endpoints, apps, and services. Leverage native, built-in protection for Windows 10, Office apps, and Edge. Utilize best practices for ensuring successful Microsoft Purview DLP deployment.
+[Understanding & Maximizing Microsoft Purview Data Loss Prevention](https://msuspartners.eventbuilder.com/event/62419?source=EnablePurview) --- Learn how to prevent data loss by identifying the inappropriate sharing, transfer, or use of sensitive data on endpoints, apps, and services. Leverage native, built-in protection for Windows 10, Office apps, and Edge. Lastly, utilize best practices for ensuring successful Microsoft Purview DLP deployment.
 
 [Leverage an Integrated Approach to Identifying Insider Risks with Microsoft Purview IRM](https://msuspartners.eventbuilder.com/event/62420?source=EnablePurview) --- Analyze integrated approaches for insider risk policies that can define the types of risks to identify and detect, along with quickly taking appropriate actions to ensure users are compliant with compliance standards.
 
