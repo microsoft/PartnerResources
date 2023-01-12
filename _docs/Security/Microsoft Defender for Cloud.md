@@ -9,7 +9,7 @@ tags:
 - learning plan
 - microsoft security academy
 - cloud security
-- defender for cloud resources
+- defender for cloud resources 
 ---
 
 # Microsoft Defender for Cloud Readiness Resources
