@@ -6,7 +6,7 @@ updated: 2023-01-11
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
-showbreadcrumb: true
+showbreadcrumb: true 
 ---
 
 {% include_relative header.md %}
