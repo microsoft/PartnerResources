@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PartnerResources
+title: PartnerResources 
 permalink: /github
 ---
 
