@@ -2,7 +2,7 @@
 layout: page
 title: D365 Marketing Academy - Analytics
 description: D365 Marketing Academy - Analytics
-permalink: /skilling/d365-marketing-academy/Analytics
+permalink: /skilling/d365-marketing-academy/analytics
 showbreadcrumb: true
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: D365 Marketing Academy - Email
 description: D365 Marketing Academy - Email
-permalink: /skilling/d365-marketing-academy/Email
+permalink: /skilling/d365-marketing-academy/email
 showbreadcrumb: true
 ---
 
