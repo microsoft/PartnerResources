@@ -8,7 +8,7 @@ showbreadcrumb: true
 
 # {{ page.title }}
 
-D365 Marketing Academy - Analytics description
+D365 Marketing Academy - Analytics
 
  {% include series.md 
     includetags="d365 marketing academy" includemethod="all" 
