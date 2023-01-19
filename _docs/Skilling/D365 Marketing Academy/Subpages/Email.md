@@ -8,7 +8,7 @@ showbreadcrumb: true
 
 # {{ page.title }}
 
-D365 Marketing Academy - Email description
+D365 Marketing Academy - Email
 
  {% include series.md 
     includetags="d365 marketing academy" includemethod="all" 
