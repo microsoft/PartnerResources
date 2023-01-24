@@ -17,7 +17,7 @@ Welcome to the Microsoft Security Academy! This academy is organized into five p
 * [Identity & Access](/PartnerResources/skilling/microsoft-security-academy/identity-access): Microsoft Entra Academy
 * [Endpoint Security](/PartnerResources/skilling/microsoft-security-academy/endpoint-security): Microsoft Endpoint Security Academy
 * [SIEM & XDR](/PartnerResources/skilling/microsoft-security-academy/siem-xdr): Microsoft Sentinel Academy, Microsoft 365 Defender Academy
-* [Risk Management & Privacy](/PartnerResources/skilling/microsoft-security-academy/risk-mgmt): Microsoft Purview Academy
+* [Risk Management & Privacy](/PartnerResources/skilling/microsoft-security-academy/risk-mgmt): Microsoft Purview Academy 
 
 
 ## Organization
