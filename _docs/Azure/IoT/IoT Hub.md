@@ -21,8 +21,8 @@ Use IoT Hub to build your IoT application with two-way communication, enabling h
 ## Keeping Up
 
 * Refer to the [IoT Blog site](https://azure.microsoft.com/blog/topics/internet-of-things/)
-* Watch the [Channel 9 IoT Show](https://aka.ms/IoTShow)
-* Review Azure Updates for [IoT Hub](https://azure.microsoft.com/en-us/updates/?query=%22iot%20hub%22)
+* Watch the [Channel 9 IoT Show - IoT Hub & DPS Playlist](https://www.youtube.com/playlist?list=PL1ljc761XCiZyt07HDtDvhBM19xPladQJ)
+* Review Azure Updates for [IoT Hub](https://azure.microsoft.com/updates/?query=%22iot%20hub%22)
 * Follow the [Microsoft IoT Developer](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ) channel on YouTube
 * See [IoT in the Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT)
 * See the [US Partner Community Internet of Things](https://aka.ms/OCP-IoT) group
