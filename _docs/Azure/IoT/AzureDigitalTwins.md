@@ -41,6 +41,7 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 
 ## Associate
 
+* [Blog: Azure Digital Twins Query Builder](https://techcommunity.microsoft.com/t5/internet-of-things-blog/digital-twins-query-builder/ba-p/3511882)
 * [MS Learn: Build mixed reality digital twins with Azure Digital Twins and Unity](https://docs.microsoft.com/learn/paths/build-mixed-reality-azure-digital-twins-unity/) (Self-Paced) (3 Hours 59 Minutes)
 * [Azure IoT Reference Architecture](https://learn.microsoft.com/azure/architecture/reference-architectures/iot) (Self-Paced) (9 Minutes)
 * [Smart Places with Azure Digital Twins](https://docs.microsoft.com/azure/architecture/example-scenario/iot/smart-places)
@@ -50,6 +51,7 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 
 ## Expert
 
+* [Blog: Creating Dashboards with Azure Digital Twins, Azure Data Explorer, and Grafana](https://techcommunity.microsoft.com/t5/internet-of-things-blog/creating-dashboards-with-azure-digital-twins-azure-data-explorer/ba-p/3277879)
 * [Blog: Visualizing Azure Digital Twins in 3D](https://techcommunity.microsoft.com/t5/internet-of-things-blog/visualizing-azure-digital-twins-in-3d/ba-p/2898159)
 
 ## Demos
@@ -61,7 +63,7 @@ GitHub Azure Samples:
 
 ## Community Resources
 
-* [US Partner Community - Internet of Things](https://aka.ms/MPC-IoT)
+* [Microsoft Partner Community - Internet of Things](https://aka.ms/MPC-IoT)
 * [Azure Digital Twins Documentation](https://docs.microsoft.com/azure/digital-twins/)
 * [Azure Digital Twins on MS Learn](https://learn.microsoft.com/training/browse/?terms=%22Digital%20Twins%22)
 * [Microsoft Q&A](https://learn.microsoft.com/answers/) - Get answers to your questions using the tag: *azure-digital-twins*
