@@ -21,7 +21,7 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 ## Keeping Up
 
 * Refer to the [IoT Blog site](https://azure.microsoft.com/blog/topics/internet-of-things/?WT.mc_id=gpsus-set-diphilli)
-* Watch the [Channel 9 IoT Show](https://aka.ms/IoTShow/?WT.mc_id=gpsus-set-diphilli)
+* Watch the [Channel 9 IoT Show - Azure Digital Twins Playlist](https://www.youtube.com/playlist?list=PL1ljc761XCiYfsAlacKK4gpaMoTIH2nSU)
 * Follow the [Microsoft IoT Developer](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ/?WT.mc_id=gpsus-set-diphilli) channel on YouTube
 * See [IoT in the Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT/?WT.mc_id=gpsus-set-diphilli)
 * Engage in the [Microsoft Partner Community Internet of Things](https://aka.ms/MPC-IoT) group (Must sign in to see content)
@@ -45,6 +45,7 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 * [Smart Places with Azure Digital Twins](https://docs.microsoft.com/azure/architecture/example-scenario/iot/smart-places)
 * [Blog: Powering Microsoft Smart Buildings with Microsoft Azure Digital Twins](https://www.microsoft.com/insidetrack/blog/powering-microsoft-smart-buildings-with-microsoft-azure-digital-twins/)
 * [Blog: How Microsoft is Delivering Smart Building Experiences with CI/CD for Azure Digital Twins](https://www.microsoft.com/insidetrack/blog/how-microsoft-is-delivering-smart-building-experiences-with-ci-cd-for-azure-digital-twins/)
+* [Blog Article: Rewind the Metaverse with Data History for Azure Digital Twins](https://techcommunity.microsoft.com/t5/internet-of-things-blog/rewind-the-metaverse-with-data-history-for-azure-digital-twins/ba-p/3145153)
 
 ## Expert
 
@@ -69,6 +70,7 @@ GitHub Azure Samples:
 ## Events
 
 * [Tech Talk: Azure Digital Twins - Feb 2022](https://msuspartners.eventbuilder.com/event/55367) (90 Minutes)
+* [Channel 9 IoT Show - Azure Digital Twins Playlist](https://www.youtube.com/playlist?list=PL1ljc761XCiYfsAlacKK4gpaMoTIH2nSU)
 * [Channel 9 IoT Show](https://aka.ms/IoTShow) (Self-Paced)
 
 ## Certifications
