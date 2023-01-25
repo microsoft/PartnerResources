@@ -20,7 +20,7 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 
 ## Keeping Up
 
-* Refer to the [IoT Blog site](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/?WT.mc_id=gpsus-set-diphilli)
+* Refer to the [IoT Blog site](https://azure.microsoft.com/blog/topics/internet-of-things/?WT.mc_id=gpsus-set-diphilli)
 * Watch the [Channel 9 IoT Show](https://aka.ms/IoTShow/?WT.mc_id=gpsus-set-diphilli)
 * Follow the [Microsoft IoT Developer](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ/?WT.mc_id=gpsus-set-diphilli) channel on YouTube
 * See [IoT in the Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT/?WT.mc_id=gpsus-set-diphilli)
@@ -28,21 +28,21 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 
 ## Fundamentals
 
-* [Azure Digital Twins Product Website](https://azure.microsoft.com/en-us/services/digital-twins/)
-* [What is Azure Digital Twins?](https://docs.microsoft.com/en-us/azure/digital-twins/overview)
-* [Azure Digital Twins Video](https://docs.microsoft.com/en-us/shows/azure-videos/azure-digital-twins-video) (2 Minutes)
-* [MS Learn: Extend IoT solutions by using Azure Digital Twins](https://docs.microsoft.com/en-us/learn/paths/extend-iot-solutions-by-using-azure-digital-twins/) (Self-Paced) (3 Hours 32 Minutes)
-* [Quickstart: Get started with a sample scenario in Azure Digital Twins Explorer](https://docs.microsoft.com/en-us/azure/digital-twins/quickstart-azure-digital-twins-explorer) (Self-Paced) (12 Minutes)
-* [Tutorial: Coding with the Azure Digital Twins APIs](https://docs.microsoft.com/en-us/azure/digital-twins/tutorial-code) (Self-Paced) (15 Minutes)
-* [Tutorial: Build out an end-to-end Solution](https://docs.microsoft.com/en-us/azure/digital-twins/tutorial-end-to-end) (Self-Paced) (25 Minutes)
-* [Ingest IOT Hub Telemetry into Azure Digital Twins](https://docs.microsoft.com/en-us/azure/digital-twins/how-to-ingest-iot-hub-data) (Self-Paced) (11 Minutes)
-* [Code Sample: Azure Digital Twins and IoT Hub Provisioning Integration Sample](https://docs.microsoft.com/en-us/samples/azure-samples/digital-twins-iothub-integration/adt-iothub-provision-sample/)
+* [Azure Digital Twins Product Website](https://azure.microsoft.com/services/digital-twins/)
+* [What is Azure Digital Twins?](https://docs.microsoft.com/azure/digital-twins/overview)
+* [Azure Digital Twins Video](https://docs.microsoft.com/shows/azure-videos/azure-digital-twins-video) (2 Minutes)
+* [MS Learn: Extend IoT solutions by using Azure Digital Twins](https://docs.microsoft.com/learn/paths/extend-iot-solutions-by-using-azure-digital-twins/) (Self-Paced) (3 Hours 32 Minutes)
+* [Quickstart: Get started with a sample scenario in Azure Digital Twins Explorer](https://docs.microsoft.com/azure/digital-twins/quickstart-azure-digital-twins-explorer) (Self-Paced) (12 Minutes)
+* [Tutorial: Coding with the Azure Digital Twins APIs](https://docs.microsoft.com/azure/digital-twins/tutorial-code) (Self-Paced) (15 Minutes)
+* [Tutorial: Build out an end-to-end Solution](https://docs.microsoft.com/azure/digital-twins/tutorial-end-to-end) (Self-Paced) (25 Minutes)
+* [Ingest IOT Hub Telemetry into Azure Digital Twins](https://docs.microsoft.com/azure/digital-twins/how-to-ingest-iot-hub-data) (Self-Paced) (11 Minutes)
+* [Code Sample: Azure Digital Twins and IoT Hub Provisioning Integration Sample](https://docs.microsoft.com/samples/azure-samples/digital-twins-iothub-integration/adt-iothub-provision-sample/)
 
 ## Associate
 
-* [MS Learn: Build mixed reality digital twins with Azure Digital Twins and Unity](https://docs.microsoft.com/en-us/learn/paths/build-mixed-reality-azure-digital-twins-unity/) (Self-Paced) (3 Hours 59 Minutes)
-* [Azure IoT Reference Architecture](https://docs.microsoft.com/azure/architecture/reference-architectures/iot/index) (Self-Paced) (9 Minutes)
-* [Smart Places with Azure Digital Twins](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/iot/smart-places)
+* [MS Learn: Build mixed reality digital twins with Azure Digital Twins and Unity](https://docs.microsoft.com/learn/paths/build-mixed-reality-azure-digital-twins-unity/) (Self-Paced) (3 Hours 59 Minutes)
+* [Azure IoT Reference Architecture](https://learn.microsoft.com/azure/architecture/reference-architectures/iot) (Self-Paced) (9 Minutes)
+* [Smart Places with Azure Digital Twins](https://docs.microsoft.com/azure/architecture/example-scenario/iot/smart-places)
 * [Blog: Powering Microsoft Smart Buildings with Microsoft Azure Digital Twins](https://www.microsoft.com/insidetrack/blog/powering-microsoft-smart-buildings-with-microsoft-azure-digital-twins/)
 * [Blog: How Microsoft is Delivering Smart Building Experiences with CI/CD for Azure Digital Twins](https://www.microsoft.com/insidetrack/blog/how-microsoft-is-delivering-smart-building-experiences-with-ci-cd-for-azure-digital-twins/)
 
@@ -60,9 +60,9 @@ GitHub Azure Samples:
 ## Community Resources
 
 * [US Partner Community - Internet of Things](https://aka.ms/MPC-IoT)
-* [Azure Digital Twins Documentation](https://docs.microsoft.com/en-us/azure/digital-twins/)
-* [Azure Digital Twins on MS Learn](https://docs.microsoft.com/en-us/learn/paths/develop-azure-digital-twins/)
-* [Partner Network - IoT Site](https://partner.microsoft.com/en-US/solutions/azure/internet-of-things#simple-tab-content-1)
+* [Azure Digital Twins Documentation](https://docs.microsoft.com/azure/digital-twins/)
+* [Azure Digital Twins on MS Learn](https://docs.microsoft.com/learn/paths/develop-azure-digital-twins/)
+* [Partner Network - IoT Site](https://partner.microsoft.com/solutions/azure/internet-of-things#simple-tab-content-1)
 * [IoT Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT) (Self-Paced)
 * [Internet of Things Blog: Azure Digital Twins](https://techcommunity.microsoft.com/t5/internet-of-things-blog/bg-p/IoTBlog/label-name/Azure%20Digital%20Twins)
 
@@ -74,4 +74,4 @@ GitHub Azure Samples:
 ## Certifications
 
 * [AZ-220 Microsoft Azure IoT Developer](https://docs.microsoft.com/learn/certifications/exams/az-220) (Self-Paced) (36 Hours)
-* [AZ-220T00 Microsoft Azure IoT Developer](https://docs.microsoft.com/en-us/learn/certifications/courses/az-220t00) (In-person Instructor Led) (3 Days)
+* [AZ-220T00 Microsoft Azure IoT Developer](https://docs.microsoft.com/learn/certifications/courses/az-220t00) (In-person Instructor Led) (3 Days)
