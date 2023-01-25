@@ -62,7 +62,8 @@ GitHub Azure Samples:
 
 * [US Partner Community - Internet of Things](https://aka.ms/MPC-IoT)
 * [Azure Digital Twins Documentation](https://docs.microsoft.com/azure/digital-twins/)
-* [Azure Digital Twins on MS Learn](https://learn.microsoft.com/en-us/training/browse/?terms=%22Digital%20Twins%22)
+* [Azure Digital Twins on MS Learn](https://learn.microsoft.com/training/browse/?terms=%22Digital%20Twins%22)
+* [Microsoft Q&A](https://learn.microsoft.com/answers/) - Get answers to your questions using the tag: *azure-digital-twins*
 * [Partner Network - IoT Site](https://partner.microsoft.com/solutions/azure/internet-of-things#simple-tab-content-1)
 * [IoT Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT) (Self-Paced)
 * [Internet of Things Blog: Azure Digital Twins](https://techcommunity.microsoft.com/t5/internet-of-things-blog/bg-p/IoTBlog/label-name/Azure%20Digital%20Twins)
