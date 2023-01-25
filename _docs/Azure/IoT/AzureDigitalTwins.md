@@ -24,7 +24,7 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 * Watch the [Channel 9 IoT Show](https://aka.ms/IoTShow/?WT.mc_id=gpsus-set-diphilli)
 * Follow the [Microsoft IoT Developer](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ/?WT.mc_id=gpsus-set-diphilli) channel on YouTube
 * See [IoT in the Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT/?WT.mc_id=gpsus-set-diphilli)
-* See the [Microsoft Partner Community Internet of Things](https://aka.ms/MPC-IoT) group (Must sign in to see content)
+* Engage in the [Microsoft Partner Community Internet of Things](https://aka.ms/MPC-IoT) group (Must sign in to see content)
 
 ## Fundamentals
 
@@ -61,7 +61,7 @@ GitHub Azure Samples:
 
 * [US Partner Community - Internet of Things](https://aka.ms/MPC-IoT)
 * [Azure Digital Twins Documentation](https://docs.microsoft.com/azure/digital-twins/)
-* [Azure Digital Twins on MS Learn](https://docs.microsoft.com/learn/paths/develop-azure-digital-twins/)
+* [Azure Digital Twins on MS Learn](https://learn.microsoft.com/en-us/training/browse/?terms=%22Digital%20Twins%22)
 * [Partner Network - IoT Site](https://partner.microsoft.com/solutions/azure/internet-of-things#simple-tab-content-1)
 * [IoT Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT) (Self-Paced)
 * [Internet of Things Blog: Azure Digital Twins](https://techcommunity.microsoft.com/t5/internet-of-things-blog/bg-p/IoTBlog/label-name/Azure%20Digital%20Twins)
