@@ -22,6 +22,7 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 
 * Refer to the [IoT Blog site](https://azure.microsoft.com/blog/topics/internet-of-things/?WT.mc_id=gpsus-set-diphilli)
 * Watch the [Channel 9 IoT Show - Azure Digital Twins Playlist](https://www.youtube.com/playlist?list=PL1ljc761XCiYfsAlacKK4gpaMoTIH2nSU)
+* Review Azure Updates for [Azure Digital Twins](https://azure.microsoft.com/updates/?query=%22digital%20twins%22)
 * Follow the [Microsoft IoT Developer](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ/?WT.mc_id=gpsus-set-diphilli) channel on YouTube
 * See [IoT in the Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT/?WT.mc_id=gpsus-set-diphilli)
 * Engage in the [Microsoft Partner Community Internet of Things](https://aka.ms/MPC-IoT) group (Must sign in to see content)
