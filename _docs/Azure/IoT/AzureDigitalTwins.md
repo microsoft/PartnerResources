@@ -2,7 +2,7 @@
 layout: page
 title: Azure Digital Twins
 description: Resources for Azure Digital Twins
-updated: 2022-01-31
+updated: 2023-01-24
 permalink: /azure/iot/iot-adt
 tags: 
 - learning plan
@@ -20,11 +20,11 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 
 ## Keeping Up
 
-* Refer to the [IoT Blog site](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/)
-* Watch the [Channel 9 IoT Show](https://aka.ms/IoTShow)
-* Follow the [Microsoft IoT Developer](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ) channel on YouTube
-* See [IoT in the Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT)
-* See the [US Partner Community Internet of Things](https://aka.ms/MCP-IoT) group (Must sign in to see content)
+* Refer to the [IoT Blog site](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/?WT.mc_id=gpsus-set-diphilli)
+* Watch the [Channel 9 IoT Show](https://aka.ms/IoTShow/?WT.mc_id=gpsus-set-diphilli)
+* Follow the [Microsoft IoT Developer](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ/?WT.mc_id=gpsus-set-diphilli) channel on YouTube
+* See [IoT in the Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT/?WT.mc_id=gpsus-set-diphilli)
+* See the [Microsoft Partner Community Internet of Things](https://aka.ms/MPC-IoT) group (Must sign in to see content)
 
 ## Fundamentals
 
