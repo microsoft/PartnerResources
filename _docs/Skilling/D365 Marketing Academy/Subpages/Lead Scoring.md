@@ -7,8 +7,7 @@ showbreadcrumb: true
 ---
 
 # {{ page.title }}
-
-D365 Marketing Academy - Lead Scoring description
+An area where marketing is pressured has to do with finding new leads, qualifying them, and then sending sales-ready leads to salespeople. To help Marketers identify the most qualified leads, they create lead scores. Each score is based on criteria that includes each lead's demographic details and interaction record.
 
  {% include series.md 
     includetags="d365 marketing academy" includemethod="all" 
@@ -18,4 +17,4 @@ D365 Marketing Academy - Lead Scoring description
 
 ### Supporting Resources for these videos
 
-D365 Marketing Academy - Lead Scoring
+* <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/set-up-lead-scoring" target="_blank">Set up lead scoring
