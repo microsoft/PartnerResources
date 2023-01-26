@@ -20,3 +20,4 @@ Push notifications are messages sent to customers who have installed your mobile
 ### Supporting Resources for these videos
 
 * <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-push-notifications" target="_blank">Create Push notifications
+* <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-developer-push" target="_blank">Push notifications for developers
