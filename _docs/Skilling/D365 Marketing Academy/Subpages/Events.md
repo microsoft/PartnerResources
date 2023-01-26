@@ -8,7 +8,7 @@ showbreadcrumb: true
 
 # {{ page.title }}
 
-D365 Marketing Academy - Events description
+Live events and webinars are a vital sales and marketing channel. But events and webinars can be complex to arrange, execute, and follow up on. The Dynamics 365 Marketing event management feature helps Marketers every step of the way, from initial planning and budgeting through promotion and publication, attendee registration, webinar broadcasting, final analytics, lead generation, and evaluation of ROI.
 
  {% include series.md 
     includetags="d365 marketing academy" includemethod="all" 
@@ -17,5 +17,4 @@ D365 Marketing Academy - Events description
 %}
 
 ### Supporting Resources for these videos
-
-D365 Marketing Academy - Events
+* <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/event-management" target="_blank">Event planning
