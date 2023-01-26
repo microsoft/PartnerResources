@@ -183,6 +183,9 @@
         - title: Analytics
           url: "skilling/d365-marketing-academy/analytics"
           tag: d365 marketing academy analytics
+        - title: E-mail
+          url: "skilling/d365-marketing-academy/email"
+          tag: d365 marketing academy email
     - title: "D365 Sales Academy"
       url: "skilling/d365-sales-academy"
       tag: d365 sales academy
