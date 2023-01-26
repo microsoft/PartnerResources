@@ -18,4 +18,4 @@ Text messages (SMS) allow marketers to reach customers directly on their mobile 
 
 ### Supporting Resources for these videos
 * <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-outbound-text-messaging" target="_blank">Create Text messages
-* <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/set-up-automated-sms-keyword-flow" target="_blank">Set up text messages word flow
+* <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/set-up-automated-sms-keyword-flow" target="_blank">Set up text messages key word flow
