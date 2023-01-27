@@ -159,6 +159,9 @@
       url: "skilling/d365-marketing-academy"
       tag: d365 marketing academy
       children:
+        - title: Getting Started
+          url: "skilling/d365-marketing-academy/gettingstarted"
+          tag: d365 marketing academy gettingstarted
         - title: Segments
           url: "skilling/d365-marketing-academy/segments"
           tag: d365 marketing academy segments
