@@ -19,5 +19,5 @@ Watch the brief video titled Getting Started to understand how to get started wi
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
 %}
-* <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-email" target="_blank">Create Real time marketing emails
-* <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/content-ideas" target="_blank">Leverage Artificial Intelligence to kickstart email creation
+* <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/help-hub" target="_blank">Dynamics 365 Docs Hub
+* <a href="aka.ms/EnableUS" target="_blank">Visit aka.ms/EnableUS for all upcoming partner enablement events
