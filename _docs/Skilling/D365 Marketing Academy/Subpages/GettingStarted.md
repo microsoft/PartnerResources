@@ -8,7 +8,11 @@ showbreadcrumb: true
 
 # {{ page.title }}
 
-Getting Started
+D365 Marketing - Getting Started
+
+This current video academy is an on-demand version of the live, Dynamics 365 Marketing in a Day workshop. The hands-on workshop is designed for Presales consultants responsible for understanding Dynamics 365 Marketing. Attendees will leave with expertise on how to create, connect and explore an optimized demo environment for new prospective customer scenarios.
+
+Watch the brief video titled Getting Started to understand how to get started with a demo environment, enable features, add contacts and upload images. 
 
  {% include series.md 
     includetags="d365 marketing academy" includemethod="all" 
