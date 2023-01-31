@@ -1,9 +1,9 @@
 ---
 layout: page
-title: D365 Marketing - Viva Sales
-sorttitle: D365 Marketing  - Viva Sales
-description: Provides partners with guidance on how to configure and integrate Viva Sales, Dynamics 365 Sales, Microsoft Outlook and Microsoft Teams.
-updated: 2023-01-17
+title: D365 Marketing - Getting Started
+sorttitle: D365 Marketing  - Getting Started
+description: Provides partners with guidance on how to configure demo enviornments and getting started with D365 Marketing
+updated: 2023-01-31
 permalink: /skilling/d365-marketing-academy/vivasales
 youtubeid: xXiYny_kldU
 tags: 
