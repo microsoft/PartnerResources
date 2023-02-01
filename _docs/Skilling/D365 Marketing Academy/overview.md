@@ -12,7 +12,12 @@ showbreadcrumb: true
 
 ## Sessions
 
-* [Viva Sales](/PartnerResources/skilling/d365-sales-academy/vivasales)
-* [Business Central](/PartnerResources/skilling/business-central-academy/d365)
+All sessions in this academy:
+
+{% include series.md 
+    includetags="d365 marketing academy|academy content" includemethod="all" 
+    sortfield="updated" sortorder="desc" showdate="true" showtags="true" 
+    visualstyle="tiny"
+%}
 
 {% include_relative footer.md %}

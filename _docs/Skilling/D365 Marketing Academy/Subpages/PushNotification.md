@@ -11,9 +11,10 @@ showbreadcrumb: true
 
 Push notifications are messages sent to customers who have installed your mobile app. Push messages allow you to quickly convey offers, messages, or other information directly to users of your app. In this video you will learn the steps to create push notifications. 
 
- {% include series.md 
-    includetags="d365 marketing academy" includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+{% include series.md 
+    includetags="d365 marketing academy|academy content|push notifications" 
+    includemethod="all" sortfield="sorttitle" sortorder="asc" 
+    showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
 %}
 

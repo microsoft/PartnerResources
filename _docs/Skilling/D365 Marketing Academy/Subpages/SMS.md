@@ -10,9 +10,10 @@ showbreadcrumb: true
 
 Text messages (SMS) allow marketers to reach customers directly on their mobile devices. Marketers can send text messages from real-time marketing by generating a phone number to use within the app. 
 
- {% include series.md 
-    includetags="d365 marketing academy" includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+{% include series.md 
+    includetags="d365 marketing academy|academy content|sms" 
+    includemethod="all" sortfield="sorttitle" sortorder="asc" 
+    showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
 %}
 
