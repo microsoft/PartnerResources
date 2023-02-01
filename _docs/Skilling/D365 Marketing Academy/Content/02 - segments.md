@@ -1,7 +1,7 @@
 ---
 layout: page
 title: D365 Marketing - Working with Segments
-sorttitle: D365 Marketing - Working with Segments
+sorttitle: 02 D365 Marketing - Working with Segments
 description: Targeting the right audience is an essential task for Marketers. To build segments Marketers leverage a powerful, easy-to-use logic builder that doesn't require specialized knowledge of complex data structures and logical operators.
 updated: 2023-01-31
 permalink: /skilling/d365-marketing-academy/segments

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: D365 Marketing - Getting Started
-sorttitle: D365 Marketing - Getting Started
+sorttitle: 01 D365 Marketing - Getting Started
 description: Provides partners with guidance on how to configure demo enviornments and getting started with D365 Marketing.
 updated: 2023-01-31
 permalink: /skilling/d365-marketing-academy/getting-started

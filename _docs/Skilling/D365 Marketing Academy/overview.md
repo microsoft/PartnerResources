@@ -16,7 +16,7 @@ All sessions in this academy:
 
 {% include series.md 
     includetags="d365 marketing academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" showtags="true" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="tiny"
 %}
 

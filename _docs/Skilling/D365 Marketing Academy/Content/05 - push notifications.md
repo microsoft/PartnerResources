@@ -1,7 +1,7 @@
 ---
 layout: page
 title: D365 Marketing - Push Notifications
-sorttitle: D365 Marketing - Push Notifications
+sorttitle: 05 D365 Marketing - Push Notifications
 description: D365 Marketing - Push Notifications
 updated: 2023-01-31
 permalink: /skilling/d365-marketing-academy/push-notifications
