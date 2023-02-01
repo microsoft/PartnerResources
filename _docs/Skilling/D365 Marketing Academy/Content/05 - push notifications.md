@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D365 Marketing - Push Notifications
+title: D365 Marketing in a Day - Push Notifications
 sorttitle: 05 D365 Marketing - Push Notifications
 description: D365 Marketing - Push Notifications
 updated: 2023-01-31
