@@ -25,14 +25,11 @@ Additionally, some content may be marked with one or more icons:
 
 ## Keeping Up
 
-{ Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
+* [What's new in Microsoft Cloud for Sustainability] (https://learn.microsoft.com/en-us/industry/sustainability/whats-new)
 
 ## Fundamentals
 
-{ Add fundamental/beginner/high level items here; generally applicable to all audiences }
-
-* [Welcome to Microsoft Cloud for Sustainability](https://www.microsoft.com/en-us/sustainability/cloud)
-    * Accelerate your sustainability journey
+* [Get Started with Microsoft Cloud for Sustainability](https://learn.microsoft.com/en-us/training/paths/get-started-sustainability/)
 
 ## Associate
 
@@ -59,5 +56,5 @@ Additionally, some content may be marked with one or more icons:
 
 ## Community
 
-{ Add links to community resources: blogs, forums, yammer channels, etc. }
+Customers and partners can join the Microsoft Cloud for Sustainability Insider Community run on Yammer by filling out the following form at https://aka.ms/SustainabilityInsider
 

@@ -15,7 +15,6 @@ tags:
 
 ## Fundamentals
 
-* [Dynamics 365 Commerce (Public Preview) | 2019 release wave 2 overview](https://www.youtube.com/watch?v=EQ-Hg2fmkEE) (Self-Paced) (8 Minutes)
 * [Introducing Microsoft Dynamics 365 Connected Store](https://www.youtube.com/watch?v=sKOw9Sfwvc0) (Self-Paced) (2 Minutes)
 * [Introduction to Dynamics 365 Commerce](https://docs.microsoft.com/en-us/learn/wwl/introduction-dynamics-365-commerce/) (Self-Paced) (24 Minutes)
 * [Microsoft Dynamics 365 Commerce and Connected Store Vision](https://www.youtube.com/watch?v=WOpBUpYDf6g) (Self-Paced) (3 Minutes)
@@ -23,6 +22,7 @@ tags:
 * [Templates and layouts overview](https://docs.microsoft.com/en-us/dynamics365/commerce/templates-layouts-overview) (Self-Paced)
 * [Ratings and reviews overview](https://docs.microsoft.com/en-us/dynamics365/commerce/ratings-reviews-overview) (Self-Paced)
 * [Starter kit overview](https://docs.microsoft.com/en-us/dynamics365/commerce/starter-kit-overview) (Self-Paced)
+* [Dynamics 365 Commerce (Public Preview) | 2019 release wave 2 overview](https://www.youtube.com/watch?v=EQ-Hg2fmkEE) (Self-Paced) (8 Minutes)
 
 ## Associate
 
