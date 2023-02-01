@@ -8,6 +8,8 @@ showbreadcrumb: true
 
 # {{ page.title }}
 
+**D365 Marketing in a Day - Working with Segments**
+
 Targeting the right audience is an essential task for Marketers. To build segments Marketers leverage a powerful, easy-to-use logic builder that doesn’t require specialized knowledge of complex data structures and logical operators.
 
 {% include series.md 
