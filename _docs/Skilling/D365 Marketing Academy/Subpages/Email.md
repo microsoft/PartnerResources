@@ -6,9 +6,11 @@ permalink: /skilling/d365-marketing-academy/email
 showbreadcrumb: true
 ---
 
-# **{{ page.title }}**
+**# {{ page.title }}**
 
-Email is a vital marketing channel for most modern organizations. It's also a core feature of Dynamics 365 Marketing, which provides tools for creating graphically rich marketing emails with dynamic, personalized content. In this video you will learn the fundamentals of email marketing inside Dynamics 365 Marketing. 
+**D365 Marketing in a Day - Creating Emails**
+
+Email is a vital marketing channel for most modern organizations. It's also a core feature of Dynamics 365 Marketing, which provides tools for creating graphically rich marketing emails with dynamic, personalized content. In this video titled **Creating Emails** you will learn the fundamentals of email marketing inside Dynamics 365 Marketing. 
 
 {% include series.md 
     includetags="d365 marketing academy|academy content|email" 
