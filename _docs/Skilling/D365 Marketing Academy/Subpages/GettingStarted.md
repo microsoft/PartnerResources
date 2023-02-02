@@ -20,4 +20,4 @@ Watch this brief video titled **Getting Started** to understand how to get start
 %}
 
 * <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/help-hub" target="_blank">Dynamics 365 Marketing Hub
-* <a href="https://www.microsoft.com/partner-training/en-us" target="_blank">Visit aka.ms/EnableUS for all upcoming partner enablement events
+* <a href="https://www.microsoft.com/partner-training/en-us" target="_blank">Visit "aka.ms/EnableUS" for all upcoming partner enablement events
