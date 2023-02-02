@@ -27,6 +27,7 @@ tags:
 * [Azure VMware Solution - Availability by region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&regions=all)
 * [Azure VMware Solution - Service Level Agreements (SLA)](https://azure.microsoft.com/en-us/support/legal/sla/azure-vmware/v1_1/)
 * [Azure VMware Solution - Service Limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-vmware-solution-limits)
+* [Azure VMware Solution - Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-vmware/)
 * [Azure VMware Solution - Projected Total Economic Impact](https://aka.ms/AVSTEIReport)
 
 ### VMware
