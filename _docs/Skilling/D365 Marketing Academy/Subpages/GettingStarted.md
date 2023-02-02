@@ -6,7 +6,7 @@ permalink: /skilling/d365-marketing-academy/gettingstarted
 showbreadcrumb: true
 ---
 
-# {{ page.title }}
+**# {{ page.title }}**
 
 **D365 Marketing in a Day - Getting Started**
 
