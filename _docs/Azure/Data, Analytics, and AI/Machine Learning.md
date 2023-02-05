@@ -1,14 +1,18 @@
 ---
 layout: page
 title: Machine Learning
+description: Resources for Azure Machine Learning (ML)
+updated: 2021-12-01
 permalink: /azure/data-analytics-ai/machine-learning
 tags: 
- - azure
- - machine learning
- - ai
+- azure
+- data, analytics, and ai
+- learning plan
+- machine learning
+- ai
 ---
 
-# Learning Plan Resources for Machine Learning
+# Machine Learning Readiness Resources
 
 This learning plan will guide you through implementing Machine Learning (ML) solutions on Azure with Azure Machine Learning, a suite of services that enables those new to ML, as well as experienced data scientists, to build and operationalize ML models.   
 

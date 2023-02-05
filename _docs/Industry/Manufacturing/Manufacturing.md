@@ -1,15 +1,18 @@
 ---
 layout: page
-title: Manufacturing
-permalink: /industry/manufacturing
+title: Microsoft Cloud for Manufacturing
+description:  Microsoft Cloud for Manufacturing Resources
+updated: 2022-12-01
+permalink: /industry/manufacturing/manufacturing-resources
 tags:
- - industry
- - manufacturing
+- learning plan
+- industry
+- manufacturing
 ---
 
 # Learning Plan Resources for Manufacturing
 
-{ Description of Learning Plan }
+Microsoft Cloud for Manufacturing is designed to deliver capabilities that support the core processes and requirements of the industry. These end-to-end manufacturing cloud solutions include released and new capabilities that help securely connect people, assets, workflow, and business processes, empowering organizations to be more resilient.
 
 Content is broken down as follows:
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
@@ -22,14 +25,14 @@ Additionally, some content may be marked with one or more icons:
 
 ## Keeping Up
 
-{ Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
+* [Stay informed about Microsoft Cloud for Manufacturing](https://info.microsoft.com/ww-landing-Manufacturing-StayInformed.html)
+    * Sign up to stay informed on Microsoft Cloud for Manufacturing. We’ll be in touch in the coming months with more information on public preview and general availability.
+
 
 ## Fundamentals
 
-{ Add fundamental/beginner/high level items here; generally applicable to all audiences }
-
-* [Example Microsoft Home Page Link](https://www.microsoft.com)
-    * This is description of the content
+* [Microsoft Cloud for Manufacturing](https://www.microsoft.com/en-us/industry/manufacturing/microsoft-cloud-for-manufacturing)
+    * Getting started with Microsoft Cloud for Manufacturing
 
 ## Associate
 
@@ -50,7 +53,12 @@ Additionally, some content may be marked with one or more icons:
 
 { Add certifications that may apply. Visit https://docs.microsoft.com/en-us/learn/certifications/ as a starting point.  You may include links to training classes and related resources related to certifications.  }
 
+## Resources
+
+* [Microsoft Cloud for Manufacturing](https://www.microsoft.com/en-us/industry/manufacturing/microsoft-cloud-for-manufacturing)
+* [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/)
 
 ## Community
 
 { Add links to community resources: blogs, forums, yammer channels, etc. }
+

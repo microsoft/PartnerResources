@@ -1,23 +1,30 @@
 ---
 title: Tags Index
 permalink: /tags/
+showbreadcrumb: false
 ---
 
-<!-- Hello, World 2 -->
+{% assign showdate = false %}
+{% assign docs_tags = "" %}{% for doc in site.docs %}{% unless doc.tags contains "deprecated" %}{% assign ttags = doc.tags | join:'|' | append:'|' %}{% assign docs_tags = docs_tags | append:ttags %}{% endunless %}{% endfor %}
+{% assign tags_list = docs_tags | split:'|' | uniq | sort | compact %}
 
-<h1 id="tags-index">Tags Index</h1>
-{% capture site_tags %}{% for tag in site.tags %}{% if tag %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}{% endcapture %}{% assign docs_tags = "" %}{% for doc in site.docs %}{% assign ttags = doc.tags | join:',' | append:',' %}{% assign docs_tags = docs_tags | append:ttags %}{% endfor %}
-{% assign all_tags = site_tags | append:docs_tags %}{% assign tags_list = all_tags | split:',' | uniq | sort %}
+<h1 id="tags-index">All Tags</h1>
 
-{% for tag in tags_list %}{% if tag %}<h3 id="{{ tag | replace: '/', '-' }}" class="linked-section">{{ tag }}</h3>
+{% for tag in tags_list %}{% if tag != empty %}
+<h3 id="{{ tag | replace: '/', '-' }}" class="linked-section">{{ tag }}</h3>
 <div class="post-list" style="margin-bottom:40px">
-    {% for post in site.tags[tag] %}<div class="tag-entry">
-    <a href="{{- site.url -}}{{- post.url -}}">{{- post.title -}}</a>
-    <time style="font-style:italic; float:right" datetime="{{- post.date | date_to_xmlschema -}}"> {{- post.date | date: "%B %d, %Y" -}}</time>
-</div>{%- endfor -%}
-{% for doc in site.docs %}{% if doc.tags contains tag %}
-<div class="tag-entry">
-    <a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a>
-        <time style="font-style:italic; float:right" datetime="{{- doc.date | date_to_xmlschema -}}"> {{- doc.date | date: "%B %d, %Y" -}}</time>
-    </div>{% endif %}{% endfor %}
-</div>{% endif %}{%- endfor -%}
+    {% for post in site.tags[tag] %}
+    <div class="tag-entry">
+        <a href="{{- site.url -}}{{- post.url -}}">{{- post.title -}}</a>
+        {% if showdate and doc.updated %}<span class="docupdated" style="padding-left: 5px;">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>{% endif %}
+    </div>
+    {%- endfor -%}
+    {% for doc in site.docs %}{% if doc.tags contains tag %}{% unless doc.tags contains "deprecated" %}
+    <div class="tag-entry">
+        <a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a>
+        {% if showdate and doc.updated %}<span class="docupdated" style="padding-left: 5px;">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>{% endif %}
+    </div>
+    {% endunless %}{% endif %}{% endfor %}
+</div>
+{% endif %}{%- endfor -%}
+

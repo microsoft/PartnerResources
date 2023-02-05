@@ -1,11 +1,15 @@
 ---
 layout: page
 title: Linux Server Migration
+description: Resources for Linux Migrations
+updated: 2021-12-01
 permalink: /azure/infrastructure/linux-server-migration
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
+
 # Learning Plan Resources for Linux Server Migration
 
 ## Fundamentals

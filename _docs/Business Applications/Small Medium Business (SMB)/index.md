@@ -1,12 +1,8 @@
 ---
-layout: page
-title: Small Medium Business (SMB)
+layout: planlist
+title: Small Medium Business (SMB) Readiness Resources
 permalink: /business-applications/small-medium-business-smb/
-tags:
- - business-applications
- - smb
+includemethod: all
+includeplans:
+- smb
 ---
-
-# [Business Applications](https://docs.microsoft.com/en-us/dynamics365/) & [Power Platform](https://docs.microsoft.com/en-us/power-platform/)
-
-#### {% raw %}[Business Central](business-central){% endraw %}

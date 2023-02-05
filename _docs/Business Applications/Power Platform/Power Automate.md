@@ -1,12 +1,15 @@
 ---
 layout: page
 title: Power Automate
+description: Resources for Power Automate
+updated: 2022-11-28
 permalink: /business-applications/power-platform/power-automate
 tags:
- - business-applications
- - power-platform
- - power-automate
- - flow
+- learning plan
+- business applications
+- power platform
+- power automate
+- flow
 ---
 
 # Learning Plan Resources for Power Automate
@@ -32,6 +35,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Get Started with Power Automate](https://docs.microsoft.com/en-us/learn/modules/get-started-flows/)
 * [Microsoft Power Platform Fundamentals (8 Modules)](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/) (Self-guided learning)
 OR [Microsoft Power Platform Fundamentals](https://partner.microsoft.com/en-us/training/assets/collection/pl-900-microsoft-power-platform-fundamentals-1#/) (Virtual Instructor led training)
+* [Power Automate Learning Path](https://learn.microsoft.com/en-us/training/powerplatform/power-automate)
 * [Intelligent Automation Foundations](https://note.microsoft.com/CatalogueDisplayPage-SRDEM65495_CatalogDisplayPage.html) (On Demand Training - 4 hours)
 * [Introduction to business process flows in Power Automate](https://docs.microsoft.com/en-us/learn/modules/intro-business-process-flows/)
 * [Business Process Flows documentation](https://docs.microsoft.com/en-us/power-automate/business-process-flows-overview)
@@ -69,6 +73,7 @@ OR [Microsoft Power Platform Fundamentals](https://partner.microsoft.com/en-us/t
 * [Monitor Microsoft Power Automate Community Group](https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity) (Other)
 * [Participate in Power Automate User Group](https://www.automateug.com/home) (Other)
 * [Subscribe to Microsoft Power Automate YouTube Channel](https://www.youtube.com/channel/UCG98S4lL7nwlN8dxSF322bA) (Self-Paced)
+* [Power Platform Community](https://powerusers.microsoft.com/)
 
 ## Practice Maturity Model
 

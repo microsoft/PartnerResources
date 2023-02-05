@@ -1,0 +1,29 @@
+<nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
+    <ol class="breadcrumb spb-1">
+    {% assign linkText = "" %}
+    {% assign crumbs = page.url | append: "/"  | replace: '//', '/' | split: '/' %}
+    {% for crumb in crumbs offset: 1 %}
+        {% if crumb != "skilling" %}
+        {% if crumb != "index" %}
+       
+        {% capture crumbUrl %}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb }}{% unless forloop.first or forloop.last %}/{% endunless %}{% endfor %}{% endcapture %}
+       
+        {% if forloop.last %}
+            <li class="breadcrumb-item active" aria-current="page"><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+        {% else %} 
+            {% if page.url != "/docs/" %}
+                {% assign linkText =  crumb | replace:'-',' ' | remove:'.html' | capitalize %}
+                {% for section in site.data.toc %}{% if section.links %}{% for entry in section.links %}
+                    {% if crumbUrl == entry.url %}{% assign linkText = entry.title %}{% endif %}
+                    {% if entry.children %}
+                    {% for child in entry.children %}{% if crumbUrl == child.url %}{% assign linkText = child.title %}{% endif %}{% endfor %}
+                    {% endif %}     
+                {% endfor %}{% endif %}{% endfor %}
+            <li class="breadcrumb-item"><a href="{{ site.url }}{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{% if crumb == "docs" %}Documentation{% else %}{{ linkText }}{% endif %}</a></li>
+            {% endif %}
+        {% endif %}
+        {% endif %}
+        {% endif %}
+    {% endfor %}
+    </ol>
+ </nav>

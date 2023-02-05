@@ -1,12 +1,15 @@
 ---
 layout: page
 title: Power Platform Administration and Center of Excellence
+description: Resources for Power Platform Administration and Center of Excellence
+updated: 2022-12-19
 permalink: /business-applications/power-platform/administration
 tags:
- - business-applications
- - power-platform
- - center-of-excellence
- - power-platform-administration
+- learning plan
+- business applications
+- power platform
+- center of excellence
+- power platform administration
 ---
 
 # Learning Plan Resources for Power Platform Administration and Center of Excellence
@@ -49,3 +52,4 @@ The Microsoft Power Platform CoE Starter Kit is a collection of components and t
 ## Technical Resources
 
 * [Power CAT Team](https://www.youtube.com/playlist?list=PLi9EhCY4z99W2QOTgbwhFZEjpqc8YZDVH) (YouTube videos)
+* [Power Platform Community](https://powerusers.microsoft.com/)

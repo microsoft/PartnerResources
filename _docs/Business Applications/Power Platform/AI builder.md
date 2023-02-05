@@ -1,11 +1,16 @@
 ---
 layout: page
-title: AI Builder
+title: Power Platform AI Builder
+description: Resources for Power Platform AI Builder
+updated: 2022-12-19
 permalink: /business-applications/power-platform/ai-builder
 tags:
- - business-applications
- - power-platform
- - ai-builder
+- learning plan
+- business applications
+- power platform
+- ai builder
+- ai
+- data, analytics, and ai
 ---
 
 # Learning Plan Resources for AI Builder
@@ -45,3 +50,4 @@ Below you'll find series of training modules which will take you through beginne
 
 * [AI Builder Labs in MS Documentation](https://docs.microsoft.com/en-us/ai-builder/learn-ai-builder)
 * [AI Builder community](https://docs.microsoft.com/en-us/ai-builder/share-your-experience)
+* [Power Platform Community](https://powerusers.microsoft.com/)

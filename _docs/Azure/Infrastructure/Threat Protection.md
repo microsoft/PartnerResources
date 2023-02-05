@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Threat Protection
+description: Resources for Azure Threat Protection
+updated: 2021-12-01
 permalink: /azure/infrastructure/threat-protection
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # Learning Plan Resources for Threat Protection

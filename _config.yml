@@ -1,13 +1,13 @@
-remote_theme: bhitney/docsy-jekyll
 
-title: " | Partner Resources"
+title: "Partner Resources"
 author: Microsoft
+description: Resources created by Microsoft's GPS (Global Partner Solutions) team
 baseurl: "/PartnerResources"
 
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2021 Microsoft"
+footer_content: "Copyright &copy; 2022 Microsoft"
 
 # Social (First three Required)
 repo: "https://github.com/microsoft/PartnerResources"
@@ -19,6 +19,12 @@ linkedin: microsoft
 
 logo_pixels: 34
 color: "#FFFFFF"
+
+# show related plans on learning plans
+showrelatedplans: true
+
+# include app insights
+includeappinsights: true
 
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
@@ -60,3 +66,11 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+
+relative_links:
+  enabled: true
+  collections: true
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-relative-links

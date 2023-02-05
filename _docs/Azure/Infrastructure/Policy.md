@@ -1,14 +1,16 @@
 ---
 layout: page
 title: Policy
+description: Resources for Azure Policy
+updated: 2021-12-01
 permalink: /azure/infrastructure/policy
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # Learning Plan Resources for Azure Policy
-This Learning Plan focuses on Azure Policy
 
 ## Keeping Up
 [Azure Policy Updates](https://azure.microsoft.com/en-us/updates/?query=Azure%20Policy), [#azurelighthouse](https://twitter.com/hashtag/azurepolicy?lang=en) '3rd Party'

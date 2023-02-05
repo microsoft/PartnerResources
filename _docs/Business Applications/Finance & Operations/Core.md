@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Core
+description: Resources for Dynamics 365 Core
+updated: 2021-12-01
 permalink: /business-applications/finance-and-operations/core
 tags:
- - business-applications
- - finance-and-operations
+- learning plan
+- business applications
+- finance and operations
 ---
 
 # Learning Plan Resources for Core

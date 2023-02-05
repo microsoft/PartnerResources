@@ -4,7 +4,7 @@ nav_exclude: true
 
 # All Learning Plan Resources
 
-Welcome to the Microsoft US One Commercial Partner (OCP) Learning Plan Resources repository
+Welcome to the Microsoft Global Partner Solutions (GPS) Learning Plan Resources repository, created by the US-based GPS team
 
 ## What are Learning Plan Resources?
 
@@ -86,9 +86,10 @@ Virtual Training Series events focuses on enabling our partners at scale on spec
 
 ### IoT
 
-* [IoT Edge](/LearningPlanResources/Azure/IoT/IoT%20Edge.md)
-* [IoT Central](/LearningPlanResources/Azure/IoT/IoT%20Central.md)
-* [IoT Hub](/LearningPlanResources/Azure/IoT/IoT%20Hub.md)
+* [Azure Digital Twins](/LearningPlanResources/Azure/IoT/AzureDigitalTwins.md)
+* [Azure IoT Edge](/LearningPlanResources/Azure/IoT/IoT%20Edge.md)
+* [Azure IoT Central](/LearningPlanResources/Azure/IoT/IoT%20Central.md)
+* [Azure IoT Hub](/LearningPlanResources/Azure/IoT/IoT%20Hub.md)
 
 ## Business Applications
 

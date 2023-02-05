@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Field Service
+description: Resources for Dynamics 365 Field Service
+updated: 2022-12-19
 permalink: /business-applications/customer-engagement/field-service
 tags:
- - business-applications
- - customer-engagement
+- learning plan
+- business applications
+- customer engagement
 ---
 
 # Learning Plan Resources for Dynamics 365 Field Service
@@ -34,78 +37,76 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 
 * [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
 
-* [Dynamics 365 2021 release wave 1](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave1/)
-* [Power Platform 2021 release wave 1](https://docs.microsoft.com/en-us/power-platform-release-plan/2021wave1/)
+* [Dynamics 365 2021 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave2/)
+* [Power Platform 2021 release wave 2](https://docs.microsoft.com/en-us/power-platform-release-plan/2021wave2/)
 
-* [Dynamics 365 2020 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/)
-* [Power Platform 2020 release wave 2](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave2/)
-
-* [Dynamics 365 Field Service 2021 release wave 1](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave1/service/dynamics365-field-service/)
+* [Dynamics 365 Field Service 2021 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave2/service/dynamics365-field-service/get-started)
 
 ## Fundamentals
 
+* [Course MB-910T00-A: Microsoft Dynamics 365 Fundamentals (CRM)](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-910t00) (In-person Instructor Led) (2 Days)
+* [Course PL-900T00-A: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-900t00) (In-person Instructor Led) (2 Days)
+* [Get started using Dataverse](https://docs.microsoft.com/en-us/learn/paths/get-started-cds/) (Microsoft Learn) (4 Hours)
 * [Connected Field Service Overview](https://docs.microsoft.com/en-us/dynamics365/field-service/connected-field-service) (Microsoft Docs)
-* [Dynamics 365 Field Service](https://docs.microsoft.com/en-us/learn/modules/dynamics-365-for-field-service/) (Microsoft Learn) (30 Minutes)
-* [Get started using Common Data Service](https://docs.microsoft.com/en-us/learn/paths/get-started-cds/) (icrosoft Learn) (4 Hours)
-* [IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)
+* [Explore Dynamics 365 Field Service](https://docs.microsoft.com/en-us/learn/paths/learn-fundamentals-microsoft-dynamics-365-field-service/) (Microsoft Learn) (4 Hours)
 * [IoT Central School](https://iotschool.microsoft.com/en-us/search;searchString=iot%20central) (3 Hours)
-* [Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/) (Microsoft Learn) (3 Hours)
 
 ## Associate
 
+* [Course PL-200T00: Microsoft Power Platform Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-200t00) (In-person Instructor Led) (5 Days)
+* [Create a model-driven app in Power Apps](https://docs.microsoft.com/en-us/learn/paths/create-app-models-business-processes/) (Microsoft Learn) (1 Hour)
+* [Architect solutions for Dynamics 365 and Microsoft Power Platform](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/) (Microsoft Learn) (4 Hours)
+* [Work with Microsoft Power Platform tenants, environments, subscription and Dynamics 365 apps](https://docs.microsoft.com/en-us/learn/paths/implementing-customer-engagement-apps/) (Microsoft Learn) (5 Hours)
+* [Configure Microsoft Dynamics 365 Field Service](https://docs.microsoft.com/en-us/learn/modules/implement-configure-microsoft-dynamics-365-for-field-service/) (Microsoft Learn) (2 Hours)
+
+* [MS Learn: Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/en-us/learn/paths/working-with-connected-field-service-iot/) (Microsoft Learn) (6 Hours)
+* [Get started with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/en-us/learn/modules/get-started-with-connected-field-service/) (Microsoft Learn) (2 Hours)
 * [Register and manage customer devices with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/en-us/learn/modules/register-and-manage-customer-devices-with-connected-field-service/) (Microsoft Learn) (2 Hours)
 * [Remotely monitor and service customer equipment with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-and-service-customer-equipment/) (Microsoft Learn) (2 Hours)
-* [MS Learn: Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/en-us/learn/paths/working-with-connected-field-service-iot/) (Microsoft Learn) (6 Hours)
 * [Using IoT Central with Connected Field Service for Dynamics 365](https://docs.microsoft.com/en-us/learn/modules/using-iot-central-with-connected-field-service/) (Microsoft Learn) (1 Hour)
-* [Get started with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/en-us/learn/modules/get-started-with-connected-field-service/) (Microsoft Learn) (2 Hours)
 * [Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/en-us/learn/modules/identify-exceptions-with-connected-field-service/) (Microsoft Learn) (2 Hours)
-* [Course MB-200T01-A: Dynamics 365: Power Platform applications](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-200t01) (In-person Instructor Led) (2 Days)
-* [Automate a business process using Power Automate](https://docs.microsoft.com/en-us/learn/paths/automate-process-power-automate/) (Microsoft Learn) (3 Hours)
 * [Azure IoT Platform](https://azure.microsoft.com/en-us/overview/iot/) (1 Hour)
-* [Azure IoT Reference Architecture](https://docs.microsoft.com/azure/architecture/reference-architectures/iot/index) (Microsoft Docs) (9 Minutes)
-* [Configure Microsoft Dynamics 365 Field Service](https://docs.microsoft.com/en-us/learn/modules/implement-configure-microsoft-dynamics-365-for-field-service/) (Microsoft Learn) (2 Hours)
+* [Azure IoT Reference Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot) (Microsoft Docs) (9 Minutes)
 * [Connected Field Service Demo Builder](https://www.youtube.com/watch?v=7-IibAdfF1s) (Online Instructor Led) (5 Minutes)
 
 ## Expert
 
-* [Implementing Customer Engagement Online Learning Path](https://docs.microsoft.com/en-us/learn/paths/implementing-customer-engagement-apps/) (Microsoft Learn) (5 Hours)
-* [Intro to developing with the Power Platform](https://docs.microsoft.com/en-us/learn/paths/intro-developing-power-platform/) (Microsoft Learn) (2 Hours)
-* [Extending the Common Data Service](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Microsoft Learn) (2 Hours)
+* [Course PL-400T00-A: Microsoft Power Platform Developer](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-400t00) (In-person Instructor Led) (3 Days)
 * [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-model-driven-app/) (Microsoft Learn) (4 Hours)
-* [Course MB-400T00-A: Microsoft Power Apps + Dynamics 365 Developer](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-400t00) (In-person Instructor Led) (3 Days)
 * [Becoming a Solution Architect for Dynamics 365 and Power Platform Learning Path](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/) (Microsoft Learn) (4 Hours)
-* [Implementing Customer Engagement Online Learning Path](https://docs.microsoft.com/en-us/learn/paths/implementing-customer-engagement-apps/) (Microsoft Learn) (5 Hours)
-* [Extend Dynamics 365 Portals](https://docs.microsoft.com/en-us/learn/paths/extend-dynamics-365-portals/) (Microsoft Learn) (3 Hours)
-* [Extending the Common Data Service](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Microsoft Learn) (2 Hours)
+* [Intro to developing with the Power Platform](https://docs.microsoft.com/en-us/learn/paths/intro-developing-power-platform/) (Microsoft Learn) (2 Hours)
+* [Extending the Power Platform Dataverse](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-common-data-service/) (Microsoft Learn) (2 Hours)
+* [Extend Power Apps Portals](https://docs.microsoft.com/en-us/learn/paths/extend-dynamics-365-portals/) (Microsoft Learn) (3 Hours)
 * [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-model-driven-app/) (Microsoft Learn) (4 Hours)
 
 ## Events
+* [Dynamics 365 Field Service Mobile in a Day Workshop (On-demand)](https://aka.ms/d365fieldservice/fsmiad) (US Partner Community) (3 Hours)
 
 ## Community Resources
 
 * [Participate in Power Apps User Group](https://www.powerappsug.com/home)
-* [Subscribe to Microsoft Power Apps YouTube Channel](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg)
-* [Subscribe to Microsoft Power Automate YouTube Channel](https://www.youtube.com/channel/UCG98S4lL7nwlN8dxSF322bA)
+* [Subscribe to Dynamics 365 Field Service YouTube Channel](https://www.youtube.com/channel/UC7Rd031NCJZekAkNU2bb8Kg)
 * [Microsoft Power Platform Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
 * [Monitor the Dynamics 365 Blog](https://cloudblogs.microsoft.com/dynamics365/)
 * [Azure IoT Device Catalog](https://catalog.azureiotsolutions.com/alldevices)
 * [Azure IoT Documentation](https://docs.microsoft.com/en-us/azure/iot-fundamentals/)
 * [Monitor the Dynamics 365 Customer Engagement in the Field](https://community.dynamics.com/crm/b/crminthefield)
+* [Dynamics 365 Community](https://community.dynamics.com/)
 
 ## Certifications
 
-* [Exam PL-200: Microsoft Power Platform Functional Consultant (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200)
+* [Exam PL-200: Microsoft Power Platform Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200)
 * [Exam MB-240: Microsoft Dynamics 365 Field Service](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240) 
 
-* [Exam PL-400: Microsoft Dynamics 365 Power Apps + Developer (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400)
-* [Exam MB-600: Microsoft Dynamics 365 Power Apps + Solution Architect (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-600)
+* [Exam PL-400: Microsoft Dynamics 365 Power Apps + Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400)
+* [Exam PL-600: Microsoft Power Platform Solution Architect](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600)
 
-* [MB-200: Microsoft Power Platform + Dynamics 365 Core Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-200-microsoft-power-platform-plus-dynamics-365-core#/) (Self-Paced) (10 Hours)
+* [PL-200: Microsoft Power Platform Functional Consultant Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/implementing-microsoft-power-platform-pl-200#/) (Self-Paced) (10 Hours)
 * [MB-240: Microsoft Dynamics 365 Field Service Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-240-microsoft-dynamics-365-field-service#/) (Self-Paced) (10 Hours)
-* [MB-400: Microsoft Power Apps + Dynamics 365 Developer Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-400-microsoft-power-apps-dynamics-365-developer#/) (Self-Paced) (8 Hours)
+* [PL-400: Developing Power Platform Solutions Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/developing-power-platform-solutions-pl-400#/) (Self-Paced) (8 Hours)
 
 ## Practice Maturity Model
 
 Ordered by entry level features, advanced features, and innovative features.
 
-   ![Field Service Maturity Model](assets/field-service-maturity-model.png)
+![Field Service Maturity Model](/PartnerResources/assets/docs/Business Applications/field-service-maturity-model.png)

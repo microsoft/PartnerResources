@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Power Virtual Agents
+description: Resources for Power Virtual Agents
+updated: 2023-1-27
 permalink: /business-applications/power-platform/power-virtual-agents
 tags:
- - business-applications
- - power-platform
- - power-virtual-agents
+- learning plan
+- business applications
+- power platform
+- power virtual agents
 ---
 
 # Learning Plan Resources for Power Virtual Agents
@@ -35,6 +38,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 
 ## Associate
 * [Create Bots with Power Virtual Agents (MS Learn)](https://docs.microsoft.com/en-us/learn/paths/work-power-virtual-agents/) (Self-Paced) (2 Hours)
+* [Power Virtual Agent Architecture Series (Video)](https://www.youtube.com/playlist?list=PLi9EhCY4z99Xrdvy3Ya8wx-8KzsOpMj0S) (Self-Paced) (5 Hours)
 * [Power Virtual Agents app in Microsoft Teams](https://docs.microsoft.com/en-us/power-virtual-agents/teams/fundamentals-what-is-power-virtual-agents-teams/) (Self-Paced) (3 Minutes)
 * [Bot Framework Composer tutorials](https://docs.microsoft.com/en-us/composer/tutorial/tutorial-introduction) (Self-Paced) (2 Hours)
 
@@ -48,11 +52,14 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 
 ## Keeping Up
 
+* [Upcoming release](https://learn.microsoft.com/en-us/power-platform/release-plan/2023wave1/power-virtual-agents/planned-features)
+* [Unified BOT Building Experience](https://powervirtualagents.microsoft.com/en-us/blog/whats-new-the-evolution-of-power-virtual-agents/) (Self-Paced)
 * [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
 ## Community Resources
 * [Join the discussion with the Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity) (Self-Paced) (1 Minute)
 * [Suggest an idea to the Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Ideas/idb-p/pva_ideas) (Self-Paced) (1 Minute)
+* [Power Platform Community](https://powerusers.microsoft.com/)
 
 
 ## Practice Maturity Model

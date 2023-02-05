@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Lighthouse
+description: Resources for Azure Lighthouse
+updated: 2021-12-01
 permalink: /azure/infrastructure/lighthouse
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # Learning Plan Resources for Azure Lighthouse

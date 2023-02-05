@@ -1,45 +1,47 @@
+---
+layout: page
+title: 04 Implement Business Integration
+permalink: /azure/iot/assets/04ImplementBusinessIntegration
+tags: 
+ - azure
+ - iot
+---
+
 # AZ-220 Implement Business Integration (5-10%)
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)
 * [Microsoft Certified: Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
-* [Microsoft Tech Community "Learn IoT" Conversation Space](https://aka.ms/iottechcommunity/learniot) - Where you can discuss IoT learning resources and homework questions 
 
-## Skills Measured:
-### Integrate with upstream and downstream systems
-* Set up input and output connections
-* Set up IoT Hub routing for triggering workflows test data interface integration
-* Integrate third-party solutions
-* Configure workflows, including rules and alerts
+The Microsoft Global Partner Solutions (GPS) Technical Team, IoT Product Group, IoT Advocates, and Microsoft Worldwide Learning have collaborated to create this guide to help you prepare for the Microsoft Azure IoT Developer exam!
 
-### Develop Azure Digital Twins (ADT) solutions
-* Create ADT models and digital twins
-* Map IoT device data to ADT models and relationships
-* Ingest IoT device messages and translate messages to ADT
-* Configure routes and endpoints to trigger business logic and data processing
-* Query the ADT graph
-* Update properties on ADT entities in the graph
-* Monitor and troubleshoot ADT
+## Skills Measured: Implement Business Integration
 
-## Homework:
-### [AZ-220 IoT Labs](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer) 
-* Module 11: Develop with Azure Digital Twins
-  * [Lab 19: Develop Azure Digital Twins (ADT) solutions](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/Instructions/Labs/LAB_AK_19-azure-digital-twins.html)
-  <br />Exercise 1: Verify Lab Prerequisites
-  <br />Exercise 2 : Create an instance of the Azure Digital Twins (ADT) resource
-  <br />Exercise 3 - Map IoT device data to ADT models and relationships
-  <br />Exercise 4 - Create digital twin models and validate models
-  <br />Exercise 5 - Create a graph of the models
-  <br />Exercise 6 - Query the graph using ADT Explorer
-  <br />Exercise 7 - Configure and launch device simulator
-  <br />Exercise 8 - Set up Azure Function to ingest data
-  <br />Exercise 9 - Connect IoT Hub to the Azure Function
-  <br />Exercise 10 - Create an app service principal to access ADT APIs
-  <br />Exercise 11 - Call REST APIs with Postman
-  <br />Exercise 12 - Create a route and filter for twin update notification
-  <br />Exercise 13 - Connect ADT to Time Series Insights (TSI)
+### [Integrate with upstream and downstream systems](https://docs.microsoft.com/azure/iot-fundamentals/iot-services-and-technologies?wt.mc_id=eventspg_16482_webpage_reactor) 
 
-### [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop) - 6-part webinar series on building solutions with Azure IoT
-* Part 4: [Understanding IoT Messaging processing, analytics, and business integration](https://www.youtube.com/watch?v=78FR6BFPSK0&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=4) - Learn more about IoT data types, storage options, analytics, stream processing, and business integration. After this session, follow the Hands on Labs found here: https://aka.ms/Training/LearnAzureIoT 
+* [Set up input and output connections to support native Azure services and to enable third-party services](https://docs.microsoft.com/azure/event-grid/publish-iot-hub-events-to-logic-apps?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Set up IoT Hub routing to support downstream Azure resources](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-endpoints?wt.mc_id=eventspg_16482_webpage_reactor)
+
+### [Develop an IoT solution that uses Azure Digital Twins](https://docs.microsoft.com/azure/digital-twins/?wt.mc_id=eventspg_16482_webpage_reactor)
+
+* [Create models and digital twins](https://docs.microsoft.com/azure/digital-twins/concepts-models?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Map IoT device data to digital twin models and relationships](https://docs.microsoft.com/azure/digital-twins/concepts-twins-graph?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Ingest IoT device messages, and translate messages to digital twins](https://docs.microsoft.com/azure/digital-twins/how-to-ingest-iot-hub-data?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Configure routes and endpoints to trigger business logic and data processing](https://docs.microsoft.com/azure/digital-twins/concepts-route-events?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Manage and query the Azure Digital Twins graph](https://docs.microsoft.com/azure/digital-twins/concepts-query-language?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Update properties on Azure Digital Twins entities in the graph](https://docs.microsoft.com/azure/digital-twins/how-to-manage-graph?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Monitor and troubleshoot Azure Digital Twins](https://docs.microsoft.com/azure/digital-twins/how-to-monitor-diagnostics?wt.mc_id=eventspg_16482_webpage_reactor)
+
+*NOTE: In most cases, exams do NOT cover preview features, and some features will only be added to an exam when they are GA (General Availability).*
+
+## Microsoft Learn - Related Learning Paths
+
+### [Develop Data Insights and Business Integrations](https://docs.microsoft.com/learn/paths/develop-data-insights-business-integrations?wt.mc_id=eventspg_16482_webpage_reactor) (5 Modules)
+
+Learn about the tools and services that can be used to develop data insights and implement business integration, including Azure Event Grid, Azure Logic Apps, and Azure Time Series Insights.
+
+### [Extend IoT Solutions by Using Azure Digital Twins](https://docs.microsoft.com/learn/paths/extend-iot-solutions-by-using-azure-digital-twins?wt.mc_id=eventspg_16482_webpage_reactor) (4 Modules)
+
+Learn about the features and capabilities of Azure Digital Twins service, how to configure, build, and manage an Azure Digital Twins environment, and how to integrate IoT and Azure Digital Twins solutions.
 
 ## Quick Reference: Key Concepts and Terminology
 * What is Azure Digital Twins?
@@ -61,18 +63,20 @@
   * *Relationship* - Relationships let you represent how a digital twin can be involved with other digital twins. Relationships can represent different semantic meanings, such as contains ("floor contains room"), cools ("hvac cools room"), isBilledTo ("compressor is billed to user"), etc. Relationships allow the solution to provide a graph of interrelated entities. Relationships can also have properties of their own. For more information, see Relationships below.
   * *Component* - Components allow you to build your model interface as an assembly of other interfaces, if you want. An example of a component is a frontCamera interface (and another component interface backCamera) that are used in defining a model for a phone. You must first define an interface for frontCamera as though it were its own model, and then you can reference it when defining Phone. Use a component to describe something that is an integral part of your solution but doesn't need a separate identity, and doesn't need to be created, deleted, or rearranged in the twin graph independently. If you want entities to have independent existences in the twin graph, represent them as separate digital twins of different models, connected by relationships. 
 
-## Resources
-* [Azure Digital Twins Overview](https://azure.microsoft.com/en-us/services/digital-twins/#overview)
-* [Video: Azure Digital Twins](https://azure.microsoft.com/en-us/resources/videos/azure-digital-twins-video/)
-* [Azure Digital Twins Documentation](https://docs.microsoft.com/en-us/azure/digital-twins/)
-* [Understand twin models in Azure Digital Twins](https://docs.microsoft.com/en-us/azure/digital-twins/concepts-models)
-* [Microsoft Learn: Develop with Azure Digital Twins (ADT) Learning Paths](https://docs.microsoft.com/en-us/learn/paths/develop-azure-digital-twins/)
-* [Azure Digital Twins Explorer](https://docs.microsoft.com/en-us/azure/digital-twins/concepts-azure-digital-twins-explorer)
-* [Quickstart: Get started with Azure Digital Twins Explorer](https://docs.microsoft.com/en-us/azure/digital-twins/quickstart-azure-digital-twins-explorer)
-* [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
-* [Time Series Insights (TSI) Product Page](https://azure.microsoft.com/en-us/services/time-series-insights)
-* [Time Series Insights Documentation](https://docs.microsoft.com/en-us/azure/time-series-insights/time-series-insights-update-overview)
-* [Tutorial: Time Series Insights](https://docs.microsoft.com/en-us/azure/time-series-insights/tutorial-create-populate-tsi-environment)
+## Other Helpful Resources
 
-NOTE: In most cases, exams do NOT cover preview features, and some features will only be
-added to an exam when they are GA (General Availability).
+* [Azure Digital Twins Explorer](https://docs.microsoft.com/azure/digital-twins/concepts-azure-digital-twins-explorer?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Azure Digital Twins Data Ingress and Egress](https://docs.microsoft.com/azure/digital-twins/concepts-data-ingress-egress?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Azure Event Grid](https://docs.microsoft.com/azure/event-grid/overview?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Azure IoT Blogs](https://azure.microsoft.com/blog/topics/internet-of-things?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Azure IoT Reference Architecture](https://docs.microsoft.com/azure/architecture/reference-architectures/iot?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Comapre IoT Hub and Event Hubs](https://docs.microsoft.com/azure/iot-hub/iot-hub-compare-event-hubs?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Compare Message Routing and Event Grid for IoT Hub](https://docs.microsoft.com/azure/iot-hub/iot-hub-event-grid-routing-comparison?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Industrial IoT Patterns with IoT Central](https://docs.microsoft.com/azure/iot-central/core/concepts-iiot-architecture?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Microsoft Tech Community - IoT](https://techcommunity.microsoft.com/t5/internet-of-things-iot/ct-p/IoT?wt.mc_id=eventspg_16482_webpage_reactor) - Blogs and conversation spaces
+* [Simplify Downstream Processing with Azure IoT Hub Message Enrichments](https://www.youtube.com/watch?v=nU1v5mqr_ig?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Use Workflows to Integrate Your IoT Central Application with Other Cloud Services](https://docs.microsoft.com/en-us/azure/iot-central/core/howto-configure-rules-advanced?wt.mc_id=eventspg_16482_webpage_reactor)
+* [What is an Ontology?](https://docs.microsoft.com/azure/digital-twins/concepts-ontologies?wt.mc_id=eventspg_16482_webpage_reactor)
+* [YouTube - Microsoft IoT Developers](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ?wt.mc_id=eventspg_16482_webpage_reactor)
+
+Happy studies!

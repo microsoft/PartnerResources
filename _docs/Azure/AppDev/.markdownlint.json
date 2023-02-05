@@ -1,0 +1,9 @@
+{
+    "line-length": false,
+    "single-h1": false,
+    "MD033": {
+      "allowed_elements": [
+        "a"
+      ]
+    }
+  }

@@ -1,16 +1,20 @@
 ---
 layout: page
 title: SQL Server Migration to Azure
+description: Resources for SQL Server Migration to Azure
+updated: 2021-12-01
 permalink: /azure/data-analytics-ai/sql-server-migration-to-azure
 tags: 
- - azure
- - sql server
- - migration
+- azure
+- data, analytics, and ai
+- learning plan
+- sql server
+- migration
 ---
 
-# Learning Plan Resources for SQL Server Migration to Azure
+# SQL Server Migration to Azure Readiness Resources
 
-This learning plan aggregates content for understanding and successfully migrating databases into Microsoft Azure. Specifically, this plan covers the migration of relational databases, primarily SQL Server, MySQL, Postgres, and MariaDB, with a specific emphasis on SQL Server because of the number of deployment options available.
+This learning plan aggregates content for understanding and successfully migrating SQL Server databases into Microsoft Azure. 
 
 In any database migration, it is important to have the source system documented in order to evaluate target options. For the source system, a minimum amount of information needed includes:
 
@@ -23,58 +27,66 @@ With this information, options can be evaluated for both cost and technical feas
 
 Content is broken down as follows:
 
-* Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
+* Pre-migration, Migration, Post-migration
 * Certifications: relevant Microsoft exams or certifications
 * Community resources: user groups, events, blogs
 
-## Fundamentals
+## Pre-migration
 
 _The single best resource is the Microsoft Online Migration Guide, as it allows you to select both source and target systems and see prescriptive guidance:_
 
 * [Microsoft Online Migration Guide](https://datamigration.microsoft.com/)
 
-### SQL Server Resources (fundamentals)
+### SQL Server Resources
 
-* [Data Migraton Assistant](https://docs.microsoft.com/en-us/sql/dma/dma-overview) (Microsoft Docs / Application)
+* [Learn how to use Transact-SQL to query data in a database](https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/)
+  * Learn how to use Transact-SQL to query data in a database
+* [SQL Server Discovery using the Microsoft Assessment and Planning (MAP) toolkit](https://docs.microsoft.com/en-us/learn/modules/sql-server-discovery-using-map/) (Microsoft Learn Module)
+* [Data Migraton Assistant](https://docs.microsoft.com/en-us/sql/dma/dma-overview) (Microsoft Docs \ Application)
   * Primary tool for evaluating a SQL Database for compatibility issues
+* [Test and optimize SQL Server databases using the Database Experimentation Assistant (DEA)](https://docs.microsoft.com/en-us/learn/modules/test-optimize-sql-server-databases-using-dea/) (Microsoft Learn Module)
+* [Azure Data Studio](https://azure.microsoft.com/en-us/products/data-studio/#features) (Microsoft Docs \ Application)
+* [Plan and implement data platform resources](https://learn.microsoft.com/en-us/training/paths/plan-implement-data-platform-resources/) (Microsoft Learning Path)
+  * Explore options for deployment and migration
+  * Calculate resource requirements and create templates
+* [PaaS vs IaaS](https://learn.microsoft.com/en-us/shows/azure-sql-for-beginners/paas-vs-iaas-5-of-61) (Video)
+  * Presentation that contrasts Azure SQL DB and SQL in VMs.
+  * Information is dated as it does not include Azure SQL Database Managed Instance, but conceptually many of the ideas apply
+* [Migrate SQL workloads to Azure](https://learn.microsoft.com/en-us/training/paths/migrate-sql-workloads-azure/) (Micorosft Learning Path)
+  * Learn how to migrate SQL Server workloads to SQL Services that exist on Azure
 * [Choose the Right Deployment Option in Azure SQL](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas) (Microsoft Docs)
   * Outlines the deployment options for SQL Server in Azure
 * [SQL Server on Azure VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-server-iaas-overview) (Microsoft Docs)
   * Overview of best practices in creating SQL Server in VMs
-* [PaaS vs IaaS - Navigating the Decision Tree](https://channel9.msdn.com/Series/SAIIK-SQL-Server-on-Azure-IaaS-Implementation-Kit/SAIIK-PaaS-vs-IaaS) (Video)
-  * Presentation that contrasts Azure SQL DB and SQL in VMs.
-  * Information is dated as it does not include Azure SQL Database Managed Instance, but conceptually many of the ideas apply
+* [Checklist: Best practices for SQL Server on Azure VMs](https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/performance-guidelines-best-practices-checklist?view=azuresql) (Microsoft Docs)
+  * This article provides a checklist of best practices and guidelines for SQL Server on Azure Virtual Machines. The article also includes links to additional learning content.  
  
-### MySQL, PostgreSQL, and MariaDB Migration Guides
-
-* [Migrate MySQL to Azure Database for MySQL](https://datamigration.microsoft.com/scenario/mysql-to-azuremysql?step=1)
-* [Migrate PostgreSQL to Azure Database for PostgreSQL](https://datamigration.microsoft.com/scenario/postgresql-to-azurepostgresql?step=1)
-* [Migrate MariaDB to Azure Database for MariaDB](https://datamigration.microsoft.com/scenario/mariadb-to-azuremariadb?step=1)
-
-## Associate
+## Migration
 
 * [Data Access Migration Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-databasemigration.data-access-migration-toolkit) (Tooling)
-  * This cool can be useful in scanning documents/code for data access patterns.
+  * This tool can be useful in scanning application source documents/code for data access patterns.
 
 ### SQL Server Resources
 
-* [Performance Guidelines for SQL Server on Azure VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-performance) (Microsoft Docs)
-* [Storage Configuration for SQL Server VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-server-storage-configuration) (Microsoft Docs)
 * [Key Causes of Performance Differences with SQL Managed Instance](https://azure.microsoft.com/blog/key-causes-of-performance-differences-between-sql-managed-instance-and-sql-server/) (Blog)
-* [Microsoft Learning Path for Migrating SQL Workloads to Azure](https://docs.microsoft.com/en-us/learn/paths/migrate-sql-workloads-azure/)
-  * [SQL Server Discovery using the Microsoft Assessment and Planning (MAP) toolkit](https://docs.microsoft.com/en-us/learn/modules/sql-server-discovery-using-map/)
-  * [Assess and convert SQL Server Databases using the Data Migration Assistant (DMA)](https://docs.microsoft.com/en-us/learn/modules/assess-convert-sql-server-databases-using-dma/)
-  * [Test and optimize SQL Server databases using the Database Experimentation Assistant (DEA)](https://docs.microsoft.com/en-us/learn/modules/test-optimize-sql-server-databases-using-dea/)
-  * [Migrate SQL workloads to Azure virtual machines](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-virtual-machines/)
-  * [Migrate SQL Workloads to Azure SQL Databases](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-sql-databases/)
-  * [Migrate SQL Workloads to Azure Managed Instances](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-managed-instances/)
  * [SQL Managed Instance Network Requirements](https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview#network-requirements)
  * [SQL Managed Instance Connectivity Architecture](https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview)
 
+## Post-migration
+
+* [Migrate SQL Server to Azure SQL DB](https://docs.microsoft.com/en-us/azure/dms/tutorial-sql-server-to-azure-sql) (Tutorial)
+
+### SQL Server Resources
+* [Monitor and optimize operational resources in Azure SQL](https://learn.microsoft.com/en-us/training/paths/monitor-optimize-operational-resources-sql-server/) (Microsoft Learning Path)
+* [Optimize query performance in Azure SQL](https://learn.microsoft.com/en-us/training/paths/optimize-query-performance-sql-server/) (Microsoft Learning Path)
+  * Explore performance-related Dynamic Management Objects
+  * Investigate how indexes and database design affect queries
+
+
 ### Pluralsight Courses
 
-* [Pluralsight: Migrating to SQL Server 2016](https://www.pluralsight.com/courses/sqlserver-2016-upgrading-migrating)
-* [Pluralsight: Azure SQL Database](https://www.pluralsight.com/courses/azure-sql-database-dba)
+* [Pluralsight: Migrating to SQL Server 2016](https://www.pluralsight.com/courses/sqlserver-2016-upgrading-migrating) (3rd Party, $)
+* [Pluralsight: Azure SQL Database](https://www.pluralsight.com/courses/azure-sql-database-dba) (3rd Party, $)
 
 ### Video Series
 
@@ -82,12 +94,8 @@ _The single best resource is the Microsoft Online Migration Guide, as it allows 
 * [Channel 9 Data Exposed](https://channel9.msdn.com/Shows/Data-Exposed)
 
 
-## Expert
-
-* [Migrate SQL Server to Azure SQL DB](https://docs.microsoft.com/en-us/azure/dms/tutorial-sql-server-to-azure-sql) (Tutorial)
-* [SQL Modernization and Migration What-the-Hack](https://github.com/microsoft/WhatTheHack/tree/master/043-SQLModernization)
-
 ## Certifications
 
-* [AZ-900 Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
-* [DP-300: Administering Relational Databases on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300) 
+* [AZ-900 Azure Fundamentals Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) <br>Demonstrate a fundamental knowledge of cloud concepts, along with Azure services, workloads, security, privacy, pricing, and support
+* [DP-900 Azure Data Fundamentals Certification](https://learn.microsoft.com/en-us/certifications/exams/dp-900) <br>Demonstrate knowledge of core data concepts and related Microsoft Azure data services
+* [DP-300: Administering Relational Databases on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300) <br>This exam is for database administrators who manage on-premises and cloud databases built with SQL Server and SQL database services. Candidates for this exam should have knowledge of and experience with Azure SQL Edge, Azure SQL Database, Azure SQL Managed Instance, and SQL Server on Azure Virtual Machines (Windows and Linux).

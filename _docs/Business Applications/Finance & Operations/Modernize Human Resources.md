@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Modernize Human Resources
+description: Resources for Modernizing Human Resources
+updated: 2021-12-01
 permalink: /business-applications/finance-and-operations/modernize-human-resources
 tags:
- - business-applications
- - finance-and-operations
- - modernize-human-resources
+- learning plan
+- business applications
+- finance and operations
+- human resources
 ---
 
 # Learning Plan Resources for Modernize Human Resources

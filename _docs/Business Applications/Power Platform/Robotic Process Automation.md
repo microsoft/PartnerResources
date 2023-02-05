@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Robotic Process Automation
+description: Resources for Robotic Process Automation
+updated: 2022-12-19
 permalink: /business-applications/power-platform/robotic-process-automation
 tags:
- - business-applications
- - power-platform
- - rpa
+- learning plan
+- business applications
+- power platform
+- rpa
 ---
 
 # Learning Plan Resources for Robotic Process Automation
@@ -41,6 +44,17 @@ Additionally, some content may be marked with one or more icons:
 * [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
 * [Microsoft Power Automate Learning Path](https://docs.microsoft.com/en-us/learn/powerplatform/power-automate)
 
+## Invoice Processing
+* [Process invoices with AI Builder](https://flow.microsoft.com/en-us/blog/process-invoices-with-ai-builder/)
+* [Invoice processing prebuilt AI model -  AI Builder](https://docs.microsoft.com/en-us/ai-builder/prebuilt-invoice-processing)
+* [Get started with invoice processing in AI Builder - Learn](https://docs.microsoft.com/en-us/learn/modules/ai-builder-invoice-processing/)
+* [Our Best Practices and Step-By-Step Guide for creating an enterprise scale automated invoicing process with Power Automate](https://flow.microsoft.com/en-us/blog/our-best-practices-and-step-by-step-guide-for-creating-an-enterprise-scale-automated-invoicing-process-with-power-automate/)
+* [Automate processes with Robotic Process Automation and Power Automate Desktop - Learn](https://docs.microsoft.com/en-us/learn/paths/work-automation-flow/)
+* [Video - Power Automate Desktop - Invoice Processing](https://www.youtube.com/watch?v=aU6I5ZQSQgg&t=2s&ab_channel=MicrosoftPowerPlatform)
+
 ## Technical Resources
 
 * [Documentation](https://docs.microsoft.com/en-us/power-automate/)
+
+## Community Resources
+* [Power Platform Community](https://powerusers.microsoft.com/)

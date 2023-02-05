@@ -1,16 +1,19 @@
 ---
 layout: page
 title: Databricks
+description: Resources for Azure Databricks
+updated: 2021-12-01
 permalink: /azure/data-analytics-ai/databricks
 tags: 
- - azure
- - databricks
- - big data
- - machine learning
+- azure
+- data, analytics, and ai
+- learning plan
+- databricks
+- big data
+- machine learning
 ---
 
-
-# Learning Plan Resources for Azure Databricks
+# Azure Databricks Readiness Resources
 
 ## Fundamentals
 

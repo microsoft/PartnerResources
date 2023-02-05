@@ -1,0 +1,28 @@
+<header class="page-header">
+
+    <div class="wrapper">
+
+      <a href="{{ site.url }}{{ site.baseurl }}">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/img/logo.svg" alt="Microsoft | Partner Resources">
+      </a>
+
+    </div>
+
+</header>
+
+<script>
+$(document).ready(function() {
+  var url = "https://api.github.com/search/repositories?q={{ site.github_user }}/{{ site.github_repo }}";
+  fetch(url, { 
+      headers: {"Accept":"application/vnd.github.preview"}
+  }).then(function(e) {
+    return e.json()
+  }).then(function(r) {
+     console.log(r.items[0])
+     stars = r.items[0]['stargazers_count']
+     forks = r.items[0]['forks_count']
+     $('#stars').text(stars + " Stars") 
+     $('#forks').text(forks + " Forks")
+  });
+});
+</script>

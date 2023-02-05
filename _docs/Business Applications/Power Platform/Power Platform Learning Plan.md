@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Business Applications
+title: Power Platform
+description: Resources for Power Platform
+updated: 2023-4-1
 permalink: /business-applications/power-platform/power-platform-learning-plan
 tags:
- - business-applications
- - power-platform
+- learning plan
+- business applications
+- power platform
 ---
 
 # Learning Plan Resources for Power Platform Learning Plan
@@ -78,6 +81,7 @@ Keeping Up
 * [Participate in Power Apps User Group](https://www.powerappsug.com/home) (Other)
 * [Participate in Power Automate User Group](https://www.automateug.com/home) (Other)
 * [Power BI UG](https://www.pbiusergroup.com/home) (Self-Paced)
+* [Power Platform Community](https://powerusers.microsoft.com/)
 
 ## Hands-on Labs
 
@@ -89,6 +93,9 @@ Keeping Up
 ## Technical Resources
 
 * [Power CAT Team](https://www.youtube.com/playlist?list=PLi9EhCY4z99W2QOTgbwhFZEjpqc8YZDVH) (YouTube videos)
+* [Partner Technical Success Channel](https://www.microsoft.com/en-us/us-partner-blog/2021/04/22/announcing-the-new-partner-technical-success-channel) (Other)
+* [Power Platform Blog](https://cloudblogs.microsoft.com/powerplatform) (Other)
+* [Microsoft 365 Developer Podcast](https://www.m365devpodcast.com/)
 
 ## Events
 
@@ -96,6 +103,8 @@ Keeping Up
 
 ## Certifications
 
+* [Advanced Specializations](https://partner.microsoft.com/en-us/membership/advanced-specialization#tab-content-2) (Self-Paced)
+* [Renew Your Certification](https://docs.microsoft.com/en-us/learn/certifications/renew-your-microsoft-certification) (Self-Paced)
 * [Exam PL-200: Power Platform Functional Consultant Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200) (Self-Paced) (2 Hours)
 * [Exam PL-400: Microsoft Power Platform Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400) (Self-Paced) (2 Hours)
 * [Exam PL-600: Microsoft Power Platform Solution Architect (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600) (Self-Paced)

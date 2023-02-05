@@ -1,78 +1,60 @@
+---
+layout: page
+title: 03 Implement Edge
+permalink: /azure/iot/assets/03ImplementEdge
+tags: 
+ - azure
+ - iot
+---
+
 # AZ-220 Implement Edge (15-20%)
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)
 * [Microsoft Certified: Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
-* [Microsoft Tech Community "Learn IoT" Conversation Space](https://aka.ms/iottechcommunity/learniot) - Where you can discuss IoT learning resources and homework questions 
 
-## Skills Measured:
-### Set up and deploy an IoT Edge device
-* Create a device identity in IoT Hub
-* Deploy a single IoT device to IoT Edge
-* Create a deployment for IoT Edge devices
-* Install container runtime on IoT devices
-* Define and implement deployment manifest
-* Update security daemon and runtime
-* Provision IoT Edge devices with DPS
-* IoT Edge automatic deployments
-* Deploy on constrained devices
-* Secure IoT Edge solutions
-* Deploy production certificates
+## Skills Measured: Implement IoT Edge
 
-### Develop modules
-* Create and configure an Edge module
-* Deploy a module to an Edge device
-* Publish an IoT Edge module to an Azure Container Registry
+### [Set up an IoT Edge device](https://docs.microsoft.com/azure/iot-edge?wt.mc_id=eventspg_16482_webpage_reactor?wt.mc_id=eventspg_16482_webpage_reactor) 
+* [Create a device identity in IoT Hub](https://docs.microsoft.com/azure/iot-edge/quickstart-linux?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Set up an IoT device for IoT Edge](https://docs.microsoft.com/azure/iot-edge/how-to-create-iot-edge-device?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Install container runtime on IoT devices](https://docs.microsoft.com/azure/iot-edge/how-to-install-iot-edge?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Configure container startup options to interact with the host system](https://docs.microsoft.com/azure/iot-edge/how-to-access-host-storage-from-module?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Update IoT Edge runtime](https://docs.microsoft.com/azure/iot-edge/how-to-update-iot-edge?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Provision IoT Edge devices by using the device provisioning service](https://docs.microsoft.com/azure/iot-edge/how-to-auto-provision-x509-certs?wt.mc_id=eventspg_16482_webpage_reactor)
 
-### Configure an IoT Edge device
-* Select and deploy an appropriate gateway pattern
-* Implement Industrial IoT solutions with modules like Modbus and OPC
-* Implement module-to-module communication
-* Implement and configure offline support (including local storage)
+### [Deploy an IoT Edge device](https://docs.microsoft.com/azure/iot-edge/how-to-create-iot-edge-device?wt.mc_id=eventspg_16482_webpage_reactor) 
+* [Create and implement a deployment manifest](https://docs.microsoft.com/azure/iot-edge/module-composition?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Create a deployment for a single IoT Edge device](https://docs.microsoft.com/azure/iot-edge/module-deployment-monitoring?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Create a deployment to target multiple devices](https://docs.microsoft.com/azure/iot-edge/how-to-deploy-at-scale?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Create a continuous deployment by using Azure DevOps](https://docs.microsoft.com/azure/iot-edge/how-to-continuous-integration-continuous-deployment?wt.mc_id=eventspg_16482_webpage_reactor)
 
-## Homework:
-### [AZ-220 IoT Labs](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer) 
-* Module 6: Azure IoT Edge Deployment Process
-  * [Lab 11: Introduction to Azure IoT Edge](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/Instructions/Labs/LAB_AK_11-introduction-to-azure-iot-edge.html) 
-  <br />Exercise 1: Verify Lab Prerequisites
-  <br />Exercise 2: Deploy Azure IoT Edge enabled Linux VM
-  <br />Exercise 3: Create IoT Edge Device Identity in IoT Hub using Azure CLI
-  <br />Exercise 4: Connect IoT Edge Device to IoT Hub
-  <br />Exercise 5: Add Edge Module to Edge Device
-  <br />Exercise 6: Deploy Azure Stream Analytics as IoT Edge Module
+### [Develop IoT Edge modules](https://docs.microsoft.com/azure/iot-edge/how-to-vs-code-develop-module?wt.mc_id=eventspg_16482_webpage_reactor) 
+* [Create and customize an IoT Edge module](https://docs.microsoft.com/azure/iot-edge/how-to-vs-code-develop-module?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Deploy a custom IoT Edge module to an IoT Edge device](https://docs.microsoft.com/azure/iot-edge/how-to-deploy-modules-portal?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Publish an IoT Edge module to Azure Container Registry](https://azure.microsoft.com/services/container-registry/#documentation?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Define module configuration](https://docs.microsoft.com/azure/iot-edge/how-to-configure-module-build-options?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Configure IoT Edge module routing](https://docs.microsoft.com/azure/iot-edge/module-development?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Configure environment for IoT Edge development](https://docs.microsoft.com/azure/iot-edge/module-development?wt.mc_id=eventspg_16482_webpage_reactor)
 
-  * [Lab 12: Setup an IoT Edge Gateway](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/Instructions/Labs/LAB_AK_12-setup-an-iot-edge-gateway.html)
-  <br />Exercise 1: Exercise 1: Verify Lab Prerequisites
-  <br />Exercise 2: Deploy Azure IoT Edge enabled Linux VM
-  <br />Exercise 3: Generate and Configure IoT Edge Device CA Certificates
-  <br />Exercise 4: Create IoT Edge Device Identity in IoT Hub using Azure Portal
-  <br />Exercise 5: Setup IoT Edge Gateway Hostname
-  <br />Exercise 6: Connect IoT Edge Gateway Device to IoT Hub
-  <br />Exercise 7: Open IoT Edge Gateway Device Ports for Communication
-  <br />Exercise 8: Create Downstream Device Identity in IoT Hub
-  <br />Exercise 9: Connect Downstream Device to IoT Edge Gateway
-  <br />Exercise 10: Verify Event Flow
+### [Configure an IoT Edge device](https://docs.microsoft.com/azure/iot-edge/tutorial-machine-learning-edge-05-configure-edge-device?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Select an appropriate gateway pattern](https://docs.microsoft.com/azure/iot-edge/iot-edge-as-gateway?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Deploy an IoT gateway by using IoT Hub and IoT Edge](https://docs.microsoft.com/azure/iot-edge/how-to-connect-downstream-iot-edge-device?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Configure IoT Edge certificates](https://docs.microsoft.com/azure/iot-edge/how-to-manage-device-certificates?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Implement and configure offline support (including local storage)](https://docs.microsoft.com/azure/iot-edge/offline-capabilities?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Create a layered hierarchy of IoT Edge devices](https://docs.microsoft.com/azure/iot-edge/tutorial-nested-iot-edge?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Interact with the IoT Edge security manager](https://docs.microsoft.com/azure/iot-edge/iot-edge-security-manager?wt.mc_id=eventspg_16482_webpage_reactor)
 
-* Module 7: Azure IoT Edge Modules
-  * [Lab 13: Develop, Deploy and debug a custom module on Azure IoT Edge with VS Code](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/Instructions/Labs/LAB_AK_13-deploy-and-debug-custom-azure-iot-edge-module.html)
-  <br />Exercise 1: Verify Lab Prerequisites
-  <br />Exercise 2: Install Azure IoT EdgeHub Dev Tool
-  <br />Exercise 3: Create Azure Container Registry
-  <br />Exercise 4: Create Custom Edge Module in C#
-  <br />Exercise 5: Debug in Attach Mode with IoT Edge Simulator
-  <br />Exercise 6: Deploy IoT Edge Solution
+*NOTE: In most cases, exams do NOT cover preview features, and some features will only be added to an exam when they are GA (General Availability).*
 
-  * [Lab 14: Run an IoT Edge device in restricted network and offline](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/Instructions/Labs/LAB_AK_14-iot-edge-device-in-restricted-network.html)
-  <br />Exercise 1: Verify Lab Prerequisites
-  <br />Exercise 2: Deploy Azure IoT Edge enabled Linux VM
-  <br />Exercise 3: Setup IoT Edge Parent with Child IoT Devices
-  <br />Exercise 4: Configure IoT Edge Device as Gateway
-  <br />Exercise 5: Open IoT Edge Gateway Device Inbound Ports using Azure CLI
-  <br />Exercise 6: Configure IoT Edge Device Time-to-Live and Message Storage
-  <br />Exercise 7: Connect Child IoT Device to IoT Edge Gateway
-  <br />Exercise 8: Test Device Connectivity and Offline Support
+## Microsoft Learn - Related Learning Paths
 
-### [Online Workshop Series: Build End-to-End IoT Solutions](https://aka.ms/IoT-online-workshop) - 6-part webinar series on building solutions with Azure IoT
-* Part 5: [Build the Intelligent Edge](https://www.youtube.com/watch?v=VW-esf3Wqeg&list=PL1ljc761XCiZMLoKOWZ8YVq_u9DacV7sy&index=5) - With the collection of large amounts of data and the need for urgent responses, you’ll want to bring the intelligence to the edge for processing data and only send the important data to the cloud. After this session, follow the Hands on Labs found here: https://aka.ms/Training/LearnAzureIoT. We’ll take a deep dive on using an Azure IoT Edge device as a gateway and you’ll learn the different scenarios where an IoT Edge device is on an enterprise network (needs proxy settings) or needs extended offline capabilities.
+### [Deploy Azure IoT Edge devices and modules](https://docs.microsoft.com/learn/paths/deploy-azure-iot-edge-devices-modules/?wt.mc_id=eventspg_16482_webpage_reactor) (5 Modules)
+
+Learn about the benefits provided by Azure IoT Edge, the IoT Edge runtime environment, IoT Edge device deployments, and IoT Edge gateway device patterns and capabilities.
+
+### [Develop and deploy custom IoT Edge modules](https://docs.microsoft.com/learn/paths/develop-deploy-custom-iot-edge-modules/?wt.mc_id=eventspg_16482_webpage_reactor) (4 Modules)
+
+Learn about programming for the IoT Edge runtime environment, the tools and processes that are used to develop custom IoT Edge modules, and the support that IoT Edge provides for extended offline scenarios.
 
 ## Quick Reference: Key Concepts and Terminology
 * Azure IoT Edge is made up of three components:
@@ -96,32 +78,17 @@
   * EdgeAgent properties
   * EdgeHub properties
 
+## Other Helpful Resources
 
-## Resources
-* [IoT Edge Documentation](https://docs.microsoft.com/en-us/azure/iot-edge/)
-* [IoT Technical Community](https://techcommunity.microsoft.com/t5/internet-of-things-iot/ct-p/IoT)
-* [Microsoft Learn IoT Learning Paths](http://aka.ms/mslearniot)
-* [Azure IoT Reference Architecture Guide](https://docs.Microsoft.com/azure/architecture/reference-architectures/iot)
-* [Quickstart: Deploy your first IoT Edge module to a virtual Windows device](https://docs.microsoft.com/en-us/azure/iot-edge/quickstart)
-* [IoT Edge Runtime](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime)
-* [Install Azure IoT Edge on Windows](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-windows)
-* [Install the Azure IoT Edge runtime on Linux](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-linux)
-* [IoT Edge security daemon](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-security-manager)
-* [Understand Azure IoT Edge modules](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules)
-* [Develop your own IoT Edge modules](https://docs.microsoft.com/en-us/azure/iot-edge/module-development)
-* [Learn how to deploy modules and establish routes in IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/module-composition)
-* [Deploy Azure IoT Edge modules from the Azure portal](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-deploy-modules-portal) (Deployment manifest wizard)
-* [Understand IoT Edge automatic deployments for single devices or at scale](https://docs.microsoft.com/en-us/azure/iot-edge/module-deployment-monitoring)
-* [Deploy IoT Edge modules at scale using the Azure portal](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-deploy-at-scale)
-* [Monitor IoT Edge deployments](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-monitor-iot-edge-deployments)
-* Monitor a Deployment with Azure CLI
-  * [az IoT Edge deployment show](https://docs.microsoft.com/cli/azure/ext/azure-cli-iot-ext/iot/edge/deployment?view=azure-cli-latest#ext-azure-cli-iot-ext-az-iot-edge-deployment-show) command
-  * [az IoT Edge deployment show-metric](https://docs.microsoft.com/cli/azure/ext/azure-cli-iot-ext/iot/edge/deployment?view=azure-cli-latest#ext-azure-cli-iot-ext-az-iot-edge-deployment-show-metric) command
-* [Register an Azure IoT Edge device](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-register-device)
-* [Install the Azure IoT Edge runtime on Debian-based Linux systems](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-linux)
-* [Understand extended offline capabilities for IoT Edge devices, modules, and child devices](https://docs.microsoft.com/en-us/azure/iot-edge/offline-capabilities)
-* [How an IoT Edge device can be used as a gateway](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-as-gateway)
-* [Update the IoT Edge security daemon and runtime](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/iot-edge/how-to-update-iot-edge.md)
+* [Azure IoT Blogs](https://azure.microsoft.com/blog/topics/internet-of-things/?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Azure IoT Edge for Linux on Windows](https://docs.microsoft.com/azure/iot-edge/iot-edge-for-linux-on-windows)
+* [Azure IoT Hub Pricing](https://azure.microsoft.com/pricing/details/iot-hub/?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Azure IoT Edge Security](https://docs.microsoft.com/azure/iot-edge/security?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Azure IoT Reference Architecture](https://docs.microsoft.com/azure/architecture/reference-architectures/iot?wt.mc_id=eventspg_16482_webpage_reactor)
+* [End-to-end solution using Azure Machine Learning and IoT Edge](https://docs.microsoft.com/azure/iot-edge/tutorial-machine-learning-edge-01-intro?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Microsoft Tech Community - IoT](https://techcommunity.microsoft.com/t5/internet-of-things-iot/ct-p/IoT?wt.mc_id=eventspg_16482_webpage_reactor) - Blogs and conversation spaces
+* [Tutorial: Create a hierarchy of IoT Edge devices](https://docs.microsoft.com/azure/iot-edge/tutorial-nested-iot-edge?wt.mc_id=eventspg_16482_webpage_reactor)
+* [What is Azure IoT Edge?](https://docs.microsoft.com/azure/iot-edge/about-iot-edge?wt.mc_id=eventspg_16482_webpage_reactor)
+* [YouTube - Microsoft IoT Developers](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ?wt.mc_id=eventspg_16482_webpage_reactor)
 
-NOTE: In most cases, exams do NOT cover preview features, and some features will only be
-added to an exam when they are GA (General Availability).
+Happy studies!

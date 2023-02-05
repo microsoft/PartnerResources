@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  {% include head-vs.html %} 
+  {% include appinsights.html %}
+  <body>
+    {% include header-vs.html %}
+
+    <div id="home-banner">
+
+        <div class="wrapper">
+
+            <div class="copy">
+                <h1>Microsoft Partner Resources</h1>
+                <p>The Microsoft Partners Resources repository consists of documents, learning resources 
+                    and other assets designed to aid partners in practice development, upskilling, certifications, 
+                    and bringing their solutions to market.</p>
+                <p>Brought to you by the Microsoft U.S. Global Partner Solutions (GPS) team, empowering partners 
+                    and driving digital transformation.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+
+        <div id="segments">
+
+            <div class="wrapper">
+
+                <a href="{{ site.url }}{{ site.baseurl }}/azure/" class="segment">
+                    <div class="inner">
+                        <h2>Azure</h2>
+                        <p>AppDev, Data, Analytics, and AI, Infrastructure, IoT, and Marketplace content.</p>
+                        <span class="homepagelink">View Azure Resources &#187;</span>
+                    </div>
+                </a>
+                
+                <a href="{{ site.url }}{{ site.baseurl }}/business-applications/" class="segment">
+                    <div class="inner">
+                        <h2>Business Applications</h2>
+                        <p>Customer Data Platform, Customer Engagement, Finance & Operations, ISV Connect, Mixed Reality, Power Platform, Small Medium Business (SMB)</p>
+                        <span class="homepagelink">View Business Apps Resources &#187;</span>                 
+                    </div>
+                </a>
+                
+                <a href="{{ site.url }}{{ site.baseurl }}/industry/" class="segment">
+                    <div class="inner">
+                        <h2>Industry</h2>
+                        <p>Automotive, Communications Sector, Energy, Healthcare, Financial Services, Manufacturing, Nonprofit, Retail, Sustainability</p>
+                        <span class="homepagelink">View Content by Industry &#187;</span>        
+                    </div>
+                </a>
+
+                <a href="{{ site.url }}{{ site.baseurl }}/modern-workplace/" class="segment">
+                    <div class="inner">
+                        <h2>Modern Workplace</h2>
+                        <p>Management, Microsoft Teams</p>
+                        <span class="homepagelink">View Modern Workplace Resources &#187;</span>                             
+                    </div>
+                </a>
+                
+                <a href="{{ site.url }}{{ site.baseurl }}/security/" class="segment">
+                    <div class="inner">
+                        <h2>Security</h2>
+                        <p>Identity & Access, Information & Data Protection, 365 Defender, Defender for Cloud, Purview, Sentinel, Threat Protection, Zero Trust</p>
+                        <span class="homepagelink">View Security Resources &#187;</span>        
+                    </div>
+                </a>
+
+                <a href="{{ site.url }}{{ site.baseurl }}/skilling/academies" class="segment">
+                    <div class="inner">
+                        <h2>Academies</h2>
+                        <p>Our solution-focused content on AI/ML, Data, Security, Analytics, Data Governance, and D365.</p>
+                        <span class="homepagelink">View Academies &#187;</span>                             
+                    </div>
+                </a>
+
+            </div>
+                
+        </div><!-- #segments -->
+
+      </div>
+    </div>
+
+    {% include footer-vs.html %} {% include scripts.html %}
+    
+  </body>
+</html>

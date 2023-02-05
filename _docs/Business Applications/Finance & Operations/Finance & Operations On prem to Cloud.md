@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Finance & Operations On prem to Cloud
+title: Finance & Operations On-Prem to Cloud
+description: Resources for Finance and Operations On-Prem to Cloud
+updated: 2021-12-01
 permalink: /business-applications/finance-and-operations/on-prem-to-cloud
 tags:
- - business-applications
- - finance-and-operations
+- learning plan
+- business applications
+- finance and operations
 ---
 
-# Learning Plan Resources for Finance & Operations On prem to Cloud
+# Learning Plan Resources for Finance & Operations On-Prem to Cloud
 
 ## Fundamentals
 

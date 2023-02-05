@@ -1,7 +1,7 @@
 ---
-layout: home
-title: PartnerResources
-permalink: /
+layout: page
+title: PartnerResources 
+permalink: /github
 ---
 
 # What are Microsoft Partner Resources?

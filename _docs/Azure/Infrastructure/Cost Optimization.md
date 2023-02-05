@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Cost Optimization
+description: Resources for Cloud Cost Optimization
+updated: 2021-12-01
 permalink: /azure/infrastructure/cost-optimization
 tags: 
- - azure
- - infrastructure
+- learning plan
+- azure
+- infrastructure
 ---
 
 # Learning Plan Resources for Cost Optimization

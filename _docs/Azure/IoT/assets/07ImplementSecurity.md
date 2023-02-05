@@ -1,40 +1,37 @@
-# AZ-220 Implement Security (10-15%)
+---
+layout: page
+title: 07 Implement Security
+permalink: /azure/iot/assets/07ImplementSecurity
+tags: 
+ - azure
+ - iot
+---
+
+# AZ-220 Implement Security (5-10%)
 
 * [AZ-220: Microsoft Azure IoT Developer Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)
 * [Microsoft Certified: Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
-* [Microsoft Tech Community "Learn IoT" Conversation Space](https://aka.ms/iottechcommunity/learniot) - Where you can discuss IoT learning resources and homework questions 
 
 ## Skills Measured:
-### Implement device authentication in the IoT Hub
-* Choose an appropriate form of authentication
-* Manage the X.509 certificates for a device
-* Manage the symmetric keys for a device
+### [Implement security for IoT devices and services](https://docs.microsoft.com/azure/architecture/framework/iot/iot-security?wt.mc_id=eventspg_16482_webpage_reactor)
 
-### Implement device security by using DPS
-* Configure different attestation mechanisms with DPS
-* Generate and manage x.509 certificates for IoT Devices
-* Configure enrollment with x.509 certificates
-* Generate a TPM endorsements key for a device
-* Configure enrollment with symmetric keys
+* [Implement device and gateway security, including shared access keys, key rotation, managed identities, Hardware Security Modules (HSMs), and Trusted Platform Modules (TPMs)](https://docs.microsoft.com/azure/iot-fundamentals/iot-security-deployment?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Implement secure connections, including access control, authentication, shared access policies, and TLS](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-security?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Implement secure networking, including IP filtering and private endpoints](https://docs.microsoft.com/azure/iot-hub/virtual-network-support?wt.mc_id=eventspg_16482_webpage_reactor)
 
-### Implement Azure Security Center (ASC) for IoT
-* Enable ASC for IoT in Azure IoT Hub
-* Create security modules
-* Configure custom alerts
+### [Implement Microsoft Defender for IoT](https://docs.microsoft.com/azure/defender-for-iot/organizations/overview?wt.mc_id=eventspg_16482_webpage_reactor) 
 
-## Homework:
-### [AZ-220 IoT Labs](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer) 
-* Module 10: Azure Security Center and IoT Security
-  * [Lab 19: Detect if your IoT Device was Tampered with Azure Security Center for IoT](https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/Instructions/Labs/LAB_AK_19-azure-security-center-for-iot.html)
-  <br />Exercise 1: Verify Lab Prerequisites
-  <br />Exercise 2: Enable Azure Security Center for IoT Hub
-  <br />Exercise 3: Create and Register a New Device
-  <br />Exercise 4: Create a Security Module Twin
-  <br />Exercise 5: Deploy Azure Security Center for IoT C# Security Agent
-  <br />Exercise 6: Configure Solution Management
-  <br />Exercise 7: Introduce custom alerts
-  <br />Exercise 8: Configure the Device App
-  <br />Exercise 9: Review Security Center Alerts
+* [Configure a Defender for IoT agent-based solution](https://docs.microsoft.com/azure/defender-for-iot/device-builders/tutorial-configure-agent-based-solution?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Install and configure Defender-IoT-micro-agents (security agents)](https://docs.microsoft.com/azure/defender-for-iot/device-builders/concept-security-module?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Configure built-in and custom alerts for IoT Hub](https://docs.microsoft.com/azure/defender-for-iot/device-builders/concept-security-alerts?wt.mc_id=eventspg_16482_webpage_reactor)
+
+*NOTE: In most cases, exams do NOT cover preview features, and some features will only be added to an exam when they are GA (General Availability).*
+
+## Microsoft Learn - Related Learning Paths
+
+### [Enhance IoT solution security by using Azure Defender for IoT](https://docs.microsoft.com/learn/paths/enhance-iot-solution-security-by-using-azure-defender/?wt.mc_id=eventspg_16482_webpage_reactor) (4 Modules)
+
+Learn about security considerations that apply at each level of the solution and the Azure services and tools that can be configured to address security concerns from the ground up.
   
 ## Quick Reference: Key Concepts and Terminology
 * Three widely used authentication types are X.509 certificates, Trusted Platform Modules (TPM), and symmetric keys.
@@ -77,28 +74,19 @@
       * Symmetric keys take a significant degree of effort to secure the keys. The same key is shared between device and cloud, which means the key must be protected in two places. In contrast, the challenge with TPM and X.509 certificates is proving possession of the public key without revealing the private key.
       * Symmetric keys make it easy to follow poor security practices. A common tendency with symmetric keys is to hard code the unencrypted keys on devices. While this practice is convenient, it leaves the keys vulnerable. You can mitigate some risk by securely storing the symmetric key on the device. However, if your priority is ultimately security rather than convenience, use X.509 certificates or TPM for authentication.   
       
-## Resources
-* [IoT Technical Community](https://techcommunity.microsoft.com/t5/internet-of-things-iot/ct-p/IoT)
-* [Microsoft Learn IoT Learning Paths](http://aka.ms/mslearniot)
-* [Azure IoT Reference Architecture Guide](https://docs.Microsoft.com/azure/architecture/reference-architectures/iot)
-* [Azure IoT Security](https://azure.microsoft.com/en-in/overview/iot/security/)
-* [Security recommendations for Azure Internet of Things (IoT) deployment](https://docs.microsoft.com/en-us/azure/iot-fundamentals/security-recommendations)
-* [Selecting device authentication options](https://docs.microsoft.com/en-us/azure/iot-dps/concepts-device-oem-security-practices)
-* [Conceptual understanding of X.509 CA certificates in the IoT industry](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-x509ca-concept)
-* [Device Authentication using X.509 CA Certificates](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-x509ca-overview)
-* [Quickstart: Enroll X.509 devices to the Device Provisioning Service using C#](https://docs.microsoft.com/bs-latn-ba/azure/iot-dps/quick-enroll-device-x509-csharp)
-* [Device provisioning: Identity attestation with TPM](https://azure.microsoft.com/en-in/blog/device-provisioning-identity-attestation-with-tpm)
-* [Quickstart: Enroll TPM device to IoT Hub Device Provisioning Service using C# service SDK](https://docs.microsoft.com/bs-latn-ba/azure/iot-dps/quick-enroll-device-tpm-csharp)
-* [How to provision legacy devices using symmetric keys](https://docs.microsoft.com/en-us/azure/iot-dps/how-to-legacy-device-symm-key)
-* [Quickstart: Provision a simulated device with symmetric keys](https://docs.microsoft.com/en-us/azure/iot-dps/quick-create-simulated-device-symm-key)
-* [How to use different attestation mechanisms with Device Provisioning Service Client SDK for C](https://docs.microsoft.com/en-us/azure/iot-dps/use-hsm-with-sdk)
-* [Azure Security Center (ASC)](https://azure.microsoft.com/en-in/services/security-center/)
-* [Azure Security Center for IoT security agent](https://github.com/Azure/Azure-IoT-Security)
-* [Quickstart: Onboard Azure Security Center for IoT service in IoT Hub](https://docs.microsoft.com/en-us/azure/asc-for-iot/quickstart-onboard-iot-hub)
-* [Quickstart: Create an azureiotsecurity module twin](https://docs.microsoft.com/en-us/azure/asc-for-iot/quickstart-create-security-twin)
-* [Azure Security Center for IoT security alerts](https://docs.microsoft.com/en-us/azure/asc-for-iot/concept-customizable-security-alerts) - IoT Hub alerts and Agent alerts available for customization
-* [Quickstart: Create custom alerts](https://docs.microsoft.com/en-us/azure/asc-for-iot/quickstart-create-custom-alerts)
-* [Azure Sphere](https://azure.microsoft.com/en-in/services/azure-sphere/) - Know of it, but you shouldn't need to know implementation details
+## Other Helpful Resources
 
-NOTE: In most cases, exams do NOT cover preview features, and some features will only be
-added to an exam when they are GA (General Availability).
+* [Azure IoT Blogs](https://azure.microsoft.com/blog/topics/internet-of-things?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Azure IoT Reference Architecture](https://docs.microsoft.com/azure/architecture/reference-architectures/iot?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Control access to Azure IoT Hub Device Provisioning Service (DPS)](https://docs.microsoft.com/azure/iot-dps/concepts-control-access-dps?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Control access to IoT Hub using Shared Access Signatures](https://docs.microsoft.com/azure/iot-hub/iot-hub-dev-guide-sas?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Internet of Things (IoT) Security Best Practices](https://docs.microsoft.com/azure/iot-fundamentals/iot-security-best-practices?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Microsoft Tech Community - IoT](https://techcommunity.microsoft.com/t5/internet-of-things-iot/ct-p/IoT?wt.mc_id=eventspg_16482_webpage_reactor) - Blogs and conversation spaces
+* [Microsoft Azure Well-Architected Framework for IoT: Security](https://docs.microsoft.com/azure/architecture/framework/iot/iot-security?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Network security for IoT Central using private endpoints](https://docs.microsoft.com/azure/iot-central/core/concepts-private-endpoints?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Security recommendations for Azure Internet of Things (IoT) deployment](https://docs.microsoft.com/azure/iot-fundamentals/security-recommendations?wt.mc_id=eventspg_16482_webpage_reactor)
+* [Security Standards for Azure IoT Edge](https://docs.microsoft.com/azure/iot-edge/security?wt.mc_id=eventspg_16482_webpage_reactor)
+* [TLS Support for Azure IoT Hub Device Provisioning Service (DPS)](https://docs.microsoft.com/azure/iot-dps/tls-support?wt.mc_id=eventspg_16482_webpage_reactor)
+* [YouTube - Microsoft IoT Developers](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ?wt.mc_id=eventspg_16482_webpage_reactor?wt.mc_id=eventspg_16482_webpage_reactor)
+
+Happy studies!

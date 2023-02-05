@@ -1,29 +1,30 @@
 ---
 layout: page
 title: Azure Synapse Analytics
-permalink: /azure/data-analytics-ai/modern-data-warehouse
+description: Resources for Azure Synapse Analytics
+updated: 2022-06-30
+permalink: /azure/data-analytics-ai/azure-synapse-analytics
+redirect_from:
+- /azure/data-analytics-ai/modern-data-warehouse
 tags: 
- - azure
- - synapse
- - sql server
- - data warehouse
+- azure
+- data, analytics, and ai
+- learning plan
+- synapse
+- sql server
+- data warehouse
 ---
 
-# Learning Plan Resources for Azure Synapse Analytics
+# Azure Synapse Analytics Readiness Resources
 
 Azure Synapse Analytics is an analytical service evolved from Azure SQL Data Warehouse that brings together enterprise data warehousing and big data analytics. Provisioned or on-demand, Azure Synapse offers a unified experience to ingest, prepare, manage, and serve data for analytics, BI, and machine learning needs.
 
-Below you will find content to assist in upskilling in Azure Synapse. Because the product is rapidly evolving, some documentation may reference Azure SQL Data Warehouse, or refer to features that are in-preview and not yet released. Content is broken down as follows:
+Content is broken down as follows:
 
 * Keeping Up: latest information and links 
 * Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
 * Certifications: relevant Microsoft exams or certifications
 * Community resources: user groups, events, blogs
-
-Additionally, some content may be marked with one or more icons:
-
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
 
 ## Keeping Up
 
@@ -31,19 +32,45 @@ The latest updates on Azure Sypanse Analytics.
 
 Azure Synapse Analytics is now generally available as of December 2020. 
 
-* [January 27 2021 Overview, Key Features, and Resources Webcast](https://microsoftevent.eventbuilder.com/event/37611)
-  * Webcast from the Azure Synapse Team
-  * Additional Resources from this webcast:
-    * [Customer References (PPTX)](https://www.microsoft.com/azure/partners/resources/azure-synapse-analytics-customer-references)
-    * [Youtube: Azure Synapse: SQL, data warehouse, ML, and on-demand](https://www.youtube.com/watch?v=ixJlsYc3Lwc) (Microsoft Ignite 2019)
-    * [Webcast: Azure Synapse: How it Works](https://info.microsoft.com/Virtual-Event-Azure-Synapse-Analytics-How-It-Works-On-Demand-Registration.html)
-    * [Guides: On-premises data warehouse migration guides](https://partner.microsoft.com/en-us/asset/collection/on-premises-data-warehouse-migration-to-azure-synapse-analtyics#/)
-    * [Azure Synapse Analytics with Azure Free Account](https://azure.microsoft.com/en-us/free/synapse-analytics/)
-    * [Digital Event: Shape your Future with Azure Data and Analytics](https://azuredataandanalytics2020.eventcore.com)
-    * [Analytics-in-a-Day Content](https://partner.microsoft.com/en-us/asset/collection/analytics-in-a-day#/)
-    * [Synapse Knowledge Center Documentation](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-knowledge-center)
-    * [Azure Synapse Tech Community](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/bg-p/AzureSynapseAnalyticsBlog)
+* [October 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-october-update-2022-microsoft-ignite/ba-p/3535136)
+  * New Microsoft 365 Pipeline Template Dataflows in Preview
+  * SAP Change Data Capture (CDC) Connector is now General Available
+  * R language support with key library management capabilities is now in preview.
 
+* [September 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-september-update-2022/ba-p/3535133)
+  * Auto-statistics for OPENROWSET in CSV datasets
+  * MERGE T-SQL is now Generally Available
+  * New informative Livy errors codes
+  * Logstash connector HTTP/HTTPS proxy configuration
+  * Kafka Connect support of Protobuf format 
+  * Embed Azure Data Explorer dashboards in third-party apps 
+  * Funnel visuals
+  * .NET and Node.js support in Sample App Generator
+  * Gantt Chart view supported in Integration Runtime Monitoring
+  * Maximum column optimization in mapping dataflow 
+
+* [August 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-august-update-2022/ba-p/3535126)
+  * Distribution Advisor for dedicated SQL pools
+  * Spark Delta Lake tables in serverless SQL
+  * New Cast transformation that was added to mapping data flows.
+  * Synapse Data Explorer updates
+  * SynapseML improvements
+  * Security Updates
+
+* [June 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-june-update-2022/ba-p/3535086)
+  * Azure Orbital analytics
+  * Azure Synapse Success by Design
+  * Synapse Data Explorer updates
+* [May 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-may-update-2022/ba-p/3430970)
+  * Data warehouse migration guide for dedicated SQL Pools
+  * Apache Spark for Synapse
+  * Synapse Data Explorer
+  * Data Integration
+  * Synapse Link
+* [January 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-january-update-2022/ba-p/3071681)
+  * Additional database templates (Automotive, Genomics, Manufacturing, Pharmaceuticals)
+  * SynapseML improvements
+  * Data flow connector for Dynamics
 
 ## Fundamentals
 
@@ -97,13 +124,13 @@ Azure Synapse Analytics is now generally available as of December 2020.
   * General security requirements needed for any data platform architecture
 * [Architect Migration and BCDR](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/) (Microsoft Docs)
 
-_The following documents are intended to be consumed in order, as they begin with a reference architecture through solution building:_
+__The following documents are intended to be consumed in order, as they begin with a reference architecture through solution building:__
 
 * [1. Reference Architecture: Automated Enterprise BI with Synapse](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/data/enterprise-bi-adf) (Microsoft Docs)
 * [2. Example Workloads: Data warehousing and analytics](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/data/data-warehouse) (Microsoft Docs)
 * [3. Solution Ideas: Streaming using HDInsight](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/streaming-using-hdinsight) (Microsoft Docs)
 
-_Pluralsight Courses:_
+__Pluralsight Courses:__
 
 * [Implementing a Cloud Data Warehouse in Microsoft Azure Synapse Analytics](https://www.pluralsight.com/courses/microsoft-azure-implementing-cloud-data-warehouses) (3rd Party, $)
 * [Modern Data Warehousing at Scale Using Azure Data Factory](https://www.pluralsight.com/courses/big-data-ldn-session-25) (3rd Party)
@@ -122,12 +149,12 @@ _Pluralsight Courses:_
 * [Azure Synapse Analytics Deep Dive: Optimize a data warehouse with dedicated SQL pools](https://note.microsoft.com/US-NOGEP-WBNR-FY21-02Feb-25-AzureSynapseAnalyticsDeepDiveOptimizeadatawarehousewithdedicatedSQLpools-SRDEM55626_Registration.html) (Webinar)
 * [Azure Synapse Analytics Deep Dive: Machine Learning in Azure Synapse Analytics](https://note.microsoft.com/US-NOGEP-WBNR-FY21-02Feb-26-AzureSynapseAnalyticsDeepDiveMachineLearninginAzureSynapseAnalytics-SRDEM55626_Registration.html) (Webinar)
 
-_WhatTheHack events are often in-person in a hands on format.  However, it can be worked on individually and self-paced:_
+__WhatTheHack events are often in-person in a hands on format.  However, it can be worked on individually and self-paced:__
 
 * [WhatTheHack - Driving Miss Data](https://github.com/microsoft/WhatTheHack/tree/master/003-DrivingMissData) (Hands on lab)
 * [WhatTheHack - This Old Data Warehouse](https://github.com/microsoft/WhatTheHack/tree/master/019-ThisOldDataWarehouse) (Hands on lab)
 
-_Microsoft OpenHack events are immersive, multi-day hands on experiences; specifically, the Modern Data Warehouse dives into Azure Synapse, Databricks, Azure Data Factory, and Azure Data Lake._
+__Microsoft OpenHack events are immersive, multi-day hands on experiences; specifically, the Modern Data Warehouse dives into Azure Synapse, Databricks, Azure Data Factory, and Azure Data Lake.__
 
 * [OpenHack - Modern Data Warehouse](https://openhack.microsoft.com/) (Hands on lab / workshop)
 * [CICD For SQL Analytics using SSDT](https://cloudblogs.microsoft.com/sqlserver/2019/11/07/new-in-azure-synapse-analytics-cicd-for-sql-analytics-using-sql-server-data-tools/) (SQL Server Blog)
@@ -141,20 +168,15 @@ _Microsoft OpenHack events are immersive, multi-day hands on experiences; specif
 
 ## Certifications
 
-Exams such as the [70-767 Implementing a Data Warehouse](https://www.microsoft.com/en-us/learning/exam-70-767.aspx) are still available, however we recommend the new role-based certifications as these better align to industry trends and the mix of technical skills needed to successfully build Data & AI solutions.
+Exams such as the [70-767 Implementing a Data Warehouse](https://www.microsoft.com/en-us/learning/exam-70-767.aspx) is no longer available and was retired on January 31, 2021. We recommend the new role-based certifications, as these better align to industry trends and the mix of technical skills needed to successfully design and implement Data & AI solutions.
 
-Although DP-200 and DP-201 are similar, DP-200 focuses more on the "How?" solutions are implemented, typically requiring code/scripting experience and knowledge of how to enable certain features.  DP-201 focuses more on the "Why?" -- understanding how different components work together.
+The first two role-based exams, DP-200 and DP-201 have also been retired and replaced with [DP-203 Data Engineering on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203). DP-203 consolidates all of the goals of DP-200 and DP-201, and includes the latest features in Azure Synapse. 
 
-* [Exam DP-200: Implementing an Azure Data Solution](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200)
-* [Exam DP-201: Designing an Azure Data Solution](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201)
-
-Both of these exams are required for the [Microsoft Certified: Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer?wt.mc_id=learningredirect_certs-web-wwl) certification.
-
-* [Exam DP-203: Data Engineering on Microsoft Azure (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
- * Exams DP-200 and DP-201 will be replaced with exam DP-203 on February 23, 2021.
+Passing [DP-203](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203) is required for the [Microsoft Certified: Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer?wt.mc_id=learningredirect_certs-web-wwl) certification.
 
 ## Community
 
+* [Azure Synapse Analytics Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog)
 * [Power BI User Group](https://www.pbiusergroup.com/home)
 * [SQL PASS](https://www.pass.org/)
 * [Pragmatic Works: Blog on SQL Server](https://blog.pragmaticworks.com)

@@ -1,11 +1,14 @@
 ---
 layout: page
-title: App Modernization
+title: Power Platform App Modernization
+description: Resources for Power Platform App Modernization
+updated: 2022-12-19
 permalink: /business-applications/power-platform/app-modernization
 tags:
- - business-applications
- - power-platform
- - app-modernization
+- learning plan
+- business applications
+- power platform
+- app modernization
 ---
 
 # Learning Plan Resources for App Modernization
@@ -38,6 +41,7 @@ tags:
 * [Subscribe to Microsoft Power Apps YouTube Channel](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) (Self-Paced)
 * [Monitor Microsoft Power Apps Community Group](https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1) (Other)
 * [Participate in Power Apps User Group](https://www.powerappsug.com/home) (Other)
+* [Power Platform Community](https://powerusers.microsoft.com/)
 
 ## Certifications
 
@@ -48,3 +52,4 @@ tags:
 * Retired [Exam MB-400: Microsoft Dynamics 365 Power Apps + Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400) (Self-Paced) (2 Hours)
 * [MB-200: Microsoft Power Platform + Dynamics 365 Core Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-200-microsoft-power-platform-plus-dynamics-365-core#/) (Self-Paced) (10 Hours)
 * [MB-210: Microsoft Dynamics 365 Sales Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-210-microsoft-dynamics-365-sales#/) (Self-Paced) (3 Hours)
+* [Microsoft Champion Program](https://adoption.microsoft.com/become-a-champion/) (Self-paced)
