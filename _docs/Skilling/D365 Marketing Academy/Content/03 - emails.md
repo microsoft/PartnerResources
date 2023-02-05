@@ -1,8 +1,8 @@
 ---
 layout: page
-title: D365 Marketing in a Day - Working with Emails
-sorttitle: 03 D365 Marketing - Working with Emails
-description: In this video titled, **Working with Emails**, you will learn the fundamentals of email marketing inside Dynamics 365 Marketing. You will create emails and learn how to personalize content based on audience. 
+title: D365 Marketing in a Day - Creating Emails
+sorttitle: 03 D365 Marketing - Creating Emails
+description: In this video titled, Creating Emails, you will learn the fundamentals of email marketing inside Dynamics 365 Marketing. You will create emails and learn how to personalize content based on audience. 
 updated: 2023-01-31
 permalink: /skilling/d365-marketing-academy/emails
 youtubeid: 0JRDWbpvqeU
