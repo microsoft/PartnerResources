@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D365 Marketing in a Day - Creaing Emails
+title: D365 Marketing in a Day - Creating Emails
 description: D365 Marketing Academy - Email
 permalink: /skilling/d365-marketing-academy/email
 showbreadcrumb: true
