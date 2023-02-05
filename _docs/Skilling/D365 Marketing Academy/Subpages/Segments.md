@@ -1,14 +1,12 @@
 ---
 layout: page
-title: D365 Marketing Academy - Segments
+title: D365 Marketing in a Day - Working with Segments
 description: D365 Marketing Academy - Segments
 permalink: /skilling/d365-marketing-academy/segments
 showbreadcrumb: true
 ---
 
-**# {{ page.title }}**
-
-**D365 Marketing in a Day - Working with Segments**
+## {{ page.title }}
 
 Targeting the right audience is an essential task for Marketers. This video titled **Working with Segments** to build segments Marketers leverage a powerful, easy-to-use logic builder that doesn’t require specialized knowledge of complex data structures and logical operators.
 
