@@ -6,7 +6,7 @@ permalink: /skilling/d365-marketing-academy/gettingstarted
 showbreadcrumb: true
 ---
 
-## {{ page.title }}
+# {{ page.title }}
 
 Watch this brief video titled **Getting Started** to understand how to get started with a demo environment, enable key features, add contacts and upload images to your environment. 
 
