@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Your first customer implementation of Microsoft Cloud for Nonprofit
+title: 2) Your first customer implementation of Microsoft Cloud for Nonprofit
 description: Nonprofits need trusted services partners with Microsoft Cloud expertise and industry focus to advise, build, deliver, and support their digital transformation journey.
 updated: 2023-01-29
 permalink: /industry/nonprofit/nonprofit-implement
