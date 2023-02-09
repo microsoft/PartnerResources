@@ -3,7 +3,7 @@ layout: page
 title: 5) Stay connected and share success
 sorttitle: 05
 description: Make your wins visible to us and your customers.
-updated: 2023-02-08
+updated: 2023-02-09
 permalink: /industry/nonprofit/nonprofit-connect
 tags:
 - learning plan
@@ -44,4 +44,5 @@ Communities | Blogs
 [Power Apps Community](https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1) | [Power Apps Blog](https://powerapps.microsoft.com/en-us/blog/)
 [Power Pages Community](https://powerusers.microsoft.com/t5/Microsoft-Power-Pages-Community/ct-p/MPPCommunity) | [Power Pages Blog](https://powerpages.microsoft.com/en-us/blog/)
 [Power BI Community](https://community.powerbi.com/) | [Power BI Blog](https://powerbi.microsoft.com/en-us/blog/)
-[Azure Community](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure) | 
+[Azure Community](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure) | [Azure Blog Collection](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
+[Marketplace Community](https://techcommunity.microsoft.com/t5/marketplace/ct-p/Marketplace) | [Marketplace Blog](https://techcommunity.microsoft.com/t5/marketplace-blog/bg-p/Marketplace-Blog)
