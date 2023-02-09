@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 3) Building your first solution to extend or connect with Microsoft Cloud for Nonprofit
+title: Building your first solution to extend or connect with Microsoft Cloud for Nonprofit
+sorttitle: 03
 description: Decide whether the Build, Extend, or Connect pattern is the best fit for you.
 updated: 2023-02-08
 permalink: /industry/nonprofit/nonprofit-build

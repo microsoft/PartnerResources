@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 5) Stay connected and share success
+title: Stay connected and share success
+sorttitle: 05
 description: Make your wins visible to us and your customers.
 updated: 2023-02-09
 permalink: /industry/nonprofit/nonprofit-connect
