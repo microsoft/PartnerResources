@@ -61,6 +61,7 @@
           tag: manufacturing
         - title: Nonprofit
           url: "industry/nonprofit"
+          sortfield: sorttitle
           tag: nonprofit
         - title: Retail
           url: "industry/retail"
