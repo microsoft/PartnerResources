@@ -62,10 +62,18 @@ Loop through TOC
 
 {% for child in entry.children %}
 <div><h3 style="margin-top:20px; margin-bottom: 10px;"><a class="td-sidebar-link td-sidebar-link__page " id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ child.title | slugify }}" href="{% if child.url %}{{ site.baseurl }}/{{ child.url }}{% else %}{{ child.external_url }}{% endif %}">{{ child.title }}</a></h3></div> 
+{% comment %}
+sort items by using the sort order in TOC
+{% endcomment %}
+{% assign sortfield = "title" %}
+{% if child.sortfield %}
+    {% assign sortfield = child.sortfield %}
+{% endif %}
+
 {% for doc in current_docs %}
 {% if doc.tags contains child.tag %}
 <div class="tag-entry" style="padding-left:25px;">
-    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a>
+    <div><a href="{{- site.baseurl -}}{{- doc.url -}}">{{ sortfield }} {{ doc.title }}</a>
     {% if doc.updated %}
     <span class="docupdated" style="padding-left: 5px;">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
     {% endif %}
