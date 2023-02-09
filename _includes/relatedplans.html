@@ -6,7 +6,7 @@ Skip related plans if specified by page
 {% if page.includerelated %}
 {% assign includerelated = page.includerelated %}
 {% endif %}
-{% if includerelated = "true" %}
+{% if includerelated == "true" %}
 
 {% comment %}
 Find related items based on tags, skipping 'learning plan' and any root-level 
@@ -21,7 +21,7 @@ maxRelated = maximum number of related items to show
 
 {% if site.showrelatedplans and page.tags contains 'learning plan' %}
 
-{% assign minCommonTags =  1 %}
+{% assign minCommonTags = 1 %}
 {% assign maxRelated = 4 %}
 
 {% assign all_docs = site.docs | sort: "title" %}
