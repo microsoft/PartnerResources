@@ -2,7 +2,7 @@
 Skip related plans if specified by page
 {% endcomment %}
 {% assign includerelated = true %}
-{% if page.includerelated = false %}
+{% if page.includerelated == false %}
 {% assign includerelated = false %}
 {% endif %} 
 {% if includerelated == true %}
