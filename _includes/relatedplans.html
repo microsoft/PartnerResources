@@ -5,7 +5,7 @@ Skip related plans if specified by page
 {% assign includerelated = "true" %}
 {% if page.includerelated %}
 {% assign includerelated = page.includerelated %}
-{% endif %}
+{% endif %} includerelated: {{ includerelated}}
 {% if includerelated == "true" %}
 
 {% comment %}
