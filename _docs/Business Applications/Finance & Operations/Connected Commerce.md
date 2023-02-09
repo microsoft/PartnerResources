@@ -22,10 +22,10 @@ tags:
 * [Templates and layouts overview](https://docs.microsoft.com/en-us/dynamics365/commerce/templates-layouts-overview) (Self-Paced)
 * [Ratings and reviews overview](https://docs.microsoft.com/en-us/dynamics365/commerce/ratings-reviews-overview) (Self-Paced)
 * [Starter kit overview](https://docs.microsoft.com/en-us/dynamics365/commerce/starter-kit-overview) (Self-Paced)
-* [Dynamics 365 Commerce (Public Preview) | 2019 release wave 2 overview](https://www.youtube.com/watch?v=EQ-Hg2fmkEE) (Self-Paced) (8 Minutes)
+* [Dynamics 365 Commerce (Public Preview) - 2019 release wave 2 overview](https://www.youtube.com/watch?v=EQ-Hg2fmkEE) (Self-Paced) (8 Minutes)
 
 ## Associate
 
-* [Safeguard your digital commerce with Dynamics 365 Fraud Protection | BRK236](https://www.youtube.com/watch?v=RegT6uNpAuE) (Self-Paced) (41 Minutes)
+* [Safeguard your digital commerce with Dynamics 365 Fraud Protection - BRK236](https://www.youtube.com/watch?v=RegT6uNpAuE) (Self-Paced) (41 Minutes)
 * [Ways to add content](https://docs.microsoft.com/en-us/dynamics365/commerce/add-manage-content) (Self-Paced)
 * [Product recommendations overview](https://docs.microsoft.com/en-us/dynamics365/commerce/product-recommendations) (Self-Paced)
