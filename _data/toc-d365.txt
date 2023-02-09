@@ -155,6 +155,43 @@
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga
+    - title: "D365 Marketing Academy"
+      url: "skilling/d365-marketing-academy"
+      tag: d365 marketing academy
+      children:
+        - title: Getting Started
+          url: "skilling/d365-marketing-academy/gettingstarted"
+          tag: d365 marketing academy gettingstarted
+        - title: Segments
+          url: "skilling/d365-marketing-academy/segments"
+          tag: d365 marketing academy segments
+        - title: E-mail
+          url: "skilling/d365-marketing-academy/email"
+          tag: d365 marketing academy email
+        - title: SMS
+          url: "skilling/d365-marketing-academy/sms"
+          tag: d365 marketing academy sms
+        - title: Push Notification
+          url: "skilling/d365-marketing-academy/pushnotification"
+          tag: d365 marketing academy push
+        - title: Forms
+          url: "skilling/d365-marketing-academy/forms"
+          tag: d365 marketing academy forms
+        - title: Triggers
+          url: "skilling/d365-marketing-academy/triggers"
+          tag: d365 marketing academy triggers
+        - title: Journeys
+          url: "skilling/d365-marketing-academy/journeys"
+          tag: d365 marketing academy journeys
+        - title: Events
+          url: "skilling/d365-marketing-academy/events"
+          tag: d365 marketing academy events
+        - title: Lead Scoring
+          url: "skilling/d365-marketing-academy/leadscoring"
+          tag: d365 marketing academy leadscoring
+        - title: Analytics
+          url: "skilling/d365-marketing-academy/analytics"
+          tag: d365 marketing academy analytics
     - title: "D365 Sales Academy"
       url: "skilling/d365-sales-academy"
       tag: d365 sales academy

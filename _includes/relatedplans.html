@@ -1,4 +1,14 @@
 {% comment %}
+Skip related plans if specified by page
+{% endcomment %}
+
+{% assign includerelated = true %}
+{% if page.includerelated %}
+{% assign includerelated = page.includerelated %}
+{% endif %}
+{% if includerelated = true %}
+
+{% comment %}
 Find related items based on tags, skipping 'learning plan' and any root-level 
 tags like 'Azure'. 
 
@@ -71,3 +81,5 @@ maxRelated = maximum number of related items to show
 {% endif %}
 
 {% endif %}
+
+{% endif %} {% comment %} includelrelated {% endcomment %}
