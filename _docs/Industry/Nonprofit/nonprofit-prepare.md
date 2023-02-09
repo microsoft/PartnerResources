@@ -24,12 +24,13 @@ For our partners working with Microsoft Cloud for Nonprofit the opportunity is s
  - Additional demand for fundraising and volunteer management solutions in adjacent industries including healthcare and higher education.
 
 ## Get started
-Here is an overview of the fastest possible path to working with customers of Microsoft Cloud for Nonprofit:
+Here is an overview of the fastest possible path to driving business with Microsoft Cloud for Nonprofit
  1. Create a free partner account with the [Microsoft Cloud Partner Program](https://partner.microsoft.com/en-us/partnership).
  1. Prepare for development or demonstrations with [a pre-production environment](#setup-your-internal-environment).
- 1. Grow your business through [co-selling opportunities and marketplace offers](./nonprofit-grow.md).
+ 1. Make [your opportunities visible in Partner Center](./nonprofit-grow.md#make-yourself-visible-to-us-in-parnter-center).
+ 1. Co-sell with us and grow [your Microsoft Cloud for Nonprofit business](./nonprofit-grow.md).
 
-These activities will be referred to frequently throughout the readiness materials.
+These activities will be referred to frequently throughout the readiness materials. Stay informed by [signing up for our partner communications](https://nonprofits.tsi.microsoft.com/EN-US/Microsoft-Cloud-for-Nonprofit-Sign-to-stay-Informed/).
 
 ## Business readiness
 Prepare for your first opportunity by aligning to our go-to-market activities and ensuring that your materials incorporate the latest resources available from us.
@@ -88,13 +89,13 @@ Next, a user with Global Administrator role for the partner tenant may request a
 NOTE: You can select multiple licenses for a single submission.
 
 **Promotional Offer Type** | **Use** | **Relevant Licenses**
----|---|---
+:---|:---|:---
 Discounted Offer (Available to all MPN partners) | Any partner setting up an internal Microsoft Cloud for Nonprofit environment	Microsoft Cloud for Nonprofit – Standard | Dynamics 365 Sales, Field Service, and Customer Service Partner Sandbox, Dynamics 365 Marketing Partner Sandbox
 Test Drive Implementation | For partners with an offer in AppSource that is configured to support [Test Drive](https://learn.microsoft.com/en-us/marketplace/appsource-test-drives) | Dynamics 365 Sales, Field Service, and Customer Service Partner Sandbox, Dynamics 365 Marketing Partner Sandbox
 ISV Connect RevShare | For partners enrolled in the [ISV Connect program](https://partner.microsoft.com/en-us/solutions/business-applications/isv-overview) | Dynamics 365 Sales, Field Service, and Customer Service Partner Sandbox, Dynamics 365 Marketing Partner Sandbox
 ISV Success Program | For partners enrolled in the [ISV Success program](https://www.microsoft.com/en-us/isv/program-benefits) | Dynamics 365 Sales, Field Service, and Customer Service Partner Sandbox, Dynamics 365 Marketing Partner Sandbox
 
-### Environment setup
+#### Environment setup
  - Follow the steps in [Setup and configure Microsoft Cloud for Nonprofit](https://learn.microsoft.com/en-us/industry/nonprofit/configure-cloud-for-nonprofit?toc=%2Fdynamics365%2Findustry%2Fnonprofit%2Ftoc.json&bc=%2Fdynamics365%2Findustry%2Fbreadcrumb%2Ftoc.json) to deploy solutions.
  - Be sure to review the post-deployment configuration steps including how to [import sample data](https://learn.microsoft.com/en-us/dynamics365/industry/nonprofit/fundraising-engagement-deploy-configuration#import-sample-data).
 
@@ -102,4 +103,3 @@ ISV Success Program | For partners enrolled in the [ISV Success program](https:/
 Having your own internal environment prepared for customer demos is always ideal, however, we have a couple of other options for quick turnaround:
  - Walk your customer through the nonprofit scenarios with a [guided tour](https://guidedtour.microsoft.com/en-US/guidedtour/landing).
  - Show the full capabilities in a [preconfigured environment](https://cdx.transform.microsoft.com/experience-detail/3297390f-7099-40c5-81fc-8c71bb6c3a39) complete with demo scripts.
- 

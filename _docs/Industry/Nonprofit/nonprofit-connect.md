@@ -2,7 +2,7 @@
 layout: page
 title: 5) Stay connected and share success
 description: Make your wins visible to us and your customers.
-updated: 2023-01-29
+updated: 2023-02-08
 permalink: /industry/nonprofit/nonprofit-connect
 tags:
 - learning plan
@@ -31,13 +31,13 @@ Let future customers know about the impactful work you’re doing with Microsoft
 Celebrate the impact your work has had by nomination for the Nonprofit Partner of the Year Award. This award is integrated in the industry awards category of the [Microsoft Partner of the Year Award](https://partner.microsoft.com/en-us/inspire/awards).
 
 ### Microsoft #BuildFor2030
-The Microsoft #BuildFor2030 Initiative is a call to action for Microsoft partners to accelerate innovation, changemaking, and collective impact, helping to advance the United Nations Sustainable Development Goals.
+The [Microsoft #BuildFor2030 Initiative](https://partner.microsoft.com/en-US/solutions/buildfor2030) is a call to action for Microsoft partners to accelerate innovation, changemaking, and collective impact, helping to advance the United Nations Sustainable Development Goals.
 
 ## Communities and blogs
 Ask that question, find a collaborator, or hear the latest from Microsoft.
 
 Communities | Blogs
---- | ---
+:---|:---
 [Microsoft for Nonprofits](https://techcommunity.microsoft.com/t5/microsoft-for-nonprofits/ct-p/MicrosoftforNonprofits) | [Microsoft on the Issues: Nonprofit](https://blogs.microsoft.com/on-the-issues?s=nonprofit)
 [Dynamics 365 Community](https://community.dynamics.com/) | 
 [Power Apps Community](https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1) | [Power Apps Blog](https://powerapps.microsoft.com/en-us/blog/)
