@@ -2,11 +2,11 @@
 Skip related plans if specified by page
 {% endcomment %}
 
-{% assign includerelated = "true" %}
+{% assign includerelated = true %}
 {% if page.includerelated %}
 {% assign includerelated = page.includerelated %}
 {% endif %} includerelated: {{ includerelated}}
-{% if includerelated == "true" %}
+{% if includerelated == true %}
 
 {% comment %}
 Find related items based on tags, skipping 'learning plan' and any root-level 
