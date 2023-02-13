@@ -19,7 +19,7 @@ Key programs you can join to build ISV business on Microsoft Cloud for Nonprofit
  - Build from an existing business with the [ISV Success Program](https://www.microsoft.com/en-us/isv/).
  - Grow on commercial marketplace through [Business Applications ISV Connect](https://partner.microsoft.com/en-us/solutions/business-applications/isv-build).
 
-## The role of Auzre for ISVs
+## The role of Azure for ISVs
 [coming soon]
 
 ## Common patterns for ISVs
