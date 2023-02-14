@@ -23,6 +23,3 @@ Below you will find content to assist in upskilling on Information and Data Prot
 ## Associate
 * [Prevent Data Loss - Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/m365-security-data-loss/)
 * [Prevent Data Loss in Microsoft Teams - Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide)
-
-## Expert
-*In Development*
