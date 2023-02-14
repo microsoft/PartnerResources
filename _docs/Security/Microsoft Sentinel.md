@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2023-01-04
+updated: 2023-02-13
 permalink: /security/microsoft-sentinel
 tags:
 - security
@@ -21,7 +21,8 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
      * Insights on how MSSPs can configure and add value to Microsoft Sentinel
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
 * [Microsoft Sentinel Wiki](https://github.com/Azure/Azure-Sentinel/wiki)
-* [Design your Microsoft Sentinel Workspace Architecture - Microsoft Learn](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
+* [Microsoft Sentinel Skill-up Training - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/skill-up-resources)
+* [Design your Microsoft Sentinel Workspace Architecture - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
 
 
 #### Building a Demo. Instance
