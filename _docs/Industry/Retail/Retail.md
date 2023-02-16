@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Cloud for Retail
 description: Resources for Retailers using the Microsoft Cloud
-updated: 2023-1-4
+updated: 2023-02-13
 permalink: /industry/retail/retail-resources
 tags:
 - learning plan
@@ -27,6 +27,7 @@ Additionally, some content may be marked with one or more icons:
 
 * [Stay informed about Microsoft Cloud for Retail](https://info.microsoft.com/ww-landing-Retail-Stay-Updated.html)
     * Set your course for an ever-changing retail environment—and accelerate your digital transformation—by staying up to date with Microsoft retail news. Sign up today and we’ll periodically send you information about how to use Microsoft technology, including Microsoft Cloud for Retail
+* [2023 Release Wave 1](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-retail/)
 
 ## Fundamentals
 

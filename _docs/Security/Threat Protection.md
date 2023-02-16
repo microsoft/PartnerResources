@@ -2,7 +2,7 @@
 layout: page
 title: Threat Protection
 description: Resources for Microsoft Threat Protection
-updated: 2023-01-04
+updated: 2023-02-13
 permalink: /security/threat-protection
 tags:
 - security
@@ -27,6 +27,3 @@ Below you will find content to assist in upskilling on Threat Protection. Conten
 * [Manage Endpoint Security in Microsoft Intune - Microsoft Docs](https://learn.microsoft.com/en-us/mem/intune/protect/endpoint-security?view=o365-worldwide)
 * [Deploy Microsoft Defender for Identity with Microsoft 365 Defender - Microsoft Docs](https://docs.microsoft.com/en-us/azure-advanced-threat-protection/atp-mcas-integration)
 * [Design a Holistic Monitoring Strategy on Azure - Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/)
-
-## Expert
-*In Development*
