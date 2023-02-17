@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2023-01-11
+updated: 2023-02-13
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -67,6 +67,7 @@ Below you will find information about security certifications critical for learn
 
 #### Exam Resources
 * [SC-300 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/sc-300)
+* [SC-300 Labs](https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator)
 * [John Savill Study Cram](https://www.youtube.com/watch?v=LGpgqRVG65g)
 * [Study Guide by Charbel Nemnom, MVP](https://aka.ms/SC-300StudyGuide)
 

@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Cloud for Healthcare
 description: Resources for Microsoft Cloud for Healthcare
-updated: 2022-12-01
+updated: 2023-2-13
 permalink: /industry/healthcare/microsoft-cloud-healthcare
 tags:
 - learning plan
@@ -29,6 +29,7 @@ Additionally, some content may be marked with one or more icons:
 * [Overview of Microsoft cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare) - Includes overview, high-level capabilities and Pricing details.
 * [Satya Nadella opening remarks on Microsoft Cloud for Healthcare](https://www.youtube.com/watch?v=KVK7AUCSfUs&feature=youtu.be)
 * [Microsoft Cloud for Healthcare-CTO/CTO Elevator Pitch](./Assets/Microsoft%20Cloud%20for%20Healthcare%20-%20Partner%20Ready.pptx) 
+* [2023 Wave 1 Realease Pan](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-healthcare)
 
 ## Fundamentals
 
