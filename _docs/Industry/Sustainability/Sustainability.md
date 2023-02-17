@@ -25,30 +25,25 @@ Additionally, some content may be marked with one or more icons:
 
 ## Keeping Up
 
-* [What's new in Microsoft Cloud for Sustainability] (https://learn.microsoft.com/en-us/industry/sustainability/whats-new)
+* Latest updcates on our public roadmap can be found at [What's new in Microsoft Cloud for Sustainability](https://learn.microsoft.com/en-us/industry/sustainability/whats-new). 
 
 ## Fundamentals
 
-* [Get Started with Microsoft Cloud for Sustainability](https://learn.microsoft.com/en-us/training/paths/get-started-sustainability/)
+* [Get Started with Microsoft Cloud for Sustainability](https://learn.microsoft.com/en-us/training/paths/get-started-sustainability-manager/)
 
 ## Associate
 
-{ Add associate/mid-level items here; baseline content to be proficient with technology }
-
+* [Microsoft Sustainability Manager: Get hands-on experience through lab exercises](https://learn.microsoft.com/en-us/training/paths/create-sustainability-solution/)
+* [Microsoft Emissions Impact Dashboards](https://learn.microsoft.com/en-us/training/paths/emissions-impact-dashboards/)
 
 ## Expert
 
-{ Add expert/high-level items here; content intended for in-depth and hands-on experiences }
-
-
-## Specialist
-
-{ Add expert/high-level items here; content intended for in-depth and hands-on experiences.  Consider adding What The Hack, OpenHack, etc.}
+* [Microsoft Sustainability Manager: Extend Cloud for Sustainability](https://learn.microsoft.com/en-us/training/modules/extend-cloud-sustainability/)
 
 
 ## Certifications
 
-{ Add certifications that may apply. Visit https://docs.microsoft.com/en-us/learn/certifications/ as a starting point.  You may include links to training classes and related resources related to certifications.  }
+There is curently no Microsoft certification alligned to Microsoft Cloud for Sustainability
 
 ## Resources
 
@@ -56,5 +51,5 @@ Additionally, some content may be marked with one or more icons:
 
 ## Community
 
-Customers and partners can join the Microsoft Cloud for Sustainability Insider Community run on Yammer by filling out the following form at https://aka.ms/SustainabilityInsider
+Customers and partners can join the Microsoft Cloud for Sustainability Insider Community run on Yammer by filling out the following form at [https://aka.ms/SustainabilityInsider](https://aka.ms/SustainabilityInsider)
 
