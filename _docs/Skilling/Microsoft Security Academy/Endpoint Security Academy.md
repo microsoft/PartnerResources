@@ -3,7 +3,7 @@ layout: page
 title: Endpoint Security - Microsoft Endpoint Security Academy
 description: Microsoft Security Academy Endpoint Security.
 permalink: /skilling/microsoft-security-academy/endpoint-academy
-updated: 2023-02-13
+updated: 2023-02-15
 showbreadcrumb: true
 tags: 
 - academy content
@@ -29,6 +29,16 @@ Welcome to the Microsoft Endpoint Security Academy. Explore Microsoft endpoint s
 
 
 ### Learning Path
+See the Microsoft 365 Defender Readiness Resources:
+
+{% include resources.md 
+    includetags="365 defender resources"
+    includemethod="all" 
+    showtags="false" 
+    showdate="true" 
+    visualstyle="normal" 
+    showdescription="true"
+%}
 
 See the Threat Protection Readiness Resources for further upskilling:
 
