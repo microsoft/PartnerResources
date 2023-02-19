@@ -34,7 +34,7 @@ The second video, Azure OpenAI Technical Briefing, walks you through technical L
 
 [![Azure OpenAI Techinal Briefing Video link](https://img.youtube.com/vi/lHw1tZhXlEo/0.jpg)](https://www.youtube.com/watch?v=lHw1tZhXlEo)
 
-You can find the notebook used in this video [here](./AOAI-Technical-Review-codes.ipynb).
+You can find the notebook used in this video [here](/assets/openai/AOAI-Technical-Review-codes.ipynb).
 
 ## Request Access 
 Due to limited resources and extreme interest, currently only approved customers/partners are granted access to Azure OpenAI. 
