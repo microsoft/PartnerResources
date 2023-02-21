@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2023-01-04
+updated: 2023-02-13
 permalink: /security/microsoft-sentinel
 tags:
 - security
@@ -21,7 +21,8 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
      * Insights on how MSSPs can configure and add value to Microsoft Sentinel
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
 * [Microsoft Sentinel Wiki](https://github.com/Azure/Azure-Sentinel/wiki)
-* [Design your Microsoft Sentinel Workspace Architecture - Microsoft Learn](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
+* [Microsoft Sentinel Skill-up Training - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/skill-up-resources)
+* [Design your Microsoft Sentinel Workspace Architecture - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
 
 
 #### Building a Demo. Instance
@@ -50,11 +51,12 @@ Use these steps to build a demo instance; free for one month
 * [Delegate Access using Azure Lighthouse for a Sentinel POC - My Faber Security](https://myfabersecurity.com/2022/07/15/delegate-access-using-azure-lighthouse-for-a-sentinel-poc/)
 * [Azure Lighthouse & Microsoft Sentinel: Assigning Access to Managed Identities in Customer Tenant - My Faber Security](https://myfabersecurity.com/2022/08/31/azure-lighthouse-and-sentinel-assigning-access-to-managed-identities-in-the-customer-tenant/)
 
-#### Build an SOC & Operationalize Security Operations
+#### Build a SOC & Operationalize Security Operations
 * [What's New: Azure Sentinel - SOC Process Framework Workbook - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-azure-sentinel-soc-process-framework-workbook/ba-p/2339315)
 * [SOC Process Framework Overview - YouTube](https://www.youtube.com/watch?v=RnPMwy7AoS0&amp;list=PL3sJcHWKYIVPhCDIdZjVueLIkAfXijylG)
 * [Best Practices for Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/best-practices)
 * [Protecting MSSP Intellectual Property in Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/mssp-protect-intellectual-property)
+* [MSSPs and Identity - Considerations for tenant architecture and delegating access to SOC analysts](https://myfabersecurity.com/2023/01/11/mssps-and-identity/)
 
 #### Agents Resources
 * [Migrate to Azure Monitor Agent for better Security, Reliability and Management - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-observability-blog/migrate-to-azure-monitor-agent-for-better-security-reliability/ba-p/3609810)
@@ -71,6 +73,7 @@ Use these steps to build a demo instance; free for one month
 * [KQL Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet)
 * [Advanced KQL Framework Workbook - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766)
 * [KQL Search](https://www.kqlsearch.com)
+* [SQL to KQL Cheat sheet](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet)
 
 #### ADX
    * [What is a free Azure Data Explorer Cluster? - Microsoft Docs](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free)
@@ -91,7 +94,7 @@ Use these steps to build a demo instance; free for one month
 * [Microsoft Sentinel Migration: Select Data Ingestion Tool - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
 * [Unicoder Sigma Rule Converter for SIEM, EDR, & NTDR](https://uncoder.io/)
 * [Microsoft Sentinel Repository](https://github.com/Azure/Azure-Sentinel)
-* [Azure Sentinel Side-by-Side with QRader](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-qradar/ba-p/1488333)
+* [Azure Sentinel Side-by-Side with QRadar](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-qradar/ba-p/1488333)
 * [Azure Sentinel Side-by-Side with Splunk](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-splunk/ba-p/1211266)
 
 #### Build Solutions & Other Contributions
@@ -99,6 +102,7 @@ Use these steps to build a demo instance; free for one month
 
 #### MDTI (Defender for Threat Intelligence) & Risk IQ Integration
 * [Become a Microsoft Defender Threat Intelligence Ninja - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965)
+* [Performing a Successful Proof of Concept (PoC)](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/performing-a-successful-proof-of-concept-poc/ba-p/3742412)
 * [New Threat Intelligence Features in Microsoft Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-threat-intelligence-features-in-microsoft-sentinel/ba-p/3585214)
 * [Infrastructure Chaining with Microsoft Defender Threat Intelligence - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/infrastructure-chaining-with-microsoft-defender-threat/ba-p/3687956)
 * [RiskIQ Illuminate Content Hub Solution within Microsoft Sentinel – My Faber Security](https://myfabersecurity.com/2022/03/04/riskiq-illuminate-content-hub-solution-within-microsoft-sentinel/)

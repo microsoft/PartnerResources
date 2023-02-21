@@ -27,6 +27,7 @@ tags:
 * [Azure VMware Solution - Availability by region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&regions=all)
 * [Azure VMware Solution - Service Level Agreements (SLA)](https://azure.microsoft.com/en-us/support/legal/sla/azure-vmware/v1_1/)
 * [Azure VMware Solution - Service Limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-vmware-solution-limits)
+* [Azure VMware Solution - Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-vmware/)
 * [Azure VMware Solution - Projected Total Economic Impact](https://aka.ms/AVSTEIReport)
 
 ### VMware
@@ -75,7 +76,7 @@ tags:
   * [Migrate to Azure VMware Solution with HCX Tech Talk](https://msuspartners.eventbuilder.com/event/62040?source=AVSAcademy)
   * [Deep Dive in Economics of Azure VMware Solution Tech Talk](https://msuspartners.eventbuilder.com/event/55981?source=AVSAcademy)
   * [Azure VMware Solution - Move or Extend VMware Environments to Azure](https://msuspartners.eventbuilder.com/event/40430)
-* [AVS Bootcamp - Oct 2022](https://aka.ms/AVSBootCamp2022)
+* [AVS Bootcamp - Oct 2022](https://aka.ms/AVSBootCamp2022) - [(Direct Link with Slides)](https://partner.microsoft.com/en-US/asset/collection/oct-2022-microsoft-azure-vmware-solution-avs-boot-camp#/)
 * [AVS Bootcamp - Dec 2021](https://msuspartners.eventbuilder.com/GPSAzureVMwareSolutionBootCamp) - [Slides](https://aka.ms/mpn/decks/avs)
 
 ### Events <sup>(Microsoft AVS Product Group)</sup>

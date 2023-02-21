@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Cloud for Sustainability
 description: Resources for Microsoft Cloud for Sustainability
-updated: 2022-12-01
+updated: 2023-02-13
 permalink: /industry/sustainability/sustainability-resources
 tags:
 - learning plan
@@ -26,6 +26,7 @@ Additionally, some content may be marked with one or more icons:
 ## Keeping Up
 
 * Latest updcates on our public roadmap can be found at [What's new in Microsoft Cloud for Sustainability](https://learn.microsoft.com/en-us/industry/sustainability/whats-new). 
+* [2023 Release Wave 1](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-sustainability/)
 
 ## Fundamentals
 

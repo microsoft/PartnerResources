@@ -2,7 +2,7 @@
 layout: page
 title: Modern Analytics Power BI
 description: Resources for Modern Analytics with Power BI
-updated: 2022-12-19
+updated: 2023-02-14
 permalink: /business-applications/power-platform/power-bi
 tags:
 - learning plan
@@ -87,6 +87,7 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Power BI Release Plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave2/power-bi/planned-features) (Self-Paced)
 * [Power BI Adoption Framework](https://github.com/pbiaf/powerbiadoption) (Self-Paced)
 * [Guy in a Cube](https://guyinacube.com/) (Self-Paced)
+* [Security Whitepaper](https://learn.microsoft.com/en-us/power-bi/guidance/whitepaper-powerbi-security#multiple-geographies-multi-geo)
 
 ## Community Resources
 
