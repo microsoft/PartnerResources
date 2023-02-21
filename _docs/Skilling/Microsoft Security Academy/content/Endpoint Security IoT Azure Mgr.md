@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Azure Manager Secure Connectivity and Advantages
+title: Azure Manager Secure Connectivity & Advantages
 sorttitle: 8
 description: Microsoft Defender for IoT sensors are deployed on-premises to monitor your OT networks. In this session, will overview the security advantages of managing these sensors via the Azure portal.
-updated: 2023-02-16
+updated: 2023-02-20
 permalink: /skilling/microsoft-security-academy/endpoint-academy-azure-mgr
 youtubeid: iGg6MyEd2qA
 tags: 

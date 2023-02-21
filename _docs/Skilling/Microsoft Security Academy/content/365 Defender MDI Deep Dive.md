@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Detection Deep Dive with Defender for Identity Engineering
+title: Detection Deep Dive with Microsoft Defender for Identity Engineering
 sorttitle: 10
 description: Discover how Microsoft detects a Kerborasting attack, ZeroLogon exploitation, and AS-Rep roasting. This session provides an in-depth explanation of what the detection looks for, why it’s essential, and how Defender for Identity can help keep your environment safe.
-updated: 2023-02-15
+updated: 2023-02-20
 permalink: /skilling/microsoft-security-academy/d365-academy-mdi-eng-deepdive
 youtubeid: Hjy1JIqnRaQ
 tags: 

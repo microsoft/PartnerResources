@@ -2,8 +2,8 @@
 layout: page
 title: Investigating Malicious Ladder Logic with Microsoft Defender for IoT
 sorttitle: 12
-description: Microsoft's Section 52 is the Global IoT/OT research team. It consists of Reverse Engineers and threat researchers focusing their work on hunting IoT and OT related threats. In this session, explore Section 52's techniques for investigating potentially malicious Ladder Logic code.
-updated: 2023-02-16
+description: Microsoft's Section 52 is the Global IoT/OT research team. It consists of reverse engineers and threat researchers focusing their hunting IoT and OT related threats. In this session, explore Section 52's techniques for investigating potentially malicious Ladder Logic code.
+updated: 2023-02-20
 permalink: /skilling/microsoft-security-academy/endpoint-academy-iot-malicious
 youtubeid: g3KLq_IHId4
 tags: 
