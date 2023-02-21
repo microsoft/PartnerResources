@@ -2,7 +2,7 @@
 layout: page
 title: Azure OpenAI
 description: Resources for Azure OpenAI
-updated: 2023-02-20
+updated: 2023-02-16
 permalink: /azure/data-analytics-ai/openai
 tags: 
 - learning plan
@@ -14,92 +14,45 @@ tags:
 
 # Learning Plan Resources for Azure OpenAI
 
-## *** This page is still in work. Resources are coming soon! ***
+> This document is under active development. Please check regularly for updates.
 
-*** Write a description of Azure OpenAI. Usually, this can be taken from the main Azure product page. Below is an example for Azure Digital Twins ***
+## Introduction
+Azure OpenAI is a collaboration between Microsoft Azure and OpenAI, a leading research organization in artificial intelligence. 
+It is a cloud-based platform that enables developers and data scientists to build and deploy AI models quickly and easily. 
+With Azure OpenAI, users can access a wide range of AI tools and technologies to create intelligent applications, including natural language processing, computer vision, and deep learning. 
 
-Companies are exploring Digital Twins as a mechanism to control and monitor connected environments. A digital twin is a virtual model of a real-world environment that is driven with data from business systems and IoT devices. It is used to enable insights and actions for a business or organization. Developers and architects are looking to digital twins as the solution that enables intelligent and connected environments such as the following:
-* Predictive maintenance in manufacturing
-* Supply chain visibility
-* Smart shelves for real-time inventory
-* Connected homes and smart buildings
+Azure OpenAI is designed to accelerate the development of AI applications, allowing users to focus on creating innovative solutions that deliver value to their organizations and customers.
 
-## Keeping Up
+## Get Started
+To get started, we recommend watching the following videos created by Microsoft GPSUS tech team. 
 
-*** list any blog pages or playlists where people can get the latest news ***
-  
-* Refer to the [IoT Blog site](https://azure.microsoft.com/blog/topics/internet-of-things/?WT.mc_id=gpsus-set-diphilli)
-* Watch the [Channel 9 IoT Show - Azure Digital Twins Playlist](https://www.youtube.com/playlist?list=PL1ljc761XCiYfsAlacKK4gpaMoTIH2nSU)
-* Review Azure Updates for [Azure Digital Twins](https://azure.microsoft.com/updates/?query=%22digital%20twins%22)
-* Follow the [Microsoft IoT Developer](https://www.youtube.com/channel/UCL7wy-iy_V76xxPnrIzGOZQ/?WT.mc_id=gpsus-set-diphilli) channel on YouTube
-* See [IoT in the Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT/?WT.mc_id=gpsus-set-diphilli)
-* Engage in the [Microsoft Partner Community Internet of Things](https://aka.ms/MPC-IoT) group (Must sign in to see content)
+The first video, Azure OpenAI Business Briefing, will help you better understand what OpenAI is, canonical use cases, and identify a use case for your enterprise to launch your solution.
 
-## Fundamentals
+[![Azure OpenAI Business Briefing Video link](https://img.youtube.com/vi/FJ0v3apQ2dM/0.jpg)](https://www.youtube.com/watch?v=FJ0v3apQ2dM)
 
-*** list starter-level resources - good resources may be MS Learn, documentation, and quickstart or tutorial pages ***
-  
-* [Azure Digital Twins Product Website](https://azure.microsoft.com/services/digital-twins/)
-* [What is Azure Digital Twins?](https://docs.microsoft.com/azure/digital-twins/overview)
-* [Azure Digital Twins Video](https://docs.microsoft.com/shows/azure-videos/azure-digital-twins-video) (2 Minutes)
-* [MS Learn: Extend IoT solutions by using Azure Digital Twins](https://docs.microsoft.com/learn/paths/extend-iot-solutions-by-using-azure-digital-twins/) (Self-Paced) (3 Hours 32 Minutes)
-* [Quickstart: Get started with a sample scenario in Azure Digital Twins Explorer](https://docs.microsoft.com/azure/digital-twins/quickstart-azure-digital-twins-explorer) (Self-Paced) (12 Minutes)
-* [Tutorial: Coding with the Azure Digital Twins APIs](https://docs.microsoft.com/azure/digital-twins/tutorial-code) (Self-Paced) (15 Minutes)
-* [Tutorial: Build out an end-to-end Solution](https://docs.microsoft.com/azure/digital-twins/tutorial-end-to-end) (Self-Paced) (25 Minutes)
-* [Ingest IOT Hub Telemetry into Azure Digital Twins](https://docs.microsoft.com/azure/digital-twins/how-to-ingest-iot-hub-data) (Self-Paced) (11 Minutes)
-* [Code Sample: Azure Digital Twins and IoT Hub Provisioning Integration Sample](https://docs.microsoft.com/samples/azure-samples/digital-twins-iothub-integration/adt-iothub-provision-sample/)
 
-## Associate
 
-*** list intermediate-level resources - good resources may be MS Learn, documentation, and quickstart or tutorial pages ***
-  
-* [Blog: Azure Digital Twins Query Builder](https://techcommunity.microsoft.com/t5/internet-of-things-blog/digital-twins-query-builder/ba-p/3511882)
-* [MS Learn: Build mixed reality digital twins with Azure Digital Twins and Unity](https://docs.microsoft.com/learn/paths/build-mixed-reality-azure-digital-twins-unity/) (Self-Paced) (3 Hours 59 Minutes)
-* [Azure IoT Reference Architecture](https://learn.microsoft.com/azure/architecture/reference-architectures/iot) (Self-Paced) (9 Minutes)
-* [Smart Places with Azure Digital Twins](https://docs.microsoft.com/azure/architecture/example-scenario/iot/smart-places)
-* [Blog: Powering Microsoft Smart Buildings with Microsoft Azure Digital Twins](https://www.microsoft.com/insidetrack/blog/powering-microsoft-smart-buildings-with-microsoft-azure-digital-twins/)
-* [Blog: How Microsoft is Delivering Smart Building Experiences with CI/CD for Azure Digital Twins](https://www.microsoft.com/insidetrack/blog/how-microsoft-is-delivering-smart-building-experiences-with-ci-cd-for-azure-digital-twins/)
-* [Blog Article: Rewind the Metaverse with Data History for Azure Digital Twins](https://techcommunity.microsoft.com/t5/internet-of-things-blog/rewind-the-metaverse-with-data-history-for-azure-digital-twins/ba-p/3145153)
+The second video, Azure OpenAI Technical Briefing, walks you through technical L100 details that you must know to implement OpenAI in your projects. It contains code snippets demonstrating Azure OpenAI rest API and python SDK. 
 
-## Expert
+[![Azure OpenAI Techinal Briefing Video link](https://img.youtube.com/vi/lHw1tZhXlEo/0.jpg)](https://www.youtube.com/watch?v=lHw1tZhXlEo)
 
-*** list advanced-level or specialty resources - good resources may be MS Learn, documentation, and quickstart or tutorial pages ***
+You can find the notebook used in this video [here](/assets/openai/AOAI-Technical-Review-codes.ipynb).
 
-* [Blog: Creating Dashboards with Azure Digital Twins, Azure Data Explorer, and Grafana](https://techcommunity.microsoft.com/t5/internet-of-things-blog/creating-dashboards-with-azure-digital-twins-azure-data-explorer/ba-p/3277879)
-* [Blog: Visualizing Azure Digital Twins in 3D](https://techcommunity.microsoft.com/t5/internet-of-things-blog/visualizing-azure-digital-twins-in-3d/ba-p/2898159)
+## Request Access 
+Due to limited resources and extreme interest, currently only approved customers/partners are granted access to Azure OpenAI. 
+To request access, fill out the [access request form](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu).
 
-## Demos
+## Additional Resources
+- [Azure OpenAI - Documentation, quickstarts, API reference - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
+- [Introduction to Azure OpenAI Service - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)
+- [Microsoft Azure Legal Information | Microsoft Azure](https://azure.microsoft.com/en-us/support/legal/)
+- [Azure OpenAI Service quotas and limits - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quotas-limits?branch=release-azure-openai-preview)
+- [examples - openai · PyPI](https://pypi.org/project/openai/)
+- [https://github.com/openai/openai-cookbook/blob/main/text_explanation_examples.md](https://github.com/openai/openai-cookbook/blob/main/text_explanation_examples.md)
+- [Field Readiness Video: Microsoft Stream ](https://msit.microsoftstream.com/video/fde00840-98dc-ba75-3afb-f1ed9c620ae7?list=studio)
+- [Responsible AI: Use cases for Azure OpenAI - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/transparency-note?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext)
+- [Azure OpenAI embeddings tutorial - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/tutorials/embeddings?tabs=command-line)
+- [Cognitive Search example: Azure/business-process-automation: Business process automation solution accelerator using Azure services (github.com)](https://github.com/Azure/business-process-automation)
+- [Awesome ChatGPT Prompts | This repo includes ChatGPT prompt curation to use ChatGPT better](https://prompts.chat/)
 
-*** call out any demos that they can run on their own to learn about features or use when meeting with customers ***
 
-GitHub Azure Samples: 
-* [Azure Digital Twins Supply Chain Demo](https://github.com/Azure-Samples/IoTDemos/tree/master/ADT-SupplyChainDemo)
-* [Azure Digital Twins Hands On Lab](https://github.com/Azure-Samples/digital-twins-samples/tree/master/HandsOnLab)
-* [Azure Digital Twins Unreal Sample](https://github.com/Azure-Samples/azure-digital-twins-unreal-integration)
-
-## Community Resources
-
-*** include common self-help resources ***
-
-* [Microsoft Partner Community - Internet of Things](https://aka.ms/MPC-IoT)
-* [Azure Digital Twins Documentation](https://docs.microsoft.com/azure/digital-twins/)
-* [Azure Digital Twins on MS Learn](https://learn.microsoft.com/training/browse/?terms=%22Digital%20Twins%22)
-* [Microsoft Q&A](https://learn.microsoft.com/answers/) - Get answers to your questions using the tag: *azure-digital-twins*
-* [Partner Network - IoT Site](https://partner.microsoft.com/solutions/azure/internet-of-things#simple-tab-content-1)
-* [IoT Tech Community](https://techcommunity.microsoft.com/t5/Internet-of-Things-IoT/ct-p/IoT) (Self-Paced)
-* [Internet of Things Blog: Azure Digital Twins](https://techcommunity.microsoft.com/t5/internet-of-things-blog/bg-p/IoTBlog/label-name/Azure%20Digital%20Twins)
-
-## Events
-
-*** note any upcoming events or on-demand recordings ***
-
-* [Tech Talk: Azure Digital Twins - Feb 2022](https://msuspartners.eventbuilder.com/event/55367) (90 Minutes)
-* [Channel 9 IoT Show - Azure Digital Twins Playlist](https://www.youtube.com/playlist?list=PL1ljc761XCiYfsAlacKK4gpaMoTIH2nSU)
-* [Channel 9 IoT Show](https://aka.ms/IoTShow) (Self-Paced)
-
-## Certifications
-
-*** This secion may not be needed. If there's a related certification, like an AI exam, you can list it here ***
-
-* [AZ-220 Microsoft Azure IoT Developer](https://docs.microsoft.com/learn/certifications/exams/az-220) (Self-Paced) (36 Hours)
-* [AZ-220T00 Microsoft Azure IoT Developer](https://docs.microsoft.com/learn/certifications/courses/az-220t00) (In-person Instructor Led) (3 Days)
