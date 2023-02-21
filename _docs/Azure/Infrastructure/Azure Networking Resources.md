@@ -2,7 +2,7 @@
 layout: page
 title: Azure Networking Resources
 description: Resources for Azure Networking
-updated: 2021-12-01
+updated: 2023-02-23
 permalink: /azure/infrastructure/azure-networking-resources
 tags: 
 - learning plan
