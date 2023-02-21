@@ -8,6 +8,7 @@ tags:
 - learning plan
 - azure
 - infrastructure
+- networking resources
 ---
 
 # [Azure Advanced Networking Resources](https://docs.microsoft.com/en-us/azure/networking/)
