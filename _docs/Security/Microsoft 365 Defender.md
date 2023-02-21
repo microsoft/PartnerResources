@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft 365 Defender Resources
 description: Resources for Microsoft 365 Defender
-updated: 2023-02-16
+updated: 2023-02-21
 permalink: /security/microsoft-defender
 redirect_from:
   - /security/microsoft-defender-for-endpoint-training
@@ -19,7 +19,8 @@ Below you will find content to assist in upskilling on Microsoft Defender. Conte
 
 ## Defender for Office
 * [Microsoft Defender for Office 365 Documentation - Microsoft Docs](https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/?view=o365-worldwide)
-* [Defender for Office 365 Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja/ba-p/2187392)
+* [Microsoft 365 Defender Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/become-a-microsoft-365-defender-ninja/ba-p/1789376)
+* [Microsoft Defender for Office 365 Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja/ba-p/2187392)
 * [Simulate Phishing Attack with Microsoft Defender for Office 365 - Microsoft Learn](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulation-training?view=o365-worldwide)
 
 ## Defender for Identity (On-premises)
