@@ -63,7 +63,7 @@ There are several scenarios where having additional partner support will be impo
 Review the [Partner Support plans](https://partner.microsoft.com/en-us/support/partnersupport) to choose the right one for you.
 
 ## Technical readiness
-Follow some steps below to ensure you’re ready to present and deliver for your first Microsoft Cloud for Nonprofit customer.  
+Follow some steps below to ensure you’re ready to present and deliver for your first Microsoft Cloud for Nonprofit customer. For partners that have experience deploying Dynamics 365 Sales or Power Platform solutions we recommend spending a week to review material, prepare an environment, and get comfortable demonstrating the solutions.
 
 ### Learn about the solutions included in the Microsoft Cloud for Nonprofit
  - [Fundraising and Engagement](https://learn.microsoft.com/en-us/training/paths/nonprofit-fundraising-engagement/)
