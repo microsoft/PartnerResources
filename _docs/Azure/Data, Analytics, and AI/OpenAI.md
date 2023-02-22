@@ -43,17 +43,49 @@ You can find the notebook used in this video [here](https://github.com/microsoft
 Due to limited resources and extreme interest, currently only approved customers/partners are granted access to Azure OpenAI. 
 To request access, fill out the [access request form](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu).
 
-## Additional Resources
-- [Azure OpenAI - Documentation, quickstarts, API reference - Azure Cognitive Services](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
-- [Introduction to Azure OpenAI Service - Training](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)
-- [Microsoft Azure Legal Information](https://azure.microsoft.com/en-us/support/legal/)
-- [Azure OpenAI Service quotas and limits - Azure Cognitive Services](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quotas-limits?branch=release-azure-openai-preview)
-- [examples - openai · PyPI](https://pypi.org/project/openai/)
-- [https://github.com/openai/openai-cookbook/blob/main/text_explanation_examples.md](https://github.com/openai/openai-cookbook/blob/main/text_explanation_examples.md)
-- [Field Readiness Video: Microsoft Stream ](https://msit.microsoftstream.com/video/fde00840-98dc-ba75-3afb-f1ed9c620ae7?list=studio)
-- [Responsible AI: Use cases for Azure OpenAI - Azure Cognitive Services](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/transparency-note?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext)
-- [Azure OpenAI embeddings tutorial - Azure OpenAI](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/tutorials/embeddings?tabs=command-line)
-- [Cognitive Search example: Azure/business-process-automation: Business process automation solution accelerator using Azure services (github.com)](https://github.com/Azure/business-process-automation)
-- [Awesome Prompts](https://prompts.chat/)
+## Keeping Up
 
+-	[What’s New in Azure OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/whats-new)
+-	Azure OpenAI - YouTube Playlist
+-	[Azure OpenAI - YouTube Playlist](https://www.youtube.com/watch?v=FJ0v3apQ2dM&list=PL8_VXqhvJI9CNF6Q409mSjh0InP6_GfBg)
+-	[AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy)
 
+## Fundamentals
+
+-	[Azure OpenAI Service product page](https://azure.microsoft.com/services/cognitive-services/openai-service/)
+-	[Azure OpenAI Documentation](https://learn.microsoft.com/azure/cognitive-services/openai/) – Overview, quickstarts, tutorials, how-to guides, API reference
+-	[Video: Combining OpenAI models with the power of Azure](https://learn.microsoft.com/shows/ai-show/build-recap-combining-openai-models-with-the-power-of-azure)
+-	[Responsible AI: Use cases for Azure OpenAI](https://learn.microsoft.com/legal/cognitive-services/openai/transparency-note?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext)
+-	[Microsoft Azure Legal Information](https://azure.microsoft.com/support/legal/)
+-	[Azure OpenAI Service quotas and limits]( https://learn.microsoft.com/azure/cognitive-services/openai/quotas-limits?branch=release-azure-openai-preview)
+-	[Azure OpenAI Service models](https://learn.microsoft.com/azure/cognitive-services/openai/concepts/models)
+-	[Introduction to Azure OpenAI Service – MS Learn](https://learn.microsoft.com/training/modules/explore-azure-openai/) (self-paced)
+-	[Tutorial: Explore Azure OpenAI Service embeddings and document search](https://learn.microsoft.com/azure/cognitive-services/openai/tutorials/embeddings?tabs=command-line)
+
+## Associate
+
+-	[How to generate text with Azure OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/how-to/completions) - Learn how to generate or manipulate text, including code with Azure OpenAI
+-	[How to prepare a dataset for Azure OpenAI custom model training](https://learn.microsoft.com/azure/cognitive-services/openai/how-to/prepare-dataset?source=recommendations) - Learn how to prepare your dataset for fine-tuning
+-	[Azure OpenAI content filtering](https://learn.microsoft.com/azure/cognitive-services/openai/concepts/content-filter) - Learn about the content filtering capabilities of the OpenAI service in Azure Cognitive Services
+
+## Expert
+
+- *Coming soon!*
+
+## Events
+
+-	Azure AI Bootcamp for Microsoft Partners – March 28-30 – [Registration page](https://vshow.on24.com/vshow/Azure_Depth/registration/22504)
+-	[AI and Machine Learning Partner Prep Event Listing Page (eventbuilder.com)](https://msuspartners.eventbuilder.com/AIMLPartnerPrep)
+
+## Demos
+
+-	[Business Process Automation Accelerator](https://github.com/Azure/business-process-automation) - Provides a no-code Studio for users to quickly build complex, multi-stage AI pipelines across multiple Azure AI and ML Services
+-	[Microsoft Tech Community: Azure Open AI (GPT) with Power Apps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/azure-open-ai-gpt-with-power-apps-build-a-power-app-to-create/ba-p/3730864) - Build a Power App to create a demo or personal knowledge bot
+-	[Build a low code conversational SMS bot with Azure Communication Services and Azure OpenAI](https://techcommunity.microsoft.com/t5/azure-communication-services/build-a-low-code-conversational-sms-bot-with-azure-communication/ba-p/3749180)
+
+## Community Resources
+
+-	[Microsoft Q&A](https://learn.microsoft.com/answers/tags/387/azure-openai) - Get answers to your questions using the tag: azure-openai
+-	[OpenAI Python Library - examples · PyPI](https://pypi.org/project/openai/)
+-	[OpenAI Cookbook (github.com)](https://github.com/openai/openai-cookbook)
+-	[Awesome ChatGPT Prompts](https://prompts.chat/)
