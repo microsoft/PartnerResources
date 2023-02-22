@@ -23,7 +23,7 @@ Target your customer with pre-built materials:
    - [Modernize Your Fundraising and Constituent Engagement](https://partner.microsoft.com/en-us/asset/collection/intelligent-constituent-engagement-and-fundraising-for-nonprofits)
  - Encourage your customers to [register as a nonprofit](https://nonprofit.microsoft.com/en-us/getting-started) to secure eligibility for discounted offers.
 
-## Make yourself visible to us in Parnter Center
+## Make yourself visible to us in Partner Center
 Partner Center is where you will manage multiple aspects of your relationship with Microsoft including referrals, opportunities, and marketplace offers:
  - Learn more about how to [grow your business with referrals](https://learn.microsoft.com/en-us/partner-center/referrals).
  - Learn more about how to [manage co-sell opportunities](https://learn.microsoft.com/en-us/partner-center/manage-co-sell-opportunities).
