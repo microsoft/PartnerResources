@@ -39,4 +39,4 @@ Migrate](https://docs.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmwa
 
 [Back to Table of Content]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs#table-of-contents)
 
-[Expected Time Needed Per Lab](/skilling/infrastructure/avs-hands-on-labs-expected-time-needed-per-lab)
+[Expected Time Needed Per Lab](/PartnerResources/skilling/infrastructure/avs-hands-on-labs-expected-time-needed-per-lab)
