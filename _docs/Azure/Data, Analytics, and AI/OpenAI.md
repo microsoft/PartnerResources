@@ -32,8 +32,8 @@ To get started, we recommend watching the following videos created by Microsoft 
     <td><a href="https://www.youtube.com/watch?v=FJ0v3apQ2dM"><img src="https://img.youtube.com/vi/FJ0v3apQ2dM/0.jpg" width=200></a></td>
     <td><a href="https://www.youtube.com/watch?v=FJ0v3apQ2dM"><b>Azure OpenAI Business Briefing</b></a><br><br>This first video will help you better understand what OpenAI is, canonical use cases, and identify a use case for your enterprise to launch your solution.</td>
   </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=lHw1tZhXlEo"><img src="https://img.youtube.com/vi/FJ0v3apQ2dM/0.jpg" width=200></a></td>
+  <tr style="vertical-align=top">
+    <td><a href="https://www.youtube.com/watch?v=lHw1tZhXlEo"><img src="https://img.youtube.com/vi/lHw1tZhXlEo/0.jpg" width=200></a></td>
     <td><a href="https://www.youtube.com/watch?v=lHw1tZhXlEo"><b>Azure OpenAI Technical Briefing Video</b></a><br><br>This second video walks you through technical level 100 details that you must know to implement OpenAI in your projects. It contains code snippets demonstrating Azure OpenAI rest API and python SDK.<br><br>You can find the notebook used in this video <a href="https://github.com/microsoft/PartnerResources/blob/main/assets/openai/AOAI-Technical-Review-codes.ipynb">here</a>.</td>
   </tr>
 </table>
