@@ -15,7 +15,7 @@ tags:
 
 # Learning Plan Resources for Azure OpenAI
 
-> :memo: This document is under active development. Please check regularly for updates.
+> This document is under active development. Please check regularly for updates.
 
 ## Introduction
 Azure OpenAI is a collaboration between Microsoft Azure and OpenAI, a leading research organization in artificial intelligence. 
@@ -29,12 +29,12 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 <table>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=FJ0v3apQ2dM"><img src="https://img.youtube.com/vi/FJ0v3apQ2dM/0.jpg" width=200></a></td>
+    <td><a href="https://www.youtube.com/watch?v=FJ0v3apQ2dM"><img src="https://img.youtube.com/vi/FJ0v3apQ2dM/0.jpg" alt="Azure OpenAI Business Briefing" width="200" height="153"></a></td>
     <td><a href="https://www.youtube.com/watch?v=FJ0v3apQ2dM"><b>Azure OpenAI Business Briefing</b></a><br><br>This first video will help you better understand what OpenAI is, canonical use cases, and identify a use case for your enterprise to launch your solution.</td>
   </tr>
-  <tr style="vertical-align=top">
-    <td><a href="https://www.youtube.com/watch?v=lHw1tZhXlEo"><img src="https://img.youtube.com/vi/lHw1tZhXlEo/0.jpg" width=200></a></td>
-    <td><a href="https://www.youtube.com/watch?v=lHw1tZhXlEo"><b>Azure OpenAI Technical Briefing Video</b></a><br><br>This second video walks you through technical level 100 details that you must know to implement OpenAI in your projects. It contains code snippets demonstrating Azure OpenAI rest API and python SDK.<br><br>You can find the notebook used in this video <a href="https://github.com/microsoft/PartnerResources/blob/main/assets/openai/AOAI-Technical-Review-codes.ipynb">here</a>.</td>
+  <tr style="vertical-align:top">
+    <td><a href="https://www.youtube.com/watch?v=lHw1tZhXlEo"><img src="https://img.youtube.com/vi/lHw1tZhXlEo/0.jpg" alt="Azure OpenAI Technical Briefing" width="200" height="153"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=lHw1tZhXlEo"><b>Azure OpenAI Technical Briefing</b></a><br><br>This second video walks you through technical level 100 details that you must know to implement OpenAI in your projects. It contains code snippets demonstrating Azure OpenAI rest API and python SDK.<br><br>You can find the notebook used in this video <a href="https://github.com/microsoft/PartnerResources/blob/main/assets/openai/AOAI-Technical-Review-codes.ipynb">here</a>.</td>
   </tr>
 </table>
 
