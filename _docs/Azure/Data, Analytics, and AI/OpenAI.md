@@ -15,7 +15,7 @@ tags:
 
 # Learning Plan Resources for Azure OpenAI
 
-> This document is under active development. Please check regularly for updates.
+> :memo: This document is under active development. Please check regularly for updates.
 
 ## Introduction
 Azure OpenAI is a collaboration between Microsoft Azure and OpenAI, a leading research organization in artificial intelligence. 
@@ -25,19 +25,18 @@ With Azure OpenAI, users can access a wide range of AI tools and technologies to
 Azure OpenAI is designed to accelerate the development of AI applications, allowing users to focus on creating innovative solutions that deliver value to their organizations and customers.
 
 ## Get Started
-To get started, we recommend watching the following videos created by Microsoft GPSUS tech team. 
+To get started, we recommend watching the following videos created by Microsoft GPSUS Technical Team. 
 
-The first video, Azure OpenAI Business Briefing, will help you better understand what OpenAI is, canonical use cases, and identify a use case for your enterprise to launch your solution.
-
-[![Azure OpenAI Business Briefing Video link](https://img.youtube.com/vi/FJ0v3apQ2dM/0.jpg)](https://www.youtube.com/watch?v=FJ0v3apQ2dM)
-
-
-
-The second video, Azure OpenAI Technical Briefing, walks you through technical L100 details that you must know to implement OpenAI in your projects. It contains code snippets demonstrating Azure OpenAI rest API and python SDK. 
-
-[![Azure OpenAI Techinal Briefing Video link](https://img.youtube.com/vi/lHw1tZhXlEo/0.jpg)](https://www.youtube.com/watch?v=lHw1tZhXlEo)
-
-You can find the notebook used in this video [here](https://github.com/microsoft/PartnerResources/blob/main/assets/openai/AOAI-Technical-Review-codes.ipynb).
+<table>
+  <tr>
+    <td>[<img src="https://img.youtube.com/vi/FJ0v3apQ2dM/0.jpg" width=200>](https://www.youtube.com/watch?v=FJ0v3apQ2dM)</td>
+    <td>[**Azure OpenAI Business Briefing**](https://www.youtube.com/watch?v=FJ0v3apQ2dM)<br><br>This first video will help you better understand what OpenAI is, canonical use cases, and identify a use case for your enterprise to launch your solution.</td>
+  </tr>
+  <tr>
+    <td>[<img src="https://img.youtube.com/vi/FJ0v3apQ2dM/0.jpg" width=200>](https://www.youtube.com/watch?v=lHw1tZhXlEo)</td>
+    <td>[**Azure OpenAI Technical Briefing Video**](https://www.youtube.com/watch?v=FJ0v3apQ2dM)<br><br>This second video walks you through technical level 100 details that you must know to implement OpenAI in your projects. It contains code snippets demonstrating Azure OpenAI rest API and python SDK.<br><br>You can find the notebook used in this video [here](https://github.com/microsoft/PartnerResources/blob/main/assets/openai/AOAI-Technical-Review-codes.ipynb).</td>
+  </tr>
+</table>
 
 ## Request Access 
 Due to limited resources and extreme interest, currently only approved customers/partners are granted access to Azure OpenAI. 
@@ -46,7 +45,6 @@ To request access, fill out the [access request form](https://customervoice.micr
 ## Keeping Up
 
 -	[What’s New in Azure OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/whats-new)
--	Azure OpenAI - YouTube Playlist
 -	[Azure OpenAI - YouTube Playlist](https://www.youtube.com/watch?v=FJ0v3apQ2dM&list=PL8_VXqhvJI9CNF6Q409mSjh0InP6_GfBg)
 -	[AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy)
 
@@ -54,12 +52,11 @@ To request access, fill out the [access request form](https://customervoice.micr
 
 -	[Azure OpenAI Service product page](https://azure.microsoft.com/services/cognitive-services/openai-service/)
 -	[Azure OpenAI Documentation](https://learn.microsoft.com/azure/cognitive-services/openai/) – Overview, quickstarts, tutorials, how-to guides, API reference
--	[Video: Combining OpenAI models with the power of Azure](https://learn.microsoft.com/shows/ai-show/build-recap-combining-openai-models-with-the-power-of-azure)
+-	[Video: Combining OpenAI models with the power of Azure](https://learn.microsoft.com/shows/ai-show/build-recap-combining-openai-models-with-the-power-of-azure) (16 minutes)
 -	[Responsible AI: Use cases for Azure OpenAI](https://learn.microsoft.com/legal/cognitive-services/openai/transparency-note?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext)
--	[Microsoft Azure Legal Information](https://azure.microsoft.com/support/legal/)
 -	[Azure OpenAI Service quotas and limits]( https://learn.microsoft.com/azure/cognitive-services/openai/quotas-limits?branch=release-azure-openai-preview)
 -	[Azure OpenAI Service models](https://learn.microsoft.com/azure/cognitive-services/openai/concepts/models)
--	[Introduction to Azure OpenAI Service – MS Learn](https://learn.microsoft.com/training/modules/explore-azure-openai/) (self-paced)
+-	[Introduction to Azure OpenAI Service – MS Learn](https://learn.microsoft.com/training/modules/explore-azure-openai/) (self-paced, 38 minutes)
 -	[Tutorial: Explore Azure OpenAI Service embeddings and document search](https://learn.microsoft.com/azure/cognitive-services/openai/tutorials/embeddings?tabs=command-line)
 
 ## Associate
@@ -80,12 +77,12 @@ To request access, fill out the [access request form](https://customervoice.micr
 ## Demos
 
 -	[Business Process Automation Accelerator](https://github.com/Azure/business-process-automation) - Provides a no-code Studio for users to quickly build complex, multi-stage AI pipelines across multiple Azure AI and ML Services
--	[Microsoft Tech Community: Azure Open AI (GPT) with Power Apps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/azure-open-ai-gpt-with-power-apps-build-a-power-app-to-create/ba-p/3730864) - Build a Power App to create a demo or personal knowledge bot
+-	[Microsoft Tech Community: Azure OpenAI (GPT) with Power Apps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/azure-open-ai-gpt-with-power-apps-build-a-power-app-to-create/ba-p/3730864) - Build a Power App to create a demo or personal knowledge bot
 -	[Build a low code conversational SMS bot with Azure Communication Services and Azure OpenAI](https://techcommunity.microsoft.com/t5/azure-communication-services/build-a-low-code-conversational-sms-bot-with-azure-communication/ba-p/3749180)
 
 ## Community Resources
 
--	[Microsoft Q&A](https://learn.microsoft.com/answers/tags/387/azure-openai) - Get answers to your questions using the tag: azure-openai
+-	[Microsoft Q&A](https://learn.microsoft.com/answers/tags/387/azure-openai) - Get answers to your questions using the tag: *azure-openai*
 -	[OpenAI Python Library - examples · PyPI](https://pypi.org/project/openai/)
 -	[OpenAI Cookbook (github.com)](https://github.com/openai/openai-cookbook)
 -	[Awesome ChatGPT Prompts](https://prompts.chat/)
