@@ -182,6 +182,19 @@
         - title: Teams
           url: "skilling/business-central-academy/teams"
           tag: bca teams
+    - title: "Microsoft Teams Academy"
+      url: "skilling/microsoft-teams-academy"
+      tag: microsoft teams academy
+      children:
+        - title: Certification
+          url: "skilling/microsoft-teams-academy/certification"
+          tag: teams academy certification
+        - title: Client & Devices
+          url: "skilling/microsoft-teams-academy/client-devices"
+          tag: teams academy client devices
+       - title: Management
+          url: "skilling/microsoft-teams-academy/management"
+          tag: teams academy client devices
     - title: "Modern Analytics Academy"
       url: "skilling/modern-analytics-academy"
       tag: modern analytics academy
