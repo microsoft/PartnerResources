@@ -185,6 +185,16 @@
     - title: "Microsoft Teams Academy"
       url: "skilling/microsoft-teams-academy"
       tag: mta
+      children:
+        - title: Certification
+          url: "skilling/microsoft-teams-academy/certification"
+          tag: mta certification
+        - title: Client and Devices
+          url: "skilling/microsoft-teams-academy/client-devices"
+          tag: mta client devices
+       - title: Management
+          url: "skilling/microsoft-teams-academy/management"
+          tag: mta client devices
     - title: "Modern Analytics Academy"
       url: "skilling/modern-analytics-academy"
       tag: modern analytics academy
