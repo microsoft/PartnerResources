@@ -36,6 +36,9 @@ tags:
 * [Azure VMware Solution - VMware On-Demand Hands-on](https://aka.ms/AVSHOL)
 * [Azure VMware Solution - VMware FAQ](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/partners/vmw-faq-temp.pdf)
 
+### NetApp
+* [Azure VMware Solution - Documentation](https://docs.netapp.com/us-en/netapp-solutions/ehc/azure/index.html)
+
 ## Skilling Resources
 ### Learning Path
 * [AVS Learning Path](https://aka.ms/avslearn)
@@ -100,13 +103,16 @@ tags:
 
 ## Technical Resources
 ### Planning 
+* [AVS Poster](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-avs-logical-design-deployment-connectivity.pdf)
 * [AVS Deployment Checklist](https://learn.microsoft.com/en-us/azure/azure-vmware/production-ready-deployment-steps)
 * [AVS Networking Checklist](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-network-checklist)
 * [Azure Migrate Assessment for AVS](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmware-solution-assessment)
 
 ### Design Considerations
 * [Availability Design Considerations](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-availability-design-considerations/ba-p/3682915)
+* [Recoverability Design Considerations](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-recoverability-design-considerations/ba-p/3746509)
 * [Auto-Scale](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-auto-scale/ba-p/3690186)
+* [Monitoring with Azure Log Analytics](https://techcommunity.microsoft.com/t5/azure-migration-and/monitoring-azure-vmware-solution-with-log-analytics/ba-p/3720515)
 * [Advanced Monitoring](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-advanced-monitoring/ba-p/3686560)
 * [Network considerations for AVS dual-region deployments](https://github.com/Azure/Enterprise-Scale-for-AVS/blob/main/BrownField/Networking/Concepts/Connectivity-Multi-region/dual-region-hub-spoke.md)
 * [Connectivity Options for AVS](https://github.com/Azure/Enterprise-Scale-for-AVS/blob/main/BrownField/Networking/Concepts/Connectivity-Single-region/Implementation-Options.md)
