@@ -1,19 +1,19 @@
 ---
 nav_exclude: true
 layout: page
-title: Microsoft Teams Academy - Management
-sorttitle: Microsoft Teams Academy - Management
-description: Microsoft Teams Academy - Management
-permalink: /skilling/microsoft-teams-academy/security-governance
+title: Microsoft Teams Academy - Security & Governance
+sorttitle: Microsoft Teams Academy - Security & Governance
+description: Microsoft Teams Academy - Security & Governance
+permalink: /skilling/microsoft-teams-academy/security
 updated: 2022-02-27
 showbreadcrumb: false
 tags: 
  - academy page
  - microsoft teams academy
- - management
+ - security
 ---
 
-# Microsoft Teams Academy - Client & Devices
+# Microsoft Teams Academy - Security & Governance
 
 Welcome to the workshop template. Please see the other workshops for examples of using headers, footers, and other callouts.
 
@@ -28,7 +28,7 @@ Use each page to add content for each relevant section of the workshop. This mig
 Use the series.md include to automatically include items in the /content folder. For example:
 
 {% include series.md 
-    includetags="microsoft teams academy|academy content|management" 
+    includetags="microsoft teams academy|academy content|security & compliance" 
     includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="true" showtags="true"
     visualstyle="normal"

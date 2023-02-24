@@ -1,19 +1,19 @@
 ---
 nav_exclude: true
 layout: page
-title: Microsoft Teams Academy - Management
-sorttitle: Microsoft Teams Academy - Management
-description: Microsoft Teams Academy - Management
+title: Microsoft Teams Academy - Phone
+sorttitle: Microsoft Teams Academy - Phone
+description:Microsoft Teams Academy - Phone
 permalink: /skilling/microsoft-teams-academy/phone
 updated: 2022-02-27
 showbreadcrumb: false
 tags: 
  - academy page
  - microsoft teams academy
- - management
+ - phone
 ---
 
-# Microsoft Teams Academy - Client & Devices
+# Microsoft Teams Academy - Phone
 
 Welcome to the workshop template. Please see the other workshops for examples of using headers, footers, and other callouts.
 

@@ -198,6 +198,12 @@
         - title: Phone
           url: "skilling/microsoft-teams-academy/phone"
           tag: mta phone
+        - title: Platform
+          url: "skilling/microsoft-teams-academy/platform"
+          tag: mta platform
+        - title: Security & Governance
+          url: "skilling/microsoft-teams-academy/security"
+          tag: mta security
     - title: "Modern Analytics Academy"
       url: "skilling/modern-analytics-academy"
       tag: modern analytics academy

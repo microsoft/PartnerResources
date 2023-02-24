@@ -13,7 +13,7 @@ tags:
  - meetings
 ---
 
-# Microsoft Teams Academy - Client & Devices
+# Microsoft Teams Academy - Meetings
 
 Welcome to the workshop template. Please see the other workshops for examples of using headers, footers, and other callouts.
 
