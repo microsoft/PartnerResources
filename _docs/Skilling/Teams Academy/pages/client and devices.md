@@ -30,8 +30,8 @@ Use the series.md include to automatically include items in the /content folder.
 {% include series.md 
     includetags="microsoft teams academy|academy content|client & devices" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" showtags="true"
-    visualstyle="normal"
+    sortfield="updated" sortorder="desc" showdate="true" showtags="true" 
+    visualstyle="normal" 
 %}
 
 Any embedded resources that needed to added to the repo directly, such as PPTX or images, should be housed in the root assets folder in a subfolder with a short name. For example, Modern Analytics Academy has content in /assets/maa/filename.pptx; this is necessary to support Github pages deployment. Ideally, video content should be embedded or linked to. See the Modern Analytics Academy for samples on how to do this.

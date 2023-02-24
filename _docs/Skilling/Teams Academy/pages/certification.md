@@ -30,7 +30,7 @@ Use the series.md include to automatically include items in the /content folder.
 {% include series.md 
     includetags="microsoft teams academy|academy content|certification" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" showtags="true"
+    sortfield="updated" sortorder="desc" showdate="true" showtags="true" 
     visualstyle="normal"
 %}
 
