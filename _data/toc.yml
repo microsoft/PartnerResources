@@ -194,7 +194,10 @@
           tag: mta client devices
         - title: Management
           url: "skilling/microsoft-teams-academy/management"
-          tag: mta client devices
+          tag: mta management
+        - title: Meetings
+          url: "skilling/microsoft-teams-academy/meetings"
+          tag: mta meetings
         - title: Phone
           url: "skilling/microsoft-teams-academy/phone"
           tag: mta phone
