@@ -28,7 +28,7 @@ Use each page to add content for each relevant section of the workshop. This mig
 Use the series.md include to automatically include items in the /content folder. For example:
 
 {% include series.md 
-    includetags="microsoft teams academy|academy content|management" 
+    includetags="microsoft teams academy|academy content|platform" 
     includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="true" showtags="true"
     visualstyle="normal"
