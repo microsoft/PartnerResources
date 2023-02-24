@@ -23,26 +23,13 @@ __Content__ are individual and discrete pieces of content within the academy. A 
 
 The tagging is important because the site is built by referencing the tags.
 
-## Pages
-
-Either build links to each academy page manually, or use series.md specifying the academy name and 'academy page' filters, like so:
+## All Content
 
 {% include series.md 
-    includetags="sample academy|academy page" 
+    includetags="microsoft teams academy|academy content" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="desc" showdate="false" showtags="false"
-    visualstyle="normal"
-%}
-
-##  Content
-
-Content should be included using series.md with the academy name and 'academy content' filter, like the example below. It's important to use series.md here because content within the academy may be frequently changed, and this ensures all the content is correctly indexed within the repo.
-
-{% include series.md 
-    includetags="sample academy|academy content" 
-    includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" showtags="true"
-    visualstyle="normal"
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    visualstyle="tiny"
 %}
 
 ## Additional Content
