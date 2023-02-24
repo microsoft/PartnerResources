@@ -195,6 +195,9 @@
         - title: Management
           url: "skilling/microsoft-teams-academy/management"
           tag: mta client devices
+        - title: Phone
+          url: "skilling/microsoft-teams-academy/phone"
+          tag: mta phone
     - title: "Modern Analytics Academy"
       url: "skilling/modern-analytics-academy"
       tag: modern analytics academy

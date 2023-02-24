@@ -1,16 +1,16 @@
 ---
 nav_exclude: true
 layout: page
-title: Microsoft Teams Academy - Management
-sorttitle: Microsoft Teams Academy - Management
-description: Microsoft Teams Academy - Management
+title: Microsoft Teams Academy - Meetings
+sorttitle: Microsoft Teams Academy - Meetings
+description: Microsoft Teams Academy - Meetings
 permalink: /skilling/microsoft-teams-academy/meetings
 updated: 2022-02-27
 showbreadcrumb: false
 tags: 
  - academy page
  - microsoft teams academy
- - management
+ - meetings
 ---
 
 # Microsoft Teams Academy - Client & Devices
