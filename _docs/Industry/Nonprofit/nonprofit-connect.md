@@ -35,7 +35,7 @@ Celebrate the impact your work has had by nomination for the Nonprofit Partner o
 The [Microsoft #BuildFor2030 Initiative](https://partner.microsoft.com/en-US/solutions/buildfor2030) is a call to action for Microsoft partners to accelerate innovation, changemaking, and collective impact, helping to advance the United Nations Sustainable Development Goals.
 
 ## Communities and blogs
-Ask that question, find a collaborator, or hear the latest from Microsoft.
+Suggest improvements to this content, ask that question, find a collaborator, or hear the latest from Microsoft.
 
 Communities | Blogs
 :---|:---
