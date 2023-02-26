@@ -77,7 +77,7 @@ Use links below and then filter learning paths by role, or Beginner, Intermediat
  - [Power Pages Paths](https://learn.microsoft.com/en-us/training/browse/?resource_type=learning%20path&expanded=power-platform&products=power-pages)
  - [Dataverse Learning Paths](https://learn.microsoft.com/en-us/training/browse/?resource_type=learning%20path&expanded=power-platform&products=common-data-service&levels=advanced)
 
-Go further with learning to include solutions that span customer engagement and finance: [Integrate finance and operations apps with Microsoft Power Platform](https://learn.microsoft.com/en-us/training/paths/integrate-finance-operations-apps-power-platform/).
+Go further with learning to include [solutions that span customer engagement and finance](./nonprofit-implement.md#integration-with-accounting-systems).
 
 ### Setup your internal environment
 Creating an internal deployment of Microsoft Cloud for Nonprofit not only ensures familiarity with the process, but also sets you up for continued use for future sales demonstrations. We recommend going through the setup process with someone from technical sales, as well as someone from the solution delivery team.
