@@ -30,7 +30,7 @@ You can add links to other pages in this academy, if desired, like so:
 {% include series.md 
     includetags="microsoft teams academy|academy page" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="desc" showdate="false" showtags="false"
+    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
     visualstyle="tiny"
 %}
 
