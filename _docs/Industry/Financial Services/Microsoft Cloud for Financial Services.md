@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Cloud for Financial Services
 description: Resources for Microsoft Cloud for Financial Services
-updated: 2023-02-13
+updated: 2023-02-23
 permalink: /industry/financial-services/microsoft-cloud-for-financial-services
 tags:
 - learning plan
@@ -28,6 +28,7 @@ Additionally, some content may be marked with one or more icons:
 * [Overview of Microsoft cloud for Financial Services](https://aka.ms/FinancialServices)
 * [Introducing Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=xByz3P6FlMQ)
 * [2023 Release Wave 1](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-financial-services/)
+* [Industry Hub](https://industryhub.transform.microsoft.com/enterprise-commercial/financial-services?tab=overview)
 
 ## Fundamentals
 

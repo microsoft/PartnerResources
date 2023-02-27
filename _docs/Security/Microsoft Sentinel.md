@@ -73,6 +73,7 @@ Use these steps to build a demo instance; free for one month
 * [KQL Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet)
 * [Advanced KQL Framework Workbook - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766)
 * [KQL Search](https://www.kqlsearch.com)
+* [SQL to KQL Cheat sheet](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet)
 
 #### ADX
    * [What is a free Azure Data Explorer Cluster? - Microsoft Docs](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free)
@@ -93,7 +94,7 @@ Use these steps to build a demo instance; free for one month
 * [Microsoft Sentinel Migration: Select Data Ingestion Tool - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
 * [Unicoder Sigma Rule Converter for SIEM, EDR, & NTDR](https://uncoder.io/)
 * [Microsoft Sentinel Repository](https://github.com/Azure/Azure-Sentinel)
-* [Azure Sentinel Side-by-Side with QRader](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-qradar/ba-p/1488333)
+* [Azure Sentinel Side-by-Side with QRadar](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-qradar/ba-p/1488333)
 * [Azure Sentinel Side-by-Side with Splunk](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-splunk/ba-p/1211266)
 
 #### Build Solutions & Other Contributions
