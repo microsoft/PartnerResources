@@ -23,7 +23,18 @@ __Content__ are individual and discrete pieces of content within the academy. A 
 
 The tagging is important because the site is built by referencing the tags.
 
-## All Content
+## Pages
+
+You can add links to other pages in this academy, if desired, like so:
+
+{% include series.md 
+    includetags="sample academy|academy page" 
+    includemethod="all" 
+    sortfield="sorttitle" sortorder="desc" showdate="false" showtags="false"
+    visualstyle="normal"
+%}
+
+## All Content in this Academy
 
 {% include series.md 
     includetags="microsoft teams academy|academy content" 
