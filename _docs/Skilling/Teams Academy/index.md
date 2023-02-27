@@ -31,7 +31,7 @@ You can add links to other pages in this academy, if desired, like so:
     includetags="microsoft teams academy|academy page" 
     includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
-    visualstyle="tiny" remotetext="Microsoft Teams Academy - "
+    visualstyle="tiny" removetext="Microsoft Teams Academy - "
 %}
 
 ## All Content in this Academy
