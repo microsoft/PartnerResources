@@ -23,7 +23,7 @@ __Content__ are individual and discrete pieces of content within the academy. A 
 
 The tagging is important because the site is built by referencing the tags.
 
-## Pages
+## Pages in this Academy
 
 You can add links to other pages in this academy, if desired, like so:
 
@@ -31,7 +31,7 @@ You can add links to other pages in this academy, if desired, like so:
     includetags="microsoft teams academy|academy page" 
     includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
-    visualstyle="tiny"
+    visualstyle="tiny" remotetext="Microsoft Teams Academy - "
 %}
 
 ## All Content in this Academy
