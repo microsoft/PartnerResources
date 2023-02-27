@@ -77,7 +77,7 @@ Use links below and then filter learning paths by role, or Beginner, Intermediat
  - [Power Pages Paths](https://learn.microsoft.com/en-us/training/browse/?resource_type=learning%20path&expanded=power-platform&products=power-pages)
  - [Dataverse Learning Paths](https://learn.microsoft.com/en-us/training/browse/?resource_type=learning%20path&expanded=power-platform&products=common-data-service&levels=advanced)
 
-Go further with learning to include solutions that span customer engagement and finance: [Integrate finance and operations apps with Microsoft Power Platform](https://learn.microsoft.com/en-us/training/paths/integrate-finance-operations-apps-power-platform/).
+Go further with learning to include [solutions that span customer engagement and finance](./nonprofit-implement.md#integration-with-accounting-systems).
 
 ### Setup your internal environment
 Creating an internal deployment of Microsoft Cloud for Nonprofit not only ensures familiarity with the process, but also sets you up for continued use for future sales demonstrations. We recommend going through the setup process with someone from technical sales, as well as someone from the solution delivery team.
@@ -85,9 +85,9 @@ Creating an internal deployment of Microsoft Cloud for Nonprofit not only ensure
 #### Pre-production licenses
 Start with the [Microsoft Action Pack](https://partner.microsoft.com/en-us/partnership/action-pack) for a baseline of partner materials and support that includes cloud licenses for several prerequisites of Microsoft Cloud for Nonprofit: Azure Credit, Microsoft Office 365, and Microsoft Dynamics 365 Customer Engagement.
 
-Next, a user with Global Administrator role for the partner tenant may request additional non-production licenses using the [Non-production Environment License Portal](https://experience.dynamics.com/requestlicense/) with the following considerations.
-
-NOTE: You can select multiple licenses for a single submission.
+Next, a user with Global Administrator role for the partner tenant may request additional free or discounted non-production licenses using the [Non-production Environment License Portal](https://experience.dynamics.com/requestlicense/) with the following considerations.
+ - A single submission can include multiple licenses for the selected offer type.
+ - See [All available discounted, free, and upcoming licenses](https://pbapstorageprod.blob.core.windows.net/protectedassets/Partner%20Sandbox%20Licenses%20SKU%20List.pdf?sv=2019-07-07&sr=b&sig=5QUD2WZ%2BpHCuWHxsdZrnWEllR5c%2F1q2Og7xXOrGYHgQ%3D&se=2023-02-22T19%3A01%3A41Z&sp=r) for details.
 
 **Promotional Offer Type** | **Use** | **Relevant Licenses**
 :---|:---|:---

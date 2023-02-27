@@ -19,11 +19,16 @@ Key programs you can join to build ISV business on Microsoft Cloud for Nonprofit
  - Build from an existing business with the [ISV Success Program](https://www.microsoft.com/en-us/isv/).
  - Grow on commercial marketplace through [Business Applications ISV Connect](https://partner.microsoft.com/en-us/solutions/business-applications/isv-build).
 
+The nature of your business model and product architecture will dictate what will be needed to build a business with customers of Microsoft Cloud for Nonprofit, however, there are critical concepts applicable in any scenario:
+ - Use the concepts and schema from the [Comon Data Model for Nonprofits](https://learn.microsoft.com/en-us/common-data-model/schema/core/applicationcommon/foundationcommon/crmcommon/accelerators/nonprofit/overview) wherever possible to ensure alignment with current and future solutions.
+ - Add value directly within Microsoft Cloud for Nonprofit solutions the customer has chosen to use by [building and extending Dynamics 365 apps](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/overview).
+ - Make your solution as accessible as possible by [publishing your app on AppSource](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/publish-app-appsource).
+
 ## The role of Azure for ISVs
-[coming soon]
+Independent software vendors that develop and run their products on Azure see critical benefits including accelerated development and innovation, extended reach with customer access through the marketplace, and scale through partner-to-partner ecosystem selling.
 
-## Common patterns for ISVs
-[coming soon]
+For ISVs focused on our eligible nonprofit customers including nonprofits, museums, and libraries these benefits are amplified further through our own industry go-to-market activities.
 
-## Managing development of Dataverse solutions
-[coming soon]
+Related concepts:
+ - [Overview of Azure Native ISV Services](https://learn.microsoft.com/en-us/azure/partner-solutions/overview)
+ - [Independent software vendor (ISV) considerations for Azure landing zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/isv-landing-zone?tabs=mg-env-no%2Cminimal)
