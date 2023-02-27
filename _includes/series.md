@@ -292,9 +292,9 @@
 <div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
     <div>
         {% if showLink == "true" %}
-            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doctitle }}</a> 
         {% else %}
-            <span class="nav-entry">{{ doc.title }}</span> 
+            <span class="nav-entry">{{ doctitle }}</span> 
         {% endif %}
         {% if doc.updated and showDate == "true" %}
             <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
@@ -316,7 +316,7 @@
         {% if showLink == "true" %}
             <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doctitle }}</a> 
         {% else %}
-            <span class="nav-entry">{{ doc.title }}</span> 
+            <span class="nav-entry">{{ doctitle }}</span> 
         {% endif %}
         {% if doc.updated and showDate == "true" %}
             <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
@@ -330,9 +330,9 @@
 <div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
     <div>
         {% if showLink == "true" %}
-            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doctitle }}</a> 
         {% else %}
-            <span class="nav-entry">{{ doc.title }}</span> 
+            <span class="nav-entry">{{ doctitle }}</span> 
         {% endif %}
         {% if doc.updated and showDate == "true" %}
             <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
@@ -352,9 +352,9 @@
 <div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
     <div>
         {% if showLink == "true" %}
-            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doctitle }}</a> 
         {% else %}
-            <span class="nav-entry">{{ doc.title }}</span> 
+            <span class="nav-entry">{{ doctitle }}</span> 
         {% endif %}
         {% if doc.updated and showDate == "true" %}
             <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
