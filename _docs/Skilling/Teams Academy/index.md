@@ -28,7 +28,7 @@ The tagging is important because the site is built by referencing the tags.
 You can add links to other pages in this academy, if desired, like so:
 
 {% include series.md 
-    includetags="sample academy|academy page" 
+    includetags="microsoft teams academy|academy page" 
     includemethod="all" 
     sortfield="sorttitle" sortorder="desc" showdate="false" showtags="false"
     visualstyle="normal"
