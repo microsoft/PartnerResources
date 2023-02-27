@@ -220,6 +220,16 @@
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
           tag: vignettes
+    - title: "Windows 365 Academy"
+      url: "skilling/windows-365-academy"
+      tag: w365academy
+      children:
+        - title: Planning
+          url: "skilling/windows-365-academy/planning"
+          tag: w365 planning
+        - title: Deploying
+          url: "skilling/windows-365-academy/deploying"
+          tag: w365 deploying
 - title: Skilling & Hands-on
   url: "skilling/"
   tag: workshop
