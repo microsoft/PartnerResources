@@ -19,7 +19,7 @@ Welcome to the workshop template. Please see the other workshops for examples of
 
 Changes to the left nav can be made in the /_data/toc.yml file.
 
-##  Content
+## Content
 
 Welcome to the Workshop Template!
 
