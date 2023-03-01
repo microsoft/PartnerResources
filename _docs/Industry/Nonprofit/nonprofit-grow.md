@@ -42,10 +42,24 @@ The Microsoft commercial marketplace is a catalog of service or solution offers 
 
 The commercial marketplace consists of two online stores:
  - [Microsoft AppSource](https://appsource.microsoft.com/) for business solutions
- - [Azure Marketplace](https://azuremarketplace.microsoft.com/) for IT solutions
+ - [Azure Marketplace](https://azuremarketplace.microsoft.com/) for technology solutions
 
-### Publishing your offer
-[coming soon]
+Multiple types of offers are supported including Consulting Services, turnkey Azure Applications, Dynamics 365 solutions, and Software as a Service subscriptions. To get started, see an overview of [Publishing guides by offer type](https://learn.microsoft.com/en-us/azure/marketplace/publisher-guide-by-offer-type) to identify the type of offer most appropriate for you. Several [offer types are transactable on marketplace](https://learn.microsoft.com/en-us/azure/marketplace/marketplace-commercial-transaction-capabilities-and-considerations).
 
-### Marketplace office hours
-Explore live and on-demand sessions with [Marketplace Office Hours](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners).
+If you publish a transactable offer for Azure or Teams, there are resources available to guide you from start to finish:
+ - [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/)
+ - [Marketplace Office Hours](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners)
+
+### Co-selling your offer
+The marketplace supports co-selling with Microsoft, as well as reselling through other partners in the ecosystem. For a full overview see:
+ - [Co-sell with Microsoft sales teams and partners](https://learn.microsoft.com/en-us/partner-center/co-sell-overview?context=%2Fazure%2Fmarketplace%2Fcontext%2Fcontext)
+ - Review [Co-sell requirements](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements?context=%2Fazure%2Fmarketplace%2Fcontext%2Fcontext) for more.
+
+Example offers:
+ - Service offer: Fundraising and Engagement 30-day Implementation
+ - Service offer: Nonprofit Data Migration Assessment
+ - Dynamics 365 offer: Volunteer Screening for Volunteer Management
+ - Dynamics 365 offer: Online Donations for Fundraising and Engagement
+
+### Offer setup considerations
+To ensure your offer is visible to the right nonprofit customers select the “Nonprofit and IGO” industry during offer setup and [choose appropriate categories](https://learn.microsoft.com/en-us/azure/marketplace/marketplace-categories-industries).
