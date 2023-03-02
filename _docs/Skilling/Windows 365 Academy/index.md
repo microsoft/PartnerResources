@@ -13,15 +13,9 @@ tags:
 
 # Windows 365 Academy
 
-Welcome to the academy template. This index page is the 'home' page of the academy, and may contain any information about the entire academy, links to pages/subcontent, etc.
+Welcome to the _Windows 365 Academy_, where we focus on producing and publishing videos on Microsoft Windows 365, designed to enable our Partners to deep dive into everything Cloud PC. 
 
-Please see the other workshops for examples of using headers, footers, and other callouts.
-
-__Pages__ refer to all of the pages within the individual academy. In this case, the sample academy has 3 pages to help organize the academy into 3 logical sections. The pages are intended to help navigation within the academy. Include a tag with the academy name and 'page' to specify a page; for example, "sample academy page."
-
-__Content__ are individual and discrete pieces of content within the academy. A good example would be a single YouTube video or an article/code sample. Typically, content will show on one or more pages, and if tagged appropriately, may even show on other academies. Include a tag with the academy name and 'content' to specify a piece of content; for example, "sample academy content." 
-
-The tagging is important because the site is built by referencing the tags.
+This academy takes a Cloud PC lifecycle approach to organizing the content: _planning_ (requirements, design decisions), _deployment_, and _operations_. This is useful when thinking of endpont management, as there are many options to navigate, and you want to stick to the principles of delighting users, and making IT lives as simple, secure, and operationally sound as possible.
 
 ## All Content
 
@@ -31,11 +25,5 @@ The tagging is important because the site is built by referencing the tags.
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="tiny"
 %}
-
-## Additional Content
-
-Any embedded resources that needed to added to the repo directly, such as PPTX or images, should be housed in the root assets folder in a subfolder with a short name. For example, Modern Analytics Academy has content in /assets/maa/filename.pptx; this is necessary to support Github pages deployment. Ideally, video content should be embedded or linked to. See the Modern Analytics Academy for samples on how to do this.
-
-__Important!__ Don't forget to update the 'front-matter' at the top of the document (the content between ---). Update the name and permalink -- remember each page needs a unqiue permalink. See how the template simply addes to the permalink with the sub page name.
 
 
