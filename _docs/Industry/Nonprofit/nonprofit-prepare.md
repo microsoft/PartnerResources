@@ -87,7 +87,8 @@ Start with the [Microsoft Action Pack](https://partner.microsoft.com/en-us/partn
 
 Next, a user with Global Administrator role for the partner tenant may request additional free or discounted non-production licenses using the [Non-production Environment License Portal](https://experience.dynamics.com/requestlicense/) with the following considerations.
  - A single submission can include multiple licenses for the selected offer type.
- - See [All available discounted, free, and upcoming licenses](https://pbapstorageprod.blob.core.windows.net/protectedassets/Partner%20Sandbox%20Licenses%20SKU%20List.pdf?sv=2019-07-07&sr=b&sig=5QUD2WZ%2BpHCuWHxsdZrnWEllR5c%2F1q2Og7xXOrGYHgQ%3D&se=2023-02-22T19%3A01%3A41Z&sp=r) for details.
+ - To see all available discounted, free, and upcoming licenses click the "View SKUs" link on the page above.
+
 
 **Promotional Offer Type** | **Use** | **Relevant Licenses**
 :---|:---|:---
