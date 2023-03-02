@@ -18,7 +18,6 @@ tags:
 Welcome to the Certification bucket in the Teams Academy. These videos will walk you through everything you need to prepare for, and successfully complete, the (3) Microsoft Teams Certification designations. 
 
 ## Content
-
 There is no required order to take the exams, so it depends on your strength areas. 
 
 {% include series.md 
