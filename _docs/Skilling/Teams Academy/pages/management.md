@@ -13,19 +13,9 @@ tags:
  - management
 ---
 
-# Microsoft Teams Academy - Client & Devices
+# Microsoft Teams Academy - Management
 
-Welcome to the workshop template. Please see the other workshops for examples of using headers, footers, and other callouts.
-
-Changes to the left nav can be made in the /_data/toc.yml file.
-
-##  Content
-
-Welcome to the Workshop Template!
-
-Use each page to add content for each relevant section of the workshop. This might be based on topic, day, or other logical grouping.
-
-Use the series.md include to automatically include items in the /content folder. For example:
+Welcome to the Management bucket in the Teams Academy. Here we will dig into all things related to Teams foundations, Administration, and Operations. Things like how teams leverages Exchange/SharePoint/Azure, provisioning, policies, group assignments, RBAC, Call Quality Dashboard and analytics, Admin tools, and more!
 
 {% include series.md 
     includetags="microsoft teams academy|academy content|management" 
