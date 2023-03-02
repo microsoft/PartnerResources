@@ -24,7 +24,7 @@ There is no required order to take the exams, so it depends on your strength are
 {% include series.md 
     includetags="microsoft teams academy|academy content|certification" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" showtags="true" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal"
 %}
 
