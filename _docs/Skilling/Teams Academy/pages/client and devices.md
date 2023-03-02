@@ -15,10 +15,7 @@ tags:
 
 # Microsoft Teams Academy - Client & Devices
 
-Welcome to the Client & Devices bucket in the Teams Academy. As we all know, the world of Clients & Devices can be vast, from deployment, updates, virtualization, mobile/desktop/web interfaces, to BYOD.
-
-##  Content
-These videos are focused on all things client, as well as how the client gets to Teams. 
+Welcome to the Client & Devices bucket in the Teams Academy. As we all know, the world of Clients & Devices can be vast, from deployment, updates, virtualization, mobile/desktop/web interfaces, to BYOD. These videos are focused on all things client, as well as how the client gets to Teams. 
 
 {% include series.md 
     includetags="microsoft teams academy|academy content|client & devices" 
