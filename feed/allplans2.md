@@ -12,7 +12,7 @@ permalink: /feed/allplans2
   {% unless doc.tags contains "deprecated" %}
   {% if doc.nav_exclude != true %}
 
-  {{ doc.title }}, {{ doc.updated }}, {% assign tmp_sa = doc.path | split: "/" %}{{ tmp_sa[1] | xml_escape }},{{ doc.permalink | absolute_url | xml_escape }},"{{ doc.tags | join: "," }}"<br/>
+  {{ doc.title }}, {{ doc.updated }}, {% assign tmp_sa = doc.path | split: "/" %}{{ tmp_sa[1] | xml_escape }},{{ doc.permalink | absolute_url | xml_escape }},"{{ doc.tags | join: "|" }}"<br/>
 
   {% endif %}
   {% endunless %}
