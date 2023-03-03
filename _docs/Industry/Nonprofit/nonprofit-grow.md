@@ -16,6 +16,7 @@ See resources below to reach more customers quickly.
 
 ## Target customers
 Target your customer with pre-built materials:
+ - The [Partner Go-to-Market Toolbox](https://ppt.msftgtmtoolbox.com/) has a number of tempaltes and assets including images, One Pagers, Social Media Assets and more.
  - Reach out to your nonprofit customers using the [Microsoft Partner Digital Marketing Content](https://dmc.partner.microsoft.com/dashboard).
  - Review sales enablement content and prepare a customer campaign:
    - [Microsoft Cloud for Nonprofit](https://partner.microsoft.com/en-us/asset/collection/cloud-for-nonprofit)
