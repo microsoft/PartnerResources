@@ -15,17 +15,7 @@ tags:
 
 # Windows 365 Academy - Planning
 
-Welcome to the workshop template. Please see the other workshops for examples of using headers, footers, and other callouts.
-
-Changes to the left nav can be made in the /_data/toc.yml file.
-
-##  Content
-
-Welcome to the Workshop Template!
-
-Use each page to add content for each relevant section of the workshop. This might be based on topic, day, or other logical grouping.
-
-Use the series.md include to automatically include items in the /content folder. For example:
+Welcome to the Planning bucket in the Windows 365 Academy. Here we will dig into all things Windows 365 planning and design, from gathering requirements, case studies, use cases, when to use Windows 365 vs. Azure Virtual Desktop, and how to size Cloud PCs based on use cases.  
 
 {% include series.md 
     includetags="windows 365 academy|academy content|planning" 
@@ -34,7 +24,4 @@ Use the series.md include to automatically include items in the /content folder.
     visualstyle="normal"
 %}
 
-Any embedded resources that needed to added to the repo directly, such as PPTX or images, should be housed in the root assets folder in a subfolder with a short name. For example, Modern Analytics Academy has content in /assets/maa/filename.pptx; this is necessary to support Github pages deployment. Ideally, video content should be embedded or linked to. See the Modern Analytics Academy for samples on how to do this.
-
-__Important!__ Don't forget to update the 'front-matter' at the top of the document (the content between ---). Update the name and permalink -- remember each page needs a unqiue permalink. See how the template simply addes to the permalink with the sub page name.
 
