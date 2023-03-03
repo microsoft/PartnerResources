@@ -15,7 +15,9 @@ tags:
 
 # Windows 365 Academy - Deploying
 
-Welcome to the Deployment bucket in the Windows 365 Academy. Here we will diging into all things Windows 365 deployment and management, from native tools to Microsoft Endpoint Manager integration. We'll cover other topics, like Azure Networking, Azure AD Connect, hybrid, Conditional Access, and other elements of the Microsoft ecosystem related to the Cloud PC. 
+Welcome to the Deployment bucket in the Windows 365 Academy. Here we will diging into all things Windows 365 deployment and management, from native tools to Microsoft Endpoint Manager integration. 
+
+We'll cover other topics, like Azure Networking, Azure AD Connect, hybrid, Conditional Access, and other elements of the Microsoft ecosystem related to the Cloud PC. 
 
 {% include series.md 
     includetags="windows 365 academy|academy content|deploying" 
@@ -23,5 +25,3 @@ Welcome to the Deployment bucket in the Windows 365 Academy. Here we will diging
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal"
 %}
-
-
