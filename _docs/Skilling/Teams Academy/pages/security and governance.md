@@ -15,7 +15,7 @@ tags:
 
 # Microsoft Teams Academy - Security & Governance
 
-Welcome to the Security & Governance bucket in the Teams Academy. Here we will dig into all things, security! exciting and possibly boring, but essential! Information barriers, extenal access, guest access, auditing, DLP, authN & authZ, and the list goes on and on, and on.. 
+Welcome to the Security & Governance bucket in the Teams Academy. Here we will dig into all things, security! exciting and possibly boring, but essential! Information barriers, external access, guest access, auditing, DLP, authN & authZ, and the list goes on and on, and on.. 
 
 {% include series.md 
     includetags="microsoft teams academy|academy content|security & compliance" 
