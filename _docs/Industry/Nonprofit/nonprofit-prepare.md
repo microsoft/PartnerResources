@@ -47,12 +47,14 @@ Prepare for your first opportunity by aligning to our go-to-market activities an
  - Familiarize yourself with pricing and support. The [Microsoft Cloud for Nonprofit Pricing Datasheet](https://aka.ms/MicrosoftCloudforNonprofitPricingDatasheet) outlines plans that include industry-specific 24/7 support.
 
 ### Develop your go-to-market materials
-Use the content above to develop your own go-to-market materials. Highlight how your approach ensures a successful implementation by addressing common project needs:
+Your go-to-market materials should highlight how your approach ensures customer success by addressing common project needs:
  - Industry expertise
  - Baseline deployment of the solutions
  - Configuration/customization
  - System integrations
  - Data migration
+
+Use the materials above with the additional templates and assetes avaialble to [target your customers](./nonprofit-grow.md#target-customers).
 
 ### Pick the right partner support plan
 There are several scenarios where having additional partner support will be important to your and your customers’ success:
