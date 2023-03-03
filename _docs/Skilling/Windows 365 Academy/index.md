@@ -15,7 +15,7 @@ tags:
 
 Welcome to the _Windows 365 Academy_, where we focus on producing and publishing videos on Microsoft Windows 365, designed to enable our Partners to deep dive into everything Cloud PC. 
 
-This academy takes a Cloud PC lifecycle approach to organizing the content: _planning_ (requirements, design decisions), _deployment_, and _operations_. This is useful when thinking of endpont management, as there are many options to navigate, and you want to stick to the principles of delighting users, and making IT lives as simple, secure, and operationally sound as possible.
+This academy takes a Cloud PC lifecycle approach to organizing the content: _planning_ (requirements, design decisions), _deployment_, and _operations_. This is useful when thinking of endpoint management, as there are many options to navigate, and you want to stick to the principles of delighting users, and making IT lives as simple, secure, and operationally sound as possible.
 
 ## All Content
 
