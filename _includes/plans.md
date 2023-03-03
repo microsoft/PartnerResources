@@ -1,6 +1,6 @@
 {% comment %}
 ----------------------------------------------------
-Get a list of all plans based on parameteres passed 
+Get a list of all plans based on parameters passed 
 into this include file:
 
 - include.includemethod         all/any - all=all tags must match

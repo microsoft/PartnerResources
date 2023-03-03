@@ -182,6 +182,31 @@
         - title: Teams
           url: "skilling/business-central-academy/teams"
           tag: bca teams
+    - title: "Microsoft Teams Academy"
+      url: "skilling/microsoft-teams-academy"
+      tag: mta
+      children:
+        - title: Certification
+          url: "skilling/microsoft-teams-academy/certification"
+          tag: mta certification
+        - title: Client and Devices
+          url: "skilling/microsoft-teams-academy/client-devices"
+          tag: mta client devices
+        - title: Management
+          url: "skilling/microsoft-teams-academy/management"
+          tag: mta management
+        - title: Meetings
+          url: "skilling/microsoft-teams-academy/meetings"
+          tag: mta meetings
+        - title: Phone
+          url: "skilling/microsoft-teams-academy/phone"
+          tag: mta phone
+        - title: Platform
+          url: "skilling/microsoft-teams-academy/platform"
+          tag: mta platform
+        - title: Security & Governance
+          url: "skilling/microsoft-teams-academy/security"
+          tag: mta security
     - title: "Modern Analytics Academy"
       url: "skilling/modern-analytics-academy"
       tag: modern analytics academy
@@ -195,6 +220,16 @@
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
           tag: vignettes
+    - title: "Windows 365 Academy"
+      url: "skilling/windows-365-academy"
+      tag: w365academy
+      children:
+        - title: Planning
+          url: "skilling/windows-365-academy/planning"
+          tag: w365 planning
+        - title: Deploying
+          url: "skilling/windows-365-academy/deploying"
+          tag: w365 deploying
 - title: Skilling & Hands-on
   url: "skilling/"
   tag: workshop
