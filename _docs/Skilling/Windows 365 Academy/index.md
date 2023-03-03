@@ -23,7 +23,7 @@ This academy takes a Cloud PC lifecycle approach to organizing the content: _pla
     includetags="windows 365 academy|academy content" 
     includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
-    visualstyle="tiny" removetext="Microsoft Teams Academy - "
+    visualstyle="tiny" removetext="windows 365 academy - "
 %}
 
 ## All Content
