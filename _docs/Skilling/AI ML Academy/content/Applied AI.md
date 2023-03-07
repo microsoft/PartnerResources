@@ -1,6 +1,7 @@
 ---
 layout: page
 title: AI & ML Academy - Applied AI
+sorttitle: 02
 description: Workshop focused on AI and ML - Applied AI
 permalink: /skilling/ai-ml-academy/applied-ai
 updated: 2022-10-17
@@ -10,7 +11,9 @@ tags:
 - data, analytics, and ai
 - artificial intelligence
 - machine learning
-- workshop
+- academy content
+- ai & ml academy
+- applied ai
 ---
 
 # AI & ML Academy - Applied AI

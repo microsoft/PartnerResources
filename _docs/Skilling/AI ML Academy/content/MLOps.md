@@ -1,6 +1,7 @@
 ---
 layout: page
 title: AI & ML Academy - ML Engineering in Production (MLOps) 
+sorttitle: 05
 description: Workshop focused on AI and ML - ML Engineering in Production (MLOps) 
 permalink: /skilling/ai-ml-academy/mlops
 updated: 2022-10-17
@@ -10,7 +11,9 @@ tags:
 - data, analytics, and ai
 - artificial intelligence
 - machine learning
-- workshop
+- academy content
+- ai & ml academy
+- mlops
 ---
 
 # AI & ML Academy - ML Engineering in Production (MLOps) 

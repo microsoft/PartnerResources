@@ -19,13 +19,16 @@ tags:
 
 ## Content
 
-* [Module 1: Prebuilt AI](/PartnerResources/skilling/ai-ml-academy/prebuilt-ai)
-* [Module 2: Applied AI](/PartnerResources/skilling/ai-ml-academy/applied-ai)
-* [Module 3: Build Your Own AI](/PartnerResources/skilling/ai-ml-academy/build-your-own-ml)
-* [Module 4: ML Platform](/PartnerResources/skilling/ai-ml-academy/aml-plat)
-* [Module 5: ML Engineering in Production (MLOps)](/PartnerResources/skilling/ai-ml-academy/mlops)
+Welcome to the AI and ML Academy (AIA)! This academy includes 5 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions. The modules are:
 
-Welcome to the AI and ML Academy (AIA)! This academy includes 5 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions.
+{% include series.md 
+    includetags="ai & ml academy|academy content" 
+    includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false" 
+    visualstyle="navlist" showdescrip="false" removetext="AI & ML Academy - " 
+%}
+
+<div>&nbsp;</div>
 
 ## Live Schedule
 
@@ -84,16 +87,6 @@ Refer to links below for the module breakouts.
 ## Hands-on provisioned Environments
 
 We are not currently offering fully-hosted lab environments for AI & ML Academy, but this may change in the future as we expand the content. In the meantime, you can still run the labs in your own Azure subscription. These labs are listed below:
-
-<!--
-Want to go hands-on with a fully provisioned environment? Check out our AI & ML Academy lab environments hosted by Spektra Systems, available for a limited time. The environments are only available to United States based partners.
-
-* Sign-up link: [https://bit.ly/3COKiz1](https://bit.ly/3COKiz1)
-* Activation code: ACTIVATE1365
-
-The lab environments available are listed below. The source content is available if you'd like to see what's covered in each lab -- however, the lab environment will display all of this info for you as you progress through the lab. Once the lab environment is started, there is a limited time to complete the lab due to the number of resources provisioned. If you'd like to keep all of the assets as you go through the lab, we recommend following the lab guides listed below and deploy the resources into your Azure account. 
--->
-
 
 ## Contributions
 

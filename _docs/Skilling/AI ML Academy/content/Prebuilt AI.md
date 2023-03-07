@@ -1,6 +1,7 @@
 ---
 layout: page
 title: AI & ML Academy - Prebuilt AI
+sorttitle: 01
 description: Workshop focused on AI and ML - Prebuilt AI
 permalink: /skilling/ai-ml-academy/prebuilt-ai
 updated: 2022-10-17
@@ -10,7 +11,9 @@ tags:
 - data, analytics, and ai
 - artificial intelligence
 - machine learning
-- workshop
+- academy content
+- ai & ml academy
+- prebuilt ai
 ---
 
 # AI & ML Academy - Prebuilt AI
