@@ -22,7 +22,7 @@ This academy takes a Cloud PC lifecycle approach to organizing the content: _pla
 {% include series.md 
     includetags="windows 365 academy|academy content" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="true" 
     visualstyle="tiny"
 %}
 

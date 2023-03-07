@@ -20,6 +20,6 @@ Welcome to the Deployment bucket in the Windows 365 Academy. Here we will diging
 {% include series.md 
     includetags="windows 365 academy|academy content|deploying" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="true" 
     visualstyle="normal"
 %}
