@@ -3,7 +3,7 @@ layout: page
 title: Grow your Microsoft Cloud for Nonprofit business
 sorttitle: 04
 description: See resources available to reach more customers quickly.
-updated: 2023-03-03
+updated: 2023-03-06
 permalink: /industry/nonprofit/nonprofit-grow
 tags:
 - learning plan
@@ -51,16 +51,21 @@ If you publish a transactable offer for Azure or Teams, there are resources avai
  - [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/)
  - [Marketplace Office Hours](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners)
 
+### Offer setup considerations
+To ensure your offer is visible to the right nonprofit customers consider the following settings on the Properties tab of your offer:
+ - If your offer is relevant to nonprofit industry scenarios, choosing the “Nonprofit and IGO” industry will ensure that your offer appears with the industry filter:
+   - [AppSource - Nonprofit & IGO Apps](https://appsource.microsoft.com/en-US/marketplace/apps?exp=ubp8&filterTab=industries&industry=nonprofit)
+   - [AppSource - Nonprofit & IGO Services](https://appsource.microsoft.com/en-US/marketplace/consulting-services?exp=ubp8&industry=nonprofit)
+ - If your offer utilizes the Common Data Model for Nonprofits or a Microsoft Cloud for Nonprofit solution like Fundraising and Engagement or Volunteer Management, check the Microsoft Clouds for Industry checkbox and choose the “Nonprofit & IGO” industry to appear on the Microsoft Cloud for Nonprofit landing page:
+   - [AppSource - Microsoft Cloud for Nonprofit offers](https://appsource.microsoft.com/en-US/marketplace/cloudsIndustry?exp=ubp8&industry=nonprofit)
+
 ### Co-selling your offer
 The marketplace supports co-selling with Microsoft, as well as reselling through other partners in the ecosystem. For a full overview see:
  - [Co-sell with Microsoft sales teams and partners](https://learn.microsoft.com/en-us/partner-center/co-sell-overview?context=%2Fazure%2Fmarketplace%2Fcontext%2Fcontext)
  - Review [Co-sell requirements](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements?context=%2Fazure%2Fmarketplace%2Fcontext%2Fcontext) for more.
 
 Example offers:
- - Service offer: Fundraising and Engagement 30-day Implementation
- - Service offer: Nonprofit Data Migration Assessment
  - Dynamics 365 offer: Volunteer Screening for Volunteer Management
  - Dynamics 365 offer: Online Donations for Fundraising and Engagement
-
-### Offer setup considerations
-To ensure your offer is visible to the right nonprofit customers select the “Nonprofit and IGO” industry during offer setup and [choose appropriate categories](https://learn.microsoft.com/en-us/azure/marketplace/marketplace-categories-industries).
+ - Service offer: Fundraising and Engagement 30-day Implementation
+ - Service offer: Nonprofit Data Migration Assessment
