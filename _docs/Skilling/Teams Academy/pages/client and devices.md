@@ -20,7 +20,7 @@ Welcome to the Client & Devices bucket in the Teams Academy. As we all know, the
 {% include series.md 
     includetags="microsoft teams academy|academy content|client & devices" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" showtags="true" 
+    sortfield="updated" sortorder="desc" showdate="false" showtags="true" 
     visualstyle="normal" 
 %}
 

@@ -20,7 +20,7 @@ Welcome to the Security & Governance bucket in the Teams Academy. Here we will d
 {% include series.md 
     includetags="microsoft teams academy|academy content|security & compliance" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" showtags="true"
+    sortfield="updated" sortorder="desc" showdate="false" showtags="true"
     visualstyle="normal"
 %}
 
