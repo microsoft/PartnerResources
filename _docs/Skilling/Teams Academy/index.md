@@ -29,7 +29,7 @@ Welcome to the _Teams Academy_, where we focus on producing and publishing video
 {% include series.md 
     includetags="microsoft teams academy|academy content" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="true" 
     visualstyle="tiny"
 %}
 
