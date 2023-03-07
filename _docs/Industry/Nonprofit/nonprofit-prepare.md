@@ -3,7 +3,7 @@ layout: page
 title: Prepare to grow your business with Microsoft Cloud for Nonprofit
 sorttitle: 01
 description: Microsoft Cloud for Nonprofit aligns the capabilities of Microsoft 365, Power Platform, Dynamics 365, Azure, and LinkedIn.
-updated: 2023-02-06
+updated: 2023-03-03
 permalink: /industry/nonprofit/nonprofit-prepare
 tags:
 - learning plan
@@ -47,12 +47,14 @@ Prepare for your first opportunity by aligning to our go-to-market activities an
  - Familiarize yourself with pricing and support. The [Microsoft Cloud for Nonprofit Pricing Datasheet](https://aka.ms/MicrosoftCloudforNonprofitPricingDatasheet) outlines plans that include industry-specific 24/7 support.
 
 ### Develop your go-to-market materials
-Use the content above to develop your own go-to-market materials. Highlight how your approach ensures a successful implementation by addressing common project needs:
+Your go-to-market materials should highlight how your approach ensures customer success by addressing common project needs:
  - Industry expertise
  - Baseline deployment of the solutions
  - Configuration/customization
  - System integrations
  - Data migration
+
+Use the materials above with the additional templates and assetes avaialble to [target your customers](./nonprofit-grow.md#target-customers).
 
 ### Pick the right partner support plan
 There are several scenarios where having additional partner support will be important to your and your customers’ success:
@@ -87,7 +89,8 @@ Start with the [Microsoft Action Pack](https://partner.microsoft.com/en-us/partn
 
 Next, a user with Global Administrator role for the partner tenant may request additional free or discounted non-production licenses using the [Non-production Environment License Portal](https://experience.dynamics.com/requestlicense/) with the following considerations.
  - A single submission can include multiple licenses for the selected offer type.
- - See [All available discounted, free, and upcoming licenses](https://pbapstorageprod.blob.core.windows.net/protectedassets/Partner%20Sandbox%20Licenses%20SKU%20List.pdf?sv=2019-07-07&sr=b&sig=5QUD2WZ%2BpHCuWHxsdZrnWEllR5c%2F1q2Og7xXOrGYHgQ%3D&se=2023-02-22T19%3A01%3A41Z&sp=r) for details.
+ - To see all available discounted, free, and upcoming licenses click the "View SKUs" link on the page above.
+
 
 **Promotional Offer Type** | **Use** | **Relevant Licenses**
 :---|:---|:---

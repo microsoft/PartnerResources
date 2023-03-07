@@ -2,7 +2,7 @@
 layout: page
 title: Threat Protection
 description: Resources for Microsoft Threat Protection
-updated: 2023-02-13
+updated: 2023-03-03
 permalink: /security/threat-protection
 tags:
 - security
@@ -12,7 +12,7 @@ tags:
 ---
 
 # Threat Protection Readiness Resources
-Below you will find content to assist in upskilling on Threat Protection. Content is organized by increasing level of complexity (Fundamentals, Associate, Expert).
+Below you will find content to assist in upskilling on Threat Protection. Content is organized by increasing level of complexity (Fundamentals, Associate).
 
 ## Fundamentals
 * [Azure Threat Protection Overview - Microsoft Docs](https://learn.microsoft.com/en-us/azure/security/fundamentals/threat-detection)

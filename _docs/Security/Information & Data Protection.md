@@ -2,7 +2,7 @@
 layout: page
 title: Information & Data Protection
 description: Resources for Information and Data Protection
-updated: 2023-02-13
+updated: 2023-03-03
 permalink: /security/information-and-data-protection
 tags:
 - security
@@ -12,7 +12,7 @@ tags:
 ---
 
 # Information & Data Protection Readiness Resources
-Below you will find content to assist in upskilling on Information and Data Protection. Content is organized by increasing levels of complexity (Fundamentals, Associate, Expert).
+Below you will find content to assist in upskilling on Information and Data Protection. Content is organized by increasing levels of complexity (Fundamentals, Associate).
 
 ## Fundamentals
 * [Azure Information Protection (AIP) Documentation - Microsoft Docs](https://learn.microsoft.com/en-us/azure/information-protection/)
