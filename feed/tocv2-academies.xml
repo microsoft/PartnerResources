@@ -9,7 +9,7 @@ permalink: /feed/tocv2-academies.xml
 {% assign tmp_docs = filtered_docs | sort: "url" %}
 <urlset>
   {% for doc in tmp_docs %}
-  {% unless doc.tags contains "deprecated" or doc.tags contains "sample academy" %}
+  {% unless doc.tags contains "deprecated" or doc.tags contains "sample academy" or doc.tags contains "academy template" %}
   {% if doc.nav_exclude != true %}
   <url>
   <loc>{{ doc.permalink | absolute_url | xml_escape }}</loc>
