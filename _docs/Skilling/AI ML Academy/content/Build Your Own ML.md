@@ -1,6 +1,7 @@
 ---
 layout: page
 title: AI & ML Academy - Build Your Own ML
+sorttitle: 03
 description: Workshop focused on AI and ML - Build Your Own ML
 permalink: /skilling/ai-ml-academy/build-your-own-ml
 updated: 2022-10-17
@@ -10,7 +11,9 @@ tags:
 - data, analytics, and ai
 - artificial intelligence
 - machine learning
-- workshop
+- academy content
+- ai & ml academy
+- build your own ml
 ---
 
 # AI & ML Academy - Build Your Own ML
