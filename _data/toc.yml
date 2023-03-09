@@ -230,6 +230,9 @@
         - title: Deploying
           url: "skilling/windows-365-academy/deploying"
           tag: w365 deploying
+     - title: "Partner Showcase"
+      url: "skilling/microsoft-partner-showcase"
+      tag: partnershowcase
 - title: Skilling & Hands-on
   url: "skilling/"
   tag: workshop
