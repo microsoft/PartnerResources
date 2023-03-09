@@ -9,6 +9,7 @@
   Order of Nav: section > entry > area > subarea
   {% endcomment %}  
   {% for section in site.data.toc %}
+
     <ul class="td-sidebar-nav__section pr-md-3">
     {% capture sectionUrl %}{{ section.url | replace: "/", "" }}{% endcapture %}
     {% capture pageUrl %}{{ page.url | replace: "/", "" }}{% endcapture %}
@@ -24,7 +25,6 @@
                 {% assign isCurrentSubarea = false %}
                 {% assign cleanedPage = page.url | remove: "/" %}
                 {% assign cleanedEntry = entry.url | remove: "/" %}
-
                 {% capture sectionHead %}<ul><li class="collapse show" id="sidebar_{{ child.title | slugify }}">{% endcapture %}
                 {% capture sectionTail %}</li></ul>{% endcapture %}
                 {% assign sectionText = sectionHead %}
@@ -39,23 +39,35 @@
                       {% assign subareaText = "" %} 
                       {% assign isCurrentSubarea = false %}
                       {% assign isCurrentArea = false %}
-                      {% if area.children %}  
-                      {% for subarea in area.children %}
-                        {% if subarea.url %}{% assign linkUrl = site.baseurl | append: "/" | append: subarea.url %}{% else %}{% assign linkUrl = subarea.external_url %}{% endif %}
-                        {% assign cleanedChild = subarea.url | remove: "/" %}
-                        {% if cleanedPage == cleanedChild %}
-                          {% assign isCurrentSubarea = true %}
+                      {% if area.children %}
+                        {% for subarea in area.children %}
+                          {% if subarea.url %}{% assign linkUrl = site.baseurl | append: "/" | append: subarea.url %}{% else %}{% assign linkUrl = subarea.external_url %}{% endif %}
+                          {% assign cleanedChild = subarea.url | remove: "/" %}
+                          {% if cleanedPage == cleanedChild %}
+                            {% assign isCurrentSubarea = true %}
+                            {% assign isCurrentArea = true %}
+                            {% assign isCurrentEntry = true %}
+                            {% capture subareaFragment %}<a class="td-sidebar-link td-sidebar-link__page_strong " style="padding-left:10px;" id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ subarea.title | slugify }}" href="{{ linkUrl }}">{{ subarea.title }}</a>{% endcapture %}
+                          {% else %}
+                            {% assign isCurrentSubarea = false %}
+                            {% capture subareaFragment %}<a class="td-sidebar-link td-sidebar-link__page " style="padding-left:10px;" id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ subarea.title | slugify }}" href="{{ linkUrl }}">{{ subarea.title }}</a>{% endcapture %}
+                          {% endif %}
+                          {% assign subareaText = subareaText | append: subareaFragment %}
+                        {% endfor %}
+                      {% else %}
+                        {% comment %}
+                         No third level areas, but might be matching page
+                        {% endcomment %}  
+
+                        {% assign testUrl = "/" | append: area.url | append: "/" %}
+
+                        {% if page.url contains testUrl %} 
                           {% assign isCurrentArea = true %}
                           {% assign isCurrentEntry = true %}
-                          {% capture subareaFragment %}<a class="td-sidebar-link td-sidebar-link__page_strong " style="padding-left:10px;" id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ subarea.title | slugify }}" href="{{ linkUrl }}">{{ subarea.title }}</a>{% endcapture %}
-                        {% else %}
-                          {% assign isCurrentSubarea = false %}
-                          {% capture subareaFragment %}<a class="td-sidebar-link td-sidebar-link__page " style="padding-left:10px;" id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ subarea.title | slugify }}" href="{{ linkUrl }}">{{ subarea.title }}</a>{% endcapture %}
-                        {% endif %}
-                        {% assign subareaText = subareaText | append: subareaFragment %}
-                      {% endfor %}
-                      {% endif %}
+                        {% endif %} 
 
+                      {% endif %}
+                  
                       {% if area.url %}{% assign linkUrl = site.baseurl | append: "/" | append: area.url %}{% else %}{% assign linkUrl = area.external_url %}{% endif %}
                       {% assign cleanedChild = area.url | remove: "/" %}
                       {% if cleanedPage == cleanedChild %}{% assign isCurrentArea = true %}{% endif %}
@@ -91,6 +103,7 @@
       </ul>
     {% endif %}
   </ul>
+  
   {% endfor %}
 </nav>
 </div>
