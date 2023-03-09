@@ -4,8 +4,9 @@ title: Modern Analytics Academy - Data Pipelines
 sorttitle: 3 Modern Analytics Academy - Data Pipelines
 description: In Data Pipelines, we'll look at the definition and key concepts of creating a data pipeline. We will dive into four Microsoft cloud resources, including Azure Data Factory, Azure Synapse Data Pipelines, Power BI Data Flow, and Azure Streaming Analytics. Lastly, we will review the comparison metrics to help you decide which service to choose for your scenario.
 updated: 2021-12-16
-permalink: /skilling/modern-analytics-academy/data-pipelines
+permalink: /skilling/modern-analytics-academy/core-sessions/data-pipelines
 redirect_from:
+  - /skilling/modern-analytics-academy/data-pipelines
   - /azure/data-analytics-ai/modern-analytics-academy-data-pipelines
   - /skilling/data-analytics-ai/modern-analytics-academy-data-pipelines
 showbreadcrumb: true

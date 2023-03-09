@@ -4,8 +4,9 @@ title: Modern Analytics Academy - Acquisition and Storage
 sorttitle: 1 Modern Analytics Academy - Acquisition and Storage
 description: In Data Acquisition and Storage we’ll look at the nuances of how to integrate source systems to move data into Azure for long term retention and analysis. Technologies include Azure Data Lake, Azure Cosmos DB, Azure Event Hubs, and Azure Synapse Analytics.
 updated: 2021-12-16
-permalink: /skilling/modern-analytics-academy/data-acquisition
+permalink: /skilling/modern-analytics-academy/core-sessions/data-acquisition
 redirect_from:
+  - /skilling/modern-analytics-academy/data-acquisition
   - /skilling/data-analytics-ai/modern-analytics-academy-data-acquisition
   - /azure/data-analytics-ai/modern-analytics-academy-data-acquisition
 showbreadcrumb: true
