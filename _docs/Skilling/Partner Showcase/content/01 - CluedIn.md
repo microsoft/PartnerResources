@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Partner Showcase - CluedIn
 sorttitle: Microsoft Partner Showcase - CluedIn
 description: In this Microsoft Partner Showcase, we're joined by Tim Ward, CEO of CluedIn, who shares his insights on data governance, master data management, and gives a great demo showcasing a common data management problem.
-updated: 2022-03-09
+updated: 2023-03-09
 permalink: /skilling/microsoft-partner-showcase/cluedin
 youtubeid: 0baHJ2YR7Ew
 tags: 
