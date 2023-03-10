@@ -383,10 +383,10 @@
     <div>
     {% comment %}
     Native youtube thumbnail is 320x180 from mqdefault.jpg
-    0.jpg has back bars
+    0.jpg has back bars, and typically 480x360
     {% endcomment %}
     {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}" 
-    {% if target.size > 0 %}target={{target}}{% endif %}><img width="180" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="float:left; padding-right:15px;"/></a>
+    {% if target.size > 0 %}target={{target}}{% endif %}><img width="180" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;float:left; padding-right:15px;"/></a>
     {% endif %}
     {{ doc.description }}
     {% if showLink == "true" %}
