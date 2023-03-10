@@ -7,5 +7,5 @@
 ----------------------------------------------------
 {% endcomment %}
 
-<a href="https://www.youtube.com/watch?v={{ page.youtubeid }}" {% if include.target.size > 0 %}target={{target}}{% endif %}><img src="https://img.youtube.com/vi/{{ page.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;"/></a>
+<a alt="{{ page.title }}" href="https://www.youtube.com/watch?v={{ page.youtubeid }}" {% if include.target.size > 0 %}target={{target}}{% endif %}><img src="https://img.youtube.com/vi/{{ page.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;"/><br/>Watch on YouTube</a>
 

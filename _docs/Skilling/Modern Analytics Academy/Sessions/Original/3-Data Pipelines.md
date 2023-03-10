@@ -33,7 +33,8 @@ In Data Pipeline, we'll look at the definition and key concepts of creating a da
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PL8_VXqhvJI9DtxeuFmmQ0V6Z_zL0MXnnI)
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
-[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
+{% include youtubethumb.md 
+%}
 
 ## Hands-on Content
 
