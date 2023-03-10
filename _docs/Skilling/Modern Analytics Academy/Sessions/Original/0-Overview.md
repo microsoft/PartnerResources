@@ -20,11 +20,9 @@ tags:
 - synapse
 ---
 
-# Modern Analytics Academy - Overview
+# {{ page.title }}
 
-Welcome to the Modern Analytics Academy (MAA) Overview!
-
-The Overview session is designed to give an overall picture of modern analytics in Azure -- understanding the business needs in a modern organization, and understanding the choices available in the Azure platform. We'll answer many of the "why" questions in this high level presentation. 
+{{ page.description }}
 
 ## Main Presentation
 
@@ -32,7 +30,8 @@ The Overview session is designed to give an overall picture of modern analytics 
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PL8_VXqhvJI9DtxeuFmmQ0V6Z_zL0MXnnI)
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
-[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
+{% include youtubethumb.md 
+%}
 
 ## Hands-on Content
 
