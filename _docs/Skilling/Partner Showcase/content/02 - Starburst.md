@@ -9,8 +9,8 @@ youtubeid: WKUUTmOd66I
 tags: 
  - showcase content
  - microsoft partner showcase
- - data governance
- - master data management
+ - data, analytics, and ai
+ - data mesh
 ---
 
 # {{ page.title }}
