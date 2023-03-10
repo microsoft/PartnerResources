@@ -380,18 +380,20 @@
     {% if showTags == "true" %}
     <div style="padding-bottom: 5px;">{% for tag in filteredtags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
     {% endif %}
-    <div>
+    <div style="padding-top: 2px;">
     {% comment %}
     Native youtube thumbnail is 320x180 from mqdefault.jpg
     0.jpg has back bars, and typically 480x360
     {% endcomment %}
     {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}" 
-    {% if target.size > 0 %}target={{target}}{% endif %}><img width="180" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;float:left; padding-right:15px;"/></a>
+    {% if target.size > 0 %}target={{target}}{% endif %}><img width="180" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;float:left;"/></a>
     {% endif %}
+    <span style="padding-left: 15px;">
     {{ doc.description }}
     {% if showLink == "true" %}
         <a href="{{- site.baseurl -}}{{- doc.url -}}">more &#187;</a> 
     {% endif %}
+    </span>
     </div>
 </div>
 <div style="clear:both; padding-top: 20px; padding-bottom: 0px;">
