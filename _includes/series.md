@@ -361,7 +361,7 @@
 {{ doc.description }}
 </div>
 {% endif %}
-g
+
 {% else %}
 {% comment %}
     Assume the visualstyle is "normal" if not matching any other
@@ -381,8 +381,12 @@ g
     <div style="padding-bottom: 5px;">{% for tag in filteredtags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
     {% endif %}
     <div>
+    {% comment %}
+    Native youtube thumbnail is 320x180 from mqdefault.jpg
+    0.jpg has back bars
+    {% endcomment %}
     {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}" 
-    {% if target.size > 0 %}target={{target}}{% endif %}><img width="160" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/0.jpg" style="float:left; padding-right:15px;"/></a>
+    {% if target.size > 0 %}target={{target}}{% endif %}><img width="180" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="float:left; padding-right:15px;"/></a>
     {% endif %}
     {{ doc.description }}
     {% if showLink == "true" %}
