@@ -386,9 +386,9 @@
     0.jpg has back bars, and typically 480x360
     {% endcomment %}
     {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}" 
-    {% if target.size > 0 %}target={{target}}{% endif %}><img width="180" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;float:left;"/></a>
+    {% if target.size > 0 %}target={{target}}{% endif %}><img width="180" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;float:left; margin-right:15px;"/></a>
     {% endif %}
-    <span style="padding-left: 15px;">
+    <span>
     {{ doc.description }}
     {% if showLink == "true" %}
         <a href="{{- site.baseurl -}}{{- doc.url -}}">more &#187;</a> 
