@@ -130,7 +130,7 @@
         - title: Teams
           url: "skilling/business-central-academy/teams"
           tag: bca teams
-     - title: "D365 Marketing Academy"
+    - title: "D365 Marketing Academy"
       url: "skilling/d365-marketing-academy"
       tag: d365 marketing academy
       children:
