@@ -36,10 +36,10 @@ use include.type to switch between thumbnail and embedded iframe player
 
 {% if defaultType == "thumbnail" %}
 
-<a alt="{{ page.title }}" href="https://www.youtube.com/watch?v={{ page.youtubeid }}" {% if include.target.size > 0 %}target={{target}}{% endif %}><img src="https://img.youtube.com/vi/{{ page.youtubeid }}/{{ thumbnailImage }}" style="border: 1px solid black;"/><br/>Watch on YouTube</a>
+<a alt="{{ page.title }}" href="https://www.youtube.com/watch?v={{ youtubeid }}" {% if include.target.size > 0 %}target={{target}}{% endif %}><img src="https://img.youtube.com/vi/{{ youtubeid }}/{{ thumbnailImage }}" style="border: 1px solid black;"/><br/>Watch on YouTube</a>
 
 {% else %}
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/{{ page.youtubeid }}" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/{{ youtubeid }}" frameborder="0" allowfullscreen></iframe>
 
 {% endif %}
