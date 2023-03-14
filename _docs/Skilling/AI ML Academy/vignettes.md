@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AI & ML Academy Home
-description: Workshop focused on AI & ML
+title: AI & ML Academy Vignettes
+description: The AI & ML Academy is focused on Artificial Intelligence and Machine Learning on the Microsoft Azure platform. 
 permalink: /skilling/ai-ml-academy/vignettes
 updated: 2023-03-14
 showbreadcrumb: true
@@ -13,11 +13,11 @@ tags:
 - academy page
 ---
 
-# AI & ML Academy
+# AI & ML Academy Vignettes
 
-## Content
+## Vignette Sessions
 
-Welcome to the AI and ML Academy (AIA)! This academy includes 5 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions. The modules are:
+In our AI & ML Academy Vignettes, we extend the content of the original series by including modules on current topics related to artificial intelligence and machine learning. 
 
 {% include series.md 
     includetags="ai & ml academy|academy content|vignettes" 

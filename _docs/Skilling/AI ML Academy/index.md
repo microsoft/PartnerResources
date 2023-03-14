@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI & ML Academy Home
-description: Workshop focused on AI & ML
+description: The AI & ML Academy is focused on Artificial Intelligence and Machine Learning on the Microsoft Azure platform. 
 permalink: /skilling/ai-ml-academy
 redirect_from:
   - /skilling/ai-ml-academy/
