@@ -12,6 +12,7 @@ tags:
 - artificial intelligence
 - machine learning
 - academy content
+- ai & ml academy module
 - ai & ml academy
 - aml platform
 ---

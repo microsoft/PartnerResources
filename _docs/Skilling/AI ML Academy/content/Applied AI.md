@@ -13,6 +13,7 @@ tags:
 - machine learning
 - academy content
 - ai & ml academy
+- ai & ml academy module
 - applied ai
 ---
 
