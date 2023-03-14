@@ -105,6 +105,9 @@
         - title: ML Engineering in Production (MLOPS)
           url: "skilling/ai-ml-academy/mlops"
           tag: aiml mlops
+        - title: Ongoing Vignettes
+          url: "skilling/ai-ml-academy/vignettes"
+          tag: aiml mlops
     - title: "Azure Data Academy"
       url: "skilling/azure-data-academy"
       tag: azure data academy
@@ -267,6 +270,9 @@
         - title: Deploying
           url: "skilling/windows-365-academy/deploying"
           tag: w365 deploying
+    - title: "Partner Showcase"
+      url: "skilling/microsoft-partner-showcase"
+      tag: partnershowcase
 - title: Skilling & Hands-on
   url: "skilling/"
   tag: workshop
