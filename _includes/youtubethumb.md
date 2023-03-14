@@ -28,6 +28,6 @@ use include.type to switch between thumbnail and embedded iframe player
 
 {% else %}
 
-<iframe width="720" height="405" src="http://www.youtube.com/embed/{{ page.youtubeid }}" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/{{ page.youtubeid }}" frameborder="0" allowfullscreen></iframe>
 
 {% endif %}
