@@ -28,6 +28,8 @@ Welcome to the AI and ML Academy (AIA)! This academy includes 5 modules, all of 
     visualstyle="navlist" showdescrip="false" removetext="AI & ML Academy - " 
 %}
 
+<div>&nbsp;</div>
+
 ## Vignettes
 
 Our [ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes) continue the series by looking at the latest AI & ML topics:
