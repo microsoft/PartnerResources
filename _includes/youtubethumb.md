@@ -14,12 +14,24 @@ use include.type to switch between thumbnail and embedded iframe player
 
 {% assign defaultType = "iframe" %}
 {% assign thumbnailImage = "mqdefault.jpg" %}
+{% assign youtubeid = "" %}
 
 {% if include.type %}
     {% assign defaultType = include.type %}
 {% endif %}
 {% if include.thumbnailImage %}
     {% assign thumbnailImage = include.thumbnailImage %}
+{% endif %}
+
+{% comment %}
+    assign youtubeid to the page's youtubeid, 
+    unless overriden directly by include.youtubeid
+{% endcomment %}
+{% if page.youtubeid %}
+    {% assign youtubeid = page.youtubeid %}
+{% endif %}
+{% if include.youtubeid %}
+    {% assign youtubeid = include.youtubeid %}
 {% endif %}
 
 {% if defaultType == "thumbnail" %}
