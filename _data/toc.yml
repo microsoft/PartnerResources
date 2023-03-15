@@ -141,8 +141,8 @@
           url: "skilling/d365-marketing-academy/create-trial"
           tag: d365 marketing academy createtrial
         - title: Optimize Trial
-          url: "skilling/d365-marketing-academy/gettingstarted"
-          tag: d365 marketing academy gettingstarted
+          url: "skilling/d365-marketing-academy/optimizetrial"
+          tag: d365 marketing academy optimizetrial
         - title: Segments
           url: "skilling/d365-marketing-academy/segments"
           tag: d365 marketing academy segments

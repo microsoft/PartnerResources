@@ -1,7 +1,7 @@
 ---
 layout: page
 title: D365 Marketing in a Day - Optimize Trial
-description: D365 Marketing Academy - Optoimize Trial
+description: D365 Marketing Academy - Optimize Trial
 permalink: /skilling/d365-marketing-academy/optimizetrial
 showbreadcrumb: true
 ---
