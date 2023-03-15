@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D365 Marketing in a Day - Optimizing Your Trial Environment
+title: D365 Marketing in a Day - Create a Trial
 sorttitle: 00 D365 Marketing - Create a Trial
 description: Provides partners with guidance on how to create a D365 Marketing trial.
 updated: 2023-03-15
