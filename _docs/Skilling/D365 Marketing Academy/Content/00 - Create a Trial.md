@@ -5,7 +5,7 @@ sorttitle: 00 D365 Marketing - Create a Trial
 description: Provides partners with guidance on how to create a D365 Marketing trial.
 updated: 2023-03-15
 permalink: /skilling/d365-marketing-academy/content/create-trial
-youtubeid: MqWTl96GVgM
+youtubeid: VqFoAnUN9O4
 tags: 
 - d365 marketing academy
 - academy content
