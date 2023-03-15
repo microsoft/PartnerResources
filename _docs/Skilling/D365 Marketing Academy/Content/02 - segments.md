@@ -2,7 +2,7 @@
 layout: page
 title: D365 Marketing in a Day - Working with Segments
 sorttitle: 02 D365 Marketing - Working with Segments
-description: This video titled, Working with Segments, follows the process of creating a variety of Segments to leverage in  Customer journeys. 
+description: This video titled, <strong>Working with Segments</strong>, follows the process of creating a variety of Segments to leverage in  Customer journeys. 
 updated: 2023-01-31
 permalink: /skilling/d365-marketing-academy/content/segments
 youtubeid: XcuepPko07A
