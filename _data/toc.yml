@@ -137,6 +137,9 @@
       url: "skilling/d365-marketing-academy"
       tag: d365 marketing academy
       children:
+        - title: Create Trial
+          url: "skilling/d365-marketing-academy/create-trial"
+          tag: d365 marketing academy createtrial
         - title: Getting Started
           url: "skilling/d365-marketing-academy/gettingstarted"
           tag: d365 marketing academy gettingstarted
