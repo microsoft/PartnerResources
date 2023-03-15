@@ -140,7 +140,7 @@
         - title: Create Trial
           url: "skilling/d365-marketing-academy/create-trial"
           tag: d365 marketing academy createtrial
-        - title: Getting Started
+        - title: Optimize Trial
           url: "skilling/d365-marketing-academy/gettingstarted"
           tag: d365 marketing academy gettingstarted
         - title: Segments
@@ -164,9 +164,6 @@
         - title: Journeys
           url: "skilling/d365-marketing-academy/journeys"
           tag: d365 marketing academy journeys
-        - title: Events
-          url: "skilling/d365-marketing-academy/events"
-          tag: d365 marketing academy events
         - title: Lead Scoring
           url: "skilling/d365-marketing-academy/leadscoring"
           tag: d365 marketing academy leadscoring

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: D365 Marketing in a Day - Getting Started
-description: D365 Marketing Academy - Getting Started
-permalink: /skilling/d365-marketing-academy/gettingstarted
+title: D365 Marketing in a Day - Optimize Trial
+description: D365 Marketing Academy - Optoimize Trial
+permalink: /skilling/d365-marketing-academy/optimizetrial
 showbreadcrumb: true
 ---
 
