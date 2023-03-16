@@ -2,7 +2,7 @@
 layout: page
 title: Azure VMware Solution (AVS)
 description: Resources for Azure VMware Solution (AVS)
-updated: 2023-02-24
+updated: 2023-03-15
 permalink: /azure/infrastructure/azure-vmware-solution
 tags: 
 - learning plan
@@ -15,7 +15,9 @@ tags:
 ## Most Recent Updates
 * [What's new in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-platform-updates)
 * [Azure VMware Solution Roadmap](https://aka.ms/avsroadmap)
-* Blog Posts: [November 2022](https://azure.microsoft.com/en-us/blog/announcing-more-azure-vmware-solution-enhancements/)
+* Blog Posts: [March 2023](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-march-2023-what-s-new-update/ba-p/3766739)
+ | [February 2023](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-february-2023-what-s-new-update/ba-p/3734890)
+ | [November 2022](https://azure.microsoft.com/en-us/blog/announcing-more-azure-vmware-solution-enhancements/)
  | [October 2022](https://techcommunity.microsoft.com/t5/azure-migration-and/what-s-new-in-azure-vmware-solution-october-2022/ba-p/3645077)
  | [August 2022](https://azure.microsoft.com/en-us/blog/announcing-new-enhancements-for-azure-vmware-solution/)
 
@@ -102,11 +104,13 @@ tags:
 * [AVS Customer Success Stories](https://aka.ms/AVSCustomerSuccess)
 
 ## Technical Resources
+
 ### Planning 
 * [AVS Poster](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-avs-logical-design-deployment-connectivity.pdf)
 * [AVS Deployment Checklist](https://learn.microsoft.com/en-us/azure/azure-vmware/production-ready-deployment-steps)
 * [AVS Networking Checklist](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-network-checklist)
 * [Azure Migrate Assessment for AVS](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmware-solution-assessment)
+* [AVS Checklist (Azure FastTrack Team](https://aka.ms/avschecklists)
 
 ### Design Considerations
 * [Availability Design Considerations](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-availability-design-considerations/ba-p/3682915)
