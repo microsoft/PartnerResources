@@ -17,5 +17,6 @@ Watch this brief video titled **Optimzing Your Trial Environment** to understand
     visualstyle="normal" target="_blank" showlink="false"
 %}
 
+### Supporting Resources for these videos
 * <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/help-hub" target="_blank">Dynamics 365 Marketing Hub
 * <a href="https://www.microsoft.com/partner-training/en-us" target="_blank">Visit "aka.ms/EnableUS" for all upcoming partner enablement events
