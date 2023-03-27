@@ -2,7 +2,7 @@
 layout: page
 title: Use Azure WAF Policies to Protect Your Web Applications
 sorttitle: 3
-description: Learn how to protect your applications from common OWASP top 10 attacks with cloud-native Azure Web Application Firewall. Explore how to deploy the service in minutes to get complete visibility into your environment and block malicious attacks with managed rule sets.
+description: Learn how to protect your applications from common OWASP top ten attacks with cloud-native Azure Web Application Firewall. Explore how to deploy the service in minutes to get complete visibility into your environment and block malicious attacks with managed rule sets.
 updated: 2023-03-28
 permalink: /skilling/microsoft-security-academy/network-academy-waf
 youtubeid: kf8O3_yqvcs

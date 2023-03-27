@@ -2,7 +2,7 @@
 layout: page
 title: Introduction to Multicloud Security with Microsoft Defender for Cloud
 sorttitle: 1
-description: An introduction session for Microsoft Defender for Cloud, exploring key security challenges facing the industry, Defender for Cloud's core features, its comprehensive protection across varying workloads, along with a demo showcasing baseline capabilities for all your Azure, on-premises, and multicloud resources.
+description: An introduction session for Microsoft Defender for Cloud, exploring key security challenges facing the industry, Defender for Cloud's core features, its comprehensive protection across varying workloads, along with a demo highlighting baseline capabilities for all your Azure, on-premises, and multicloud resources.
 updated: 2023-03-28
 permalink: /skilling/microsoft-security-academy/defender-academy-intro
 youtubeid: eR-_apPEXF8
