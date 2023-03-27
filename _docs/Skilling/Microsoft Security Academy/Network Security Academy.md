@@ -3,7 +3,7 @@ layout: page
 title: Cloud Security - Azure Network Security Academy
 description: Microsoft Security Academy Cloud Security.
 permalink: /skilling/microsoft-security-academy/network-academy
-updated: 2023-02-21
+updated: 2023-03-28
 showbreadcrumb: true
 tags: 
 - academy content
