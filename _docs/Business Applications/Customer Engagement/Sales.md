@@ -2,7 +2,7 @@
 layout: page
 title: D365 Sales
 description: Resources for Dynamics 365 Sales
-updated: 2021-12-01
+updated: 2023-03-27
 permalink: /business-applications/customer-engagement/sales
 tags:
 - learning plan
@@ -22,6 +22,7 @@ Below you will find content to assist in upskilling on Dynamics 365 Sales and Dy
 * Events:  Partner on-demand readiness sessions
 * Community Resources:  user groups, blogs, documentation
 * Certifications:  relevant Microsoft exams or certifications
+* [Viva Sales Academy](https://microsoft.github.io/PartnerResources/skilling/d365-sales-academy)
 
 Additionally, some content may be mared with one or more icons:
 
