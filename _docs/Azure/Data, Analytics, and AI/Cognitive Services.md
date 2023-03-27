@@ -16,79 +16,56 @@ tags:
 
 ## Fundamentals
 
-* [US OCP Level 100 Examples](https://github.com/ChrisKahrs/OCP-AI-Links/tree/master/3-Cognitive-Search) (Self-Paced) (2 Hours)
+Go through an overview of all the cognitive service pillars, sample use cases, as well as how to start working with some of these services through a unified studio experience.
+
+### Overview
+* [Azure Cognitive Services Guide](https://learn.microsoft.com/en-us/azure/cognitive-services/)
+
+### Use Cases 
+* [Captioning with speech to text](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/captioning-concepts?pivots=programming-language-csharp)
+* [Call Center Overview](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/call-center-overview)
+
+### How to get started in the Azure Studio
+* [Vision Studio](https://portal.vision.cognitive.azure.com/gallery/featured)
+* [Speech Studio](https://speech.microsoft.com/)
+* [Language Studio](https://language.cognitive.azure.com/)
+
 
 ## Associate
 
-* [eBook: Learning Azure Cognitive Services](https://azure.microsoft.com/en-us/resources/learning-azure-cognitive-services/) (Self-Paced) (1 Day)
+### Vision
+
+### Speech 
+
+### Language 
+
+### Decision
 
 ## Expert
 
-* Vision
-Computer Vision:  
+### Vision
 
-Overview: 
+### Speech 
 
-https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview 
+### Language 
 
-Get started analyzing images with the API: Microsoft Azure AI Fundamentals: Explore computer vision - Training | Microsoft Learn 
+### Decision
 
+## Specialist 
 
-1. OCR: 
+### Speech 
 
- OCR - Optical Character Recognition - Azure Cognitive Services | Microsoft Learn 
+### Langugae 
 
-Applied AI: Computer Vision and Optical Character Recognition (OCR) 
+### Vision
 
-
-2. Image Analysis: 
-
- https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-image-analysis  
-
-Next-Generation Computer Vision Capabilities with Project Florence 
-
-
-3. Face: 
-
- https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-identity  
-
-Detect and analyze faces with the Face service - Training | Microsoft Learn 
-
-Face API Transparency Note (March 2019).pdf (microsoft.com) 
-
-
-4. Spatial Analysis: 
-
- What is Spatial Analysis? - Azure Cognitive Services | Microsoft Learn  
- 
-
-5. Visual Search 
-
-Visual Search Toolkit with Azure AI 
-
-
-Custom Vision: 
-
-Overview 
-
-Get started analyzing images with the API: Use AI to recognize objects in images by using the Custom Vision service - Training | Microsoft Learn 
-
-Get started classifying images using the Custom Vision service: Classify images with the Custom Vision service - Training | Microsoft Learn 
-
-https://learn.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/overview   
-
- 
-* Speech
-* Language 
-* Decision
+### Decision
 
 ## Community Resources
 
-* .
 
 ## Events
 
-* .
 
 ## Certifications
 
