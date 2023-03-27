@@ -1,7 +1,8 @@
 ---
 layout: page
-title: D365 Commerce Academy - Home
-description: D365 Commerce Academy - Home
+title: D365 Commerce Academy - Academy Home
+sorttitle: 01
+description: D365 Commerce Academy - Academy Home
 permalink: /skilling/d365-commerce-academy/
 updated: 2023-03-27
 showbreadcrumb: true
@@ -27,7 +28,7 @@ All pags in this acadey:
 All sessions currently in this academy:
 
 {% include series.md 
-    includetags="d365 commerce academy|academy content|digital commerce" 
+    includetags="d365 commerce academy|academy content" 
     includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="false" 
     showtags="true" visualstyle="tiny" 
