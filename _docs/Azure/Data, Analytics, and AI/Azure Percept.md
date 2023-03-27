@@ -16,7 +16,7 @@ tags:
 # Azure Percept Readiness Resources
 
 ## Announcements/updates
-* [Azure Percept DK Retirement Announcement](https://azure.microsoft.com/en-us/updates/azure-percept-dk-retirement-announcement/)
+* [Azure Percept DK Retirement Announcement](https://azure.microsoft.com/en-us/updates/azure-percept-dk-retirement-announcement/) - 
 **Update 22 February 2023: A firmware update for the Percept DK Vision and Audio accessory components (also known as Vision and Audio SOM) is now available here, and will enable the accessory components to continue functioning beyond the retirement date. The Azure Percept preview including the Percept DK, Audio Accessory, and associated supporting Azure services for the Percept DK will be retired March 30th, 2023.**
 
 ## Fundamentals
