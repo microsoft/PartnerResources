@@ -133,6 +133,19 @@
         - title: Teams
           url: "skilling/business-central-academy/teams"
           tag: bca teams
+    - title: "D365 Commerce Academy"
+      url: "skilling/d365-commerce-academy"
+      tag: d365 commerce academy
+      children:
+        - title: Commerce Headquarters
+          url: "skilling/d365-commerce-academy/commerce-hq"
+          tag: d365 commerce hq
+        - title: Digital Commerce
+          url: "skilling/d365-commerce-academy/digital-commerce"
+          tag: d365 digital commerce
+        - title: E-commerce Extensibility
+          url: "skilling/d365-commerce-academy/ecommerce"
+          tag: d365 ecommerce
     - title: "D365 Marketing Academy"
       url: "skilling/d365-marketing-academy"
       tag: d365 marketing academy
