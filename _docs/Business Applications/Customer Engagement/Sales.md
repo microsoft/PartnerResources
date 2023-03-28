@@ -23,6 +23,7 @@ Below you will find content to assist in upskilling on Dynamics 365 Sales and Dy
 * Community Resources:  user groups, blogs, documentation
 * Certifications:  relevant Microsoft exams or certifications
 * [Viva Sales Academy](https://microsoft.github.io/PartnerResources/skilling/d365-sales-academy)
+* [Copilot With Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/)
 
 Additionally, some content may be mared with one or more icons:
 
