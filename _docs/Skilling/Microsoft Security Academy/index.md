@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2023-02-20
+updated: 2023-03-28
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -21,7 +21,7 @@ Welcome to the Microsoft Security Academy! This academy is organized into five p
 
 
 ## Organization
-![MSA Organizational Chart]({{ site.baseurl }}/assets\asa\MSA Org. Chart 2.jpg)
+![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Org. Chart 2.jpg)
 
 ## Important Updates
 We'll update this section with our upcoming events or critical content! For other Microsoft Security content, explore the [Microsoft Security Youtube](https://www.youtube.com/@MicrosoftSecurity/featured) or the [Microsoft Security Community YouTube](https://www.youtube.com/channel/UCGTUbqE3SJiLgtvWjIkSQuQ). For documentation, explore the [Microsoft Security Technical Content Library](https://www.microsoft.com/en-us/security/content-library/Home/Index?culture=en-US).
