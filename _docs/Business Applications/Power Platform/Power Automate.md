@@ -2,7 +2,7 @@
 layout: page
 title: Power Automate
 description: Resources for Power Automate
-updated: 2022-11-28
+updated: 2023-03-28
 permalink: /business-applications/power-platform/power-automate
 tags:
 - learning plan
