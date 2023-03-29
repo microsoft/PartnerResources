@@ -111,6 +111,16 @@
     - title: "Azure Data Academy"
       url: "skilling/azure-data-academy"
       tag: azure data academy
+      children:
+        - title: SQL Server
+          url: "skilling/azure-data-academy/sql"
+          tag: ada sql
+        - title: OSS DB
+          url: "skilling/azure-data-academy/ossdb"
+          tag: ada oss db
+        - title: Cosmos DB
+          url: "skilling/azure-data-academy/cosmosdb"
+          tag: ada cosmos db
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga
