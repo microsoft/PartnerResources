@@ -146,6 +146,25 @@
         - title: E-commerce Extensibility
           url: "skilling/d365-commerce-academy/ecommerce"
           tag: d365 ecommerce
+    - title: "D365 Copilot Academy"
+      url: "skilling/d365-copilot-academy"
+      tag: d365 copilot academy
+      children:
+        - title: Sales
+          url: "skilling/d365-copilot-academy/sales"
+          tag: d365 copilot sales
+        - title: Marketing
+          url: "skilling/d365-copilot-academy/marketing"
+          tag: d365 copilot marketing
+        - title: Business Central
+          url: "skilling/d365-copilot-academy/business-central"
+          tag: d365 copilot business central
+        - title: Customer Service
+          url: "skilling/d365-copilot-academy/customer-service"
+          tag: d365 copilot customer service
+        - title: Power Virtual Agent
+          url: "skilling/d365-copilot-academy/pva"
+          tag: d365 copilot pva
     - title: "D365 Marketing Academy"
       url: "skilling/d365-marketing-academy"
       tag: d365 marketing academy
