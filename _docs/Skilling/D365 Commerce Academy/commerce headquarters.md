@@ -20,6 +20,6 @@ Description of the content goes here. The videos/assets in this series are below
 {% include series.md 
     includetags="d365 commerce academy|academy content|commerce headquarters" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="false" 
+    sortfield="sorttitle" sortorder="asc" showdate="false" 
     showtags="false" visualstyle="normal" 
 %}
