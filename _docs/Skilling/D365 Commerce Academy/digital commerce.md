@@ -13,6 +13,7 @@ tags:
 - academy page
 - digital commerce
 ---
+# {{ page.title }}
 
 Description of the content goes here. The videos/assets in this series are below:
 

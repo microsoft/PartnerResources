@@ -13,6 +13,7 @@ tags:
 - academy page
 - commerce headquarters
 ---
+# {{ page.title }}
 
 Let's begin Unit 1 of Commerce Academy with an introduction to Dynamics 365 Commerce followed by a series configurations in Commerce Headquarters. In addition to the presentations below, you could also leverage the lab document provided at the home page of this academy.  
 

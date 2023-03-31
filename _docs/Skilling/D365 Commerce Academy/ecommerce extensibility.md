@@ -13,6 +13,7 @@ tags:
 - academy page
 - ecommerce extensibility
 ---
+# {{ page.title }}
 
 Description of the content goes here. The videos/assets in this series are below:
 
