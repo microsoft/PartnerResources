@@ -7,10 +7,10 @@ updated: 2023-03-27
 permalink:  /skilling/d365-commerce-academy/commerce-hq/CommerceAcademyOverview
 youtubeid: C7VKMDz-wvE
 tags: 
-- D365
-- Dynamics 365
-- D365 commerce academy
-- Academy content
+- d365
+- dynamics 365
+- d365 commerce academy
+- academy content
 - commerce headquarters
 ---
 
