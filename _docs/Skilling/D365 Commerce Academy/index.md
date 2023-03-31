@@ -14,6 +14,7 @@ tags:
 - main page
 ---
 
+# {{ page.title }}
 
 Uploaded files -- will render as links (replace spaces in filenames with %20):
 

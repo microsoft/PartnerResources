@@ -14,7 +14,7 @@ tags:
 - commerce headquarters
 ---
 
-Description of the content goes here. The videos/assets in this series are below:
+Let's begin Unit 1 of Commerce Academy with an introduction to Dynamics 365 Commerce followed by a series configurations in Commerce Headquarters. In addition to the presentations below, you could also leverage the lab document provided at the home page of this academy.  
 
 
 {% include series.md 
