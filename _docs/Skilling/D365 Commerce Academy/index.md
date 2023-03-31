@@ -37,7 +37,7 @@ All sessions currently in this academy:
 {% include series.md 
     includetags="d365 commerce academy|academy content" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="false" 
+    sortfield="updated" sortorder="asc" showdate="false" 
     showtags="true" visualstyle="tiny" 
 %}
 
