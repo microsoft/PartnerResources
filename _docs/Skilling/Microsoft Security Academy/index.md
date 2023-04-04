@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2023-03-28
+updated: 2023-04-05
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
