@@ -46,7 +46,7 @@ use include.type to switch between thumbnail and embedded iframe player
 {% endif %}
 
 {% if showlink == "true" %}
-* [Watch {{ title }}](https://www.youtube.com/watch?v={{ youtubeid }})
+* [Watch {{ title }} on YouTube](https://www.youtube.com/watch?v={{ youtubeid }})
 {% endif %}
 
 {% if defaultType == "thumbnail" %}
