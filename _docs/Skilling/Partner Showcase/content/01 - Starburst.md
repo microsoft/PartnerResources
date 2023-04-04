@@ -17,6 +17,4 @@ tags:
 
 {{ page.description }}
 
-* [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
-
-{% include youtubethumb.md %}
+{% include youtubethumb.md showlink="true" %}
