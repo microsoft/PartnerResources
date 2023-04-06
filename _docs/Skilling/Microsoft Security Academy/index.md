@@ -11,7 +11,9 @@ showbreadcrumb: true
 
 {% include_relative header.md %}
 
-Welcome to the Microsoft Security Academy! This academy is organized into five primary categories (Cloud Security, Identity & Access, Endpoint Security, SIEM & XDR, and Risk Management & Privacy), all of which include academies incorporating video sessions, demonstrations, learning paths, certifications, and other related materials. The resources are created by architects across the GPSUS security-aligned team who are experts in their field. The overall objective of the academies it to help you all scale in learning and grow in experience.
+Welcome to the Microsoft Security Academy! The Microsoft Security Academy is organized into five smaller academies and security categories, including Cloud Security, Identity and Access, Endpoint Security, SIEM and XDR, and Risk Management & Privacy. Each academy includes video sessions, demonstrations, learning paths, certifications, and other related materials. 
+
+The resources within each academy are created and delivered by seasoned architects across the GPSUS security-aligned team and beyond, who are experts in their respective fields. The overall objective of the academies is to help you enhance your security knowledge, scale in learning, and grow in experience.
 
 * [Cloud Security](/PartnerResources/skilling/microsoft-security-academy/cloud-security): Microsoft Defender for Cloud Academy, Azure Network Security Academy
 * [Identity & Access](/PartnerResources/skilling/microsoft-security-academy/identity-access): Microsoft Entra Academy
@@ -26,7 +28,7 @@ Welcome to the Microsoft Security Academy! This academy is organized into five p
 ## Important Updates
 We'll update this section with our upcoming events or critical content! For other Microsoft Security content, explore the [Microsoft Security Youtube](https://www.youtube.com/@MicrosoftSecurity/featured) or the [Microsoft Security Community YouTube](https://www.youtube.com/channel/UCGTUbqE3SJiLgtvWjIkSQuQ). For documentation, explore the [Microsoft Security Technical Content Library](https://www.microsoft.com/en-us/security/content-library/Home/Index?culture=en-US).
 
-Interested in Security Compliance and Identity training? Register for events at [Enable Security Compliance and Identity](aka.ms/EnableSCI)!
+Interested in joining our security community? Join at our [Security Community Page](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888)!
 
 
 ## Security Certifications
