@@ -14,8 +14,7 @@ tags:
 ## Cloud Security
 
 ### [Microsoft Defender for Cloud Academy](/PartnerResources/skilling/microsoft-security-academy/defender-academy)
-The Microsoft Defender for Cloud Academy highlights Defender for Cloud's core features, how to best plan for Microsoft Defender for Cloud, Cloud Security Posture Management (CSPM), Cloud Workload Protection Capabilities, Security Automation with Logic Apps, and more.
-
+The Microsoft Defender for Cloud Academy highlights how Defender for Cloud protects cloud resources and data from various threats, focusing on cloud workload protection, cloud application security, cloud-native SIEM and XDR, compliance and governance features, and threat intelligence and analytics capabilities. With advanced threat protection, real-time monitoring, and regulatory compliance features, learn how Defender for Cloud provides a comprehensive security solution for cloud-based resources.
 
 ### [Azure Network Security Academy](/PartnerResources/skilling/microsoft-security-academy/network-academy)
-The Azure Network Security Academy focuses on high-level network security features, Azure Network Security Advanced Architecture, how to best manage network security with Azure Firewall Manager, next generation capabilities within Azure Firewall Premium (e.g., TLS, IDPS), Azure DDoS Protection's powerful answer to rising threats, and more.
+The Azure Network Security Academy focuses security solutions designed to protect network infrastructure and resources in Azure. Explore some of its key features including network segmentation, access controls, distributed denial of service (DDoS) protection. Learn how with Azure Network Security, organizations can safeguard their cloud networks against various threats and manage their security policies centrally.
