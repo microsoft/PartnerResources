@@ -9,8 +9,6 @@ redirect_from:
 showbreadcrumb: true  
 ---
 
-{% include_relative header.md %}
-
 Welcome to the Microsoft Security Academy! The Microsoft Security Academy is organized into five smaller academies and security categories, including Cloud Security, Identity and Access, Endpoint Security, SIEM and XDR, and Risk Management & Privacy. Each academy includes video sessions, demonstrations, learning paths, certifications, and other related materials. 
 
 The resources within each academy are created and delivered by seasoned architects across the GPSUS security-aligned team and beyond, who are experts in their respective fields. The overall objective of the academies is to help you enhance your security knowledge, scale in learning, and grow in experience.
