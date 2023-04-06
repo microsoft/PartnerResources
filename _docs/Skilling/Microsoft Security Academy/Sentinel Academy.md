@@ -26,7 +26,6 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 
 ### Keeping Up
 * [Join the Security Community - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888)
-* [Security, Compliance, and Identity Blog - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
 * [Microsoft Sentinel Blog Series - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
 * [Microsoft Announces New Solutions for Threat Intelligence & Attack Surface Management](https://www.microsoft.com/en-us/security/blog/2022/08/02/microsoft-announces-new-solutions-for-threat-intelligence-and-attack-surface-management/)
 * [What’s New: 250+ Solutions in Microsoft Sentinel Content Hub - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-250-solutions-in-microsoft-sentinel-content-hub/ba-p/3692881#:~:text=The%20Microsoft%20Sentinel%20Content%20Hub%20is%20now%20250%2B,a%20total%20of%202500%2B%20content%20items%20that%20include%2C)
