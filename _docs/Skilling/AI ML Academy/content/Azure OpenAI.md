@@ -94,19 +94,15 @@ Accelerators and Demo Assets repository](https://github.com/Azure/ai-solution-ac
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/Azure/azure-openai-workshop">Azure OpenAI Workshop</a>
+                <a href="https://github.com/Azure/azure-openai-samples">Azure OpenAI Samples</a>
             </td>
-            <td>
-                In this workshop, you will learn how to use the Azure OpenAI service to create AI powered solutions. You will get hands-on experience with the latest AI technologies and will learn how to use Azure OpenAI API.
-            </td>
+            <td>Resources to help you understand how to use GPT (Generative Pre-trained Transformer) offered by Azure OpenAI at the fundamental level, explore sample end-to-end solutions, and learn about various use cases.</td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/microsoft/OpenAIWorkshop">OpenAI Workshop</a>
+                <a href="https://github.com/microsoft/OpenAIWorkshop">Azure OpenAI Workshop</a>
             </td>
-            <td>
-                Workshop materials to build intelligent solutions on Open AI
-            </td>
+            <td>In this workshop, you will learn how to use the Azure OpenAI service to create AI powered solutions. You will get hands-on experience with the latest AI technologies and will learn how to use Azure OpenAI API.</td>
         </tr>
         <tr>
             <td>
