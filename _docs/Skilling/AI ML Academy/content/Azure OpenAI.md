@@ -81,6 +81,7 @@ Start here for an introduction to programmatically utilizing GPT models.
     </tbody>
 </table>
 
+
 ## Demo-ready Resources
 Below is a table of official Azure OpenAI Accelerators and workshops from the [OpenAI
 Accelerators and Demo Assets repository](https://github.com/Azure/ai-solution-accelerators-list/blob/main/OpenAIDemos/README.md).
@@ -125,6 +126,7 @@ Accelerators and Demo Assets repository](https://github.com/Azure/ai-solution-ac
         </tr>
     </tbody>
 </table>
+
 
 ## Fundamental Code Snippets
 A collection of notebooks illustrating fundamental usage of OpenAI models in context with other Azure services and products.
@@ -210,6 +212,7 @@ A collection of notebooks illustrating fundamental usage of OpenAI models in con
         </tr>
     </tbody>
 </table>
+
 
 ## Notebooks
 Examples of applications applied to various industries in complete Jupyter Notebook format in conjunction with additional Azure services.
@@ -298,6 +301,7 @@ Examples of applications applied to various industries in complete Jupyter Noteb
         </tr>
     </tbody>
 </table>
+
 
 ## End-to-end Solutions
 A collection of solution accelerators (repositories) that show you how to create a robust, end-to-end Azure solution that leverages OpenAI.
@@ -444,6 +448,7 @@ A collection of solution accelerators (repositories) that show you how to create
         </tr>
     </tbody>
 </table>
+
 
 ## Other Azure OpenAI Learning Resources
 - [Learning Path Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai)
