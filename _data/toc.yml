@@ -93,6 +93,9 @@
         - title: Prebuilt AI
           url: "skilling/ai-ml-academy/prebuilt-ai"
           tag: aiml prebuilt
+        - title: Azure OpenAI
+          url: "skilling/ai-ml-academy/openai"
+          tag: aiml openai
         - title: Applied AI
           url: "skilling/ai-ml-academy/applied-ai"
           tag: aiml applied
