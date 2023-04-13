@@ -308,7 +308,7 @@ A collection of solution accelerators (repositories) that show you how to create
             <th>Name</th>
             <th>Application</th>
             <th>Description</th>
-            <td>Components</th>
+            <th>Components</th>
         </tr>
         <tr>
             <td>
