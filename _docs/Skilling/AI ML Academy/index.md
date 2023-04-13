@@ -58,7 +58,7 @@ Refer to links below for the module breakouts.
 <td colspan="2" style="text-align: center;">AI & ML Overview</td>
 </tr>
 <tr>
-<td>###[Prebuilt AI](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/prebuilt-ai)</td>
+<td><h3><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/prebuilt-ai">Prebuilt AI</a></h3></td>
 <td>
   <ul>
     <li>General-purpose AI Cognitive Services, including Vision, Speech, Language</li>
@@ -67,7 +67,7 @@ Refer to links below for the module breakouts.
 </td>
 </tr>
 <tr>
-<td>###[Azure OpenAI](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/openai)</td>
+<td><h3><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/openai">Azure OpenAI</a></h3></td>
 <td>
   <ul>
     <li>Generative AI, including GPT, Codex, DALL-E, and Chat GPT</li>
@@ -75,7 +75,7 @@ Refer to links below for the module breakouts.
 </td>
 </tr>
 <tr>
-<td>###[Applied AI](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/applied-ai)</td>
+<td><h3><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/applied-ai">Applied AI</a></h3></td>
 <td>
   <ul>
     <li>Form Recognizer, Metrics Advisor, Cognitive Search, Video Analyzer, Bot service, Immersive Reader etc.</li>
@@ -83,7 +83,7 @@ Refer to links below for the module breakouts.
 </td>
 </tr>
 <tr>
-<td>###[Build Your Own ML](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/build-your-own-ml)</td>
+<td><h3><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/build-your-own-ml">Build Your Own ML</a></h3></td>
 <td>
   <ul>
     <li>Custom ML with Notebooks, Auto ML, Designer using Azure ML</li>
@@ -91,7 +91,7 @@ Refer to links below for the module breakouts.
 </td>
 </tr>
 <tr>
-<td>###[ML Platform](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/aml-plat)</td>
+<td><h3><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/aml-plat">ML Platform</a></h3></td>
 <td>
   <ul>
   <li>Train and Deploy models across a host of environments and compute types</li>
@@ -99,7 +99,7 @@ Refer to links below for the module breakouts.
 </td>
 </tr>
 <tr>
-<td>###[ML Engineering in Production (MLOps)](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/mlops)</td>
+<td><h3><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/mlops">ML Engineering in Production (MLOps)</a></h3></td>
 <td>
   <ul>
     <li>Azure DevOps</li>
