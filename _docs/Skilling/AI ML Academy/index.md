@@ -97,6 +97,63 @@ Refer to links below for the module breakouts.
 </tr>
 </table>
 
+<table>
+<tr>
+<td colspan="2" style="text-align: center;">AI & ML Overview</td>
+</tr>
+<tr>
+<td>Prebuilt AI</td>
+<td>
+  <ul>
+    <li>General-purpose AI Cognitive Services, including Vision, Speech, Language</li>
+    <li>Customization of these Cognitive Services</li>
+  </ul>
+</td>
+</tr>
+<tr>
+<td>Azure OpenAI</td>
+<td>
+  <ul>
+    <li>Generative AI, including GPT, Codex, DALL-E, and Chat GPT</li>
+  </ul>
+</td>
+</tr>
+<tr>
+<td>Applied AI</td>
+<td>
+  <ul>
+    <li>Form Recognizer, Metrics Advisor, Cognitive Search, Video Analyzer, Bot service, Immersive Reader etc.</li>
+  </ul>
+</td>
+</tr>
+<tr>
+<td>Build Your Own ML</td>
+<td>
+  <ul>
+    <li>Custom ML with Notebooks, Auto ML, Designer using Azure ML</li>
+  </ul>
+</td>
+</tr>
+<tr>
+<td>ML Platform</td>
+<td>
+  <ul>
+	  <li>Train and Deploy models across a host of environments and compute types</li>
+  </ul>
+</td>
+</tr>
+<tr>
+<td>ML Engineering in Production (MLOps)</td>
+<td>
+  <ul>
+    <li>Azure DevOps</li>
+		<li>GitHub Actions</li>
+    <li>KubeFlow</li>
+  </ul>
+</td>
+</tr>
+</table>
+
 ## Hands-on provisioned Environments
 
 We are not currently offering fully-hosted lab environments for AI & ML Academy, but this may change in the future as we expand the content. In the meantime, you can still run the labs in your own Azure subscription. These labs are listed below:
