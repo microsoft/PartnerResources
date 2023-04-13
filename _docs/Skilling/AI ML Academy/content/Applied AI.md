@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI & ML Academy - Applied AI
-sorttitle: 02
+sorttitle: 03
 description: Workshop focused on AI and ML - Applied AI
 permalink: /skilling/ai-ml-academy/applied-ai
 updated: 2022-10-17
