@@ -55,54 +55,10 @@ Refer to links below for the module breakouts.
 
 <table>
 <tr>
-<td colspan="5" style="text-align: center;">AI & ML Overview</td>
-</tr>
-<tr>
-<td>Prebuilt AI</td>
-<td>Applied AI</td>
-<td>Build Your Own ML</td>
-<td>ML Platform</td>
-<td>ML Engineering in Production (MLOps)</td>
-</tr>
-<tr>
-<td>
-  <ul>
-    <li>General-purpose AI Cognitive Services, including Vision, Speech, Language</li>
-    <li>Customization of these Cognitive Services</li>
-  </ul>
-</td>
-<td>
-  <ul>
-    <li>Form Recognizer, Metrics Advisor, Cognitive Search, Video Analyzer, Bot service, Immersive Reader etc.</li>
-  </ul>
-</td>
-<td>
-  <ul>
-    <li>Custom ML with Notebooks, Auto ML, Designer using Azure ML</li>
-  </ul>
-</td>
-<td>
-  <ul>
-	  <li>Train and Deploy models across a host of environments and compute types</li>
-		
-  </ul>
-</td>
-<td>
-  <ul>
-    <li>Azure DevOps</li>
-		<li>GitHub Actions</li>
-    <li>KubeFlow</li>
-  </ul>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td colspan="2" style="text-align: center;">AI & ML Overview</td>
 </tr>
 <tr>
-<td>Prebuilt AI</td>
+<td>###[Prebuilt AI](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/prebuilt-ai)</td>
 <td>
   <ul>
     <li>General-purpose AI Cognitive Services, including Vision, Speech, Language</li>
@@ -111,7 +67,7 @@ Refer to links below for the module breakouts.
 </td>
 </tr>
 <tr>
-<td>Azure OpenAI</td>
+<td>###[Azure OpenAI](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/openai)</td>
 <td>
   <ul>
     <li>Generative AI, including GPT, Codex, DALL-E, and Chat GPT</li>
@@ -119,7 +75,7 @@ Refer to links below for the module breakouts.
 </td>
 </tr>
 <tr>
-<td>Applied AI</td>
+<td>###[Applied AI](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/applied-ai)</td>
 <td>
   <ul>
     <li>Form Recognizer, Metrics Advisor, Cognitive Search, Video Analyzer, Bot service, Immersive Reader etc.</li>
@@ -127,7 +83,7 @@ Refer to links below for the module breakouts.
 </td>
 </tr>
 <tr>
-<td>Build Your Own ML</td>
+<td>###[Build Your Own ML](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/build-your-own-ml)</td>
 <td>
   <ul>
     <li>Custom ML with Notebooks, Auto ML, Designer using Azure ML</li>
@@ -135,15 +91,15 @@ Refer to links below for the module breakouts.
 </td>
 </tr>
 <tr>
-<td>ML Platform</td>
+<td>###[ML Platform](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/aml-plat)</td>
 <td>
   <ul>
-	  <li>Train and Deploy models across a host of environments and compute types</li>
+  <li>Train and Deploy models across a host of environments and compute types</li>
   </ul>
 </td>
 </tr>
 <tr>
-<td>ML Engineering in Production (MLOps)</td>
+<td>###[ML Engineering in Production (MLOps)](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/mlops)</td>
 <td>
   <ul>
     <li>Azure DevOps</li>
