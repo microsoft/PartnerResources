@@ -220,7 +220,7 @@ Examples of applications applied to various industries in complete Jupyter Noteb
             <th>Name</th>
             <th>Application</th>
             <th>Description</th>
-            <td>Components</th>
+            <th>Components</th>
         </tr>
         <tr>
             <td><a href="https://github.com/Azure/azure-openai-workshop/tree/main/use_cases/generate_podcast_synopsis">Podcast Synopsis</a></td>
