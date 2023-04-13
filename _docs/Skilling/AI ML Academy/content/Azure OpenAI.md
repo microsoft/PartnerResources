@@ -14,7 +14,7 @@ tags:
 - academy content
 - ai & ml academy module
 - ai & ml academy
-- prebuilt ai
+- openai
 ---
 
 # AI & ML Academy - Azure OpenAI
