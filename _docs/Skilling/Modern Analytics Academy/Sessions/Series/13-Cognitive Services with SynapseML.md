@@ -21,7 +21,8 @@ tags:
 
 * [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern%20Analytics%20Academy%20-%20Cognitive%20Services%20with%20SynapseML.pptx)
 * [Code samples and setup instructions](https://github.com/chmitch/SynapseML-CognitiveServices)
-* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PL8_VXqhvJI9DtxeuFmmQ0V6Z_zL0MXnnI)* [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
+* [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PL8_VXqhvJI9DtxeuFmmQ0V6Z_zL0MXnnI)
+* [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 {% include youtubethumb.md 
 %}
