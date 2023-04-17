@@ -20,6 +20,15 @@ The latest sessions across all academies:
     visualstyle="tiny"
 %}
 
+Be sure to check out the Microsoft Partner Showcase! The Partner Showcase features technical conversatons with Microsoft Partners and their solutions. Join Microsoft CSAs and Partners from around the world to get their perspectives on the tech industry and go hands-on with their solutions.
+
+{% include series.md 
+    includetags="microsoft partner showcase|showcase content" 
+    includemethod="all" 
+    sortfield="updated" sortorder="desc" showdate="true" limit=5 
+    visualstyle="tiny" 
+%}
+
 
 ### [AI/ML Academy](/PartnerResources/skilling/ai-ml-academy)
 The AI/ML Academy features content in 5 areas: Prebuilt AI, applied AI, Build Your Own AI, ML Platform, and ML Engineering in Production (MLOPS). Each section dives into different aspects of AI/ML solutions, leveraging many Azure AI services like Azure Cognitive Services, Azure Machine Learning, and DevOps integration.
@@ -106,6 +115,17 @@ The Microsoft Security Academy is organized into five primary categories (Cloud 
 
 {% include series.md 
     includetags="microsoft security academy|academy content" includemethod="all" 
+    sortfield="updated" sortorder="desc" showdate="true" limit=5 
+    visualstyle="tiny"
+%}
+
+<hr/>
+
+### [Microsoft Teams Academy](/PartnerResources/skilling/microsoft-security-academy)
+The Teams Academy focuses on producing and publishing videos on Microsoft Teams designed to enable our Partners to deep dive into everything Teams. Most recent content:
+
+{% include series.md 
+    includetags="microsoft teams academy|academy content" includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="true" limit=5 
     visualstyle="tiny"
 %}
