@@ -55,34 +55,35 @@ Sessions on data governance and Microsoft Purview. Topics include data catalog, 
 
 <hr/>
 
-### [D365 Business Central Academy](/PartnerResources/skilling/business-central-academy)
+### [D365 Business Central Pre-Sales Academy](/PartnerResources/skilling/business-central-academy)
 The Business Central Pre-Sales Academy is a series of presentations combined with hands-on materials designed to upskill individuals who are responsible for preparing and delivering Business Central software demonstrations. Most recent content:
 
-{% include series.md
-    includetags="business central academy" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
-    visualstyle="tiny"
- %}
-
-<hr/>
-<hr/>
-
-### [Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)
-The Microsoft Security Academy is organized into five primary categories (Cloud Security, Identity & Access, Endpoint Security, SIEM & XDR, and Risk Management & Privacy), all of which include academies incorporating video sessions, demonstrations, learning paths, certifications, and other related materials. Most recent content:
-
 {% include series.md 
-    includetags="microsoft security academy|academy content" includemethod="all" 
+    includetags="business central academy" includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="true" limit=5 
     visualstyle="tiny"
 %}
 
 <hr/>
 
-### [Data Governance Academy](/PartnerResources/skilling/data-governance-academy)
-Sessions on data governance and Microsoft Purview. Topics include data catalog, lineage management, and integration with third party solutions. Most recent content:
+### [D365 Commerce Academy](/PartnerResources/skilling/d365-commerce-academy/)
+The D365 Commerce Academy is currently under development. Most recent content:
 
 {% include series.md 
-    includetags="data governance academy|academy content" includemethod="all" 
+    includetags="d365 commerce academy|academy content" 
+    includemethod="all" 
+    sortfield="updated" sortorder="desc" showdate="true" limit=5 
+    visualstyle="tiny"
+%}
+
+<hr/>
+
+### [D365 Marketing Academy](/PartnerResources/skilling/d365-marketing-academy)
+The Dynamics 365 Marketing Academy is an on-demand version based on the in-person, Dynamics 365 Marketing in a Day workshop. The series of videos is designed as a “follow the trainer” with your demo environment. Most recent content:
+
+{% include series.md 
+    includetags="d365 marketing academy|academy content" 
+    includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="true" limit=5 
     visualstyle="tiny"
 %}
@@ -100,11 +101,11 @@ The Dynamics 365 Pre-Sales Academy is a series of presentations combined with ha
 
 <hr/>
 
-### [D365 Business Central Pre-Sales Academy](/PartnerResources/skilling/business-central-academy)
-The Business Central Pre-Sales Academy is a series of presentations combined with hands-on materials designed to upskill individuals who are responsible for preparing and delivering Business Central software demonstrations. Most recent content:
+### [Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)
+The Microsoft Security Academy is organized into five primary categories (Cloud Security, Identity & Access, Endpoint Security, SIEM & XDR, and Risk Management & Privacy), all of which include academies incorporating video sessions, demonstrations, learning paths, certifications, and other related materials. Most recent content:
 
 {% include series.md 
-    includetags="business central academy|academy content" includemethod="all" 
+    includetags="microsoft security academy|academy content" includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="true" limit=5 
     visualstyle="tiny"
 %}
@@ -121,3 +122,12 @@ Modern analytics and data warehousing techniques, principles, and technologies a
 %}
 
 <hr/>
+
+### [Windows 365 Academy](/PartnerResources/skilling/windows-365-academy)
+The Windows 365 Academy focuses on producing and publishing videos on Microsoft Windows 365, designed to enable our Partners to deep dive into everything Cloud PC. Most recent content:
+
+{% include series.md 
+    includetags="windows 365 academy|academy content" includemethod="all" 
+    sortfield="updated" sortorder="desc" showdate="true" limit=5 
+    visualstyle="tiny"
+%}
