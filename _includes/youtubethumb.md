@@ -3,6 +3,9 @@
 use include.type to switch between thumbnail and embedded iframe player
     - iframe = iframe embedded player
     - thumbnail = original thumbnail link
+    - showlink = include "watch now" link above player
+    - youtubeid = optional. will pull from page.youtubeid if not in include param
+    - title = optional. will pull from page.title if not in include param
 
 ---------------------------------------------------------------------
     mqdefault: thumbnail is 320x180, no black bars 16:9
@@ -12,10 +15,15 @@ use include.type to switch between thumbnail and embedded iframe player
 
 {% endcomment %}
 
+{% assign showlink = "false" %}
 {% assign defaultType = "iframe" %}
 {% assign thumbnailImage = "mqdefault.jpg" %}
 {% assign youtubeid = "" %}
+{% assign title = page.title %}
 
+{% if include.showlink %}
+    {% assign showlink = include.showlink %}
+{% endif %}
 {% if include.type %}
     {% assign defaultType = include.type %}
 {% endif %}
@@ -32,6 +40,13 @@ use include.type to switch between thumbnail and embedded iframe player
 {% endif %}
 {% if include.youtubeid %}
     {% assign youtubeid = include.youtubeid %}
+{% endif %}
+{% if include.title %}
+    {% assign title = include.title %}
+{% endif %}
+
+{% if showlink == "true" %}
+* [Watch {{ title }} on YouTube](https://www.youtube.com/watch?v={{ youtubeid }})
 {% endif %}
 
 {% if defaultType == "thumbnail" %}

@@ -55,44 +55,34 @@ Refer to links below for the module breakouts.
 
 <table>
 <tr>
-<td colspan="5" style="text-align: center;">AI & ML Overview</td>
+<td colspan="2" style="text-align: center;">AI & ML Overview</td>
 </tr>
 <tr>
-<td>Prebuilt AI</td>
-<td>Applied AI</td>
-<td>Build Your Own ML</td>
-<td>ML Platform</td>
-<td>ML Engineering in Production (MLOps)</td>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/prebuilt-ai">Prebuilt AI</a></b></td>
+<td>General-purpose AI Cognitive Services, including Vision, Speech, Language<br>
+Customization of these Cognitive Services</td>
 </tr>
 <tr>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/openai">Azure OpenAI</a></b></td>
 <td>
-  <ul>
-    <li>General-purpose AI Cognitive Services, including Vision, Speech, Language</li>
-    <li>Customization of these Cognitive Services</li>
-  </ul>
+Generative AI, including GPT, Codex, DALL-E, and Chat GPT
 </td>
-<td>
-  <ul>
-    <li>Form Recognizer, Metrics Advisor, Cognitive Search, Video Analyzer, Bot service, Immersive Reader etc.</li>
-  </ul>
-</td>
-<td>
-  <ul>
-    <li>Custom ML with Notebooks, Auto ML, Designer using Azure ML</li>
-  </ul>
-</td>
-<td>
-  <ul>
-	  <li>Train and Deploy models across a host of environments and compute types</li>
-		
-  </ul>
-</td>
-<td>
-  <ul>
-    <li>Azure DevOps</li>
-		<li>GitHub Actions</li>
-    <li>KubeFlow</li>
-  </ul>
+</tr>
+<tr>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/applied-ai">Applied AI</a></b></td>
+<td>Form Recognizer, Metrics Advisor, Cognitive Search, Video Analyzer, Bot service, Immersive Reader etc.</td>
+</tr>
+<tr>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/build-your-own-ml">Build Your Own ML</a></b></td>
+<td>Custom ML with Notebooks, Auto ML, Designer using Azure ML</td>
+</tr>
+<tr>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/aml-plat">ML Platform</a></b></td>
+<td>Train and Deploy models across a host of environments and compute types</td>
+</tr>
+<tr>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/mlops">ML Engineering in Production (MLOps)</a></b></td>
+<td>Azure DevOps, GitHub Actions, KubeFlow
 </td>
 </tr>
 </table>

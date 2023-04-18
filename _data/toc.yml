@@ -25,6 +25,9 @@
       url: "business-applications"
       tag: business applications
       children:
+        - title: Copilot
+          url: "business-applications/copilot"
+          tag: copilot
         - title: Customer Data Platform
           url: "business-applications/customer-data-platform"
           tag: customer data platform
@@ -93,6 +96,9 @@
         - title: Prebuilt AI
           url: "skilling/ai-ml-academy/prebuilt-ai"
           tag: aiml prebuilt
+        - title: Azure OpenAI
+          url: "skilling/ai-ml-academy/openai"
+          tag: aiml openai
         - title: Applied AI
           url: "skilling/ai-ml-academy/applied-ai"
           tag: aiml applied

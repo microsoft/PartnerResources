@@ -14,9 +14,16 @@ tags:
 - main page
 ---
 
+# {{ page.title }}
+
+Presentations:
+
+* [Commerce In a Day - Updated 2023]({{ site.baseurl }}/assets/commerceacademy/Commerce%20In%20A%20Day%20Updated%202023.pdf)
+* [E-Commerce Workshop Assets]({{ site.baseurl }}/assets/commerceacademy/E-Commerce%20Workshop%20Assets.zip)
+
 Welcome to the D365 Commerce Academy. This page is currently under development.
 
-All pags in this acadey:
+All pages in this academy:
 
 {% include series.md 
     includetags="d365 commerce academy|academy page" 
@@ -30,7 +37,7 @@ All sessions currently in this academy:
 {% include series.md 
     includetags="d365 commerce academy|academy content" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="false" 
+    sortfield="updated" sortorder="asc" showdate="false" 
     showtags="true" visualstyle="tiny" 
 %}
 

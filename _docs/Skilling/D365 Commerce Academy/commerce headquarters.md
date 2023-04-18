@@ -13,13 +13,14 @@ tags:
 - academy page
 - commerce headquarters
 ---
+# {{ page.title }}
 
-Description of the content goes here. The videos/assets in this series are below:
+Let's begin Unit 1 of Commerce Academy with an introduction to Dynamics 365 Commerce followed by a series configurations in Commerce Headquarters. In addition to the presentations below, you could also leverage the lab document provided at the home page of this academy.  
 
 
 {% include series.md 
     includetags="d365 commerce academy|academy content|commerce headquarters" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="false" 
+    sortfield="sorttitle" sortorder="asc" showdate="false" 
     showtags="false" visualstyle="normal" 
 %}
