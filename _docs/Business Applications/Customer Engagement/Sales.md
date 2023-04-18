@@ -2,7 +2,7 @@
 layout: page
 title: D365 Sales
 description: Resources for Dynamics 365 Sales
-updated: 2021-12-01
+updated: 2023-03-27
 permalink: /business-applications/customer-engagement/sales
 tags:
 - learning plan
@@ -22,6 +22,8 @@ Below you will find content to assist in upskilling on Dynamics 365 Sales and Dy
 * Events:  Partner on-demand readiness sessions
 * Community Resources:  user groups, blogs, documentation
 * Certifications:  relevant Microsoft exams or certifications
+* [Viva Sales Academy](https://microsoft.github.io/PartnerResources/skilling/d365-sales-academy)
+* [Copilot With Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/)
 
 Additionally, some content may be mared with one or more icons:
 
@@ -32,14 +34,10 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Keeping Up
 
-Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners. Release wave 1 covers features releasing from April through September. Release wave 2 covers features releasing from October through March.
+Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners. Release wave 1 covers features releasing from April through September. Release wave 2 covers features releasing from October through March of the following year.
 
 * [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
 
-* [Dynamics 365 2021 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave2/)
-* [Power Platform 2021 release wave 2](https://docs.microsoft.com/en-us/power-platform-release-plan/2021wave2/)
-
-* [Dynamics 365 Sales 2021 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave2/sales/dynamics365-sales/)
 
 ## Fundamentals
 

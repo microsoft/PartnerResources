@@ -2,7 +2,7 @@
 layout: page
 title: Customer Insights
 description: Resources for Customer Insights
-updated: 2022-09-30
+updated: 2023-03-29
 permalink: /business-applications/customer-data-platform/customer-insights
 tags:
 - learning plan
@@ -49,10 +49,17 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Customer Insights Advanced Training - Self Paced](https://dynamicspartners.transform.microsoft.com/products/dynamics-365-customer-insights?tab=drive-readiness)
 _**Note:** An on-demand video version will be available shortly_
 
+## What training the CI FastTrack team recommends taking?
+### Below are some of their favorites!
+
+* [Mandatory](https://learn.microsoft.com/en-us/training/paths/build-customer-insights/)
+* [Highly Recommended](https://learn.microsoft.com/en-us/dynamics365/customer-insights/)
+* [Strongly Encouraged](https://learn.microsoft.com/en-us/certifications/customer-data-platform-specialty/)
 
 ## Certifications
 
 * [Exam MB-260: Microsoft Customer Data Platform Specialist](https://learn.microsoft.com/en-us/certifications/exams/mb-230)
+* [Exam MB-220: Dynamics Marketing](https://learn.microsoft.com/en-us/certifications/exams/mb-220)
 
 
 ## Community Resources

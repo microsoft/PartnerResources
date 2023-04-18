@@ -3,7 +3,7 @@ nav_exclude: true
 layout: page
 title: Name of Workshop or Series
 description: Short Description of Workshop - Subpage Name
-permalink: /skilling/template/name-of-workshop-page-1
+permalink: /skilling/academy-template/academy-template-page-1
 updated: 2022-01-21
 showbreadcrumb: false
 tags: 
@@ -13,18 +13,26 @@ tags:
 
 # Workshop Template
 
+Welcome to the workshop template. Please see the other workshops for examples of using headers, footers, and other callouts.
+
+Changes to the left nav can be made in the /_data/toc.yml file.
+
 ##  Content
 
-* [Home](/PartnerResources/skilling/template/name-of-workshop)
-* Page 1
-* [Page 2](/PartnerResources/skilling/template/name-of-workshop-page-2)
-* [Page 3](/PartnerResources/skilling/template/name-of-workshop-page-3)
+{% include_relative pagenav.md %}
 
 Welcome to the Workshop Template!
 
 Use each page to add content for each relevant section of the workshop. This might be based on topic, day, or other logical grouping.
 
-This template is meant to be copied and used as a starting point for building a workshop or other skilling series. This is a great page to start with, adding an overview section and then filling out however many subpages are needed. You may need more, or fewer, pages.
+Use the series.md include to automatically include items in the /content folder. For example:
+
+{% include series.md 
+    includetags="academy template|academy content" 
+    includemethod="all" 
+    sortfield="updated" sortorder="desc" showdate="true" showtags="true"
+    visualstyle="normal"
+%}
 
 Any embedded resources that needed to added to the repo directly, such as PPTX or images, should be housed in the root assets folder in a subfolder with a short name. For example, Modern Analytics Academy has content in /assets/maa/filename.pptx; this is necessary to support Github pages deployment. Ideally, video content should be embedded or linked to. See the Modern Analytics Academy for samples on how to do this.
 

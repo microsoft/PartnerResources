@@ -21,11 +21,13 @@
         - include.showtags
         - include.showlink              show/hide deep link to content, default "true"
         - include.target                specify a target like target="_blank"
-        - include.visualstyle           normal / compact / tiny
+        - include.visualstyle           normal / compact / tiny / others
         - include.limit                 limit of number to display (no pagination support)
         - include.includesecondtags
         - include.includethirdtags
         - include.includefourthtags
+
+        - include.removetext            text to remove from the title
 
         For parameters, values are strings (no hyphens) 
         and delimited with | if needed. Example:
@@ -38,6 +40,7 @@
         - "normal" (default)
         - "compact" (titles/tags/dates/description)
         - "tiny" (for long lists)
+        - others as needed
 
 {% endcomment %}
 
@@ -55,6 +58,7 @@
 {% assign showTags = "true" %}
 {% assign showLink = "true" %}
 {% assign visualStyle = "normal" %}
+{% assign removetext = "" %}
 
 {% comment %}
 ----------------------------------------------------
@@ -91,11 +95,8 @@
     {% if include.showdate == "false" %}
         {% assign showDate = "false" %}
     {% endif %}
-    {% if include.visualstyle == "compact" %}
-       {% assign visualStyle = "compact" %}
-    {% endif %}
-    {% if include.visualstyle == "tiny" %}
-       {% assign visualStyle = "tiny" %}
+    {% if include.visualstyle %}
+       {% assign visualStyle = include.visualstyle %}
     {% endif %}
     {% if include.showtags == "false" %}
        {% assign showTags = "false" %}
@@ -103,7 +104,9 @@
     {% if include.showlink == "false" %}
        {% assign showLink = "false" %}
     {% endif %}
-
+    {% if include.removetext %}
+       {% assign removetext = include.removetext %}
+    {% endif %}
 {% else %}
 
     {% assign assetsToInclude = page.includeplans %}
@@ -133,11 +136,8 @@
     {% if page.showdate == "false" %}
         {% assign showDate = "false" %}
     {% endif %}
-    {% if page.visualstyle == "compact" %}
-       {% assign visualStyle = "compact" %}
-    {% endif %}
-    {% if page.visualstyle == "tiny" %}
-       {% assign visualStyle = "tiny" %}
+    {% if page.visualstyle %}
+       {% assign visualStyle = page.visualstyle %}
     {% endif %}
     {% if page.showtags == "false" %}
        {% assign showTags = "false" %}
@@ -168,13 +168,7 @@
 {% assign all_tags = site_tags | append:docs_tags %}
 {% assign tags_list = all_tags | replace: "||", "|" | split:'|' | uniq | sort | compact %}
 
-{% if sortOrder == "asc" %}
-    {% assign all_docs = site.docs | sort: sortField %}
-{% else %}
-    {% assign all_docs = site.docs | sort: sortField | reverse %}
-{% endif %}
-
-{% assign filtered_docs = all_docs %}
+{% assign filtered_docs = site.docs %}
 {% assign current_docs = "" | split: ',' %}
 
 {% comment %}
@@ -249,6 +243,18 @@
 
 {% comment %}
 ----------------------------------------------------
+    additional filtering and sorting
+    todo: check sortField for nulls
+----------------------------------------------------
+{% endcomment %}
+{% if sortOrder == "asc" %}
+    {% assign current_docs = current_docs | sort: sortField %}
+{% else %}
+    {% assign current_docs = current_docs | sort: sortField | reverse %}
+{% endif %}
+
+{% comment %}
+----------------------------------------------------
     display results
 ----------------------------------------------------
 {% endcomment %}
@@ -277,42 +283,18 @@
 {% endfor %}
 {% assign filteredtags = filteredtags | uniq | sort %}
 
-{% if visualStyle == "normal" %}
-<div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
-    <div>
-        {% if showLink == "true" %}
-            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
-        {% else %}
-            <span class="nav-entry">{{ doc.title }}</span> 
-        {% endif %}
-        {% if doc.updated and showDate == "true" %}
-            <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
-        {% endif %}
-    </div>
-    {% if showTags == "true" %}
-    <div style="padding-bottom: 5px;">{% for tag in filteredtags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
-    {% endif %}
-    <div>
-    {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}" 
-    {% if target.size > 0 %}target={{target}}{% endif %}><img width="160" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/0.jpg" style="float:left; padding-right:15px;"/></a>
-    {% endif %}
-    {{ doc.description }}
-    {% if showLink == "true" %}
-        <a href="{{- site.baseurl -}}{{- doc.url -}}">more &#187;</a> 
-    {% endif %}
-    </div>
-</div>
+{% assign doctitle = doc.title %} 
+{% if removetext.size > 0 %}
+    {% assign doctitle = doc.title | remove: removetext %}
+{% endif %}
 
-<div style="clear:both; padding-top: 20px; padding-bottom: 0px;">
-<hr/>
-</div>
-{% elsif visualStyle == "compact" %}
+{% if visualStyle == "compact" %}
 <div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
     <div>
         {% if showLink == "true" %}
-            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doctitle }}</a> 
         {% else %}
-            <span class="nav-entry">{{ doc.title }}</span> 
+            <span class="nav-entry">{{ doctitle }}</span> 
         {% endif %}
         {% if doc.updated and showDate == "true" %}
             <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
@@ -325,7 +307,6 @@
     {{ doc.description }} 
     </div>
 </div>
-
 <div style="clear:both; padding-top: 15px; padding-bottom: 0px;">
 </div>
 
@@ -333,9 +314,9 @@
 <div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
     <div>
         {% if showLink == "true" %}
-            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doc.title }}</a> 
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doctitle }}</a> 
         {% else %}
-            <span class="nav-entry">{{ doc.title }}</span> 
+            <span class="nav-entry">{{ doctitle }}</span> 
         {% endif %}
         {% if doc.updated and showDate == "true" %}
             <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
@@ -344,5 +325,78 @@
 </div>
 <div style="clear:both; padding-top: 5px; padding-bottom: 0px;">
 </div>
+
+{% elsif visualStyle == "list" %}
+<div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
+    <div>
+        {% if showLink == "true" %}
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doctitle }}</a> 
+        {% else %}
+            <span class="nav-entry">{{ doctitle }}</span> 
+        {% endif %}
+        {% if doc.updated and showDate == "true" %}
+            <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
+        {% endif %}
+    </div>
+    <div>
+    {{ doc.description }}
+    </div>
+</div>
+<div style="clear:both; padding-top: 20px; padding-bottom: 0px;">
+<hr/></div>
+
+{% elsif visualStyle == "navlist" %}
+<div>
+    {% if showLink == "true" %}
+        <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doctitle }}</a> 
+    {% else %}
+        <span class="nav-entry">{{ doctitle }}</span> 
+    {% endif %}
+    {% if doc.updated and showDate == "true" %}
+        <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
+    {% endif %}
+</div>
+{% if showdescrip == true %}
+<div>
+{{ doc.description }}
+</div>
+{% endif %}
+
+{% else %}
+{% comment %}
+    Assume the visualstyle is "normal" if not matching any other
+{% endcomment %}
+<div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
+    <div>
+        {% if showLink == "true" %}
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doctitle }}</a> 
+        {% else %}
+            <span class="nav-entry">{{ doctitle }}</span> 
+        {% endif %}
+        {% if doc.updated and showDate == "true" %}
+            <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
+        {% endif %}
+    </div>
+    {% if showTags == "true" %}
+    <div style="padding-bottom: 5px;">{% for tag in filteredtags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
+    {% endif %}
+    <div style="padding-top: 2px;">
+    {% comment %}
+    Native youtube thumbnail is 320x180 from mqdefault.jpg
+    0.jpg has back bars, and typically 480x360
+    {% endcomment %}
+    {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}" 
+    {% if target.size > 0 %}target={{target}}{% endif %}><img width="180" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;float:left; margin-right:12px;"/></a>
+    {% endif %}
+    <span>
+    {{ doc.description }}
+    {% if showLink == "true" %}
+        <a href="{{- site.baseurl -}}{{- doc.url -}}">more &#187;</a> 
+    {% endif %}
+    </span>
+    </div>
+</div>
+<div style="clear:both; padding-top: 20px; padding-bottom: 0px;">
+<hr/></div>
 {% endif %}
 {% endfor %}

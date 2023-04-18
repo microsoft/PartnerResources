@@ -2,7 +2,7 @@
 layout: page
 title: Power Virtual Agents
 description: Resources for Power Virtual Agents
-updated: 2022-10-20
+updated: 2023-03-28
 permalink: /business-applications/power-platform/power-virtual-agents
 tags:
 - learning plan
@@ -28,6 +28,13 @@ Additionally, some content may be mared with one or more icons:
 
 TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
 
+## Keeping Up
+
+* [Upcoming release](https://learn.microsoft.com/en-us/power-platform/release-plan/2023wave1/power-virtual-agents/planned-features)
+* [Unified BOT Building Experience](https://powervirtualagents.microsoft.com/en-us/blog/whats-new-the-evolution-of-power-virtual-agents/) (Self-Paced)
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+* [Power Virtual Agent with Copilot](https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/)
+
 ## Fundamentals
 Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Bookmark Power Virtual Agents Roadmap](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave2/power-virtual-agents/) (Self-Paced) (1 Minute)
@@ -50,14 +57,10 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 
 * No Certification Exist at This Time
 
-## Keeping Up
-
-* [Unified BOT Building Experience](https://powervirtualagents.microsoft.com/en-us/blog/whats-new-the-evolution-of-power-virtual-agents/) (Self-Paced)
-* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
-
 ## Community Resources
 * [Join the discussion with the Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity) (Self-Paced) (1 Minute)
 * [Suggest an idea to the Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Ideas/idb-p/pva_ideas) (Self-Paced) (1 Minute)
+* [Power Platform Community](https://powerusers.microsoft.com/)
 
 
 ## Practice Maturity Model

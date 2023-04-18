@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Purview
 description: Resources for Data Governance with Microsoft Purview
-updated: 2022-05-10
+updated: 2023-01-03
 permalink: /azure/data-analytics-ai/microsoft-purview
 redirect_from:
   - /azure/data-analytics-ai/azure-purview
@@ -11,6 +11,7 @@ tags:
 - data, analytics, and ai
 - learning plan
 - purview
+- purview resources
 - governance
 - modern workplace
 - security
@@ -28,21 +29,25 @@ tags:
 * [Microsoft Purview Webinar: Introduction to Microsoft Purview](https://www.youtube.com/watch?v=Kmr_LXm1ulg) (49 Minutes)
 * [Purview Demo 1 – YouTube](https://www.youtube.com/watch?v=27bA4KFiEKk) (2020)
 * [Purview Demo2 – YouTube](https://www.youtube.com/watch?v=W2bsj3ULw0Y) (2020)
+* [Microsoft Purview architecture review & demo](https://youtu.be/RGXJlO1wvBQ?t=1) (57 Minutes)
 
 ## Associate
 
 * [Modern Analytics Academy - Data Governance](https://microsoft.github.io/PartnerResources/skilling/data-analytics-ai/modern-analytics-academy-data-governance)
   * This session from the Modern Analytics Academy covers Microsoft Purview as part of a series on modern data analytics
+* [Microsoft Purview Official YouTube Channel](https://www.youtube.com/@MicrosoftPurview)
 * [Microsoft Purview Playlist in Microsoft Security Community - YouTube](https://www.youtube.com/playlist?list=PLmAptfqzxVEVS587Mc1UVvlKjPZv4GDev) (last updated July 2021)
 * [Quickstart: Create an Microsoft Purview account in the Azure portal - Microsoft Docs](https://docs.microsoft.com/en-us/azure/purview/create-catalog-portal)
 * [Integrate Microsoft Sentinel and Microsoft Purview - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/purview-solution)
 * [Prerequisites to successfully deploy a Microsoft Purview account - Microsoft Docs](https://docs.microsoft.com/en-us/azure/purview/tutorial-azure-purview-checklist)
+* [Microsoft Purview with MIP integration - YouTube](https://youtu.be/QEp5zWiPrhA?list=PL-8L4E6a4nOYbG5Eltf4vH-4Wiaq8WekQ) (18 Minutes)
 
 ## Expert
 
 * [Microsoft Purview Resource Provider Rest API](https://aka.ms/PurviewAPIDoc)
 * [PyApacheAtlas: A Python SDK for Azure Purview and Apache Atlas](https://github.com/wjohnson/pyapacheatlas)
-
+* [Azure Purview SHIR VM: Deep Dive into VM using WinDBG to show metadata and data classification flow](https://youtu.be/89AFA7IXz4A) (12 Minutes)
+* [CLI wrapper to Microsoft Purview APIs (purviewcli)](https://youtu.be/ycr1G5iMM6U) (17 Minutes)
 ## Hands on lab
 
 * [Microsoft Purview Workshop](https://github.com/tayganr/purviewlab) (Hands on lab / workshop)

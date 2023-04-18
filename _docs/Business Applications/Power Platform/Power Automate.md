@@ -2,7 +2,7 @@
 layout: page
 title: Power Automate
 description: Resources for Power Automate
-updated: 2021-12-01
+updated: 2023-03-28
 permalink: /business-applications/power-platform/power-automate
 tags:
 - learning plan
@@ -29,12 +29,18 @@ Additionally, some content may be mared with one or more icons:
 
 TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
 
+## Keeping Up
+
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+* [Power Automate with Copilot](https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/)
+
 ## Fundamentals
 
 * [Introduction to Power Automate](https://docs.microsoft.com/en-us/learn/modules/introduction-power-automate/)
 * [Get Started with Power Automate](https://docs.microsoft.com/en-us/learn/modules/get-started-flows/)
 * [Microsoft Power Platform Fundamentals (8 Modules)](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/) (Self-guided learning)
 OR [Microsoft Power Platform Fundamentals](https://partner.microsoft.com/en-us/training/assets/collection/pl-900-microsoft-power-platform-fundamentals-1#/) (Virtual Instructor led training)
+* [Power Automate Learning Path](https://learn.microsoft.com/en-us/training/powerplatform/power-automate)
 * [Intelligent Automation Foundations](https://note.microsoft.com/CatalogueDisplayPage-SRDEM65495_CatalogDisplayPage.html) (On Demand Training - 4 hours)
 * [Introduction to business process flows in Power Automate](https://docs.microsoft.com/en-us/learn/modules/intro-business-process-flows/)
 * [Business Process Flows documentation](https://docs.microsoft.com/en-us/power-automate/business-process-flows-overview)
@@ -54,9 +60,6 @@ OR [Microsoft Power Platform Fundamentals](https://partner.microsoft.com/en-us/t
 * [Introduction to expressions in Power Automate](https://docs.microsoft.com/en-us/learn/modules/introduction-expressions/)
 * [Understand advanced business process flow concepts in Power Automate](https://docs.microsoft.com/en-us/learn/modules/advanced-business-process-flows/)
 
-## Keeping Up
-
-* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
 ## Certifications
 
@@ -72,6 +75,7 @@ OR [Microsoft Power Platform Fundamentals](https://partner.microsoft.com/en-us/t
 * [Monitor Microsoft Power Automate Community Group](https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity) (Other)
 * [Participate in Power Automate User Group](https://www.automateug.com/home) (Other)
 * [Subscribe to Microsoft Power Automate YouTube Channel](https://www.youtube.com/channel/UCG98S4lL7nwlN8dxSF322bA) (Self-Paced)
+* [Power Platform Community](https://powerusers.microsoft.com/)
 
 ## Practice Maturity Model
 

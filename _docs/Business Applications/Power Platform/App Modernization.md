@@ -2,7 +2,7 @@
 layout: page
 title: Power Platform App Modernization
 description: Resources for Power Platform App Modernization
-updated: 2021-12-01
+updated: 2023-03-28
 permalink: /business-applications/power-platform/app-modernization
 tags:
 - learning plan
@@ -15,7 +15,9 @@ tags:
 
 ## Keeping Up
 
-* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)## Keeping Up
+* [Power Apps with Copilot](https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/)
+
 
 ## Fundamentals
 
@@ -41,6 +43,7 @@ tags:
 * [Subscribe to Microsoft Power Apps YouTube Channel](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) (Self-Paced)
 * [Monitor Microsoft Power Apps Community Group](https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1) (Other)
 * [Participate in Power Apps User Group](https://www.powerappsug.com/home) (Other)
+* [Power Platform Community](https://powerusers.microsoft.com/)
 
 ## Certifications
 
