@@ -19,7 +19,7 @@ tags:
 Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Bookmark Dynamics 365 Copilot website](https://www.microsoft.com/en-us/ai/dynamics-365-ai?rtc=1/) (Self-Paced) (1 Minute)
 * [Dynamics 365 Copilot Blog Announcement](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/) (Self-Paced) (1 Minute)
-* [Review Dynamics 365 Copilot FAQ](https://transform.microsoft.com/modernwork/download?assetname=assets%2FBusiness%20Applications%20AI%20Moment%20Field%20FAQ.docx) (Partner login required (18 pages)
+* [Download the Dynamics 365 Copilot Pitch Deck](https://transform.microsoft.com/download?assetname=assets/Business%20Applications%20AI%20Seller%20Pitch%20Deck.pptx&download=1) (Partner login required) (900 mb)
 
 ## Intermediate 
 
