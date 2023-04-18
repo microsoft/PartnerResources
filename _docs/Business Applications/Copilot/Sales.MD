@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Copilot Sales Placeholder
+title: Copilot and Sales 
 description: Dynamics 365 Copilot and Dyanmics 365 Sales
 updated: 2023-04-18
 permalink: /business-applications/copilot/sales
