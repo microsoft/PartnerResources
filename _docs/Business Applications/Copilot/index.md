@@ -1,6 +1,6 @@
 ---
 layout: planlist
-title: Mixed Reality Readiness Resources
+title: Dynamics 365 Copilot Readiness Resources
 permalink: /business-applications/copilot/
 includemethod: all
 includeplans:
