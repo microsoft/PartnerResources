@@ -24,5 +24,5 @@ tags:
 ## **Intermediate** 
 
 * <a href="https://www.youtube.com/watch?v=dh-LeowOV-E" target="_blank">Intro Video on Youtube (2 minutes)
-* <a href="https://msuspartners.eventbuilder.com/event/72198?source=D365Copilot" target="_blank"> Presales Video on EventBuilder. This video guides you through the minimal steps necessary to get started quickly in creating a chatbot with expanded natural language capabilities inside of Power Virtual Agent. ###*partner login required* (13 Minutes).###
+* <a href="https://msuspartners.eventbuilder.com/event/72198?source=D365Copilot" target="_blank"> Presales Video on EventBuilder. This video guides you through the minimal steps necessary to get started quickly in creating a chatbot with expanded natural language capabilities inside of Power Virtual Agent. *partner login required* (13 Minutes).
 * <a href="https://learn.microsoft.com/en-us/power-virtual-agents/nlu-gpt-overview" target="_blank"> AI-based chatbot authoring overview (preview) on docs.microsoft.com
