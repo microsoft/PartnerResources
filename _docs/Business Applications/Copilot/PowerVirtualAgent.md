@@ -28,3 +28,4 @@ tags:
 * [Introduction Video on Youtube](https://www.youtube.com/watch?v=dh-LeowOV-E) (2 minutes)
 * [Presales Video on EventBuilder](https://msuspartners.eventbuilder.com/event/72198?source=D365Copilot) (*partner login required*) (13 Minutes). This video guides you through the minimal steps necessary to get started quickly in creating a chatbot with expanded natural language capabilities inside of Power Virtual Agent.
 * [AI-based chatbot authoring overview (preview) on docs.microsoft.com](https://learn.microsoft.com/en-us/power-virtual-agents/nlu-gpt-overview)
+* <a href="https://www.youtube.com/watch?v=dh-LeowOV-E" target="_blank">Intro Video on Youtube (2 minutes)
