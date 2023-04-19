@@ -14,7 +14,7 @@ tags:
 
 # Learning Plan Resources for D365 Copilot and D365 Business Central
 
-*Navigation tip - to open each link, right-click on the URL | open in new tab*
+*Navigation tip - to open each link, right-click on the URL and open in new tab*
 
 ## **Fundamentals** 
 
@@ -25,6 +25,6 @@ tags:
 
 ## **Intermediate** 
 
-* [Customer video on Youtube](https://www.youtube.com/watch?v=RVXJaVUxGD4) (2 minutes)
+* [Introduction Video on Youtube](https://www.youtube.com/watch?v=RVXJaVUxGD4) (2 minutes)
 * [Presales Video on EventBuilder](https://msuspartners.eventbuilder.com/event/72197?source=D365Copilot) (partner login required) (13 Minutes)
 * This video guides you through the minimal steps necessary to get started quickly in creating a chatbot with expanded natural language capabilities inside of Business Central.
