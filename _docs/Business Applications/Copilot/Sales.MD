@@ -11,7 +11,7 @@ tags:
 - sales
 ---
 
-# Learning Plan Resources for Copilot and D365 Sales
+# Learning Plan Resources for D365 Copilot and D365 Sales
 
 *Navigation tip - to open each link, right-click on the URL | open in new tab*
 
