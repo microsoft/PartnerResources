@@ -12,7 +12,7 @@ tags:
 - marketing
 ---
 
-# Learning Plan Resources for D365 Copilot and D365 Business Central
+# Learning Plan Resources for D365 Copilot and D365 Marketing
 
 *Navigation tip - to open each link, right-click on the URL and open in new tab*
 
