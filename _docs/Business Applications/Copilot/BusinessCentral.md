@@ -26,7 +26,6 @@ tags:
 ## **Intermediate** 
 
 * [Introduction Video on Youtube](https://www.youtube.com/watch?v=RVXJaVUxGD4) (2 minutes)
-* [Presales Video on EventBuilder](https://msuspartners.eventbuilder.com/event/72197?source=D365Copilot) (partner login required) (13 Minutes)
-* This video guides you through the minimal steps necessary to get started quickly in creating a chatbot with expanded natural language capabilities inside of Business Central.
+* [Presales Video on EventBuilder](https://msuspartners.eventbuilder.com/event/72197?source=D365Copilot) (partner login required) (13 Minutes). This video guides you through the minimal steps necessary to get started quickly in creating a chatbot with expanded natural language capabilities inside of Business Central.
 * [Configure AI-powered item marketing text (preview) with Copilot on docs.microsoft.com](https://learn.microsoft.com/en-us/dynamics365/business-central/enable-ai)
 * 
