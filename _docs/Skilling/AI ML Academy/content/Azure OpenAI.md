@@ -75,7 +75,7 @@ Start here for an introduction to programmatically utilizing GPT models.
             <th>Description</th>
         </tr>
         <tr>
-            <td><a href="https://github.com/Azure/azure-openai-workshop/blob/main/quick_start">Quick Start</a></td>
+            <td><a href="https://github.com/Azure/azure-openai-samples/tree/main/quick_start">Quickstart</a></td>
             <td>A collection of notebooks where you can quickly start with using GPT (such as creating resources, code generation, prompt engineering, LLM chain demo)</td>
         </tr>
     </tbody>
