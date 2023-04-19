@@ -1,15 +1,15 @@
 ---
 layout: page
-title: D365 Copilot and D365 Business Central
-description: Dynamics 365 Copilot and Dyanmics 365 Business Central
+title: D365 Copilot and D365 Marketing
+description: Dynamics 365 Copilot and Dyanmics 365 Marketing
 updated: 2023-04-18
-permalink: /business-applications/copilot/businesscentral
+permalink: /business-applications/copilot/marketing
 includerelated: false
 tags:
 - learning plan
 - business applications
 - copilot
-- business central
+- marketing
 ---
 
 # Learning Plan Resources for D365 Copilot and D365 Business Central
