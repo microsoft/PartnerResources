@@ -25,6 +25,6 @@ tags:
 
 ## **Intermediate** 
 
-* [Customer video on Youtube](https://www.youtube.com/watch?v=PAKYggQAlnc) (2 minutes)
+* [Introduction Video on Youtube](https://www.youtube.com/watch?v=PAKYggQAlnc) (2 minutes)
 * [Presales Video - Part I](https://msuspartners.eventbuilder.com/event/72462?source=D365Copilot) (13 Minutes)
 This video guides you through the steps necessary to get started quickly in creating and boosting a chatbot with expanded natural language capabilities with D365 Sales and D365 Copilot.
