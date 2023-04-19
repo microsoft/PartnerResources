@@ -26,6 +26,7 @@ tags:
 ## **Intermediate** 
 
 * [Introduction Video on Youtube](https://www.youtube.com/watch?v=A2iJ38yrww8) (2 minutes)
+* [Dynamics 365 and Copilot playlist on Youtube](https://www.youtube.com/playlist?list=PL3SGxR9rKDdZr848K1vSkNHO5F72xJvN4)
 * [Presales Video on EventBuilder](https://msuspartners.eventbuilder.com/event/72200?source=D365Copilot) (*partner login required*) (13 Minutes). This video guides you through the minimal steps necessary to get started quickly in creating a chatbot with expanded natural language capabilities inside of Business Central.
 * [Use AI to kickstart email creation with content ideas on docs.microsoft.com](https://learn.microsoft.com/en-us/dynamics365/marketing/content-ideas)
 * [Use naturtal language to create segments](https://learn.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-natural-language-segments)
