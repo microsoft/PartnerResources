@@ -24,7 +24,8 @@ tags:
 
 ## **Intermediate** 
 
-* [Presales Video](https://msuspartners.eventbuilder.com/event/72197?source=D365Copilot) (Self-Paced) (13 Minutes)
+* [Customer video on Youtube](https://www.youtube.com/watch?v=RVXJaVUxGD4) (2 minutes)
+* [Presales Video on EventBuilder](https://msuspartners.eventbuilder.com/event/72197?source=D365Copilot) (partner login required) (13 Minutes)
 * This video guides you through the minimal steps necessary to get started quickly in creating a chatbot with expanded natural language capabilities inside of Business Central.
 
 Copilot provides AI-powered writing assistance for Business Central users responsible authoring marketing text (product descriptions) on items sold in online shops, like Shopify. With the click of a button, Copilot generates text that's engaging, creative, and highlights key attributes of the specific item. With a bit of reviewing and editing, it's ready to publish.
