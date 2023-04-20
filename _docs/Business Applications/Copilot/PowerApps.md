@@ -23,6 +23,6 @@ tags:
 
 ## **Product Specific Resources** 
 
-* <a href="https://www.youtube.com/watch?v=TOsRhrSXohY" target="_blank"><a/>Introduction Video on Youtube (1 minute)
-* <a href="https://www.youtube.com/watch?v=nwr6I_Mxrns" target="_blank"><a/>First Look Tutorial Video on Youtube (8 minutes)
-* <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/enable-ai" target="_blank"><a/>Configure AI-powered item marketing text (preview) with Copilot on docs.microsoft.com
+* <a href="https://www.youtube.com/watch?v=TOsRhrSXohY" target="_blank"><a/>Introduction Video on Youtube<a/> (1 minute)
+* <a href="https://www.youtube.com/watch?v=nwr6I_Mxrns" target="_blank">First Look Tutorial Video on Youtube<a/>(8 minutes)
+* <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/enable-ai" target="_blank">Configure AI-powered item marketing text (preview) with Copilot on docs.microsoft.com
