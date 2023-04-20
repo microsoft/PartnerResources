@@ -2,7 +2,7 @@
 layout: page
 title: D365 Copilot and D365 Marketing
 description: Dynamics 365 Copilot and Dyanmics 365 Marketing
-updated: 2023-04-18
+updated: 2023-04-20
 permalink: /business-applications/copilot/marketing
 includerelated: false
 tags:
