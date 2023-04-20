@@ -28,6 +28,5 @@ tags:
 * <a href="https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/ai-overview" target="_blank">AI Copilot Overview<a/> (on docs.microsoft.com)
 * <a href="https://demobuilderwebcpptxz.blob.core.windows.net/power-apps-maker-copilot/startdemo.html" target="_blank"> PowerApps Copilot Maker Demo<a/> (guided demo)
 * <a href="https://demobuilderwebcpptxz.blob.core.windows.net/power-apps-copilot-control-demo/startdemo.html" target="_blank"> PowerApps Copilot Control Demo<a/>  (guided demo)
-
 * <a href="https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/express-design" target="_blank"> PowerApps Express Design<a/> (on docs.microsoft.com) Express design is a new way to quickly get started with Power Apps by instantly transforming your visual design into an app.
-* <a href="https://powerapps.microsoft.com/en-us/blog/new-express-design-in-power-apps-converts-images-and-designs-to-apps-in-seconds" target="_blank"<a/> Turn images and designs into apps (blog)
+* <a href="https://powerapps.microsoft.com/en-us/blog/new-express-design-in-power-apps-converts-images-and-designs-to-apps-in-seconds" target="_blank"><a/> Turn images and designs into apps (blog)
