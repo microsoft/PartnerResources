@@ -27,4 +27,4 @@ tags:
 * <a href="https://www.youtube.com/playlist?list=PL3SGxR9rKDdZr848K1vSkNHO5F72xJvN4" target="_blank">Dynamics 365 Video playlist on Youtube<a/> (6 videos)
 * <a href="https://msuspartners.eventbuilder.com/event/72200?source=D365Copilot" target="_blank">Technical Presales video on Event Builder<a/> (13 minutes). This video guides you through the steps necessary to get started quickly in creating and boosting a chatbot with expanded natural language capabilities with D365 Marketing and D365 Copilot.
 * <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/content-ideas" target="_blank">Use AI to kickstart email creation with content ideas<a/> (on docs.microsoft.com)
-* <a href="(https://learn.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-natural-language-segments" target="_blank">Use natural language to create segments<a/> (on docs.microsoft.com)
+* <a href="(https://learn.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-natural-language-segments" target="_blank">Use natural language to create new customer segments<a/> (on docs.microsoft.com)
