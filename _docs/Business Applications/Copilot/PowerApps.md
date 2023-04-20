@@ -2,7 +2,7 @@
 layout: page
 title: D365 Copilot and Power Apps
 description: Dynamics 365 Copilot and Dyanmics 365 Business Central
-updated: 2023-04-18
+updated: 2023-04-20
 permalink: /business-applications/copilot/powerapps
 includerelated: false
 tags:
