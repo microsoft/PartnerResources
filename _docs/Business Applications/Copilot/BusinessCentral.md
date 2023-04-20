@@ -24,5 +24,6 @@ tags:
 ## **Product Specific Resources** 
 
 * <a href="https://www.youtube.com/watch?v=RVXJaVUxGD4" target="_blank">Introduction Video on Youtube<a/> (2 minutes)
+* <a href="https://www.youtube.com/playlist?list=PL3SGxR9rKDdZr848K1vSkNHO5F72xJvN4" target="_blank">Dynamics 365 Video playlist on Youtube<a/> (6 videos)
 * <a href="https://msuspartners.eventbuilder.com/event/72197?source=D365Copilot" target="_blank">Technical Presales video on Event Builder<a/> (13 minutes). This video guides you through the minimal steps necessary to get started quickly in creating a chatbot with expanded natural language capabilities inside of Business Central.
 * <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/enable-ai" target="_blank">Configure AI-powered item marketing text (preview) with Copilot on docs.microsoft.com
