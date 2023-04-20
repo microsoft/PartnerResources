@@ -23,7 +23,8 @@ tags:
   
 ## **Product Specific Resources** 
 
-* [Introduction Video on Youtube](https://www.youtube.com/watch?v=PAKYggQAlnc) (2 minutes)
-* [Dynamics 365 and Copilot playlist on Youtube](https://www.youtube.com/playlist?list=PL3SGxR9rKDdZr848K1vSkNHO5F72xJvN4)
-* [Presales Video - Part I](https://msuspartners.eventbuilder.com/event/72462?source=D365Copilot) (13 Minutes)
-This video guides you through the steps necessary to get started quickly in creating and boosting a chatbot with expanded natural language capabilities with D365 Sales and D365 Copilot.
+* <a href="https://www.youtube.com/watch?v=PAKYggQAlnc" target="_blank">Introduction Video on Youtube<a/> (2 minutes)
+* <a href="https://www.youtube.com/playlist?list=PL3SGxR9rKDdZr848K1vSkNHO5F72xJvN4" target="_blank">Dynamics 365 Video playlist on Youtube<a/> (6 videos)
+* <a href="https://msuspartners.eventbuilder.com/event/72462?source=D365Copilot" target="_blank">Technical Presales Video on EventBuilder<a/> This video guides you through the steps necessary to get started quickly in creating and boosting a chatbot with expanded natural language capabilities with D365 Sales and D365 Copilot. (13 minutes)
+
+
