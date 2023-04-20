@@ -24,5 +24,7 @@ tags:
 ## **Product Specific Resources** 
 
 * <a href="https://www.youtube.com/watch?v=TOsRhrSXohY" target="_blank">Introduction Video on Youtube<a/><a/> (1 minute)
-* <a href="https://www.youtube.com/watch?v=nwr6I_Mxrns" target="_blank">First Look Tutorial Video on Youtube<a/>(8 minutes)
-* <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/enable-ai" target="_blank">Configure AI-powered item marketing text (preview) with Copilot on docs.microsoft.com
+* <a href="https://www.youtube.com/watch?v=nwr6I_Mxrns" target="_blank">First Look Tutorial Video on Youtube<a/> (8 minutes)
+* <a href="https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/ai-overview" target="_blank">AI Copilot Overview<a/> (on docs.microsoft.com)
+* <a href="https://demobuilderwebcpptxz.blob.core.windows.net/power-apps-maker-copilot/startdemo.html" target="_blank"> PowerApps Copilot Maker Demo (guided demo)
+* <a href="https://demobuilderwebcpptxz.blob.core.windows.net/power-apps-copilot-control-demo/startdemo.html" target="_blank"> PowerApps Copilot Control Demo (guided demo)
