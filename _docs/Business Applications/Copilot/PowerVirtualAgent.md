@@ -2,7 +2,7 @@
 layout: page
 title: D365 Copilot and Power Virtual Agent
 description: Dynamics 365 Copilot and Power Virtual Agent
-updated: 2023-04-18
+updated: 2023-04-20
 permalink: /business-applications/copilot/pva
 includerelated: false
 tags:
