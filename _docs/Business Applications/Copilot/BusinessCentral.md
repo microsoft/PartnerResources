@@ -14,8 +14,6 @@ tags:
 
 # Learning Plan Resources for D365 Copilot and D365 Business Central
 
-*Navigation tip - to open each link, right-click on the URL and open in new tab*
-
 ## **Fundamentals** 
 
 * <a href="www.microsoft.com/en-us/ai/dynamics-365-ai/" target="_blank">Dynamics 365 Copilot website (1 minute read)
@@ -24,7 +22,7 @@ tags:
 * <a href="https://transform.microsoft.com/modernwork/download?assetname=assets%2FLow%20Code%20%2B%20AI%20Pitch%20Deck.pptx&download=1" target="_blank">Power Platform Pitch Deck (350 mb)
 * [Download the Power Platform Copilot Pitch Deck](https://transform.microsoft.com/modernwork/download?assetname=assets%2FLow%20Code%20%2B%20AI%20Pitch%20Deck.pptx&download=1) (350 mb)
 
-## **Intermediate** 
+## **Product Specific Training** 
 
 * [Introduction Video on Youtube](https://www.youtube.com/watch?v=RVXJaVUxGD4) (2 minutes)
 * [Dynamics 365 and Copilot playlist on Youtube](https://www.youtube.com/playlist?list=PL3SGxR9rKDdZr848K1vSkNHO5F72xJvN4)
