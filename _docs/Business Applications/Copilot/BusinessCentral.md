@@ -9,7 +9,7 @@ tags:
 - learning plan
 - business applications
 - copilot
-- business central
+- businesscentral
 ---
 
 # Learning Plan Resources for D365 Copilot and D365 Business Central
