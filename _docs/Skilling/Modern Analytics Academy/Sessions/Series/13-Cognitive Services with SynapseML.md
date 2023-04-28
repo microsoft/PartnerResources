@@ -25,6 +25,3 @@ tags:
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
 {% include youtubethumb.md %}
-
-Test
-* [Presentation Deck]({{ site.baseurl }}/assets/maa/vignettes/Modern Analytics Academy - Cognitive Services with SynapseML.pptx)
