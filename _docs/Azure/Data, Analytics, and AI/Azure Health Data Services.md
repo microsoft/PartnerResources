@@ -43,10 +43,6 @@ Learning resources for the [FHIR Powered Healthcare hack](https://microsoft.gith
 * [Channle 9 Video: Remote Patient Monitoring with Internet of Medical Things (IoMT)](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Remote-Patient-Monitoring-with-Internet-of-Medical-Things-IoMT) (Self Paced) (15 Minutes)
     * Learn more about how to enable scenarios like remote patient monitoring, home health and clinical trials with IoMT and open FHIR (Fast Healthcare Interoperability Resources) standard on Azure.
 
-* [Azure Health Bot Integration with Azure OpenAI Service](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/extending-azure-health-bot-with-azure-openai-service/ba-p/3792560)
-* [Project Health Insights](https://learn.microsoft.com/en-us/azure/azure-health-insights/overview)
-* [Text analytics for health released social determinants of health (SDoH) and ethnicity support](https://learn.microsoft.com/en-us/legal/cognitive-services/language-service/transparency-note-health)
-
 * [Microsoft Learn courses for Azure Health Data Services (<2hrs)](https://docs.microsoft.com/en-us/training/paths/azure-health-data-services/)
 * [Azure Health Data Services Hackathon](https://github.com/microsoft/azure-health-data-services-workshop)
 
