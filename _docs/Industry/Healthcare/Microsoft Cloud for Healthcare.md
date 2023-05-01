@@ -61,6 +61,12 @@ Additionally, some content may be marked with one or more icons:
 
 * [Azure Health Data Services: FHIR, DICOM, IOT](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2Faka.ms%2FHCIoT&data=05%7C01%7Cpujeyasi%40microsoft.com%7C8407253c37bc4f5dcdf908daac946fd1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638012050851381549%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=QF3D7SamTqQqw89zGBeDSig2DFBsB3TkS9guAAKMA70%3D&reserved=0)
 
+## Azure AI Services for Health
+
+* [Azure Health Bot Integration with Azure OpenAI Service](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/extending-azure-health-bot-with-azure-openai-service/ba-p/3792560)
+* [Project Health Insights](https://learn.microsoft.com/en-us/azure/azure-health-insights/overview)
+* [Text analytics for health released social determinants of health (SDoH) and ethnicity support](https://learn.microsoft.com/en-us/legal/cognitive-services/language-service/transparency-note-health)
+
 
 ## Specialist
 
