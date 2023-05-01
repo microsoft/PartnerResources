@@ -1,9 +1,9 @@
 ---
 layout: page
-title: FHIR Powered Healthcare
-description: Resources FHIR Powered Healthcare
-updated: 2021-12-01
-permalink: /azure/data-analytics-ai/fhir-powered-healthcare
+title: Azure Health Data Services
+description: Azure Health Services and Resources for Healthcare
+updated: 2023-05-01
+permalink: /azure/data-analytics-ai/azure-health-data-services
 tags: 
 - azure
 - data, analytics, and ai
@@ -12,7 +12,7 @@ tags:
 - analytics
 ---
 
-# FHIR Powered Healthcare Readiness Resources
+# Azure AI Services and Resources for Healthcare Readiness
 
 Fast Healthcare Interoperability Resources (FHIR) is a next generation standards framework created by HL7 (hl7.org/fhir).  FHIR combines the best features of HL7’s v2, HL7 v3 and CDA product lines while leveraging the latest web standards and applying a tight focus on implementability.
 
