@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Cloud for Healthcare
 description: Resources for Microsoft Cloud for Healthcare
-updated: 2023-2-13
+updated: 2023-05-01
 permalink: /industry/healthcare/microsoft-cloud-healthcare
 tags:
 - learning plan
@@ -30,11 +30,13 @@ Additionally, some content may be marked with one or more icons:
 * [Satya Nadella opening remarks on Microsoft Cloud for Healthcare](https://www.youtube.com/watch?v=KVK7AUCSfUs&feature=youtu.be)
 * [Microsoft Cloud for Healthcare-CTO/CTO Elevator Pitch](./Assets/Microsoft%20Cloud%20for%20Healthcare%20-%20Partner%20Ready.pptx) 
 * [2023 Wave 1 Realease Pan](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-healthcare)
+* [FAQ on Industry Hub](https://industryhub.transform.microsoft.com/download/ced61889-15bf-4fe4-a13a-8dee9b981867)
 
 ## Fundamentals
 
 * [What is Microsoft cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/overview)
-* [Partner Walking Deck](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-walking-deck.pptx)
+* [Partner Message](https://industryhubstorageprd.azureedge.net/assets/INTERNAL%20Microsoft%20Cloud%20for%20Healthcare%20Messaging%20Positioning%20Framework.pdf?sv=2019-07-07&sr=b&sig=lPzHWLpDWn9CWmr2%2BLI%2BgTG8RA11vfr%2FmKdWrTHwbhU%3D&se=2023-04-25T14%3A25%3A38Z&sp=r)
+* [Partner Walking Deck](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Findustryhubstorageprd.azureedge.net%2Fassets%2FTO%2520CUSTOMER%2520Microsoft%2520Cloud%2520for%2520Healthcare%2520Overview%2520BDM%2520TDM%2520Deck.pptx%3Fsv%3D2019-07-07%26sr%3Db%26sig%3DCFMGNT0DfIpC9m7KeT2B%252BMvTpejDTNJP9wsr7brQkYE%253D%26se%3D2023-04-25T14%253A26%253A21Z%26sp%3Dr&wdOrigin=BROWSELINK)
 * [SI Play Book](https://microsoft.sharepoint.com/teams/Healthcarehub/Shared%20Documents/Forms/AllItems.aspx?id=/teams/Healthcarehub/Shared%20Documents/Microsoft%20cloud%20for%20healthcare/Healthcare%20-%20Industry%20cloud%20SI%20playbook.pdf&parent=/teams/Healthcarehub/Shared%20Documents/Microsoft%20cloud%20for%20healthcare)
 * [Battlecards](https://microsoft.sharepoint.com/teams/Healthcarehub/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FHealthcarehub%2FShared%20Documents%2FMicrosoft%20cloud%20for%20healthcare%2FMS%20Cloud%20for%20Healthcare%20Battlecard%202020%2001%2011%2Epdf&parent=%2Fteams%2FHealthcarehub%2FShared%20Documents%2FMicrosoft%20cloud%20for%20healthcare)
 * [Partner Messaging Framework](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-partner-messaging-framework.docx)
