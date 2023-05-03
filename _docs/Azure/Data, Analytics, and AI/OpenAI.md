@@ -54,7 +54,7 @@ To get started, we recommend watching the following videos created by Microsoft 
 - [What’s New in Azure OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/whats-new)
 - [Azure OpenAI - YouTube Playlist](https://www.youtube.com/watch?v=FJ0v3apQ2dM&list=PL8_VXqhvJI9CNF6Q409mSjh0InP6_GfBg)
 - [Blog: GPT-4 now available in Azure OpenAI Service](https://aka.ms/aoai-gpt4-blog)
-- [ChatGPT is now available in Azure OpenAI Service](http://aka.ms/AOAI-ChatGPT-Blog)
+- [Blog: ChatGPT is now available in Azure OpenAI Service](http://aka.ms/AOAI-ChatGPT-Blog)
 
 ## Fundamentals
 
