@@ -24,5 +24,4 @@ tags:
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PL8_VXqhvJI9DtxeuFmmQ0V6Z_zL0MXnnI)
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
-{% include youtubethumb.md 
-%}
+{% include youtubethumb.md %}
