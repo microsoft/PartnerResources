@@ -23,13 +23,6 @@ Welcome to the AI & ML Academy (AIA) - Azure OpenAI!
 
 This section includes Azure OpenAI resources to help you get started including sample code, end-to-end scenarios, notebooks, and other quickstart resources.
 
-### Table of contents
-1. [Getting Started](#getting-started)
-2. [Demo-Ready Resources](#demo-ready-resources)
-3. [Fundamental Code Snippets](#fundamental-code-snippets)
-4. [Notebooks](#notebooks)
-5. [End-to-end Solutions](#end-to-end-solutions)
-
 <!--
 ```html
 <!DOCTYPE html>
@@ -64,7 +57,6 @@ This section includes Azure OpenAI resources to help you get started including s
 
 ```
 -->
-
 ## Getting Started
 Start here for an introduction to programmatically utilizing GPT models.
 
