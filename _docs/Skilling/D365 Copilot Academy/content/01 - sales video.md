@@ -6,7 +6,7 @@ sorttitle: 01 - D365 Copilot Academy - D365 Sales and Copilot
 description: D365 Copilot Academy - D365 Sales and Copilot
 permalink: /skilling/d365-copilot-academy/sales
 updated: 2023-05-11
-youtubeid: xXiYny_kldU
+youtubeid: lzhs2PYrGcs
 showbreadcrumb: true
 tags: 
  - d365 copilot academy
