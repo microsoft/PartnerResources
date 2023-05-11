@@ -22,7 +22,7 @@ Weclome to the D365 Copilot Academy.
 ## All Content
 
 {% include series.md 
-    includetags="d365 copilot academy|academy content" 
+    includetags="d365 copilot academy|academy content|sales" 
     includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="true" 
     visualstyle="tiny"
