@@ -5,7 +5,7 @@ title: D365 Copilot Academy - Sales Sample
 sorttitle: 01 - D365 Copilot Academy - Sales Sample
 description: D365 Copilot Academy - Sales Sample
 permalink: /skilling/d365-copilot-academy/sales/sample
-updated: 2023-04-01
+updated: 2023-05-01
 youtubeid: xXiYny_kldU
 showbreadcrumb: true
 tags: 
