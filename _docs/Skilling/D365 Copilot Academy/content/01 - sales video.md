@@ -1,11 +1,11 @@
 ---
 nav_exclude: true
 layout: page
-title: D365 Copilot Academy - Sales Sample
-sorttitle: 01 - D365 Copilot Academy - Sales Sample
-description: D365 Copilot Academy - Sales Sample
-permalink: /skilling/d365-copilot-academy/sales/sample
-updated: 2023-05-01
+title: D365 Copilot Academy - D365 Sales and Copilot
+sorttitle: 01 - D365 Copilot Academy - D365 Sales and Copilot
+description: D365 Copilot Academy - D365 Sales and Copilot
+permalink: /skilling/d365-copilot-academy/sales
+updated: 2023-05-11
 youtubeid: xXiYny_kldU
 showbreadcrumb: true
 tags: 
