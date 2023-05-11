@@ -1,8 +1,8 @@
 ---
 layout: page
-title: D365 Copilot and Power Virtual Agent
-description: Dynamics 365 Copilot and Power Virtual Agent
-updated: 2023-04-18
+title: Copilot and AI in Power Virtual Agent
+description: Copilot and AI capabilities in Power Virtual Agent
+updated: 2023-04-20
 permalink: /business-applications/copilot/pva
 includerelated: false
 tags:
@@ -14,17 +14,21 @@ tags:
 
 # Learning Plan Resources for D365 Copilot and Power Virtual Agent
 
-*Navigation tip - to open each link, right-click on the URL and open in new tab*
-
 ## **Fundamentals** 
 
-* [Bookmark the Dynamics 365 Copilot public website](https://www.microsoft.com/en-us/ai/dynamics-365-ai?rtc=1/) (1 Minutes)
-* [Read the Dynamics 365 Copilot Blog Announcement](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/) (8 Minutes)
-* [Download the Dynamics 365 Copilot Pitch Deck](https://transform.microsoft.com/download?assetname=assets/Business%20Applications%20AI%20Seller%20Pitch%20Deck.pptx&download=1) (*Partner login required*) (900 mb)
-* [Download the Power Platform Copilot Pitch Deck](https://transform.microsoft.com/modernwork/download?assetname=assets%2FLow%20Code%20%2B%20AI%20Pitch%20Deck.pptx&download=1) (*Partner login required*) (350 mb)
+* <a href="https://www.microsoft.com/en-us/ai/dynamics-365-ai" target="_blank">Dynamics 365 Copilot website<a/> (1 minute read)
+* <a href="https://powervirtualagents.microsoft.com/en-us/blog/copilot-in-power-virtual-agents-next-generation-ai-assists-bot-building-with-natural-language/" target="_blank">Copilot in Power Virtual Agents<a/> (Announcement)
+* <a href="https://transform.microsoft.com/download?assetname=assets/Business%20Applications%20AI%20Seller%20Pitch%20Deck.pptx&download=1/" target="_blank">Dynamics 365 Pitch Deck<a/> (900 mb)
+* <a href="https://transform.microsoft.com/modernwork/download?assetname=assets%2FLow%20Code%20%2B%20AI%20Pitch%20Deck.pptx&download=1" target="_blank">Power Platform Pitch Deck <a/> (350 mb)
 
-## **Intermediate** 
+## **Copilot**   
+Power Virtual Agents lets you create and iterate on topics by describing what you want and having AI build it for you, significantly decreasing the time it takes to create and update bot topics.
+* <a href="https://www.youtube.com/watch?v=dh-LeowOV-E" target="_blank">Intro Video on Youtube</a> (2 minutes)
+* <a href="https://learn.microsoft.com/en-us/power-virtual-agents/nlu-authoring" target="_blank">Create (and edit) with Copilot - Power Virtual Agents <a/>
+* <a href="https://learn.microsoft.com/en-us/power-virtual-agents/nlu-gpt-overview" target="_blank"> AI-based chatbot authoring overview</a> (on docs.microsoft.com)
 
-* [Introduction Video on Youtube](https://www.youtube.com/watch?v=dh-LeowOV-E) (2 minutes)
-* [Presales Video on EventBuilder](https://msuspartners.eventbuilder.com/event/72198?source=D365Copilot) (*partner login required*) (13 Minutes). This video guides you through the minimal steps necessary to get started quickly in creating a chatbot with expanded natural language capabilities inside of Power Virtual Agent.
-* [AI-based chatbot authoring overview (preview) on docs.microsoft.com](https://learn.microsoft.com/en-us/power-virtual-agents/nlu-gpt-overview)
+## **More Product Specific Resources** 
+* <a href="https://learn.microsoft.com/en-us/power-virtual-agents/nlu-boost-conversations" target="_blank">Boost conversations in Power Virtual Agents</a> 
+* <a href="https://www.youtube.com/watch?v=ioP02_N3f78" target="_blank">GPT Powered Power Virtual Agents Conversations</a> 
+* <a href="https://msuspartners.eventbuilder.com/event/72198?source=D365Copilot" target="_blank"> Technical Presales Video on EventBuilder</a>. This video guides you through the minimal steps necessary to get started quickly in creating a chatbot with expanded natural language capabilities inside of Power Virtual Agent. (13 Minutes).
+
