@@ -2,7 +2,7 @@
 layout: page
 title: AI and Copilot and Power Automate
 description: AI and Copilot and Power Automate
-updated: 2023-05-10
+updated:  2023-05-15
 permalink: /business-applications/copilot/powerautomate
 includerelated: false
 tags:

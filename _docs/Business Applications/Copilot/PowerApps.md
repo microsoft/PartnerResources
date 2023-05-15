@@ -2,7 +2,7 @@
 layout: page
 title: Copilot and AI in Power Apps
 description: Copilot and AI capabilities in Power Apps
-updated: 2023-04-20
+updated: 2023-05-15
 permalink: /business-applications/copilot/powerapps
 includerelated: false
 tags:
