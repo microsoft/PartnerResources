@@ -24,5 +24,5 @@ tags:
     includetags="d365 copilot academy|academy content|marketing|copilot" 
     includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="true" 
-     visualstyle="normal" target="_blank" showlink="false"
+     visualstyle="normal"
 %}
