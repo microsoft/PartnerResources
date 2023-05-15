@@ -4,6 +4,7 @@ title: AI & ML Academy Vignettes
 description: The AI & ML Academy is focused on Artificial Intelligence and Machine Learning on the Microsoft Azure platform. 
 permalink: /skilling/ai-ml-academy/vignettes
 updated: 2023-03-14
+hidedate: true
 showbreadcrumb: true
 tags:
 - azure

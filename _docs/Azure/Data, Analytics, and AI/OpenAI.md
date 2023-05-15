@@ -2,7 +2,7 @@
 layout: page
 title: Azure OpenAI
 description: Resources for Azure OpenAI
-updated: 2023-04-20
+updated: 2023-05-03
 permalink: /azure/data-analytics-ai/openai
 tags: 
 - azure
@@ -53,6 +53,8 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 - [What’s New in Azure OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/whats-new)
 - [Azure OpenAI - YouTube Playlist](https://www.youtube.com/watch?v=FJ0v3apQ2dM&list=PL8_VXqhvJI9CNF6Q409mSjh0InP6_GfBg)
+- [Blog: GPT-4 now available in Azure OpenAI Service](https://aka.ms/aoai-gpt4-blog)
+- [Blog: ChatGPT is now available in Azure OpenAI Service](http://aka.ms/AOAI-ChatGPT-Blog)
 
 ## Fundamentals
 
@@ -88,15 +90,17 @@ Responsible AI:
 - [Semantic Kernel Library](https://github.com/microsoft/semantic-kernel) .NET Code Snippets
 - [LLMOps](https://github.com/microsoft/LMOps)Operational capabilities and infrastructure required to fine-tune existing foundational models
 - [JARVIS](https://github.com/microsoft/JARVIS) Collaborative system that uses an LLM as the controller
+- [Can ChatGPT work with your enterprise data? - Microsoft Mechanics Video](https://www.youtube.com/watch?v=tW2EA4aZ_YQ&t=27s) Bring OpenAI’s ChatGPT model in Azure to your own enterprise-grade app experiences with precise control over the knowledge base, for in-context and relevant responses. Interact with your organization’s private internal data, while respecting the information protection controls put in place.
 
 <!-- ## Expert -->
 
 <!-- - *Coming soon!* -->
 
-<!-- ## Events -->
+## Events
 
-<!-- - Azure AI Bootcamp for Microsoft Partners – March 28-30 – [Registration page](https://vshow.on24.com/vshow/Azure_Depth/registration/22504) -->
-<!-- - [AI and Machine Learning Partner Prep Event Listing Page (eventbuilder.com)](https://msuspartners.eventbuilder.com/AIMLPartnerPrep) -->
+- Azure AI Bootcamp for Microsoft Partners – March 28-30 – [Registration page](https://vshow.on24.com/vshow/Azure_Depth/registration/22504) *Register to view on-demand*
+- What the Hack (WTH): Azure OpenAI - June 13-15 - [Registration page](https://msuspartners.eventbuilder.com/AIMLPartnerPrep) This introductory hackathon will provide participants with hands-on experience on how to integrate the Azure Open AI offering as well as the upstream Open AI service with Microsoft Azure platform services.
+- [AI and Machine Learning Partner Prep Event Listing Page (eventbuilder.com)](https://msuspartners.eventbuilder.com/AIMLPartnerPrep)
 
 ## Demos & Codes
 

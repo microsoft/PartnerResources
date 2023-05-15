@@ -23,13 +23,6 @@ Welcome to the AI & ML Academy (AIA) - Azure OpenAI!
 
 This section includes Azure OpenAI resources to help you get started including sample code, end-to-end scenarios, notebooks, and other quickstart resources.
 
-### Table of contents
-1. [Getting Started](https://github.com/microsoft/PartnerResources/edit/main/_docs/Skilling/AI%20ML%20Academy/content/Azure%20OpenAI.md#getting-started)
-2. [Demo-Ready Resources](https://github.com/microsoft/PartnerResources/edit/main/_docs/Skilling/AI%20ML%20Academy/content/Azure%20OpenAI.md#demo-ready-resources)
-3. [Fundamental Code Snippets](https://github.com/microsoft/PartnerResources/edit/main/_docs/Skilling/AI%20ML%20Academy/content/Azure%20OpenAI.md#fundamental-code-snippets)
-4. [Notebooks](https://github.com/microsoft/PartnerResources/edit/main/_docs/Skilling/AI%20ML%20Academy/content/Azure%20OpenAI.md#notebooks)
-5. [End-to-end Solutions](https://github.com/microsoft/PartnerResources/edit/main/_docs/Skilling/AI%20ML%20Academy/content/Azure%20OpenAI.md#end-to-end-solutions)
-
 <!--
 ```html
 <!DOCTYPE html>
@@ -64,7 +57,6 @@ This section includes Azure OpenAI resources to help you get started including s
 
 ```
 -->
-
 ## Getting Started
 Start here for an introduction to programmatically utilizing GPT models.
 
@@ -222,7 +214,7 @@ Examples of applications applied to various industries in complete Jupyter Noteb
             <th>Components</th>
         </tr>
         <tr>
-            <td><a href="https://github.com/Azure/azure-openai-workshop/tree/main/use_cases/generate_podcast_synopsis">Podcast Synopsis</a></td>
+            <td><a href="https://github.com/Azure/azure-openai-samples/tree/main/use_cases/generate_podcast_synopsis">Podcast Synopsis</a></td>
             <td>Summarization</td>
             <td>• Generate a synopsis from a podcast transcription into multiple languages via a prompt.<br>
             • Generate 2-3 tag lines based on the podcast content.<br>
@@ -239,7 +231,7 @@ Examples of applications applied to various industries in complete Jupyter Noteb
             <td>• Davinci-002<br>• Form Recognizer</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Azure/azure-openai-workshop/tree/main/use_cases/call_center">Call Center Sentiment Analysis</a></td>
+            <td><a href="https://github.com/Azure/azure-openai-samples/tree/main/use_cases/call_center">Call Center Sentiment Analysis</a></td>
             <td>Summarization</td>
             <td>• Analyze call center transcripts<br>
             • Extract and redact PII<br>

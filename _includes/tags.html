@@ -2,6 +2,6 @@
     $('h1').first().append('<div class="doctags">{% for tag in page.tags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>')</script>
 {% endif %}
 
-{% if page.updated %}<script>
-    $('h1').first().append('<div class="docupdated">Updated <time datetime="{{- page.updated | date_to_xmlschema -}}"> {{- page.updated | date: "%B %d, %Y" -}}</time></div>')</script>
+{% if page.updated %}{% unless page.hidedate == true %}<script>
+    $('h1').first().append('<div class="docupdated">Updated <time datetime="{{- page.updated | date_to_xmlschema -}}"> {{- page.updated | date: "%B %d, %Y" -}}</time></div>')</script>{% endunless %}
 {% endif %}
