@@ -14,6 +14,7 @@ tags:
  - dynamics
  - d365
  - sales
+ - copilot
 ---
 
 # {{ page.title }}
