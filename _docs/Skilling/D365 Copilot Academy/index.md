@@ -18,7 +18,7 @@ tags:
 
 Weclome to the Dynamics 365 and Power Platform Copilot and AI Academy
 
-## All Content
+# All Content
 
 {% include series.md 
     includetags="d365 copilot academy|academy content" 
