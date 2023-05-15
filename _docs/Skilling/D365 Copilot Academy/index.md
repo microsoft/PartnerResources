@@ -16,7 +16,7 @@ tags:
 
 # D365 Copilot Academy
 
-Weclome to the D365 Copilot Academy.
+Weclome to the Dynamics 365 and Power Platform Copilot and AI Academy
 
 ## All Content
 
