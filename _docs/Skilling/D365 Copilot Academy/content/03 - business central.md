@@ -13,7 +13,7 @@ tags:
  - academy content
  - dynamics
  - d365
- - businesscentral
+ - business central
  - copilot
 ---
 
