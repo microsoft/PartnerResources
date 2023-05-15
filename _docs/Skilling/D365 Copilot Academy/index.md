@@ -5,7 +5,7 @@ title: D365 Copilot Academy
 sorttitle: D365 Copilot Academy
 description: D365 Copilot Academy
 permalink: /skilling/d365-copilot-academy
-updated: 2023-04-01
+updated: 2023-05-16
 showbreadcrumb: true
 tags: 
  - d365 copilot academy
