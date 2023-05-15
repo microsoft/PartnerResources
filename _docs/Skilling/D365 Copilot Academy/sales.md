@@ -13,6 +13,7 @@ tags:
  - dynamics
  - d365
  - sales
+ - copilot
 ---
 
 # D365 Copilot Academy
@@ -22,7 +23,7 @@ Weclome to the D365 Copilot Academy.
 ## All Content
 
 {% include series.md 
-    includetags="d365 copilot academy|academy content|sales" 
+    includetags="d365 copilot academy|academy content|sales|copilot" 
     includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="true" 
     visualstyle="tiny"
