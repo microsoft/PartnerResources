@@ -18,7 +18,7 @@ tags:
 
 # D365 Copilot Academy
 
-## All Content
+## Dynamics 365 Business Central and Dynamics 365 Copilot
 
 {% include series.md 
     includetags="d365 copilot academy|academy content|business central|copilot" 
