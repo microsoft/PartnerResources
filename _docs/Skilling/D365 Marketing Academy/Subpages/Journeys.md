@@ -13,7 +13,7 @@ Journeys can be triggered based on real-world interactions. Trigger-based custom
 The real-time nature of the journey ensures that Marketers can respond to customers immediately and convert their expression of interest into a sale.
  
  {% include series.md 
-    includetags="d365 marketing academy" includemethod="all" 
+    includetags="d365 marketing academy|academy content|journeys" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
 %}

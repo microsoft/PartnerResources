@@ -10,10 +10,10 @@ showbreadcrumb: true
 
 Triggers control the flow of trigger-based journeys. They represent customer actions such as a whitepaper download, a form submitted, or a Wi-Fi sign-up. Triggers can also represent significant business events, such as a purchase that has shipped or completion of an enrollment process.
 
-Real-time marketing offers three types of triggers in the triggers catalog: custom triggers, interaction triggers, and business triggers.
+There are three types of triggers in the triggers catalog: custom triggers, interaction triggers, and business triggers.
 
  {% include series.md 
-    includetags="d365 marketing academy" includemethod="all" 
+    includetags="d365 marketing academy|academy content|triggers" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
 %}

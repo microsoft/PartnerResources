@@ -17,5 +17,6 @@ Email is a vital marketing channel for most modern organizations. It's also a co
     visualstyle="normal" target="_blank" showlink="false"
 %}
 
+### Supporting Resources for these videos
 * <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-email" target="_blank">Create Real time marketing emails
 * <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/content-ideas" target="_blank">Leverage Artificial Intelligence to kickstart email creation

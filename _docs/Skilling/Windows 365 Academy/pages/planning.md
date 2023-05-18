@@ -20,7 +20,7 @@ Welcome to the Planning bucket in the Windows 365 Academy. Here we will dig into
 {% include series.md 
     includetags="windows 365 academy|academy content|planning" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" showtags="true" 
+    sortfield="updated" sortorder="desc" showdate="false" showtags="true" 
     visualstyle="normal"
 %}
 

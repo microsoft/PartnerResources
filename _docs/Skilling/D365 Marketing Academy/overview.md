@@ -10,14 +10,5 @@ showbreadcrumb: true
 
 {% include_relative header.md %}
 
-## Sessions
-
-All sessions in this academy:
-
-{% include series.md 
-    includetags="d365 marketing academy|academy content" includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
-    visualstyle="tiny"
-%}
 
 {% include_relative footer.md %}

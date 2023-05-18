@@ -58,6 +58,22 @@ layout: default
 
 {% assign current_docs = current_docs | uniq %}
 
+{% comment %}
+----------------------------------------------------
+    additional sorting
+    todo: check sortField for nulls - site will 
+    not build if a page is missing specified sortfield
+----------------------------------------------------
+{% endcomment %}
+{% assign sortfield = "title" %}
+{% if page.sortfield %}
+    {% assign sortfield = page.sortfield %}
+    {% assign current_docs = current_docs | sort: sortfield %}
+{% endif %}
+{% comment %}
+----------------------------------------------------
+{% endcomment %}
+
 {% for doc in current_docs %}
 {% assign uniquedoctags = doc.tags | uniq | sort %}
 <div class="tag-entry">

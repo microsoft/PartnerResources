@@ -3,9 +3,9 @@ layout: page
 title: Protect Your Slack Deployment Using Microsoft Cloud App Security
 sorttitle: 19
 description: Learn how to protect your Slack environment in under thirty minutes using Microsoft Cloud App Security.
-updated: 2023-02-16
-permalink: /skilling/microsoft-security-academy/d365-academy-ca-box
-youtubeid: GhukXnTgnLQ
+updated: 2023-03-21
+permalink: /skilling/microsoft-security-academy/d365-academy-ca-slack
+youtubeid: Ksdfc-SuQ5k
 tags: 
 - academy content
 - microsoft security academy

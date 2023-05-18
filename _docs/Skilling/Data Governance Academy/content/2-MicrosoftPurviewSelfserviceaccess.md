@@ -25,4 +25,4 @@ tags:
 * [Playlist for all Data Governance Academy videos](https://www.youtube.com/playlist?list=PL8_VXqhvJI9DCu8GcZu7Gk0rcdtFkXPuF)
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
-[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
+{% include youtubethumb.md %}

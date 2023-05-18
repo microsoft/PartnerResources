@@ -20,7 +20,7 @@ Welcome to the Phone bucket in the Teams Academy. Here we will dig into all thin
 {% include series.md 
     includetags="microsoft teams academy|academy content|phone system" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" showtags="true"
+    sortfield="updated" sortorder="desc" showdate="false" showtags="true"
     visualstyle="normal"
 %}
 

@@ -2,7 +2,7 @@
 layout: page
 title: Power Platform
 description: Resources for Power Platform
-updated: 2023-4-1
+updated: 2023-03-08
 permalink: /business-applications/power-platform/power-platform-learning-plan
 tags:
 - learning plan

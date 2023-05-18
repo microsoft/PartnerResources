@@ -345,6 +345,23 @@
 <div style="clear:both; padding-top: 20px; padding-bottom: 0px;">
 <hr/></div>
 
+{% elsif visualStyle == "navlist" %}
+<div>
+    {% if showLink == "true" %}
+        <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doctitle }}</a> 
+    {% else %}
+        <span class="nav-entry">{{ doctitle }}</span> 
+    {% endif %}
+    {% if doc.updated and showDate == "true" %}
+        <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
+    {% endif %}
+</div>
+{% if showdescrip == true %}
+<div>
+{{ doc.description }}
+</div>
+{% endif %}
+
 {% else %}
 {% comment %}
     Assume the visualstyle is "normal" if not matching any other
@@ -363,14 +380,37 @@
     {% if showTags == "true" %}
     <div style="padding-bottom: 5px;">{% for tag in filteredtags %}<span style="font-size:12px" class="badge badge-{{ site.tag_color }}"><a style="cursor:pointer; color:white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">{{ tag }}</a></span>{% endfor %}</div>
     {% endif %}
-    <div>
-    {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}" 
-    {% if target.size > 0 %}target={{target}}{% endif %}><img width="160" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/0.jpg" style="float:left; padding-right:15px;"/></a>
+    <div style="padding-top: 2px;">
+    {% comment %}
+    Native youtube thumbnail is 320x180 from mqdefault.jpg
+    0.jpg has back bars, and typically 480x360
+    {% endcomment %}
+
+    {% comment %}
+    If there's a youtube ID, show the thumbnail and link to either the 
+    detail page (showlink=true), or to youtube directly (showlink=false).
+    todo: handle other thumbnail types
+    {% endcomment %}
+    {% if showLink == "true" %}
+    
+        {% if doc.youtubeid %}<a href="{{- site.baseurl -}}{{- doc.url -}}" 
+        {% if target.size > 0 %}target={{target}}{% endif %}><img width="180" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;float:left; margin-right:12px;"/></a>
+        {% endif %}
+
+    {% else %}
+
+        {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}" 
+        {% if target.size > 0 %}target={{target}}{% endif %}><img width="180" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;float:left; margin-right:12px;"/></a>
+        {% endif %}
+
     {% endif %}
+
+    <span>
     {{ doc.description }}
     {% if showLink == "true" %}
         <a href="{{- site.baseurl -}}{{- doc.url -}}">more &#187;</a> 
     {% endif %}
+    </span>
     </div>
 </div>
 <div style="clear:both; padding-top: 20px; padding-bottom: 0px;">

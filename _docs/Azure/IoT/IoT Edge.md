@@ -2,7 +2,7 @@
 layout: page
 title: Azure IoT Edge
 description: Resources for Azure IoT Edge
-updated: 2021-12-01
+updated: 2023-03-26
 permalink: /azure/iot/iot-edge
 tags: 
 - learning plan
@@ -36,11 +36,12 @@ tags:
 * [Azure IoT Hub](https://azure.microsoft.com/services/iot-hub/) (Self-Paced)
 * [Manage your Azure IoT Hub with alerts and metrics](https://docs.microsoft.com/learn/modules/manage-azure-iot-hub-with-metrics-alerts/) (Self-Paced) (53 Minutes)
 * [Securely connect IoT devices to the cloud](https://docs.microsoft.com/learn/paths/securely-connect-iot-devices/) (Self-Paced) (329 Minutes)
+* [Learn how to use Azure Private Link and Private Endpoints to secure Azure IoT traffic - Azure IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/using-private-link?view=iotedge-1.4)
+* [Blog: Bring all your workloads to the edge with AKS Edge Essentials! Now Generally Available!](https://techcommunity.microsoft.com/t5/internet-of-things-blog/bring-all-your-workloads-to-the-edge-with-aks-edge-essentials/ba-p/3765162)
 
 ## Associate
 
-* [Microsoft Internet of Things Blog](https://azure.microsoft.com/blog/topics/internet-of-things/) (Self-Paced) (15 Minutes)
-* [Overview of Windows 10 IoT](https://docs.microsoft.com/windows/iot-core/windows-iot) (Self-Paced) (4 Minutes)
+* [Overview of Windows IoT](https://docs.microsoft.com/windows/iot-core/windows-iot) (Self-Paced) (4 Minutes)
 * [MS Learn: Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/learn/paths/working-with-connected-field-service-iot/) (Self-Paced) (6 Hours)
 * [Adding devices to Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices) (Self-Paced) (2 Hours)
 * [Automate IoT devices management with Azure IoT Hub](https://docs.microsoft.com/learn/modules/automate-iot-devices-management-with-azure-iot-hub/) (Self-Paced) (53 Minutes)
@@ -60,6 +61,8 @@ tags:
 ## Expert
 
 * [Set up an IoT Edge Gateway](https://docs.microsoft.com/learn/modules/set-up-iot-edge-gateway/) (Self-Paced) (100 Minutes)
+* [Blog: Enable machine learning inference on an Azure IoT Edge device - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/guide/iot/machine-learning-inference-iot-edge)
+* [Blog: Automatic IoT Edge Certificate Management with GlobalSign EST](https://techcommunity.microsoft.com/t5/internet-of-things-blog/automatic-iot-edge-certificate-management-with-globalsign-est/ba-p/3739767)
 
 ## Community Resources
 

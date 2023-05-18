@@ -20,7 +20,7 @@ Welcome to the Certification bucket in the Teams Academy. These videos will walk
 {% include series.md 
     includetags="microsoft teams academy|academy content|certification" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="true" 
     visualstyle="normal"
 %}
 
