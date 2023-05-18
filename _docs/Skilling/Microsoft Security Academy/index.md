@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2023-04-05
+updated: 2023-05-18
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -26,7 +26,7 @@ The resources within each academy are created and delivered by seasoned architec
 ![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Org. Chart 2.jpg)
 
 ## Important Updates
-We'll update this section with our upcoming events or critical content! For other Microsoft Security content, explore the [Microsoft Security Youtube](https://www.youtube.com/@MicrosoftSecurity/featured) or the [Microsoft Security Community YouTube](https://www.youtube.com/channel/UCGTUbqE3SJiLgtvWjIkSQuQ). For documentation, explore the [Microsoft Security Technical Content Library](https://www.microsoft.com/en-us/security/content-library/Home/Index?culture=en-US).
+Interested in Microsoft 365 E5 Licensing features? Watch our architects breakdown what you need to know with [Microsoft 365 E5](https://microsoft-my.sharepoint.com/:v:/r/personal/nickblackman_microsoft_com/Documents/Documents/GPSUS%20Training%20Sessions/Microsoft%20365%20E5%20Licensing/Microsoft%20365%20E5%20-%20Feature%20Breakdown%20-%20Q4-FY23.mp4?csf=1&web=1&e=6r3HSL). For other Microsoft Security content, explore the [Microsoft Security Community YouTube](https://www.youtube.com/channel/UCGTUbqE3SJiLgtvWjIkSQuQ).
 
 Interested in joining our security community? Join at our [Security Community Page](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888)!
 
