@@ -15,7 +15,10 @@ tags:
 The best way to stay informed is to [sign up for partner communications](https://nonprofits.tsi.microsoft.com/EN-US/Microsoft-Cloud-for-Nonprofit-Sign-to-stay-Informed/).
 
 ## Make your opportunities visible to us
-The single most effective way to gain visibility to your great work is to keep your [opportunities in Partner Center](https://learn.microsoft.com/en-us/partner-center/manage-co-sell-opportunities) up to date. This provides critical signal to all of our teams within Tech for Social Impact.
+The most effective and successful partners keep their [opportunities in Partner Center](https://learn.microsoft.com/en-us/partner-center/manage-co-sell-opportunities) up to date. This provides critical insight to all of our teams within Tech for Social Impact.
+
+## Get into the spotlight on our Find a Partner page
+Implementation partners (SI's) that have demonstrated business readiness, technical readiness, and successful delivery with customers can be found in the [Microsot Cloud for Nonprofit section of our Find a Partner page](https://www.microsoft.com/en-us/nonprofits/partners?activetab=pivot1:primaryr5). To be added to this page please submit a request: [Microsoft Cloud for Nonprofit - Find a Partner web listing request](https://forms.office.com/r/g5kw5LztRD).
 
 ## Tell us about your wins
 Take a few moments to tell us more about your Microsoft Cloud for Nonprofit customer stories using the [Case Study Nomination form](https://forms.office.com/r/77NnUEB8sa).
@@ -26,7 +29,7 @@ Microsoft Cloud for Nonprofit stories can include any or all of the following:
  - Constituent Management
 
 ### Get social
-Let future customers know about the impactful work you’re doing with Microsoft Cloud for Nonprofit on [LinkedIn.com](https://www.linkedin.com/) using these hashtags for maximum visibility: #Nonprofits #TechForGood #SocialImpact #SocialGood
+Follow us on LinkedIn: [Microsoft for Nonprofits](https://www.linkedin.com/showcase/microsoft-for-nonprofits/) and let future customers know about the impactful work you’re doing with Microsoft Cloud for Nonprofit using these hashtags for maximum visibility: **#Nonprofits #TechForGood #SocialImpact #SocialGood**
 
 ### Partner of the Year Award
 Celebrate the impact your work has had by nomination for the Nonprofit Partner of the Year Award. This award is integrated in the industry awards category of the [Microsoft Partner of the Year Award](https://partner.microsoft.com/en-us/inspire/awards).
