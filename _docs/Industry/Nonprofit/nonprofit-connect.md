@@ -14,8 +14,8 @@ tags:
 # Stay connected and share success
 The best way to stay informed is to [sign up for partner communications](https://nonprofits.tsi.microsoft.com/EN-US/Microsoft-Cloud-for-Nonprofit-Sign-to-stay-Informed/).
 
-## Make your opportunities visible
-Keeping your [opportunities in Partner Center](https://learn.microsoft.com/en-us/partner-center/manage-co-sell-opportunities) up to date is the most effective way to gain visibility to your work and provides important signal information for us.
+## Make your opportunities visible to us
+The single most effective way to gain visibility to your great work is to keep your [opportunities in Partner Center](https://learn.microsoft.com/en-us/partner-center/manage-co-sell-opportunities) up to date. This provides critical signal to all of our teams within Tech for Social Impact.
 
 ## Tell us about your wins
 Take a few moments to tell us more about your Microsoft Cloud for Nonprofit customer stories using the [Case Study Nomination form](https://forms.office.com/r/77NnUEB8sa).
