@@ -19,7 +19,7 @@ Welcome to the Azure Data Academy content on Azure SQL. This section houses our 
 # SQL Server Migration to Azure 
 
 ## Pre-migration
-This section includes information and details to help prepare for a migration. There are many resources to assist with the initial learning and skill development of the Azure SQL capabilities. One resource to learn more about Azure SQL in the [Data Exposed](https://learn.microsoft.com/en-us/shows/data-exposed/) show. Additional references to specific shows are throughout the various sections below. In addition, [MS Learn](https://learn.microsoft.com/en-us/training/) has many modules on Azure SQL. References to specific MS Learn modules are included in the sections below that are relevant to the specific topic.  
+This section includes information and details to help prepare for a migration. There are many resources to assist with the initial learning and skill development of Azure SQL capabilities. One resource to learn more about Azure SQL is the [Data Exposed](https://learn.microsoft.com/en-us/shows/data-exposed/) show. Additional references to specific Data Exposed shows are provided throughout the various sections below. In addition, [MS Learn](https://learn.microsoft.com/en-us/training/) has many learning modules on Azure SQL. References to specific MS Learn modules are also included in the sections below that are relevant to the specific topic.  
 
 ### Discovery
 In any application and database migration, it is important to have a detailed understanding of the appliaction and database environement documented in order to evaluate target options and migration approaches. For the source system, examples of the information to collect and documenty include:
@@ -30,12 +30,9 @@ In any application and database migration, it is important to have a detailed un
 * BCDR requirements: clustering, high availability, georeplication, backup and recovery, Long tern retention (LTR) etc. - having defined RPO (recovery point objective) and RTO (recovery time objective) numbers are essential.
 
 #### Tools to assist with discovery
-[Azure SQL Migration extension](https://learn.microsoft.com/en-us/azure/dms/migration-using-azure-data-studio?tabs=azure-sql-mi#known-issues-and-limitations) for Azure Data Studio will help you collect details of your environment. The Data Exposed show [Migrating to SQL: Get Started w/ Azure SQL Readiness Assessments & Migrations from ADS (Ep. 6)](https://learn.microsoft.com/en-us/shows/data-exposed/migrating-to-sql-get-started-with-azure-sql-readiness-assessments-and-migrations-from-ads) introduces the capabilities of Azure SQL Migration Extension. 
+[Azure SQL Migration extension](https://learn.microsoft.com/en-us/azure/dms/migration-using-azure-data-studio?tabs=azure-sql-mi#known-issues-and-limitations) for [Azure Data Studio](https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16&tabs=redhat-install%2Credhat-uninstall) will help you collect details of your environment. The Data Exposed show [Migrating to SQL: Get Started w/ Azure SQL Readiness Assessments & Migrations from ADS (Ep. 6)](https://learn.microsoft.com/en-us/shows/data-exposed/migrating-to-sql-get-started-with-azure-sql-readiness-assessments-and-migrations-from-ads) introduces the capabilities of Azure SQL Migration Extension. 
 
-[Data Access Migration Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-databasemigration.data-access-migration-toolkit) (Tooling)
-This tool can be useful in scanning application source documents/code for data access pattern
-
-With this information, options can be evaluated for both cost and technical feasibility. For example, a large server with many dependent databases may be a better fit for Azure SQL Database Managed Instance, whereas a server with dozens or hundreds of independent databases may be a better fit for Azure SQL Database.
+[Data Access Migration Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-databasemigration.data-access-migration-toolkit) is a VS Code extension. This extension can be useful in scanning application source documents/code for data access pattern and used as input into the Azure SQL migration experience to evaluate your application code. 
 
 ### Assessment 
 Using the information gathered during the discovery efforts, an assessment can be completed to determine the Azure SQL target options as well as any issues that may need to be addressed before a migration. 
@@ -47,6 +44,10 @@ This [article](https://learn.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-
 This [article](https://learn.microsoft.com/en-us/dotnet/azure/migration/sql) provides and overview of the Azure SQL options for migration.  
 
 This is a training [resource](https://learn.microsoft.com/en-us/training/modules/deploy-paas-solutions-with-azure-sql/) to help with evauating and understanding the Azure SQL PaaS solutions. 
+
+When considering Azure SQL Database the [resource management in Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/database/resource-limits-logical-server?view=azuresql) which includes limitations to consider as well as the [Single database](https://learn.microsoft.com/en-us/azure/azure-sql/database/resource-limits-vcore-single-databases?view=azuresql) or [Elastic Pools](https://learn.microsoft.com/en-us/azure/azure-sql/database/resource-limits-vcore-single-databases?view=azuresql). 
+
+The [Overview of Azure SQL Managed Instance resource limits](https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/resource-limits?view=azuresql#file-io-characteristics-in-general-purpose-tier) documentation page is a great resource for understanding capabilities, performance, and limitations to consider as you make you Azure SQL target desitnation.  In addition, understanding if an [Azure SQL Managed Instance pool (preview)](https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/instance-pools-overview?view=azuresql) would benefit your deployment should also be reviewed.   
 
 This is a landing [page](https://learn.microsoft.com/en-us/data-migration/) for data migration scenario's.  
 
@@ -60,33 +61,35 @@ If the outcome of the assessment is to deploy to a SQL Server on an Azure Virtua
 Migrations can be performed online or offline. The business requirements will help determine which option is best for the migration. 
 
 ### Azure Migrate
+[Azure migrate](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview) will help with the overall migration process. 
 
 ### Azure Data Studio
-As noted above the [Azure SQL Migration extension](https://learn.microsoft.com/en-us/azure/dms/migration-using-azure-data-studio?tabs=azure-sql-mi#known-issues-and-limitations) for Azure Data Studio can be used to perform the migration. This is executed in combination with the [Azure Data Migration Service.](https://learn.microsoft.com/en-us/azure/dms/dms-overview) 
+As noted above the [Azure SQL Migration extension](https://learn.microsoft.com/en-us/azure/dms/migration-using-azure-data-studio?tabs=azure-sql-mi#known-issues-and-limitations) for [Azure Data Studio](https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16&tabs=redhat-install%2Credhat-uninstall) can be used to perform the migration. This is executed in combination with the [Azure Data Migration Service.](https://learn.microsoft.com/en-us/azure/dms/dms-overview) 
 
 ## Post-Migration
 
 The following information includes steps and information for consideration after the migration is complete. 
 https://learn.microsoft.com/en-us/sql/relational-databases/post-migration-validation-and-optimization-guide?view=sql-server-ver16
 
+As the application and database transition to the Azure, there will be some activities that you will no longer performance, there will be some activities you will continue to perform as you have in the current environment, there will be some activities performed today that will transition in the wau they are performed, and there will be some new activities that you may not have performed in the current environment but will be essential now that the platform is in Azure. These sections below will describe these scenarios in the context of the [Azure Well-Architected Framework (WAF)](https://learn.microsoft.com/en-us/azure/architecture/framework/) 
+
 ### Well-Architected Framework (WAF) 
 
-The Azure Well-Architected Framework (WAF) consists of five pillars
-* Reliability
-* Security
-* Cost Optimization
-* Operational Excellence
-* Performance Efficiency 
+The [Azure Well-Architected Framework (WAF)](https://learn.microsoft.com/en-us/azure/architecture/framework/) consists of five pillars
+* [Reliability](https://learn.microsoft.com/en-us/azure/well-architected/#reliability)
+* [Security](https://learn.microsoft.com/en-us/azure/well-architected/#security)
+* [Cost Optimization](https://learn.microsoft.com/en-us/azure/well-architected/#cost-optimization)
+* [Operational Excellence](https://learn.microsoft.com/en-us/azure/well-architected/#operational-excellence)
+* [Performance Efficiency](https://learn.microsoft.com/en-us/azure/well-architected/#performance-efficiency) 
 
-Detailed information on the Well-Architected Framework (WAF) can be found here:
-https://learn.microsoft.com/en-us/azure/architecture/framework/
+The [Azure Well-Architected Framework (WAF)](https://learn.microsoft.com/en-us/azure/architecture/framework/) provides various [assessments](https://learn.microsoft.com/en-us/assessments/) that can be used to assist in determining areas of attention as you deploy your solution. 
 
-#### Reliabilty
+#### [Reliability](https://learn.microsoft.com/en-us/azure/well-architected/#reliability)
 Backup, Geo backup and restore, long term retention 
 High availability considerations, cross region redundacy, Ready Only Secondaries (failover as well), monitoring and alterting 
 
 
-#### Security
+#### [Security](https://learn.microsoft.com/en-us/azure/well-architected/#security)
 
 Here is the MS Learn module [Configuring and manage SQL database security](https://learn.microsoft.com/en-us/training/modules/sql-database-security/)
 
@@ -107,13 +110,21 @@ Azure Key Vault
 
 Purview – Information Classification 
 
-#### Cost Optimization
-Azure cost management 
+#### [Cost Optimization](https://learn.microsoft.com/en-us/azure/well-architected/#cost-optimization)
+
+The ability to monitor and analyze spend over time is important to ensure you are optimizing your resource utilization and cost. Advantages of Azure include the ability to scale up or down as needed, leverage serverless or pause and resume options to optimize resource utilization and cost. As well as scaling considerations and resource management that may be different for various scenarios such as development, test, and production evironments.
+
+You can read the article [Optimize Cost in Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/optimize-costs-in-azure-sql-managed-instance/ba-p/3792571) for more inforation about the cost optimization considerations.
+
+[Azure cost management](https://azure.microsoft.com/en-us/products/cost-management/) 
+
 [Azure advisor](https://learn.microsoft.com/en-us/azure/advisor/advisor-overview) 
 
-Scaling considerations such as serverless options, pause \ resume options help with the management of cost for development, test, and production evironments. Azure SQL Database has serverless options. Azure SQL Managed Instance introduced the ability to start and stop an instance. 
+Azure SQL Database has [serverless](https://learn.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview?view=azuresql&tabs=general-purpose) options may be a useful way to manage costs. 
+ 
+Azure SQL Managed Instance introduced the ability to start and stop an instance. In this short [video](https://www.youtube.com/watch?v=94-QCey596o) you will a demonstration of Azure SQL Managed Instance Start and Stop capabilities.
         
-#### Operational Excellence
+#### [Operational Excellence](https://learn.microsoft.com/en-us/azure/well-architected/#operational-excellence)
 
 [SQL Server best practices assessment (BPA)](https://techcommunity.microsoft.com/t5/sql-server-blog/best-practices-assessment-arc-enabled-sql-server/ba-p/3715776 )
 
@@ -128,14 +139,16 @@ Azure Data studio - [Database projects](https://learn.microsoft.com/en-us/sql/az
 
 Azure SQL Database [Local development experience](https://learn.microsoft.com/en-us/azure/azure-sql/database/local-dev-experience-overview?view=azuresql)
 
-VS Code SQL projects
+VS Code [SQL Server Extension](https://learn.microsoft.com/en-us/sql/tools/visual-studio-code/mssql-extensions?view=sql-server-ver16) 
 
 Microsoft SQL Server Data-Tier Application Framework DacFx
 [SqlPackage](https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage?view=sql-server-ver16) is a command-line tool used for database development activities. 
 
-Automation and Infrastructure as code using PowerShell or Azure CLI 
+Automation and Infrastructure as code using PowerShell or [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/azure-cli-reference-for-sql) 
 
-#### Performance Efficiency
+#### [Performance Efficiency](https://learn.microsoft.com/en-us/azure/well-architected/#performance-efficiency)
+In addition to ensure the application is performing to the requirements and needs of the business, it is important to ensure that the database is performing efficiently to assist with overal resource utilization and cost optimization. Azure provides additional tools and capabilities along side the tools you are familiar with from SQL Server, but Azure also adds additional considerations to know and manage to ensure the database is operating in the most performant way. 
+
 Azure Portal
 
 Azure Monitor
@@ -144,13 +157,15 @@ Query Store
 
 Intelligent Query Processing (IQP)  
 
+Automatic tuning 
+
 Columnstore
 
 Non Clustered Columnstore (NCCS)
 
 Database compatibility level 
 
-Automatic tuning 
+Data virtualization 
 
 ## Modernization 
 This section includes information related to topics that you can consider to enhance or expand the capabilities of your application from functionality within Azure SQL. 
