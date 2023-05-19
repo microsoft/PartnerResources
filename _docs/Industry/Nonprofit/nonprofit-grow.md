@@ -35,7 +35,7 @@ When [adding opportunity details](https://learn.microsoft.com/en-us/partner-cent
 
 Marketing Campaign ID | Campaign Name
 :--|:---
-7-XPYHH5K2P | SI - F&E (Fundraising and Engagement): Partner Generated
+7-XPYHH5K2P | TSI - F&E (Fundraising and Engagement): Partner Generated
 7-ZK4V57KEE | TSI - Volunteer: Partner Generated
 
 ## Go to market with Microsoft Marketplace
@@ -47,16 +47,18 @@ The commercial marketplace consists of two online stores:
 
 Multiple types of offers are supported including Consulting Services, turnkey Azure Applications, Dynamics 365 solutions, and Software as a Service subscriptions. To get started, see an overview of [Publishing guides by offer type](https://learn.microsoft.com/en-us/azure/marketplace/publisher-guide-by-offer-type) to identify the type of offer most appropriate for you. Several [offer types are transactable on marketplace](https://learn.microsoft.com/en-us/azure/marketplace/marketplace-commercial-transaction-capabilities-and-considerations).
 
-If you publish a transactable offer for Azure or Teams, there are resources available to guide you from start to finish:
+If you publish a transactable offer for Azure or Teams, here are some excellent resources available to guide you from start to finish:
  - [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/)
  - [Marketplace Office Hours](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners)
+ - [Azure Marketplace - Start Simple but Start Now!](https://www.linkedin.com/pulse/azure-marketplace-start-simple-now-anders-bonde/)
+ - [Azure Marketplace - Setup for ISVs with a Global Scope](https://www.linkedin.com/pulse/azure-marketplace-setup-isvs-global-scope-anders-bonde-1e/)
 
 ### Offer setup considerations
 To ensure your offer is visible to the right nonprofit customers consider the following settings on the Properties tab of your offer:
  - If your offer is relevant to nonprofit industry scenarios, choosing the “Nonprofit and IGO” industry will ensure that your offer appears with the industry filter:
    - [AppSource - Nonprofit & IGO Apps](https://appsource.microsoft.com/en-US/marketplace/apps?exp=ubp8&filterTab=industries&industry=nonprofit)
    - [AppSource - Nonprofit & IGO Services](https://appsource.microsoft.com/en-US/marketplace/consulting-services?exp=ubp8&industry=nonprofit)
- - If your offer utilizes the Common Data Model for Nonprofits or a Microsoft Cloud for Nonprofit solution like Fundraising and Engagement or Volunteer Management, check the Microsoft Clouds for Industry checkbox and choose the “Nonprofit & IGO” industry to appear on the Microsoft Cloud for Nonprofit landing page:
+ - If your offer utilizes the Common Data Model for Nonprofits or a Microsoft Cloud for Nonprofit solution like Fundraising and Engagement or Volunteer Management, check the Microsoft Clouds for Industry checkbox and choose the “Nonprofit & IGO” industry to appear on the Microsoft Cloud for Nonprofit landing page (validation required by industry team):
    - [AppSource - Microsoft Cloud for Nonprofit offers](https://appsource.microsoft.com/en-US/marketplace/cloudsIndustry?exp=ubp8&industry=nonprofit)
 
 ### Co-selling your offer
