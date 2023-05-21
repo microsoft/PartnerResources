@@ -13,6 +13,7 @@ tags:
 - vignettes
 - synapse
 - managed virtual network
+- private endpoint
 ---
 
 # {{ page.title }}
