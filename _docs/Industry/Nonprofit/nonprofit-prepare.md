@@ -17,7 +17,7 @@ Microsoft Tech for Social Impact integrates philanthropy and affordable commerci
 Microsoft Cloud for Nonprofit aligns the capabilities of Microsoft 365, Power Platform, Dynamics 365, Azure, and LinkedIn to address common nonprofit scenarios including constituent engagement and fundraising, staff collaboration and volunteer management, and program design and delivery. Together with our partners we are aiming to double the number of nonprofits we work with to over 600,000 by 2027.
 
 ## Partner success
-Above all, the success of our partners is reflected in <a href="https://customers.microsoft.com/en-us/search?sq=&ff=story_industry_friendlyname%26%3ENonprofit&p=3&so=story_publish_date%20desc" target="_blank">customer stories</a>.
+Above all, the success of our partners is reflected in [customer stories](https://customers.microsoft.com/en-us/search?sq=&ff=story_industry_friendlyname%26%3ENonprofit&p=3&so=story_publish_date%20desc).
 For our partners working with Microsoft Cloud for Nonprofit the opportunity is shaped by:
  - The nearly 300,000 nonprofits Microsoft works with today globally.
  - The technology grants and discounts Microsoft offers to nonprofits.
@@ -26,7 +26,7 @@ For our partners working with Microsoft Cloud for Nonprofit the opportunity is s
 
 ## Get started
 Here is an overview of the fastest possible path to driving business with Microsoft Cloud for Nonprofit
- 1. Create a free partner account with the <a href="https://partner.microsoft.com/en-us/partnership" target="_blank">Microsoft Cloud Partner Program</a>.
+ 1. Create a free partner account with the [Microsoft Cloud Partner Program](https://partner.microsoft.com/en-us/partnership).
  1. Prepare for development or demonstrations with [a pre-production environment](#setup-your-internal-environment).
  1. Make [your opportunities visible in Partner Center](./nonprofit-grow.md#make-yourself-visible-to-us-in-parnter-center).
  1. Co-sell with us and grow [your Microsoft Cloud for Nonprofit business](./nonprofit-grow.md).
