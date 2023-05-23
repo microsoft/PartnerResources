@@ -2,7 +2,7 @@
 layout: page
 title: Azure OpenAI
 description: Resources for Azure OpenAI
-updated: 2023-05-03
+updated: 2023-05-23
 permalink: /azure/data-analytics-ai/openai
 tags: 
 - azure
