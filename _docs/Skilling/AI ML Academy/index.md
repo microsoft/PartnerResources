@@ -5,7 +5,7 @@ description: The AI & ML Academy is focused on Artificial Intelligence and Machi
 permalink: /skilling/ai-ml-academy
 redirect_from:
   - /skilling/ai-ml-academy/
-updated: 2022-10-17
+updated: 2023-05-23
 showbreadcrumb: true
 tags:
 - azure
@@ -43,9 +43,11 @@ Our [ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes) cont
 
 <div>&nbsp;</div>
 
-## Live Schedule
+## Events
 
-We'll update this section with our upcoming Partner prep series and AI shows available as a webcast and all content will be included here.
+- [Microsoft Build](https://build.microsoft.com/) (developer conference) - May 23-24. Join live or watch recordings on-demand! See [Microsoft Build 2023 Recommended AI Session Guide]({{ site.baseurl }}/assets/aiml/Microsoft Build 2023 Recommended AI Session Guide.pdf)
+- Microsoft Build Recap: Insights and Learnings for Analytics and AI - June 7 - [Registration page](https://msuspartners.eventbuilder.com/event/73358)
+- AI Readiness events: [AI & ML Partner Prep](https://aka.ms/AIMLPartnerPrep)
 
 ## Table of Contents
 
