@@ -21,7 +21,7 @@ Microsoft Security Copilot is an AI-powered security analysis tool that enables 
 
 We first introduced Security Copilot at the inaugural Microsoft Secure. Microsoft Security Copilot is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with a Microsoft-developed, security-specific model.
 
-Microsoft Security Copilot is currently in preview and not yet generally available. **[Sign up for Microsoft Security updates](https://go.microsoft.com/fwlink/p?linkid=2228156) to learn about product announcements, security insights, and upcoming events.**
+Microsoft Security Copilot is currently in preview and not yet generally available. **[Sign up for Microsoft Security updates]**(https://go.microsoft.com/fwlink/p?linkid=2228156) to learn about product announcements, security insights, and upcoming events.
 
 
 ## Get Started
@@ -31,21 +31,20 @@ To get started, we recommend watching the following videos created by Microsoft 
 <table>
   <tr>
     <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/microsoft-security-copilot-gpt-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Microsoft Security Copilot Demo" width="200" height="153"></a></td>
-    <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><b>Microsoft Security Copilot Demo</b></a><br><br>See Security Copilot in action and uncover, investigate, and respond to threats, then summarize your work—in minutes.</td>
+    <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><b>Microsoft Security Copilot Demo</b></a><br><br>See Security Copilot in action and learn how it uncovers, investigates, and responds to threats.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/microsoft-security-copilot-gpt-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Placeholder for June 15th Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results" width="200" height="153"></a></td>
-    <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><b>Placeholder for June 15th Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results</b></a><br><br>TBD.</td>>
+    <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><b>Placeholder for June 15th Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results</b></a><br><br>TBD.</td>
   </tr>
 </table>
 
-
 ## Keeping Up
 
-* [Microsoft Security Copilot Homepage](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot)
-* [Microsoft Security Copilot Blog Post](https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/)
+Visit the [Microsoft Security Copilot Homepage](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot) and [Microsoft Security Copilot Blog Post](https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/) to get started.
 
-**Please visit our [Learning Plan Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai) and [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy) to see information related to Azure OpenAI, ChatGPT, and more.**
+**Visit our [Readiness Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai) and [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy) to see information related to Azure OpenAI, ChatGPT, and more.**
+
 
 ## Features
 ### Security Copilot Integrations
