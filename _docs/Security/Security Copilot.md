@@ -56,15 +56,9 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 Security Copilot integrates insights and data from other critical security tools, such as [Microsoft Sentinel](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel), [Microsoft Defender](https://www.microsoft.com/en-us/security/business/microsoft-defender), and [Microsoft Intune](https://www.microsoft.com/en-us/security/business/microsoft-Intune).
 
-
-<img src="{{ site.baseurl }}/assets\msa\Security Copilot Arch..png" width="200" />
-
 Security Copilot runs on Microsoft Security and privacy-compliant hyperscale infrastructure. The unique foundation leverages the full benefit of Azure, and our cyber-trained model creates a learning system that has a set of security-specific skills that are constantly growing. 
 
 Combine that with Microsoft’s evergreen global threat intelligence and Security Copilot’s end-to-end integration and tooling and we can change the equation.
-
-
-<img src="{{ site.baseurl }}/assets\msa\Copilot Integration.png" width="200" />
 
 Microsoft Security Copilot will serve as the heart of our security solutions and be the central location where our products come together. We envision increased opportunities for cross-product scenarios (e.g., such as viewing endpoint and identity alerts in the same experience).
 
