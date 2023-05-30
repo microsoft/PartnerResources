@@ -2,10 +2,10 @@
 layout: page
 title: Microsoft 365 Defender Resources
 description: Resources for Microsoft 365 Defender
-updated: 2023-03-03
+updated: 2023-05-30
 permalink: /security/microsoft-defender
 redirect_from:
-  - /security/microsoft-defender-for-endpoint-training
+  - /security/microsoft-defender-for-endpoint
 tags:
 - security
 - learning plan
