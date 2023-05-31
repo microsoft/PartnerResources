@@ -17,11 +17,11 @@ tags:
 
 ## Introduction
 
-Microsoft Security Copilot is an AI-powered security analysis tool that enables analysts to respond to threats quickly, process signals at machine speed, and assess risk exposure in minutes. 
+Microsoft Security Copilot is an AI-powered security analysis tool that enables analysts to respond to threats quickly, process signals at machine speed, and assess risk exposure in minutes.
 
 We first introduced Security Copilot at the inaugural Microsoft Secure. Microsoft Security Copilot is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with a Microsoft-developed, security-specific model.
 
-Microsoft Security Copilot is currently in preview and not yet generally available. **[Sign up for Microsoft Security updates]**(https://go.microsoft.com/fwlink/p?linkid=2228156) to learn about product announcements, security insights, and upcoming events.
+Microsoft Security Copilot is currently in preview and not yet generally available. **[Sign up for Microsoft Security updates](https://go.microsoft.com/fwlink/p?linkid=2228156) to learn about product announcements, security insights, and upcoming events.**
 
 
 ## Get Started
@@ -35,7 +35,7 @@ To get started, we recommend watching the following videos created by Microsoft 
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/microsoft-security-copilot-gpt-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Placeholder for June 15th Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results" width="200" height="153"></a></td>
-    <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><b>Placeholder for June 15th Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results</b></a><br><br>TBD.</td>
+    <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><b>Coming soon! Placeholder for June 15th Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results</b></a><br><br>N/A</td>
   </tr>
 </table>
 
@@ -44,6 +44,24 @@ To get started, we recommend watching the following videos created by Microsoft 
 Visit the [Microsoft Security Copilot Homepage](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot) and [Microsoft Security Copilot Blog Post](https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/) to get started.
 
 **Visit our [Readiness Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai) and [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy) to see information related to Azure OpenAI, ChatGPT, and more.**
+
+
+## Events
+
+[Register now](https://msuspartners.eventbuilder.com/event/74224) for Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results delivereid by Microsoft GPS Architects.
+
+Agenda:
+
+* Introduction to AI/ML
+* What are Large Language Models (LLMs)
+* Overview of ChatGPT and GPT-4
+* Today's Threat Landscape
+* Overview of Security Copilot
+* Partner Opportunities
+* Microsoft Sentinel Integration with OpenAI
+* Microsoft Sentinel Integration with Azure OpenAI
+* Updates to Azure OpenAI
+* Question & Answers
 
 
 ## Features
@@ -57,16 +75,23 @@ Visit the [Microsoft Security Copilot Homepage](https://www.microsoft.com/en-us/
 
 Security Copilot integrates insights and data from other critical security tools, such as [Microsoft Sentinel](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel), [Microsoft Defender](https://www.microsoft.com/en-us/security/business/microsoft-defender), and [Microsoft Intune](https://www.microsoft.com/en-us/security/business/microsoft-Intune).
 
+Microsoft Security Copilot will serve as the heart of our security solutions and be the central location where our products come together. We envision increased opportunities for cross-product scenarios (e.g., such as viewing endpoint and identity alerts in the same experience).
+
+### Considerations
+
+* **Assist a Human in Completing Work** – It’s a Copilot, integrations are driven by/drive human engagement, not background runtime processing of large amounts of data
+* **Have High Customer Value** – The cost of Generative AI is orders of magnitude per transaction higher than your average feature today and depend on a constrained hardware supply (GPUs)
+* **Will be Regularly Used** – The best integrations will be used regularly so it is ongoing value, not a one-time value like a configuration assistant
+* **Work with Constrained Context**  - The model has a token limit of 32k for both input and output for the entire session
+Leverage Model Creativity – The model is probabilistic and not deterministic; the best integrations are cases where that’s additive to the user experience
+
+### Architecture
+
 Security Copilot runs on Microsoft Security and privacy-compliant hyperscale infrastructure. The unique foundation leverages the full benefit of Azure, and our cyber-trained model creates a learning system that has a set of security-specific skills that are constantly growing. 
 
 Combine that with Microsoft’s evergreen global threat intelligence and Security Copilot’s end-to-end integration and tooling and we can change the equation.
 
-Microsoft Security Copilot will serve as the heart of our security solutions and be the central location where our products come together. We envision increased opportunities for cross-product scenarios (e.g., such as viewing endpoint and identity alerts in the same experience).
-
-
-## Events
-
-Coming soon!
+![]({{ site.baseurl }}/assets/msa/Security Copilot Arch..png)
 
 
 ## Community Resources
