@@ -2,7 +2,7 @@
 layout: page
 title: Security Certifications
 description: Resources for Security Certifications
-updated: 2023-05-31
+updated: 2023-06-02
 permalink: /security/certifications
 tags:
 - security
