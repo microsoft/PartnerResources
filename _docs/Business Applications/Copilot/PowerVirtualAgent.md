@@ -27,7 +27,7 @@ Power Virtual Agents lets you create and iterate on topics by describing what yo
 * <a href="https://learn.microsoft.com/en-us/power-virtual-agents/nlu-authoring" target="_blank">Create (and edit) with Copilot - Power Virtual Agents </a>
 * <a href="https://learn.microsoft.com/en-us/power-virtual-agents/nlu-gpt-overview" target="_blank"> AI-based chatbot authoring overview</a> (on docs.microsoft.com)
 
-## **Generative Ansers/Boost Conversations** 
+## **Generative Answers/Boost Conversations** 
 Power Virtual Agents generative answers capabilities (Also known as conversation boosters) expands to include multiple knowledge sources – external sites, documents, internal Sharepoint sites, or a combination of these – and instantly have rich, multi-turn conversations over that knowledge, available in Public Preview. This also includes a new generative answers node which allows more granular use of generative answers by topic, vs all up fallback. If you have an Azure OpenAI Service instance for your company data, you can hook it up for PVA to use with a few clicks, allowing your bots full access to those capabilities. Invite customers to try out generative answers now with a simple demo bot (aka.ms/pvademo) - just add in your company website and start chatting.
 * <a href="https://learn.microsoft.com/en-us/power-virtual-agents/nlu-boost-conversations" target="_blank">Boost conversations in Power Virtual Agents</a> 
 * <a href="https://www.youtube.com/watch?v=ioP02_N3f78" target="_blank">GPT Powered Power Virtual Agents Conversations</a> 
