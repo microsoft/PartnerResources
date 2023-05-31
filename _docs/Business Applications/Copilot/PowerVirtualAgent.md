@@ -37,4 +37,4 @@ Power Virtual Agents generative answers capabilities (Also known as conversation
 ## **Generative Actions** 
 Using the generative actions capability, Power Virtual Agents can automate bot responses with action. Rather than manually building every action for the bot, bot makers can expose their tools to the bot (like tenant APIs, enterprise specific Power Automate Flows or more), which PVA can automatically chain together to produce responses and even ask users for additional information. With the generative actions tracing canvas, builders can monitor the bot's process and question generation.
 * Limited Preview: <a href="https://aka.ms/PVAPreviewSignUp " target="_blank">https://aka.ms/PVAPreviewSignUp</a> 
-* <a href="https://youtu.be/dPRrft7A50o" target="_blank">Turn conversation into action with generative actions in Power Virtual Agents</a> (1 min)
+* <a href="https://youtu.be/dPRrft7A50o" target="_blank">Turn conversation into action with generative actions in Power Virtual Agents</a> (1 minute video)
