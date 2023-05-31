@@ -48,20 +48,7 @@ Visit the [Microsoft Security Copilot Homepage](https://www.microsoft.com/en-us/
 
 ## Events
 
-[Register now](https://msuspartners.eventbuilder.com/event/74224) for Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results delivereid by Microsoft GPS Architects.
-
-Agenda:
-
-* Introduction to AI/ML
-* What are Large Language Models (LLMs)
-* Overview of ChatGPT and GPT-4
-* Today's Threat Landscape
-* Overview of Security Copilot
-* Partner Opportunities
-* Microsoft Sentinel Integration with OpenAI
-* Microsoft Sentinel Integration with Azure OpenAI
-* Updates to Azure OpenAI
-* Question & Answers
+[Register now](https://msuspartners.eventbuilder.com/event/74224) for Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results delivered by Microsoft GPS Architects.
 
 
 ## Features
@@ -79,19 +66,17 @@ Microsoft Security Copilot will serve as the heart of our security solutions and
 
 ### Considerations
 
-* **Assist a Human in Completing Work** – It’s a Copilot, integrations are driven by/drive human engagement, not background runtime processing of large amounts of data
-* **Have High Customer Value** – The cost of Generative AI is orders of magnitude per transaction higher than your average feature today and depend on a constrained hardware supply (GPUs)
-* **Will be Regularly Used** – The best integrations will be used regularly so it is ongoing value, not a one-time value like a configuration assistant
-* **Work with Constrained Context**  - The model has a token limit of 32k for both input and output for the entire session
-Leverage Model Creativity – The model is probabilistic and not deterministic; the best integrations are cases where that’s additive to the user experience
+* **Assist a Human in Completing Work** – It is a Copilot, integrations are driven by/drive human engagement, not background runtime processing of substantial amounts of data.
+* **Have High Customer Value** — The cost of Generative AI is orders of magnitude per transaction higher than your average feature today and depend on a constrained hardware supply (GPUs).
+* **Will be Regularly Used** — The best integrations will be used regularly so it is ongoing value, not a one-time value like a configuration assistant.
+* **Work with Constrained Context** — The model has a token limit of 32k for both input and output for the entire session.
+* **Leverage Model Creativity** — The model is probabilistic and not deterministic; the best integrations are cases where that is additive to the user experience.
 
 ### Architecture
 
 Security Copilot runs on Microsoft Security and privacy-compliant hyperscale infrastructure. The unique foundation leverages the full benefit of Azure, and our cyber-trained model creates a learning system that has a set of security-specific skills that are constantly growing. 
 
 Combine that with Microsoft’s evergreen global threat intelligence and Security Copilot’s end-to-end integration and tooling and we can change the equation.
-
-![]({{ site.baseurl }}/assets/msa/Security Copilot Arch..png)
 
 
 ## Community Resources

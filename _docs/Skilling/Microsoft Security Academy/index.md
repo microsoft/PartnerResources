@@ -13,10 +13,10 @@ showbreadcrumb: true
 
 The Microsoft Security Academy is organized into five smaller academies and security categories, including [Cloud Security](/PartnerResources/skilling/microsoft-security-academy/cloud-security), [Identity and Access](/PartnerResources/skilling/microsoft-security-academy/identity-access), [Endpoint Security](/PartnerResources/skilling/microsoft-security-academy/endpoint-security), [SIEM & XDR](/PartnerResources/skilling/microsoft-security-academy/siem-xdr), and [Risk Management and Privacy](/PartnerResources/skilling/microsoft-security-academy/risk-mgmt). Each academy includes video sessions, demonstrations, learning paths, certifications, and other related materials.
 
-The resources within each academy are created and delivered by seasoned architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields. The overall objective of the academies is to help you enhance your security knowledge, scale in learning, and grow in experience.
+The resources within each academy are created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields. The overall objective of the academies is to help you enhance your security knowledge, scale in learning, and grow in experience.
 
 
-**For more resources, see our [Security Readiness Resources](https://microsoft.github.io/PartnerResources/security/)**
+**For more resources, see our [Security Readiness Resources](https://microsoft.github.io/PartnerResources/security/).**
 
 ## Organization
 ![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Org. Chart 2.jpg)
@@ -27,6 +27,8 @@ Interested in Microsoft 365 E5 Licensing features? Watch our architects breakdow
 
 ## Start Your Journey
  
+**Join our private [Cloud Security Community](https://aka.ms/PrSecCom) where you can sign-up to make a difference in helping us shape our products together.**
+
  Stay connected with our [Security Community ](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888), your peers, find guidance and resources, view technical and roadmap related questions, and more.
 
 * [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
@@ -35,5 +37,3 @@ Interested in Microsoft 365 E5 Licensing features? Watch our architects breakdow
 * [Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)
 * [Security, Compliance, and Identity Blog](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance)
 * [Microsoft Defender for Endpoint Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog)
-
-**Join our private [Cloud Security Community](https://aka.ms/PrSecCom) where you can sign-up to make a difference in helping us shape our products together.**
