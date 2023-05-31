@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Copilot
 description: Resources for Microsoft Security Copilot
-updated: 2023-06-01
+updated: 2023-05-31
 permalink: /security/microsoft-security-copilot
 tags:
 - security
@@ -44,12 +44,12 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 Visit the [Microsoft Security Copilot Homepage](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot) and [Microsoft Security Copilot Blog Post](https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/) to get started.
 
-Visit our [Readiness Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai) and [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy) to see information related to Azure OpenAI, ChatGPT, and more.
+Visit our [Readiness Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai) and [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy) to see additional information related to Azure OpenAI, ChatGPT, and more.
 
 
 ## Events
 
-**[Register now](https://msuspartners.eventbuilder.com/event/74224) for Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results delivered by Microsoft GPS Architects.**
+**[Register now](https://msuspartners.eventbuilder.com/event/74224) for Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results** delivered by Microsoft GPS Architects.
 
 
 ## Features
@@ -88,4 +88,3 @@ Learn more about our approach to [Responsible AI](https://www.microsoft.com/en-u
 ## Interesting Reads
 
 Coming soon!
-
