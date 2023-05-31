@@ -12,7 +12,7 @@ tags:
 ---
 
 # Security Certifications
-Below you will find information about security certifications critical for learning. Please use the navigation pane on the right to quickly jump between sections or specific certification that you are interested in.
+Below you will find information about security certifications critical for learning. Please use the navigation pane on the right to quickly jump between sections or specific certifications in which you are interested.
 
 
 ## Microsoft Cybersecurity Architect (SC-100)
