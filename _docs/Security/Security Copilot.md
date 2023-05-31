@@ -34,7 +34,7 @@ To get started, we recommend watching the following videos created by Microsoft 
     <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><b>Microsoft Security Copilot Demo</b></a><br><br>See Security Copilot in action and learn how it uncovers, investigates, and responds to threats.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><img src= "![]({{ site.baseurl }}\assets\msa\Microsoft Security Copilot.png" alt="Placeholder for June 15th Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results" width="200" height="153"></a></td>
+    <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><img src= "https://github.com/ZacharyRiffle/PartnerResources/blob/main/assets/msa/Microsoft%20Security%20Copilot.png" alt="Placeholder for June 15th Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results" width="200" height="153"></a></td>
     <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><b>Coming soon! Placeholder for June 15th Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results</b></a><br><br>N/A</td>
   </tr>
 </table>
