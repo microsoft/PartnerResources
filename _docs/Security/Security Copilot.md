@@ -47,11 +47,13 @@ Visit the [Microsoft Security Copilot Homepage](https://www.microsoft.com/en-us/
 
 
 ## Features
-### Security Copilot Integrations
 
 * Incident Response — Detect ongoing attacks, estimate range, and receive remediation guidance based on real-world security incident proven strategies.
 * Threat Hunting — Find out if your organization is at risk from known vulnerabilities and exploits. Examine each resource in your environment for signs of a security breach.
 * Security Reports — Summarize events, incidents, or threats in minutes and prepare the information in directly shareable individual reports for the desired audience.
+
+
+### Security Copilot Integrations
 
 Security Copilot integrates insights and data from other critical security tools, such as [Microsoft Sentinel](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel), [Microsoft Defender](https://www.microsoft.com/en-us/security/business/microsoft-defender), and [Microsoft Intune](https://www.microsoft.com/en-us/security/business/microsoft-Intune).
 
