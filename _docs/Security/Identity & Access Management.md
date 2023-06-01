@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Identity & Access Management
+title: Identity and Access Management
 description: Resources for Identity and Access Management
 updated: 2023-06-02
 permalink: /security/identity-and-access-management
@@ -24,9 +24,7 @@ Below you will find content to assist in upskilling on Identity and Access Manag
 
 ## Associate
 * [External Identities Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/external-identities/)
-* [Azure Identity Management Security Overview - Microsoft Docs](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-overview)
 * [Azure Active Directory Authentication Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/authentication/)
-* [Azure Active Directory Deployment Plans - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-deployment-plans)
 
 ## Expert
 * [Microsoft Identity Platform Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/)

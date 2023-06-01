@@ -17,6 +17,7 @@ Below you will find content to assist in upskilling on Threat Protection. Conten
 **See our [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)** for video sessions, demonstrations, learning paths, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields.
 
 ## Fundamentals
+* [Microsoft Defender for Endpoint Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647)
 * [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101)
 * [Azure Threat Protection Overview - Microsoft Docs](https://learn.microsoft.com/en-us/azure/security/fundamentals/threat-detection)
 * [Azure Network Security Overview (Including DDOS) - Microsoft Docs](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-overview)
@@ -25,4 +26,3 @@ Below you will find content to assist in upskilling on Threat Protection. Conten
 
 ## Associate
 * [Design a Holistic Monitoring Strategy on Azure - Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/)
-* [Manage Endpoint Security in Microsoft Intune - Microsoft Docs](https://learn.microsoft.com/en-us/mem/intune/protect/endpoint-security?view=o365-worldwide)
