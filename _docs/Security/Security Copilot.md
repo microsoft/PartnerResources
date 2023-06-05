@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Copilot
 description: Resources for Microsoft Security Copilot
-updated: 2023-05-31
+updated: 2023-06-02
 permalink: /security/microsoft-security-copilot
 tags:
 - security
@@ -70,7 +70,7 @@ Microsoft Security Copilot will serve as the heart of our security solutions and
 * **Assist a Human in Completing Work** – It's a Copilot, integrations are driven by/drive human engagement, not background runtime processing of substantial amounts of data.
 * **Have High Customer Value** — The cost of Generative AI is orders of magnitude per transaction higher than your average feature today and depend on a constrained hardware supply (GPUs).
 * **Will be Regularly Used** — The best integrations will be used regularly so it is ongoing value, not a one-time value (like a configuration assistant).
-* **Work with Constrained Context** — The model has a token limit of 32k for both input and output for the entire session.
+* **Work with Constrained Context** — The model has a token limit for both input and output for the entire session.
 * **Leverage Model Creativity** — The model is probabilistic and not deterministic; the best integrations are cases where that is additive to the user experience.
 
 ### Architecture

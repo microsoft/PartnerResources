@@ -2,8 +2,8 @@
 layout: page
 title: Understanding Azure Arc
 sorttitle: 2
-description: This session analyzes how Azure Arc can help both customers and partners secure, manage, and govern on-premises, edge, and multicloud infrastructure from a single control plane.
-updated: 2023-03-28
+description: Join us as we analyze how Azure Arc can help both customers and partners secure, manage, and govern on-premises, edge, and multicloud infrastructure from a single control plane.
+updated: 2023-06-02
 permalink: /skilling/microsoft-security-academy/defender-academy-arc
 youtubeid: WZuyemrVWps
 tags: 

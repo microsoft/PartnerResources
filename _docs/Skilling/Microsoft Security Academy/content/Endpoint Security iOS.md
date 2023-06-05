@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Protect Your Mobile Devices with Microsoft Defender for Endpoint
-sorttitle: 2
+sorttitle: 3
 description: In this session, explore how Microsoft Defender for Endpoint protects Android and iOS devices. Learn about configuration options, protection settings, reports and incident investigations.
-updated: 2023-02-16
+updated: 2023-06-02
 permalink: /skilling/microsoft-security-academy/endpoint-academy-iot-ios
 youtubeid: -rzvcRjozf0
 tags: 

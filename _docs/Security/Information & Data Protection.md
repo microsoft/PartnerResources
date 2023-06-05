@@ -18,8 +18,8 @@ Below you will find content to assist in upskilling on Information and Data Prot
 
 ## Fundamentals
 * [Microsoft Purview Information Protection Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-information-protection-ninja-training-is/ba-p/2887478?WT.mc_id=m365-0000-rotrent)
-* [Microsoft Purview Data Loss Prevention (DLP) Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-data-loss-prevention-ninja-training-is/ba-p/3659015)
 * [Microsoft Purview eDiscovery Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-purview-ediscovery-ninja/ba-p/2793108)
+* [Microsoft Purview Data Loss Prevention (DLP) Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-data-loss-prevention-ninja-training-is/ba-p/3659015)
 * [Azure Information Protection (AIP) Documentation - Microsoft Docs](https://learn.microsoft.com/en-us/azure/information-protection/)
 * [What is Azure Information Protection? - Microsoft Docs](https://docs.microsoft.com/en-us/azure/information-protection/what-is-information-protection)
 

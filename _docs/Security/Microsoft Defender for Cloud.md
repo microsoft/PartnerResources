@@ -9,7 +9,7 @@ tags:
 - learning plan
 - microsoft security academy
 - cloud security
-- defender for cloud resources 
+- defender for cloud resources
 ---
 
 # Microsoft Defender for Cloud Readiness Resources
@@ -36,4 +36,3 @@ Below you will find content to assist in upskilling on Microsoft Defender for Cl
 ## Pricing
 * [Microsoft Defender for Storage Documentation - Microsoft Docs](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-storage-introduction)
 * [Microsoft Defender for Cloud Price Estimation Dashboard - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622)
-* [Microsoft Defender for Storage – Price Estimation Dashboard - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-storage-price-estimation-dashboard/ba-p/2429724)

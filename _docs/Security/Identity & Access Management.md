@@ -19,7 +19,6 @@ Below you will find content to assist in upskilling on Identity and Access Manag
 ## Fundamentals
 * [Insider Risk Management Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-an-insider-risk-management-ninja/ba-p/3282306)
 * [Azure Active Directory Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/)
-* [How to find your Azure Active Directory Tenant ID - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 * [Compare Active Directory to Azure Active Directory - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-compare-azure-ad-to-ad)
 
 ## Associate

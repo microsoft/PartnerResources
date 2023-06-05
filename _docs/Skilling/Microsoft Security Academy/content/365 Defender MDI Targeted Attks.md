@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Identity Targeted Attacks from a Researcher's Point of View
-sorttitle: 7
+sorttitle: 4
 description: Gain a peek behind the curtain and see how Microsoft's research teams deal with newly disclosed identity vulnerabilities, and how that information is turned into an alert in Defender for Identity.
-updated: 2023-02-20
+updated: 2023-06-07
 permalink: /skilling/microsoft-security-academy/d365-academy-mdi-attacks
 youtubeid: Y4Zaef8qeYU
 tags: 
