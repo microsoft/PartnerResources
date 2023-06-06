@@ -1,9 +1,9 @@
 ---
 layout: page
-title: All About Jupyter Notebooks and Hunting in Microsoft Sentinel
+title: Automating Responses in Microsoft Sentinel and Integration with Microsoft Defender Solutions
 sorttitle: 7
 description: Learn about Microsoft Sentinel's SOAR capabilities, including automation rules and playbooks, which are Azure Logic Apps. Explore several OOB playbooks, community playbooks, as well as custom playbooks, including one utilizing the OpenAI Logic App connector.
-updated: 2023-04-05
+updated: 2023-06-07
 permalink: /skilling/microsoft-security-academy/sentinel-academy-auto
 youtubeid: QYpTHOUCQ7o
 tags: 

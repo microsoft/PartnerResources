@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2023-06-02
+updated: 2023-06-07
 permalink: /security/microsoft-sentinel
 tags:
 - security
@@ -24,8 +24,8 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
 * [Microsoft Sentinel Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/)
 * [Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
+* [Microsoft Sentinel Calculator](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FAzure_Sentinel_Calculator-v2.xlsx)
 * [Microsoft Sentinel Repository](https://github.com/Azure/Azure-Sentinel/wiki)
-* [Microsoft Sentinel Skill-up Training - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/skill-up-resources)
 * [Design your Microsoft Sentinel Workspace Architecture - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
 
 
@@ -41,7 +41,7 @@ Use these steps to build a demo instance; free for one month
 6. [New Ingestion SampleData-as-a-Service Solution - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-ingestion-sampledata-as-a-service-solution-for-a-great-demos/ba-p/3598500)
 
 ## Associate
-* [Microsoft Sentinel Workspace Architecture Best Practices  - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/best-practices-workspace-architecture)
+* [Design your Microsoft Sentinel Workspace Architecture - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
 * [Microsoft Sentinel Sample Workspace Designs - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/sample-workspace-designs)
 * [Find your Microsoft Sentinel Data Connector - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
 * [Resources for Creating Microsoft Sentinel Custom Connectors - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector#compare-custom-connector-methods)
@@ -51,16 +51,14 @@ Use these steps to build a demo instance; free for one month
 * [Azure Lighthouse & Microsoft Sentinel: Assigning Access to Managed Identities in Customer Tenant - My Faber Security](https://myfabersecurity.com/2022/08/31/azure-lighthouse-and-sentinel-assigning-access-to-managed-identities-in-the-customer-tenant/)
 
 #### Build a Security Operations Center (SOC)
-* [Best Practices for Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/best-practices)
 * [Protecting MSSP Intellectual Property in Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/mssp-protect-intellectual-property)
-* [MSSPs and Identity - Considerations for tenant architecture and delegating access to SOC analysts](https://myfabersecurity.com/2023/01/11/mssps-and-identity/)
+* [MSSPs and Identity - Considerations for Tenant Architecture and Delegating Access to SOC analysts](https://myfabersecurity.com/2023/01/11/mssps-and-identity/)
 
 #### Agents Resources
 * [Migrate to Azure Monitor Agent - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-observability-blog/migrate-to-azure-monitor-agent-for-better-security-reliability/ba-p/3609810)
 * [Azure Monitor Agent Overview - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
 * [Data Collection Rules in Azure Monitor - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview)
 * [Overview of the Azure Connected Machine Agent (Azure Arc) - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-arc/servers/agent-overview)
-* [Connect Hybrid Machines to Azure at Scale (Azure Arc) -  Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-arc/servers/onboard-service-principal)
 * [Azure Monitor Agent Migration (Remove Log Analytics Agent) Lab](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Powershell%20scripts/Remove%20Log%20Analytics%20Agent%20At%20Scale)
 
 #### ADX
@@ -77,7 +75,6 @@ Use these steps to build a demo instance; free for one month
 
 #### Notebooks
 * [Get Started with Jupyter Notebooks & MSTICPy in Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/notebook-get-started)
-* [Detect Masqueraded Process Name Anomalies with ML Notebook - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-masqueraded-process-name-anomalies-using-an-ml-notebook/ba-p/3596405)
 * [Hunting for Low & Slow Password Sprays Using Machine Learning - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-low-and-slow-password-sprays-using-machine-learning/ba-p/3592052)
 * [Hunting for Teams Phishing with Microsoft Sentinel, Defender, Microsoft Graph and MSTICPy - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-teams-phishing-with-microsoft-sentinel-defender/ba-p/3601746)
 
@@ -89,7 +86,6 @@ Use these steps to build a demo instance; free for one month
 * [Advanced Multistage Attack Detection in Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/fusion)
 
 #### UEBA
-* [Discover the Power of UEBA Anomalies in Microsoft Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/discover-the-power-of-ueba-anomalies-in-microsoft-sentinel/ba-p/3576185)
 * [Microsoft Sentinel Customizable Ml Based Anomalies now Generally Available - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-customizable-machine-learning-based-anomalies/ba-p/3624436)
 
 #### Repositories
@@ -108,7 +104,6 @@ Use these steps to build a demo instance; free for one month
 
 #### MDTI (Defender for Threat Intelligence) & Risk IQ Integration
 * [Performing a Successful Proof of Concept (PoC)](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/performing-a-successful-proof-of-concept-poc/ba-p/3742412)
-* [New Threat Intelligence Features in Microsoft Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-threat-intelligence-features-in-microsoft-sentinel/ba-p/3585214)
 * [Infrastructure Chaining with Microsoft Defender Threat Intelligence - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/infrastructure-chaining-with-microsoft-defender-threat/ba-p/3687956)
 * [RiskIQ Illuminate Content Hub Solution within Microsoft Sentinel – My Faber Security](https://myfabersecurity.com/2022/03/04/riskiq-illuminate-content-hub-solution-within-microsoft-sentinel/)
 
@@ -116,8 +111,6 @@ Use these steps to build a demo instance; free for one month
 * [Refer to Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
 
 #### Costs
-* [Refer to Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/microsoft-sentinel/)
-* [Microsoft Sentinel Cost Calculator](https://cloudpartners.transform.microsoft.com/download?assetname=assets/Azure_Sentinel_Calculator.xlsx&download=1)
 * [Azure Data Explorer (Kusto) Cost Estimator](https://dataexplorer.azure.com/AzureDataExplorerCostEstimator.html)
 
 #### Data at No-Cost
