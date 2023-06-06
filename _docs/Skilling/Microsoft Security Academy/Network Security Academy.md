@@ -20,7 +20,7 @@ Welcome to the Network Security Academy. Explore network security video sessions
 {% include series.md 
     includetags="academy content|network security" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
-    visualstyle="list" 
+    visualstyle="normal" 
 %}
 
 

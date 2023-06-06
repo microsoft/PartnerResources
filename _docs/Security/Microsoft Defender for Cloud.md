@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Defender for Cloud Resources
 description: Resources for Microsoft Defender for Cloud
-updated: 2023-06-02
+updated: 2023-06-07
 permalink: /security/microsoft-defender-for-cloud
 tags:
 - security
@@ -22,7 +22,6 @@ Below you will find content to assist in upskilling on Microsoft Defender for Cl
 * [Microsoft Defender for Cloud Documentation - Microsoft Docs](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
 * [Getting Started with Microsoft Defender for Cloud - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/getting-started-with-microsoft-defender-for-cloud/ba-p/3255653)
 * [Microsoft Defender for Cloud Hands-on Labs](https://aka.ms/MDFCLabs)
-* [Azure Arc Jumpstart](https://azurearcjumpstart.io/overview/)
 * [Microsoft Defender for Cloud Community Repositories](https://github.com/Azure/Microsoft-Defender-for-Cloud)
 
 ## Connect GCP

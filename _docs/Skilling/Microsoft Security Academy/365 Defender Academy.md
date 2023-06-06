@@ -20,7 +20,7 @@ Welcome to the Microsoft 365 Defender Academy. Explore Microsoft 365 Defender vi
 {% include series.md 
     includetags="academy content|365 defender" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
-    visualstyle="list" 
+    visualstyle="normal" 
 %}
 
 

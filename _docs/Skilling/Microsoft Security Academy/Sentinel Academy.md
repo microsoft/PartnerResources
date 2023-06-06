@@ -20,7 +20,7 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 {% include series.md 
     includetags="academy content|sentinel" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
-    visualstyle="list" 
+    visualstyle="normal" 
 %}
 
 

@@ -20,7 +20,7 @@ Welcome to the Microsoft Entra Academy. Explore Microsoft Entra video sessions d
 {% include series.md 
     includetags="academy content|entra" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
-    visualstyle="list" 
+    visualstyle="normal" 
 %}
 
 
