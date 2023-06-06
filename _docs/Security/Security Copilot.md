@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Copilot
 description: Resources for Microsoft Security Copilot
-updated: 2023-06-02
+updated: 2023-06-07
 permalink: /security/microsoft-security-copilot
 tags:
 - security
@@ -22,6 +22,8 @@ Microsoft Security Copilot is an AI-powered security analysis tool that enables 
 We first introduced Security Copilot at the inaugural Microsoft Secure. Microsoft Security Copilot is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with a Microsoft-developed, security-specific model.
 
 Microsoft Security Copilot is currently in preview and not yet generally available. **[Sign up for Microsoft Security updates](https://go.microsoft.com/fwlink/p?linkid=2228156) to learn about product announcements, security insights, and upcoming events.**
+
+**See our [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)** for video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
 
 
 ## Get Started

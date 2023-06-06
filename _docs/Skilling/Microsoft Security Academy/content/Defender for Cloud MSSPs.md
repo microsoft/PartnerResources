@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MSSPs & Azure Lighthouse
+title: MSSPs & Identity with Azure Lighthouse
 sorttitle: 3
 description: Explore architecture guidance for Managed Security Service Providers (MSSPs) focusing on identity, delegation of access, and permissions. Additionally, analyze guidance on GDAP vs B2B for tenant level access and Azure Lighthouse configuration for subscription/resource level access.
 updated: 2023-06-02
