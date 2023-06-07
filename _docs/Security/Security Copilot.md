@@ -52,13 +52,6 @@ Visit our [Readiness Resources for Azure OpenAI](https://microsoft.github.io/Par
 **[Register now](https://msuspartners.eventbuilder.com/event/74224) for Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results** delivered by Microsoft GPS Architects.
 
 
-## Features
-
-* Incident Response — Detect ongoing attacks, estimate range, and receive tailored remediation guidance based on real-world security proven strategies.
-* Threat Hunting — Find out if your organization is at risk from known vulnerabilities and exploits. Examine resources in your environment for signs of a breach.
-* Security Reports — Summarize events, incidents, or threats in minutes and prepare the information in shareable individual reports for the desired audience.
-
-
 ## Azure OpenAI Integrations
 
 * [Microsoft Sentinel and OpenAI Chat API with GPT-3.5 and GPT-4](https://myfabersecurity.com/2023/04/04/sentinel-and-openai-chat-api-with-gpt-3-5-turbo-and-gpt-4/)
@@ -72,7 +65,15 @@ Security Copilot integrates insights and data from other critical security tools
 
 Microsoft Security Copilot will serve as the heart of our security solutions and be the central location where our products come together. We envision increased opportunities for cross-product scenarios (e.g., such as viewing endpoint and identity alerts in the same experience).
 
-### Considerations
+
+## Features
+
+* Incident Response — Detect ongoing attacks, estimate range, and receive tailored remediation guidance based on real-world security proven strategies.
+* Threat Hunting — Find out if your organization is at risk from known vulnerabilities and examine resources in your environment for signs of a breach.
+* Security Reports — Summarize events, incidents, or threats in minutes and prepare the information in shareable reports for the desired audience.
+
+
+#### Considerations
 
 * **Assist a Human in Completing Work** – It's a Copilot, integrations are driven by/drive human engagement, not background runtime processing of substantial amounts of data.
 * **Have High Customer Value** — The cost of Generative AI is orders of magnitude per transaction higher than your average feature today and depend on a constrained hardware supply (GPUs).
@@ -80,7 +81,7 @@ Microsoft Security Copilot will serve as the heart of our security solutions and
 * **Work with Constrained Context** — The model has a token limit for both input and output for the entire session.
 * **Leverage Model Creativity** — The model is probabilistic and not deterministic; the best integrations are cases where that is additive to the user experience.
 
-### Architecture
+#### Architecture
 
 Security Copilot runs on Microsoft Security and privacy-compliant hyperscale infrastructure. The unique foundation leverages the full benefit of Azure, and our cyber-trained model creates a learning system that has a set of security-specific skills that are constantly growing.
 
