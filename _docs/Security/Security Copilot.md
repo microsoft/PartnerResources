@@ -17,13 +17,11 @@ tags:
 
 ## Introduction
 
-Microsoft Security Copilot is an AI-powered security analysis tool that enables analysts to respond to threats quickly, process signals at machine speed, and assess risk exposure in minutes.
-
 We first introduced Security Copilot at the inaugural Microsoft Secure. Microsoft Security Copilot is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with a Microsoft-developed, security-specific model.
 
 Microsoft Security Copilot is currently in preview and not yet generally available. **[Sign up for Microsoft Security updates](https://go.microsoft.com/fwlink/p?linkid=2228156) to learn about product announcements, security insights, and upcoming events.**
 
-**See our [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)** for video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
+**See our [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
 
 
 ## Get Started
@@ -56,12 +54,19 @@ Visit our [Readiness Resources for Azure OpenAI](https://microsoft.github.io/Par
 
 ## Features
 
-* Incident Response — Detect ongoing attacks, estimate range, and receive tailored remediation guidance based on real-world security incident proven strategies.
-* Threat Hunting — Find out if your organization is at risk from known vulnerabilities and exploits. Examine each resource in your environment for signs of a security breach.
-* Security Reports — Summarize events, incidents, or threats in minutes and prepare the information in directly shareable individual reports for the desired audience.
+* Incident Response — Detect ongoing attacks, estimate range, and receive tailored remediation guidance based on real-world security proven strategies.
+* Threat Hunting — Find out if your organization is at risk from known vulnerabilities and exploits. Examine resources in your environment for signs of a breach.
+* Security Reports — Summarize events, incidents, or threats in minutes and prepare the information in shareable individual reports for the desired audience.
 
 
-### Integrations
+## Azure OpenAI Integrations
+
+* [Microsoft Sentinel and OpenAI Chat API with GPT-3.5 and GPT-4](https://myfabersecurity.com/2023/04/04/sentinel-and-openai-chat-api-with-gpt-3-5-turbo-and-gpt-4/)
+* [Microsoft Sentinel Playbook with Azure OpenAI](https://myfabersecurity.com/2023/05/21/sentinel-playbook-and-azure-openai/)
+* [Generate a Microsoft Sentinel Incident Report using Azure OpenAI](https://myfabersecurity.com/2023/06/03/sentinel-incident-report-using-azure-openai/)
+
+
+## Other Integrations
 
 Security Copilot integrates insights and data from other critical security tools, such as [Microsoft Sentinel](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel), [Microsoft Defender](https://www.microsoft.com/en-us/security/business/microsoft-defender), and [Microsoft Intune](https://www.microsoft.com/en-us/security/business/microsoft-Intune).
 
@@ -77,9 +82,7 @@ Microsoft Security Copilot will serve as the heart of our security solutions and
 
 ### Architecture
 
-Security Copilot runs on Microsoft Security and privacy-compliant hyperscale infrastructure. The unique foundation leverages the full benefit of Azure, and our cyber-trained model creates a learning system that has a set of security-specific skills that are constantly growing. 
-
-Combine that with Microsoft’s evergreen global threat intelligence and Security Copilot’s end-to-end integration and tooling and we can change the equation.
+Security Copilot runs on Microsoft Security and privacy-compliant hyperscale infrastructure. The unique foundation leverages the full benefit of Azure, and our cyber-trained model creates a learning system that has a set of security-specific skills that are constantly growing.
 
 
 ## Community Resources
