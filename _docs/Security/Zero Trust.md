@@ -2,7 +2,7 @@
 layout: page
 title: Zero Trust
 description: Resources for Zero Trust
-updated: 2023-01-04
+updated: 2023-06-02
 permalink: /security/zero-trust
 tags:
 - security
@@ -13,6 +13,8 @@ tags:
 
 # Zero Trust Readiness Resources
 Below you will find content to assist in upskilling on zero trust concepts and principles.
+
+**See our [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)** for video sessions, demonstrations, learning paths, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields.
 
 ## Fundamentals
 * [Zero Trust Business Overview](https://www.microsoft.com/en-us/security/business/zero-trust)

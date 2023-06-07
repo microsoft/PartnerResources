@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Sentinel Sales Enablement
 sorttitle: 8
 description: Learn how to sell Microsoft Sentinel as a powerful and flexible solution that can help organizations of all sizes improve their security posture and better protect their assets. This session details how Microsoft Sentinel is an excellent choice for organizations looking to enhance their security operations and protect against today's advanced threats.
-updated: 2023-04-05
+updated: 2023-06-07
 permalink: /skilling/microsoft-security-academy/sentinel-academy-se
 youtubeid: 50CMnZZ8_u4
 tags: 
@@ -17,7 +17,6 @@ tags:
 
 {{ page.description }}
 
-* [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 * [PowerPoint Deck]({{ site.baseurl }}/assets/msa/SIEM_XDR_Deck_GPS-3.30.23.pdf)
 
-[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
+{% include youtubethumb.md showlink="true" %}
