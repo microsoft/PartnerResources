@@ -5,7 +5,7 @@ description: The AI & ML Academy is focused on Artificial Intelligence and Machi
 permalink: /skilling/ai-ml-academy
 redirect_from:
   - /skilling/ai-ml-academy/
-updated: 2023-05-23
+updated: 2023-06-09
 showbreadcrumb: true
 tags:
 - azure
@@ -19,7 +19,7 @@ tags:
 
 ## Content
 
-Welcome to the AI and ML Academy (AIA)! This academy includes 5 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions. The modules are:
+Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions. The modules are:
 
 {% include series.md 
     includetags="ai & ml academy|academy content|ai & ml academy module" 
