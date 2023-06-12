@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Copilot
 description: Resources for Microsoft Security Copilot
-updated: 2023-06-07
+updated: 2023-06-12
 permalink: /security/microsoft-security-copilot
 tags:
 - security
@@ -63,8 +63,6 @@ Visit our [Readiness Resources for Azure OpenAI](https://microsoft.github.io/Par
 
 Security Copilot integrates insights and data from other critical security tools, such as [Microsoft Sentinel](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel), [Microsoft Defender](https://www.microsoft.com/en-us/security/business/microsoft-defender), and [Microsoft Intune](https://www.microsoft.com/en-us/security/business/microsoft-Intune).
 
-Microsoft Security Copilot will serve as the heart of our security solutions and be the central location where our products come together. We envision increased opportunities for cross-product scenarios (e.g., such as viewing endpoint and identity alerts in the same experience).
-
 
 ## Features
 
@@ -88,7 +86,8 @@ Security Copilot runs on Microsoft Security and privacy-compliant hyperscale inf
 
 ## Community Resources
 
-Learn more about our approach to [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).
+* [Grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857)
+* Learn more about our approach to [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).
 
 
 ## Interesting Reads
