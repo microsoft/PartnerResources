@@ -65,7 +65,7 @@ tags:
 * [AVS Guided Pilot Generating Wizard](https://aka.ms/avsguidedpilot)
 
 ### Video Tutorials
-* [Azure VMware Solution Network Design Guide Video Series][https://www.youtube.com/playlist?list=PLjt5SKzX1iI-pevOBGUg9L7dNZv6N7_9g]
+* [Azure VMware Solution Network Design Guide Video Series](https://www.youtube.com/playlist?list=PLjt5SKzX1iI-pevOBGUg9L7dNZv6N7_9g)
 * [Deploying Azure VMware Solution Video Series](https://vmc.techzone.vmware.com/deploying-azure-vmware-solution)
 * [AVS Overview Video Series](https://aka.ms/AVSTechOverview)
 * [AVS Deep Dive Video Series](https://aka.ms/AVSDeepDive)
@@ -78,7 +78,7 @@ tags:
 ### Events <sup>(Microsoft GPS)</sup>
 * [**AVS Academy - Series of AVS webinars**](https://aka.ms/AVSacademy)
   * [Unleashing the Full Potential of VMware Workloads with Azure VMware Solution](https://msuspartners.eventbuilder.com/event/70967?source=AVSAcademy)
-  * [ntroduction to VMware Horizon on AVS](https://msuspartners.eventbuilder.com/event/71309?source=AVSAcademy)
+  * [Introduction to VMware Horizon on AVS](https://msuspartners.eventbuilder.com/event/71309?source=AVSAcademy)
   * [Azure VMware Solution Deployment Checklist and Best Practices](https://msuspartners.eventbuilder.com/event/69755?source=AVSAcademy)
   * [Application Modernization (Cloud Native/Native VMware Tools) with Azure VMware Solution (AVS)](https://msuspartners.eventbuilder.com/event/63837?source=AVSAcademy)
   * [Logging into the vCenter/NSX-T/HCX consoles using external identity providers (AD/LDAPS)](https://msuspartners.eventbuilder.com/event/68299?source=AVSAcademy)
