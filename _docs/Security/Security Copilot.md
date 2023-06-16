@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Copilot
 description: Resources for Microsoft Security Copilot
-updated: 2023-06-12
+updated: 2023-06-16
 permalink: /security/microsoft-security-copilot
 tags:
 - security
@@ -30,14 +30,16 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 <table>
   <tr>
-    <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/microsoft-security-copilot-gpt-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Microsoft Security Copilot Demo" width="200" height="153"></a></td>
-    <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><b>Microsoft Security Copilot Demo</b></a><br><br>See Security Copilot in action and learn how it uncovers, investigates, and responds to threats.</td>
+    <td><a href="https://youtu.be/jzgrD4nvTXE"><img src="https://github.com/ZacharyRiffle/PartnerResources/blob/main/assets/msa/Microsoft%20Security%20Copilot.png?raw=true" alt="Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results" width="200" height="153"></a></td>
+    <td><a href="https://youtu.be/jzgrD4nvTXE"><b>Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results</b></a><br><br>N/A</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><img src="https://github.com/ZacharyRiffle/PartnerResources/blob/main/assets/msa/Microsoft%20Security%20Copilot.png?raw=true" alt="Placeholder for June 15th Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results" width="200" height="153"></a></td>
-    <td><a href="https://secure.microsoft.com/en-US/sessions/ca2617fe-4b0e-4c34-a57d-8679523de093?source=/speakers/d3ab0562-62d4-4dce-8bc8-05152409c20f&culture=en-us&country=us"><b>Coming soon! Placeholder for June 15th Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results</b></a><br><br>N/A</td>
+   <td><a href="https://youtu.be/jzgrD4nvTXE"><img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/microsoft-security-copilot-gpt-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Microsoft Security Copilot Demo" width="200" height="153"></a></td>
+    <td><a href="https://youtu.be/jzgrD4nvTXE"><b>Microsoft Security Copilot Demo</b></a><br><br>See Security Copilot in action and learn how it uncovers, investigates, and responds to threats.</td>
   </tr>
 </table>
+
+* [PowerPoint for Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results]({{ site.baseurl }}/assets/msa/How to Prepare for Optimal Results with Azure AI Security Copilot.pptx)
 
 
 ## Keeping Up
@@ -49,7 +51,7 @@ Visit our [Readiness Resources for Azure OpenAI](https://microsoft.github.io/Par
 
 ## Events
 
-**[Register now](https://msuspartners.eventbuilder.com/event/74224) for Maximizing Customer Success with Security Copilot: How to Prepare for Optimal Results** delivered by Microsoft GPS Architects.
+Stay tuned for more event announcements!
 
 
 ## Azure OpenAI Integrations
@@ -79,17 +81,16 @@ Security Copilot integrates insights and data from other critical security tools
 * **Work with Constrained Context** — The model has a token limit for both input and output for the entire session.
 * **Leverage Model Creativity** — The model is probabilistic and not deterministic; the best integrations are cases where that is additive to the user experience.
 
-#### Architecture
-
-Security Copilot runs on Microsoft Security and privacy-compliant hyperscale infrastructure. The unique foundation leverages the full benefit of Azure, and our cyber-trained model creates a learning system that has a set of security-specific skills that are constantly growing.
-
 
 ## Community Resources
 
+* [John Savill's Trusting Your Co-Pilot](https://youtu.be/7zT_T5TtZqs)
+* [Prompt Engineering Techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
+* [OpenAI's GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [Grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857)
 * Learn more about our approach to [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).
 
 
 ## Interesting Reads
 
-Coming soon!
+* [Why AI Will Save the World](https://a16z.com/2023/06/06/ai-will-save-the-world/?utm_source=substack&amp;utm_medium=email)
