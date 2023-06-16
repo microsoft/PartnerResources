@@ -31,7 +31,7 @@ To get started, we recommend watching the following videos created by Microsoft 
 <table>
   <tr>
     <td><a href="https://youtu.be/jzgrD4nvTXE"><img src="https://github.com/ZacharyRiffle/PartnerResources/blob/main/assets/msa/Microsoft%20Security%20Copilot.png?raw=true" alt="Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results" width="200" height="153"></a></td>
-    <td><a href="https://youtu.be/jzgrD4nvTXE"><b>Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results</b></a><br><br>N/A</td>
+    <td><a href="https://youtu.be/jzgrD4nvTXE"><b>Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results</b></a><br><br>Join Angelica, Rick, and Zach as they dive into how to best prepare for Security Copilot, leverage Azure OpenAI, and watch Microsoft Sentinel and OpenAI integration.</td>
   </tr>
   <tr style="vertical-align:top">
    <td><a href="https://youtu.be/jzgrD4nvTXE"><img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/microsoft-security-copilot-gpt-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Microsoft Security Copilot Demo" width="200" height="153"></a></td>
