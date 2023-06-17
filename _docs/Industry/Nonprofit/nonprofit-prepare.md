@@ -87,8 +87,9 @@ Creating an internal deployment of Microsoft Cloud for Nonprofit not only ensure
 #### Pre-production licenses
 Start with the [Microsoft Action Pack](https://partner.microsoft.com/en-us/partnership/action-pack) for a baseline of partner materials and support that includes cloud licenses for several prerequisites of Microsoft Cloud for Nonprofit: Azure Credit, Microsoft Office 365, and Microsoft Dynamics 365 Customer Engagement.
 
-Next, a user with Global Administrator role for the partner tenant may request additional free or discounted non-production licenses using the [Non-production Environment License Portal](https://experience.dynamics.com/requestlicense/) with the following considerations.
+Next, a user with Global Administrator role for the partner tenant may request additional free or discounted non-production licenses using the [Non-production Environment License Portal](https://experience.dynamics.com/requestlicense/) with the following considerations:
  - A single submission can include multiple licenses for the selected offer type.
+ - A payment method may be requested during when adding the Microsoft Cloud for Nonprofit license, however, it is a $0 SKU and there is no charge.
  - To see all available discounted, free, and upcoming licenses click the "View SKUs" link on the page above.
 
 
