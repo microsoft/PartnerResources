@@ -2,7 +2,7 @@
 layout: page
 title: Zero Trust
 description: Resources for Zero Trust
-updated: 2023-06-02
+updated: 2023-06-19
 permalink: /security/zero-trust
 tags:
 - security
@@ -19,4 +19,5 @@ Below you will find content to assist in upskilling on zero trust concepts and p
 ## Fundamentals
 * [Zero Trust Business Overview](https://www.microsoft.com/en-us/security/business/zero-trust)
 * [Zero Trust: New Era of Security Microsoft eBook](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3YnRL)
+* [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra)
 * [Zero Trust Maturity Model](https://aka.ms/Zero-Trust-Vision)

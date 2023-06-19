@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2023-06-07
+updated: 2023-06-18
 permalink: /security/microsoft-sentinel
 tags:
 - security
@@ -17,6 +17,13 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
 
 **See our [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)** for video sessions, demonstrations, learning paths, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields.
 
+
+## What's New
+* [Automating Microsoft Sentinel Workspace Manager](https://medium.com/@TimGroothuis/diving-in-automating-sentinel-workspace-manager-cc61d536f8a6)
+* [Introducing the Microsoft Sentinel Triage Assistant (STAT) - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-microsoft-sentinel-triage-assistant-stat/ba-p/3845846?utm_source=substack&utm_medium=email)
+* [KQL Queries Behind the Microsoft Sentinel Overview Page](https://rodtrent.substack.com/p/kql-queries-behind-the-microsoft?utm_source=substack&utm_medium=email)
+
+
 ## Fundamentals
 * [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
 * [Microsoft Sentinel Notebooks Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491)
@@ -26,7 +33,6 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
 * [Microsoft Sentinel Calculator](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FAzure_Sentinel_Calculator-v2.xlsx)
 * [Microsoft Sentinel Repository](https://github.com/Azure/Azure-Sentinel/wiki)
-* [Design your Microsoft Sentinel Workspace Architecture - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
 
 
 #### Building a Demo. Instance
@@ -42,7 +48,6 @@ Use these steps to build a demo instance; free for one month
 
 ## Associate
 * [Design your Microsoft Sentinel Workspace Architecture - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
-* [Microsoft Sentinel Sample Workspace Designs - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/sample-workspace-designs)
 * [Find your Microsoft Sentinel Data Connector - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
 * [Resources for Creating Microsoft Sentinel Custom Connectors - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector#compare-custom-connector-methods)
 
@@ -76,10 +81,8 @@ Use these steps to build a demo instance; free for one month
 #### Notebooks
 * [Get Started with Jupyter Notebooks & MSTICPy in Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/notebook-get-started)
 * [Hunting for Low & Slow Password Sprays Using Machine Learning - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-low-and-slow-password-sprays-using-machine-learning/ba-p/3592052)
-* [Hunting for Teams Phishing with Microsoft Sentinel, Defender, Microsoft Graph and MSTICPy - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-teams-phishing-with-microsoft-sentinel-defender/ba-p/3601746)
 
 #### SOAR
-* [Microsoft Sentinel Automation Tips & Tricks - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-automation-tips-amp-tricks-part-1-automation/ba-p/3558454)
 * [Safely Integrate Playbooks with Custom APIs with no Pre-built Logic App Connector - My Faber Security](https://myfabersecurity.com/2022/11/21/safely-integrate-playbooks-with-custom-apis-when-there-is-no-pre-built-logic-app-connector/)
 
 #### Fusion
@@ -91,16 +94,11 @@ Use these steps to build a demo instance; free for one month
 #### Repositories
 * [Microsoft Sentinel As-A-Code Lab](https://github.com/sreedharande/Microsoft-Sentinel-As-A-Code)
 * [Sample Content Repository](https://github.com/SentinelCICD/RepositoriesSampleContent)
-* [Customize Repository Deployments - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd-custom-deploy?tabs=github)
 
 #### Migration
-* [Plan Migration to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/migration)
 * [Microsoft Sentinel Migration: Select Target Azure Platform for Exported Data - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
 * [Microsoft Sentinel Migration: Select Data Ingestion Tool - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
 * [Unicoder Sigma Rule Converter for SIEM, EDR, & NTDR](https://uncoder.io/)
-
-#### Build Solutions & Other Contributions
-* [Guide to Building Microsoft Sentinel Solutions](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions#guide-to-building-microsoft-sentinel-solutions)
 
 #### MDTI (Defender for Threat Intelligence) & Risk IQ Integration
 * [Performing a Successful Proof of Concept (PoC)](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/performing-a-successful-proof-of-concept-poc/ba-p/3742412)
@@ -122,7 +120,3 @@ Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some
    * Microsoft Defender for IoT Alerts
 
 Reference [Plan Costs and Microsoft Sentinel Pricing and Billing - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/billing?tabs=commitment-tier) for further information.
-
-#### Other Ways to Save
-* [Microsoft Sentinel Benefit for Microsoft 365 E5, A5, F5, and G5 Customers](https://azure.microsoft.com/en-us/offers/sentinel-microsoft-365-offer/#:~:text=Microsoft%20Sentinel%20benefit%20for%20Microsoft%20365%20E5%2C%20A5%2C,scale.%204%20Enable%20efficient%20and%20effective%20response%20) 
-* Commitment Tiers; save up to 65% compared to pay-as-you-go.
