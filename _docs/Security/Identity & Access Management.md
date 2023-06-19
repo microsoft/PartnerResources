@@ -2,7 +2,7 @@
 layout: page
 title: Identity and Access Management
 description: Resources for Identity and Access Management
-updated: 2023-06-02
+updated: 2023-06-19
 permalink: /security/identity-and-access-management
 tags:
 - security
@@ -20,6 +20,7 @@ Below you will find content to assist in upskilling on Identity and Access Manag
 * [Insider Risk Management Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-an-insider-risk-management-ninja/ba-p/3282306)
 * [Azure Active Directory Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/)
 * [Compare Active Directory to Azure Active Directory - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-compare-azure-ad-to-ad)
+* [Securing Privileged Access - Microsoft Docs](https://learn.microsoft.com/en-us/security/privileged-access-workstations/overview)
 
 ## Associate
 * [External Identities Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/external-identities/)
