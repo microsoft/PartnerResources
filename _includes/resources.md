@@ -21,6 +21,7 @@
         - include.includesecondtags
         - include.includethirdtags
         - include.includefourthtags
+        - include.removetext            text to remove from the title
 
     For parameters, values are strings (no hyphens) 
     and delimited with | if needed. Example:
@@ -31,6 +32,7 @@
 {% assign tagsToInclude = "" | split: ',' %}
 {% assign tagsToInclude = include.includetags | split:'|' | compact %}
 
+{% assign removetext = "" %}
 {% assign tagsToRemove = "" | split: ',' %}
 {% assign secondAssetsToInclude = "" | split: ',' %}
 {% assign thirdAssetsToInclude = "" | split: ',' %}
@@ -73,8 +75,12 @@
 {% if include.showlink == "false" %}
     {% assign showLink = "false" %}
 {% endif %}
-
-
+{% if include.limit %}
+    {% assign postLimit = include.limit | plus: 0 %}
+{% endif %}
+{% if include.removetext %}
+    {% assign removetext = include.removetext %}
+{% endif %}
 
 {% capture site_tags %}
 {% for tag in site.tags %}
@@ -156,8 +162,36 @@
 
 {% assign current_docs = current_docs | uniq %}
 
-{% for doc in current_docs %}
+{% comment %}
+----------------------------------------------------
+    additional filtering and sorting
+    todo: check sortField for nulls
+----------------------------------------------------
+{% endcomment %}
+{% if sortOrder == "asc" %}
+    {% assign current_docs = current_docs | sort: sortField %}
+{% else %}
+    {% assign current_docs = current_docs | sort: sortField | reverse %}
+{% endif %}
+
+{% comment %}
+----------------------------------------------------
+    display results
+----------------------------------------------------
+{% endcomment %}
+
+{% if postLimit == 0 %}
+    {% assign postLimit = current_docs.size %}
+{% endif %}
+
+{% for doc in current_docs limit: postLimit %}
+
 {% assign uniquedoctags = doc.tags | uniq | sort %}
+
+{% assign doctitle = doc.title %} 
+{% if removetext.size > 0 %}
+    {% assign doctitle = doc.title | remove: removetext %}
+{% endif %}
 
 {% if visualStyle == "compact" %}
 <div class="tag-entry" style="padding-left:25px;">
@@ -170,8 +204,27 @@
     <div>{{ doc.description }}</div>
     {% endif %}
 </div>
+<div style="padding-bottom: 20px;"></div>
+
+{% elsif visualStyle == "tiny" %}
+
+<div class="tag-entry" style="scroll-margin-top: 5rem;" id="{{ doc.title }}">
+    <div>
+        {% if showLink == "true" %}
+            <a class="nav-entry" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doctitle }}</a> 
+        {% else %}
+            <span class="nav-entry">{{ doctitle }}</span> 
+        {% endif %}
+        {% if doc.updated and showDate == "true" %}
+            <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
+        {% endif %}
+    </div>
+</div>
+<div style="clear:both; padding-top: 5px; padding-bottom: 0px;">
+</div>
 
 {% else %}
+
 {% comment %}
     Assume the visualstyle is "normal" if not matching any other
 {% endcomment %}
@@ -187,7 +240,8 @@
     <div class="docupdated">Updated <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></div>
     {% endif %}
 </div>
+<div style="padding-bottom: 20px;"></div>
 {% endif %}
 
-<div style="padding-bottom: 20px;"></div>
+
 {% endfor %}
