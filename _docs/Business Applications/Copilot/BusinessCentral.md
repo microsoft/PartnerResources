@@ -1,7 +1,7 @@
 ---
 layout: page
-title: D365 Copilot and D365 Business Central
-description: Dynamics 365 Copilot and Dyanmics 365 Business Central
+title: Copilot and D365 Business Central
+description: Copilot and Dyanmics 365 Business Central
 updated: 2023-04-19
 permalink: /business-applications/copilot/businesscentral
 includerelated: false
@@ -12,7 +12,7 @@ tags:
 - businesscentral
 ---
 
-# Learning Plan Resources for D365 Copilot and D365 Business Central
+# Learning Plan Resources for Copilot and D365 Business Central
 
 ## **Fundamentals** 
 
