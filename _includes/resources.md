@@ -223,6 +223,13 @@
 <div style="clear:both; padding-top: 5px; padding-bottom: 0px;">
 </div>
 
+{% elsif visualStyle == "homepage" %}
+
+<p style="line-height:100%">
+ <a class="homepagecontent" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doctitle }}</a>
+ <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
+</p>
+
 {% else %}
 
 {% comment %}

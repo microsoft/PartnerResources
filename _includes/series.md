@@ -362,6 +362,13 @@
 </div>
 {% endif %}
 
+{% elsif visualStyle == "homepage" %}
+
+<p style="line-height:100%">
+ <a class="homepagecontent" href="{{- site.baseurl -}}{{- doc.url -}}">{{ doctitle }}</a>
+ <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
+</p>
+
 {% else %}
 {% comment %}
     Assume the visualstyle is "normal" if not matching any other
