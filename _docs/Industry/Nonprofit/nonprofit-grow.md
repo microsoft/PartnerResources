@@ -71,3 +71,15 @@ Example offers:
  - Dynamics 365 offer: Online Donations for Fundraising and Engagement
  - Service offer: Fundraising and Engagement 30-day Implementation
  - Service offer: Nonprofit Data Migration Assessment
+
+One of the most powerful co-selling capabilities is partner-to-partner faciliated by Partner Center. In Partner Center, co-selling is facilitated through the "Referrals" feature. ISVs or SIs can create referral offers for their solutions, which another partner can then accept and use to find potential customers. When a partner accepts a referral offer, they become the "lead partner" for that opportunity. The partner who created the referral offer becomes the "co-sell partner".
+
+Once the lead partner has identified a potential customer, they can share the lead with the co-sell partner through Partner Center. The co-sell partner can then work with the lead partner to close the deal and deliver the solution or service to the customer. Here is a general overview of the process for sharing a lead (co-sell) with another partner in Microsoft Partner Center:
+
+ 1. **Establish a partnership**: The SI partner (Service Integrator) and the ISV partner (Independent Software Vendor) need to establish a partnership within the Microsoft Partner Network. This involves both partners having active memberships in the Partner Network, be co-sell ready and signing the necessary agreements.
+ 1. **Identify the lead opportunity**: The SI partner identifies a lead opportunity where they believe the ISV partner's solution can add value to the customer's requirements.
+ 1. **Register the opportunity**: The SI partner should register the lead opportunity in the Partner Center. This involves providing details about the customer, the opportunity, and the ISV partner's solution. The registration helps track and manage the co-selling process.
+ 1. **Co-sell collaboration**: Once the opportunity is registered, the SI partner can collaborate with the ISV partner to jointly work on the customer engagement. This collaboration can involve various activities such as solution design, implementation planning, and customer presentations.
+ 1. **Revenue sharing**: If the opportunity results in a successful sale, revenue sharing agreements between the SI partner and the ISV partner can be established. The specific revenue sharing terms and agreements may vary depending on the partnership arrangement and agreements between the two partners.
+
+It's important to note that the exact process and steps involved may differ based on the specific programs, agreements, and requirements of the partners involved. Therefore, it's recommended to consult the official Microsoft Partner Center documentation or reach out to Microsoft's Partner Center support for detailed information on the current process.
