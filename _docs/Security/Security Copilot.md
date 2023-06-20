@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Copilot
 description: Resources for Microsoft Security Copilot
-updated: 2023-06-20
+updated: 2023-06-21
 permalink: /security/microsoft-security-copilot
 tags:
 - security
@@ -58,6 +58,7 @@ Stay tuned for more event announcements!
 * [Microsoft Sentinel and OpenAI Chat API with GPT-3.5 and GPT-4](https://myfabersecurity.com/2023/04/04/sentinel-and-openai-chat-api-with-gpt-3-5-turbo-and-gpt-4/)
 * [Microsoft Sentinel Playbook with Azure OpenAI](https://myfabersecurity.com/2023/05/21/sentinel-playbook-and-azure-openai/)
 * [Generate a Microsoft Sentinel Incident Report using Azure OpenAI](https://myfabersecurity.com/2023/06/03/sentinel-incident-report-using-azure-openai/)
+* [SOC Chatbot with Azure OpenAI + Investigation Suggestions from Related Incident Comments](https://myfabersecurity.com/2023/06/20/investigation-suggestions-from-related-incident-comments-a-soc-chatbot-with-azure-openai/)
 
 
 ## Other Integrations
