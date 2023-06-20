@@ -1,7 +1,7 @@
 ---
 layout: page
-title: D365 Copilot and D365 Sales 
-description: Dynamics 365 Copilot and Dyanmics 365 Sales
+title: Copilot and Viva Sales 
+description: Copilot and Viva Sales
 updated: 2023-04-18
 permalink: /business-applications/copilot/sales
 includerelated: false
@@ -12,7 +12,7 @@ tags:
 - sales
 ---
 
-# Learning Plan Resources for D365 Copilot and D365 Sales
+# Learning Plan Resources for D365 Copilot and Viva Sales
 
 ## **Fundamentals** 
 
@@ -25,6 +25,7 @@ tags:
 
 * <a href="https://www.youtube.com/watch?v=PAKYggQAlnc" target="_blank">Introduction Video on Youtube<a/> (2 minutes)
 * <a href="https://www.youtube.com/playlist?list=PL3SGxR9rKDdZr848K1vSkNHO5F72xJvN4" target="_blank">Dynamics 365 Video playlist on Youtube<a/> (6 videos)
-* <a href="https://msuspartners.eventbuilder.com/event/72462?source=D365Copilot" target="_blank">Technical Presales Video on EventBuilder<a/> This video guides you through the steps necessary to get started quickly in creating and boosting a chatbot with expanded natural language capabilities with D365 Sales and D365 Copilot. (13 minutes)
+* <a href="https://msuspartners.eventbuilder.com/event/72462" target="_blank">Technical Presales Video - Part I - on EventBuilder<a/> This video guides you through the steps necessary to get started quickly in creating and boosting a chatbot with expanded natural language capabilities with Copilot and Viva Sales. (13 minutes)
+* <a href="https://msuspartners.eventbuilder.com/event/74831" target="_blank">Technical Presales Video - Part II - on EventBuilder<a/> This video guides you through the a demo scenario leveraging Copilot, Viva Sales and Dynamics 365 Sales. This video is a compliment to the first video outlining the steps on how to configure all the applications to use the chatbot with expanded natural language capabilities. (18 minutes)
 
 
