@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Copilot
 description: Resources for Microsoft Security Copilot
-updated: 2023-06-17
+updated: 2023-06-20
 permalink: /security/microsoft-security-copilot
 tags:
 - security
@@ -34,8 +34,8 @@ To get started, we recommend watching the following videos created by Microsoft 
     <td><a href="https://youtu.be/jzgrD4nvTXE"><b>Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results</b></a><br><br>Join Angelica, Rick, and Zach as they explore optimal preparations for Security Copilot, leverage Azure's OpenAI capabilities, and watch a complete Microsoft Sentinel and OpenAI integration demo in Azure.</td>
   </tr>
   <tr style="vertical-align:top">
-   <td><a href="https://youtu.be/jzgrD4nvTXE"><img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/microsoft-security-copilot-gpt-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Microsoft Security Copilot Demo" width="200" height="153"></a></td>
-    <td><a href="https://youtu.be/jzgrD4nvTXE"><b>Microsoft Security Copilot Demo</b></a><br><br>See Security Copilot in action and learn how it uncovers, investigates, and responds to threats.</td>
+   <td><a href="https://youtu.be/g1HoXNoP3V0"><img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/microsoft-security-copilot-gpt-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Microsoft Security Copilot Demo" width="200" height="153"></a></td>
+    <td><a href="https://youtu.be/g1HoXNoP3V0"><b>Microsoft Security Copilot Demo</b></a><br><br>See Security Copilot in action and learn how it uncovers, investigates, and responds to threats.</td>
   </tr>
 </table>
 
