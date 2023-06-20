@@ -3,13 +3,13 @@ layout: page
 title: Copilot and Viva Sales 
 description: Copilot and Viva Sales
 updated: 2023-04-18
-permalink: /business-applications/copilot/sales
+permalink: /business-applications/copilot/vivasales
 includerelated: false
 tags:
 - learning plan
 - business applications
 - copilot
-- sales
+- viva sales
 ---
 
 # Learning Plan Resources for D365 Copilot and Viva Sales
