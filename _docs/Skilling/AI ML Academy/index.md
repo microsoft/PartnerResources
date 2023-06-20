@@ -5,7 +5,7 @@ description: The AI & ML Academy is focused on Artificial Intelligence and Machi
 permalink: /skilling/ai-ml-academy
 redirect_from:
   - /skilling/ai-ml-academy/
-updated: 2022-10-17
+updated: 2023-06-09
 showbreadcrumb: true
 tags:
 - azure
@@ -19,7 +19,7 @@ tags:
 
 ## Content
 
-Welcome to the AI and ML Academy (AIA)! This academy includes 5 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions. The modules are:
+Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions. The modules are:
 
 {% include series.md 
     includetags="ai & ml academy|academy content|ai & ml academy module" 
@@ -43,9 +43,11 @@ Our [ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes) cont
 
 <div>&nbsp;</div>
 
-## Live Schedule
+## Events
 
-We'll update this section with our upcoming Partner prep series and AI shows available as a webcast and all content will be included here.
+- [Microsoft Build](https://build.microsoft.com/) (developer conference) - May 23-24. Join live or watch recordings on-demand! See [Microsoft Build 2023 Recommended AI Session Guide]({{ site.baseurl }}/assets/aiml/Microsoft Build 2023 Recommended AI Session Guide.pdf)
+- Microsoft Build Recap: Insights and Learnings for Analytics and AI - June 7 - [Registration page](https://msuspartners.eventbuilder.com/event/73358)
+- AI Readiness events: [AI & ML Partner Prep](https://aka.ms/AIMLPartnerPrep)
 
 ## Table of Contents
 
@@ -93,4 +95,4 @@ We are not currently offering fully-hosted lab environments for AI & ML Academy,
 
 ## Contributions
 
-We welcome contributors to this project. Please use the GitHub links near the upper right and consider submitting pull requests or filing issues as needed.
+We welcome contributors to this project. Please use the GitHub links near the upper right and consider submitting pull requests or filing issues as needed. Curious how to contribute? See our [Contribution Cheat Sheet]({{ site.baseurl }}/assets/msa/TODO Contribution Cheat Sheet.pdf).

@@ -2,7 +2,7 @@
 layout: page
 title: Azure VMware Solution (AVS)
 description: Resources for Azure VMware Solution (AVS)
-updated: 2023-03-15
+updated: 2023-06-23
 permalink: /azure/infrastructure/azure-vmware-solution
 tags: 
 - learning plan
@@ -15,7 +15,9 @@ tags:
 ## Most Recent Updates
 * [What's new in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-platform-updates)
 * [Azure VMware Solution Roadmap](https://aka.ms/avsroadmap)
-* Blog Posts: [March 2023](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-march-2023-what-s-new-update/ba-p/3766739)
+* Blog Posts: [June 2023](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-june-2023-what-s-new-update/ba-p/3843932)
+ | [May 2023](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-may-2023-what-s-new-update/ba-p/3815569)
+ | [March 2023](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-march-2023-what-s-new-update/ba-p/3766739)
  | [February 2023](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-february-2023-what-s-new-update/ba-p/3734890)
  | [November 2022](https://azure.microsoft.com/en-us/blog/announcing-more-azure-vmware-solution-enhancements/)
  | [October 2022](https://techcommunity.microsoft.com/t5/azure-migration-and/what-s-new-in-azure-vmware-solution-october-2022/ba-p/3645077)
@@ -26,7 +28,7 @@ tags:
 ### Microsoft
 * [Azure VMware Solution - Documentation - Microsoft Official Page](https://learn.microsoft.com/en-us/azure/azure-vmware/)
 * [Azure VMware Solution - Microsoft Official Page](https://azure.microsoft.com/en-us/services/azure-vmware/)
-* [Azure VMware Solution - Availability by region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&regions=all)
+* [Azure VMware Solution - Availability by Region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&regions=all)
 * [Azure VMware Solution - Service Level Agreements (SLA)](https://azure.microsoft.com/en-us/support/legal/sla/azure-vmware/v1_1/)
 * [Azure VMware Solution - Service Limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-vmware-solution-limits)
 * [Azure VMware Solution - Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-vmware/)
@@ -63,6 +65,8 @@ tags:
 * [AVS Guided Pilot Generating Wizard](https://aka.ms/avsguidedpilot)
 
 ### Video Tutorials
+* [Azure VMware Solution Network Design Guide Video Series](https://www.youtube.com/playlist?list=PLjt5SKzX1iI-pevOBGUg9L7dNZv6N7_9g)
+* [Deploying Azure VMware Solution Video Series](https://vmc.techzone.vmware.com/deploying-azure-vmware-solution)
 * [AVS Overview Video Series](https://aka.ms/AVSTechOverview)
 * [AVS Deep Dive Video Series](https://aka.ms/AVSDeepDive)
 * [Azure VMware Solution - End to End Networking](https://www.youtube.com/watch?v=6_LYsYicacs) (20 Minutes)
@@ -73,6 +77,9 @@ tags:
 ## Events 
 ### Events <sup>(Microsoft GPS)</sup>
 * [**AVS Academy - Series of AVS webinars**](https://aka.ms/AVSacademy)
+  * [Unleashing the Full Potential of VMware Workloads with Azure VMware Solution](https://msuspartners.eventbuilder.com/event/70967?source=AVSAcademy)
+  * [Introduction to VMware Horizon on AVS](https://msuspartners.eventbuilder.com/event/71309?source=AVSAcademy)
+  * [Azure VMware Solution Deployment Checklist and Best Practices](https://msuspartners.eventbuilder.com/event/69755?source=AVSAcademy)
   * [Application Modernization (Cloud Native/Native VMware Tools) with Azure VMware Solution (AVS)](https://msuspartners.eventbuilder.com/event/63837?source=AVSAcademy)
   * [Logging into the vCenter/NSX-T/HCX consoles using external identity providers (AD/LDAPS)](https://msuspartners.eventbuilder.com/event/68299?source=AVSAcademy)
   * [Advanced Networking with Azure VMware Solution (AVS)](https://msuspartners.eventbuilder.com/event/63836?source=AVSAcademy)
@@ -85,6 +92,7 @@ tags:
 * [AVS Bootcamp - Dec 2021](https://msuspartners.eventbuilder.com/GPSAzureVMwareSolutionBootCamp) - [Slides](https://aka.ms/mpn/decks/avs)
 
 ### Events <sup>(Microsoft AVS Product Group)</sup>
+* [Webinar: A look inside Azure VMware Solution](https://info.microsoft.com/ww-landing-get-started-with-azure-vmware-solution-a-look-inside.html?lcid=en-us)
 * [Webinar: How to Modernize Your VMware Environment with Microsoft Azure - Dec 2022](https://aka.ms/AVS-Webinar22)
 * [Webinar: Extend to the Cloud with Azure VMware Solution - Mar 2022](https://aka.ms/AzureVMwareSolution2022)
 * [AVS Learn Live Series](https://aka.ms/learnlive-run-vmware-workloads-azure-vmware-solution)
@@ -113,6 +121,9 @@ tags:
 * [AVS Checklist (Azure FastTrack Team](https://aka.ms/avschecklists)
 
 ### Design Considerations
+* [Enable App Volume Replication for Horizon VDI on Azure VMware Solution using Azure NetApp Files](https://techcommunity.microsoft.com/t5/azure-migration-and/enable-app-volume-replication-for-horizon-vdi-on-azure-vmware/ba-p/3798178)
+* [Scenarios for AVS connectivity utilizing Private VPN Gateways and ExpressRoute for Azure Virtual WAN](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/scenarios-for-avs-connectivity-utilizing-private-vpn-gateways/ba-p/3831493)
+* [Migrate your Microsoft SQL Server workloads to Azure VMware Solution](https://techcommunity.microsoft.com/t5/azure-migration-and/migrate-your-microsoft-sql-server-workloads-to-azure-vmware/ba-p/3776447)
 * [Availability Design Considerations](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-availability-design-considerations/ba-p/3682915)
 * [Recoverability Design Considerations](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-recoverability-design-considerations/ba-p/3746509)
 * [Auto-Scale](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-auto-scale/ba-p/3690186)
@@ -127,6 +138,8 @@ tags:
 * [Azure Site Recovery: Disaster Recovery Drill from AVS](https://learn.microsoft.com/en-us/azure/site-recovery/avs-tutorial-dr-drill-azure)
 
 ### Design Areas (Enterprise Scale Landing Zone Accelerator)
+* [AVS Network Design Guide](https://aka.ms/avs-design-basics)
+* [AVS HCX Best Practices](https://aka.ms/AVSHCX)
 * [AVS Accelerator](https://aka.ms/AVSAccelerator)
   * [Identity And Access Management for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-identity-and-access-management)
   * [Network Topology and Connectivity for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-network-topology-connectivity)
@@ -134,15 +147,15 @@ tags:
   * [Management and Monitoring for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-management-and-monitoring)
   * [Business Continuity and Disaster Recovery (BCDR) for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-business-continuity-and-disaster-recovery)
   * [Platform Automation for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-platform-automation-and-devops)
-* [AVS Accelerator Automation - Reference Implementation](https://aka.ms/avsacceleratorautomation): [Greenfield](https://github.com/Azure/Enterprise-Scale-for-AVS/tree/main/AVS-Landing-Zone/GreenField) | [Brownfield](https://github.com/Azure/Enterprise-Scale-for-AVS/blob/main/BrownField)
+* [AVS Accelerator Automation - Reference Implementation](https://aka.ms/avsacceleratorautomation): [Greenfield](https://github.com/Azure/Enterprise-Scale-for-AVS/tree/main/AVS-Landing-Zone/GreenField) | [Brownfield](https://github.com/Azure/Enterprise-Scale-for-AVS/blob/main/BrownField) | [Submit Request/Feedback/Issue](https://github.com/Azure/Enterprise-Scale-for-AVS/issues/new)
 
 ### Benefits
-* [Know your options for SQL Server 2012 and Windows Server 2012 End of Support
-](https://www.microsoft.com/en-us/windows-server/extended-security-updates) - [Blog](https://cloudblogs.microsoft.com/sqlserver/2021/07/14/know-your-options-for-sql-server-2012-and-windows-server-2012-end-of-support/)
+* [Know your options for SQL Server 2012 and Windows Server 2012 End of Support](https://www.microsoft.com/en-us/windows-server/extended-security-updates) - [Blog](https://cloudblogs.microsoft.com/sqlserver/2021/07/14/know-your-options-for-sql-server-2012-and-windows-server-2012-end-of-support/)
 * [Self-service exchanges and refunds for Azure Reservations](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)
 
 
 ## Keeping Up
+* [AVS ITOps Talk Youtube Playlist](https://aka.ms/avschannel)
 * [AVS Youtube Playlist](https://aka.ms/AVSPlayList)
 * [AVS at Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/azure-migration/bg-p/AzureMigrationBlog)
 * [AVS Blog](https://avs.ms)

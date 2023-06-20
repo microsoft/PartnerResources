@@ -2,7 +2,7 @@
 layout: page
 title: Azure OpenAI
 description: Resources for Azure OpenAI
-updated: 2023-05-03
+updated: 2023-05-23
 permalink: /azure/data-analytics-ai/openai
 tags: 
 - azure
@@ -98,6 +98,8 @@ Responsible AI:
 
 ## Events
 
+- [Microsoft Build](https://build.microsoft.com/) (developer conference) - May 23-24. Join live or watch recordings on-demand! See [Microsoft Build 2023 Recommended AI Session Guide]({{ site.baseurl }}/assets/aiml/Microsoft Build 2023 Recommended AI Session Guide.pdf)
+- Microsoft Build Recap: Insights and Learnings for Analytics and AI - June 7 - [Registration page](https://msuspartners.eventbuilder.com/event/73358)
 - Azure AI Bootcamp for Microsoft Partners – March 28-30 – [Registration page](https://vshow.on24.com/vshow/Azure_Depth/registration/22504) *Register to view on-demand*
 - What the Hack (WTH): Azure OpenAI - June 13-15 - [Registration page](https://msuspartners.eventbuilder.com/AIMLPartnerPrep) This introductory hackathon will provide participants with hands-on experience on how to integrate the Azure Open AI offering as well as the upstream Open AI service with Microsoft Azure platform services.
 - [AI and Machine Learning Partner Prep Event Listing Page (eventbuilder.com)](https://msuspartners.eventbuilder.com/AIMLPartnerPrep)

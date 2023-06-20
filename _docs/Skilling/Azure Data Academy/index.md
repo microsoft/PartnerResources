@@ -64,4 +64,4 @@ Not sure which to use? To fire off a quick suggestion, use the Office Form. It's
 
 ## Contributions
 
-We welcome contributors to this project. Please use the GitHub links near the upper right and consider submitting pull requests or filing issues as needed.
+We welcome contributors to this project. Please use the GitHub links near the upper right and consider submitting pull requests or filing issues as needed. Curious how to contribute? See our [Contribution Cheat Sheet]({{ site.baseurl }}/assets/msa/TODO Contribution Cheat Sheet.pdf).

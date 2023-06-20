@@ -3,7 +3,7 @@ layout: page
 title: Cloud Security - Azure Network Security Academy
 description: Microsoft Security Academy Cloud Security.
 permalink: /skilling/microsoft-security-academy/network-academy
-updated: 2023-03-28
+updated: 2023-06-07
 showbreadcrumb: true
 tags: 
 - academy content
@@ -20,15 +20,29 @@ Welcome to the Network Security Academy. Explore network security video sessions
 {% include series.md 
     includetags="academy content|network security" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
-    visualstyle="list" 
+    visualstyle="normal" 
 %}
 
 
-### Learning Path
+### Keeping Up
+* [Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)
 
+
+### Learning Path
 See the Azure Advanced Networking Readiness Resources for further upskilling:
 {% include resources.md 
     includetags="networking resources"
+    includemethod="all" 
+    showtags="false" 
+    showdate="true" 
+    visualstyle="normal" 
+    showdescription="true"
+%}
+
+See relevant security certifications:
+
+{% include resources.md 
+    includetags="security certifications"
     includemethod="all" 
     showtags="false" 
     showdate="true" 

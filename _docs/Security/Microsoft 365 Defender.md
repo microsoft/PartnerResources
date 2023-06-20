@@ -2,10 +2,10 @@
 layout: page
 title: Microsoft 365 Defender Resources
 description: Resources for Microsoft 365 Defender
-updated: 2023-03-03
+updated: 2023-06-02
 permalink: /security/microsoft-defender
 redirect_from:
-  - /security/microsoft-defender-for-endpoint-training
+  - /security/microsoft-defender-for-endpoint
 tags:
 - security
 - learning plan
@@ -17,40 +17,31 @@ tags:
 # Microsoft 365 Defender Readiness Resources
 Below you will find content to assist in upskilling on Microsoft 365 Defender. Content is organized by product or solution area.
 
+**See our [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)** for video sessions, demonstrations, learning paths, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields.
+
 ## Defender for Office
+* [Microsoft Defender for Office 365 Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja/ba-p/2187392)
 * [Microsoft Defender for Office 365 Documentation - Microsoft Docs](https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/?view=o365-worldwide)
-* [Microsoft 365 Defender Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/become-a-microsoft-365-defender-ninja/ba-p/1789376)
-* [Microsoft Defender for Office 365 Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja/ba-p/2187392)
-* [Simulate Phishing Attack with Microsoft Defender for Office 365 - Microsoft Learn](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulation-training?view=o365-worldwide)
+* [Simulate Phishing Attack with Microsoft Defender for Office 365 - Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulation-training?view=o365-worldwide)
 
 ## Defender for Identity (On-premises)
 * [Microsoft Defender for Identity Documentation - Microsoft Docs](https://learn.microsoft.com/en-us/defender-for-identity/)
-* [Microsoft Defender for Identity Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-identity-ninja-training/ba-p/2117904?WT.mc_id=m365-0000-rotrent)
-* [Microsoft Defender for Identity Experiences in Microsoft 365 Defender - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-identity-experiences-in-microsoft-365/ba-p/2414610)
 
 ## Identity Protection (Cloud)
+* [Microsoft Defender for Identity Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-identity-ninja-training/ba-p/2117904?WT.mc_id=m365-0000-rotrent)
 * [Protect Identities with Azure AD Identity Protection - Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/?WT.mc_id=itopstalk-blog-socuff)
 * [Azure Identity Management Security Overview - Microsoft Docs](https://docs.microsoft.com/en-us/azure/security/fundamentals/identity-management-overview?WT.mc_id=itopstalk-blog-socuff)
 
 ## Defender for Cloud Apps
+* [Microsoft Defender for Cloud Apps Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-cloud-apps-ninja-training-june-2022/ba-p/2751518)
 * [Microsoft Defender for Cloud Apps Documentation - Microsoft Docs](https://learn.microsoft.com/en-us/defender-cloud-apps/)
-* [Microsoft Defender for Cloud Apps Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-cloud-apps-ninja-training-september-2021/ba-p/2751518?WT.mc_id=m365-0000-rotrent)
-* [Integrate Microsoft Defender for Endpoint with Defender for Cloud Apps - Microsoft Docs](https://docs.microsoft.com/en-us/defender-cloud-apps/mde-integration)
-* [Integrate Microsoft Sentinel with Defender for Cloud Apps - Microsoft Docs](https://docs.microsoft.com/en-us/defender-cloud-apps/siem-sentinel)
 
 ## Defender for Endpoint
+* [Defender for Endpoint Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647)
 * [Microsoft Defender for Endpoint Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
-* [Defender for Endpoint Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647)
 * [Mitigate Threats using Microsoft Defender for Endpoint - Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/)
 * [Microsoft Defender for Endpoint Evaluation Lab - Microsoft Docs](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/evaluation-lab?view=o365-worldwide)
-* [Matt Soseman's Microsoft Defender for Endpoint Training Videos - YouTube](https://youtube.com/playlist?list=PLhTS5hnNCfqcrHsntM1f88WVV-UmxOEmD)
-* [Updated March 2022: Ultimate Comparison of Defender for Endpoint Features by Operating System](https://campbell.scot/march-22-defender-for-endpoint-feature-comparison/)
 
 ## Defender for IoT
+* [Microsoft Defender for IoT Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/microsoft-defender-for-iot-ninja-training/ba-p/2428899?WT.mc_id=m365-0000-rotrent)
 * [ Microsoft Defender for IoT Documentation - Microsoft Docs](https://learn.microsoft.com/en-us/azure/defender-for-iot/organizations/)
-* [Microsoft Defender for IoT Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/microsoft-defender-for-iot-ninja-training/ba-p/2428899?WT.mc_id=m365-0000-rotrent)
-* [Microsoft Defender for IoT/OT Hands-on Lab Workshop](https://github.com/mpram/Azure-Defender-for-IoT/)
-
-## Compliance Manager
-* [Microsoft Compliance Manager (MSCM) Ninja Training - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-compliance-manager-mscm-ninja-training-q1-2022/ba-p/3181322#:~:text=Microsoft%20Compliance%20Manager%20%28MSCM%29%20Ninja%20Training%3A%20Q1%202022,Compliance%20Score%20Calculation%20%203%20more%20rows%20)
-* [Quick Assessment Recommendations in Microsoft Compliance Manager - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/quickly-get-assessment-recommendations-in-microsoft-compliance/ba-p/3170065)

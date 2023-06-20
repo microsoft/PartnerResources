@@ -111,7 +111,7 @@ The Dynamics 365 Pre-Sales Academy is a series of presentations combined with ha
 <hr/>
 
 ### [Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)
-The Microsoft Security Academy is organized into five primary categories (Cloud Security, Identity & Access, Endpoint Security, SIEM & XDR, and Risk Management & Privacy), all of which include academies incorporating video sessions, demonstrations, learning paths, certifications, and other related materials. Most recent content:
+The Microsoft Security Academy is organized into five primary categories (Cloud Security, Identity and Access, Endpoint Security, SIEM & XDR, and Risk Management & Privacy), all of which include academies incorporating video sessions, demonstrations, learning paths, certifications, and other related materials. Most recent content:
 
 {% include series.md 
     includetags="microsoft security academy|academy content" includemethod="all" 
