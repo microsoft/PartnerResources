@@ -5,7 +5,7 @@ sorttitle: HOW TO CONFIGURE - Viva Sales
 description: Provides partners with guidance on how to configure and integrate Viva Sales, Dynamics 365 Sales, Microsoft Outlook and Microsoft Teams.
 updated: 2022-10-12
 permalink: /skilling/d365-sales-academy/content/vivasalesconfigure
-youtubeid: xXiYny_kldU
+youtubeid: lzhs2PYrGcs
 tags: 
 - d365 sales academy
 - academy content
