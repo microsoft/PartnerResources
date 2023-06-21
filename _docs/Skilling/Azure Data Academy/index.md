@@ -16,16 +16,18 @@ Welcome to the Azure Data Academy.
 The Azure Data Academy is a series of presentations and hands-on material designed to upskill partners on data modernization in Microsoft Azure. Topics include MySQL, PostgreSQL, SQL Server, Maria DB, Cosmos DB, and other topics related to data modernization. We’ll look at features, migration strategies, and roadmap.
 
 We've organized the content into a few key areas:
-* [SQL Server](/PartnerResources/skilling/azure-data-academy/sql) - Content related to SQL Server (on premises and in the cloud), Azure SQL Database, Azure SQL Database Managed Instance.
+* [SQL Server and Data Integration](/PartnerResources/skilling/azure-data-academy/sql) - Content related to SQL Server (on premises and in the cloud), Azure SQL Database, Azure SQL Database Managed Instance, and data movement & migration, ETL, ELT, etc.
 * [OSS DB: MySQL, PostgreSQL, MariaDB](/PartnerResources/skilling/azure-data-academy/ossdb) - Content for MySQL, PostgreSQL, MariaDB, and similar databases; generaly referred to as OSS DB.
 * [Cosmos DB](/PartnerResources/skilling/azure-data-academy/cosmosdb) - Content related to Cosmos DB -- this area has significant overlap with our Analytics Academy, and so some content may appear in both areas.
 
-## SQL Server
+## SQL Server and Data Integration
 
 For a more immersive list with full descriptions, visit the [SQL Server](/PartnerResources/skilling/azure-data-academy/sql) page.
 
 {% include series.md 
-    includetags="azure data academy|sql server" includemethod="all" 
+    includetags="azure data academy|sql server" 
+    includesecondtags="academy content|data integration" 
+    includemethod="all" 
     sortfield="updated" sortorder="desc" showtags="true" 
     visualstyle="tiny"
 %}

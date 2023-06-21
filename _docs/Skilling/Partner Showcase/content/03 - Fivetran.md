@@ -11,7 +11,7 @@ tags:
  - microsoft partner showcase
  - azure data academy
  - academy content
- - data orchestration
+ - data integration
  - fivetran
 ---
 

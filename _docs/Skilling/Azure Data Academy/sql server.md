@@ -8,10 +8,12 @@ showbreadcrumb: false
 
 # {{ page.title }}
 
-Welcome to the Azure Data Academy content on Azure SQL. This section houses our content related to migration strategies, best practices, developer scenarios and operations topics related to Azure SQL Database, Azure SQL Managed Instance, and SQL Server running in an Azure Virtual Machine.
+Welcome to the Azure Data Academy content on Azure SQL and data integration. This section houses our content related to migration strategies, best practices, developer scenarios and operations topics related to Azure SQL Database, Azure SQL Managed Instance, and SQL Server running in an Azure Virtual Machine. We'll also include data integration related content.
 
 {% include series.md 
-    includetags="azure data academy|sql server" includemethod="all" 
+    includetags="azure data academy|sql server" 
+    includesecondtags="academy content|data integration" 
+    includemethod="all" 
     sortfield="updated" sortorder="desc" showtags="true"
     visualstyle="normal"
 %}
