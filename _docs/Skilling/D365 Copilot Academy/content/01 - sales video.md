@@ -1,5 +1,4 @@
 ---
-nav_exclude: true
 layout: page
 title: D365 Copilot Academy - Dynamics 365 Sales and Dynamics 365 Copilot
 sorttitle: 01 - D365 Copilot Academy - Dynamics 365 Sales and Dynamics 365 Copilot

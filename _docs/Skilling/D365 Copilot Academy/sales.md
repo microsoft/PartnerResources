@@ -1,5 +1,4 @@
 ---
-nav_exclude: true
 layout: page
 title: D365 Copilot Academy - Sales
 sorttitle: 01 - D365 Copilot Academy - Sales
