@@ -4,6 +4,12 @@ title: D365 Marketing Academy - Journeys
 description: D365 Marketing Academy - Journeys
 permalink: /skilling/d365-marketing-academy/journeys
 showbreadcrumb: true
+tags: 
+- d365 marketing academy
+- academy page
+- journeys
+- dynamics
+- marketing
 ---
 
 # {{ page.title }}

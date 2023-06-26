@@ -4,6 +4,12 @@ title: D365 Marketing Academy - Push Notification
 description: D365 Marketing Academy - Push Notification
 permalink: /skilling/d365-marketing-academy/pushnotification
 showbreadcrumb: true
+tags: 
+- d365 marketing academy
+- academy page
+- push notifications
+- dynamics
+- marketing
 ---
 
 # {{ page.title }}

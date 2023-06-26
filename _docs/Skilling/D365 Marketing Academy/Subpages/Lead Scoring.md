@@ -4,6 +4,12 @@ title: D365 Marketing Academy - Lead Scoring
 description: D365 Marketing Academy - Lead Scoring
 permalink: /skilling/d365-marketing-academy/leadscoring
 showbreadcrumb: true
+tags: 
+- d365 marketing academy
+- academy page
+- lead scores
+- dynamics
+- marketing
 ---
 
 # {{ page.title }}
