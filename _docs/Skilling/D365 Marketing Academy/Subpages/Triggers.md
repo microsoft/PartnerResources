@@ -4,6 +4,12 @@ title: D365 Marketing Academy - Triggers
 description: D365 Marketing Academy - Triggers
 permalink: /skilling/d365-marketing-academy/triggers
 showbreadcrumb: true
+tags: 
+- d365 marketing academy
+- academy page
+- triggers
+- dynamics
+- marketing
 ---
 
 # {{ page.title }}

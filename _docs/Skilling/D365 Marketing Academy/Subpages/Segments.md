@@ -4,6 +4,12 @@ title: D365 Marketing in a Day - Working with Segments
 description: D365 Marketing Academy - Segments
 permalink: /skilling/d365-marketing-academy/segments
 showbreadcrumb: true
+tags: 
+- d365 marketing academy
+- academy page
+- segments
+- dynamics
+- marketing
 ---
 
 # {{ page.title }}
