@@ -1,9 +1,10 @@
 ---
 layout: page
-title: D365 Marketing in a Day - Create a Trial
+title: D365 Marketing Academy - Create a Trial
 description: D365 Marketing Academy - Create a Trial
 permalink: /skilling/d365-marketing-academy/create-trial
 showbreadcrumb: true
+tags:
 - d365 marketing academy
 - academy page
 - create trial
