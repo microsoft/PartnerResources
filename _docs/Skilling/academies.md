@@ -8,16 +8,15 @@ navheadersonly: true
 
 # Academies
 
-Welcome to the Academy Hub, our central location for all academies. Each academy is designed around a technology or solution space -- for example, analytics or Microsoft Teams. They contain sessions, labs or demos, and other material relevant to the subject.
+Welcome to the Academy Hub, our central location for all academies. Each academy is designed around a technology or solution space -- like analytics or Microsoft Teams. They contain sessions, labs or demos, and other material relevant to the subject.
 
-Have a suggestion, comment, or would like to contribute? [Use our form](https://forms.office.com/r/GZwiMqB3Zg) to contact us or use the Github Issues and Discussions funcionality.
-
-The latest sessions across all academies:
+The latest content across all academies:
 
 {% include series.md 
-    includetags="academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
-    visualstyle="tiny"
+    includetags="academy content|showcase content" 
+    includemethod="any" 
+    sortfield="updated" sortorder="desc" showdate="true" 
+    showtags="true" visualstyle="tiny" limit="10" 
 %}
 
 Be sure to check out the Microsoft Partner Showcase! The Partner Showcase features technical conversatons with Microsoft Partners and their solutions. Join Microsoft CSAs and Partners from around the world to get their perspectives on the tech industry and go hands-on with their solutions.
@@ -25,10 +24,11 @@ Be sure to check out the Microsoft Partner Showcase! The Partner Showcase featur
 {% include series.md 
     includetags="microsoft partner showcase|showcase content" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
+    sortfield="updated" sortorder="desc" showdate="true" limit="10"  
     visualstyle="tiny" 
 %}
 
+<hr/>
 
 ### [AI/ML Academy](/PartnerResources/skilling/ai-ml-academy)
 The AI/ML Academy features content in 5 areas: Prebuilt AI, applied AI, Build Your Own AI, ML Platform, and ML Engineering in Production (MLOPS). Each section dives into different aspects of AI/ML solutions, leveraging many Azure AI services like Azure Cognitive Services, Azure Machine Learning, and DevOps integration.
@@ -151,3 +151,7 @@ The Windows 365 Academy focuses on producing and publishing videos on Microsoft 
     sortfield="updated" sortorder="desc" showdate="true" limit=5 
     visualstyle="tiny"
 %}
+
+<hr/>
+
+Have a suggestion, comment, or would like to contribute? [Use our form](https://forms.office.com/r/GZwiMqB3Zg) to contact us or use the Github Issues and Discussions funcionality.

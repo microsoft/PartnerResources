@@ -24,59 +24,55 @@
     </div>
 
         <div id="segments">
-
             <div class="wrapper">
+                <div class="segment" style="width:33%">
+                    <div class="inner">
+                        <a href="{{ site.url }}{{ site.baseurl }}/readiness-resources/" class="segment"><h2>Readiness Resources</h2></a>
+                        <p>Readiness content for Azure, Business Apps, Modern Workplace, Security, and Industry specific content. Latest updates:</p>
+                        {% include resources.md 
+                            includetags="learning plan" 
+                            includemethod="all" 
+                            showtags="false" 
+                            showdate="true" 
+                            visualstyle="homepage" 
+                            showdescription="true" 
+                            sortfield="updated" 
+                            sortorder="desc" 
+                            showdate="true" 
+                            limit="5" 
+                        %}
+                        <a href="{{ site.url }}{{ site.baseurl }}/readiness-resources/" class="segment"><span class="homepagelink">View Readiness Resources &#187;</span></a> 
+                    </div>
+                </div>
 
-                <a href="{{ site.url }}{{ site.baseurl }}/azure/" class="segment">
+                <div class="segment" style="width:33%">
                     <div class="inner">
-                        <h2>Azure</h2>
-                        <p>AppDev, Data, Analytics, and AI, Infrastructure, IoT, and Marketplace content.</p>
-                        <span class="homepagelink">View Azure Resources &#187;</span>
+                        <a href="{{ site.url }}{{ site.baseurl }}/skilling/academies" class="segment"><h2>Academies</h2></a>
+                        <p>Our solution-focused content on Data, Analytics, AI, D365, Data Governance, and Security. Latest updates:</p>
+                        {% include series.md 
+                            includetags="academy content|showcase content" 
+                            includemethod="any" 
+                            sortfield="updated" sortorder="desc" showdate="true" 
+                            showtags="true" visualstyle="homepage" limit="5" 
+                        %}
+                        <a href="{{ site.url }}{{ site.baseurl }}/skilling/academies" class="segment"><span class="homepagelink">View Academies &#187;</span></a> 
                     </div>
-                </a>
-                
-                <a href="{{ site.url }}{{ site.baseurl }}/business-applications/" class="segment">
+                </div>
+          
+                <div class="segment" style="width:33%">
                     <div class="inner">
-                        <h2>Business Applications</h2>
-                        <p>Customer Data Platform, Customer Engagement, Finance & Operations, ISV Connect, Mixed Reality, Power Platform, Small Medium Business (SMB)</p>
-                        <span class="homepagelink">View Business Apps Resources &#187;</span>                 
+                        <a href="{{ site.url }}{{ site.baseurl }}/skilling" class="segment"><h2>Skilling & Hands-on</h2></a>
+                        <p>Workshops, hands-on content, and labs</p>
+                        <p style="line-height: 100%">
+                            <a class="homepagecontent" href="{{- site.baseurl -}}/skilling/infrastructure/avs-hands-on-labs">AVS Hands-on Labs</a>
+                        </p>
+                        <p style="line-height: 100%;">
+                            <a class="homepagecontent" href="{{- site.baseurl -}}/skilling/azure/what-the-hack">What-the-Hack Library</a>
+                        </p>
+                        <span class="homepagelink">View Skilling & Hands-on &#187;</span>       
                     </div>
-                </a>
-                
-                <a href="{{ site.url }}{{ site.baseurl }}/industry/" class="segment">
-                    <div class="inner">
-                        <h2>Industry</h2>
-                        <p>Automotive, Communications Sector, Energy, Healthcare, Financial Services, Manufacturing, Nonprofit, Retail, Sustainability</p>
-                        <span class="homepagelink">View Content by Industry &#187;</span>        
-                    </div>
-                </a>
-
-                <a href="{{ site.url }}{{ site.baseurl }}/modern-workplace/" class="segment">
-                    <div class="inner">
-                        <h2>Modern Workplace</h2>
-                        <p>Management, Microsoft Teams</p>
-                        <span class="homepagelink">View Modern Workplace Resources &#187;</span>                             
-                    </div>
-                </a>
-                
-                <a href="{{ site.url }}{{ site.baseurl }}/security/" class="segment">
-                    <div class="inner">
-                        <h2>Security</h2>
-                        <p>Security Copilot, Microsoft Sentinel, Microsoft Defender for Cloud, Microsoft 365 Defender, and more!</p>
-                        <span class="homepagelink">View Security Resources &#187;</span>        
-                    </div>
-                </a>
-
-                <a href="{{ site.url }}{{ site.baseurl }}/skilling/academies" class="segment">
-                    <div class="inner">
-                        <h2>Academies</h2>
-                        <p>Our solution-focused content on AI/ML, Data, Security, Analytics, Data Governance, and D365.</p>
-                        <span class="homepagelink">View Academies &#187;</span>                             
-                    </div>
-                </a>
-
-            </div>
-                
+                </div>
+            </div>     
         </div><!-- #segments -->
 
       </div>
