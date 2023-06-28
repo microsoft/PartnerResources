@@ -6,7 +6,7 @@ description: The Microsoft Partner Showcase features technical conversatons with
 permalink: /skilling/microsoft-partner-showcase
 redirect_from:
 - /skilling/microsoft-partner-showcase/
-updated: 2023-03-09
+updated: 2023-06-28
 showbreadcrumb: true
 tags: 
  - microsoft partner showcase
