@@ -14,8 +14,6 @@ tags:
 
 # Learning Plan Resources for Azure AI Services for Health
 
-Coming soon
-
 
 ## Azure AI Services for Health
 
