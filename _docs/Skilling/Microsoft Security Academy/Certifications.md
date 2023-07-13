@@ -3,7 +3,7 @@ layout: page
 title: Security Certifications
 description: Resources for Security Certifications
 updated: 2023-06-02
-permalink: /security/certifications
+permalink: /security/microsoft-security-academy/certifications
 tags:
 - security
 - learning plan

@@ -3,7 +3,7 @@ layout: page
 title: Identity and Access Management
 description: Resources for Identity and Access Management
 updated: 2023-06-19
-permalink: /security/identity-and-access-management
+permalink: /security/microsoft-security-academy/identity-and-access-management
 tags:
 - security
 - learning plan

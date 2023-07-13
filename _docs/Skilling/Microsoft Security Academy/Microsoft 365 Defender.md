@@ -3,7 +3,7 @@ layout: page
 title: Microsoft 365 Defender Resources
 description: Resources for Microsoft 365 Defender
 updated: 2023-06-02
-permalink: /security/microsoft-defender
+permalink: /security/microsoft-security-academy/microsoft-defender
 redirect_from:
   - /security/microsoft-defender-for-endpoint
 tags:

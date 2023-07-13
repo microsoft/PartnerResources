@@ -3,7 +3,7 @@ layout: page
 title: Information and Data Protection
 description: Resources for Information and Data Protection
 updated: 2023-06-02
-permalink: /security/information-and-data-protection
+permalink: /security/microsoft-security-academy/information-and-data-protection
 tags:
 - security
 - learning plan

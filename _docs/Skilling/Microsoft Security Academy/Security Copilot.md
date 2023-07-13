@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Security Copilot
 description: Resources for Microsoft Security Copilot
 updated: 2023-06-21
-permalink: /security/microsoft-security-copilot
+permalink: /security/microsoft-security-academy/microsoft-security-copilot
 tags:
 - security
 - learning plan

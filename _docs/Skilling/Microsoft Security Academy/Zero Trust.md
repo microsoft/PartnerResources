@@ -3,7 +3,7 @@ layout: page
 title: Zero Trust
 description: Resources for Zero Trust
 updated: 2023-06-19
-permalink: /security/zero-trust
+permalink: /security/microsoft-security-academy/zero-trust
 tags:
 - security
 - learning plan

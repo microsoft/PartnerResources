@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Defender for Cloud Resources
 description: Resources for Microsoft Defender for Cloud
 updated: 2023-06-07
-permalink: /security/microsoft-defender-for-cloud
+permalink: /security/microsoft-security-academy/microsoft-defender-for-cloud
 tags:
 - security
 - learning plan

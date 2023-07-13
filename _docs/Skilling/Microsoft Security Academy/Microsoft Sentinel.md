@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
 updated: 2023-06-18
-permalink: /security/microsoft-sentinel
+permalink: /security/microsoft-security-academy/microsoft-sentinel
 tags:
 - security
 - learning plan

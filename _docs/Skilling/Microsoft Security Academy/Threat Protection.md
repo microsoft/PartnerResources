@@ -3,7 +3,7 @@ layout: page
 title: Threat Protection
 description: Resources for Microsoft Threat Protection
 updated: 2023-06-02
-permalink: /security/threat-protection
+permalink: /security/microsoft-security-academy/threat-protection
 tags:
 - security
 - learning plan
