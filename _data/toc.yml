@@ -226,47 +226,57 @@
       url: "skilling/microsoft-security-academy"
       tag: microsoft security academy
       children:
-        - title: Cloud Security
-          url: "skilling/microsoft-security-academy/cloud-security"
-          tag: cloud security
+        - title: Getting Started
+          url: "skilling/microsoft-security-academy/start"
+          tag: getting started
+        - title: Modules
+          url: "skilling/microsoft-security-academy/modules"
+          tag: modules
           children:
-            - title: Microsoft Defender for Cloud Academy
-              url: "skilling/microsoft-security-academy/defender-academy"
-              tag: defender for cloud
-            - title: Azure Network Security Academy
-              url: "skilling/microsoft-security-academy/network-academy"
-              tag: network security
-        - title: Identity & Access
-          url: "skilling/microsoft-security-academy/identity-access"
-          tag: identity & access
-          children:
-            - title: Microsoft Entra Academy
-              url: "skilling/microsoft-security-academy/entra-academy"
-              tag: entra
-        - title: Endpoint Security
-          url: "skilling/microsoft-security-academy/endpoint-security"
-          tag: endpoint security
-          children: 
-            - title: Endpoint Security Academy
-              url: "skilling/microsoft-security-academy/endpoint-academy"
-              tag: endpoint security academy
-        - title: SIEM & XDR
-          url: "skilling/microsoft-security-academy/siem-xdr"
-          tag: siem & xdr
-          children:
-            - title: Microsoft Sentinel Academy
-              url: "skilling/microsoft-security-academy/sentinel-academy"
-              tag: sentinel
-            - title: Microsoft 365 Defender Academy
-              url: "skilling/microsoft-security-academy/d365-academy"
-              tag: d365 defender
-        - title: Risk Management & Privacy
-          url: "skilling/microsoft-security-academy/risk-mgmt"
-          tag: risk management
-          children:
-            - title: Microsoft Purview Academy
-              url: "skilling/microsoft-security-academy/purview-academy"
-              tag: purview
+            - title: Cloud Security
+              url: "skilling/microsoft-security-academy/cloud-security"
+              tag: cloud security
+              children:
+                - title: Microsoft Defender for Cloud Academy
+                  url: "skilling/microsoft-security-academy/defender-academy"
+                  tag: defender for cloud
+                - title: Azure Network Security Academy
+                  url: "skilling/microsoft-security-academy/network-academy"
+                  tag: network security
+            - title: Identity & Access
+              url: "skilling/microsoft-security-academy/identity-access"
+              tag: identity & access
+              children:
+                - title: Microsoft Entra Academy
+                  url: "skilling/microsoft-security-academy/entra-academy"
+                  tag: entra
+            - title: Endpoint Security
+              url: "skilling/microsoft-security-academy/endpoint-security"
+              tag: endpoint security
+              children: 
+                - title: Endpoint Security Academy
+                  url: "skilling/microsoft-security-academy/endpoint-academy"
+                  tag: endpoint security academy
+            - title: SIEM & XDR
+              url: "skilling/microsoft-security-academy/siem-xdr"
+              tag: siem & xdr
+              children:
+                - title: Microsoft Sentinel Academy
+                  url: "skilling/microsoft-security-academy/sentinel-academy"
+                  tag: sentinel
+                - title: Microsoft 365 Defender Academy
+                  url: "skilling/microsoft-security-academy/d365-academy"
+                  tag: d365 defender
+            - title: Risk Management & Privacy
+              url: "skilling/microsoft-security-academy/risk-mgmt"
+              tag: risk management
+              children:
+                - title: Microsoft Purview Academy
+                  url: "skilling/microsoft-security-academy/purview-academy"
+                  tag: purview
+        - title: Resources
+          url: "skilling/microsoft-security-academy/resources"
+          tag: resources
     - title: "Microsoft Teams Academy"
       url: "skilling/microsoft-teams-academy"
       tag: mta
