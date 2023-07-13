@@ -1,17 +1,8 @@
 ---
-layout: page
-title: Microsoft Security Academy Resources
-description: Want to explore more security resources?
-permalink: /skilling/microsoft-security-academy/resources
-updated: 2023-07-13
-showbreadcrumb: true
-tags: 
-- academy content
-- microsoft security academy
-- resources
+layout: planlist
+title: Security Readiness Resources
+permalink: /security/
+includemethod: all
+includeplans:
+- security
 ---
-
-## Resources
-
-### Resources
-TBD - Testing
