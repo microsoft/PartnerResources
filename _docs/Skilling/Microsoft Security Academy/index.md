@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2023-06-07
+updated: 2023-07-21
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -11,21 +11,23 @@ showbreadcrumb: true
 
 {% include_relative header.md %}
 
-The Microsoft Security Academy is organized into five smaller academies and security categories, including [Cloud Security](/PartnerResources/skilling/microsoft-security-academy/cloud-security), [Identity and Access](/PartnerResources/skilling/microsoft-security-academy/identity-access), [Endpoint Security](/PartnerResources/skilling/microsoft-security-academy/endpoint-security), [SIEM & XDR](/PartnerResources/skilling/microsoft-security-academy/siem-xdr), and [Risk Management and Privacy](/PartnerResources/skilling/microsoft-security-academy/risk-mgmt). Each academy includes video sessions, demonstrations, learning paths, certifications, and other related materials.
+Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources. Whether you're new to the field or a seasoned professional, the Microsoft Security Academy offers valuable modules and resources designed to enhance and elevate skills.
 
-The resources within each academy are created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields. The overall objective of the academies is to help you enhance your security knowledge, scale in learning, and grow in experience.
+Want to help defend the world against threats? Cybersecurity is not just an individual effort — it's a shared responsibility. [Get started](/PartnerResources/skilling/microsoft-security-academy/start) and take action today to embark on a rewarding journey of becoming a cybersecurity defender.
 
+Want to take a deep dive and level up your cybersecurity expertise? Stay ahead of evolving threats and protect your organization with continuous learning through our [Modules](/PartnerResources/skilling/microsoft-security-academy/modules). Act now to fortify your skills and elevate your cybersecurity expertise to new heights.
 
-**For more resources, see our [Security Readiness Resources](https://microsoft.github.io/PartnerResources/security/).**
+The Microsoft Security Academy's [Modules](/PartnerResources/skilling/microsoft-security-academy/modules) are organized into five smaller academies and security categories, including [Cloud Security](/PartnerResources/skilling/microsoft-security-academy/cloud-security), [Identity and Access](/PartnerResources/skilling/microsoft-security-academy/identity-access), [Endpoint Security](/PartnerResources/skilling/microsoft-security-academy/endpoint-security), [SIEM + XDR](/PartnerResources/skilling/microsoft-security-academy/siem-xdr), and [Data Security and Governance](/PartnerResources/skilling/microsoft-security-academy/risk-mgmt). The resources within each academy are created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields.
+
+In addition to the modules, the Microsoft Security Academy's (Resources)[/PartnerResources/skilling/microsoft-security-academy/resources] will help support your cybersecurity journey. These resources complement the [Modules](/PartnerResources/skilling/microsoft-security-academy/modules) and enable you to explore cybersecurity concepts in greater detail, stay up-to-date with industry developments, and gain practical insights to apply in real-world scenarios.
+
+Explore our new resources on [Microsoft Security Copilot](/security/microsoft-security-academy/microsoft-security-copilot)!
 
 ## Organization
-![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Org. Chart 2.jpg)
-
-## Important Updates
-Interested in Microsoft 365 E5 Licensing features? Watch our architects breakdown what you need to know with [Microsoft 365 E5](https://microsoft-my.sharepoint.com/:v:/r/personal/nickblackman_microsoft_com/Documents/Documents/GPSUS%20Training%20Sessions/Microsoft%20365%20E5%20Licensing/Microsoft%20365%20E5%20-%20Feature%20Breakdown%20-%20Q4-FY23.mp4?csf=1&web=1&e=6r3HSL).
+![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)
 
 
-## Start Your Journey
+## Start Your Journey and Stay Connected
  
 **Join our private [Cloud Security Community](https://aka.ms/PrSecCom) where you can sign-up to make a difference in helping us shape our products together.**
 

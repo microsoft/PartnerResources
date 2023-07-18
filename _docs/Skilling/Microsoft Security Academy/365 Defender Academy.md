@@ -3,7 +3,7 @@ layout: page
 title: SIEM & XDR - Microsoft 365 Defender Academy
 description: Microsoft Security Academy SIEM & XDR.
 permalink: /skilling/microsoft-security-academy/d365-academy
-updated: 2023-06-07
+updated: 2023-07-21
 showbreadcrumb: true
 Tags:
 - academy content
@@ -13,8 +13,7 @@ Tags:
 ---
 
 ## Microsoft 365 Defender Academy
-Welcome to the Microsoft 365 Defender Academy. Explore Microsoft 365 Defender video sessions delivered directly to partners, detailed learning paths, certifications, and further resources.
-
+Welcome to the Microsoft 365 Defender Academy. Explore Microsoft 365 Defender video sessions delivered directly to partners, certifications, and further resources.
 
 ### Sessions
 {% include series.md 
@@ -32,10 +31,21 @@ Welcome to the Microsoft 365 Defender Academy. Explore Microsoft 365 Defender vi
 
 
 ### Learning Path
-See the Microsoft 365 Defender Readiness Resources:
+See the Microsoft 365 Defender Resources:
 
 {% include resources.md 
     includetags="365 defender resources"
+    includemethod="all" 
+    showtags="false" 
+    showdate="true" 
+    visualstyle="normal" 
+    showdescription="true"
+%}
+
+See our new Security Copilot Resources:
+
+{% include resources.md 
+    includetags="security copilot"
     includemethod="all" 
     showtags="false" 
     showdate="true" 
@@ -53,39 +63,3 @@ See relevant security certifications:
     visualstyle="normal" 
     showdescription="true"
 %}
-
-See the Threat Protection Readiness Resources for further upskilling:
-
-{% include resources.md 
-    includetags="threat protection resources"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
-See the Information & Data Protection Readiness Resources for further upskilling:
-
-{% include resources.md 
-    includetags="information & data protection resources"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
-See the Zero Trust Readiness Resources for further upskilling:
-
-{% include resources.md 
-    includetags="zero trust resources"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
-
-{% include_relative footer.md %}

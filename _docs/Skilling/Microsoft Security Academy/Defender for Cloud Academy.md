@@ -3,7 +3,7 @@ layout: page
 title: Cloud Security - Microsoft Defender for Cloud Academy
 description: Microsoft Security Academy Cloud Security.
 permalink: /skilling/microsoft-security-academy/defender-academy
-updated: 2023-06-07
+updated: 2023-07-21
 showbreadcrumb: true
 tags: 
 - academy content
@@ -13,7 +13,7 @@ tags:
 ---
 
 ## Microsoft Defender for Cloud Academy
-Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender for Cloud video sessions delivered directly to partners, detailed learning paths, certifications, and further resources.
+Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender for Cloud video sessions delivered directly to partners, certifications, and further resources.
 
 
 ### Sessions
@@ -30,10 +30,21 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
 
 
 ### Learning Path
-See the Microsoft Defender for Cloud Readiness Resources:
+See the Microsoft Defender for Cloud Resources:
 
 {% include resources.md 
     includetags="defender for cloud resources"
+    includemethod="all" 
+    showtags="false" 
+    showdate="true" 
+    visualstyle="normal" 
+    showdescription="true"
+%}
+
+See our new Security Copilot Resources:
+
+{% include resources.md 
+    includetags="security copilot"
     includemethod="all" 
     showtags="false" 
     showdate="true" 
@@ -51,28 +62,3 @@ See relevant security certifications:
     visualstyle="normal" 
     showdescription="true"
 %}
-
-See the Information & Data Protection Readiness Resources for further upskilling:
-
-{% include resources.md 
-    includetags="information & data protection resources"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
-See the Threat Protection Readiness Resources for further upskilling:
-
-{% include resources.md 
-    includetags="threat protection resources"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
-
-{% include_relative footer.md %}

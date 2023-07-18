@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2023-06-18
+updated: 2023-07-21
 permalink: /security/microsoft-security-academy/microsoft-sentinel
 tags:
 - security
@@ -15,12 +15,11 @@ tags:
 # Microsoft Sentinel Readiness Resources
 Below you will find content to assist in upskilling on Microsoft Sentinel. Content is organized by increasing levels of complexity (Fundamentals, Associate) followed by other associated critical resources.
 
-**See our [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)** for video sessions, demonstrations, learning paths, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields.
+**See our [Microsoft Sentinel Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy/sentinel-academy)** for video sessions, demonstrations and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields.
 
 
 ## What's New
 * [Automating Microsoft Sentinel Workspace Manager](https://medium.com/@TimGroothuis/diving-in-automating-sentinel-workspace-manager-cc61d536f8a6)
-* [Introducing the Microsoft Sentinel Triage Assistant (STAT) - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-the-microsoft-sentinel-triage-assistant-stat/ba-p/3845846?utm_source=substack&utm_medium=email)
 * [KQL Queries Behind the Microsoft Sentinel Overview Page](https://rodtrent.substack.com/p/kql-queries-behind-the-microsoft?utm_source=substack&utm_medium=email)
 
 
@@ -28,7 +27,6 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
 * [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
 * [Microsoft Sentinel Notebooks Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491)
 * [Microsoft Defender Threat Intelligence Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965)
-* [Microsoft Sentinel Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/)
 * [Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
 * [Microsoft Sentinel Calculator](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FAzure_Sentinel_Calculator-v2.xlsx)

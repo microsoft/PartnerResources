@@ -82,9 +82,6 @@
         - title: Microsoft Teams
           url: "modern-workplace/microsoft-teams"
           tag: microsoft teams
-    - title: Security
-      url: "security"
-      tag: security
 - title: Academies
   url: "skilling/academies"
   tag: academies
@@ -233,6 +230,16 @@
           url: "skilling/microsoft-security-academy/modules"
           tag: modules
           children:
+            - title: SIEM + XDR
+              url: "skilling/microsoft-security-academy/siem-xdr"
+              tag: siem & xdr
+              children:
+                - title: Microsoft Sentinel Academy
+                  url: "skilling/microsoft-security-academy/sentinel-academy"
+                  tag: sentinel
+                - title: Microsoft 365 Defender Academy
+                  url: "skilling/microsoft-security-academy/d365-academy"
+                  tag: d365 defender
             - title: Cloud Security
               url: "skilling/microsoft-security-academy/cloud-security"
               tag: cloud security
@@ -243,7 +250,7 @@
                 - title: Azure Network Security Academy
                   url: "skilling/microsoft-security-academy/network-academy"
                   tag: network security
-            - title: Identity & Access
+            - title: Identity and Access
               url: "skilling/microsoft-security-academy/identity-access"
               tag: identity & access
               children:
@@ -257,19 +264,9 @@
                 - title: Endpoint Security Academy
                   url: "skilling/microsoft-security-academy/endpoint-academy"
                   tag: endpoint security academy
-            - title: SIEM & XDR
-              url: "skilling/microsoft-security-academy/siem-xdr"
-              tag: siem & xdr
-              children:
-                - title: Microsoft Sentinel Academy
-                  url: "skilling/microsoft-security-academy/sentinel-academy"
-                  tag: sentinel
-                - title: Microsoft 365 Defender Academy
-                  url: "skilling/microsoft-security-academy/d365-academy"
-                  tag: d365 defender
-            - title: Risk Management & Privacy
-              url: "skilling/microsoft-security-academy/risk-mgmt"
-              tag: risk management
+            - title: Data Security and Governance
+              url: "skilling/microsoft-security-academy/data-sec"
+              tag: data security and governance
               children:
                 - title: Microsoft Purview Academy
                   url: "skilling/microsoft-security-academy/purview-academy"
