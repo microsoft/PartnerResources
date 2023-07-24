@@ -1,8 +1,13 @@
 ---
-layout: sectionlist
+layout: page
 title: All Readiness Resources By Industry
+description: All Readiness Resources By Industry
 permalink: /industry/
 showbreadcrumb: false
-includesection:
-- Industry
+tags:
+ - Industry
 ---
+
+{% include sectionlist.md 
+    includeSection="industry" 
+%}

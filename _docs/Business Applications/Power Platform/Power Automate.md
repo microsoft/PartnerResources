@@ -2,7 +2,7 @@
 layout: page
 title: Power Automate
 description: Resources for Power Automate
-updated: 2022-11-28
+updated: 2023-03-28
 permalink: /business-applications/power-platform/power-automate
 tags:
 - learning plan
@@ -28,6 +28,11 @@ Additionally, some content may be mared with one or more icons:
 * '3rd Party' to indicate 3rd party content (not created by Microsoft)
 
 TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
+
+## Keeping Up
+
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+* [Power Automate with Copilot](https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/)
 
 ## Fundamentals
 
@@ -55,9 +60,6 @@ OR [Microsoft Power Platform Fundamentals](https://partner.microsoft.com/en-us/t
 * [Introduction to expressions in Power Automate](https://docs.microsoft.com/en-us/learn/modules/introduction-expressions/)
 * [Understand advanced business process flow concepts in Power Automate](https://docs.microsoft.com/en-us/learn/modules/advanced-business-process-flows/)
 
-## Keeping Up
-
-* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
 ## Certifications
 

@@ -25,6 +25,9 @@
       url: "business-applications"
       tag: business applications
       children:
+        - title: Copilot
+          url: "business-applications/copilot"
+          tag: copilot
         - title: Customer Data Platform
           url: "business-applications/customer-data-platform"
           tag: customer data platform
@@ -61,6 +64,7 @@
           tag: manufacturing
         - title: Nonprofit
           url: "industry/nonprofit"
+          sortfield: sorttitle
           tag: nonprofit
         - title: Retail
           url: "industry/retail"
@@ -92,6 +96,9 @@
         - title: Prebuilt AI
           url: "skilling/ai-ml-academy/prebuilt-ai"
           tag: aiml prebuilt
+        - title: Azure OpenAI
+          url: "skilling/ai-ml-academy/openai"
+          tag: aiml openai
         - title: Applied AI
           url: "skilling/ai-ml-academy/applied-ai"
           tag: aiml applied
@@ -104,9 +111,117 @@
         - title: ML Engineering in Production (MLOPS)
           url: "skilling/ai-ml-academy/mlops"
           tag: aiml mlops
+        - title: Ongoing Vignettes
+          url: "skilling/ai-ml-academy/vignettes"
+          tag: aiml mlops
     - title: "Azure Data Academy"
       url: "skilling/azure-data-academy"
       tag: azure data academy
+      children:
+        - title: SQL Server
+          url: "skilling/azure-data-academy/sql"
+          tag: ada sql
+        - title: OSS DB
+          url: "skilling/azure-data-academy/ossdb"
+          tag: ada oss db
+        - title: Cosmos DB
+          url: "skilling/azure-data-academy/cosmosdb"
+          tag: ada cosmos db
+    - title: "Data Governance Academy"
+      url: "skilling/data-governance-academy"
+      tag: dga
+    - title: "D365 Business Central Academy"
+      url: "skilling/business-central-academy"
+      tag: business central academy
+      children:
+        - title: D365 Sales
+          url: "skilling/business-central-academy/d365"
+          tag: bca d365
+        - title: Outlook
+          url: "skilling/business-central-academy/outlook"
+          tag: bca outlook
+        - title: Power BI
+          url: "skilling/business-central-academy/powerbi"
+          tag: bca powerbi
+        - title: PVA
+          url: "skilling/business-central-academy/pva"
+          tag: bca pva
+        - title: Teams
+          url: "skilling/business-central-academy/teams"
+          tag: bca teams
+    - title: "D365 Commerce Academy"
+      url: "skilling/d365-commerce-academy"
+      tag: d365 commerce academy
+      children:
+        - title: Commerce Headquarters
+          url: "skilling/d365-commerce-academy/commerce-hq"
+          tag: d365 commerce hq
+        - title: Digital Commerce
+          url: "skilling/d365-commerce-academy/digital-commerce"
+          tag: d365 digital commerce
+        - title: E-commerce Extensibility
+          url: "skilling/d365-commerce-academy/ecommerce"
+          tag: d365 ecommerce
+    - title: "D365 Copilot Academy"
+      url: "skilling/d365-copilot-academy"
+      tag: d365 copilot academy
+      children:
+        - title: Sales
+          url: "skilling/d365-copilot-academy/sales"
+          tag: d365 copilot sales
+        - title: Marketing
+          url: "skilling/d365-copilot-academy/marketing"
+          tag: d365 copilot marketing
+        - title: Business Central
+          url: "skilling/d365-copilot-academy/business-central"
+          tag: d365 copilot business central
+        - title: Customer Service
+          url: "skilling/d365-copilot-academy/customer-service"
+          tag: d365 copilot customer service
+        - title: Power Virtual Agent
+          url: "skilling/d365-copilot-academy/pva"
+          tag: d365 copilot pva
+    - title: "D365 Marketing Academy"
+      url: "skilling/d365-marketing-academy"
+      tag: d365 marketing academy
+      children:
+        - title: Create Trial
+          url: "skilling/d365-marketing-academy/create-trial"
+          tag: d365 marketing academy createtrial
+        - title: Optimize Trial
+          url: "skilling/d365-marketing-academy/optimizetrial"
+          tag: d365 marketing academy optimizetrial
+        - title: Segments
+          url: "skilling/d365-marketing-academy/segments"
+          tag: d365 marketing academy segments
+        - title: E-mail
+          url: "skilling/d365-marketing-academy/email"
+          tag: d365 marketing academy email
+        - title: SMS
+          url: "skilling/d365-marketing-academy/sms"
+          tag: d365 marketing academy sms
+        - title: Push Notification
+          url: "skilling/d365-marketing-academy/pushnotification"
+          tag: d365 marketing academy push
+        - title: Forms
+          url: "skilling/d365-marketing-academy/forms"
+          tag: d365 marketing academy forms
+        - title: Triggers
+          url: "skilling/d365-marketing-academy/triggers"
+          tag: d365 marketing academy triggers
+        - title: Journeys
+          url: "skilling/d365-marketing-academy/journeys"
+          tag: d365 marketing academy journeys
+        - title: Lead Scoring
+          url: "skilling/d365-marketing-academy/leadscoring"
+          tag: d365 marketing academy leadscoring
+    - title: "D365 Sales Academy"
+      url: "skilling/d365-sales-academy"
+      tag: d365 sales academy
+      children:
+        - title: Viva Sales
+          url: "skilling/d365-sales-academy/vivasales"
+          tag: d365 sales academy viva sales
     - title: "Microsoft Security Academy"
       url: "skilling/microsoft-security-academy"
       tag: microsoft security academy
@@ -152,35 +267,31 @@
             - title: Microsoft Purview Academy
               url: "skilling/microsoft-security-academy/purview-academy"
               tag: purview
-    - title: "Data Governance Academy"
-      url: "skilling/data-governance-academy"
-      tag: dga
-    - title: "D365 Sales Academy"
-      url: "skilling/d365-sales-academy"
-      tag: d365 sales academy
+    - title: "Microsoft Teams Academy"
+      url: "skilling/microsoft-teams-academy"
+      tag: mta
       children:
-        - title: Viva Sales
-          url: "skilling/d365-sales-academy/vivasales"
-          tag: d365 sales academy viva sales
-    - title: "D365 Business Central Academy"
-      url: "skilling/business-central-academy"
-      tag: business central academy
-      children:
-        - title: D365 Sales
-          url: "skilling/business-central-academy/d365"
-          tag: bca d365
-        - title: Outlook
-          url: "skilling/business-central-academy/outlook"
-          tag: bca outlook
-        - title: Power BI
-          url: "skilling/business-central-academy/powerbi"
-          tag: bca powerbi
-        - title: PVA
-          url: "skilling/business-central-academy/pva"
-          tag: bca pva
-        - title: Teams
-          url: "skilling/business-central-academy/teams"
-          tag: bca teams
+        - title: Certification
+          url: "skilling/microsoft-teams-academy/certification"
+          tag: mta certification
+        - title: Client and Devices
+          url: "skilling/microsoft-teams-academy/client-devices"
+          tag: mta client devices
+        - title: Management
+          url: "skilling/microsoft-teams-academy/management"
+          tag: mta management
+        - title: Meetings
+          url: "skilling/microsoft-teams-academy/meetings"
+          tag: mta meetings
+        - title: Phone
+          url: "skilling/microsoft-teams-academy/phone"
+          tag: mta phone
+        - title: Platform
+          url: "skilling/microsoft-teams-academy/platform"
+          tag: mta platform
+        - title: Security & Governance
+          url: "skilling/microsoft-teams-academy/security"
+          tag: mta security
     - title: "Modern Analytics Academy"
       url: "skilling/modern-analytics-academy"
       tag: modern analytics academy
@@ -194,6 +305,19 @@
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
           tag: vignettes
+    - title: "Windows 365 Academy"
+      url: "skilling/windows-365-academy"
+      tag: w365academy
+      children:
+        - title: Planning
+          url: "skilling/windows-365-academy/planning"
+          tag: w365 planning
+        - title: Deploying
+          url: "skilling/windows-365-academy/deploying"
+          tag: w365 deploying
+    - title: "Partner Showcase"
+      url: "skilling/microsoft-partner-showcase"
+      tag: partnershowcase
 - title: Skilling & Hands-on
   url: "skilling/"
   tag: workshop

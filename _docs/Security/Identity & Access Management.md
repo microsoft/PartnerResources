@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Identity & Access Management
+title: Identity and Access Management
 description: Resources for Identity and Access Management
-updated: 2023-01-04
+updated: 2023-06-19
 permalink: /security/identity-and-access-management
 tags:
 - security
@@ -12,18 +12,19 @@ tags:
 ---
 
 # Identity & Access Management Readiness Resources
-Below you will find content to assist in upskilling on Identity & Access Management. Content is organized by increasing levels of complexity (Fundamentals, Associate, Expert).
+Below you will find content to assist in upskilling on Identity and Access Management. Content is organized by increasing levels of complexity (Fundamentals, Associate, Expert).
+
+**See our [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)** for video sessions, demonstrations, learning paths, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields.
 
 ## Fundamentals
+* [Insider Risk Management Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-an-insider-risk-management-ninja/ba-p/3282306)
 * [Azure Active Directory Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/)
-* [How to find your Azure Active Directory Tenant ID - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 * [Compare Active Directory to Azure Active Directory - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-compare-azure-ad-to-ad)
+* [Securing Privileged Access - Microsoft Docs](https://learn.microsoft.com/en-us/security/privileged-access-workstations/overview)
 
 ## Associate
 * [External Identities Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/external-identities/)
-* [Azure Identity Management Security Overview - Microsoft Docs](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-overview)
 * [Azure Active Directory Authentication Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/authentication/)
-* [Azure Active Directory Deployment Plans - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-deployment-plans)
 
 ## Expert
 * [Microsoft Identity Platform Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/)

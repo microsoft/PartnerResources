@@ -77,7 +77,7 @@ tags:
 [LAB11B – Scale an AVS Cluster]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-11)
 
 - [Add a new cluster]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-11#add-a-new-cluster)
-- [Scale a cluster](lab-11#scale-a-cluster)
+- [Scale a cluster]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-11#scale-a-cluster)
 
 [LAB12B – Configure HCX (HoL)]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-12)
 
@@ -85,7 +85,7 @@ tags:
 
 - [Supported metrics and activities]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-13#supported-metrics-and-activities)
 - [Configure an alert rule]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-13#configure-an-alert-rule)
-- [Work with metrics](lab-13#work-with-metrics)
+- [Work with metrics]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-13#work-with-metrics)
 
 [LAB14B – Create a remote content library in Azure Blob Storage]({{ site.baseurl }}/azure/infrastructure/azure-vmware-solution/hands-on-labs/lab-14)
 

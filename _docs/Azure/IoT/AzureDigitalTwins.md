@@ -2,7 +2,7 @@
 layout: page
 title: Azure Digital Twins
 description: Resources for Azure Digital Twins
-updated: 2023-01-24
+updated: 2023-03-26
 permalink: /azure/iot/iot-adt
 tags: 
 - learning plan
@@ -38,9 +38,12 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 * [Tutorial: Build out an end-to-end Solution](https://docs.microsoft.com/azure/digital-twins/tutorial-end-to-end) (Self-Paced) (25 Minutes)
 * [Ingest IOT Hub Telemetry into Azure Digital Twins](https://docs.microsoft.com/azure/digital-twins/how-to-ingest-iot-hub-data) (Self-Paced) (11 Minutes)
 * [Code Sample: Azure Digital Twins and IoT Hub Provisioning Integration Sample](https://docs.microsoft.com/samples/azure-samples/digital-twins-iothub-integration/adt-iothub-provision-sample/)
+* [Digital Twins Definition Language (DTDL) updates](https://techcommunity.microsoft.com/t5/internet-of-things-blog/digital-twins-definition-language-dtdl-updates/ba-p/3751705)
+* [IoT Show: Import Jobs in Azure Digital Twins](https://learn.microsoft.com/en-us/shows/internet-of-things-show/import-jobs-in-azure-digital-twins)
 
 ## Associate
 
+* [Blog: Simplify building automated workflows and apps powered by Azure Digital Twins](https://techcommunity.microsoft.com/t5/internet-of-things-blog/simplify-building-automated-workflows-and-apps-powered-by-azure/ba-p/3763051)
 * [Blog: Azure Digital Twins Query Builder](https://techcommunity.microsoft.com/t5/internet-of-things-blog/digital-twins-query-builder/ba-p/3511882)
 * [MS Learn: Build mixed reality digital twins with Azure Digital Twins and Unity](https://docs.microsoft.com/learn/paths/build-mixed-reality-azure-digital-twins-unity/) (Self-Paced) (3 Hours 59 Minutes)
 * [Azure IoT Reference Architecture](https://learn.microsoft.com/azure/architecture/reference-architectures/iot) (Self-Paced) (9 Minutes)
@@ -53,6 +56,7 @@ Companies are exploring Digital Twins as a mechanism to control and monitor conn
 
 * [Blog: Creating Dashboards with Azure Digital Twins, Azure Data Explorer, and Grafana](https://techcommunity.microsoft.com/t5/internet-of-things-blog/creating-dashboards-with-azure-digital-twins-azure-data-explorer/ba-p/3277879)
 * [Blog: Visualizing Azure Digital Twins in 3D](https://techcommunity.microsoft.com/t5/internet-of-things-blog/visualizing-azure-digital-twins-in-3d/ba-p/2898159)
+* [Blog: Learn more about digital twins for electrical power utilities](https://techcommunity.microsoft.com/t5/internet-of-things-blog/how-can-digital-twins-make-smart-grids-a-reality/ba-p/3749640)
 
 ## Demos
 

@@ -2,7 +2,7 @@
 layout: page
 title: Azure Synapse Analytics
 description: Resources for Azure Synapse Analytics
-updated: 2022-06-30
+updated: 2023-03-16
 permalink: /azure/data-analytics-ai/azure-synapse-analytics
 redirect_from:
 - /azure/data-analytics-ai/modern-data-warehouse
@@ -30,12 +30,14 @@ Content is broken down as follows:
 
 The latest updates on Azure Sypanse Analytics.
 
-Azure Synapse Analytics is now generally available as of December 2020. 
+* [February 2023 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-february-update-2023/ba-p/3758812)
+  * SQL Collation and SQL Package support
+  * Updates for Apache Spark for Synapse: Spark 3.3 GA; Spark 2.4 retirement in September 29,2023
 
 * [October 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-october-update-2022-microsoft-ignite/ba-p/3535136)
   * New Microsoft 365 Pipeline Template Dataflows in Preview
   * SAP Change Data Capture (CDC) Connector is now General Available
-  * R language support with key library management capabilities is now in preview.
+  * R language support with key library management capabilities is now in preview
 
 * [September 2022 Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analytics-september-update-2022/ba-p/3535133)
   * Auto-statistics for OPENROWSET in CSV datasets

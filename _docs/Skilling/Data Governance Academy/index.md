@@ -15,7 +15,7 @@ showbreadcrumb: false
 {% include series.md 
     includetags="data governance academy|academy content" includemethod="all" 
     includesecondtags="data governance|academy content" 
-    removetags="azure|data, analytics, and ai|data governance academy|academy content|modern analytics academy" 
+    includethirdtags="microsoft partner showcase|showcase content|data governance" 
     sortfield="updated" sortorder="desc" showdate="true" showtags="true"
     visualstyle="normal"
 %}

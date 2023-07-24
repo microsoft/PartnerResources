@@ -4,8 +4,9 @@ title: Modern Analytics Academy - Data Modeling
 sorttitle: 2 Data Modeling
 description: In Data Modeling we'll look at how to structure a Data Lake, and how to leverage technologies like Synapse Spark, Synapse SQL, and Synapse Serverless SQL in conjunction with technologies like Delta to provde a mechanism for users and downstream visualization tools to query and explore data.
 updated: 2021-12-16
-permalink: /skilling/modern-analytics-academy/data-modeling
+permalink: /skilling/modern-analytics-academy/core-sessions/data-modeling
 redirect_from:
+  - /skilling/modern-analytics-academy/data-modeling
   - /azure/data-analytics-ai/modern-analytics-academy-data-modeling
   - /skilling/data-analytics-ai/modern-analytics-academy-data-modeling
 showbreadcrumb: true
@@ -33,7 +34,8 @@ In Data Modeling we'll look at how to structure a Data Lake, and how to leverage
 * [Playlist for all Modern Analytics Academy videos](https://www.youtube.com/playlist?list=PL8_VXqhvJI9DtxeuFmmQ0V6Z_zL0MXnnI)
 * [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
 
-[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
+{% include youtubethumb.md 
+%}
 
 ## Hands-on Content
 

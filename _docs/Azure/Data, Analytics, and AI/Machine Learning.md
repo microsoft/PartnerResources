@@ -21,15 +21,15 @@ To make AI accessible for all experience levels, Azure ML features a no-code Aut
 
 ## Fundamentals
 
-* [Getting Started with AI on Azure](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/) (Self-Paced) – A good overview of fundamental concepts for AI and ML 
+* [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/) (Self-Paced) – A good overview of fundamental concepts for AI and ML on Azure, along with an intro to Azure Open AI
 * [Azure Machine Learning Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/) (Self-Paced) - Documentation for Azure Machine Learning, covering concepts such as how to train, deploy, and manage your machine learning models
-* [Azure Machine Learning Studio - Youtube](https://www.youtube.com/watch?v=JNa4VV0d8T0&t=3s) (Self-Paced) - Video describing the basics of Azure ML Studio.
+* [Introduction to Azure ML SDK V2 and CLI V2](https://www.youtube.com/watch?v=unbzStG3IVY&ab_channel=MicrosoftDeveloper)) (Self-Paced) - Video describing the new V2 version of Azure ML, its features and capabilities along with a demo.
 * [Automated ML Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml) (Self-Paced) – All about Azure Machine Learning’s Automated ML service that enables no-code ML model training and deployment 
-    * [Automated Machine Learning on Azure (Video)](https://www.youtube.com/watch?v=I8m4kZIeHJ4) (15 minutes) - A visual to show how AutoML works and various use cases around it.  
+    * [Automated Machine Learning on Azure (Video)](https://www.youtube.com/watch?v=tXrDscVaF4Q&ab_channel=MicrosoftDeveloper)(20 minutes) - Video describing what's new in Automated ML in V2 with a demo.   
     * [Use automated machine learning in Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/) (Self-Paced) (39 Minutes) - A step by step tutorial on how to use Auto ML in Azure Machine Learning. 
 * [Designer Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer) - All about Azure Machine Learning’s drag-and-drop Designer and its capabilities. 
     * [Low-code machine learning in Azure | Machine Learning Essentials](https://www.youtube.com/watch?v=mwJ5Vbmy1AM) (Video) (11 Minutes) - A visual to demonstrate Machine Learning designer. 
-    * [Create a classification model with Azure Machine Learning designer](https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/) (Self-Paced) (55 Minutes) - A step by step tutorial on creating a classification model within ML designer. 
+    * [Explore visual tools for Machine Learning on Azure ML](https://learn.microsoft.com/en-us/training/paths/create-no-code-predictive-models-azure-machine-learning/) (Self-Paced) (4 hours) - A step by step tutorial on creating a classification, regression and clustering model within ML designer. 
 * [Machine Learning Tech Talk](https://msuspartners.eventbuilder.com/event/39234?source=AzurePartnerTechTalks) (Recorded Webinar) (58 Minutes) - Simplifying ML Lifecycle for All Data Personas
 * [Machine Learning Tech Talk](https://msuspartners.eventbuilder.com/event/21258?source=AzurePartnerTechTalks) (Recorded Webinar) (1 Hour 29 Minutes) Responsible AI/ML for Model Developers
 

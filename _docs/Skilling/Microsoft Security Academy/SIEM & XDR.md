@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Security Academy - SIEM & XDR
 description: Microsoft Security Academy SIEM & XDR.
 permalink: /skilling/microsoft-security-academy/siem-xdr
-updated: 2022-12-15
+updated: 2023-06-07
 showbreadcrumb: true
 tags: 
 - academy content
@@ -18,4 +18,4 @@ The Microsoft Sentinel Academy teaches you how to stop threats before they happe
 
 
 ### [Microsoft 365 Defender Academy](/PartnerResources/skilling/microsoft-security-academy/d365-academy)
-The Microsoft 365 Defender Academy features its enterprise defense suite that coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications. Learn about integrated Microsoft 365 Defender solutions, including Microsoft Defender for Office 365, Defender for Identity, Defender for Cloud Apps, and Defender Vulnerability Management.
+The Microsoft 365 Defender Academy features its enterprise defense suite that coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications. Learn about integrated Microsoft 365 Defender solutions, including Microsoft Defender for Office 365, Defender for Identity, and Defender for Cloud Apps.
