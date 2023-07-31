@@ -15,11 +15,11 @@ tags:
 
 ## Microsoft Teams Academy - Client & Devices
 
-Welcome to the Client & Devices in the Microsoft Teams Academy. Delve into a vast world, covering deployment, updates, virtualization, mobile/desktop/web interfaces, and BYOD.
+Welcome to the Client & Devices in the Microsoft Teams Academy. Dive into a vast world, covering deployment, updates, virtualization, mobile/desktop/web interfaces, and BYOD.
 
 {% include series.md 
     includetags="microsoft teams academy|academy content|client & devices" 
     includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="false" showtags="true" 
-    visualstyle="normal" 
+    visualstyle="list" 
 %}
