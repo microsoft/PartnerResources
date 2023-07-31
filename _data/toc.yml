@@ -72,16 +72,6 @@
         - title: Sustainability
           url: "industry/sustainability"
           tag: sustainability
-    - title: Modern Workplace
-      url: "modern-workplace"
-      tag: modern workplace
-      children:
-        - title: Management
-          url: "modern-workplace/management"
-          tag: modern workplace management
-        - title: Microsoft Teams
-          url: "modern-workplace/microsoft-teams"
-          tag: microsoft teams
 - title: Academies
   url: "skilling/academies"
   tag: academies

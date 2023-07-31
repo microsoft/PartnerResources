@@ -15,11 +15,11 @@ tags:
 
 ## Microsoft Teams Academy - Phone
 
-Welcome to Phone in the Microsoft Teams Academy! Explore all things Teams Phone, including direct routing, calling plans, operator connect, networking, migration, Session Border Controllers, voice policies/routing, E164, SIP, CODECS, and 911.
+Welcome to Phone in the Microsoft Teams Academy. Explore all things Teams Phone, including direct routing, calling plans, operator connect, networking, migration, Session Border Controllers, voice policies/routing, E164, SIP, CODECS, and 911.
 
 {% include series.md 
     includetags="microsoft teams academy|academy content|phone system" 
     includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="false" showtags="true"
-    visualstyle="normal"
+    visualstyle="list"
 %}
