@@ -2,7 +2,7 @@
 layout: page
 title: Dynamic Emergency Calling with Teams Phone
 sorttitle: Dynamic Emergency Calling with Teams Phone
-description: In this session we cover what dynamic emergency calling is, how Teams Phone supports this through trusted IPs, the location information service (LIS), how emergency policies work and are applied. 
+description: In this session, we delve into dynamic emergency calling with Teams Phone. Discover how Teams supports this through trusted IPs, the location information service (LIS), and the functioning and application of emergency policies.
 updated: 2022-02-27
 permalink: /skilling/microsoft-teams-academy/phone/dynamic-emergency
 youtubeid: ZOxlejJSEGI

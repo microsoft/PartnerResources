@@ -2,7 +2,7 @@
 layout: page
 title: Teams Security & Compliance
 sorttitle: Teams Security & Compliance
-description: In this session we look at how Microsoft secures your Teams data, how to secure your endpoints, and keeping  your data compliant. 
+description: Unlock the secrets of Teams data security! Learn how Microsoft safeguards your information, fortifies your endpoints, and ensures data compliance. Get ready to defend your Teams fortress.
 updated: 2022-02-27
 permalink: /skilling/microsoft-teams-academy/security/compliance
 youtubeid: ids37a2Nu64

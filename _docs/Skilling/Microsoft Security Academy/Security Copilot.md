@@ -19,10 +19,13 @@ tags:
 
 We first introduced Security Copilot at the inaugural Microsoft Secure. Microsoft Security Copilot is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with a Microsoft-developed, security-specific model.
 
-Microsoft Security Copilot is currently in preview and not yet generally available. **[Sign up for Microsoft Security updates](https://go.microsoft.com/fwlink/p?linkid=2228156) to learn about product announcements, security insights, and upcoming events.**
+**Are you a Microsoft partner wanting to learn more about how to engage customers and take advantage of Security Copilot? If so, complete our [Microsoft Security Copilot Partner Interest Form](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR7GkZxmcvGdGql1aVgLqRR1UNEk0MTVPVjg1VjhPMUJHVTZETlRXSk1RQy4u)!** 
+
+If you have an existing NDA with Microsoft, join our [Microsoft Security Copilot Limited Customer Connection Program (CCP)](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR_XAVZ7AP_VPg7dX-69WxXdUQ1ZNUUVQOFNZOUtVSzdTNTFCMUEyQkVUQi4u).
+
+Read Vasu Jakkal's, Security, Compliance, Identity, and Management Corporate Vice President, [Microsoft Inspire Blog](https://www.microsoft.com/en-us/security/blog/2023/07/18/microsoft-inspire-partner-resources-to-prepare-for-the-future-of-security-with-ai/) detailing partner resources to prepare for the future of security with AI.
 
 **See our [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
-
 
 ## Get Started
 
@@ -84,7 +87,7 @@ Security Copilot integrates insights and data from other critical security tools
 
 ## Community Resources
 
-* [John Savill's Trusting Your Co-Pilot](https://youtu.be/7zT_T5TtZqs)
+* [John Savill's Trusting Your Copilot](https://youtu.be/7zT_T5TtZqs)
 * [Prompt Engineering Techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
 * [OpenAI's GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [Grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857)
@@ -94,3 +97,4 @@ Security Copilot integrates insights and data from other critical security tools
 ## Interesting Reads
 
 * [Why AI Will Save the World](https://a16z.com/2023/06/06/ai-will-save-the-world/?utm_source=substack&amp;utm_medium=email)
+* [MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/?utm_source=substack&utm_medium=email)

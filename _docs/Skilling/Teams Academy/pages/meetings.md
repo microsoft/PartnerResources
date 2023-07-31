@@ -5,7 +5,7 @@ title: Microsoft Teams Academy - Meetings
 sorttitle: Microsoft Teams Academy - Meetings
 description: Microsoft Teams Academy - Meetings
 permalink: /skilling/microsoft-teams-academy/meetings
-updated: 2022-02-27
+updated: 2022-07-31
 showbreadcrumb: false
 tags: 
  - academy page
@@ -13,9 +13,9 @@ tags:
  - meetings
 ---
 
-# Microsoft Teams Academy - Meetings
+## Microsoft Teams Academy - Meetings
 
-Welcome to the Meetings bucket in the Teams Academy. Here we will dig into all things related to Meetings, such as policies and settings, managing bandwidth, types of meetings, Teams rooms, and more! 
+Welcome to Meetings in the Microsoft Teams Academy. Dive into everything Meetings, including policies and settings, bandwidth management, various meeting types, and Teams rooms.
 
 {% include series.md 
     includetags="microsoft teams academy|academy content|meetings" 
@@ -23,4 +23,3 @@ Welcome to the Meetings bucket in the Teams Academy. Here we will dig into all t
     sortfield="updated" sortorder="desc" showdate="false" showtags="true" 
     visualstyle="normal" 
 %}
-

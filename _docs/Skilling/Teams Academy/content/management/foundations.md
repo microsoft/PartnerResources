@@ -2,7 +2,7 @@
 layout: page
 title: Foundations and Core components of Teams
 sorttitle: Foundations and Core components of Teams
-description: In this session we cove the architecture of Teams, how it leverages Azure AD, what are Office 365 groups and how they are integral to Teams, and how Teams leverages and integrates with SharePoint online, OneDrive for Business, and Exchange Online. 
+description: In this session, we explore Teams architecture, Azure AD integration, the significance of Office 365 groups, and seamless connections with SharePoint Online, OneDrive for Business, and Exchange Online. Discover the powerful ecosystem behind Teams!
 updated: 2022-02-27
 permalink: /skilling/microsoft-teams-academy/management/foundations
 youtubeid: -0_94j-7mS4

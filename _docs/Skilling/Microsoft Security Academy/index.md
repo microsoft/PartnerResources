@@ -2,26 +2,22 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2023-07-21
+updated: 2023-07-31
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
 showbreadcrumb: true
 ---
 
-{% include_relative header.md %}
+Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources.
 
-Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources. Whether you're new to the field or a seasoned professional, the Microsoft Security Academy offers valuable modules and resources designed to enhance and elevate skills.
+Want to help defend the world against threats? Cybersecurity is not just an individual effort — it's a shared responsibility. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)** and take action today.
 
-Want to help defend the world against threats? Cybersecurity is not just an individual effort — it's a shared responsibility. [Get started](/PartnerResources/skilling/microsoft-security-academy/start) and take action today to embark on a rewarding journey of becoming a cybersecurity defender.
+Are you a seasoned professional looking to elevate your cybersecurity skills? Stay ahead of evolving threats and protect your organization with continuous learning through our **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules).**
 
-Want to take a deep dive and level up your cybersecurity expertise? Stay ahead of evolving threats and protect your organization with continuous learning through our [Modules](/PartnerResources/skilling/microsoft-security-academy/modules). Act now to fortify your skills and elevate your cybersecurity expertise to new heights.
+In addition to the modules, the Microsoft Security Academy's **[Resources](/PartnerResources/skilling/microsoft-security-academy/resources)** complement the **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)** and enable you to explore cybersecurity concepts in greater detail, stay up-to-date with developments, and gain practical insights to apply in real-world scenarios.
 
-The Microsoft Security Academy's [Modules](/PartnerResources/skilling/microsoft-security-academy/modules) are organized into five smaller academies and security categories, including [Cloud Security](/PartnerResources/skilling/microsoft-security-academy/cloud-security), [Identity and Access](/PartnerResources/skilling/microsoft-security-academy/identity-access), [Endpoint Security](/PartnerResources/skilling/microsoft-security-academy/endpoint-security), [SIEM + XDR](/PartnerResources/skilling/microsoft-security-academy/siem-xdr), and [Data Security and Governance](/PartnerResources/skilling/microsoft-security-academy/risk-mgmt). The resources within each academy are created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields.
-
-In addition to the modules, the Microsoft Security Academy's (Resources)[/PartnerResources/skilling/microsoft-security-academy/resources] will help support your cybersecurity journey. These resources complement the [Modules](/PartnerResources/skilling/microsoft-security-academy/modules) and enable you to explore cybersecurity concepts in greater detail, stay up-to-date with industry developments, and gain practical insights to apply in real-world scenarios.
-
-Explore our new resources on [Microsoft Security Copilot](/security/microsoft-security-academy/microsoft-security-copilot)!
+**Explore our new resources on [Microsoft Security Copilot](/security/microsoft-security-academy/microsoft-security-copilot) and remain up-to-date with [Microsoft Security news and highlights](https://learn.microsoft.com/en-us/security/engineering/news-and-highlights).**
 
 ## Organization
 ![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)

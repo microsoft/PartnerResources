@@ -4,7 +4,7 @@ layout: page
 title: Microsoft Teams Academy
 description: Microsoft Teams Academy
 permalink: /skilling/microsoft-teams-academy
-updated: 2023-02-27
+updated: 2023-07-31
 showbreadcrumb: true
 tags: 
  - microsoft teams academy
@@ -13,24 +13,17 @@ tags:
 
 # Microsoft Teams Academy
 
-Welcome to the _Teams Academy_, where we focus on producing and publishing videos on Microsoft Teams designed to enable our Partners to deep dive into everything Teams. This academy takes a service oriented approach to organizing the content, which is useful in identifying content to build, and makes the deep and broad domain of Teams more easily consumed. 
+Welcome to the Microsoft Teams Academy, your comprehensive deep dive into everything Microsoft Teams. The Microsoft Teams Academy embraces a service-oriented organizational approach, making the deep and broad domain of Teams more easily consumable.
 
-## This academy is broken down into the following buckets:
+Are you a seasoned professional looking to embrace the opportunities of the modern workplace? Unlock your potential with continuous learning through our **seven Microsoft Teams Academy Modules.** Choose the modules that align with your areas of interest to expand your knowledge and enhance your skills.
 
-{% include series.md 
-    includetags="microsoft teams academy|academy page" 
-    includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
-    visualstyle="tiny" removetext="Microsoft Teams Academy - "
-%}
+In addition to the modules, the Microsoft Teams Academy's **[Resources](https://microsoft.github.io/PartnerResources/modern-workplace/)** complement the **Modules** and empower your to explore concepts in greater detail and gain practical insights to apply in real-world scenarios. 
 
-## All Content in this Academy
+Whether you're looking to enhance productivity, streamline workflows, or foster a more connected and secure work environment, th **[Resources](https://microsoft.github.io/PartnerResources/modern-workplace/)** and **Modules** have something valuable for you. These resources are created and delivered by architects across the Global Partner Solutions (GPS) team and beyond, who are experts in their respective fields.
 
-{% include series.md 
-    includetags="microsoft teams academy|academy content" 
-    includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="true" 
-    visualstyle="tiny"
-%}
+## Organization
+![Teams Organizational Chart]({{ site.baseurl }}/assets/msa/Teams Organization Chart.png)
 
+## Start Your Journey and Stay Connected
 
+> Coming soon! This section is under continuous development. Please check regularly for updates.

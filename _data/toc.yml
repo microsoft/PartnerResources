@@ -278,27 +278,41 @@
       url: "skilling/microsoft-teams-academy"
       tag: mta
       children:
-        - title: Certification
-          url: "skilling/microsoft-teams-academy/certification"
-          tag: mta certification
-        - title: Client and Devices
-          url: "skilling/microsoft-teams-academy/client-devices"
-          tag: mta client devices
-        - title: Management
-          url: "skilling/microsoft-teams-academy/management"
-          tag: mta management
-        - title: Meetings
-          url: "skilling/microsoft-teams-academy/meetings"
-          tag: mta meetings
-        - title: Phone
-          url: "skilling/microsoft-teams-academy/phone"
-          tag: mta phone
-        - title: Platform
-          url: "skilling/microsoft-teams-academy/platform"
-          tag: mta platform
-        - title: Security & Governance
-          url: "skilling/microsoft-teams-academy/security"
-          tag: mta security
+        - title: Modules
+          url: "skilling/microsoft-teams-academy/modules"
+          tag: modules
+          children:
+            - title: Certification
+              url: "skilling/microsoft-teams-academy/certification"
+              tag: mta certification
+            - title: Client and Devices
+              url: "skilling/microsoft-teams-academy/client-devices"
+              tag: mta client devices
+            - title: Management
+              url: "skilling/microsoft-teams-academy/management"
+              tag: mta management
+            - title: Meetings
+              url: "skilling/microsoft-teams-academy/meetings"
+              tag: mta meetings
+            - title: Phone
+              url: "skilling/microsoft-teams-academy/phone"
+              tag: mta phone
+            - title: Platform
+              url: "skilling/microsoft-teams-academy/platform"
+              tag: mta platform
+            - title: Security & Governance
+              url: "skilling/microsoft-teams-academy/security"
+              tag: mta security
+        - title: Resources
+          url: "modern-workplace"
+          tag: modern workplace
+          children:
+            - title: Management
+              url: "modern-workplace/management"
+              tag: modern workplace management
+            - title: Microsoft Teams
+              url: "modern-workplace/microsoft-teams"
+              tag: microsoft teams
     - title: "Modern Analytics Academy"
       url: "skilling/modern-analytics-academy"
       tag: modern analytics academy
@@ -325,13 +339,3 @@
     - title: "Partner Showcase"
       url: "skilling/microsoft-partner-showcase"
       tag: partnershowcase
-- title: Skilling & Hands-on
-  url: "skilling/"
-  tag: workshop
-  links:
-    - title: "AVS Hands-on Labs"
-      url: "skilling/infrastructure/avs-hands-on-labs"
-      tag: avshol
-    - title: "What the Hack"
-      url: "skilling/azure/what-the-hack"
-      tag: wth

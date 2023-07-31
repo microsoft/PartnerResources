@@ -2,7 +2,7 @@
 layout: page
 title: Meetings and Network considerations in Teams
 sorttitle: Meetings and Network considerations in Teams
-description: In this session we cover the types of Teams meetings, attendees and client pre-requisites, and network considerations and optimizations for Teams meetings.
+description: In this session, we explore Teams meeting types, attendee and client pre-requisites, and network considerations and optimizations. Join us for essential insights!
 updated: 2022-02-27
 permalink: /skilling/microsoft-teams-academy/meetings/network
 youtubeid: Cas6IG4x0zk

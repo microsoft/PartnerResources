@@ -2,8 +2,8 @@
 layout: page
 title: Introduction to Teams Phone System
 sorttitle: Introduction to Teams Phone System
-description: In this session we cover calling plans and direct routing with Teams Phone. We will cover the Phone features that apply to all options, how direct routing works as well as network considerations and traffic flow.   
-updated: 2022-02-27
+description: Join our session to explore Teams Phone's calling plans and direct routing options. We'll discuss universal phone features, direct routing functionality, and vital considerations regarding network and traffic flow.
+Updated: 2022-02-27
 permalink: /skilling/microsoft-teams-academy/phone/intro-phone
 youtubeid: 1ti7M5KKPaQ
 tags: 
