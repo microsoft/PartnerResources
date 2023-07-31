@@ -8,6 +8,7 @@ redirect_from:
   - /skilling/microsoft-security-academy/
 showbreadcrumb: true
 ---
+{% include_relative header.md %}
 
 Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources.
 

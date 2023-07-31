@@ -6,7 +6,7 @@ updated: 2021-12-01
 permalink: /modern-workplace/management/adoption-and-change-management
 tags:
 - learning plan
-- modern workplace
+- modern workplace resources
 - modern workplace management
 ---
 

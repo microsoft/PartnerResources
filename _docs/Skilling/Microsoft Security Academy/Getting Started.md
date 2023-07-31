@@ -19,6 +19,13 @@ tags:
 Welcome to cybersecurity! Browse our curated collection of resources to help you kickstart your journey. These resources specifically cater to those who are new to the field seeking to gain expertise.
 
 ## Definition Cookbook
+| Concept       | Definition    |
+| ------------- |:-------------:|
+| [Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility) | A security and compliance framework that outlines the responsibilities of cloud service providers (CSPs) and customers for securing every aspect of the cloud environment. |
+| Logging or Auditing | ‘Logging’ or ‘Auditing’ means that information systems are recording important events such as system-level events, and the creation, modification, or deletion of objects within the system. |
+| [Incident Response](https://learn.microsoft.com/en-us/security/operations/incident-response-overview) | The practice of investigating and remediating active attack campaigns on your organization. |
+
+## Definition Cookbook
 | [Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility) | A security and compliance framework that outlines the responsibilities of cloud service providers (CSPs) and customers for securing every aspect of the cloud environment. |
 | Logging or Auditing | ‘Logging’ or ‘Auditing’ means that information systems are recording important events such as system-level events, and the creation, modification, or deletion of objects within the system. |
 | [Incident Response](https://learn.microsoft.com/en-us/security/operations/incident-response-overview) | The practice of investigating and remediating active attack campaigns on your organization. |
