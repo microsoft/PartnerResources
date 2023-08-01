@@ -264,6 +264,9 @@
         - title: Resources
           url: "skilling/microsoft-security-academy/resources"
           tag: resources
+        - title: Specializations
+          url: "skilling/microsoft-security-academy/specializations"
+          tag: specializations
     - title: "Microsoft Teams Academy"
       url: "skilling/microsoft-teams-academy"
       tag: mta

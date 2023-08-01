@@ -21,5 +21,5 @@ Welcome to Platform in the Microsoft Teams Academy. Here, we focus on Teams as a
     includetags="microsoft teams academy|academy content|platform" 
     includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="false" showtags="true"
-    visualstyle="list"
+    visualstyle="normal"
 %}

@@ -21,5 +21,5 @@ Welcome to Meetings in the Microsoft Teams Academy. Dive into everything Meeting
     includetags="microsoft teams academy|academy content|meetings" 
     includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="false" showtags="true" 
-    visualstyle="list" 
+    visualstyle="normal" 
 %}

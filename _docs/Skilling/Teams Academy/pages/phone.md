@@ -21,5 +21,5 @@ Welcome to Phone in the Microsoft Teams Academy. Explore all things Teams Phone,
     includetags="microsoft teams academy|academy content|phone system" 
     includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="false" showtags="true"
-    visualstyle="list"
+    visualstyle="normal"
 %}

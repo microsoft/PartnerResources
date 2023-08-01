@@ -21,5 +21,5 @@ Welcome to the Client & Devices in the Microsoft Teams Academy. Dive into a vast
     includetags="microsoft teams academy|academy content|client & devices" 
     includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="false" showtags="true" 
-    visualstyle="list" 
+    visualstyle="normal" 
 %}
