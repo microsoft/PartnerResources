@@ -37,7 +37,6 @@ Welcome to cybersecurity! Browse our curated collection of resources to help you
 * [What is a security operations analyst?](https://learn.microsoft.com/en-us/training/career-paths/security-operations-analyst)
 * [Security Operations (SecOps) Functions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-security-operations-center)
 * [What is Microsoft Sentinel?](https://learn.microsoft.com/en-us/azure/sentinel/overview)
-* [Microsoft Sentinel Quickstart](https://learn.microsoft.com/en-us/azure/sentinel/quickstart-onboard)
 * [Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
 * [What is Microsoft 365 Defender?](https://learn.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender?view=o365-worldwide)
 * [Get started with Microsoft 365 Defender](https://learn.microsoft.com/en-us/microsoft-365/security/defender/get-started?view=o365-worldwide)
@@ -57,14 +56,12 @@ Welcome to cybersecurity! Browse our curated collection of resources to help you
 ## Information Protection Administrator
 * [What is an information protection administrator?](https://learn.microsoft.com/en-us/training/career-paths/information-protection-admin)
 * [What is Azure Information Protection?](https://docs.microsoft.com/en-us/azure/information-protection/what-is-information-protection)
-* [Microsoft Purview Quickstart](https://learn.microsoft.com/en-us/microsoft-365/compliance/purview-fast-track-setup-guides?view=o365-worldwide)
 
 ## Security Strategy
-* [Define a security strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/define-security-strategy)
+* [Define a Security Strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/define-security-strategy)
 * [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra)
 
-## Security Posture
-### Zero Trust
+## Zero Trust
 * [What is Zero Trust?](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview)
 * [Zero Trust Adoption Framework](https://learn.microsoft.com/en-us/security/zero-trust/adopt/zero-trust-adoption-overview)
 * [Zero Trust: New Era of Security Microsoft eBook](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3YnRL)
