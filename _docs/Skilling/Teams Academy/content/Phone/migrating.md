@@ -2,7 +2,7 @@
 layout: page
 title: Migrating to Teams Direct Routing
 sorttitle: Migrating to Teams Direct Routing
-description: In this session we look at the migration process from Skype for Business Server to Teams with Direct routing for voice. We'll cover migration concepts, Session Border Controller topology, and the staging, migration, and cutover process to enable users on Teams with Direct Routing.   
+description: Explore the migration process from Skype for Business Server to Teams with Direct Routing for Voice. Discover migration concepts, Session Border Controller topology, and the staging, migration, and cutover process for seamless transition to Teams with direct routing.
 updated: 2022-02-27
 permalink: /skilling/microsoft-teams-academy/phone/migrating
 youtubeid: CQe8bnZS1Zs
@@ -20,6 +20,4 @@ tags:
 
 {{ page.description }}
 
-* [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
-
-[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
+{% include youtubethumb.md showlink="true" %}

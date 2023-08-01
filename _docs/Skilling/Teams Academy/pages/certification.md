@@ -5,7 +5,7 @@ title: Microsoft Teams Academy - Certification
 sorttitle: Microsoft Teams Academy - Certification
 description: Microsoft Teams Academy - Certification
 permalink: /skilling/microsoft-teams-academy/certification
-updated: 2022-02-27
+updated: 2022-07-31
 showbreadcrumb: false
 tags: 
  - academy page
@@ -13,9 +13,9 @@ tags:
  - certification
 ---
 
-# Microsoft Teams Academy - Certification
+## Microsoft Teams Academy - Certification
 
-Welcome to the Certification bucket in the Teams Academy. These videos will walk you through everything you need to prepare for, and successfully complete, the (3) Microsoft Teams Certification designations. There is no required order to take the exams, so it depends on your strength areas. 
+Explore Certification in the Microsoft Teams Academy to prepare for, and successfully complete, the Microsoft Teams Certification designations. Start your journey to becoming a certified Teams expert!
 
 {% include series.md 
     includetags="microsoft teams academy|academy content|certification" 
@@ -23,4 +23,3 @@ Welcome to the Certification bucket in the Teams Academy. These videos will walk
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="true" 
     visualstyle="normal"
 %}
-
