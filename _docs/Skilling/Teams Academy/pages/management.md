@@ -21,5 +21,5 @@ Welcome to Management in the Microsoft Teams Academy. Explore Teams foundations,
     includetags="microsoft teams academy|academy content|management" 
     includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="false" showtags="true"
-    visualstyle="list"
+    visualstyle="normal"
 %}

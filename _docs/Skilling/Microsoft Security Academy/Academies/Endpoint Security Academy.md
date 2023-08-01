@@ -19,7 +19,7 @@ Welcome to the Microsoft Endpoint Security Academy. Explore Microsoft endpoint s
 {% include series.md 
     includetags="academy content|endpoint security" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
-    visualstyle="normal"
+    visualstyle="list"
 %}
 
 

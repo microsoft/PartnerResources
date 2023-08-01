@@ -21,5 +21,5 @@ Embark on an exciting journey into Security & Governance with the Microsoft Team
     includetags="microsoft teams academy|academy content|security & compliance" 
     includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="false" showtags="true"
-    visualstyle="list"
+    visualstyle="normal"
 %}

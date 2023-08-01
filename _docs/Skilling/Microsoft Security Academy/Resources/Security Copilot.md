@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Copilot
 description: Resources for Microsoft Security Copilot
-updated: 2023-07-31
+updated: 2023-08-01
 permalink: /security/microsoft-security-academy/microsoft-security-copilot
 tags:
 - security
@@ -25,7 +25,7 @@ If you have an existing NDA with Microsoft, join our [Microsoft Security Copilot
 
 **Read Vasu Jakkal's** -- Security, Compliance, Identity, and Management Corporate Vice President -- **[Microsoft Inspire Blog](https://www.microsoft.com/en-us/security/blog/2023/07/18/microsoft-inspire-partner-resources-to-prepare-for-the-future-of-security-with-ai/)** detailing partner resources to prepare for the future of security with AI.
 
-**See our [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
+**See our [Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
 
 ## Get Started
 
