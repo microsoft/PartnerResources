@@ -23,7 +23,7 @@ We first introduced Security Copilot at the inaugural Microsoft Secure. Microsof
 
 If you have an existing NDA with Microsoft, join our [Microsoft Security Copilot Limited Customer Connection Program (CCP)](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR_XAVZ7AP_VPg7dX-69WxXdUQ1ZNUUVQOFNZOUtVSzdTNTFCMUEyQkVUQi4u).
 
-**Read Vasu Jakkal's -- Security, Compliance, Identity, and Management Corporate Vice President -- [Microsoft Inspire Blog](https://www.microsoft.com/en-us/security/blog/2023/07/18/microsoft-inspire-partner-resources-to-prepare-for-the-future-of-security-with-ai/) detailing partner resources to prepare for the future of security with AI.**
+**Read Vasu Jakkal's** -- Security, Compliance, Identity, and Management Corporate Vice President -- **[Microsoft Inspire Blog](https://www.microsoft.com/en-us/security/blog/2023/07/18/microsoft-inspire-partner-resources-to-prepare-for-the-future-of-security-with-ai/)** detailing partner resources to prepare for the future of security with AI.
 
 **See our [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
 
