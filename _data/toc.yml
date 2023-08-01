@@ -272,9 +272,6 @@
           url: "skilling/microsoft-teams-academy/modules"
           tag: modules
           children:
-            - title: Certification
-              url: "skilling/microsoft-teams-academy/certification"
-              tag: mta certification
             - title: Client and Devices
               url: "skilling/microsoft-teams-academy/client-devices"
               tag: mta client devices

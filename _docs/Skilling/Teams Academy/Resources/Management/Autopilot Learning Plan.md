@@ -6,7 +6,7 @@ updated: 2021-12-01
 permalink: /modern-workplace/management/autopilot-learning-plan
 tags:
 - learning plan
-- modern workplace resources
+- modern workplace
 - modern workplace management
 ---
 

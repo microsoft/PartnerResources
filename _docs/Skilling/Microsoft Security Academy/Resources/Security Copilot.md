@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Copilot
 description: Resources for Microsoft Security Copilot
-updated: 2023-06-21
+updated: 2023-07-31
 permalink: /security/microsoft-security-academy/microsoft-security-copilot
 tags:
 - security
@@ -23,7 +23,7 @@ We first introduced Security Copilot at the inaugural Microsoft Secure. Microsof
 
 If you have an existing NDA with Microsoft, join our [Microsoft Security Copilot Limited Customer Connection Program (CCP)](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR_XAVZ7AP_VPg7dX-69WxXdUQ1ZNUUVQOFNZOUtVSzdTNTFCMUEyQkVUQi4u).
 
-Read Vasu Jakkal's, Security, Compliance, Identity, and Management Corporate Vice President, [Microsoft Inspire Blog](https://www.microsoft.com/en-us/security/blog/2023/07/18/microsoft-inspire-partner-resources-to-prepare-for-the-future-of-security-with-ai/) detailing partner resources to prepare for the future of security with AI.
+**Read Vasu Jakkal's -- Security, Compliance, Identity, and Management Corporate Vice President -- [Microsoft Inspire Blog](https://www.microsoft.com/en-us/security/blog/2023/07/18/microsoft-inspire-partner-resources-to-prepare-for-the-future-of-security-with-ai/) detailing partner resources to prepare for the future of security with AI.**
 
 **See our [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
 
@@ -46,14 +46,9 @@ Download the PowerPoint for Maximizing Customer Success with Azure AI and Secu
 
 ## Keeping Up
 
-Visit the [Microsoft Security Copilot Homepage](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot) and [Microsoft Security Copilot Blog Post](https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/) to get started.
+Visit the [Microsoft Security Copilot Homepage](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot) to get started.
 
 Visit our [Readiness Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai) and [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy) to see additional information related to Azure OpenAI, ChatGPT, and more.
-
-
-## Events
-
-Stay tuned for more event announcements!
 
 
 ## Azure OpenAI Integrations
@@ -87,7 +82,7 @@ Security Copilot integrates insights and data from other critical security tools
 
 ## Community Resources
 
-* [John Savill's Trusting Your Copilot](https://youtu.be/7zT_T5TtZqs)
+* [15 Tips to Become a Better Prompt Engineer for Generative AI](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935?utm_source=substack&utm_medium=email)
 * [Prompt Engineering Techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
 * [OpenAI's GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [Grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857)
