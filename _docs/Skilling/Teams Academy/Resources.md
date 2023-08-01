@@ -1,8 +1,8 @@
 ---
-layout: sectionlist
+layout: planlist
 title: Modern Workplace Readiness Resources
 permalink: /modern-workplace/
-showbreadcrumb: false
-includesection:
+includemethod: all
+includeplans:
 - modern workplace
 ---

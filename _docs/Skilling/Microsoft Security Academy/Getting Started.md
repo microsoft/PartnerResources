@@ -19,15 +19,8 @@ tags:
 Welcome to cybersecurity! Browse our curated collection of resources to help you kickstart your journey. These resources specifically cater to those who are new to the field seeking to gain expertise.
 
 ## Definition Cookbook
-| Concept       | Definition    |
-| ------------- |-------------  |
-| [Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility) | A security and compliance framework that outlines the responsibilities of cloud service providers (CSPs) and customers for securing every aspect of the cloud environment. |
 
 
-| Logging or Auditing | ‘Logging’ or ‘Auditing’ means that information systems are recording important events such as system-level events, and the creation, modification, or deletion of objects within the system. |
-| [Incident Response](https://learn.microsoft.com/en-us/security/operations/incident-response-overview) | The practice of investigating and remediating active attack campaigns on your organization. |
-
-## Definition Cookbook
 | [Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility) | A security and compliance framework that outlines the responsibilities of cloud service providers (CSPs) and customers for securing every aspect of the cloud environment. |
 | Logging or Auditing | ‘Logging’ or ‘Auditing’ means that information systems are recording important events such as system-level events, and the creation, modification, or deletion of objects within the system. |
 | [Incident Response](https://learn.microsoft.com/en-us/security/operations/incident-response-overview) | The practice of investigating and remediating active attack campaigns on your organization. |
@@ -38,6 +31,7 @@ Welcome to cybersecurity! Browse our curated collection of resources to help you
 | [Data Loss Prevention](https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp) | Preventing users from inappropriately sharing  sensitive information with people who shouldn't have it. |
 | [Data Retention](https://learn.microsoft.com/en-us/purview/retention) | Refers to minimum and maximum timelines for keeping corporate data, including sensitive data, before such data is permanently deleted. |
 | [Records Management](https://learn.microsoft.com/en-us/purview/records-management) | A solution for organizations to manage regulatory, legal, and business-critical records. |
+
 
 ## Security Operations Analyst
 * [What is a security operations analyst?](https://learn.microsoft.com/en-us/training/career-paths/security-operations-analyst)
