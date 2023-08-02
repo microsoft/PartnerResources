@@ -28,4 +28,4 @@ These resources are created and delivered by architects across the Global Partne
 
 ## Start Your Journey and Stay Connected
 
-> Coming soon! This section is under continuous development. Please check regularly for updates.
+> This section is under development. Please check regularly for updates.
