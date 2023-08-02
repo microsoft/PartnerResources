@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Teams Academy Modules
 description: Want to dive deep into learning?
 permalink: /skilling/microsoft-teams-academy/modules
-updated: 2023-07-31
+updated: 2023-08-02
 showbreadcrumb: true
 tags: 
 - academy content
@@ -12,6 +12,8 @@ tags:
 ---
 
 ## Microsoft Teams Academy
+
+> More coming soon! The Teams Academy is being updated. Please check regularly for updates.
 
 ### Modules
 
