@@ -4,7 +4,7 @@ layout: page
 title: Windows 365 Academy
 description: Windows 365 Academy
 permalink: /skilling/windows-365-academy
-updated: 2023-03-01
+updated: 2023-08-02
 showbreadcrumb: true
 tags: 
  - windows 365 academy
@@ -12,6 +12,8 @@ tags:
 ---
 
 # Windows 365 Academy
+
+> More coming soon! The Windows 365 Academy is being updated. Please check regularly for updates.
 
 Welcome to the _Windows 365 Academy_, where we focus on producing and publishing videos on Microsoft Windows 365, designed to enable our Partners to deep dive into everything Cloud PC. 
 
