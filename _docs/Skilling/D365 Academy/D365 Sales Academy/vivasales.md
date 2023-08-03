@@ -12,7 +12,7 @@ Microsoft Viva Sales is a seller experience, an application, which leverages Mic
 
 **Configure Viva Sales** in your Dynamics 365 Customer Engagement demo environment to highlight how sellers can become more productive within their customer relationship management (CRM) application. 
 
-These two videos provide pre-sales engineers guidance on how to **configure** and **demonstrate** the integrated experience between Viva Sales, Dynamics 365 Sales, Teams and Outlook.
+These two videos provide presales engineers guidance on how to **configure** and **demonstrate** the integrated experience between Viva Sales, Dynamics 365 Sales, Teams and Outlook.
 
  {% include series.md 
     includetags="d365 sales academy" includemethod="all" 
