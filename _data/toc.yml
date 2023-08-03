@@ -236,8 +236,8 @@
                   url: "skilling/microsoft-security-academy/sentinel-academy"
                   tag: sentinel
                 - title: Microsoft 365 Defender Academy
-                  url: "skilling/microsoft-security-academy/d365-academy"
-                  tag: d365 defender
+                  url: "skilling/microsoft-security-academy/365d-academy"
+                  tag: 365d-academy
             - title: Cloud Security
               url: "skilling/microsoft-security-academy/cloud-security"
               tag: cloud security
