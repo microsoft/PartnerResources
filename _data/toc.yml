@@ -140,19 +140,6 @@
             - title: Teams
               url: "skilling/d365-academy/business-central-academy/teams"
               tag: bca teams
-        - title: "D365 Commerce Academy"
-          url: "skilling/d365-academy/d365-commerce-academy"
-          tag: d365 commerce academy
-          children:
-            - title: Commerce Headquarters
-              url: "skilling/d365-academy/d365-commerce-academy/commerce-hq"
-              tag: d365 commerce hq
-            - title: Digital Commerce
-              url: "skilling/d365-academy/d365-commerce-academy/digital-commerce"
-              tag: d365 digital commerce
-            - title: E-commerce Extensibility
-              url: "skilling/d365-academy/d365-commerce-academy/ecommerce"
-              tag: d365 ecommerce
         - title: "D365 Copilot Academy"
           url: "skilling/d365-academy/d365-copilot-academy"
           tag: d365 copilot academy
@@ -172,6 +159,19 @@
             - title: Power Virtual Agent
               url: "skilling/d365-academy/d365-copilot-academy/pva"
               tag: d365 copilot pva
+        - title: "D365 Commerce Academy"
+          url: "skilling/d365-academy/d365-commerce-academy"
+          tag: d365 commerce academy
+          children:
+            - title: Commerce Headquarters
+              url: "skilling/d365-academy/d365-commerce-academy/commerce-hq"
+              tag: d365 commerce hq
+            - title: Digital Commerce
+              url: "skilling/d365-academy/d365-commerce-academy/digital-commerce"
+              tag: d365 digital commerce
+            - title: E-commerce Extensibility
+              url: "skilling/d365-academy/d365-commerce-academy/ecommerce"
+              tag: d365 ecommerce
         - title: "D365 Marketing Academy"
           url: "skilling/d365-academy/d365-marketing-academy"
           tag: d365 marketing academy
@@ -213,6 +213,34 @@
             - title: Viva Sales
               url: "skilling/d365-academy/d365-sales-academy/vivasales"
               tag: d365 sales academy viva sales
+        - title: "Learning Plans"
+          url: "skilling/d365-academy/business-applications"
+          tag: business applications
+          children:
+            - title: Copilot
+              url: "skilling/d365-academy/business-applications/copilot"
+              tag: copilot
+            - title: Customer Data Platform
+              url: "skilling/d365-academy/business-applications/customer-data-platform"
+              tag: customer data platform
+            - title: Customer Engagement
+              url: "skilling/d365-academy/business-applications/customer-engagement"
+              tag: customer engagement
+            - title: Finance & Operations
+              url: "skilling/d365-academy/business-applications/finance-and-operations"
+              tag: finance and operations
+            - title: ISV Connect
+              url: "skilling/d365-academy/business-applications/isv-success"
+              tag: isv connect
+            - title: Mixed Reality
+              url: "skilling/d365-academy/business-applications/mixed-reality"
+              tag: mixed reality
+            - title: Power Platform
+              url: "skilling/d365-academy/business-applications/power-platform"
+              tag: power platform
+            - title: Small Medium Business
+              url: "skilling/d365-academy/business-applications/small-medium-business-smb"
+              tag: smb
     - title: "Microsoft Security Academy"
       url: "skilling/microsoft-security-academy"
       tag: microsoft security academy
