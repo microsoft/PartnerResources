@@ -7,6 +7,7 @@ updated: 2022-09-28
 permalink: /skilling/d365-academy/business-central-academy/configure-teams
 youtubeid: CNhx8wOqtqo
 tags: 
+- d365 academy
 - business central academy
 - academy content
 - microsoft teams

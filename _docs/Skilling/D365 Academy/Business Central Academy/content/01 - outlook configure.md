@@ -7,6 +7,7 @@ updated: 2022-09-04
 permalink: /skilling/d365-academy/business-central-academy/configure-outlook
 youtubeid: ecIrgVa0vlI
 tags: 
+- d365 academy
 - business central academy
 - academy content
 - outlook

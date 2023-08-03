@@ -7,6 +7,7 @@ updated: 2023-03-27
 permalink:  /skilling/d365-academy/d365-commerce-academy/commerce-hq/addstoretoorghierarchy
 youtubeid: tTsGWxXZLVI
 tags: 
+- d365 academy
 - d365
 - dynamics 365
 - d365 commerce academy

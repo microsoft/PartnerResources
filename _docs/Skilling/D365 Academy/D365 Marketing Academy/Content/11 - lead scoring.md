@@ -6,7 +6,8 @@ description: <strong> COMING SOON</strong> In this video titled, <strong>Working
 updated: 2023-03-17
 permalink: /skilling/d365-academy/d365-marketing-academy/leadscoring/lead-scores
 youtubeid: 9bhDrV9RuTo
-tags: 
+tags:
+- d365 academy
 - d365 marketing academy
 - academy content
 - lead scores

@@ -7,6 +7,7 @@ updated: 2023-03-16
 permalink: /skilling/d365-academy/d365-marketing-academy/journeys/trigger-journeys
 youtubeid: OKLkTvHbpTc
 tags: 
+- d365 academy
 - d365 marketing academy
 - academy content
 - journeys

@@ -7,6 +7,7 @@ updated: 2022-09-04
 permalink: /skilling/d365-academy/business-central-academy/demo-outlook
 youtubeid: 1_ytRJ2shks
 tags: 
+- d365 academy
 - business central academy
 - academy content
 - outlook

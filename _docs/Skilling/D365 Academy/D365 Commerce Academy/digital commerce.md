@@ -7,6 +7,7 @@ permalink: /skilling/d365-academy/d365-commerce-academy/digital-commerce
 updated: 2023-03-27
 showbreadcrumb: true
 tags:
+- d365 academy
 - d365
 - dynamics
 - d365 commerce academy

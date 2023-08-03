@@ -7,6 +7,7 @@ updated: 2023-02-03
 permalink: /skilling/d365-academy/d365-marketing-academy/forms/forms
 youtubeid: QfMaej_RVvo
 tags: 
+- d365 academy
 - d365 marketing academy
 - academy content
 - forms

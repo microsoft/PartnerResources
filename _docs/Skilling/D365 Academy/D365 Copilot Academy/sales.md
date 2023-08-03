@@ -7,6 +7,7 @@ permalink: /skilling/d365-academy/d365-copilot-academy/sales
 updated: 2023-05-15
 showbreadcrumb: true
 tags: 
+ - d365 academy
  - d365 copilot academy
  - academy page
  - dynamics

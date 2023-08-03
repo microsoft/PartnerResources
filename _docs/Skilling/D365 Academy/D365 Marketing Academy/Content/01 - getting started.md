@@ -7,6 +7,7 @@ updated: 2023-01-31
 permalink: /skilling/d365-academy/d365-marketing-academy/optimizetrial/getting-started
 youtubeid: MqWTl96GVgM
 tags: 
+- d365 academy
 - d365 marketing academy
 - academy content
 - getting started

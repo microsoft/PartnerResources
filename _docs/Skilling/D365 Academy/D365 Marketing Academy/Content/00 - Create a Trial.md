@@ -7,6 +7,7 @@ updated: 2023-03-15
 permalink: /skilling/d365-academy/d365-marketing-academy/create-trial/create-trial
 youtubeid: VqFoAnUN9O4
 tags: 
+- d365 academy
 - d365 marketing academy
 - academy content
 - create trial

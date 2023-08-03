@@ -7,6 +7,7 @@ updated: 2022-09-07
 permalink: /skilling/d365-academy/business-central-academy/configure-pva
 youtubeid: x6nCw1LYmoI
 tags: 
+- d365 academy
 - business central academy
 - academy content
 - pva

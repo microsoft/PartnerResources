@@ -7,6 +7,7 @@ updated: 2023-03-16
 permalink: /skilling/d365-academy/d365-marketing-academy/journeys/dataverse-journeys
 youtubeid: H6iD26VOMG0
 tags: 
+- d365 academy
 - d365 marketing academy
 - academy content
 - journeys

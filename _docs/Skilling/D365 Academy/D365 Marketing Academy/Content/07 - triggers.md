@@ -7,6 +7,7 @@ updated: 2023-02-03
 permalink: /skilling/d365-academy/d365-marketing-academy/triggers/triggers
 youtubeid: 9bhDrV9RuTo
 tags: 
+- d365 academy
 - d365 marketing academy
 - academy content
 - triggers

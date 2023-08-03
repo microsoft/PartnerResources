@@ -11,7 +11,7 @@ showbreadcrumb: true
 Welcome to the Microsoft Dynamics 365 Academy, your gateway to TBD.
 
 ## Organization
-![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)
+TBD.
 
 
 ## Start Your Journey and Stay Connected

@@ -9,6 +9,7 @@ updated: 2023-05-16
 youtubeid: JfwRk1ipqF8
 showbreadcrumb: true
 tags: 
+ - d365 academy
  - d365 copilot academy
  - academy content
  - dynamics

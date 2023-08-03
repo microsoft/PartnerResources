@@ -7,6 +7,7 @@ updated: 2022-09-05
 permalink: /skilling/d365-academy/business-central-academy/configure-d365sales
 youtubeid: tKOBj1Gw3rY
 tags: 
+- d365 academy
 - business central academy
 - academy content
 - d365 sales

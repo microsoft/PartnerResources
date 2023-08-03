@@ -8,6 +8,7 @@ permalink: /skilling/d365-academy/d365-copilot-academy/customer-service
 updated: 2023-04-01
 showbreadcrumb: true
 tags: 
+ - d365 academy
  - d365 copilot academy
  - academy page
  - dynamics

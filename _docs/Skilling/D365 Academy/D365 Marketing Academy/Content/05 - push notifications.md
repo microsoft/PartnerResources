@@ -7,6 +7,7 @@ updated: 2023-01-31
 permalink: /skilling/d365-academy/d365-marketing-academy/pushnotification/push-notifications
 youtubeid: YM-R5ewjKCQ
 tags: 
+- d365 academy
 - d365 marketing academy
 - academy content
 - push notifications
