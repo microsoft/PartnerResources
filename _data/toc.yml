@@ -171,7 +171,7 @@
               tag: d365 copilot customer service
             - title: Power Virtual Agent
               url: "skilling/d365-academy/d365-copilot-academy/pva"
-            tag: d365 copilot pva
+              tag: d365 copilot pva
         - title: "D365 Marketing Academy"
           url: "skilling/d365-academy/d365-marketing-academy"
           tag: d365 marketing academy
