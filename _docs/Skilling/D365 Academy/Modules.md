@@ -11,7 +11,7 @@ tags:
 - modules
 ---
 
-## Microsoft Security Academy
+## Microsoft Dynamics 365 Academy
 
 ### Modules
 

@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Dynamics 365 Academy
 description: Microsoft D365 Academy
 updated: 2023-08-08
-permalink: /skilling/d365-academy
+permalink: /skilling/d365-academy/
 showbreadcrumb: true
 ---
 {% include_relative header.md %}

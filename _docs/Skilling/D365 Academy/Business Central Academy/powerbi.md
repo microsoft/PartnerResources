@@ -2,7 +2,7 @@
 layout: page
 title: D365 Business Central Presales Academy - Power BI
 description: Integrating your demo environment in order to highlight graphs, charts and rich visualizations through Power BI
-permalink: /skilling/business-central-academy/powerbi
+permalink: /skilling/d365-academy/business-central-academy/powerbi
 showbreadcrumb: true
 ---
 

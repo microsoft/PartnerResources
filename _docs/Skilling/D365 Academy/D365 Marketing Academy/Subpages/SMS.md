@@ -2,7 +2,7 @@
 layout: page
 title: D365 Marketing Academy - SMS
 description: D365 Marketing Academy - Text Messages
-permalink: /skilling/d365-marketing-academy/sms
+permalink: /skilling/d365-academy/d365-marketing-academy/sms
 showbreadcrumb: true
 tags: 
 - d365 marketing academy

@@ -4,7 +4,7 @@ layout: page
 title: D365 Copilot Academy - Business Central
 sorttitle: 03 - D365 Copilot Academy - Business Central
 description: D365 Copilot Academy - Dynamics 365 Business Central and Dynamics 365 Copilot
-permalink: /skilling/d365-copilot-academy/business-central
+permalink: /skilling/d365-academy/d365-copilot-academy/business-central
 updated: 2023-05-15
 showbreadcrumb: true
 tags: 

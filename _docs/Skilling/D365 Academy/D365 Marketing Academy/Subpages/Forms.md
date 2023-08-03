@@ -2,7 +2,7 @@
 layout: page
 title: D365 Marketing in a Day - Forms
 description: A marketing form is an inbound communication channel that allows your customers to register for newsletters, ask for quotations, etc. The form is defined by a set of input fields arranged into a form layout. Each marketing form is made from a collection of fields, buttons, graphical elements, and a few configuration settings. Each field included in your form is linked to an attribute of an entity in Dynamics 365 Marketing.
-permalink: /skilling/d365-marketing-academy/forms
+permalink: /skilling/d365-academy/d365-marketing-academy/forms
 showbreadcrumb: true
 tags: 
 - d365 marketing academy

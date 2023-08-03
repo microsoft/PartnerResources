@@ -2,7 +2,7 @@
 layout: page
 title: D365 Business Central Presales Academy - Dynamics 365 Sales
 description: Integrating your demo environment in order to demo the integrated experience between Dynamics 365 Sales and Business Central. 
-permalink: /skilling/business-central-academy/d365
+permalink: /skilling/d365-academy/business-central-academy/d365
 showbreadcrumb: true
 ---
 
@@ -24,5 +24,4 @@ Integrating Business Central and Dynamics 365 Sales gives sales people insights 
 
 * <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/marketing-integrate-dynamicscrm?tabs=current-experience" target="_blank">Using Dynamics 365 with Business Central  
 * <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/admin-prepare-dynamics-365-for-sales-for-integration" target="_blank"> Integrating Dynamics 365 with Business Central
-* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/admin-common-data-service" target="_blank">Integrating Dataverse with Business Central 
-
+* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/admin-common-data-service" target="_blank">Integrating Dataverse with Business Central

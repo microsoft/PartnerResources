@@ -2,7 +2,7 @@
 layout: page
 title: D365 Marketing Academy - Journeys
 description: D365 Marketing Academy - Journeys
-permalink: /skilling/d365-marketing-academy/journeys
+permalink: /skilling/d365-academy/d365-marketing-academy/journeys
 showbreadcrumb: true
 tags: 
 - d365 marketing academy

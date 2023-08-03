@@ -2,7 +2,7 @@
 layout: page
 title: D365 Marketing in a Day - Working with Segments
 description: D365 Marketing Academy - Segments
-permalink: /skilling/d365-marketing-academy/segments
+permalink: /skilling/d365-academy/d365-marketing-academy/segments
 showbreadcrumb: true
 tags: 
 - d365 marketing academy
@@ -27,4 +27,3 @@ Targeting the right audience is an essential task for Marketers. This video titl
 
 * <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-build-segments" target="_blank">Build segments
 * <a href="https://learn.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-natural-language-segments" target="_blank">Build segments using natural language
-

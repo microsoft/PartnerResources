@@ -2,7 +2,7 @@
 layout: page
 title: D365 Business Central Presales Academy - Power Virtual Agents
 description: Integrating your demo environment in order to highlight integrated demos between Business Central, Power Virtual Agent, Microsoft Teams and Power Automate. 
-permalink: /skilling/business-central-academy/pva
+permalink: /skilling/d365-academy/business-central-academy/pva
 showbreadcrumb: true
 ---
 
@@ -25,4 +25,3 @@ Power Virtual Agents lets you create powerful AI-powered chatbots for a range of
 * <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/across-how-use-financials-data-source-flow" target="_blank">Read more about the Business Central and Power Automate connector
 * <a href="https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents" target="_blank">Introduction to Power Virtual Agents
 * <a href="https://docs.microsoft.com/en-us/power-virtual-agents/teams/fundamentals-what-is-power-virtual-agents-teams" target="_blank">Overview of Power Vritual Agents inside Teams
-

@@ -4,7 +4,7 @@ layout: page
 title: D365 Copilot Academy - Marketing
 sorttitle: 02 - D365 Copilot Academy - Marketing
 description: D365 Copilot Academy - Dynamics 365 Marketing and Dynamics 365 Copilot
-permalink: /skilling/d365-copilot-academy/marketing
+permalink: /skilling/d365-academy/d365-copilot-academy/marketing
 updated: 2023-05-15
 showbreadcrumb: true
 tags: 

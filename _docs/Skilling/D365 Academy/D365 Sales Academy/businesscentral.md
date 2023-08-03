@@ -2,7 +2,7 @@
 layout: page
 title: D365 Business Central Presales Academy - Dynamics 365 Sales
 description: Integrating your demo environment in order to demo the integrated experience between Dynamics 365 Sales and Business Central. 
-permalink: /skilling/business-central-academy/d365
+permalink: /skilling/d365-academy/business-central-academy/d365
 showbreadcrumb: true
 ---
 

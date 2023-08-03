@@ -3,7 +3,7 @@ layout: page
 title: D365 Commerce Academy - Academy Home
 sorttitle: 01
 description: D365 Commerce Academy - Academy Home
-permalink: /skilling/d365-commerce-academy/
+permalink: /skilling/d365-academy/d365-commerce-academy/
 updated: 2023-03-27
 showbreadcrumb: true
 tags:
@@ -40,4 +40,3 @@ All sessions currently in this academy:
     sortfield="updated" sortorder="asc" showdate="false" 
     showtags="true" visualstyle="tiny" 
 %}
-

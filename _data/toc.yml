@@ -117,8 +117,6 @@
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga
-
-
     - title: "Microsoft Dynamics 365 Academy"
       url: "skilling/d365-academy"
       tag: d365
@@ -128,96 +126,96 @@
           tag: modules
           children:
             - title: "D365 Business Central Academy"
-              url: "skilling/business-central-academy"
+              url: "skilling/d365-academy/business-central-academy"
               tag: business central academy
               children:
                 - title: D365 Sales
-                  url: "skilling/business-central-academy/d365"
+                  url: "skilling/d365-academy/business-central-academy/d365"
                   tag: bca d365
                 - title: Outlook
-                  url: "skilling/business-central-academy/outlook"
+                  url: "skilling/d365-academy/business-central-academy/outlook"
                   tag: bca outlook
                 - title: Power BI
-                  url: "skilling/business-central-academy/powerbi"
+                  url: "skilling/d365-academy/business-central-academy/powerbi"
                   tag: bca powerbi
                 - title: PVA
-                  url: "skilling/business-central-academy/pva"
+                  url: "skilling/d365-academy/business-central-academy/pva"
                   tag: bca pva
                 - title: Teams
-                  url: "skilling/business-central-academy/teams"
+                  url: "skilling/d365-academy/business-central-academy/teams"
                   tag: bca teams
             - title: "D365 Commerce Academy"
-              url: "skilling/d365-commerce-academy"
+              url: "skilling/d365-academy/d365-commerce-academy"
               tag: d365 commerce academy
               children:
                 - title: Commerce Headquarters
-                  url: "skilling/d365-commerce-academy/commerce-hq"
+                  url: "skilling/d365-academy/d365-commerce-academy/commerce-hq"
                   tag: d365 commerce hq
                 - title: Digital Commerce
-                  url: "skilling/d365-commerce-academy/digital-commerce"
+                  url: "skilling/d365-academy/d365-commerce-academy/digital-commerce"
                   tag: d365 digital commerce
                 - title: E-commerce Extensibility
-                  url: "skilling/d365-commerce-academy/ecommerce"
+                  url: "skilling/d365-academy/d365-commerce-academy/ecommerce"
                   tag: d365 ecommerce
             - title: "D365 Copilot Academy"
-              url: "skilling/d365-copilot-academy"
+              url: "skilling/d365-academy/d365-copilot-academy"
               tag: d365 copilot academy
               children:
                 - title: Sales
-                  url: "skilling/d365-copilot-academy/sales"
+                  url: "skilling/d365-academy/d365-copilot-academy/sales"
                   tag: d365 copilot sales
                 - title: Marketing
-                  url: "skilling/d365-copilot-academy/marketing"
+                  url: "skilling/d365-academy/d365-copilot-academy/marketing"
                   tag: d365 copilot marketing
                 - title: Business Central
-                  url: "skilling/d365-copilot-academy/business-central"
+                  url: "skilling/d365-academy/d365-copilot-academy/business-central"
                   tag: d365 copilot business central
                 - title: Customer Service
-                  url: "skilling/d365-copilot-academy/customer-service"
+                  url: "skilling/d365-academy/d365-copilot-academy/customer-service"
                   tag: d365 copilot customer service
                 - title: Power Virtual Agent
-                  url: "skilling/d365-copilot-academy/pva"
+                  url: "skilling/d365-academy/d365-copilot-academy/pva"
                 tag: d365 copilot pva
             - title: "D365 Marketing Academy"
-              url: "skilling/d365-marketing-academy"
+              url: "skilling/d365-academy/d365-marketing-academy"
               tag: d365 marketing academy
               children:
                 - title: Create Trial
-                  url: "skilling/d365-marketing-academy/create-trial"
+                  url: "skilling/d365-academy/d365-marketing-academy/create-trial"
                   tag: d365 marketing academy createtrial
                 - title: Optimize Trial
-                  url: "skilling/d365-marketing-academy/optimizetrial"
+                  url: "skilling/d365-academy/d365-marketing-academy/optimizetrial"
                   tag: d365 marketing academy optimizetrial
                 - title: Segments
-                  url: "skilling/d365-marketing-academy/segments"
+                  url: "skilling/d365-academy/d365-marketing-academy/segments"
                   tag: d365 marketing academy segments
                 - title: E-mail
-                  url: "skilling/d365-marketing-academy/email"
+                  url: "skilling/d365-academy/d365-marketing-academy/email"
                   tag: d365 marketing academy email
                 - title: SMS
-                  url: "skilling/d365-marketing-academy/sms"
+                  url: "skilling/d365-academy/d365-marketing-academy/sms"
                   tag: d365 marketing academy sms
                 - title: Push Notification
-                  url: "skilling/d365-marketing-academy/pushnotification"
+                  url: "skilling/d365-academy/d365-marketing-academy/pushnotification"
                   tag: d365 marketing academy push
                 - title: Forms
-                  url: "skilling/d365-marketing-academy/forms"
+                  url: "skilling/d365-academy/d365-marketing-academy/forms"
                   tag: d365 marketing academy forms
                 - title: Triggers
-                  url: "skilling/d365-marketing-academy/triggers"
+                  url: "skilling/d365-academy/d365-marketing-academy/triggers"
                   tag: d365 marketing academy triggers
                 - title: Journeys
-                  url: "skilling/d365-marketing-academy/journeys"
+                  url: "skilling/d365-academy/d365-marketing-academy/journeys"
                   tag: d365 marketing academy journeys
                 - title: Lead Scoring
-                  url: "skilling/d365-marketing-academy/leadscoring"
+                  url: "skilling/d365-academy/d365-marketing-academy/leadscoring"
                   tag: d365 marketing academy leadscoring
             - title: "D365 Sales Academy"
-              url: "skilling/d365-sales-academy"
+              url: "skilling/d365-academy/d365-sales-academy"
               tag: d365 sales academy
               children:
                 - title: Viva Sales
-                  url: "skilling/d365-sales-academy/vivasales"
+                  url: "skilling/d365-academy/d365-sales-academy/vivasales"
                   tag: d365 sales academy viva sales
     - title: "Microsoft Security Academy"
       url: "skilling/microsoft-security-academy"

@@ -2,7 +2,7 @@
 layout: page
 title: D365 Business Central Presales Academy - Microsoft Teams 
 description: Integrating your demo environment to connect Microsoft Teams with Business Central
-permalink: /skilling/business-central-academy/teams 
+permalink: /skilling/d365-academy/business-central-academy/teams
 showbreadcrumb: true
 ---
 

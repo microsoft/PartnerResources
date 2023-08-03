@@ -3,7 +3,7 @@ layout: page
 title: D365 Commerce Academy - E-commerce Extensibility
 sorttitle: 04
 description: D365 Commerce Academy - E-commerce Extensibility
-permalink: /skilling/d365-commerce-academy/ecommerce
+permalink: /skilling/d365-academy/d365-commerce-academy/ecommerce
 updated: 2023-03-27
 showbreadcrumb: true
 tags:

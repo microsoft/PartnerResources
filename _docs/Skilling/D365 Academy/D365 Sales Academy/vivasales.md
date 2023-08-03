@@ -4,7 +4,7 @@ title: D365 Sales Academy - Viva Sales
 description: Viva Sales Presales Academy provides partners with the opportunity to learn how to configure and demo Viva Sales
 permalink: /skilling/d365-sales-academy/vivasales
 redirect_from:
-  - /skilling/d365-sales-academy/vivasales/
+  - /skilling/d365-academy/d365-sales-academy/vivasales/
 showbreadcrumb: true
 ---
 

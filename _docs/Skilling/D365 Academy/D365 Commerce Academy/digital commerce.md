@@ -3,7 +3,7 @@ layout: page
 title: D365 Commerce Academy - Digital Commerce
 sorttitle: 03
 description: D365 Commerce Academy - Digital Commerce
-permalink: /skilling/d365-commerce-academy/digital-commerce
+permalink: /skilling/d365-academy/d365-commerce-academy/digital-commerce
 updated: 2023-03-27
 showbreadcrumb: true
 tags:

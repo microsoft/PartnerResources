@@ -4,7 +4,7 @@ layout: page
 title: D365 Copilot Academy - Power Virtual Agent
 sorttitle: 01 - D365 Copilot Academy - Power Virtual Agent
 description: D365 Copilot Academy - Power Virtual Agent and Copilot and AI 
-permalink: /skilling/d365-copilot-academy/pva
+permalink: /skilling/d365-academy/d365-copilot-academy/pva
 updated: 2023-05-15
 showbreadcrumb: true
 tags: 

@@ -2,9 +2,9 @@
 layout: page
 title: D365 Marketing Academy
 description: D365 Marketing Academy
-permalink: /skilling/d365-marketing-academy
+permalink: /skilling/d365-academy/d365-marketing-academy
 redirect_from:
-  - /skilling/d365-marketing-academy/
+  - /skilling/d365-academy/d365-marketing-academy/
 showbreadcrumb: true
 ---
 

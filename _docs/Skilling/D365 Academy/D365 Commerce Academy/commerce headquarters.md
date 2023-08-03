@@ -3,7 +3,7 @@ layout: page
 title: D365 Commerce Academy - Commerce Headquarters
 sorttitle: 02
 description: D365 Commerce Academy - Commerce Headquarters
-permalink: /skilling/d365-commerce-academy/commerce-hq
+permalink: /skilling/d365-academy/d365-commerce-academy/commerce-hq
 updated: 2023-03-27
 showbreadcrumb: true
 tags:
