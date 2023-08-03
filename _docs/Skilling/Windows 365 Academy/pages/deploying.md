@@ -5,7 +5,7 @@ title: Windows 365 Academy - Deploying
 sorttitle: Windows 365 Academy - Deploying
 description: Windows 365 Academy - Deploying
 permalink: /skilling/windows-365-academy/deploying
-updated: 2022-08-02
+updated: 2022-08-08
 showbreadcrumb: false
 tags: 
  - academy page
@@ -15,7 +15,7 @@ tags:
 
 # Windows 365 Academy - Deploying
 
-> More coming soon! The Windows 365 Academy is being updated. Please check regularly for updates.
+> More coming soon! The Windows 365 Academy is undergoing improvements. Please check regularly for updates.
 
 Welcome to the Deployment bucket in the Windows 365 Academy. Here we will diging into all things Windows 365 deployment and management, from native tools to Microsoft Endpoint Manager integration. We'll cover other topics, like Azure Networking, Azure AD Connect, hybrid, Conditional Access, and other elements of the Microsoft ecosystem related to the Cloud PC. 
 

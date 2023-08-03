@@ -13,7 +13,7 @@ tags:
 
 ## Microsoft Teams Academy
 
-> More coming soon! The Teams Academy is being updated. Please check regularly for updates.
+> More coming soon! The Teams Academy is undergoing improvements. Please check regularly for updates.
 
 ### Modules
 

@@ -5,7 +5,7 @@ title: Windows 365 Academy - Planning
 sorttitle: Windows 365 Academy - Planning
 description: Windows 365 Academy - Planning
 permalink: /skilling/windows-365-academy/planning
-updated: 2022-08-02
+updated: 2022-08-08
 showbreadcrumb: false
 tags: 
  - academy page
@@ -15,7 +15,7 @@ tags:
 
 # Windows 365 Academy - Planning
 
-> More coming soon! The Windows 365 Academy is being updated. Please check regularly for updates.
+> More coming soon! The Windows 365 Academy is undergoing improvements. Please check regularly for updates.
 
 Welcome to the Planning bucket in the Windows 365 Academy. Here we will dig into all things Windows 365 planning and design, from gathering requirements, case studies, use cases, when to use Windows 365 vs. Azure Virtual Desktop, and how to size Cloud PCs based on use cases.  
 
