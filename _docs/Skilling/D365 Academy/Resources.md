@@ -1,13 +1,8 @@
 ---
-layout: page
+layout: sectionlist
 title: All Business Applications & Power Platform Readiness Resources
-description: All Readiness Resources By Industry
 permalink: /skilling/d365-academy/business-applications/
-showbreadcrumb: false
-tags:
- - Business Applications
+includemethod: all
+includeplans:
+- business applications
 ---
-
-{% include sectionlist.md 
-    includeSection="Business Applications" 
-%}
