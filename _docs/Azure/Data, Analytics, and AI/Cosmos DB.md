@@ -46,6 +46,7 @@ Microsoft Azure Cosmos DB offers multiple database APIs - Core (SQL) API, API fo
 * [Learning Azure Cosmos DB](https://www.pluralsight.com/courses/azure-cosmos-db) (Self-Paced) (8 Hours)
 
 ## Conferences
+* [Azure Cosmos DB Conf 2023](https://learn.microsoft.com/en-us/events/azure-cosmos-db-conf-2023/) (Self-Paced)<br>All the videos from Azure Cosmos DB Conf 2023
 * [Azure Cosmos DB Conf 2022](https://www.youtube.com/playlist?list=PLmamF3YkHLoLa2ELTHUhoSMx89w329bOD) (Self-Paced)<br>All the videos from Azure Cosmos DB Conf 2022
 * [Azure Cosmos DB Conf 2021](https://www.youtube.com/playlist?list=PLmamF3YkHLoLN_24E41jSPVilv5B3GTBg) (Self-Paced)<br>All the videos from Azure Cosmos DB Conf 2021
 
