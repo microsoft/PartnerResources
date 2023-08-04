@@ -10,7 +10,7 @@ showbreadcrumb: true
 
 Explore Business Central integrated with **Power Virtual Agents**, **Microsoft Teams** and **Power Automate**. The scenario is based on a customer onboarding process.
 
-These two videos provide pre-sales engineers guidance on how to **demonstrate** and **configure** the integrated experience betweeen Business Central and Power Virtual Agents, Microsoft Teams and Power Automate.
+These two videos provide presales engineers guidance on how to **demonstrate** and **configure** the integrated experience betweeen Business Central and Power Virtual Agents, Microsoft Teams and Power Automate.
 
 {% include series.md 
     includetags="business central academy|pva" includemethod="all" 
@@ -18,7 +18,7 @@ These two videos provide pre-sales engineers guidance on how to **demonstrate** 
     visualstyle="normal" target="_blank" showlink="false"
 %}
 
-Power Virtual Agents lets you create powerful AI-powered chatbots for a range of requests—from providing simple answers to common questions to resolving issues requiring complex conversations. The virtual agents can be built in the native application or embedded in Microsoft Teams. 
+Power Virtual Agents (PVA) empowers you to create powerful AI-powered chatbots for a range of requests—from providing simple answers to common questions to resolving issues requiring complex conversations. The virtual agents can be built in the native application or embedded in Microsoft Teams. 
 
 ### Supporting Resources for these sessions
 

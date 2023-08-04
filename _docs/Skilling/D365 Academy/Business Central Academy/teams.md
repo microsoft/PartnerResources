@@ -8,9 +8,9 @@ showbreadcrumb: true
 
 # {{ page.title }}
 
-**Connect Microsoft Teams** in your Business Central demo environment in order to deliver demos which highlight scenarios where customers streamline business process by accessing Business Central data while working inside Microsoft Teams. 
+**Connect Microsoft Teams** in your Business Central demo environment to deliver demos which highlight scenarios where customers streamline business process by accessing Business Central data while working inside Microsoft Teams. 
 
-This video provides pre-sales engineers guidance on how to **connect** the integrated experience betweeen Microsoft Teams and Business Central.
+This video provides presales engineers guidance on how to **connect** the integrated experience between Microsoft Teams and Business Central.
 
 {% include series.md 
     includetags="business central academy|microsoft teams" includemethod="all" 
@@ -18,7 +18,7 @@ This video provides pre-sales engineers guidance on how to **connect** the integ
     visualstyle="normal" target="_blank" showlink="false"
 %}
 
-Microsoft Teams provides organizations many ways to stay connected and communicate with each other. The integration offers teams a way to streamline business process regardless of the app they are using.
+Microsoft Teams provides organizations countless ways to stay connected and communicate with each other. The integration offers teams a way to streamline business process regardless of the app they are using.
 
 ### Supporting Resources for these videos
 

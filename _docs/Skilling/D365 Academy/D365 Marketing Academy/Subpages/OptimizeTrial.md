@@ -14,7 +14,7 @@ tags:
 
 # {{ page.title }}
 
-Watch this brief video titled **Optimzing Your Trial Environment** to understand how to get started with a demo environment, enable key features, add contacts and upload images to your environment. 
+Watch this brief video titled **Optimizing Your Trial Environment** to understand how to get started with a demo environment, enable key features, add contacts, and upload images to your environment. 
 
 {% include series.md 
     includetags="d365 marketing academy|academy content|getting started" 

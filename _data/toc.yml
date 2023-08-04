@@ -98,6 +98,7 @@
           tag: business central academy
           children:
             - title: D365 Sales
+            /skilling//d365-academy/business-central-academy/
               url: "skilling/d365-academy/business-central-academy/d365sales"
               tag: bca d365
             - title: Outlook
@@ -112,6 +113,13 @@
             - title: Teams
               url: "skilling/d365-academy/business-central-academy/teams"
               tag: bca teams
+        - title: "D365 Commerce Academy"
+          url: "skilling/d365-academy/d365-commerce-academy"
+          tag: d365 commerce academy
+          children:
+            - title: Commerce Headquarters
+              url: "skilling/d365-academy/d365-commerce-academy/commerce-hq"
+              tag: d365 commerce hq
         - title: "D365 Copilot Academy"
           url: "skilling/d365-academy/d365-copilot-academy"
           tag: d365 copilot academy
@@ -125,19 +133,9 @@
             - title: Business Central
               url: "skilling/d365-academy/d365-copilot-academy/business-central"
               tag: d365 copilot business central
-            - title: Customer Service
-              url: "skilling/d365-academy/d365-copilot-academy/customer-service"
-              tag: d365 copilot customer service
             - title: Power Virtual Agent
               url: "skilling/d365-academy/d365-copilot-academy/pva"
               tag: d365 copilot pva
-        - title: "D365 Commerce Academy"
-          url: "skilling/d365-academy/d365-commerce-academy"
-          tag: d365 commerce academy
-          children:
-            - title: Commerce Headquarters
-              url: "skilling/d365-academy/d365-commerce-academy/commerce-hq"
-              tag: d365 commerce hq
         - title: "D365 Marketing Academy"
           url: "skilling/d365-academy/d365-marketing-academy"
           tag: d365 marketing academy

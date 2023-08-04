@@ -14,7 +14,7 @@ tags:
 
 # {{ page.title }}
 
-Targeting the right audience is an essential task for Marketers. This video titled **Working with Segments** to build segments Marketers leverage a powerful, easy-to-use logic builder that doesn’t require specialized knowledge of complex data structures and logical operators.
+Targeting the right audience is an essential task for Marketers. This video titled **Working with Segments** to build segments Marketers leverage a powerful, easy-to-use logic builder that does not require specialized knowledge of complex data structures and logical operators.
 
 {% include series.md 
     includetags="d365 marketing academy|academy content|segments" 

@@ -14,7 +14,7 @@ tags:
 
 # {{ page.title }}
 
-The recommended way for you to follow the the steps, the labs, from the D365 Marketing workshop is to create a new, 30-day trial. To begin the process you will create a Customer Engagement trial. Then, with the admin credentials generated from the CE trial you will create a D365 Marketing trial.
+The recommended way for you to follow the steps and the labs from the D365 Marketing workshop is to create a new, 30-day trial. To begin the process you will create a Customer Engagement trial. Then, with the admin credentials generated from the CE trial you will create a D365 Marketing trial.
 
 {% include series.md 
     includetags="d365 marketing academy|academy content|create trial" 
