@@ -17,3 +17,12 @@ TBD.
 ## Start Your Journey and Stay Connected
  
 TBD.
+
+## Community Resources
+
+TBD.
+
+
+## Interesting Reads
+
+TBD(?)

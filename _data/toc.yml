@@ -98,7 +98,6 @@
           tag: business central academy
           children:
             - title: D365 Sales
-            /skilling//d365-academy/business-central-academy/
               url: "skilling/d365-academy/business-central-academy/d365sales"
               tag: bca d365
             - title: Outlook
