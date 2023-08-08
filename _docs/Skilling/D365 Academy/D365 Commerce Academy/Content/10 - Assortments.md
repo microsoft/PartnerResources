@@ -1,8 +1,8 @@
 ---
 layout: page
-title: D365 Commerce Academy - Assortments
+title: Assortments
 sorttitle: 09 Assortments
-description: Commerce Academy Lab 09 - Assortment management in Commerce. Create and publish a new assortment for the new online store.
+description: Commerce Academy Lab 09 - Assortment Management in Commerce. Create and publish a new assortment for the new online store.
 updated: 2023-03-27
 permalink:  /skilling/d365-academy/d365-commerce-academy/commerce-hq/assortments
 youtubeid: O8RKexOPPtQ

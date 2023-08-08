@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D365 Commerce Academy - Channel Navigation Hierarchy
+title: Channel Navigation Hierarchy
 sorttitle: 08 Channel Navigation Hierarchy
 description: Commerce Academy Lab 08 - Configure Channel Navigation category hierarchy and associate product attribute refiners.
 updated: 2023-03-27

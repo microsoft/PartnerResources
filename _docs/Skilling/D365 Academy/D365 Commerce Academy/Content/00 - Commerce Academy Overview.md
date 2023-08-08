@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D365 Commerce Academy - Overview
+title: Overview
 sorttitle: 00 D365 Commerce Academy - Overview
 description: An overview on the structure of Dynamics 365 Commerce Academy, pre-requisites and objectives of Commerce Academy.
 updated: 2023-03-27

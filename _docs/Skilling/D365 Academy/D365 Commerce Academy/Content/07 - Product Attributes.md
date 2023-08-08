@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D365 Commerce Academy - Product Attributes
+title: Product Attributes
 sorttitle: 07 Product Attributes
 description: Commerce Academy Lab 06 - Create and configure product attributes that would light up as refiners on e-commerce site.
 updated: 2023-03-27

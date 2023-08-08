@@ -17,7 +17,7 @@ tags:
 
 # D365 Copilot Academy
 
-Welcome to the Dynamics 365 and Power Platform Copilot and AI Academy. By now you have read a host of articles and blogs to inspire you and your customers about all the new capabilities surrounding AI, ChatGPT and Dynamics 365/Power Platform. It’s amazing how these new advancements are providing interactive, AI-powered assistance across business functions—from sales, service, and marketing to supply chain.
+Welcome to the **Dynamics 365 and Power Platform Copilot and AI Academy.** By now you have read a host of articles and blogs to inspire you and your customers about all the new capabilities surrounding AI, ChatGPT and Dynamics 365/Power Platform. It’s amazing how these new advancements are providing interactive, AI-powered assistance across business functions—from sales, service, and marketing to supply chain.
 
 With Dynamics 365 Copilot, we introduced the world’s first AI copilot natively built-in to our CRM and ERP applications.
 

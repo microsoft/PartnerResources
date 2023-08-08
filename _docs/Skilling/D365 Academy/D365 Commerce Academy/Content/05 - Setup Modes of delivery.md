@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D365 Commerce Academy - Setup Modes of delivery
+title: Setup Modes of Delivery
 sorttitle: 05 Setup Modes of delivery
 description: Commerce Academy Lab 04 - Configure all the applicable modes of delivery for the newly created online store.
 updated: 2023-03-27
