@@ -9,8 +9,8 @@ showbreadcrumb: true
 
 {% include_relative header.md %}
 
-## Sessions
+# All Content
 
-* [Viva Sales](/skilling/d365-academy/d365-sales-academy/vivasales)
+* [Viva Sales](/PartnerResources/skilling/d365-academy/d365-sales-academy/vivasales)
 
 {% include_relative footer.md %}

@@ -26,7 +26,7 @@ Presentations:
 
 Welcome to the D365 Commerce Academy.
 
-All sessions currently in this academy:
+# All Content
 
 {% include series.md 
     includetags="d365 commerce academy|academy content" 
