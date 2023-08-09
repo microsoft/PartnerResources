@@ -4,9 +4,10 @@ title: All Business Applications & Power Platform Readiness Resources
 permalink: /d365-academy/business-applications
 showbreadcrumb: false
 tags:
- - Business Applications
+- Learning Plans
+- Business Applications
 ---
 
 {% include sectionlist.md
-    includeSection="Business Applications"
+    includeSection="learning plan|business applications"
 %}
