@@ -21,7 +21,7 @@ tags:
 
 Welcome to the **Dynamics 365 Commerce Academy.**
 
-Presentations:
+# Presentations
 
 * [Commerce In a Day - Updated 2023]({{ site.baseurl }}/assets/commerceacademy/Commerce%20In%20A%20Day%20Updated%202023.pdf)
 * [E-Commerce Workshop Assets]({{ site.baseurl }}/assets/commerceacademy/E-Commerce%20Workshop%20Assets.zip)

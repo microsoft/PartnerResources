@@ -1,4 +1,4 @@
-## Resources
+# Resources
 
 Additional supporting resources:
 
