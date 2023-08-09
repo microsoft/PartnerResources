@@ -2,7 +2,7 @@
 
 # {{ page.title }}
 
-Welcome to the Dynamics 365 Marketing Presales Academy.
+Welcome to the **Dynamics 365 Marketing Presales Academy.**
 
 The **Dynamics 365 Marketing Presales Academy** is an on-demand version based on the in-person, Dynamics 365 Marketing in a Day workshop. 
 
