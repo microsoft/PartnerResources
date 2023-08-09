@@ -4,19 +4,17 @@ nav_exclude: true
 
 # What are Microsoft Partner Resources?
 
-The Microsoft Partners Resources repository consists of documents, links, and other assets designed to aid partners in developing practices, upskilling, certifications, and taking their solutions to market.  Currently, this repository houses our Learning Plan Resources, with more sections to be added in the future.
-
 The Microsoft Partners Resources repository consists of documents, learning resources, and other assets designed to aid partners in practice development, upskilling, certifications, and bringing their solutions to market. Brought to you by the Microsoft Americas Global Partner Solutions (GPS) team, empowering partners and driving digital transformation.
 
 # Contributing
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
+Contributor License Agreement (CLA) declaring that you have the right to, and do, grant us
 the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
 ## Modifying a document on Github
 
-For infrequent or small updates, you can edit the file directly on GitHub.com without having installing additional tools and software.  Naturally, use whatever tools/editors you are most comfortable with. For a great explanation of markdown, watch this great video [Markdown Explained in Under 10 Minutes](https://www.youtube.com/watch?v=Y83zrODz-lk) by April Dunham.
+For infrequent or small updates, you can edit the file directly on GitHub.com without installing additional tools and software.  Naturally, use whatever tools/editors you are most comfortable with. For a great explanation of markdown, watch this great video [Markdown Explained in Under 10 Minutes](https://www.youtube.com/watch?v=Y83zrODz-lk) by April Dunham.
 
 1. Make sure you have signed into GitHub.com with your GitHub account.
 2. Go to the page you want to edit and click the edit button near the top right:
