@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All Business Applications & Power Platform Readiness Resources
-permalink: /d365-academy/business-applications
+permalink: /skilling/d365-academy/d365-academy/business-applications
 showbreadcrumb: false
 tags:
 - Business Applications
