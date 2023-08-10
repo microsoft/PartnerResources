@@ -117,6 +117,19 @@
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga
+    - title: "Developer Velocity Academy"
+      url: "skilling/developer-velocity-academy"
+      tag: data velocity academy
+      children:
+        - title: Monitoring
+          url: "skilling/developer-velocity-academy/monitoring"
+          tag: dva monitoring
+        - title: DevOps
+          url: "skilling/developer-velocity-academy/devops"
+          tag: dva devops
+        - title: GitHub Copilot
+          url: "skilling/developer-velocity-academy/github-copilot"
+          tag: dva github copilot
     - title: "D365 Business Central Academy"
       url: "skilling/business-central-academy"
       tag: business central academy
