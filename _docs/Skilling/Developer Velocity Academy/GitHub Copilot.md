@@ -26,7 +26,7 @@ Can use includes for items like navigation:
 To show GitHub Copilot content in this academy:
 
 {% include series.md 
-    includetags=developer velocity academy|academy content|github copilot" 
+    includetags="developer velocity academy|academy content|github copilot" 
     includemethod="all" 
     sortfield="sorttitle" sortorder="desc" showdate="false" 
     showtags="true" visualstyle="normal" 
