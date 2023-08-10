@@ -25,7 +25,7 @@ Can use includes for items like navigation:
 To show all content in academy:
 
 {% include series.md 
-    includetags=developer velocity academy|academy content" 
+    includetags="developer velocity academy|academy content" 
     includemethod="all" 
     sortfield="sorttitle" sortorder="desc" showdate="false" 
     showtags="true" visualstyle="normal" 
