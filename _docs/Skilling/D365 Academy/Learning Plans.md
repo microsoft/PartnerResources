@@ -9,7 +9,7 @@ tags:
 
 # All Business Applications & Power Platform Readiness Resources
 
-## Copilot:
+## **Copilot**:
 {% include resources.md
     includetags="copilot"
     includemethod="all"
