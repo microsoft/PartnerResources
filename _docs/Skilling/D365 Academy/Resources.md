@@ -21,7 +21,7 @@ tags:
     sortorder="desc"
     showdate="true"
 %}
-## Customer Data Platform:
+## **Customer Data Platform**:
 {% include resources.md
     includetags="customer data platform"
     includemethod="all"
@@ -33,7 +33,7 @@ tags:
     sortorder="desc"
     showdate="true"
 %}
-## Customer Engagement:
+## **Customer Engagement**:
 {% include resources.md
     includetags="customer engagement"
     includemethod="all"
@@ -45,7 +45,7 @@ tags:
     sortorder="desc"
     showdate="true"
 %}
-## Finance & Operations:
+## **Finance & Operations**:
 {% include resources.md
     includetags="finance and operations"
     includemethod="all"
@@ -57,7 +57,7 @@ tags:
     sortorder="desc"
     showdate="true"
 %}
-## ISV Connect:
+## **ISV Connect**:
 {% include resources.md
     includetags="isv success"
     includemethod="all"
@@ -69,7 +69,7 @@ tags:
     sortorder="desc"
     showdate="true"
 %}
-## Mixed Reality:
+## **Mixed Reality**:
 {% include resources.md
     includetags="mixed reality"
     includemethod="all"
@@ -81,7 +81,7 @@ tags:
     sortorder="desc"
     showdate="true"
 %}
-## Power Platform:
+## **Power Platform**:
 {% include resources.md
     includetags="power platform"
     includemethod="all"
@@ -93,7 +93,7 @@ tags:
     sortorder="desc"
     showdate="true"
 %}
-## Small Medium Business (SMB):
+## **Small Medium Business (SMB)**:
 {% include resources.md
     includetags="smb"
     includemethod="all"
