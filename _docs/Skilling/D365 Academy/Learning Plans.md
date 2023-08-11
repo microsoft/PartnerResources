@@ -7,7 +7,9 @@ tags:
 - Business Applications
 ---
 
-## Copilot:
+# All Business Applications & Power Platform Readiness Resources
+
+### Copilot:
 
 {% include resources.md
     includetags="copilot"
@@ -15,13 +17,13 @@ tags:
     showtags="false"
     showdate="true"
     visualstyle="normal"
-    showdescription="true"
+    showdescription="false"
     sortfield="updated"
     sortorder="desc"
     showdate="true"
 %}
 
-## Customer Data Platform:
+### Customer Data Platform:
 
 {% include resources.md
     includetags="customer data platform"
@@ -29,13 +31,13 @@ tags:
     showtags="false"
     showdate="true"
     visualstyle="normal"
-    showdescription="true"
+    showdescription="false"
     sortfield="updated"
     sortorder="desc"
     showdate="true"
 %}
 
-## Customer Engagement:
+### Customer Engagement:
 
 {% include resources.md
     includetags="customer engagement"
@@ -43,13 +45,13 @@ tags:
     showtags="false"
     showdate="true"
     visualstyle="normal"
-    showdescription="true"
+    showdescription="false"
     sortfield="updated"
     sortorder="desc"
     showdate="true"
 %}
 
-## Finance & Operations:
+### Finance & Operations:
 
 {% include resources.md
     includetags="finance and operations"
@@ -57,13 +59,13 @@ tags:
     showtags="false"
     showdate="true"
     visualstyle="normal"
-    showdescription="true"
+    showdescription="false"
     sortfield="updated"
     sortorder="desc"
     showdate="true"
 %}
 
-## ISV Success:
+### ISV Connect:
 
 {% include resources.md
     includetags="isv success"
@@ -71,13 +73,13 @@ tags:
     showtags="false"
     showdate="true"
     visualstyle="normal"
-    showdescription="true"
+    showdescription="false"
     sortfield="updated"
     sortorder="desc"
     showdate="true"
 %}
 
-## Mixed Reality:
+### Mixed Reality:
 
 {% include resources.md
     includetags="mixed reality"
@@ -85,13 +87,13 @@ tags:
     showtags="false"
     showdate="true"
     visualstyle="normal"
-    showdescription="true"
+    showdescription="false"
     sortfield="updated"
     sortorder="desc"
     showdate="true"
 %}
 
-## Power Platform:
+### Power Platform:
 
 {% include resources.md
     includetags="power platform"
@@ -99,13 +101,13 @@ tags:
     showtags="false"
     showdate="true"
     visualstyle="normal"
-    showdescription="true"
+    showdescription="false"
     sortfield="updated"
     sortorder="desc"
     showdate="true"
 %}
 
-## Small Medium Business (SMB):
+### Small Medium Business (SMB):
 
 {% include resources.md
     includetags="smb"
@@ -113,7 +115,7 @@ tags:
     showtags="false"
     showdate="true"
     visualstyle="normal"
-    showdescription="true"
+    showdescription="false"
     sortfield="updated"
     sortorder="desc"
     showdate="true"
