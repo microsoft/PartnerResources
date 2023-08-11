@@ -7,6 +7,114 @@ tags:
 - Business Applications
 ---
 
-{% include sectionlist.md
-    includeSection="business applications"
+## Copilot:
+
+{% include resources.md
+    includetags="copilot"
+    includemethod="all"
+    showtags="false"
+    showdate="true"
+    visualstyle="normal"
+    showdescription="true"
+    sortfield="updated"
+    sortorder="desc"
+    showdate="true"
+%}
+
+## Customer Data Platform:
+
+{% include resources.md
+    includetags="customer data platform"
+    includemethod="all"
+    showtags="false"
+    showdate="true"
+    visualstyle="normal"
+    showdescription="true"
+    sortfield="updated"
+    sortorder="desc"
+    showdate="true"
+%}
+
+## Customer Engagement:
+
+{% include resources.md
+    includetags="customer engagement"
+    includemethod="all"
+    showtags="false"
+    showdate="true"
+    visualstyle="normal"
+    showdescription="true"
+    sortfield="updated"
+    sortorder="desc"
+    showdate="true"
+%}
+
+## Finance & Operations:
+
+{% include resources.md
+    includetags="finance and operations"
+    includemethod="all"
+    showtags="false"
+    showdate="true"
+    visualstyle="normal"
+    showdescription="true"
+    sortfield="updated"
+    sortorder="desc"
+    showdate="true"
+%}
+
+## ISV Success:
+
+{% include resources.md
+    includetags="isv success"
+    includemethod="all"
+    showtags="false"
+    showdate="true"
+    visualstyle="normal"
+    showdescription="true"
+    sortfield="updated"
+    sortorder="desc"
+    showdate="true"
+%}
+
+## Mixed Reality:
+
+{% include resources.md
+    includetags="mixed reality"
+    includemethod="all"
+    showtags="false"
+    showdate="true"
+    visualstyle="normal"
+    showdescription="true"
+    sortfield="updated"
+    sortorder="desc"
+    showdate="true"
+%}
+
+## Power Platform:
+
+{% include resources.md
+    includetags="power platform"
+    includemethod="all"
+    showtags="false"
+    showdate="true"
+    visualstyle="normal"
+    showdescription="true"
+    sortfield="updated"
+    sortorder="desc"
+    showdate="true"
+%}
+
+## Small Medium Business (SMB):
+
+{% include resources.md
+    includetags="smb"
+    includemethod="all"
+    showtags="false"
+    showdate="true"
+    visualstyle="normal"
+    showdescription="true"
+    sortfield="updated"
+    sortorder="desc"
+    showdate="true"
 %}
