@@ -9,7 +9,7 @@ tags:
 
 # All Business Applications & Power Platform Readiness Resources
 
-### Copilot:
+## Copilot:
 
 {% include resources.md
     includetags="copilot"
@@ -23,7 +23,7 @@ tags:
     showdate="true"
 %}
 
-### Customer Data Platform:
+## Customer Data Platform:
 
 {% include resources.md
     includetags="customer data platform"
