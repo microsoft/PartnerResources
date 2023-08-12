@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Copilot
 description: Resources for Microsoft Security Copilot
-updated: 2023-08-01
+updated: 2023-08-14
 permalink: /security/microsoft-security-academy/microsoft-security-copilot
 tags:
 - security
@@ -44,12 +44,6 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 Download the PowerPoint for Maximizing Customer Success with Azure AI and Security Copilot [here]({{ site.baseurl }}/assets/msa/How to Prepare for Optimal Results with Azure AI Security Copilot.pptx).
 
-## Keeping Up
-
-Visit the [Microsoft Security Copilot Homepage](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot) to get started.
-
-Visit our [Readiness Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai) and [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy) to see additional information related to Azure OpenAI, ChatGPT, and more.
-
 
 ## Azure OpenAI Integrations
 
@@ -82,14 +76,15 @@ Security Copilot integrates insights and data from other critical security tools
 
 ## Community Resources
 
+* [Must Learn AI Security](https://github.com/rod-trent/OpenAISecurity/tree/main/Must_Learn)
 * [15 Tips to Become a Better Prompt Engineer for Generative AI](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935?utm_source=substack&utm_medium=email)
-* [Prompt Engineering Techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
 * [OpenAI's GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
-* [Grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857)
 * Learn more about our approach to [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).
 
 
 ## Interesting Reads
 
 * [Why AI Will Save the World](https://a16z.com/2023/06/06/ai-will-save-the-world/?utm_source=substack&amp;utm_medium=email)
+* [Microsoft AI Red Team Building Future of Safer AI](https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/?utm_source=substack&utm_medium=email)
 * [MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/?utm_source=substack&utm_medium=email)
+* [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
