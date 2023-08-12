@@ -53,11 +53,6 @@ Download the PowerPoint for Maximizing Customer Success with Azure AI and Secu
 * [SOC Chatbot with Azure OpenAI + Investigation Suggestions from Related Incident Comments](https://myfabersecurity.com/2023/06/20/investigation-suggestions-from-related-incident-comments-a-soc-chatbot-with-azure-openai/)
 
 
-## Other Integrations
-
-Security Copilot integrates insights and data from other critical security tools, such as [Microsoft Sentinel](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel), [Microsoft Defender](https://www.microsoft.com/en-us/security/business/microsoft-defender), and [Microsoft Intune](https://www.microsoft.com/en-us/security/business/microsoft-Intune).
-
-
 ## Features
 
 * Incident Response — Detect ongoing attacks, estimate range, and receive tailored remediation guidance based on real-world security proven strategies.
@@ -74,9 +69,15 @@ Security Copilot integrates insights and data from other critical security tools
 * **Leverage Model Creativity** — The model is probabilistic and not deterministic; the best integrations are cases where that is additive to the user experience.
 
 
-## Community Resources
+## AI Security
 
 * [Must Learn AI Security](https://github.com/rod-trent/OpenAISecurity/tree/main/Must_Learn)
+* [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
+* [MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/?utm_source=substack&utm_medium=email)
+
+
+## Community Resources
+
 * [15 Tips to Become a Better Prompt Engineer for Generative AI](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935?utm_source=substack&utm_medium=email)
 * [OpenAI's GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * Learn more about our approach to [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).
@@ -85,6 +86,4 @@ Security Copilot integrates insights and data from other critical security tools
 ## Interesting Reads
 
 * [Why AI Will Save the World](https://a16z.com/2023/06/06/ai-will-save-the-world/?utm_source=substack&amp;utm_medium=email)
-* [Microsoft AI Red Team Building Future of Safer AI](https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/?utm_source=substack&utm_medium=email)
-* [MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/?utm_source=substack&utm_medium=email)
-* [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
+* [Microsoft AI Red Team Building a Future of Safer AI](https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/?utm_source=substack&utm_medium=email)
