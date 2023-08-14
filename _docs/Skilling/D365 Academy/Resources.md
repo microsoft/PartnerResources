@@ -3,6 +3,7 @@ layout: page
 title: All Business Applications & Power Platform Learning Plans
 permalink: /skilling/d365-academy/business-applications
 showbreadcrumb: false
+navheadersonly: true
 tags:
 - Business Applications
 ---
