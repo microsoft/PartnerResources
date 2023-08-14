@@ -14,7 +14,7 @@ tags:
     sectionlist="Copilot|Customer Data Platform|Customer Engagement|Finance and Operations|ISV Success|Mixed Reality|Power Platform|SMB"
     showtags="false"
     showdate="true"
-    visualstyle="normal"
+    visualstyle="tiny"
     showdescription="false"
     sortfield="updated"
     sortorder="desc"
