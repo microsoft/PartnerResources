@@ -11,10 +11,10 @@ tags:
 
 {% include resources-grouped.md
 
-    sectionlist="copilot|customer data platform|customer engagement|finance and operations|isv success|mixed reality|power platform|smb"
+    sectionlist="Copilot|Customer Data Platform|Customer Engagement|Finance and Operations|ISV Success|Mixed Reality|Power Platform|SMB"
     showtags="false"
     showdate="true"
-    visualstyle="tiny"
+    visualstyle="normal"
     showdescription="false"
     sortfield="updated"
     sortorder="desc"
