@@ -80,6 +80,6 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 
 ## Events
 
-* [Directions North America Conference, April 16 - 19, 2023](https://www.eventsquid.com/event.cfm?event_id=14536) (In-person Instructor Led) (3 Days)
-* [Directions Asia Conference, April 27 - 28, 2023](https://directions4partners.com/events/directions-asia-2023/?msclkid=45bcb92cc24611eca8cd3226d570532e) (In-person Instructor Led) (2 Days)
-* [Business Central 2022, Wave 1 Launch Event, April 2022](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1SDYAizjlFJu-dzlrJ1DatUQ0xHUDBOM09HUThJNlBQSElEUFJUTTJVVC4u&wdLOR=c7DA8EB7B-A2D3-4F08-AE40-7AA6CF926345) (register @aka.ms/BCLE to access the on demand content)
+* [Directions North America Conference, April 16 - 19, 2023 (2024 dates to be announced)](https://directionsna.com/) (In-person Instructor Led) (3 Days)
+* [Directions EMEA Conference, November 1 - 3, 2023](https://directions4partners.com/events/directions-emea-2023/) (In-person Instructor Led) (3 Days)
+* [Business Central 2023, Wave 1 Launch Event, April 2023](aka.ms/bcle) (register @aka.ms/BCLE to access the on demand content)
