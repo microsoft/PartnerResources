@@ -16,7 +16,7 @@ tags:
 ## Fundamentals 
 
 Navigation tip - to open each link, right-click on the URL | open in new tab
-* [Bookmark Dynamics 365 Business Central Roadmap](https://dynamics.microsoft.com/en-us/roadmap/business-central/) (Self-Paced) (1 Minute)
+* [Bookmark Dynamics 365 Business Central Roadmap](https://releaseplans.microsoft.com/en-US/?app=Business+Central) (Self-Paced) (1 Minute)
 * [Create a Dynamics 365 Business Central Demo Account](https://cdx.transform.microsoft.com/my-tenants) (Self-Paced) (1 Minute)
 * [Create a Dynamics 365 Business Central Trial Account](https://trials.dynamics.com/Dynamics365/Signup/BusinessCentral) (Self-Paced) (1 Minute)
 * [Download Dynamics 365 Business Central Demo Sales Playbook](https://aka.ms/bizcentral/salestools) (Self-Paced) (5 Minutes)
