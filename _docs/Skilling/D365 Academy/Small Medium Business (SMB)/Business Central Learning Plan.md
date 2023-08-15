@@ -82,4 +82,4 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 
 * [Directions North America Conference, April 16 - 19, 2023 (2024 dates to be announced)](https://directionsna.com/) (In-person Instructor Led) (3 Days)
 * [Directions EMEA Conference, November 1 - 3, 2023](https://directions4partners.com/events/directions-emea-2023/) (In-person Instructor Led) (3 Days)
-* [Business Central 2023, Wave 1 Launch Event, April 2023](aka.ms/bcle) (register @aka.ms/BCLE to access the on demand content)
+* [Business Central 2023, Wave 1 Launch Event, April 2023](https://hopin.com/events/business-central-launch-event-4eb37891-3940-40a3-a49d-b48c6350c82d) (register @aka.ms/BCLE to access the on demand content)
