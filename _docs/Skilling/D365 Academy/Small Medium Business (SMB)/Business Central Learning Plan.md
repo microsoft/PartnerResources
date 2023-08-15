@@ -20,7 +20,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Create a Dynamics 365 Business Central Demo Account](https://cdx.transform.microsoft.com/my-tenants) (Self-Paced) (1 Minute)
 * [Create a Dynamics 365 Business Central Trial Account](https://trials.dynamics.com/Dynamics365/Signup/BusinessCentral) (Self-Paced) (1 Minute)
 * [Download Dynamics 365 Business Central Demo Sales Playbook](https://aka.ms/bizcentral/salestools) (Self-Paced) (5 Minutes)
-* [Dynamics 365 Business Central Go-to-Marketing Training](https://partner.microsoft.com/en-us/training/assets/collection/dynamics-365-business-central-go-to-market-training-18652#/) (Self-Paced) (3 Hours)
+* [Dynamics 365 Business Central Go-to-Marketing](https://dynamicspartners.transform.microsoft.com/smb) (Self-Paced) (1 minute)
 * [Getting Started with Business Central Learning Path](https://docs.microsoft.com/en-us/learn/paths/get-started-dynamics-365-business-central/) (Self-Paced) (3 Hours)
 * [Follow Business Central on Twitter](https://twitter.com/MSDYN365BC) (Self-Paced) (1 Minute)
 * [Review Dynamics 365 Business Central Application Ideas](https://experience.dynamics.com/ideas/categories/?forum=e288ef32-82ed-e611-8101-5065f38b21f1&forumName=Dynamics%20365%20Business%20Central) (Self-Paced) (1 Minute)
