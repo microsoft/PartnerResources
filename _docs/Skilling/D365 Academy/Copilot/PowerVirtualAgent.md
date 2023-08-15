@@ -16,7 +16,7 @@ tags:
 
 ## **Fundamentals** 
 * <a href="https://powervirtualagents.microsoft.com/en-us/blog/reinvent-your-ai-assistants-with-generative-answers-actions-and-more-in-microsoft-power-virtual-agents/" target="_blank">Reinvent your AI assistants with generative answers, actions, and more in Microsoft Power Virtual Agents</a> (Product Updates - May 2023)
-* <a href="https://www.microsoft.com/en-us/ai/dynamics-365-ai" target="_blank">Dynamics 365 Copilot website</a> (1 minute read)
+* <a href="https://www.microsoft.com/en-us/ai/dynamics-365-ai" target="_blank">Dynamics 365 Copilot website </a> (1 minute read)
 * <a href="https://powervirtualagents.microsoft.com/en-us/blog/copilot-in-power-virtual-agents-next-generation-ai-assists-bot-building-with-natural-language/" target="_blank">Copilot in Power Virtual Agents</a> (Announcement)
 * <a href="https://transform.microsoft.com/download?assetname=assets/Business%20Applications%20AI%20Seller%20Pitch%20Deck.pptx&download=1/" target="_blank">Dynamics 365 Pitch Deck</a> (900 mb)
 * <a href="https://transform.microsoft.com/modernwork/download?assetname=assets%2FLow%20Code%20%2B%20AI%20Pitch%20Deck.pptx&download=1" target="_blank">Power Platform Pitch Deck </a> (350 mb)
