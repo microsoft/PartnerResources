@@ -25,10 +25,10 @@ Below you will find content to assist in upskilling on Mixed Reality Guides:
 ## Fundamentals
 
 * <a href="https://dynamics.microsoft.com/en-us/mixed-reality/guides/" target="_blank">Bookmark 365 Guides Website (Self-Paced)
-* <a href="https://dynamics.microsoft.com/en-us/mixed-reality/guides/pricing/" target="_blank">Visit 365 Guides Pricing and Licensing (Self-Paced)
-* <a href="https://releaseplans.microsoft.com/en-US/?app=Guides" target="_blank">Bookmark 365 Guides Roadmap and Release Plan (Self-Paced)
-* <a href="https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/" target="_blank">Bookmark 365 Guides Online Documentation (Self-Paced) (docs.microsoft.com)
-* <a href="https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/trial-signup" target="_blank">Sign Up for a 60 day Trial for Dynamics 365 Guides (Self-Paced)
+* <a href="https://dynamics.microsoft.com/en-us/mixed-reality/guides/pricing/" target="_blank">Visit Dynamics 365 Guides Pricing and Licensing (Self-Paced)
+* <a href="https://releaseplans.microsoft.com/en-US/?app=Guides" target="_blank">Bookmark the Dynamics 365 Guides Roadmap and Release Plan (Self-Paced)
+* <a href="https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/" target="_blank">Bookmark the Dynamics 365 Guides Online Documentation (Self-Paced) (docs.microsoft.com)
+* <a href="https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/trial-signup" target="_blank">Sign Up for a Dynamics 365 Guides 60-day Trial(Self-Paced)
 
 ## Associate
 
