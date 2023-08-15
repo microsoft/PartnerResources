@@ -37,13 +37,13 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 ## Associate
 
 Navigation tip - to open each link, right-click on the URL | open in new tab
+* [Functional Consultant Learning Catalog](https://docs.microsoft.com/en-us/dynamics365/business-central/readiness/readiness-learning-functional-consultants) (Self-Paced) (6 Minutes)
 * [Reconcile bank accounts in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/en-us/learn/paths/reconcile-bank-accounts-dynamics-365-business-central/) (Self-Paced) (1 Hour)
 * [Work like a pro with data in Business Central](https://docs.microsoft.com/en-us/learn/paths/work-pro-data-dynamics-365-business-central/) (Self-Paced) (2 Hours)
 * [Work with the Microsoft Dynamics 365 Business Central user interface](https://docs.microsoft.com/en-us/learn/paths/work-with-user-interface-dynamics-365-business-central/) (Self-Paced) (2 Hours)
 * [Sell items and services in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/en-us/learn/paths/sell-items-services-dynamics-365-business-central/) (Self-Paced) (5 Hours)
 * [Set up financial management in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/en-us/learn/paths/set-up-financial-management-dynamics-365-business-central/) (Self-Paced) (3 Hours)
 * [Set up Microsoft Dynamics 365 Business Central for reporting](https://docs.microsoft.com/en-us/learn/paths/setup-reporting-dynamics-365-business-central/) (Self-Paced) (3 Hours)
-* [Functional Consultant Learning Catalog](https://docs.microsoft.com/en-us/dynamics365/business-central/readiness/readiness-learning-functional-consultants) (Self-Paced) (6 Minutes)
 * [Post sales and purchase invoices in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/en-us/learn/paths/post-sales-purchase-invoices-dynamics-365-business-central/) (Self-Paced) (4 Hours)
 * [Purchase items and services in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/en-us/learn/paths/purchase-items-services-dynamics-365-business-central/) (Self-Paced) (3 Hours)
 * [Deploy and configure Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/en-us/learn/paths/deploy-configure-dynamics-365-business-central/) (Self-Paced) (5 Hours)
