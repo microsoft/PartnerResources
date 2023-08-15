@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D365 Business Central
+title: Business Central
 description: Resources for Business Central
 updated: 2023-08-15
 permalink: /skilling/d365-academy/business-applications/small-medium-business-smb/business-central
