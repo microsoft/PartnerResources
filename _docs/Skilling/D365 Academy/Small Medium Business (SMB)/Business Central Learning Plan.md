@@ -75,7 +75,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Monitor Dynamics 365 Business Central Community](https://community.dynamics.com/business) (Self-Paced) (1 Minute)
 * [Monitor Dynamics 365 Business Central Forum](https://community.dynamics.com/business/f/dynamics-365-business-central-forum) (Self-Paced) (1 Minute)
 * [Participate in Dynamics 365 Business Central User Group](https://www.navug.com/home) (Self-Paced) (1 Minute)
-* [Read Dynamics 365 Business Central Blogs](https://community.dynamics.com/business/b) (Self-Paced) (1 Minute)
+* [Read Dynamics 365 Business Central Blogs](https://cloudblogs.microsoft.com/dynamics365/bdm/product/dynamics-365-business-central) (Self-Paced) (1 Minute)
 * [Bookmark Business Central Minor Update](https://aka.ms/bclastminorupdate) (Self-Paced) (1 Minute)
 
 ## Events
