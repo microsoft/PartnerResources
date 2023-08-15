@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mixed Reality Remote Assist
-description: Resources for Mixed Reality Remove Assist
-updated: 2021-12-01
+title: Remote Assist
+description: Resources for Dynamics 365 Remote Assist
+updated: 2023-08-16
 permalink: /skilling/d365-academy/business-applications/mixed-reality/remote-assist
 tags:
 - learning plan
@@ -11,7 +11,7 @@ tags:
 - remote assist
 ---
 
-# Learning Plan Resources for Mixed Reality Remote Assist
+# Learning Plan Resources for Dynamics 365 Remote Assist
 
 Dynamics 365 Mixed Reality Remote Assist
 
@@ -21,48 +21,32 @@ Below you will find content to assist in upskilling on Remote Assist.  Content i
 * Certifications:  relevant Microsoft exams or certifications
 * Community resources:  user groups, events, blogs
 
-Additionally, some content may be mared with one or more icons:
-
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
-
-TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
-
 ## Fundamentals
 
-* [Mixed Reality Learning Experience](https://docs.microsoft.com/en-us/windows/mixed-reality/enthusiast-guide/learn-mixed-reality) (Self-Paced)
-* [Mixed Reality Learn overview](https://docs.microsoft.com/en-us/windows/mixed-reality/discover/mr-learning-overview) (Self-Paced)
-
+* <a href="https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/" target="_blank">Bookmark 365 Remote Assist Website </a> (Self-Paced)
+* <a href="https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/pricing/" target="_blank">Visit Dynamics 365 Remote Assist Pricing and Licensing </a> (Self-Paced)
+* <a href="https://releaseplans.microsoft.com/en-US/" target="_blank">Bookmark the Dynamics 365 Products Roadmap and Release Plan </a> (Self-Paced)
+* <a href="https://learn.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/ra-overview/" target="_blank">Bookmark the Dynamics 365 Remote Assist Online Documentation (Self-Paced) </a> (docs.microsoft.com)
+* <a href="https://learn.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/try-remote-assist" target="_blank">Sign Up for a Dynamics 365 Remote Assist Trial </a> (Self-Paced)
 
 ## Associate
 
-* Coming Soon
+* <a href="https://www.youtube.com/playlist?list=PLcakwueIHoT-tzLiqMA_kIDQaYLS9K_AU" target="_blank">Dynamics 365 Remote Assist YouTube Playlist </a> (Self-Paced)
+* <a href="https://learn.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/requirements?source=recommendations/" target="_blank">Dynamics 365 Remote Assist Technical Requirements </a> (Self-Paced)
 
 ## Expert
 
-* Coming Soon
-
+* <a href="https://learn.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/deploy-remote-assist" target="_blank">Deploy Dynamics 365 Remote Assist </a> (Self-Paced) (2 hours)
+  
 ## Certifications
 
-* No Certification Exist at This Time
+* There is no product certification available at this time.
 
-## Keeping Up
-
-* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
-
-## Resources
-
-* [Reactor Event](https://www.youtube.com/watch?v=Bk27oRTw3YY&feature=youtu.be)
-  * Mixed Reality BizApps 101: Dynamics 365 Remote Assist Deployment Best Practices
-  
 ## Community Resources
 
 * [Mixed Reality Business Apps Tech Community](https://techcommunity.microsoft.com/t5/mixed-reality-business-apps/bd-p/MixedRealityBusinessApps)
   * Discussion space for all things related to business apps on Mixed Reality, e.g Dynamics 365 Remote Assist, Guides etc.
 
-## Practice Maturity Model
-
-* Coming Soon
 
    
 
