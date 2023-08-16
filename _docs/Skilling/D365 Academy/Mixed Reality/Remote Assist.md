@@ -44,8 +44,7 @@ Below you will find content to assist in upskilling on Remote Assist.  Content i
 
 ## Community Resources
 
-* [Mixed Reality Business Apps Tech Community](https://techcommunity.microsoft.com/t5/mixed-reality-business-apps/bd-p/MixedRealityBusinessApps)
-  * Discussion space for all things related to business apps on Mixed Reality, e.g Dynamics 365 Remote Assist, Guides etc.
+* [Mixed Reality Business Apps Tech Community](https://techcommunity.microsoft.com/t5/mixed-reality-business-apps/bd-p/MixedRealityBusinessApps) The discussion space for all things related to Business Applications on Mixed Reality, e.g Dynamics 365 Remote Assist, Guides etc.
 
 
    
