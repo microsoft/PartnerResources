@@ -2,7 +2,7 @@
 layout: page
 title: Sales
 description: Resources for Dynamics 365 Sales
-updated: 2023-03-27
+updated: 2023-08-17
 permalink: /skilling/d365-academy/business-applications/customer-engagement/sales
 tags:
 - learning plan
@@ -14,16 +14,6 @@ tags:
 # Learning Plan Resources for Dynamics 365 Sales
 
 Dynamics 365 Sales is a Microsoft business application that enables salespeople to build strong relationships with their customers, take actions based on insights, and close sales faster. Use Dynamics 365 Sales to keep track of your accounts and contacts, nurture your sales from lead to order, and create sales collateral. It also lets you create marketing lists and campaigns, and even follow service cases associated with specific accounts or opportunities.
-
-Below you will find content to assist in upskilling on Dynamics 365 Sales and Dynamics 365 Marketing. Content is broken down as follows:
-
-* Keeping Up:  latest information and resources to stay up to date
-* Fundamentals, Associate, Expert: content categorized with increased levels of complexity
-* Events:  Partner on-demand readiness sessions
-* Community Resources:  user groups, blogs, documentation
-* Certifications:  relevant Microsoft exams or certifications
-* [Viva Sales Academy](https://microsoft.github.io/PartnerResources/skilling/d365-sales-academy)
-* [Copilot With Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/)
 
 ## Fundamentals
 
@@ -80,3 +70,7 @@ Below you will find content to assist in upskilling on Dynamics 365 Sales and Dy
 * [PL-200: Microsoft Power Platform Functional Consultant Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/implementing-microsoft-power-platform-pl-200#/) (Self-Paced) (10 Hours)
 * [MB-210: Microsoft Dynamics 365 Sales Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-210-microsoft-dynamics-365-sales#/) (Self-Paced) (10 Hours)
 * [PL-400: Developing Power Platform Solutions Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/developing-power-platform-solutions-pl-400#/) (Self-Paced) (8 Hours)
+
+* ## Additional Resources
+* [Viva Sales Academy](https://microsoft.github.io/PartnerResources/skilling/d365-sales-academy)
+* [Copilot With Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/)
