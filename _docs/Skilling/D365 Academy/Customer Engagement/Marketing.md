@@ -27,7 +27,7 @@ Dynamics 365 Marketing is a Microsoft business application providing marketing-a
 * <a href="https://dynamics.microsoft.com/en-us/marketing/capabilities/" target="_blank">Explore the Dynamics 365 Marketing Capabilities </a> (1 minute)
 * <a href="https://docs.microsoft.com/en-us/dynamics365/marketing/insights-glossary" target="_blank">Understand the Insights glossary of terms </a> (10 minutes)
 * <a href="https://www.youtube.com/playlist?list=PLcakwueIHoT_cV1n1es1YJt_T2A5u-XpR" target="_blank">Watch the Dynamics 365 Marketing video playlist on YouTube </a> (Self-Paced)
-* <a href="https://https://aka.ms/d365marketing/salestools" target="_blank">Download the Dynamics 365 Marketing Partner Sales Sales Playbook </a> (Auto download @ aka.ms/d365marketing/salestools)
+* <a href="https://https://aka.ms/d365marketing/salestools" target="_blank">Download the Dynamics 365 Marketing Partner Sales Sales Playbook </a> (download @ aka.ms/d365marketing/salestools)
 * <a href="https://aka.ms/d365marketing/miad" target="_blank">Attend the Dynamics 365 Marketing in a Day Presales workshop </a> (On-Demand)
 * <a href="https://Aka.ms/ocp/d365marketing" target="_blank">Bookmark the Dynamics 365 Marketing One Stop, All-Inclusive Document </a> (Self-Paced)
 
