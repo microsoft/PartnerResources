@@ -2,7 +2,7 @@
 layout: page
 title: Marketing
 description: Resources for Dynamics 365 Marketing
-updated: 2021-12-01
+updated: 2023-08-17
 permalink: /skilling/d365-academy/business-applications/customer-engagement/marketing
 tags:
 - learning plan
@@ -20,15 +20,10 @@ Below you will find content to assist in upskilling on Dynamics 365 Marketing. C
 * Certifications: relevant Microsoft exams or certifications
 * Community resources: user groups, events, blogs
 
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
-* Navigation Tip - to open each link, right-click on the URL | select Open in new tab
-
-
 ## Fundamentals
 
-* [Learn How to Pitch Dynamics 365 Marketing](https://dynamicspartners.transform.microsoft.com/products/dynamics-365-marketing?tab=go-to-market) (MPN Portal) (2 Minutes)
-* [Bookmark Dynamics 365 Marketing Forum](https://community.dynamics.com/365/marketing/f/dynamics-365-for-marketing-forum) (Self-Paced) (1 Minute)
+* <a href="https://dynamicspartners.transform.microsoft.com/products/dynamics-365-marketing?tab=go-to-market" target="_blank">Learn How to Pitch Dynamics 365 Marketing </a> (Partner Portal) (1 minute)
+* <a href="https://community.dynamics.com/forums/thread/?partialUrl=marketing" target="_blank">Bookmark the Dynamics 365 Marketing Forum </a> (Self-Paced) (1 minute)
 * [Bookmark Dynamics 365 Marketing Product Roadmap](https://dynamics.microsoft.com/en-us/roadmap/overview/) (Microsoft Docs) (2 Minutes)
 * [Create a Dynamics 365 Marketing Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/) (2 Minutes)
 * [Explore Dynamics 365 Marketing Capabilities](https://dynamics.microsoft.com/en-us/marketing/capabilities/) (5 Minutes)
