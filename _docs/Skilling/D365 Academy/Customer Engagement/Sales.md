@@ -26,18 +26,21 @@ Dynamics 365 Sales is a Microsoft business application that enables salespeople 
 * <a href="https://www.youtube.com/playlist?list=PLcakwueIHoT8Bkb8BvqgBKgJPUc3jSX3m" target="_blank">Watch the Dynamics 365 Sales video playlist on YouTube </a> (Self-Paced)
 * <a href="https://msuspartners.eventbuilder.com/event/51067" target="_blank">Attend the Dynamics 365 Sales in a Day Presales workshop </a> (On-Demand)
   
-* [Course MB-910T00-A: Microsoft Dynamics 365 Fundamentals (CRM)](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-910t00) (In-person Instructor Led) (2 Days)
-* [Course PL-900T00-A: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-900t00) (In-person Instructor Led) (2 Days)
-* [Get started using Dataverse](https://docs.microsoft.com/en-us/learn/paths/get-started-cds/) (Microsoft Learn) (4 Hours)
-* [Introduction to Dynamics 365 Sales](https://docs.microsoft.com/en-us/learn/wwl/introduction-dynamics-365-sales/) (Microsoft Learn) (1 Hour)
-
 ## Associate
 
 * <a href="https://learn.microsoft.com/en-us/dynamics365/sales/">Getting Started with Dynamics 365 Sales </a> (docs.microsoft.com)
+* <a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro">Getting Started with Dataverse </a> (docs.microsoft.com)
+* <a href="https://docs.microsoft.com/en-us/learn/paths/get-started-cds/">Getting Started with Dataverse </a> (learn.microsoft.com)
 * <a href="https://learn.microsoft.com/en-us/training/paths/learn-fundamentals-of-microsoft-dynamics-365-sales/">Explore the Fundamentals of Dynamics 365 Sales </a> (learn.microsoft.com)
+* <a href="https://docs.microsoft.com/en-us/learn/certifications/courses/mb-910t00/">Course MB-910T00-A: Microsoft Dynamics 365 Fundamentals </a> (In-person Instructor Led) (2 Days)
+* <a href="https://docs.microsoft.com/en-us/learn/certifications/courses/pl-900t00">Course PL-900T00-A: Microsoft Power Platform Fundamentals </a> (In-person Instructor Led) (2 Days)
+  
+
+* [Get started using Dataverse](https://docs.microsoft.com/en-us/learn/paths/get-started-cds/) (Microsoft Learn) (4 Hours)
+* [Introduction to Dynamics 365 Sales](https://docs.microsoft.com/en-us/learn/wwl/introduction-dynamics-365-sales/) (Microsoft Learn) (1 Hour)
 * [Course PL-200T00: Microsoft Power Platform Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-200t00) (In-person Instructor Led) (5 Days)
 * [Create a model-driven app in Power Apps](https://docs.microsoft.com/en-us/learn/paths/create-app-models-business-processes/) (Microsoft Learn) (1 Hour)
-* * [Architect solutions for Dynamics 365 and Microsoft Power Platform](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/) (Microsoft Learn) (4 Hours)
+* [Architect solutions for Dynamics 365 and Microsoft Power Platform](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/) (Microsoft Learn) (4 Hours)
 * [Work with Microsoft Power Platform tenants, environments, subscription and Dynamics 365 apps](https://docs.microsoft.com/en-us/learn/paths/implementing-customer-engagement-apps/) (Microsoft Learn) (5 Hours)
 
 ## Expert
