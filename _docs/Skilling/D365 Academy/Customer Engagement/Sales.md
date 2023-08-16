@@ -25,22 +25,17 @@ Below you will find content to assist in upskilling on Dynamics 365 Sales and Dy
 * [Viva Sales Academy](https://microsoft.github.io/PartnerResources/skilling/d365-sales-academy)
 * [Copilot With Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/)
 
-Additionally, some content may be mared with one or more icons:
-
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
-
-TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
-
-## Keeping Up
-
-Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners. Release wave 1 covers features releasing from April through September. Release wave 2 covers features releasing from October through March of the following year.
-
-* [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
-
-
 ## Fundamentals
 
+* <a href="https://dynamicspartners.transform.microsoft.com/products/sales" target="_blank">Learn How to Pitch Dynamics 365 Marketing </a> (Partner Portal) (1 minute)
+* <a href="https://releaseplans.microsoft.com/en-US/?app=Sales" target="_blank">Bookmark the Dynamics 365 Sales Product Roadmap and Release Plan </a> (Self-Paced)
+* <a href="https://community.dynamics.com/forums/thread/?partialUrl=sales" target="_blank">Bookmark the Dynamics 365 Sales Community Forum </a> (Self-Paced)
+* <a href="https://releaseplans.microsoft.com/en-US/?app=Sales" target="_blank">Bookmark the Dynamics 365 Sales Product Roadmap </a> (Release Plan) (1 minute)
+* <a href="https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/" target="_blank">Create a Dynamics 365 Sales Trial </a> (1 minute)
+* <a href="https://dynamics.microsoft.com/en-us/sales/overview/" target="_blank">Explore the Dynamics 365 Sales Capabilities </a> (1 minute)
+* <a href="https://www.youtube.com/playlist?list=PLcakwueIHoT8Bkb8BvqgBKgJPUc3jSX3m" target="_blank">Watch the Dynamics 365 Sales video playlist on YouTube </a> (Self-Paced)
+* <a href="https://msuspartners.eventbuilder.com/event/51067" target="_blank">Attend the Dynamics 365 Sales in a Day Presales workshop </a> (On-Demand)
+  
 * [Course MB-910T00-A: Microsoft Dynamics 365 Fundamentals (CRM)](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-910t00) (In-person Instructor Led) (2 Days)
 * [Course PL-900T00-A: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-900t00) (In-person Instructor Led) (2 Days)
 * [Get started using Dataverse](https://docs.microsoft.com/en-us/learn/paths/get-started-cds/) (Microsoft Learn) (4 Hours)
@@ -48,6 +43,8 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 
 ## Associate
 
+* <a href="https://learn.microsoft.com/en-us/dynamics365/sales/">Getting Started with Dynamics 365 Sales </a> (docs.microsoft.com)
+* <a href="https://learn.microsoft.com/en-us/training/paths/learn-fundamentals-of-microsoft-dynamics-365-sales/">Explore the Fundamentals of Dynamics 365 Sales </a> (learn.microsoft.com)
 * [Course PL-200T00: Microsoft Power Platform Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-200t00) (In-person Instructor Led) (5 Days)
 * [Create a model-driven app in Power Apps](https://docs.microsoft.com/en-us/learn/paths/create-app-models-business-processes/) (Microsoft Learn) (1 Hour)
 * * [Architect solutions for Dynamics 365 and Microsoft Power Platform](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/) (Microsoft Learn) (4 Hours)
