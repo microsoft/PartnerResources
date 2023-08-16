@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Remote Assist
+title: Dynamics 365 Remote Assist
 description: Resources for Dynamics 365 Remote Assist
 updated: 2023-08-16
 permalink: /skilling/d365-academy/business-applications/mixed-reality/remote-assist
@@ -13,7 +13,7 @@ tags:
 
 # Learning Plan Resources for Dynamics 365 Remote Assist
 
-Dynamics 365 Mixed Reality Remote Assist
+Dynamics 365 Remote Assist
 
 Below you will find content to assist in upskilling on Remote Assist.  Content is broken down as follows:
 
@@ -23,7 +23,7 @@ Below you will find content to assist in upskilling on Remote Assist.  Content i
 
 ## Fundamentals
 
-* <a href="https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/" target="_blank">Bookmark 365 Remote Assist Website </a> (Self-Paced)
+* <a href="https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/" target="_blank">Bookmark Dynamics 365 Remote Assist Website </a> (Self-Paced)
 * <a href="https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/pricing/" target="_blank">Visit Dynamics 365 Remote Assist Pricing and Licensing </a> (Self-Paced)
 * <a href="https://releaseplans.microsoft.com/en-US/" target="_blank">Bookmark the Dynamics 365 Products Roadmap and Release Plan </a> (Self-Paced)
 * <a href="https://learn.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/ra-overview/" target="_blank">Bookmark the Dynamics 365 Remote Assist Online Documentation (Self-Paced) </a> (docs.microsoft.com)
