@@ -14,7 +14,7 @@ tags:
 
 Dynamics 365 Marketing is a Microsoft business application providing marketing-automation that helps turn prospects into business relationships.  The app is easy to use, works seamlessly with Dynamics 365 Sales, and has built-in business intelligence.
 
-On September 1, 2023, Dynamics 365 Marketing and Dynamics 365 Customer Insights will be sold together under a single product SKU called Dynamics 365 Customer Insights. The individual applications will be renamed Dynamics 365 Customer Insights - Journeys and Dynamics 365 Customer Insights - Data, respectively. For more information, see Dynamics 365 Customer Insights FAQs. 
+**On September 1, 2023, Dynamics 365 Marketing and Dynamics 365 Customer Insights will be sold together under a single product SKU called Dynamics 365 Customer Insights. The individual applications will be renamed Dynamics 365 Customer Insights - Journeys and Dynamics 365 Customer Insights - Data, respectively. For more information, see Dynamics 365 Customer Insights FAQs.**
 
 Learning Plan content below will be updated in September to reflect this update. 
 
