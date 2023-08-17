@@ -56,15 +56,9 @@ Dynamics 365 Sales is a Microsoft business application that enables salespeople 
 
 ## Certifications
 
-* [Exam PL-200: Microsoft Power Platform Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200)
-* [Exam MB-210: Microsoft Dynamics 365 Sales](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210)
-
-* [Exam PL-400: Microsoft Power Plaform Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400)
-* [Exam PL-600: Microsoft Power Platform Solution Architect](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600)
-
-* [PL-200: Microsoft Power Platform Functional Consultant Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/implementing-microsoft-power-platform-pl-200#/) (Self-Paced) (10 Hours)
-* [MB-210: Microsoft Dynamics 365 Sales Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-210-microsoft-dynamics-365-sales#/) (Self-Paced) (10 Hours)
-* [PL-400: Developing Power Platform Solutions Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/developing-power-platform-solutions-pl-400#/) (Self-Paced) (8 Hours)
+* <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" target="_blank">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant </a>
+* <a href="https://www.mindhub.com/mb-210-microsoft-dynamics-365-sales-microsoft-official-practice-test/p/MU-MB-210" target="_blank">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant Practice Exam from Measure Up </a> (Fee)
+* <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ" target="_blank">Microsoft Training and Certification Guides </a>
 
 * ## Additional Resources
 * [Viva Sales Academy](https://microsoft.github.io/PartnerResources/skilling/d365-sales-academy)
