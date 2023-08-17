@@ -60,6 +60,7 @@ Dynamics 365 Sales is a Microsoft business application that enables salespeople 
 * <a href="https://www.mindhub.com/mb-210-microsoft-dynamics-365-sales-microsoft-official-practice-test/p/MU-MB-210" target="_blank">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant Practice Exam from Measure Up </a> (Fee)
 * <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ" target="_blank">Microsoft Training and Certification Guides </a>
 
-* ## Additional Resources
-* [Viva Sales Academy](https://microsoft.github.io/PartnerResources/skilling/d365-sales-academy)
-* [Copilot With Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/)
+## Related Resources
+* <a href="https://microsoft.github.io/PartnerResources/skilling/d365-academy/d365-copilot-academy/sales" target="_blank">Link to Copilot and Viva Sales Academy page</a> (Self-Paced)
+* <a href="https://microsoft.github.io/PartnerResources/skilling/d365-academy/d365-sales-academy/vivasales" target="_blank">Link to Viva Sales Academy page</a> (Self-Paced)
+* <a href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business" target="_blank">Blog post for Dynamics 365 and Copilote</a> (Self-Paced)
