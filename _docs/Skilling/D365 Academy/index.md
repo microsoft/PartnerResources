@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dynamics 365 Academy
+title: Dynamics 365 Learning and Academies
 description: Microsoft D365 Academy
 updated: 2023-08-08
 permalink: /skilling/d365-academy/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dynamics 365 Guides
+title: Guides
 description: Resources for Dynamics 365 Guides
 updated: 2023-08-15
 permalink: /skilling/d365-academy/business-applications/mixed-reality/guides

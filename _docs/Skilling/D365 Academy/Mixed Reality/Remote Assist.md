@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dynamics 365 Remote Assist
+title: Remote Assist
 description: Resources for Dynamics 365 Remote Assist
 updated: 2023-08-16
 permalink: /skilling/d365-academy/business-applications/mixed-reality/remote-assist
