@@ -17,7 +17,7 @@ Dynamics 365 Sales is a Microsoft business application that enables salespeople 
 
 ## Fundamentals
 
-* <a href="https://dynamicspartners.transform.microsoft.com/products/sales" target="_blank">Learn How to Pitch Dynamics 365 Marketing </a> (Partner Portal) (1 minute)
+* <a href="https://dynamicspartners.transform.microsoft.com/products/sales" target="_blank">Learn How to Pitch Dynamics 365 Sales </a> (Partner Portal) (1 minute)
 * <a href="https://releaseplans.microsoft.com/en-US/?app=Sales" target="_blank">Bookmark the Dynamics 365 Sales Product Roadmap and Release Plan </a> (Self-Paced)
 * <a href="https://community.dynamics.com/forums/thread/?partialUrl=sales" target="_blank">Bookmark the Dynamics 365 Sales Community Forum </a> (Self-Paced)
 * <a href="https://releaseplans.microsoft.com/en-US/?app=Sales" target="_blank">Bookmark the Dynamics 365 Sales Product Roadmap </a> (Release Plan) (1 minute)
