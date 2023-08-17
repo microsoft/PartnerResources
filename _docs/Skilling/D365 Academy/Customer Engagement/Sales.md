@@ -30,8 +30,9 @@ Dynamics 365 Sales is a Microsoft business application that enables salespeople 
 ## Associate
 
 * <a href="https://learn.microsoft.com/en-us/dynamics365/sales/" target="_blank">Getting Started with Dynamics 365 Sales</a> (docs.microsoft.com)
+* <a href="https://learn.microsoft.com/en-us/training/dynamics365/sales" target="_blank">Learning Path for Dynamics 365 Sales</a> (learn.microsoft.com)
 * <a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro" target="_blank">Getting Started with Dataverse</a> (docs.microsoft.com)
-* <a href="https://docs.microsoft.com/en-us/learn/paths/get-started-cds/" target="_blank">Getting Started with Dataverse</a> (learn.microsoft.com)
+* <a href="https://docs.microsoft.com/en-us/learn/paths/get-started-cds/" target="_blank">Learning Path for Dataverse</a> (learn.microsoft.com)
 * <a href="https://learn.microsoft.com/en-us/training/paths/learn-fundamentals-of-microsoft-dynamics-365-sales/" target="_blank">Explore the Fundamentals of Dynamics 365 Sales </a> (learn.microsoft.com)
 * <a href="https://docs.microsoft.com/en-us/learn/certifications/courses/mb-910t00/" target="_blank">Course MB-910T00-A: Microsoft Dynamics 365 Fundamentals </a> (In-person Instructor Led) (2 Days)
 * <a href="https://docs.microsoft.com/en-us/learn/certifications/courses/pl-900t00" target="_blank">Course PL-900T00-A: Microsoft Power Platform Fundamentals </a> (In-person Instructor Led) (2 Days)
