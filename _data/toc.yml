@@ -204,7 +204,7 @@
             - title: Viva Sales
               url: "skilling/d365-academy/d365-sales-academy/vivasales"
               tag: d365 sales academy viva sales
-    - title: "Microsoft Security Academy"
+    - title: "Security Academy"
       url: "skilling/microsoft-security-academy"
       tag: microsoft security academy
       children:
@@ -262,7 +262,7 @@
         - title: Specializations
           url: "skilling/microsoft-security-academy/specializations"
           tag: specializations
-    - title: "Microsoft Teams Academy"
+    - title: "Teams Academy"
       url: "skilling/microsoft-teams-academy"
       tag: mta
       children:
