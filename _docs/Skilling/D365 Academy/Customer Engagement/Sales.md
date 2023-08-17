@@ -51,16 +51,14 @@ Dynamics 365 Sales is a Microsoft business application that enables salespeople 
 * [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/en-us/learn/paths/extend-power-platform-model-driven-app/) (Microsoft Learn) (4 Hours)
 
 ## Events
-* [Dynamics 365 Sales in a Day Workshop (On-demand)](https://aka.ms/d365sales/siad) (US Partner Community) (3 Hours)
+
+* <a href="https://msuspartners.eventbuilder.com/event/51067/" target="_blank">Attend Dynamics 365 Sales in a Day workshop </a> (On-Demand)
 
 ## Community Resources
 
-* [Participate in Power Apps User Group](https://www.powerappsug.com/home)
-* [Subscribe to Microsoft Power Apps YouTube Channel](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg)
-* [Subscribe to Microsoft Power Automate YouTube Channel](https://www.youtube.com/channel/UCG98S4lL7nwlN8dxSF322bA)
-* [Microsoft Power Platform Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
-* [Monitor the Dynamics 365 Blog](https://cloudblogs.microsoft.com/dynamics365/)
-* [Monitor the Dynamics 365 Customer Engagement in the Field](https://community.dynamics.com/crm/b/crminthefield)
+* <a href="https://dynamicscommunities.com/community/groups/dynamicscecrm/" target="_blank">Participate in CRM UG </a> (Self-Paced)
+* <a href="https://cloudblogs.microsoft.com/dynamics365/" target="_blank">Monitor the Dynamics 365 Blog</a> (Self-Paced)
+* <a href="https://community.dynamics.com/blogs/" target="_blank">Monitor the Dynamics 365 Community Blogs</a> (Self-Paced)
 
 ## Certifications
 
