@@ -36,14 +36,6 @@ Dynamics 365 Sales is a Microsoft business application that enables salespeople 
 * <a href="https://learn.microsoft.com/en-us/training/paths/learn-fundamentals-of-microsoft-dynamics-365-sales/" target="_blank">Explore the Fundamentals of Dynamics 365 Sales </a> (learn.microsoft.com)
 * <a href="https://docs.microsoft.com/en-us/learn/certifications/courses/mb-910t00/" target="_blank">Course MB-910T00-A: Microsoft Dynamics 365 Fundamentals </a> (In-person Instructor Led) (2 Days)
 * <a href="https://docs.microsoft.com/en-us/learn/certifications/courses/pl-900t00" target="_blank">Course PL-900T00-A: Microsoft Power Platform Fundamentals </a> (In-person Instructor Led) (2 Days)
-  
-
-* [Get started using Dataverse](https://docs.microsoft.com/en-us/learn/paths/get-started-cds/) (Microsoft Learn) (4 Hours)
-* [Introduction to Dynamics 365 Sales](https://docs.microsoft.com/en-us/learn/wwl/introduction-dynamics-365-sales/) (Microsoft Learn) (1 Hour)
-* [Course PL-200T00: Microsoft Power Platform Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-200t00) (In-person Instructor Led) (5 Days)
-* [Create a model-driven app in Power Apps](https://docs.microsoft.com/en-us/learn/paths/create-app-models-business-processes/) (Microsoft Learn) (1 Hour)
-* [Architect solutions for Dynamics 365 and Microsoft Power Platform](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/) (Microsoft Learn) (4 Hours)
-* [Work with Microsoft Power Platform tenants, environments, subscription and Dynamics 365 apps](https://docs.microsoft.com/en-us/learn/paths/implementing-customer-engagement-apps/) (Microsoft Learn) (5 Hours)
 
 ## Expert
 
