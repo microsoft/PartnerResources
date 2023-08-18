@@ -8,7 +8,7 @@ navheadersonly: true
 
 # Academies
 
-Welcome to **Academies**! Each Academy is crafted for a specific technology or solution, such as AI/ML, security, and analytics. Within each academy, you'll find a collection of 
+Welcome to **Academies!** Each Academy is crafted for a specific technology or solution, such as AI/ML, security, and analytics. Within each academy, you'll find a collection of 
 expert-level sessions, demonstrations, and other critical resources centered on the chosen topic.
 
 The latest content across **all Academies**:
@@ -17,7 +17,7 @@ The latest content across **all Academies**:
     includetags="academy content|showcase content" 
     includemethod="any" 
     sortfield="updated" sortorder="desc" showdate="true" 
-    showtags="true" visualstyle="tiny" limit="5" 
+    showtags="true" visualstyle="tiny" limit="3" 
 %}
 
 Explore the **Microsoft Partner Showcase!** The Partner Showcase features technical discussions with Microsoft Partners and their innovative solutions. Join Microsoft CSAs and Partners from around the world to get their perspectives on the tech industry and go hands-on with their solutions.
@@ -44,11 +44,11 @@ Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, each di
 <hr/>
 
 ### [Azure Data Academy](/PartnerResources/skilling/azure-data-academy)
-Explore skilling on all database technologies on Azure, encompassing SQL Server, MySQL, and PostgreSQL. While the primary focus of the Modern Analytics Academy is analytical data engineering, the Azure Data Academy directs its focus toward more operational and transactional aspects.
+Explore skilling on all database technologies on Azure, encompassing SQL Server, MySQL, and PostgreSQL. While the primary focus of the Modern Analytics Academy is analytical data engineering, the Azure Data Academy directs its focus toward more operational and transactional aspects. Our latest content:
 
 {% include series.md 
     includetags="azure data academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=2 
+    sortfield="updated" sortorder="desc" showdate="true" limit=3
     visualstyle="tiny"
 %}
 
@@ -59,17 +59,17 @@ Engage in deep data governance and Microsoft Purview discussions, covering data 
 
 {% include series.md 
     includetags="data governance academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=2
+    sortfield="updated" sortorder="desc" showdate="true" limit=3
     visualstyle="tiny"
 %}
 
 <hr/>
 
-### [Dynamics 365](/PartnerResources/skilling/business-central-academy)
+### [Dynamics 365](/PartnerResources/skilling/d365-academy/)
 Welcome to the Dynamics 365 Academy, your comprehensive deep dive into everything Dynamics and Power Platform. The Dynamics 365 Academy adopts a service-oriented organizational approach, simplifying Dynamics and Power Platform’s comprehensive domain. Most recent content:
 
 {% include series.md 
-    includetags="business central academy|d365 commerce academy|copilot|d365 marketing academy|d365 sales academy" includemethod="all" 
+    includetags=""Copilot|Customer Data Platform|Customer Engagement|Finance and Operations|ISV Success|Mixed Reality|Power Platform|SMB" includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="true" limit=3
     visualstyle="tiny"
 %}
@@ -87,7 +87,7 @@ Welcome to the Microsoft Security Academy, your gateway to comprehensive cyberse
 
 <hr/>
 
-### [Microsoft Teams Academy](/PartnerResources/skilling/microsoft-security-academy)
+### [Microsoft Teams Academy](/PartnerResources/skilling/microsoft-teams-academy)
 The Teams Academy is your comprehensive deep dive into everything Microsoft Teams, empowering our Partners to explore all aspects of the modern workplace. Our latest content
 
 {% include series.md 
@@ -109,4 +109,4 @@ Discover modern analytics and data warehousing techniques, principles, and techn
 
 <hr/>
 
-Have a suggestion, comment, or would like to contribute? [Use our form](https://forms.office.com/r/GZwiMqB3Zg) to contact us or use the Github Issues and Discussions funcionality.
+Have a suggestion, comment, or would like to contribute? [Use our form](https://forms.office.com/r/GZwiMqB3Zg) to contact us or use the Github Issues and Discussions functionality.

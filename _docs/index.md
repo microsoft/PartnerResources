@@ -9,7 +9,7 @@ showbreadcrumb: false
 
 Enhance your **readiness with a curated collection of resources** to help you upskill across Azure and Industry.
 
-The curated resources for each topic consists of fundamental to expert resources, encompassing a range of materials such as blog links, documentation, hands-on labs, learning paths, tutorials, videos, and more.
+The curated resources for each topic consist of fundamental to expert resources, encompassing a range of materials such as blog links, documentation, hands-on labs, learning paths, tutorials, videos, and more.
 
 <hr/>
 
