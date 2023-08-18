@@ -69,7 +69,7 @@ Engage in deep data governance and Microsoft Purview discussions, covering data 
 Welcome to the Dynamics 365 Academy, your comprehensive deep dive into everything Dynamics and Power Platform. The Dynamics 365 Academy adopts a service-oriented organizational approach, simplifying Dynamics and Power Platform’s comprehensive domain. Most recent content:
 
 {% include series.md 
-    includetags=""Copilot|Customer Data Platform|Customer Engagement|Finance and Operations|ISV Success|Mixed Reality|Power Platform|SMB" includemethod="all" 
+    includetags="d365 academy" includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="true" limit=3
     visualstyle="tiny"
 %}
