@@ -18,17 +18,8 @@ In addition to the modules, the Dynamics 365 Academy’s **[Learning Plans](/Par
 
 These resources are created and delivered by architects across the Global Partner Solutions (GPS) team and beyond, who are experts in their respective field.
 
-## Organization
-
-
-| **Customer Engagement** | **Finance, Operations, and Supply Chain** | **Power Platform** |
-| Sales | Business Central | Power Apps |
-| Marketing	| Finance | Power Automate |
-| Customer Service | Operations | Power BI |
-| Field Service	| Supply Chain | Power Virtual Agents |
-| | Commerce | Power Pages
-| | Project Operations | |
-| | Fraud Protection | |
+## Learning Plan
+![D365 Organizational Chart]({{ site.baseurl }}/assets/msa/D365 Org. Chart.png)
 
 
 ## Community Resources
