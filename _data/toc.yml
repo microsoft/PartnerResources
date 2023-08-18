@@ -89,7 +89,7 @@
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga
-    - title: "Dynamics 365 Academy"
+    - title: "Dynamics 365"
       url: "skilling/d365-academy"
       tag: d365 academy
       children:
