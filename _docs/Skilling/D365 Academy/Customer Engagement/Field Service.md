@@ -2,7 +2,7 @@
 layout: page
 title: Field Service
 description: Resources for Dynamics 365 Field Service
-updated: 2022-12-19
+updated: 2023-08-18
 permalink: /skilling/d365-academy/business-applications/customer-engagement/field-service
 tags:
 - learning plan
@@ -16,31 +16,11 @@ Dynamics 365 Field Service is a Microsoft business application helps organizatio
 
 Connected Field Service enables organizations to transform the way they provide service from a costly break-fix model to a proactive and predictive service model through the combination of IoT diagnostics, scheduling, asset maintenance, and inventory on the same platform.
 
-Below you will find content to assist in upskilling on Dynamics 365 Field Service and Connected Field Service. Content is broken down as follows:
-
-* Keeping Up:  latest information and resources to stay up to date
-* Fundamentals, Associate, Expert: content categorized with increased levels of complexity
-* Events:  Partner on-demand readiness sessions
-* Community Resources:  user groups, blogs, documentation
-* Certifications:  relevant Microsoft exams or certifications
-
-Additionally, some content may be mared with one or more icons:
-
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
-
-TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
-
 ## Keeping Up
 
 Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners. Release wave 1 covers features releasing from April through September. Release wave 2 covers features releasing from October through March.
 
-* [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
-
-* [Dynamics 365 2021 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave2/)
-* [Power Platform 2021 release wave 2](https://docs.microsoft.com/en-us/power-platform-release-plan/2021wave2/)
-
-* [Dynamics 365 Field Service 2021 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave2/service/dynamics365-field-service/get-started)
+* <a href="https://docs.microsoft.com/en-us/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans </a>
 
 ## Fundamentals
 
