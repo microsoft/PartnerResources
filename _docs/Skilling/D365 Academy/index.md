@@ -18,7 +18,7 @@ In addition to the modules, the Dynamics 365 Academy’s **[Learning Plans](/Par
 
 These resources are created and delivered by architects across the Global Partner Solutions (GPS) team and beyond, who are experts in their respective field.
 
-## Learning Plan
+## Learning Path
 ![D365 Organizational Chart]({{ site.baseurl }}/assets/msa/D365 Org. Chart.png)
 
 
