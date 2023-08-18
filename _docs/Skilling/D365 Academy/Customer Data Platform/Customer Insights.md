@@ -2,7 +2,7 @@
 layout: page
 title: Customer Insights
 description: Resources for Customer Insights
-updated: 2023-03-29
+updated: 2023-08-18
 permalink: /skilling/d365-academy/business-applications/customer-data-platform/customer-insights
 tags:
 - learning plan
@@ -23,12 +23,11 @@ Below you will find content to assist in upskilling on Dynamics 365 Customer Ins
 * Certifications:  relevant Microsoft exams or certifications
 * Community resources:  user groups, events, blogs
 
-Additionally, some content may be marked with one or more icons:
-
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
-
 TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
+
+**On September 1, 2023, Dynamics 365 Marketing and Dynamics 365 Customer Insights will be sold together under a single product SKU called Dynamics 365 Customer Insights. The individual applications will be renamed Dynamics 365 Customer Insights - Journeys and Dynamics 365 Customer Insights - Data, respectively. For more information, see Dynamics 365 Customer Insights FAQs.**
+
+**Learning Plan content below will be updated in September to reflect this update.**
 
 ## Fundamentals
 
@@ -70,9 +69,5 @@ _**Note:** An on-demand video version will be available shortly_
 * [Dynamics 365 Customer Insights Community Forum](https://aka.ms/CIForums)
 * [Dynamics 365 Customer Insights Blog](https://aka.ms/CIBlog)
 
-
-## Practice Maturity Model
-
-* Coming Soon
 
    
