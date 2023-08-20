@@ -37,11 +37,12 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
 #### Building a Demo. Instance
 Use these steps to build a demo instance; free for one month
 
-1. [Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
-2. [Connect Azure Active Directory (Azure AD) Data to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
-3. [Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)
+1. [Microsoft Sentinel All In One](https://aka.ms/SentinelAllInOne) - Speedi up Microsoft Sentinel deployment and initial configuration tasks in few clicks.
+2. [Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
+3. [Connect Azure Active Directory (Azure AD) Data to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
+4. [Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)
    * Microsoft Sentinel To-Go is an open source project developed to expedite the deployment of a Microsoft Sentinel lab along with other resources for research purposes. (i.e., more "Dummy Data")
-4. [Ingest Sample CEF Data into Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-sample-cef-data-into-azure-sentinel/ba-p/1064158)
+5. [Ingest Sample CEF Data into Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-sample-cef-data-into-azure-sentinel/ba-p/1064158)
    * Sample Data CEF
 6. [New Ingestion SampleData-as-a-Service Solution - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-ingestion-sampledata-as-a-service-solution-for-a-great-demos/ba-p/3598500)
 
