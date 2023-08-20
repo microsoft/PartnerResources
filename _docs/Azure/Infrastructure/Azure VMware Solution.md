@@ -2,7 +2,7 @@
 layout: page
 title: Azure VMware Solution (AVS)
 description: Resources for Azure VMware Solution (AVS)
-updated: 2023-06-23
+updated: 2023-08-20
 permalink: /azure/infrastructure/azure-vmware-solution
 tags: 
 - learning plan
@@ -32,7 +32,6 @@ tags:
 * [Azure VMware Solution - Service Level Agreements (SLA)](https://azure.microsoft.com/en-us/support/legal/sla/azure-vmware/v1_1/)
 * [Azure VMware Solution - Service Limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-vmware-solution-limits)
 * [Azure VMware Solution - Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-vmware/)
-* [Azure VMware Solution - Projected Total Economic Impact](https://aka.ms/AVSTEIReport)
 
 ### VMware
 * [Azure VMware Solution - VMware Official Page](https://cloud.vmware.com/azure-vmware-solution)
@@ -42,6 +41,15 @@ tags:
 
 ### NetApp
 * [Azure VMware Solution - Documentation](https://docs.netapp.com/us-en/netapp-solutions/ehc/azure/index.html)
+
+### Business Impact
+* [Azure VMware Solution - Projected Total Economic Impact](https://aka.ms/AVSTEIReport)
+* [The Business Value of Azure VMware Solution](https://aka.ms/AVSBVS) :new:
+
+## What is Azure VMware Solution?
+* [Azure VMware Solution: Simplify Your Move to the Cloud](https://www.youtube.com/watch?v=otvdGHeO5xI) :new:
+* [Bringing VMware to Azure: Overview of Azure VMware Solution](https://www.youtube.com/watch?v=VaF-f4DgK2s) :new:
+* [Azure VMware Solution: Migrate to Modernize](https://www.microsoft.com/en-us/videoplayer/embed/RW10Z02) :new:
 
 ## Skilling Resources
 ### Learning Path
@@ -121,6 +129,7 @@ tags:
 * [AVS Checklist (Azure FastTrack Team](https://aka.ms/avschecklists)
 
 ### Design Considerations
+* [Azure VMware Solution Performance Design Considerations](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-performance-design-considerations/ba-p/3903291) :new:
 * [Enable App Volume Replication for Horizon VDI on Azure VMware Solution using Azure NetApp Files](https://techcommunity.microsoft.com/t5/azure-migration-and/enable-app-volume-replication-for-horizon-vdi-on-azure-vmware/ba-p/3798178)
 * [Scenarios for AVS connectivity utilizing Private VPN Gateways and ExpressRoute for Azure Virtual WAN](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/scenarios-for-avs-connectivity-utilizing-private-vpn-gateways/ba-p/3831493)
 * [Migrate your Microsoft SQL Server workloads to Azure VMware Solution](https://techcommunity.microsoft.com/t5/azure-migration-and/migrate-your-microsoft-sql-server-workloads-to-azure-vmware/ba-p/3776447)
