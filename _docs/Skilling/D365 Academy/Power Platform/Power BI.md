@@ -2,7 +2,7 @@
 layout: page
 title: Modern Analytics Power BI
 description: Resources for Modern Analytics with Power BI
-updated: 2023-02-14
+updated: 2023-08-20
 permalink: /skilling/d365-academy/business-applications/power-platform/power-bi
 tags:
 - learning plan
