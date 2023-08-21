@@ -16,7 +16,6 @@ tags:
 ## Fundamentals
 
 * [Get started with Dynamics 365 Supply Chain Management](https://learn.microsoft.com/en-us/training/modules/get-started-supply-chain-management-dyn365-supply-chain-mgmt/) (Self-Paced) (1 hr 49 min)
-* [Automate and streamline your supply chain with Dynamics 365 Supply Chain Management](https://www.youtube.com/watch?v=i9HpWkKZtuk) (Self-Paced) (4 Minutes)
 
 ## Associate
 
