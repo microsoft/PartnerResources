@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Core
-sorttitle: 00 D365 F&O Readiness Resources - Core
 description: Resources for Dynamics 365 Core
 updated: 2023-08-21
 permalink: /skilling/d365-academy/business-applications/finance-and-operations/core

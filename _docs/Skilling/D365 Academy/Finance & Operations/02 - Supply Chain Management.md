@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Supply Chain Management
-sorttitle: 02 D365 F&O Readiness Resources - SCM
 description: Resources for Supply Chain Management
 updated: 2023-08-21
 permalink: /skilling/d365-academy/business-applications/finance-and-operations/supply-chain-management

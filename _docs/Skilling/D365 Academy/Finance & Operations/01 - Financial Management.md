@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Financial Management
-sorttitle: 01 D365 F&O Readiness Resources - Financial Management
 description: Resources for Financial Management
 updated: 2023-08-21
 permalink: /skilling/d365-academy/business-applications/finance-and-operations/financial-management
