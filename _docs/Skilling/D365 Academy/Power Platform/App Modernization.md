@@ -2,7 +2,7 @@
 layout: page
 title: Power Platform App Modernization
 description: Resources for Power Platform App Modernization
-updated: 2023-03-28
+updated: 2023-08-19
 permalink: /skilling/d365-academy/business-applications/power-platform/app-modernization
 tags:
 - learning plan
