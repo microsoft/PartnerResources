@@ -2,7 +2,7 @@
 layout: page
 title: Power Platform
 description: Resources for Power Platform
-updated: 2023-03-08
+updated: 2023-08-20
 permalink: /skilling/d365-academy/business-applications/power-platform/power-platform-learning-plan
 tags:
 - learning plan
@@ -14,24 +14,12 @@ tags:
 
 Below you will find content to assist in upskilling on Microsoft Power Platform. Content is broken down as follows:
 
-* Fundamentals, Associate, Expert, Specialist: content categorized in increase levels of complexity
-* Certifications: relevant Microsoft exams or certifications
-* Resources: roadmap, whitepapers, blogs, etc.
-* Community resources: user groups, events, blogs
-
-Additionally, some content may be mared with one or more icons:
-
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
-
-TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
-
-Keeping Up
-{ Optional for new plans. Add latest updates, news, information; items here should be repeated below and are included here as a lightweight way to see what's new in the plan }
-
 ## Keeping Up
 
-* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners.  Release wave 1 covers features releasing from April through September.  Release wave 2 covers features releasing from October through March.
+
+* <a href="https://docs.microsoft.com/en-us/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans </a>
+* <a href="https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/" target="_blank">Power Apps with Copilot </a>
 * [Renew your cert](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/is-your-certification-expiring-soon-renew-it-for-free-today/ba-p/2150405) (Self-Paced) (On-going)
 
 ## Fundamentals
