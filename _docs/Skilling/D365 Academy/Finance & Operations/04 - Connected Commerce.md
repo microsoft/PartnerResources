@@ -2,7 +2,7 @@
 layout: page
 title: Connected Commerce
 description: Resources for Connected Commerce
-updated: 2022-08-14
+updated: 2022-08-21
 permalink: /skilling/d365-academy/business-applications/finance-and-operations/connected-commerce
 tags:
 - learning plan

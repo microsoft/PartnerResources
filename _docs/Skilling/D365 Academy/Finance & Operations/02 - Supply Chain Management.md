@@ -2,7 +2,7 @@
 layout: page
 title: Supply Chain Management
 description: Resources for Supply Chain Management
-updated: 2023-08-12
+updated: 2023-08-21
 permalink: /skilling/d365-academy/business-applications/finance-and-operations/supply-chain-management
 tags:
 - learning plan

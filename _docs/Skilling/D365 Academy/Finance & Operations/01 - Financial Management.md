@@ -2,7 +2,7 @@
 layout: page
 title: Financial Management
 description: Resources for Financial Management
-updated: 2023-08-11
+updated: 2023-08-21
 permalink: /skilling/d365-academy/business-applications/finance-and-operations/financial-management
 tags:
 - learning plan

@@ -2,7 +2,7 @@
 layout: page
 title: Core
 description: Resources for Dynamics 365 Core
-updated: 2023-08-10
+updated: 2023-08-21
 permalink: /skilling/d365-academy/business-applications/finance-and-operations/core
 tags:
 - learning plan
