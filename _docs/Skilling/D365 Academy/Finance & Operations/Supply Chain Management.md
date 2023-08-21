@@ -15,21 +15,22 @@ tags:
 
 ## Fundamentals
 
+* [Get started with Dynamics 365 Supply Chain Management](https://learn.microsoft.com/en-us/training/modules/get-started-supply-chain-management-dyn365-supply-chain-mgmt/) (Self-Paced) (1 hr 49 min)
 * [Automate and streamline your supply chain with Dynamics 365 Supply Chain Management](https://www.youtube.com/watch?v=i9HpWkKZtuk) (Self-Paced) (4 Minutes)
 
 ## Associate
 
-* [Configure and manage procurement and vendors in Dynamics 365 Supply Chain Management](https://docs.microsoft.com/en-us/learn/paths/configure-manage-procurement-vendors-dyn365-supply-chain-mgmt/) (Self-Paced) (14 Hours)
-* [Configure and manage products and inventory in Dynamics 365 Supply Chain Management](https://docs.microsoft.com/en-us/learn/paths/configure-manage-products-inventory-dyn365-supply-chain-mgmt/) (Self-Paced) (14 Hours)
-* [Configure and manage sales, and customers in Dynamics 365 Supply Chain Management](https://docs.microsoft.com/en-us/learn/paths/configure-manage-sales-customers-dyn365-supply-chain-mgmt/) (Self-Paced) (7 Hours)
-* [Configure and work with transportation management in Dynamics 365 Supply Chain Management](https://docs.microsoft.com/en-us/learn/paths/configure-work-transportation-mgmt-dyn365-supply-chain-mgmt/) (Self-Paced) (3 Hours)
-* [Configure and work with warehouse management in Dynamics 365 Supply Chain Management](https://docs.microsoft.com/en-us/learn/paths/configure-work-warehouse-management-dyn365-supply-chain-mgmt/) (Self-Paced) (8 Hours)
-* [Dynamics 365 Supply Chain Management roadmap and strategy](https://www.youtube.com/watch?v=sTHIkGxiAvM) (Self-Paced) (1 Hour)
-* [Microsoft Dynamics 365 for Finance and Operations: Supply Chain Management](https://www.youtube.com/watch?v=zbbSUpZaz0k) (Self-Paced) (1 Hour)
+* [Configure and manage products and inventory in Dynamics 365 Supply Chain Management](https://docs.microsoft.com/en-us/learn/paths/configure-manage-products-inventory-dyn365-supply-chain-mgmt/) (Self-Paced) (11 hr 49 min)
+* [Configure and manage procurement and vendors in Dynamics 365 Supply Chain Management](https://docs.microsoft.com/en-us/learn/paths/configure-manage-procurement-vendors-dyn365-supply-chain-mgmt/) (Self-Paced) (14 hr 6 min)
+* [Configure and manage sales, and customers in Dynamics 365 Supply Chain Management](https://docs.microsoft.com/en-us/learn/paths/configure-manage-sales-customers-dyn365-supply-chain-mgmt/) (Self-Paced) (9 hr 43 min)
+* [Master planning in Dynamics 365 Supply Chain Management](https://learn.microsoft.com/en-us/training/paths/master-planning-supply-chain-management/) (Self-Paced) (8 hr 15 min)
+* [Work with Asset Management for Dynamics 365 Supply Chain Management](https://learn.microsoft.com/en-us/training/paths/work-asset-management-dyn365-supply-chain-mgmt/) (Self-Paced) (13 hr 12 min)
 
 ## Expert
-
-* [Microsoft Dynamics 365 for Finance and Operations: Warehouse management deep dive](https://www.youtube.com/watch?v=-FIkrEV7OaU) (Self-Paced) (1 Hour)
+* [Use warehouse management in manufacturing in Dynamics 365 Supply Chain Management](https://learn.microsoft.com/en-us/training/paths/use-warehouse-manufacturing-dyn365-supply-chain-mgmt/) (Self-Paced) (10 hr 4 min)
+* [Configure and work with transportation management in Dynamics 365 Supply Chain Management](https://docs.microsoft.com/en-us/learn/paths/configure-work-transportation-mgmt-dyn365-supply-chain-mgmt/) (Self-Paced) (1 hr 43 min)
+* [Work with Inventory Visibility in Dynamics 365 Supply Chain Management](https://learn.microsoft.com/en-us/training/paths/work-with-inventory-visibility/) (Self-Paced) (3 hr 36 min)
+* [Configure Asset Management for Dynamics 365 Supply Chain Management](https://learn.microsoft.com/en-us/training/paths/configure-asset-management-dyn365-supply-chain-mgmt/) (Self-Paced) (7 hr 36 min)
 
 ## Certifications
 
