@@ -34,4 +34,3 @@ tags:
 ## Certifications
 
 * [Exam MB-330: Microsoft Dynamics 365 Supply Chain Management](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330) (Self-Paced)
-* [MB-330: Microsoft Dynamics 365 Supply Chain Management Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-330-microsoft-dynamics-365-supply-chain-management#/) (Self-Paced) (10 Hours)
