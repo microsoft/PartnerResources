@@ -2,7 +2,7 @@
 layout: page
 title: Core
 description: Resources for Dynamics 365 Core
-updated: 2021-12-01
+updated: 2023-08-10
 permalink: /skilling/d365-academy/business-applications/finance-and-operations/core
 tags:
 - learning plan
@@ -32,7 +32,9 @@ tags:
 * [Migrate data and go live with finance and operations apps](https://learn.microsoft.com/en-us/training/paths/migrate-data-go-live-finance-operations/) (Self-Paced) (5 hr 2 min)
 
 ## Expert
-
+* [Introduction to developing with finance and operations apps](https://learn.microsoft.com/en-us/training/paths/introduction-develop-finance-operations/) (Self-Paced) (9 hr 4 min)
+* [Extend finance and operations apps](https://learn.microsoft.com/en-us/training/paths/extending-finance-operations/) (Self-Paced) (3 hr 33 min)
+* [Connect to finance and operations apps](https://learn.microsoft.com/en-us/training/paths/connect-finance-operations/) (Self-Paced) (3 hr 33 min)
 * [Dynamics 365 solution architecture best practices](https://learn.microsoft.com/en-us/training/paths/dynamics-365-solution-architecture-best-practices/) (Self-Paced) (6 hr 46 min)
 * [Integrate finance and operations apps with Microsoft Power Platform](https://learn.microsoft.com/en-us/training/paths/integrate-finance-operations-apps-power-platform/) (Self-Paced) (6 hr 5 min)
 * [Configure and work with analytics and reporting in Finance and Operations apps](https://docs.microsoft.com/en-us/learn/paths/configure-analytics-reporting-finance-operations/) (Self-Paced) (2 hr 14 min)

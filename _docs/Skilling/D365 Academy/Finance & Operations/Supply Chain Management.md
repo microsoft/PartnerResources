@@ -2,7 +2,7 @@
 layout: page
 title: Supply Chain Management
 description: Resources for Supply Chain Management
-updated: 2021-12-01
+updated: 2023-08-12
 permalink: /skilling/d365-academy/business-applications/finance-and-operations/supply-chain-management
 tags:
 - learning plan
@@ -29,6 +29,7 @@ tags:
 * [Use warehouse management in manufacturing in Dynamics 365 Supply Chain Management](https://learn.microsoft.com/en-us/training/paths/use-warehouse-manufacturing-dyn365-supply-chain-mgmt/) (Self-Paced) (10 hr 4 min)
 * [Configure and work with transportation management in Dynamics 365 Supply Chain Management](https://docs.microsoft.com/en-us/learn/paths/configure-work-transportation-mgmt-dyn365-supply-chain-mgmt/) (Self-Paced) (1 hr 43 min)
 * [Work with Inventory Visibility in Dynamics 365 Supply Chain Management](https://learn.microsoft.com/en-us/training/paths/work-with-inventory-visibility/) (Self-Paced) (3 hr 36 min)
+* [Set up Dynamics 365 Intelligent Order Management](https://learn.microsoft.com/en-us/training/paths/configure-intelligent-order-management/) (Self-Paced) (5 hr 9 min)
 * [Configure Asset Management for Dynamics 365 Supply Chain Management](https://learn.microsoft.com/en-us/training/paths/configure-asset-management-dyn365-supply-chain-mgmt/) (Self-Paced) (7 hr 36 min)
 
 ## Certifications
