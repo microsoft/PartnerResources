@@ -8,7 +8,7 @@ showbreadcrumb: true
 ---
 {% include_relative header.md %}
 
-Welcome to the Dynamics 365 Learning Plans and Academy pages, your comprehensive deep dive into everything Dynamics 365 and Power Platform. The Dynamics 365 Learning Plan and Academy adopts a service-oriented organizational approach, simplifying your training for Dynamics apps and Power Platform.
+Welcome to the Dynamics 365 Learning Plans and Academy pages, your comprehensive deep dive into everything Dynamics 365 and Power Platform. The Dynamics 365 Learning Plan and Academy adopts a service-oriented organizational approach, simplifying your training for Dynamics 365 and Power Platform.
 
 Are you new to Business Applications looking to get started? Are you a seasoned professional looking to embrace the opportunities of Business Applications? Unlock your potential with continuous learning through our pages. 
 
