@@ -34,6 +34,8 @@ Copilot in Dynamics 365 Customer Service empowers agents to deliver exceptional 
 ## **Azure OpenAI Service model** 
 The Azure OpenAI Service generative text capability is a powerful tool in AI Builder. It allows you to create custom AI capabilities quickly and easily for natural language processing (NLP). This capability enables you to build scenarios such as summarization, information extraction, autogenerate response, classification, translation, and more. It also allows you to use large language models to generate new text, which can be used for a variety of purposes.
 * <a href="https://aka.ms/ai-builder/gpt/docs" target="_blank">Azure OpenAI Service|Documentation </a> 
-* <a href="https://aka.ms/ai-builder/gpt/video" target="_blank">Azure OpenAI Service|Video </a> 
+* <a href="https://aka.ms/ai-builder/gpt/video" target="_blank">Azure OpenAI Service|Video </a>
+
+  ![Copilot Roadmap]({{ site.baseurl }}/assets/copilot/CopilotRoadmap.png)
 
   
