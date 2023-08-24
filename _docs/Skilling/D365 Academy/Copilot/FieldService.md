@@ -34,4 +34,4 @@ The Azure OpenAI Service generative text capability is a powerful tool in AI Bui
 * <a href="https://aka.ms/ai-builder/gpt/docs" target="_blank">Azure OpenAI Service|Documentation </a> 
 * <a href="https://aka.ms/ai-builder/gpt/video" target="_blank">Azure OpenAI Service|Video </a> 
 
-![Copilot Roadmap]({{ site.baseurl }}/assets/copilot/CopilotRoadmap.png)
+![Copilot Roadmap]({{ site.baseurl }}/assets/Copilot/CopilotRoadmap.png)
