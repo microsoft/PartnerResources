@@ -22,7 +22,7 @@ Are you pursuing a specialization? Explore our **[Security Specializations](/Par
 
 **Explore our new resources on [Microsoft Security Copilot](/PartnerResources/security/microsoft-security-academy/microsoft-security-copilot) and remain up-to-date with [Microsoft Security news and highlights](https://learn.microsoft.com/en-us/security/engineering/news-and-highlights).**
 
-## Organization
+
 ![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)
 
 

@@ -23,7 +23,7 @@ In addition to the modules, the Microsoft Teams Academy's **[Resources](/Partner
 
 These resources are created and delivered by architects across the Global Partner Solutions (GPS) team and beyond, who are experts in their respective fields.
 
-## Organization
+
 ![Teams Organizational Chart]({{ site.baseurl }}/assets/msa/Teams Organization Chart.png)
 
 ## Start Your Journey and Stay Connected
