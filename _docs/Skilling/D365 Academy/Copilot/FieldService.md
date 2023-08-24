@@ -21,6 +21,7 @@ Enable frontline workers and service managers to create, view, and manage work o
 
 ## **Fundamentals** 
 
+* <a href="https://dynamicspartners.transform.microsoft.com/solution-plays/ai-copilot" target="_blank">Decks for customer presentation</a> (Requires partner login)
 * <a href="https://www.youtube.com/watch?v=wdn5ZwymF_Y" target="_blank">Streamlining work order management with Dynamics 365 Field Service</a>
 * <a href="https://www.youtube.com/watch?v=2uw_zPOFFuk" target="_blank">New mobile experience for Dynamics 365 Field Service</a>
 * <a href="https://learn.microsoft.com/en-us/dynamics365/field-service/work-order-recap" target="_blank">Work order recap with Copilot in Field Service (preview)</a>
