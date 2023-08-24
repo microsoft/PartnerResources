@@ -21,15 +21,15 @@ Copilot in Dynamics 365 Customer Service empowers agents to deliver exceptional 
 ## **Fundamentals** 
 * <a href="https://www.microsoft.com/en-us/ai/dynamics-365-ai" target="_blank">Dynamics 365 Copilot website</a>
 
-* <a href="https://www.microsoft.com/en-us/ai/dynamics-365-ai" target="_blank">Setting up demo environment</a>
-* <a href="https://www.microsoft.com/en-us/ai/dynamics-365-ai" target="_blank">Overview deck for customer presentation</a>
-* <a href="https://www.microsoft.com/en-us/ai/dynamics-365-ai" target="_blank">Draft emails using Copilot feature</a>
-* <a href="https://www.microsoft.com/en-us/ai/dynamics-365-ai" target="_blank">Ask a question using Copilot feature</a>
-* <a href="https://www.microsoft.com/en-us/ai/dynamics-365-ai" target="_blank">Draft a chat response using Copilot</a>
-* <a href="https://www.microsoft.com/en-us/ai/dynamics-365-ai" target="_blank">Summarize cases using Copilot</a>
-* <a href="https://www.microsoft.com/en-us/ai/dynamics-365-ai" target="_blank">Summarize conversations using Copilot</a>
-* <a href="https://www.microsoft.com/en-us/ai/dynamics-365-ai" target="_blank">View analytics for Copilot impact</a>
-* <a href="https://www.microsoft.com/en-us/ai/dynamics-365-ai" target="_blank">Configure Copilot features for custom case forms and custom apps</a>
+* <a href="https://learn.microsoft.com/en-us/dynamics365/customer-service/configure-copilot-features" target="_blank">Setting up demo environment</a>
+* <a href="https://dynamicspartners.transform.microsoft.com/solution-plays/ai-copilot" target="_blank">Decks for customer presentation</a> (Requires partner login)
+* <a href="https://learn.microsoft.com/en-us/dynamics365/customer-service/use-copilot-features#draft-emails" target="_blank">Draft emails using Copilot feature</a>
+* <a href="https://learn.microsoft.com/en-us/dynamics365/customer-service/use-copilot-features#ask-a-question" target="_blank">Ask a question using Copilot feature</a>
+* <a href="https://learn.microsoft.com/en-us/dynamics365/customer-service/use-copilot-features#draft-a-chat-response" target="_blank">Draft a chat response using Copilot</a>
+* <a href="https://learn.microsoft.com/en-us/dynamics365/customer-service/use-copilot-features#summarize-cases" target="_blank">Summarize cases using Copilot</a>
+* <a href="https://learn.microsoft.com/en-us/dynamics365/customer-service/use-copilot-features#summarize-conversations" target="_blank">Summarize conversations using Copilot</a>
+* <a href="https://learn.microsoft.com/en-us/dynamics365/customer-service/copilot-analytics-report" target="_blank">View analytics for Copilot impact</a>
+* <a href="https://learn.microsoft.com/en-us/dynamics365/customer-service/copilot-powerapps-settings" target="_blank">Configure Copilot features for custom case forms and custom apps</a>
 
 ## **Azure OpenAI Service model** 
 The Azure OpenAI Service generative text capability is a powerful tool in AI Builder. It allows you to create custom AI capabilities quickly and easily for natural language processing (NLP). This capability enables you to build scenarios such as summarization, information extraction, autogenerate response, classification, translation, and more. It also allows you to use large language models to generate new text, which can be used for a variety of purposes.
