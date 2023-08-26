@@ -17,13 +17,17 @@ tags:
 
 Welcome to the Developer Velocity Academy - GitHub Copilot.
 
-[description / overview information on academy, nav structure, etc.]
+## Overview
 
-Can use includes for items like navigation:
+GitHub Copilot is an AI-powered coding assistant developed by GitHub in collaboration with OpenAI. It integrates with popular code editors to provide real-time code suggestions, autocompletions, and even entire code blocks based on the context of the code being written. By utilizing machine learning and a vast repository of code, Copilot aims to enhance developer productivity and streamline the coding process.
+
+## Useful Links
+
+- [GitHub Copilot home](https://resources.github.com/copilot-for-business/)
+- [Simplified Code Refinement and Debugging with GitHub Copilot Chat](https://devblogs.microsoft.com/visualstudio/simplified-code-refinement-and-debugging-with-github-copilot-chat/)
+- [Official documentation](https://docs.github.com/copilot)
 
 {% include_relative pagenav.md %}
-
-To show GitHub Copilot content in this academy:
 
 {% include series.md 
     includetags="developer velocity academy|academy content|github copilot" 

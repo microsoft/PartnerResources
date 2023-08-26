@@ -17,13 +17,18 @@ tags:
 
 Welcome to the Developer Velocity Academy - DevOps.
 
-[description / overview information on academy, nav structure, etc.]
+## Overview
 
-Can use includes for items like navigation:
+DevOps is a software development approach that combines development (Dev) and IT operations (Ops) to streamline and automate the entire software delivery lifecycle. It focuses on breaking down traditional silos between development and operations teams, emphasizing collaboration, continuous integration, continuous delivery, and continuous monitoring. By fostering a culture of shared responsibility and efficient processes, DevOps aims to accelerate software development, enhance its quality, and enable rapid and reliable releases.
+
+## Useful Links
+
+- [GitHub](https://github.com/)
+- [GitHub documentation](https://docs.github.com/)
+- [Azure DevOps](https://dev.azure.com)
+- [Azure DevOps documentation](https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops)
 
 {% include_relative pagenav.md %}
-
-To show devops content in this academy:
 
 {% include series.md 
     includetags="developer velocity academy|academy content|devops" 
