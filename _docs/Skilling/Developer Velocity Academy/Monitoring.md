@@ -43,6 +43,6 @@ Azure Monitor is a comprehensive monitoring and management service offered by Mi
 {% include series.md 
     includetags="developer velocity academy|academy content|monitoring" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="desc" showdate="false" 
+    sortfield="sorttitle" sortorder="asc" showdate="false" 
     showtags="true" visualstyle="normal" 
 %}
