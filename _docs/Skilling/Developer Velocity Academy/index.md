@@ -30,20 +30,13 @@ You can read more [here](https://davidgiard.com/increasing-developer-velocity)
 
 ## Useful Links
 
-- https://azure.microsoft.com/en-us/solutions/developer-velocity/
-- https://global.hitachi-solutions.com/blog/developer-velocity/
-- https://learn.microsoft.com/en-us/shows/azure-videos/what-is-developer-velocity
-- https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/yes-you-can-measure-software-developer-productivity
-- https://azure.microsoft.com/en-us/blog/developer-velocity-key-lessons-from-digital-leaders-on-software-excellence-for-2021-and-beyond/
-- https://azure.microsoft.com/en-us/blog/developer-velocity-empowering-developers-to-fuel-business-performance/
-- https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/developer-velocity-how-software-excellence-fuels-business-performance
-- https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/unleashing-developer-productivity-with-generative-ai
-- https://dora.dev/
-- https://medium.com/java-and-beyond/measuring-software-development-efficiency-a-study-of-dora-metrics-fe154ce8e841
-
-{% include series.md 
-    includetags="developer velocity academy|academy content" 
-    includemethod="all" 
-    sortfield="sorttitle" sortorder="desc" showdate="false" 
-    showtags="true" visualstyle="normal" 
-%}
+- [Microsoft Developer Velocity home](https://azure.microsoft.com/en-us/solutions/developer-velocity/)
+- [Developer Velocity: Key lessons from digital leaders on software excellence for 2021 and beyond](https://azure.microsoft.com/en-us/blog/developer-velocity-key-lessons-from-digital-leaders-on-software-excellence-for-2021-and-beyond/)
+- [Developer Velocity: Empowering developers to fuel business performance](https://azure.microsoft.com/en-us/blog/developer-velocity-empowering-developers-to-fuel-business-performance/)
+- [Video: What is Developer Velocity?](https://learn.microsoft.com/en-us/shows/azure-videos/what-is-developer-velocity)
+- [The Importance of Developer Velocity (Hitachi Solutions)](https://global.hitachi-solutions.com/blog/developer-velocity/)
+- [Yes, you can measure software developer productivity (McKinsey & Company)](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/yes-you-can-measure-software-developer-productivity)
+- [Developer Velocity: How software excellence fuels business performance (McKinsey & Company)](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/developer-velocity-how-software-excellence-fuels-business-performance)
+- [Unleashing developer productivity with generative AI (McKinsey & Company)](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/unleashing-developer-productivity-with-generative-ai)
+- [DevOps Research and Assessment (DORA)](https://dora.dev/)
+- [DevOps Research and Assessment](https://medium.com/java-and-beyond/measuring-software-development-efficiency-a-study-of-dora-metrics-fe154ce8e841)
