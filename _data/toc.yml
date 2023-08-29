@@ -324,6 +324,6 @@
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
           tag: vignettes
-    - title: "Partner Showcase"
-      url: "skilling/microsoft-partner-showcase"
-      tag: partnershowcase
+- title: "Partner Showcase"
+  url: "skilling/microsoft-partner-showcase"
+  tag: partnershowcase
