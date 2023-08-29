@@ -3,7 +3,7 @@ layout: page
 title: Cloud Security - Microsoft Defender for Cloud Academy
 description: Microsoft Security Academy Cloud Security.
 permalink: /skilling/microsoft-security-academy/defender-academy
-updated: 2023-07-21
+updated: 2023-08-30
 showbreadcrumb: true
 tags: 
 - academy content
@@ -30,28 +30,6 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
 
 
 ### Learning Path
-See the Microsoft Defender for Cloud Resources:
-
-{% include resources.md 
-    includetags="defender for cloud resources"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
-See our new Security Copilot Resources:
-
-{% include resources.md 
-    includetags="security copilot"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
 See relevant security certifications:
 
 {% include resources.md 

@@ -3,7 +3,7 @@ layout: page
 title: SIEM & XDR - Microsoft 365 Defender Academy
 description: Microsoft Security Academy SIEM & XDR.
 permalink: /skilling/microsoft-security-academy/365d-academy
-updated: 2023-08-08
+updated: 2023-08-30
 showbreadcrumb: true
 Tags:
 - academy content
@@ -31,28 +31,6 @@ Welcome to the Microsoft 365 Defender Academy. Explore Microsoft 365 Defender vi
 
 
 ### Learning Path
-See the Microsoft 365 Defender Resources:
-
-{% include resources.md 
-    includetags="365 defender resources"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
-See our new Security Copilot Resources:
-
-{% include resources.md 
-    includetags="security copilot"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
 See relevant security certifications:
 
 {% include resources.md 

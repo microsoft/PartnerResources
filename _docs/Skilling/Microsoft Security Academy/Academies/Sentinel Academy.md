@@ -3,7 +3,7 @@ layout: page
 title: SIEM & XDR - Microsoft Sentinel Academy
 description: Microsoft Security Academy SIEM & XDR.
 permalink: /skilling/microsoft-security-academy/sentinel-academy
-updated: 2023-07-21
+updated: 2023-08-30
 showbreadcrumb: true
 Tags:
 - academy content
@@ -33,17 +33,6 @@ See the Microsoft Sentinel Readiness Resources:
 
 {% include resources.md 
     includetags="sentinel resources"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
-See our new Security Copilot Resources:
-
-{% include resources.md 
-    includetags="security copilot"
     includemethod="all" 
     showtags="false" 
     showdate="true" 

@@ -18,9 +18,9 @@ Are you a seasoned professional looking to elevate your cybersecurity skills? St
 
 In addition to the modules, the Microsoft Security Academy's **[Resources](/PartnerResources/skilling/microsoft-security-academy/resources)** complement the **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)** and enable you to explore cybersecurity concepts in greater detail, stay up-to-date with developments, and gain practical insights to apply in real-world scenarios.
 
-Are you pursuing a specialization? Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
+**Explore our new resources for [Microsoft Security Copilot](/PartnerResources/security/microsoft-security-academy/microsoft-security-copilot) and common [Microsoft Security Copilot Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot-extra).**
 
-**Explore our new resources on [Microsoft Security Copilot](/PartnerResources/security/microsoft-security-academy/microsoft-security-copilot) and remain up-to-date with [Microsoft Security news and highlights](https://learn.microsoft.com/en-us/security/engineering/news-and-highlights).**
+Are you pursuing a specialization? Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
 
 
 ![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)
