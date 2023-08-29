@@ -13,8 +13,6 @@ tags:
 
 ## Microsoft Security Academy
 
-> This page is under continuous development. Please check regularly for updates.
-
 ### Are you pursuing a specialization?
 Welcome to specializations! Explore our **[Security Specializations](https://partner.microsoft.com/en-us/partnership/specialization#tab-6)** to demonstrate your technical expertise. These resources specifically cater to those who are wanting to meet specialization requirements or apply.
 

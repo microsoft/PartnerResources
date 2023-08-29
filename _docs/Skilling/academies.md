@@ -8,150 +8,105 @@ navheadersonly: true
 
 # Academies
 
-Welcome to the Academy Hub, our central location for all academies. Each academy is designed around a technology or solution space -- like analytics or Microsoft Teams. They contain sessions, labs or demos, and other material relevant to the subject.
+Welcome to **Academies!** Each Academy is crafted for a specific technology or solution, such as AI/ML, security, and analytics. Within each academy, you'll find a collection of 
+expert-level sessions, demonstrations, and other critical resources centered on the chosen topic.
 
-The latest content across all academies:
+The latest content across **all Academies**:
 
 {% include series.md 
     includetags="academy content|showcase content" 
     includemethod="any" 
     sortfield="updated" sortorder="desc" showdate="true" 
-    showtags="true" visualstyle="tiny" limit="10" 
+    showtags="true" visualstyle="tiny" limit="3" 
 %}
 
-Be sure to check out the Microsoft Partner Showcase! The Partner Showcase features technical conversatons with Microsoft Partners and their solutions. Join Microsoft CSAs and Partners from around the world to get their perspectives on the tech industry and go hands-on with their solutions.
+Explore the **Microsoft Partner Showcase!** The Partner Showcase features technical discussions with Microsoft Partners and their innovative solutions. Join Microsoft CSAs and Partners from around the world to get their perspectives on the tech industry and go hands-on with their solutions.
 
 {% include series.md 
     includetags="microsoft partner showcase|showcase content" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit="10"  
+    sortfield="updated" sortorder="desc" showdate="true" limit="3"  
     visualstyle="tiny" 
 %}
 
 <hr/>
 
 ### [AI/ML Academy](/PartnerResources/skilling/ai-ml-academy)
-The AI/ML Academy features content in 5 areas: Prebuilt AI, applied AI, Build Your Own AI, ML Platform, and ML Engineering in Production (MLOPS). Each section dives into different aspects of AI/ML solutions, leveraging many Azure AI services like Azure Cognitive Services, Azure Machine Learning, and DevOps integration.
+Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, each diving into different aspects of AI/ML solutions, leveraging Azure AI services like Azure Cognitive Services, Azure Machine Learning, and DevOps integration. Our latest content:
 
 {% include series.md 
     includetags="ai & ml academy|academy content" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
+    sortfield="updated" sortorder="desc" showdate="true" limit=3 
     visualstyle="tiny"
 %}
 
 <hr/>
 
 ### [Azure Data Academy](/PartnerResources/skilling/azure-data-academy)
-Skilling on all database technologies on Azure, including SQL Server, MySQL, and PostgreSQL. While the Modern Analytics Academy focuses mainly on the analytical side of data engineering, Azure Data Academy focuses more on the operational/transactional side. Most recent content:
+Explore skilling on all database technologies on Azure, encompassing SQL Server, MySQL, and PostgreSQL. While the primary focus of the Modern Analytics Academy is analytical data engineering, the Azure Data Academy directs its focus toward more operational and transactional aspects. Our latest content:
 
 {% include series.md 
     includetags="azure data academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
+    sortfield="updated" sortorder="desc" showdate="true" limit=3
     visualstyle="tiny"
 %}
 
 <hr/>
 
 ### [Data Governance Academy](/PartnerResources/skilling/data-governance-academy)
-Sessions on data governance and Microsoft Purview. Topics include data catalog, lineage management, and integration with third party solutions. Most recent content:
+Engage in deep data governance and Microsoft Purview discussions, covering data cataloging and lineage management to seamless integration with third-party solutions. Here's a glimpse of our latest content:
 
 {% include series.md 
     includetags="data governance academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
+    sortfield="updated" sortorder="desc" showdate="true" limit=3
     visualstyle="tiny"
 %}
 
 <hr/>
 
-### [D365 Business Central Pre-Sales Academy](/PartnerResources/skilling/business-central-academy)
-The Business Central Pre-Sales Academy is a series of presentations combined with hands-on materials designed to upskill individuals who are responsible for preparing and delivering Business Central software demonstrations. Most recent content:
+### [Dynamics 365](/PartnerResources/skilling/d365-academy/)
+Welcome to the Dynamics 365 Academy, your comprehensive deep dive into everything Dynamics and Power Platform. The Dynamics 365 Academy adopts a service-oriented organizational approach, simplifying Dynamics and Power Platform’s comprehensive domain. Most recent content:
 
 {% include series.md 
-    includetags="business central academy" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
-    visualstyle="tiny"
-%}
-
-<hr/>
-
-### [D365 Commerce Academy](/PartnerResources/skilling/d365-commerce-academy/)
-The D365 Commerce Academy is currently under development. Most recent content:
-
-{% include series.md 
-    includetags="d365 commerce academy|academy content" 
-    includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
-    visualstyle="tiny"
-%}
-
-<hr/>
-
-### [D365 Marketing Academy](/PartnerResources/skilling/d365-marketing-academy)
-The Dynamics 365 Marketing Academy is an on-demand version based on the in-person, Dynamics 365 Marketing in a Day workshop. The series of videos is designed as a “follow the trainer” with your demo environment. Most recent content:
-
-{% include series.md 
-    includetags="d365 marketing academy|academy content" 
-    includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
-    visualstyle="tiny"
-%}
-
-<hr/>
-
-### [D365 Pre-Sales Academy](/PartnerResources/skilling/d365-sales-academy)
-The Dynamics 365 Pre-Sales Academy is a series of presentations combined with hands-on materials designed to upskill individuals who are responsible for preparing and delivering D365 Sales software demonstrations. Demos and the accompanying hands-on labs cover topics which integrate Dynamics 365 Sales to Microsoft Outlook, Microsoft Excel, Microsoft Word, Mobile experience, Power Platform (PowerApps, Power Automate, Power BI and Power Virtual Agent) and Business Central. Most recent content:
-
-{% include series.md 
-    includetags="d365 sales academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
+    includetags="d365 academy" includemethod="all" 
+    sortfield="updated" sortorder="desc" showdate="true" limit=3
     visualstyle="tiny"
 %}
 
 <hr/>
 
 ### [Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)
-The Microsoft Security Academy is organized into five primary categories (Cloud Security, Identity and Access, Endpoint Security, SIEM & XDR, and Risk Management & Privacy), all of which include academies incorporating video sessions, demonstrations, learning paths, certifications, and other related materials. Most recent content:
+Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources. The Microsoft Security Academy is organized into five primary categories (SIEM & XDR, Cloud Security, Identity and Access, Endpoint Security, and Data Security and Governance). Our latest content:
 
 {% include series.md 
     includetags="microsoft security academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
+    sortfield="updated" sortorder="desc" showdate="true" limit=3
     visualstyle="tiny"
 %}
 
 <hr/>
 
-### [Microsoft Teams Academy](/PartnerResources/skilling/microsoft-security-academy)
-The Teams Academy focuses on producing and publishing videos on Microsoft Teams designed to enable our Partners to deep dive into everything Teams. Most recent content:
+### [Microsoft Teams Academy](/PartnerResources/skilling/microsoft-teams-academy)
+The Teams Academy is your comprehensive deep dive into everything Microsoft Teams, empowering our Partners to explore all aspects of the modern workplace. Our latest content
 
 {% include series.md 
     includetags="microsoft teams academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
+    sortfield="updated" sortorder="desc" showdate="true" limit=3
     visualstyle="tiny"
 %}
 
 <hr/>
 
 ### [Modern Analytics Academy](/PartnerResources/skilling/modern-analytics-academy)
-Modern analytics and data warehousing techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. Most recent content:
+Discover modern analytics and data warehousing techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. Our most recent content:
 
 {% include series.md 
     includetags="modern analytics academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
+    sortfield="updated" sortorder="desc" showdate="true" limit=3
     visualstyle="tiny"
 %}
 
 <hr/>
 
-### [Windows 365 Academy](/PartnerResources/skilling/windows-365-academy)
-The Windows 365 Academy focuses on producing and publishing videos on Microsoft Windows 365, designed to enable our Partners to deep dive into everything Cloud PC. Most recent content:
-
-{% include series.md 
-    includetags="windows 365 academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=5 
-    visualstyle="tiny"
-%}
-
-<hr/>
-
-Have a suggestion, comment, or would like to contribute? [Use our form](https://forms.office.com/r/GZwiMqB3Zg) to contact us or use the Github Issues and Discussions funcionality.
+Have a suggestion, comment, or would like to contribute? [Use our form](https://forms.office.com/r/GZwiMqB3Zg) to contact us or use the Github Issues and Discussions functionality.

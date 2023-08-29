@@ -3,7 +3,7 @@ layout: page
 title: Getting Started with the Microsoft Security Academy
 description: Want to begin or continue your security journey?
 permalink: /skilling/microsoft-security-academy/start
-updated: 2023-07-31
+updated: 2023-08-21
 showbreadcrumb: true
 tags: 
 - academy content
@@ -12,8 +12,6 @@ tags:
 ---
 
 ## Microsoft Security Academy
-
-> This page is under continuous development. Please check regularly for updates.
 
 ### Are you ready to get started?
 Welcome to cybersecurity! Browse our curated collection of resources to help you kickstart your journey. These resources specifically cater to those who are new to the field seeking to gain expertise.

@@ -4,7 +4,7 @@ layout: page
 title: Microsoft Teams Academy
 description: Microsoft Teams Academy
 permalink: /skilling/microsoft-teams-academy
-updated: 2023-08-02
+updated: 2023-08-08
 showbreadcrumb: true
 tags: 
  - microsoft teams academy
@@ -13,7 +13,7 @@ tags:
 
 # Microsoft Teams Academy
 
-> More coming soon! The Teams Academy is being updated. Please check regularly for updates.
+> More coming soon! The Teams Academy is undergoing improvements. Please check regularly for updates.
 
 Welcome to the Microsoft Teams Academy, your comprehensive deep dive into everything Microsoft Teams! The Microsoft Teams Academy embraces a service-oriented organizational approach, making the deep and broad domain of Teams more easily consumable.
 
@@ -23,7 +23,7 @@ In addition to the modules, the Microsoft Teams Academy's **[Resources](/Partner
 
 These resources are created and delivered by architects across the Global Partner Solutions (GPS) team and beyond, who are experts in their respective fields.
 
-## Organization
+
 ![Teams Organizational Chart]({{ site.baseurl }}/assets/msa/Teams Organization Chart.png)
 
 ## Start Your Journey and Stay Connected

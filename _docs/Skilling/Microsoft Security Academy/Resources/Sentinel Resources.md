@@ -37,11 +37,12 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
 #### Building a Demo. Instance
 Use these steps to build a demo instance; free for one month
 
-1. [Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
-2. [Connect Azure Active Directory (Azure AD) Data to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
-3. [Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)
+1. [Microsoft Sentinel All In One](https://aka.ms/SentinelAllInOne) - Speed up Microsoft Sentinel deployment and initial configuration tasks in a few clicks.
+2. [Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
+3. [Connect Azure Active Directory (Azure AD) Data to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
+4. [Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)
    * Microsoft Sentinel To-Go is an open source project developed to expedite the deployment of a Microsoft Sentinel lab along with other resources for research purposes. (i.e., more "Dummy Data")
-4. [Ingest Sample CEF Data into Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-sample-cef-data-into-azure-sentinel/ba-p/1064158)
+5. [Ingest Sample CEF Data into Sentinel - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-sample-cef-data-into-azure-sentinel/ba-p/1064158)
    * Sample Data CEF
 6. [New Ingestion SampleData-as-a-Service Solution - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-ingestion-sampledata-as-a-service-solution-for-a-great-demos/ba-p/3598500)
 
@@ -62,6 +63,7 @@ Use these steps to build a demo instance; free for one month
 * [Migrate to Azure Monitor Agent - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-observability-blog/migrate-to-azure-monitor-agent-for-better-security-reliability/ba-p/3609810)
 * [Azure Monitor Agent Overview - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
 * [Data Collection Rules in Azure Monitor - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview)
+* [Microsoft Sentinel Transformations Library](http://aka.ms/sentinel-transforms)
 * [Overview of the Azure Connected Machine Agent (Azure Arc) - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-arc/servers/agent-overview)
 * [Azure Monitor Agent Migration (Remove Log Analytics Agent) Lab](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Powershell%20scripts/Remove%20Log%20Analytics%20Agent%20At%20Scale)
 
@@ -82,7 +84,9 @@ Use these steps to build a demo instance; free for one month
 * [Hunting for Low & Slow Password Sprays Using Machine Learning - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-low-and-slow-password-sprays-using-machine-learning/ba-p/3592052)
 
 #### SOAR
-* [Safely Integrate Playbooks with Custom APIs with no Pre-built Logic App Connector - My Faber Security](https://myfabersecurity.com/2022/11/21/safely-integrate-playbooks-with-custom-apis-when-there-is-no-pre-built-logic-app-connector/)
+* [STAT](https://aka.ms/mstat) - The Microsoft Sentinel Triage AssistanT uses modular playbooks and a Logic App Custom Connector to simplify the process through reusable content.
+* [Sample Integrations with Azure OpenAI](https://myfabersecurity.com/2023/07/29/initial-assessment-connecting-the-dots-with-aoai/) 
+
 
 #### Fusion
 * [Advanced Multistage Attack Detection in Microsoft Sentinel - Microsoft Docs](https://learn.microsoft.com/en-us/azure/sentinel/fusion)

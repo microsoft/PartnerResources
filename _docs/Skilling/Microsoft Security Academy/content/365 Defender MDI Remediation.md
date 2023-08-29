@@ -4,7 +4,7 @@ title: New Remediation Actions in Microsoft Defender for Identity
 sorttitle: 3
 description: Explore Defender for Identity's remediation actions that target on-premises accounts.
 updated: 2023-06-07
-permalink: /skilling/microsoft-security-academy/d365-academy-mdi-remediation
+permalink: /skilling/microsoft-security-academy/365d-academy-mdi-remediation
 youtubeid: qDvmI-Y3cKY
 tags: 
 - academy content
