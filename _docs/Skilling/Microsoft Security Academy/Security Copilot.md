@@ -1,19 +1,17 @@
 ---
 layout: page
 title: Microsoft Security Copilot
-description: Resources for Microsoft Security Copilot
-updated: 2023-08-21
-permalink: /security/microsoft-security-academy/microsoft-security-copilot
-tags:
-- security
-- learning plan
+description: Are you ready for Security Copilot?
+permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
+updated: 2023-08-30
+showbreadcrumb: true
+tags: 
+- academy content
 - microsoft security academy
 - security copilot
 ---
 
 # Readiness Resources for Security Copilot
-
-> This page is under continuous development. Please check regularly for updates.
 
 ## Introduction
 
