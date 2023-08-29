@@ -89,6 +89,19 @@
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga
+    - title: "Developer Velocity Academy"
+      url: "skilling/developer-velocity-academy"
+      tag: data velocity academy
+      children:
+        - title: Monitoring
+          url: "skilling/developer-velocity-academy/monitoring"
+          tag: dva monitoring
+        - title: DevOps
+          url: "skilling/developer-velocity-academy/devops"
+          tag: dva devops
+        - title: GitHub Copilot
+          url: "skilling/developer-velocity-academy/github-copilot"
+          tag: dva github copilot
     - title: "Dynamics 365"
       url: "skilling/d365-academy"
       tag: d365 academy
@@ -311,6 +324,6 @@
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
           tag: vignettes
-    - title: "Partner Showcase"
-      url: "skilling/microsoft-partner-showcase"
-      tag: partnershowcase
+- title: "Partner Showcase"
+  url: "skilling/microsoft-partner-showcase"
+  tag: partnershowcase

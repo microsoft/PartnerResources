@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AI and Copilot and Power Automate
-description: AI and Copilot and Power Automate
+title: AI and Copilot in Power Automate
+description: AI and Copilot in Power Automate
 updated:  2023-05-31
 permalink: /skilling/d365-academy/business-applications/copilot/powerautomate
 includerelated: false
@@ -13,7 +13,7 @@ tags:
 - powerautomate
 ---
 
-# Learning Plan Resources for AI and Copilot and Power Automate
+# Learning Plan Resources for AI and Copilot in Power Automate
 
 ## **Fundamentals** 
 * <a href="https://powerautomate.microsoft.com/en-us/blog/new-microsoft-power-automate-features-to-develop-and-orchestrate-automation/" target="_blank">New Microsoft Power Automate features to develop and orchestrate automation</a> (Product Updates - May 2023)
