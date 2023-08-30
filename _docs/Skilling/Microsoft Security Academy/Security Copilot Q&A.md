@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Microsoft Security Copilot
+title: Q&A for Security Copilot
 description: Common Security Copilot Q&A.
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot-extra
 updated: 2023-08-30
@@ -27,7 +27,7 @@ If a user is unsatisfied with Security Copilot's answer, they can provide feedba
 A planner, or orchestrator, helps plan the best response to a natural language prompt/query, helping reduce hallucinations.
 
 #### Can we trust AI?
-Security Copilot is built with our [responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6). Additionally, Security Copilot uses Role-based access controls (RBAC).
+Security Copilot is built with our **[responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).** Additionally, Security Copilot uses Role-based access controls (RBAC).
 
 #### Can I build my own Security Copilot skillsets?
 Currently, **all skillsets are either built by/with Microsoft.** If you would like to build a skillset or provide input, please join the Early Access Program (EAP).
