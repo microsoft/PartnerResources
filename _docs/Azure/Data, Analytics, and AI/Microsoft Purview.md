@@ -14,7 +14,6 @@ tags:
 - purview resources
 - governance
 - modern workplace
-- security
 ---
 
 # Microsoft Purview Readiness Resources

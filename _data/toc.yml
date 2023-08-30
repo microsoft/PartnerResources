@@ -272,6 +272,13 @@
         - title: Resources
           url: "skilling/microsoft-security-academy/resources"
           tag: resources
+        - title: Security Copilot
+          url: "skilling/microsoft-security-academy/microsoft-security-copilot"
+          tag: security copilot
+          children: 
+            - title: Q&A
+              url: "skilling/microsoft-security-academy/microsoft-security-copilot-extra"
+              tag: security copilot
         - title: Specializations
           url: "skilling/microsoft-security-academy/specializations"
           tag: specializations

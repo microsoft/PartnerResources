@@ -13,7 +13,7 @@ tags:
 
 ## Microsoft Security Academy
 
-### Are you ready to get started?
+### Are you ready to get started?⏩ 
 Welcome to cybersecurity! Browse our curated collection of resources to help you kickstart your journey. These resources specifically cater to those who are new to the field seeking to gain expertise.
 
 ## Definition Cookbook

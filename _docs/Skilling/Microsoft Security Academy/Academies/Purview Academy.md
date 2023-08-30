@@ -3,7 +3,7 @@ layout: page
 title: Data Security and Governance - Microsoft Purview Academy
 description: Microsoft Security Academy Data Security and Governance.
 permalink: /skilling/microsoft-security-academy/purview-academy
-updated: 2023-07-21
+updated: 2023-08-30
 showbreadcrumb: true
 Tags:
 - academy content
@@ -39,17 +39,6 @@ See the Microsoft Purview Resources:
 
 {% include resources.md 
     includetags="purview resources"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
-See our new Security Copilot Resources:
-
-{% include resources.md 
-    includetags="security copilot"
     includemethod="all" 
     showtags="false" 
     showdate="true" 
