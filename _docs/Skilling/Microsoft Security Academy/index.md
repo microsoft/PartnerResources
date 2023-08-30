@@ -18,8 +18,6 @@ Are you a seasoned professional looking to elevate your cybersecurity skills? St
 
 In addition to the modules, the Microsoft Security Academy's **[Resources](/PartnerResources/skilling/microsoft-security-academy/resources)** complement the **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)** and enable you to explore cybersecurity concepts in greater detail, stay up-to-date with developments, and gain practical insights to apply in real-world scenarios.
 
-C:\Users\zriffle\Documents\PartnerResources\_docs\Skilling\Microsoft Security Academy\Security Copilot.md
-
 **Explore our new resources for [Microsoft Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot) and common [Microsoft Security Copilot Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot-extra).**
 
 Are you pursuing a specialization? Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
