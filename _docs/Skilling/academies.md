@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Skilling Content
+title: Academies
 permalink: /skilling/academies
 showbreadcrumb: false
 navheadersonly: true
