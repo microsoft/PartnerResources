@@ -10,7 +10,7 @@ showbreadcrumb: true
 ---
 {% include_relative header.md %}
 
-## Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources. 📚
+### Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources. 📚
 
 Want to help defend the world against threats? Cybersecurity is not just an individual effort — it's a shared responsibility. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)** and take action today.
 
