@@ -2,7 +2,7 @@
 layout: page
 title: Security Certifications
 description: Resources for Security Certifications
-updated: 2023-06-02
+updated: 2023-08-30
 permalink: /security/microsoft-security-academy/certifications
 tags:
 - security
@@ -14,8 +14,7 @@ tags:
 # Security Certifications
 Below you will find information about security certifications critical for learning. Please use the navigation pane on the right to quickly jump between sections or specific certifications in which you are interested.
 
-
-## Microsoft Cybersecurity Architect (SC-100)
+### Microsoft Cybersecurity Architect (SC-100)
 #### Exam Overview
 * Design solutions that align with security best practices and priorities (20–25%)
 * Design security operations, identity, and compliance capabilities (30–35%)
@@ -28,7 +27,7 @@ Below you will find information about security certifications critical for learn
 * [SC-100 Labs](https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect)
 
 
-## Microsoft Security Operations Analyst (SC-200)
+### Microsoft Security Operations Analyst (SC-200)
 #### Exam Overview
 * Mitigate threats by using Microsoft 365 Defender (25–30%)
 * Mitigate threats by using Defender for Cloud (15–20%)
@@ -39,7 +38,7 @@ Below you will find information about security certifications critical for learn
 * [SC-200 Labs](https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst)
 
 
-## Microsoft Identity and Access Administrator (SC-300)
+### Microsoft Identity and Access Administrator (SC-300)
 #### Exam Overview
 * Implement identities in Azure AD (20–25%)
 * Implement authentication and access management (25–30%)
@@ -52,7 +51,7 @@ Below you will find information about security certifications critical for learn
 * [SC-300 Labs](https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator)
 
 
-## Microsoft Information Protection Administrator (SC-400)
+### Microsoft Information Protection Administrator (SC-400)
 #### Exam Overview
 * Implement information protection (35–40%)
 * Implement data loss prevention (30–35%)
@@ -63,7 +62,7 @@ Below you will find information about security certifications critical for learn
 * [SC-400 Labs](https://github.com/MicrosoftLearning/SC-400T00A-Microsoft-Information-Protection-Administrator)
 
 
-## Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
+### Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
 #### Exam Overview
 * Describe the concepts of security, compliance, and identity (10-15%)
 * Describe the capabilities of Microsoft Azure Active Directory (Azure AD), part of Microsoft Entra (25-30%)
