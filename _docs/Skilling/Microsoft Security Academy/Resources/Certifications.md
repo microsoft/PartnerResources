@@ -12,7 +12,7 @@ tags:
 ---
 
 # Security Certifications
-Below you will find information about security certifications critical for learning. Please use the navigation pane on the right to quickly jump between sections or specific certifications in which you are interested.
+Below you will find information about security certifications critical for learning.
 
 
 | **Exam** | **Overview** | **Learing Path** | **Study Cram** | **Labs** |

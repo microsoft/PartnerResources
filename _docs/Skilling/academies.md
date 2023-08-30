@@ -6,26 +6,16 @@ showbreadcrumb: false
 navheadersonly: true
 ---
 
-# Academies
+# Academies 🚀
 
-Welcome to **Academies!** Each Academy is crafted for a specific technology or solution, such as AI/ML, security, and analytics. Within each academy, you'll find a collection of 
-expert-level sessions, demonstrations, and other critical resources centered on the chosen topic.
-
-The latest content across **all Academies**:
-
-{% include series.md 
-    includetags="academy content|showcase content" 
-    includemethod="any" 
-    sortfield="updated" sortorder="desc" showdate="true" 
-    showtags="true" visualstyle="tiny" limit="3" 
-%}
+Welcome to **Academies!** Each Academy is crafted for a specific technology or solution, such as AI/ML, security, and analytics. Within each academy, you'll find a collection of expert-level sessions, demonstrations, and other critical resources centered on the chosen topic.
 
 Explore the **Microsoft Partner Showcase!** The Partner Showcase features technical discussions with Microsoft Partners and their innovative solutions. Join Microsoft CSAs and Partners from around the world to get their perspectives on the tech industry and go hands-on with their solutions.
 
 {% include series.md 
     includetags="microsoft partner showcase|showcase content" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit="3"  
+    sortfield="updated" sortorder="desc" showdate="true" limit="2"  
     visualstyle="tiny" 
 %}
 
@@ -37,7 +27,7 @@ Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, each di
 {% include series.md 
     includetags="ai & ml academy|academy content" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=3 
+    sortfield="updated" sortorder="desc" showdate="true" limit=2
     visualstyle="tiny"
 %}
 
@@ -48,7 +38,7 @@ Explore skilling on all database technologies on Azure, encompassing SQL Server,
 
 {% include series.md 
     includetags="azure data academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=3
+    sortfield="updated" sortorder="desc" showdate="true" limit=2
     visualstyle="tiny"
 %}
 
@@ -59,7 +49,7 @@ Engage in deep data governance and Microsoft Purview discussions, covering data 
 
 {% include series.md 
     includetags="data governance academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=3
+    sortfield="updated" sortorder="desc" showdate="true" limit=2
     visualstyle="tiny"
 %}
 
@@ -70,7 +60,7 @@ Welcome to the Dynamics 365 Academy, your comprehensive deep dive into everythin
 
 {% include series.md 
     includetags="d365 academy" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=3
+    sortfield="updated" sortorder="desc" showdate="true" limit=2
     visualstyle="tiny"
 %}
 
@@ -81,7 +71,7 @@ Welcome to the Microsoft Security Academy, your gateway to comprehensive cyberse
 
 {% include series.md 
     includetags="microsoft security academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=3
+    sortfield="updated" sortorder="desc" showdate="true" limit=2
     visualstyle="tiny"
 %}
 
@@ -92,7 +82,7 @@ The Teams Academy is your comprehensive deep dive into everything Microsoft Team
 
 {% include series.md 
     includetags="microsoft teams academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=3
+    sortfield="updated" sortorder="desc" showdate="true" limit=2
     visualstyle="tiny"
 %}
 
@@ -103,7 +93,7 @@ Discover modern analytics and data warehousing techniques, principles, and techn
 
 {% include series.md 
     includetags="modern analytics academy|academy content" includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" limit=3
+    sortfield="updated" sortorder="desc" showdate="true" limit=2
     visualstyle="tiny"
 %}
 

@@ -5,7 +5,7 @@ permalink: /readiness-resources/
 showbreadcrumb: false
 ---
 
-# Readiness Resources
+# Readiness Resources 📖
 
 Enhance your **readiness with a curated collection of resources** to help you upskill across Azure and Industry.
 
