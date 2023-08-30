@@ -14,17 +14,9 @@ tags:
 # Security Certifications
 Below you will find information about security certifications critical for learning. Please use the navigation pane on the right to quickly jump between sections or specific certifications in which you are interested.
 
-### Microsoft Cybersecurity Architect (SC-100)#### Exam Overview
-#### Exam Overview
-* Design solutions that align with security best practices and priorities (20–25%)
-* Design security operations, identity, and compliance capabilities (30–35%)
-* Design security solutions for infrastructure (20–25%)
-* Design security solutions for applications and data (20–25%)
 
-#### Exam Resources
-* [SC-100 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/sc-100)
-* [John Savill Study Cram](https://www.youtube.com/watch?v=2Qu5gQjNQh4)
-* [SC-100 Labs](https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect)
+| **Exam** | **Overview** | **Resources**
+| Microsoft Cybersecurity Architect (SC-100) | * Design solutions that align with security best practices and priorities (20–25%) * Design security operations, identity, and compliance capabilities (30–35%) * Design security solutions for infrastructure (20–25%) * Design security solutions for applications and data (20–25%) | * [SC-100 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/sc-100) * [John Savill Study Cram](https://www.youtube.com/watch?v=2Qu5gQjNQh4) * [SC-100 Labs](https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect) |
 
 ### Microsoft Security Operations Analyst (SC-200)
 #### Exam Overview
