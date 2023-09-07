@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All About Microsoft Sentinel
+title: All About Microsoft Sentinel JAN. 2023
 sorttitle: 10
 description: In this in-depth overview session, acquire knowledge about Microsoft Sentinel's core capabilities, data ingestion methods, Azure Monitor Agent (AMA), Sentinel for MSSPs, along with a thorough demo into Sentinel's trademark features.
 updated: 2023-01-04
