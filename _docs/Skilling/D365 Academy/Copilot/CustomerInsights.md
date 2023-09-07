@@ -2,7 +2,7 @@
 layout: page
 title: Copilot and AI in Customer Insights
 description: Copilot and AI capabilities in Customer Insights
-updated: 2023-08-24
+updated: 2023-09-06
 permalink: /skilling/d365-academy/business-applications/copilot/customerinsights
 includerelated: false
 tags:
@@ -13,7 +13,7 @@ tags:
 - customer data platform
 ---
 
-# Learning Plan Resources for Copilot and AI capabilities in Customer Service
+# Learning Plan Resources for Copilot and AI capabilities in Customer Insights
 
 ## **Copilot** 
 The exciting new Copilot feature in Dynamics 365 Customer Insights allows data analysts and marketers to engage directly with customer data using natural language. This saves time for data analysts, allowing them to type the query in their own words instead of identifying the query in SQL. This feature democratizes access to insights, allowing marketers to ask questions using everyday language and receive instant answers, without needing to have the knowledge of SQL programming. With simple prompts, marketers can explore, understand, and predict customer preferences and needs in near real time, reducing the reliance on the data and analytics team to provide them with the customer insights they need.
