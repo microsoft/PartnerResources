@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Introduction to Microsoft Sentinel
-sorttitle: 2
-description: Microsoft Sentinel is a cloud-native security information and event management (SIEM) system that provides intelligent security analytics and threat intelligence. Learn how Sentinel provides a centralized view of the security landscape across an organization's entire infrastructure. By integrating with a wide range of data sources and using advanced analytics and automation, Sentinel enables security teams to detect and respond to threats quickly.
-updated: 2023-06-07
+title: Microsoft Sentinel in just 30 minutes
+sorttitle: 1
+description: Short on time? Learn the fundamentals of Microsoft Sentinel, why it’s a necessity for your Security Operations (SecOps) and threat protection, its unique value, core capabilities, data ingestion methods, and more with a thorough demo and in just 30 minutes.
+updated: 2023-09-07
 permalink: /skilling/microsoft-security-academy/sentinel-academy-intro
-youtubeid: JcSl-9elGB8
+youtubeid: xMj7a4Ns_cU
 tags: 
 - academy content
 - microsoft security academy
@@ -16,7 +16,5 @@ tags:
 # {{ page.title }}
 
 {{ page.description }}
-
-* [PowerPoint Deck]({{ site.baseurl }}/assets/msa/Sentinel - Core Capabilities and data Connectors.pptx)
 
 {% include youtubethumb.md showlink="true" %}
