@@ -17,6 +17,4 @@ tags:
 
 {{ page.description }}
 
-* [PowerPoint Deck]({{ site.baseurl }}/assets/msa/SIEM_XDR_Deck_GPS-3.30.23.pdf)
-
 {% include youtubethumb.md showlink="true" %}
