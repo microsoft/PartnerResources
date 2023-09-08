@@ -32,7 +32,9 @@ Security Copilot is built with our **[responsible AI principles](https://www.mic
 Currently, **all skillsets are either built by/with Microsoft.** If you would like to build a skillset or provide input, please join the Early Access Program (EAP).
 
 #### How is Security Copilot different from competitor solutions?
-There is no comparative to Security Copilot. Picture a scenario in which a junior analyst can access incident data from Sentinel, compare that data with alerts from Defender, gain insights into potentially impacted devices through Intune, and receive threat intelligence flags for known threat actors or malicious infrastructure, all within a unified platform. This junior analyst can also easily share the investigation with colleagues and automatically generate incident reports.
+There is no comparative to Security Copilot. Picture a scenario in which a junior analyst can access incident data from Sentinel, compare that data with alerts from Defender, gain insights into potentially impacted devices through Intune, and receive threat intelligence flags for known threat actors or malicious infrastructure, all within a **unified platform.**
+
+This junior analyst can also easily share the investigation with colleagues and automatically generate incident reports.
 
 #### How do I operate Security Copilot with natural language queries?
 
