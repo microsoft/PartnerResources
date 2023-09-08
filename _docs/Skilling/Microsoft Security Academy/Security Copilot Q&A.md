@@ -3,7 +3,7 @@ layout: page
 title: Q&A for Security Copilot
 description: Common Security Copilot Q&A.
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot-extra
-updated: 2023-09-06
+updated: 2023-09-08
 showbreadcrumb: true
 tags: 
 - academy content
@@ -35,7 +35,3 @@ Currently, **all skillsets are either built by/with Microsoft.** If you would li
 There is no comparative to Security Copilot. Picture a scenario in which a junior analyst can access incident data from Sentinel, compare that data with alerts from Defender, gain insights into potentially impacted devices through Intune, and receive threat intelligence flags for known threat actors or malicious infrastructure, all within a **unified platform.**
 
 This junior analyst can also easily share the investigation with colleagues and automatically generate incident reports.
-
-#### How do I operate Security Copilot with natural language queries?
-
-![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/Security Copilot NL.png)
