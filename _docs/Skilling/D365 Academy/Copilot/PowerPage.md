@@ -12,7 +12,7 @@ tags:
 - powerpage
 ---
 
-# Learning Plan Resources for Copilot and AI capabilities in Power Page
+# Learning Plan Resources for Copilot and AI capabilities in Power Pages
 
 Audience: Developers, Architects and Consultants
 
