@@ -117,7 +117,7 @@ tags:
 * [AVS Specialization Audit Checklist](https://aka.ms/AVSAdvSpecAudit)
 * [AVS Specialization Overview Video](https://aka.ms/AVSAdvSpecVideo)
 * [AVS Specialization Assessment](https://aka.ms/AVSAdvSpecAssess)
-* [**AVS Partner Assets**](https://aka.ms/AVSPartnerAssets) :new:
+* [**AVS Partner Assets**](https://aka.ms/AVSPartnerAssets) 🆕
 * [AVS Technical Assessment](https://partner.microsoft.com/en-nl/asset/collection/azure-vmware-solution-avs-technical-assessment#/)
 * [AVS Customer Success Stories](https://aka.ms/AVSCustomerSuccess)
 
@@ -131,7 +131,7 @@ tags:
 * [AVS Checklist (Azure FastTrack Team](https://aka.ms/avschecklists)
 
 ### Design Considerations
-* [Azure VMware Solution Performance Design Considerations](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-performance-design-considerations/ba-p/3903291) :new:
+* [Azure VMware Solution Performance Design Considerations](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-performance-design-considerations/ba-p/3903291) 🆕
 * [Enable App Volume Replication for Horizon VDI on Azure VMware Solution using Azure NetApp Files](https://techcommunity.microsoft.com/t5/azure-migration-and/enable-app-volume-replication-for-horizon-vdi-on-azure-vmware/ba-p/3798178)
 * [Scenarios for AVS connectivity utilizing Private VPN Gateways and ExpressRoute for Azure Virtual WAN](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/scenarios-for-avs-connectivity-utilizing-private-vpn-gateways/ba-p/3831493)
 * [Migrate your Microsoft SQL Server workloads to Azure VMware Solution](https://techcommunity.microsoft.com/t5/azure-migration-and/migrate-your-microsoft-sql-server-workloads-to-azure-vmware/ba-p/3776447)
