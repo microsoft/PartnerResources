@@ -2,7 +2,7 @@
 layout: page
 title: Azure VMware Solution (AVS)
 description: Resources for Azure VMware Solution (AVS)
-updated: 2023-08-20
+updated: 2023-09-12
 permalink: /azure/infrastructure/azure-vmware-solution
 tags: 
 - learning plan
@@ -32,8 +32,8 @@ tags:
 * [Azure VMware Solution - Service Level Agreements (SLA)](https://azure.microsoft.com/support/legal/sla/azure-vmware/v1_1/)
 * [Azure VMware Solution - Service Limits](https://learn.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-vmware-solution-limits)
 * [Azure VMware Solution - Pricing](https://azure.microsoft.com/pricing/details/azure-vmware/)
-* [Azure VMware Solution - Landing Zone Accelerator](https://aka.ms/avsaccelerator) ([Repository](https://aka.ms/avsacceleratorautomation)) :new:
-* [Azure VMware Solution - Azure Well-Architected Framework (WAF) Assessment](https://aka.ms/avswaf) ([Documentation](https://aka.ms/avswafdocs)) :new:
+* [Azure VMware Solution - Landing Zone Accelerator](https://aka.ms/avsaccelerator) ([Repository](https://aka.ms/avsacceleratorautomation)) 🆕
+* [Azure VMware Solution - Azure Well-Architected Framework (WAF) Assessment](https://aka.ms/avswaf) ([Documentation](https://aka.ms/avswafdocs)) 🆕
 
 ### VMware
 * [Azure VMware Solution - VMware Official Page](https://cloud.vmware.com/azure-vmware-solution)
@@ -46,12 +46,12 @@ tags:
 
 ### Business Impact
 * [Azure VMware Solution - Projected Total Economic Impact](https://aka.ms/AVSTEIReport)
-* [The Business Value of Azure VMware Solution](https://aka.ms/AVSBVS) :new:
+* [The Business Value of Azure VMware Solution](https://aka.ms/AVSBVS) 🆕
 
 ## What is Azure VMware Solution?
-* [Azure VMware Solution: Simplify Your Move to the Cloud](https://www.youtube.com/watch?v=otvdGHeO5xI) :new:
-* [Bringing VMware to Azure: Overview of Azure VMware Solution](https://www.youtube.com/watch?v=VaF-f4DgK2s) :new:
-* [Azure VMware Solution: Migrate to Modernize](https://www.microsoft.com/videoplayer/embed/RW10Z02) :new:
+* [Azure VMware Solution: Simplify Your Move to the Cloud](https://www.youtube.com/watch?v=otvdGHeO5xI) 🆕
+* [Bringing VMware to Azure: Overview of Azure VMware Solution](https://www.youtube.com/watch?v=VaF-f4DgK2s) 🆕
+* [Azure VMware Solution: Migrate to Modernize](https://www.microsoft.com/videoplayer/embed/RW10Z02) 🆕
 
 ## Skilling Resources
 ### Learning Path
@@ -117,7 +117,7 @@ tags:
 * [AVS Specialization Audit Checklist](https://aka.ms/AVSAdvSpecAudit)
 * [AVS Specialization Overview Video](https://aka.ms/AVSAdvSpecVideo)
 * [AVS Specialization Assessment](https://aka.ms/AVSAdvSpecAssess)
-* [**AVS Partner Assets**](https://aka.ms/AVSPartnerAssets) :new:
+* [**AVS Partner Assets**](https://aka.ms/AVSPartnerAssets) 🆕
 * [AVS Technical Assessment](https://partner.microsoft.com/en-nl/asset/collection/azure-vmware-solution-avs-technical-assessment#/)
 * [AVS Customer Success Stories](https://aka.ms/AVSCustomerSuccess)
 
@@ -131,7 +131,7 @@ tags:
 * [AVS Checklist (Azure FastTrack Team](https://aka.ms/avschecklists)
 
 ### Design Considerations
-* [Azure VMware Solution Performance Design Considerations](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-performance-design-considerations/ba-p/3903291) :new:
+* [Azure VMware Solution Performance Design Considerations](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-performance-design-considerations/ba-p/3903291) 🆕
 * [Enable App Volume Replication for Horizon VDI on Azure VMware Solution using Azure NetApp Files](https://techcommunity.microsoft.com/t5/azure-migration-and/enable-app-volume-replication-for-horizon-vdi-on-azure-vmware/ba-p/3798178)
 * [Scenarios for AVS connectivity utilizing Private VPN Gateways and ExpressRoute for Azure Virtual WAN](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/scenarios-for-avs-connectivity-utilizing-private-vpn-gateways/ba-p/3831493)
 * [Migrate your Microsoft SQL Server workloads to Azure VMware Solution](https://techcommunity.microsoft.com/t5/azure-migration-and/migrate-your-microsoft-sql-server-workloads-to-azure-vmware/ba-p/3776447)
@@ -161,7 +161,7 @@ tags:
 * [AVS Accelerator Automation - Reference Implementation](https://aka.ms/avsacceleratorautomation): [Greenfield](https://github.com/Azure/Enterprise-Scale-for-AVS/tree/main/AVS-Landing-Zone/GreenField) | [Brownfield](https://github.com/Azure/Enterprise-Scale-for-AVS/blob/main/BrownField) | [Submit Request/Feedback/Issue](https://github.com/Azure/Enterprise-Scale-for-AVS/issues/new)
 
 ### Benefits
-* [Know your options for SQL Server 2012 and Windows Server 2012 End of Support](https://www.microsoft.com/windows-server/extended-security-updates) - [Blog](https://cloudblogs.microsoft.com/sqlserver/2021/07/14/know-your-options-for-sql-server-2012-and-windows-server-2012-end-of-support/)
+* [Know your options for SQL Server 2012 and Windows Server 2012 End of Support](https://www.microsoft.com/windows-server/extended-security-updates) -- [Blog](https://cloudblogs.microsoft.com/sqlserver/2021/07/14/know-your-options-for-sql-server-2012-and-windows-server-2012-end-of-support/)
 * [Self-service exchanges and refunds for Azure Reservations](https://learn.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)
 
 
