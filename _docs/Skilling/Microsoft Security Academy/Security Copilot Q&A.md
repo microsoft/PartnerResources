@@ -3,7 +3,7 @@ layout: page
 title: Q&A for Security Copilot
 description: Common Security Copilot Q&A.
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot-extra
-updated: 2023-09-08
+updated: 2023-09-012
 showbreadcrumb: true
 tags: 
 - academy content
@@ -18,7 +18,7 @@ ChatGPT was trained on data from the Internet. Security Copilot does not leverag
 Additionally, **Security Copilot does not share your data with OpenAI.**
 
 #### Will Security Copilot "hallucinate"?
-To ensure the accuracy of Security Copilot's responses, Microsoft's Threat Intelligence (TI) data, model fine-tuning, and the user's connected skillsets ground Security Copilot to prevent hallucinations. Security Copilot outlines the steps and sources it uses to arrive at an answer, allowing users to verify the provided results.
+To ensure the accuracy of Security Copilot's responses, Microsoft's Threat Intelligence (TI) data, model fine-tuning, and the user's connected skillsets ground Security Copilot to prevent hallucinations. Security Copilot also outlines the steps and sources it uses to arrive at an answer, allowing users to verify the provided results.
 
 If a user is dissatisfied with Security Copilot's response, they have the option to provide feedback within the platform. Feedback is encouraged and contributes to the ongoing improvement of response quality.
 
@@ -32,6 +32,6 @@ Security Copilot is built with our **[responsible AI principles](https://www.mic
 Currently, **all skillsets are either built by/with Microsoft.** If you would like to build a skillset or provide input, please join the Early Access Program (EAP).
 
 #### How is Security Copilot different from competitor solutions?
-There is no comparative to Security Copilot. Picture a scenario in which a junior analyst can access incident data from Sentinel, compare that data with alerts from Defender, gain insights into potentially impacted devices through Intune, and receive threat intelligence flags for known threat actors or malicious infrastructure, all within a **unified platform.**
+There is no comparative to Security Copilot. Picture a scenario in which a junior analyst can access incident data from Sentinel, compare that data with alerts from Defender, gain insights into potentially impacted devices through Intune, and receive threat intelligence flags for known threat actors, all within **one platform.**
 
 This junior analyst can also easily share the investigation with colleagues and automatically generate incident reports.
