@@ -13,7 +13,7 @@ tags:
 ---
 
 ## Network Security Academy
-Welcome to the Network Security Academy. Explore network security video sessions delivered directly to partners, certifications, and further resources.
+Welcome to the Network Security Academy. Explore network security video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
 Stay connected with the **[Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog).**
 

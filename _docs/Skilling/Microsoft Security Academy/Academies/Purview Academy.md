@@ -3,7 +3,7 @@ layout: page
 title: Data Security and Governance - Microsoft Purview Academy
 description: Microsoft Security Academy Data Security and Governance.
 permalink: /skilling/microsoft-security-academy/purview-academy
-updated: 2023-08-30
+updated: 2023-09-19
 showbreadcrumb: true
 Tags:
 - academy content
@@ -13,7 +13,7 @@ Tags:
 ---
 
 ## Microsoft Purview Academy
-Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessions delivered directly to partners, certifications, and further resources.
+Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
 
 ### Sessions
@@ -34,7 +34,7 @@ Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessio
 [Get Compliant, Stay Compliant, and Meet Compliance Requirements with Microsoft Purview Compliance Manager](https://msuspartners.eventbuilder.com/event/62422?source=EnablePurview) --- Learn how to utilize compliance manager to reduce compliance risks with in-product capabilities such as compliance score, control mapping, versioning etc. Analyze end-to-end compliance management capabilities such as easy onboarding, workflow management and also take advantage of ready-to-use regulatory assessment templates.
 
 
-### Learning Path
+### Additional Resources
 See the Microsoft Purview Resources:
 
 {% include resources.md 
