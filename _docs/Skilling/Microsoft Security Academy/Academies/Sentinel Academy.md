@@ -15,6 +15,7 @@ Tags:
 ## Microsoft Sentinel Academy
 Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sessions delivered directly to partners, detailed learning paths, certifications, and further resources.
 
+#### Keep up with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog).
 
 ### Sessions
 {% include series.md 
@@ -28,7 +29,7 @@ Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sess
 * [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
 
 
-### Learning Path
+### Additional Resources
 See the Microsoft Sentinel Readiness Resources:
 
 {% include resources.md 

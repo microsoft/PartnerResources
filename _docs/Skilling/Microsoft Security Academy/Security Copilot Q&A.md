@@ -3,7 +3,7 @@ layout: page
 title: Q&A for Security Copilot
 description: Common Security Copilot Q&A.
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot-extra
-updated: 2023-09-18
+updated: 2023-09-19
 showbreadcrumb: true
 tags: 
 - academy content
@@ -23,7 +23,7 @@ To ensure the accuracy of Security Copilot's responses, Microsoft's Threat Intel
 If a user is dissatisfied with Security Copilot's response, they have the option to provide feedback within the platform. Feedback is encouraged and contributes to the ongoing improvement of response quality.
 
 #### What is a "planner" or "orchestrator"?
-A planner, also referred to as an orchestrator, helps plan the best response to a natural language prompt/query, helping reduce hallucinations.
+An orchestrator is an autonomous agent in an environment that is tasked to achieve a goal by deciding action(s). The state of the agent gets updated after each action execution. Given an NL question from the user, the orchestrator (1) Understands the intent using an LLM (2) Generates a Plan (3) Executes the Plan (4) Prepares the response for the user (5) Preserves and updates the state (memory, chat history).
 
 #### Can we trust AI?
 Security Copilot is built with our **[responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).** Additionally, Security Copilot uses Role-based access controls (RBAC) and operates in tandem with user permissions.
