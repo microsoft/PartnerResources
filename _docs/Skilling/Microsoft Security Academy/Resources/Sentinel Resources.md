@@ -19,9 +19,9 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
 
 
 ## What's New
+* [New Playbooks with tasks for BEC, Ransomware, and Phishing investigations](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-tasks-management-to-protect-your-organization-against/ba-p/3884516?utm_source=substack&utm_medium=email)
 * [Threat Hunting & Detecting using KQL Queries](https://github.com/cyb3rmik3/KQL-threat-hunting-queries?utm_source=substack&utm_medium=email#kql-training)
 * [Automating Microsoft Sentinel Workspace Manager](https://medium.com/@TimGroothuis/diving-in-automating-sentinel-workspace-manager-cc61d536f8a6)
-* [KQL Queries Behind the Microsoft Sentinel Overview Page](https://rodtrent.substack.com/p/kql-queries-behind-the-microsoft?utm_source=substack&utm_medium=email)
 
 
 ## Fundamentals
@@ -61,7 +61,6 @@ Use these steps to build a demo instance; free for one month
 * [MSSPs and Identity - Considerations for Tenant Architecture and Delegating Access to SOC analysts](https://myfabersecurity.com/2023/01/11/mssps-and-identity/)
 
 #### Agents Resources
-* [Migrate to Azure Monitor Agent -- Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-observability-blog/migrate-to-azure-monitor-agent-for-better-security-reliability/ba-p/3609810)
 * [Azure Monitor Agent Overview](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
 * [Data Collection Rules in Azure Monitor - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview)
 * [Microsoft Sentinel Transformations Library](http://aka.ms/sentinel-transforms)
