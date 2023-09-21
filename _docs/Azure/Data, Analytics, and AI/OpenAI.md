@@ -82,6 +82,11 @@ Responsible AI:
 - [Responsible AI - Use cases for Azure OpenAI](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/transparency-note?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext)
 - [Content Filtering: Azure OpenAI content filtering](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/content-filter?source=recommendations)
 - [Microsoft Azure Legal Information](https://azure.microsoft.com/en-us/support/legal/)
+- [Azure OpenAI Abuse Monitoring](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring)
+- [Azure OpenAI Code of Conduct](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct)
+- [Azure OpenAI Transparency Note](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/transparency-note?tabs=text)
+- [Human and AI Interaction Toolkit](https://www.microsoft.com/en-us/research/project/hax-toolkit/)
+
 
 ## Associate
 
