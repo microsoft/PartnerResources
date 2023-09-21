@@ -20,9 +20,7 @@ Stay ahead of evolving threats and protect your organization with continuous lea
 
 Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
 
-#### The Basics
-+ [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)
-+ [Secure Cloud Business Applications (SCuBA) Project -- CISA](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)
+#### Need to learn the basics? Start here -> [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks) & [Secure Cloud Business Applications (SCuBA) Project -- CISA](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project).
 
 #### Noteworthy Reads
 + **[Basic cyber hygiene prevents 98% of attacks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856)**

@@ -4,7 +4,7 @@ layout: page
 title: Microsoft Teams Academy
 description: Microsoft Teams Academy
 permalink: /skilling/microsoft-teams-academy
-updated: 2023-00-22
+updated: 2023-09-22
 showbreadcrumb: true
 tags: 
  - microsoft teams academy
