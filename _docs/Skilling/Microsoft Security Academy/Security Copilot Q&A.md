@@ -12,7 +12,7 @@ tags:
 ---
 
 # Security Copilot Q&A
-Excited for Security Copilot but have a lot of questions?
+Excited and eager for Security Copilot but have a lot of questions?
 
 ## Common Questions & Answers❓
 #### Is my data protected?
