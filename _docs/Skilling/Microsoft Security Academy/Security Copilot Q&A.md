@@ -3,7 +3,7 @@ layout: page
 title: Q&A for Security Copilot
 description: Common Security Copilot Q&A.
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot-extra
-updated: 2023-09-19
+updated: 2023-09-22
 showbreadcrumb: true
 tags: 
 - academy content
@@ -11,7 +11,9 @@ tags:
 - security copilot
 ---
 
-# Security Copilot Q&A❓
+# Security Copilot Q&A
+
+## Common Questions & Answers❓
 #### Is my data protected?
 ChatGPT was trained on data from the Internet. Security Copilot does not leverage ChatGPT, or any data not owned by the customer and/or by Microsoft. In simpler terms, Security Copilot **does not use your data to train AI models.**
 
