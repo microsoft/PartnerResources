@@ -15,7 +15,7 @@ tags:
 ## Microsoft Defender for Cloud Academy
 Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender for Cloud video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
-#### Stay connected with the [Microsoft Defender for Cloud Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog) and the [Microsoft Defender for Cloud Monthly Newsletter](https://aka.ms/ASCNewsSubscribe).
+#### Stay connected with the [Microsoft Defender for Cloud Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog).
 
 ### Sessions
 {% include series.md 
@@ -25,8 +25,6 @@ Welcome to the Microsoft Defender for Cloud Academy. Explore Microsoft Defender 
 %}
 
 ### Additional Resources
-See relevant security certifications:
-
 {% include resources.md 
     includetags="security certifications"
     includemethod="all" 

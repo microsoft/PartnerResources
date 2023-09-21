@@ -25,8 +25,6 @@ Welcome to the Microsoft 365 Defender Academy. Explore Microsoft 365 Defender vi
 %}
 
 ### Additional Resources
-See relevant security certifications:
-
 {% include resources.md 
     includetags="security certifications"
     includemethod="all" 

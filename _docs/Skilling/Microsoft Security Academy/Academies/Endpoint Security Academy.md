@@ -24,8 +24,6 @@ Welcome to the Microsoft Endpoint Security Academy. Explore Microsoft endpoint s
 %}
 
 ### Additional Resources
-See relevant security certifications:
-
 {% include resources.md
     includetags="security certifications"
     includemethod="all" 

@@ -15,7 +15,7 @@ Tags:
 ## Microsoft Entra Academy
 Welcome to the Microsoft Entra Academy. Explore Microsoft Entra video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
-#### Stay connected with the [Microsoft Entra Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity) and the [Security, Compliance, and Identity Blog](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance).
+#### Stay connected with the [Microsoft Entra Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity).
 
 ### Sessions
 {% include series.md 
@@ -25,8 +25,6 @@ Welcome to the Microsoft Entra Academy. Explore Microsoft Entra video sessions w
 %}
 
 ### Additional Resources
-See relevant security certifications:
-
 {% include resources.md 
     includetags="security certifications"
     includemethod="all" 

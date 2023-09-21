@@ -3,7 +3,7 @@ layout: page
 title: Getting Started with the Microsoft Security Academy
 description: Want to begin or continue your security journey?
 permalink: /skilling/microsoft-security-academy/start
-updated: 2023-08-21
+updated: 2023-09-22
 showbreadcrumb: true
 tags: 
 - academy content
@@ -36,11 +36,8 @@ Welcome to cybersecurity! Browse our curated collection of resources to help you
 * [What is a security operations analyst?](https://learn.microsoft.com/en-us/training/career-paths/security-operations-analyst)
 * [Security Operations (SecOps) Functions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-security-operations-center)
 * [What is Microsoft Sentinel?](https://learn.microsoft.com/en-us/azure/sentinel/overview)
-* [Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
 * [What is Microsoft 365 Defender?](https://learn.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender?view=o365-worldwide)
-* [Get started with Microsoft 365 Defender](https://learn.microsoft.com/en-us/microsoft-365/security/defender/get-started?view=o365-worldwide)
 * [What is Microsoft Defender for Cloud?](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction)
-* [Microsoft Defender for Cloud Training Lab](https://aka.ms/MDFCLabs)
 * [What is Microsoft Defender for Endpoint?](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint?view=o365-worldwide)
 
 ## Identity and Access Administrator
@@ -50,11 +47,9 @@ Welcome to cybersecurity! Browse our curated collection of resources to help you
 * [What is Microsoft Entra ID Governance?](https://learn.microsoft.com/en-us/azure/active-directory/governance/identity-governance-overview)
 * [What is Global Secure Access?](https://learn.microsoft.com/en-us/azure/global-secure-access/overview-what-is-global-secure-access)
 * [What's Microsoft Entra Permissions Management?](https://learn.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/overview)
-* [Identity Architecture Design](https://learn.microsoft.com/en-us/azure/architecture/identity/identity-start-here)
 
 ## Information Protection Administrator
 * [What is an information protection administrator?](https://learn.microsoft.com/en-us/training/career-paths/information-protection-admin)
-* [What is Azure Information Protection?](https://docs.microsoft.com/en-us/azure/information-protection/what-is-information-protection)
 
 ## Security Strategy
 * [Define a Security Strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/define-security-strategy)

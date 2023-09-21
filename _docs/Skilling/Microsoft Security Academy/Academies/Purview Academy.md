@@ -33,8 +33,6 @@ Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessio
 [Get Compliant, Stay Compliant, and Meet Compliance Requirements with Microsoft Purview Compliance Manager](https://msuspartners.eventbuilder.com/event/62422?source=EnablePurview) --- Learn how to utilize compliance manager to reduce compliance risks with in-product capabilities such as compliance score, control mapping, versioning etc. Analyze end-to-end compliance management capabilities such as easy onboarding, workflow management and also take advantage of ready-to-use regulatory assessment templates.
 
 ### Additional Resources
-See the Microsoft Purview Resources:
-
 {% include resources.md 
     includetags="purview resources"
     includemethod="all" 
@@ -43,8 +41,6 @@ See the Microsoft Purview Resources:
     visualstyle="normal" 
     showdescription="true"
 %}
-
-See relevant security certifications:
 
 {% include resources.md 
     includetags="security certifications"
