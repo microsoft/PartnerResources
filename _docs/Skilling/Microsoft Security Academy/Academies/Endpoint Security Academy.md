@@ -3,7 +3,7 @@ layout: page
 title: Endpoint Security - Microsoft Endpoint Security Academy
 description: Microsoft Security Academy Endpoint Security.
 permalink: /skilling/microsoft-security-academy/endpoint-academy
-updated: 2023-09-19
+updated: 2023-09-22
 showbreadcrumb: true
 tags: 
 - academy content
@@ -14,6 +14,7 @@ tags:
 ## Microsoft Endpoint Security Academy
 Welcome to the Microsoft Endpoint Security Academy. Explore Microsoft endpoint security video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
+#### Stay connected with the [Microsoft Defender for Endpoint Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog) and the [Microsoft Defender for IoT Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog).
 
 ### Sessions
 {% include series.md 
@@ -21,12 +22,6 @@ Welcome to the Microsoft Endpoint Security Academy. Explore Microsoft endpoint s
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="list"
 %}
-
-
-### Keeping Up
-* [Microsoft Defender for Endpoint Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog)
-* [Microsoft Defender for IoT Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog)
-
 
 ### Additional Resources
 See relevant security certifications:

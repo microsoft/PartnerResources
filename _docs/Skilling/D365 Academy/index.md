@@ -20,8 +20,3 @@ These resources are created and delivered by architects across the Global Partne
 
 ## Learning Path
 ![D365 Organizational Chart]({{ site.baseurl }}/assets/msa/D365 Org. Chart.png)
-
-
-## Community Resources
-
-> This section is coming soon. Please check regularly for updates.

@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2023-07-31
+updated: 2023-09-22
 permalink: /security/microsoft-security-academy/microsoft-sentinel
 tags:
 - security
@@ -37,7 +37,7 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
 #### Building a Demo. Instance
 Use these steps to build a demo instance; free for one month
 
-1. [Microsoft Sentinel All In One](https://aka.ms/SentinelAllInOne) - Speed up Microsoft Sentinel deployment and initial configuration tasks in a few clicks.
+1. [Microsoft Sentinel All In One](https://aka.ms/SentinelAllInOne) -> Speed up Microsoft Sentinel deployment and initial configuration tasks in a few clicks.
 2. [Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
 3. [Connect Azure Active Directory (Azure AD) Data to Microsoft Sentinel - Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
 4. [Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)

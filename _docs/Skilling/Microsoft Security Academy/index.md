@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2023-09-19
+updated: 2023-09-22
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -21,6 +21,10 @@ In addition to the modules, the Microsoft Security Academy's **[Resources](/Part
 **Explore our new resources for [Microsoft Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot) and common [Microsoft Security Copilot Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot-extra).**
 
 Are you pursuing a specialization? Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
+
+#### Critical news for your security
+* [Basic cyber hygiene prevents 98% of attacks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856)
+* [New Playbooks with tasks for BEC, Ransomware, and Phishing investigations](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-tasks-management-to-protect-your-organization-against/ba-p/3884516?utm_source=substack&utm_medium=email)
 
 
 ![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)

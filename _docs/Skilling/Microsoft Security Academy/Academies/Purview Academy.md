@@ -3,7 +3,7 @@ layout: page
 title: Data Security and Governance - Microsoft Purview Academy
 description: Microsoft Security Academy Data Security and Governance.
 permalink: /skilling/microsoft-security-academy/purview-academy
-updated: 2023-09-19
+updated: 2023-09-22
 showbreadcrumb: true
 Tags:
 - academy content
@@ -14,7 +14,6 @@ Tags:
 
 ## Microsoft Purview Academy
 Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessions with demos delivered directly to partners, relevant certifications, and further resources.
-
 
 ### Sessions
 [Microsoft Purview End-to-End eDiscovery Workflow Implementation](https://msuspartners.eventbuilder.com/event/62424?source=EnablePurview) --- Learn how to detect, preserve, collect, process, cull, and analyze data in place and do an end-to-end eDiscovery workflow. Discover how you can find and collect data, streamline your eDiscovery process with an end-to-end workflow, and get insights quickly with built-in capabilities.
@@ -32,7 +31,6 @@ Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessio
 [Manage Regulatory Compliance Privacy and Risk with Microsoft Purview Communications Compliance](https://msuspartners.eventbuilder.com/event/62421?source=EnablePurview) --- Discover how to identify and investigate communication risks while maintaining end-user privacy. Learn how to meet regulatory compliance obligations and address corporate code-of-conduct violations and be able to rapidly take action by remediation workflows.
 
 [Get Compliant, Stay Compliant, and Meet Compliance Requirements with Microsoft Purview Compliance Manager](https://msuspartners.eventbuilder.com/event/62422?source=EnablePurview) --- Learn how to utilize compliance manager to reduce compliance risks with in-product capabilities such as compliance score, control mapping, versioning etc. Analyze end-to-end compliance management capabilities such as easy onboarding, workflow management and also take advantage of ready-to-use regulatory assessment templates.
-
 
 ### Additional Resources
 See the Microsoft Purview Resources:
