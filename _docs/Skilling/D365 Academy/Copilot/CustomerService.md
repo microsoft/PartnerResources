@@ -2,7 +2,7 @@
 layout: page
 title: Copilot and AI in Customer Service
 description: Copilot and AI capabilities in Customer Service
-updated: 2023-08-24
+updated: 2023-09-22
 permalink: /skilling/d365-academy/business-applications/copilot/customerservice
 includerelated: false
 tags:
