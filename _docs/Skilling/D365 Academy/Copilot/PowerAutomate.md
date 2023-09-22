@@ -18,7 +18,6 @@ tags:
 Audience: Developers, Architects and Consultants
 
 ## **Fundamentals** 
-* <a href="https://transform.microsoft.com/modernwork/download?assetname=assets%2FLow%20Code%20%2B%20AI%20Pitch%20Deck.pptx&download=1" target="_blank">Power Platform Pitch Deck</a>
 * <a href="https://powerplatformpartners.transform.microsoft.com/training" target="_blank">Power Platform training resources for partners</a>
 * <a href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/05/12/how-copilot-in-microsoft-dynamics-365-and-power-platform-delivers-enterprise-ready-ai-built-for-security-and-privacy/" target="_blank">Learn about Copilot in Microsoft Dynamics 365 and Power Platform delivers enterprise-ready AI built for security and privacy</a>
 * <a href="https://partner.microsoft.com/en-us/explore/artificial-intelligence" target="_blank">Partnering in the age of AI - AI Transformation Partner Playbook</a>
