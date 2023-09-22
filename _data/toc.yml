@@ -86,6 +86,9 @@
         - title: Cosmos DB
           url: "skilling/azure-data-academy/cosmosdb"
           tag: ada cosmos db
+        - title: Resources
+          url: "skilling/azure-data-academy/resources"
+          tag: ada resources
     - title: "Data Governance Academy"
       url: "skilling/data-governance-academy"
       tag: dga
