@@ -18,6 +18,9 @@ ChatGPT was trained on data from the Internet. Security Copilot does not leverag
 
 Additionally, **Security Copilot does not share your data with OpenAI.**
 
+#### Can we trust AI?
+Security Copilot is built with our **[responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).** Additionally, Security Copilot uses Role-based access controls (RBAC) and operates in tandem with user permissions.
+
 #### Will Security Copilot "hallucinate"?
 To ensure the accuracy of Security Copilot's responses, Microsoft's Threat Intelligence (TI) data, model fine-tuning, and the user's connected skillsets ground Security Copilot to prevent hallucinations. Security Copilot also outlines the steps and sources it uses to arrive at an answer, allowing users to verify the provided results.
 
@@ -25,9 +28,6 @@ If a user is dissatisfied with Security Copilot's response, they have the option
 
 #### What is a "planner" or "orchestrator"?
 An orchestrator is an autonomous agent in an environment that is tasked to achieve a goal by deciding action(s). The state of the agent gets updated after each action execution. Given an NL question from the user, the orchestrator (1) Understands the intent using an LLM (2) Generates a Plan (3) Executes the Plan (4) Prepares the response for the user (5) Preserves and updates the state (memory, chat history).
-
-#### Can we trust AI?
-Security Copilot is built with our **[responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).** Additionally, Security Copilot uses Role-based access controls (RBAC) and operates in tandem with user permissions.
 
 #### Can I build my own Security Copilot skillsets?
 Currently, **all skillsets are either built by/with Microsoft.** If you would like to build a skillset or provide input, please join the Early Access Program (EAP).
