@@ -6,7 +6,13 @@ permalink: /skilling/azure-data-academy
 redirect_from:
   - /skilling/azure-data-academy/
   - /skilling/data-analytics-ai/azure-data-academy
-showbreadcrumb: false
+showbreadcrumb: true
+updated: 2023-09-22
+tags: 
+- azure
+- data, analytics, and ai
+- azure data academy
+- academy page
 ---
 
 # {{ page.title }}
