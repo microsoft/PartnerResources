@@ -13,9 +13,6 @@ tags:
 
 # Security Copilot Q&A
 
-## Common Questions & Answers❔
-Excited and eager to learn more about Security Copilot but have a lot of questions? Find your answers here.
-
 #### Is my data protected?
 ChatGPT was trained on data from the Internet. Security Copilot does not leverage ChatGPT, or any data not owned by the customer and/or by Microsoft. In simpler terms, Security Copilot **does not use your data to train AI models.**
 
