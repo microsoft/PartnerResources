@@ -11,7 +11,7 @@ tags:
 - security copilot
 ---
 
-# Security Copilot Q&A
+# Security Copilot Q&A❔
 
 ## Common Questions & Answers❔
 Excited and eager to learn more about Security Copilot but have a lot of questions? Find your answers here.
