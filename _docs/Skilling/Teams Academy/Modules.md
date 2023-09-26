@@ -17,6 +17,6 @@ tags:
 
 ### Modules📕📗📘
 
-The Microsoft Teams Academy's Modules are organized into seven smaller categories, including [Client & Devices](/PartnerResources/skilling/microsoft-teams-academy/client-devices), [Management](/PartnerResources/skilling/microsoft-teams-academy/management), [Meetings](/PartnerResources/skilling/microsoft-teams-academy/meetings), [Phone](/PartnerResources/skilling/microsoft-teams-academy/phone), and [Platform](/PartnerResources/skilling/microsoft-teams-academy/platform).
+The Microsoft Teams Academy's Modules are organized into five smaller categories, including [Client & Devices](/PartnerResources/skilling/microsoft-teams-academy/client-devices), [Management](/PartnerResources/skilling/microsoft-teams-academy/management), [Meetings](/PartnerResources/skilling/microsoft-teams-academy/meetings), [Phone](/PartnerResources/skilling/microsoft-teams-academy/phone), and [Platform](/PartnerResources/skilling/microsoft-teams-academy/platform).
 
 ![Teams Organizational Chart]({{ site.baseurl }}/assets/msa/Teams Organization Chart.png)
