@@ -308,9 +308,6 @@
             - title: Platform
               url: "skilling/microsoft-teams-academy/platform"
               tag: mta platform
-            - title: Security & Governance
-              url: "skilling/microsoft-teams-academy/security"
-              tag: mta security
         - title: Resources
           url: "modern-workplace"
           tag: modern workplace

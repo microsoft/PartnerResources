@@ -11,7 +11,6 @@ tags:
  - microsoft teams academy
  - management
  - call quality dashboard
- - cqd
  - analytics
 ---
 
