@@ -56,5 +56,5 @@ Welcome to cybersecurity! Browse our curated collection of resources to help you
 * [What is Global Secure Access?](https://learn.microsoft.com/en-us/azure/global-secure-access/overview-what-is-global-secure-access)
 * [What's Microsoft Entra Permissions Management?](https://learn.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/overview)
 
-## Information Protection Administrator¶
+## Information Protection Administrator
 * [What is an information protection administrator?](https://learn.microsoft.com/en-us/training/career-paths/information-protection-admin)
