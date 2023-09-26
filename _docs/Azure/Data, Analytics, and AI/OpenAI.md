@@ -25,21 +25,6 @@ With Azure OpenAI, users can access a wide range of AI tools and technologies to
 
 Azure OpenAI is designed to accelerate the development of AI applications, allowing users to focus on creating innovative solutions that deliver value to their organizations and customers.
 
-## Get Started
-
-To get started, we recommend watching the following videos created by Microsoft GPSUS Technical Team.
-
-<table>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=FJ0v3apQ2dM"><img src="https://img.youtube.com/vi/FJ0v3apQ2dM/0.jpg" alt="Azure OpenAI Business Briefing" width="200" height="153"></a></td>
-    <td><a href="https://www.youtube.com/watch?v=FJ0v3apQ2dM"><b>Azure OpenAI Business Briefing</b></a><br><br>This first video will help you better understand what OpenAI is, canonical use cases, and identify a use case for your enterprise to launch your solution.</td>
-  </tr>
-  <tr style="vertical-align:top">
-    <td><a href="https://www.youtube.com/watch?v=lHw1tZhXlEo"><img src="https://img.youtube.com/vi/lHw1tZhXlEo/0.jpg" alt="Azure OpenAI Technical Briefing" width="200" height="153"></a></td>
-    <td><a href="https://www.youtube.com/watch?v=lHw1tZhXlEo"><b>Azure OpenAI Technical Briefing</b></a><br><br>This second video walks you through technical level 100 details that you must know to implement OpenAI in your projects. It contains code snippets demonstrating Azure OpenAI rest API and python SDK.<br><br>You can find the notebook used in this video <a href="https://github.com/microsoft/PartnerResources/blob/main/assets/openai/AOAI-Technical-Review-codes.ipynb">here</a>.</td>
-  </tr>
-</table>
-
 ## Request Access
 
 - Azure OpenAI: [Request Access to Azure OpenAI Service (microsoft.com)](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu)
