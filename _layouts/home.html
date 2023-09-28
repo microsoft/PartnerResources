@@ -23,6 +23,28 @@
 
     </div>
 
+    <div id="segments">
+        <div class="wrapper">
+            <div class="segment" style="width:50%">
+                <div class="inner">
+                    <a class="segment"><h2>Announcements</h2></a>
+                    <p>Register for our upcoming events, including How to build a Security Operations Center.</p>
+                    {% include resources.md 
+                        includetags="learning plan" 
+                        includemethod="all" 
+                        showtags="false" 
+                        showdate="true" 
+                        visualstyle="homepage" 
+                        showdescription="true" 
+                        sortfield="updated" 
+                        sortorder="desc" 
+                        showdate="true" 
+                        limit="5" 
+                    %}
+                    <a class="segment"><span class="homepagelink">View Events &#187;</span></a> 
+                </div>
+            </div>
+
         <div id="segments">
             <div class="wrapper">
                 <div class="segment" style="width:50%">
