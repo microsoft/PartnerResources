@@ -233,6 +233,22 @@
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
           tag: vignettes
+    - title: "Partner Onboarding Academy"
+      url: "skilling/partner-onboarding-academy"
+      tag: partner onboarding academy
+      children:
+        - title: Create Partner Center Account
+          url: "skilling/partner-onboarding-academy/acct"
+          tag: partner center
+        - title: Create Offer
+          url: "skilling/partner-onboarding-academy/offer"
+          tag: offer
+        - title: Create Transactable Offer
+          url: "skilling/partner-onboarding-academy/transactable-offer"
+          tag: transactable offer
+        - title: Create MACC Offer
+          url: "skilling/partner-onboarding-academy/macc-offer"
+          tag: macc offer
     - title: "Security Academy"
       url: "skilling/microsoft-security-academy"
       tag: microsoft security academy
