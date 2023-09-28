@@ -220,6 +220,19 @@
             - title: Viva Sales
               url: "skilling/d365-academy/d365-sales-academy/vivasales"
               tag: d365 sales academy viva sales
+    - title: "Modern Analytics Academy"
+      url: "skilling/modern-analytics-academy"
+      tag: modern analytics academy
+      children:
+        - title: Core Sessions
+          url: "skilling/modern-analytics-academy/core-sessions"
+          tag: maa core
+        - title: Hands-on
+          url: "skilling/modern-analytics-academy/hands-on"
+          tag: maa hands on
+        - title: Vignettes
+          url: "skilling/modern-analytics-academy/vignettes"
+          tag: vignettes
     - title: "Security Academy"
       url: "skilling/microsoft-security-academy"
       tag: microsoft security academy
@@ -318,19 +331,6 @@
             - title: Microsoft Teams
               url: "modern-workplace/microsoft-teams"
               tag: microsoft teams
-    - title: "Modern Analytics Academy"
-      url: "skilling/modern-analytics-academy"
-      tag: modern analytics academy
-      children:
-        - title: Core Sessions
-          url: "skilling/modern-analytics-academy/core-sessions"
-          tag: maa core
-        - title: Hands-on
-          url: "skilling/modern-analytics-academy/hands-on"
-          tag: maa hands on
-        - title: Vignettes
-          url: "skilling/modern-analytics-academy/vignettes"
-          tag: vignettes
 - title: "Partner Showcase"
   url: "skilling/microsoft-partner-showcase"
   tag: partnershowcase
