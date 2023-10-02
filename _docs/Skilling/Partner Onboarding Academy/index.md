@@ -24,7 +24,7 @@ The resources within each module are created by architects across the Global Par
  3. **[Basic cyber hygiene prevents 98% of attacks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856)**
  4. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)**
 
-*I will create an org. chart for the Partner Onboarding Academy once I return from DTO Oct. 16th. If you would like to include emojis in your pages, you can only use these [GitHub approved emojis](https://github.com/markdown-templates/markdown-emojis).*
+**I will create an org. chart for the Partner Onboarding Academy once I return from DTO Oct. 16th. If you would like to include emojis in your pages, you can only use these [GitHub approved emojis](https://github.com/markdown-templates/markdown-emojis).**
 
 
 ![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)

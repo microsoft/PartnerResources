@@ -18,7 +18,7 @@ Welcome to Partner Center! Browse our *TBD* to help you begin your journey. Thes
 
 ## What is Partner Center?🤔
 
-*TBD*
+TBD.
 
 ## Requirements
 
