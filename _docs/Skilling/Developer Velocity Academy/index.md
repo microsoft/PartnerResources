@@ -14,11 +14,11 @@ tags:
 
 # Developer Velocity Academy
 
-#### Welcome to the Developer Velocity Academy.
+#### Welcome to the Developer Velocity Academy.📖⏩
 
-Developer Velocity (DV) is a broad term that describes how we can increase efficiency for developers building software solutions. It involves using the right tools to write software, implementing automated processes for continuous integration and deployment, properly monitoring our software, providing feedback loops, and any method or tool that removes friction for the development team.
+**Developer Velocity (DV)** is a broad term that describes how we can increase efficiency for developers building software solutions. It involves using the right tools to write software, implementing automated processes for continuous integration and deployment, properly monitoring our software, providing feedback loops, and any method or tool that removes friction for the development team.
 
-Increasing Developer Velocity means reducing the time to write, debug, test, deploy, and update software. Developer Velocity tends to increase as developers become more agile and innovative.
+Increasing Developer Velocity means **reducing the time to write, debug, test, deploy, and update software.** Developer Velocity tends to increase as developers become more agile and innovative.
 
 The term is a bit misleading, as "Developer Velocity" success depends on many people in the organization besides developers. Everyone in the development process can contribute to Developer Velocity.
 

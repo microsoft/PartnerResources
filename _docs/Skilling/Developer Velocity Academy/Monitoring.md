@@ -13,7 +13,7 @@ tags:
 - monitoring
 ---
 
-# Developer Velocity Academy — Monitoring
+# Monitoring
 
 Welcome to the Developer Velocity Academy — Monitoring.
 
@@ -21,7 +21,7 @@ Welcome to the Developer Velocity Academy — Monitoring.
 
 ## Overview
 
-Azure Monitor is a comprehensive monitoring and management service offered by Microsoft Azure. It provides tools to monitor and gain insights into the performance and health of applications, infrastructure, and networks hosted on Azure. Application Insights, on the other hand, is a specific feature within Azure Monitor that focuses on application performance monitoring. It enables developers to detect, diagnose, and resolve issues affecting the performance and availability of their applications by collecting telemetry data, analyzing it, and providing actionable insights to improve application quality and user experience.
+**Azure Monitor** is a comprehensive monitoring and management service offered by Microsoft Azure. It provides tools to monitor and gain insights into the performance and health of applications, infrastructure, and networks hosted on Azure. **Application Insights**, on the other hand, is a specific feature within Azure Monitor that focuses on application performance monitoring. It enables developers to detect, diagnose, and resolve issues affecting the performance and availability of their applications by collecting telemetry data, analyzing it, and providing actionable insights to improve application quality and user experience.
 
 ## Azure Monitoring Articles
 

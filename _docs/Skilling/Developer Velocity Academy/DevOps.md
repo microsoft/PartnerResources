@@ -13,7 +13,7 @@ tags:
 - devops
 ---
 
-# Developer Velocity Academy — DevOps
+# DevOps
 
 > More coming soon! This page is under development. Please check regularly for updates.
 

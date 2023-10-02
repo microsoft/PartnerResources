@@ -13,7 +13,7 @@ tags:
 - github copilot
 ---
 
-# Developer Velocity Academy — GitHub Copilot
+# GitHub Copilot
 
 > More coming soon! This page is under development. Please check regularly for updates.
 
