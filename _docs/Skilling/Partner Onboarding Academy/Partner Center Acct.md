@@ -13,7 +13,7 @@ tags:
 
 ## Microsoft Partner Onboarding Academy
 
-### Are you ready to get started?⏩ 
+### Are you ready to get started?⏩ (*below is a rough framework to provide you inspiration*)
 Welcome to Partner Center! Browse our TBD to help you begin your journey. These resources specifically cater to those who are new to TBD.
 
 ## What is Partner Center?🤔
@@ -26,7 +26,7 @@ TBD.
 2. TBD
 3. Etc.
 
-**If you would like to create a table, here is the format. This is from the Specializations section of the Microsoft Security Academy.**
+*If you would like to create a table, here is the format. This is from the Specializations section of the Microsoft Security Academy.*
 
 | **Specialization** | **Description** | **Apply** |
 | [Cloud Security](https://partner.microsoft.com/en-us/partnership/specialization/cloud-security) |  Do you want to showcase your organization's capabilities and proven experience implementing comprehensive protection across your customers' Microsoft Azure, hybrid, and multicloud environments? Apply for the Cloud Security specialization. | Only administrators of an organization’s Microsoft partner account can apply for the Cloud Security specialization on behalf of the organization. If you have the appropriate role and access, you can apply by signing into Partner Center and navigating to your Partner Center dashboard > Membership > Specializations. |
