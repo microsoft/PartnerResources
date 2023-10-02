@@ -3,7 +3,7 @@ layout: page
 title: Developer Velocity Academy - DevOps
 description: Developer Velocity Academy - DevOps
 permalink: /skilling/developer-velocity-academy/devops
-updated: 2023-08-10
+updated: 2023-10-02
 showbreadcrumb: true
 navheadersonly: true
 tags:
@@ -13,9 +13,13 @@ tags:
 - devops
 ---
 
-# Developer Velocity Academy - DevOps
+# Developer Velocity Academy — DevOps
 
-Welcome to the Developer Velocity Academy - DevOps.
+> More coming soon! This page is under development. Please check regularly for updates.
+
+Welcome to the Developer Velocity Academy — DevOps.
+
+{% include_relative pagenav.md %}
 
 ## Overview
 
@@ -23,12 +27,9 @@ DevOps is a software development approach that combines development (Dev) and IT
 
 ## Useful Links
 
-- [GitHub](https://github.com/)
-- [GitHub documentation](https://docs.github.com/)
-- [Azure DevOps](https://dev.azure.com)
-- [Azure DevOps documentation](https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops)
-
-{% include_relative pagenav.md %}
+* [GitHub documentation](https://docs.github.com/)
+* [Azure DevOps](https://dev.azure.com)
+* [Azure DevOps documentation](https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops)
 
 {% include series.md 
     includetags="developer velocity academy|academy content|devops" 
