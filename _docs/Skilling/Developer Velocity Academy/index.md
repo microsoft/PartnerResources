@@ -40,7 +40,6 @@ Choose the modules that align with your areas of interest to expand your knowled
 
 * [Microsoft Developer Velocity home](https://azure.microsoft.com/en-us/solutions/developer-velocity/)
 * [Developer Velocity: Key lessons from digital leaders on software excellence for 2021 and beyond](https://azure.microsoft.com/en-us/blog/developer-velocity-key-lessons-from-digital-leaders-on-software-excellence-for-2021-and-beyond/)
-* [Developer Velocity: Empowering developers to fuel business performance](https://azure.microsoft.com/en-us/blog/developer-velocity-empowering-developers-to-fuel-business-performance/)
 * [Video: What is Developer Velocity?](https://learn.microsoft.com/en-us/shows/azure-videos/what-is-developer-velocity)
 * [The Importance of Developer Velocity (Hitachi Solutions)](https://global.hitachi-solutions.com/blog/developer-velocity/)
 * [Yes, you can measure software developer productivity (McKinsey & Company)](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/yes-you-can-measure-software-developer-productivity)
