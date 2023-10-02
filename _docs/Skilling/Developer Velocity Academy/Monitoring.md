@@ -25,7 +25,7 @@ Welcome to the **Developer Velocity Academy — Monitoring.**
 
 **Application Insights**, on the other hand, is a specific feature within Azure Monitor that focuses on application performance monitoring. It enables developers to detect, diagnose, and resolve issues affecting the performance and availability of their applications by collecting telemetry data, analyzing it, and providing actionable insights to improve application quality and user experience.
 
-## Azure Monitoring Articles
+## Azure Monitor Articles
 
 * [The Importance of Application Monitoring](https://davidgiard.com/the-importance-of-application-monitoring)
 * [Metrics, Logs, Traces, and Spans in Application Monitoring](https://davidgiard.com/metrics-logs-traces-and-spans-in-application-monitoring)
@@ -40,7 +40,7 @@ Welcome to the **Developer Velocity Academy — Monitoring.**
 * [Building an Application Insights Dashboard](https://davidgiard.com/building-an-application-insights-dashboard)
 * [Azure Application Insights Log Archiving and Retention](https://davidgiard.com/azure-application-insights-log-archiving-and-retention)
 
-## Azure Monitoring Videos
+## Azure Monitor Videos
 
 {% include series.md 
     includetags="developer velocity academy|academy content|monitoring" 
