@@ -132,6 +132,7 @@ tags:
 
 ### Design Considerations
 * [Azure VMware Solution Performance Design Considerations](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-performance-design-considerations/ba-p/3903291) 🆕
+* [Enable Encryption with Customer Managed Keys](https://techcommunity.microsoft.com/t5/azure-migration-and/customer-managed-keys-for-azure-vmware-solution/ba-p/3762931) 🆕
 * [Enable App Volume Replication for Horizon VDI on Azure VMware Solution using Azure NetApp Files](https://techcommunity.microsoft.com/t5/azure-migration-and/enable-app-volume-replication-for-horizon-vdi-on-azure-vmware/ba-p/3798178)
 * [Scenarios for AVS connectivity utilizing Private VPN Gateways and ExpressRoute for Azure Virtual WAN](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/scenarios-for-avs-connectivity-utilizing-private-vpn-gateways/ba-p/3831493)
 * [Migrate your Microsoft SQL Server workloads to Azure VMware Solution](https://techcommunity.microsoft.com/t5/azure-migration-and/migrate-your-microsoft-sql-server-workloads-to-azure-vmware/ba-p/3776447)
