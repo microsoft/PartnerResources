@@ -13,5 +13,9 @@ tags:
 
 ## Microsoft Partner Onboarding Academy
 
-### Are you ready to create a MACC offer?☁️
-TBD.
+Once you've created a transactable offer in the MP, the next step on most partner's journey is to make the offer attractive to customers and field sellers.
+
+One of the most popular ways is to make an offer MACC eligible.  This page will walk through that process.
+
+### Fundamentals
+

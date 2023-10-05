@@ -52,23 +52,15 @@ You will need to provide:
 - Legal business name and address for your company
 
 After submitted, Microsoft will [validate the account](https://learn.microsoft.com/en-us/partner-center/verification-responses).  Once complete, you will have:
+
    - MPN ID
+   - Verified Account
 
 ### Additional resources
 
 - [How to become a Microsoft Partner](https://www.microsoft.com/en-us/us-partner-blog/2020/10/22/how-to-become-a-microsoft-partner/) from [Americas Partner Blog](https://www.microsoft.com/en-us/americas-partner-blog/)
 - [Step-by-step instructions for becoming a partner](https://davidgiard.com/becoming-a-microsoft-partner) by [David Giard](https://davidgiard.com)
 
-## Requirements
+### Next Steps
 
-1. TBD
-2. TBD
-3. ETC.
-
-*If you would like to create a table, here is the format. This is an example from the Specializations section of the Microsoft Security Academy.*
-
-| **Specialization** | **Description** | **Apply** |
-| [Cloud Security](https://partner.microsoft.com/en-us/partnership/specialization/cloud-security) |  Do you want to showcase your organization's capabilities and proven experience implementing comprehensive protection across your customers' Microsoft Azure, hybrid, and multicloud environments? Apply for the Cloud Security specialization. | Only administrators of an organization’s Microsoft partner account can apply for the Cloud Security specialization on behalf of the organization. If you have the appropriate role and access, you can apply by signing into Partner Center and navigating to your Partner Center dashboard > Membership > Specializations. |
-| [Identity and Access Management](https://partner.microsoft.com/en-us/partnership/specialization/identity-and-access-management) | Do you demonstrate expertise and extensive experience deploying Microsoft Identity workloads with Azure Active Directory (Azure AD)? Apply for the Identity and Access Management specialization. | Only administrators of an organization’s Microsoft partner account can apply for the Identity and Access Management specialization on behalf of the organization. If you have the appropriate role and access, you can apply by signing into Partner Center and navigating to your Partner Center dashboard > Membership > Specializations. |
-| [Information Protection and Governance](https://partner.microsoft.com/en-us/partnership/specialization/information-protection-and-governance) | Are you wanting to validate your organization’s capabilities to deploy Microsoft Information Protection workloads and provide proactive strategies? Enhance your data security offering with the Information Protection and Governance specialization. | Only the administrator of your organization’s Microsoft partner account can apply for the Information Protection and Governance specialization. If you are the administrator, apply by logging in to your Partner Center account and navigating to the Specializations section of your dashboard.
-| [Threat Protection](https://partner.microsoft.com/en-us/partnership/specialization/threat-protection) | Do you demonstrate deep knowledge and proven success deploying Microsoft Threat Protection, Microsoft Cloud App Security, or Microsoft Sentinel workloads? Differentiate your capabilities to customers with the Threat Protection specialization. | Only administrators of an organization’s Microsoft partner account can apply for the Threat Protection specialization on behalf of the organization. If you have the appropriate role and access, you can apply by signing into Partner Center and navigating to your Partner Center dashboard > Membership > Specializations. |
+Now that you have a verified Partner Center account, the next step is to [create an offer](/PartnerResources/skilling/partner-onboarding-academy/offer).
