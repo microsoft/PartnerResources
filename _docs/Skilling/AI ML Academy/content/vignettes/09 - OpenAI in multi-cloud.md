@@ -6,7 +6,7 @@ description: What are the approaches to harness the popular Azure OpenAI Service
 permalink: /skilling/ai-ml-academy/vignettes/openai-in-multi-cloud
 updated: 2023-10-13
 showbreadcrumb: true
-youtubeid: OnYYVEQPqjE
+youtubeid: dDDJIemqUp4
 tags: 
 - ai & ml academy
 - academy content
