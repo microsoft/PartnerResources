@@ -5,7 +5,7 @@ title: Microsoft Teams Academy - Platform
 sorttitle: Microsoft Teams Academy - Platform
 description: Microsoft Teams Academy - Platform
 permalink: /skilling/microsoft-teams-academy/platform
-updated: 2022-02-27
+updated: 2023-09-22
 showbreadcrumb: false
 tags: 
  - academy page
@@ -13,9 +13,9 @@ tags:
  - platform
 ---
 
-# Microsoft Teams Academy - Platform
+## Platform
 
-Welcome to the platform bucket in the Teams Academy. This one is a little unique in that it focuses on Teams as a platform. You've heard of Viva, and Power Apps, and Chat bot integration wtih Teams, right? also the myriad of apps from Microsoft, others, as well as external data sources, web hooks, app policies and so on. The customization and development capabilities with Teams is vast, and extensible! This is where we will cover those types of things. 
+Welcome to Platform in the Microsoft Teams Academy. Here, we focus on Teams as a platform, including Viva, Power Apps, Microsoft apps, external data sources, web hooks, app policies, and more. Discover the vast and extensible customization and development capabilities of Teams.
 
 {% include series.md 
     includetags="microsoft teams academy|academy content|platform" 
@@ -23,5 +23,3 @@ Welcome to the platform bucket in the Teams Academy. This one is a little unique
     sortfield="updated" sortorder="desc" showdate="false" showtags="true"
     visualstyle="normal"
 %}
-
-

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Configuring Your Microsoft Sentinel Environment
-sorttitle: 2
-description: Storage of logs is easily one of the largest expenses that you will encounter in your SIEM environment. In this session, explore the different options available for log ingestion into Sentinel, identify when you should use each type, and learn about the analytic rules that you can use to query the data in those log repositories.
+sorttitle: 4
+description: Storage of logs is easily one of the largest expenses that you will encounter in your SIEM environment. In this session, explore the different options available for Microsoft Sentinel log ingestion, identify when you should use each type, and learn about the Analytics Rules you can use to query log repositories.
 updated: 2023-06-07
 permalink: /skilling/microsoft-security-academy/sentinel-academy-configure
 youtubeid: 0W78s_5A_2A

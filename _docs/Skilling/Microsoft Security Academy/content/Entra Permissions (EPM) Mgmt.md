@@ -2,7 +2,7 @@
 layout: page
 title: All Things Microsoft Entra Permissions Management (EPM)
 sorttitle: 3
-description: This session is an overview of Microsoft Entra Permissions Management (EPM), previously CloudKnox, a CIEM (Cloud Infrastructure Entitlement Management) solution. Explore an architecture summary with a comprehensive demo of the most critical features.
+description: Step into the realm of Microsoft Entra Permissions Management (EPM), formerly known as CloudKnox — a CIEM (Cloud Infrastructure Entitlement Management) solution. Prepare for an adventure as we unravel the architecture and indulge in a demo showcasing the most critical features.
 updated: 2023-06-07
 permalink: /skilling/microsoft-security-academy/entra-academy-epm
 youtubeid: wmJA5orgODA

@@ -4,7 +4,7 @@ layout: page
 title: Microsoft Teams Academy
 description: Microsoft Teams Academy
 permalink: /skilling/microsoft-teams-academy
-updated: 2023-02-27
+updated: 2023-09-26
 showbreadcrumb: true
 tags: 
  - microsoft teams academy
@@ -13,24 +13,14 @@ tags:
 
 # Microsoft Teams Academy
 
-Welcome to the _Teams Academy_, where we focus on producing and publishing videos on Microsoft Teams designed to enable our Partners to deep dive into everything Teams. This academy takes a service oriented approach to organizing the content, which is useful in identifying content to build, and makes the deep and broad domain of Teams more easily consumed. 
+> More coming this fall! The Teams Academy is undergoing improvements, and the Resources will receive updates by December 2023.
 
-## This academy is broken down into the following buckets:
+Welcome to the Microsoft Teams Academy, your comprehensive deep dive into everything Microsoft Teams! The Microsoft Teams Academy embraces a service-oriented organizational approach, making the deep and broad domain of Teams more easily consumable.
 
-{% include series.md 
-    includetags="microsoft teams academy|academy page" 
-    includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
-    visualstyle="tiny" removetext="Microsoft Teams Academy - "
-%}
+Unlock your potential with our **[Modules](/PartnerResources/skilling/microsoft-teams-academy/modules)📚.** Choose the modules that align with your areas of interest to expand your knowledge and enhance your skills.
 
-## All Content in this Academy
+In addition to the modules, the Microsoft Teams Academy's **[Resources](/PartnerResources/modern-workplace/)📃** complement the **[Modules](/PartnerResources/skilling/microsoft-teams-academy/modules)** and empower you to explore concepts in greater detail.
 
-{% include series.md 
-    includetags="microsoft teams academy|academy content" 
-    includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="true" 
-    visualstyle="tiny"
-%}
+These resources are created and delivered by architects across the Global Partner Solutions (GPS) team and beyond, who are experts in their respective fields.
 
-
+![Teams Organizational Chart]({{ site.baseurl }}/assets/msa/Teams Organization Chart.png)

@@ -2,7 +2,7 @@
 layout: page
 title: Introduction to Microsoft Teams SIP Gateway
 sorttitle: Introduction to Microsoft Teams SIP Gateway
-description: In this session we cover an introduction to SIP gateway. SIP Gateway lets your organization use any compatible SIP device with Microsoft Teams to preserve your investments in SIP devices. Now you can sign-in to Teams with your corporate credentials and make and receive calls with a compatible SIP device. SIP gateway is critical to migrations and leveraging existing investments customers have made along their UC journey.
+description: In this session, we cover an introduction to Teams SIP Gateway. SIP Gateway allows your organization to use any compatible SIP device with Microsoft Teams to preserve your investments in SIP devices. Now, sign into Teams with your corporate credentials and make/receive calls effortlessly. It is a crucial tool for migrations and maximizing your existing investments.
 updated: 2022-02-27
 permalink: /skilling/microsoft-teams-academy/client-devices/sip-gateway
 youtubeid: AwkbIIqIa8o
@@ -18,6 +18,4 @@ tags:
 
 {{ page.description }}
 
-* [Watch {{ page.title }}](https://www.youtube.com/watch?v={{ page.youtubeid }})
-
-[![{{ page.title }}](https://img.youtube.com/vi/{{ page.youtubeid }}/0.jpg)](https://www.youtube.com/watch?v={{ page.youtubeid }})
+{% include youtubethumb.md showlink="true" %}

@@ -43,7 +43,7 @@
                       {% for subarea in area.children %}
                         {% if subarea.url %}{% assign linkUrl = site.baseurl | append: "/" | append: subarea.url %}{% else %}{% assign linkUrl = subarea.external_url %}{% endif %}
                         {% assign cleanedChild = subarea.url | remove: "/" %}
-                        {% if cleanedPage == cleanedChild %}
+                        {% if cleanedPage == cleanedChild or cleanedPage contains cleanedChild %}
                           {% assign isCurrentSubarea = true %}
                           {% assign isCurrentArea = true %}
                           {% assign isCurrentEntry = true %}

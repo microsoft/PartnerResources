@@ -2,30 +2,35 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2023-06-07
+updated: 2023-10-02
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
 showbreadcrumb: true
 ---
-
 {% include_relative header.md %}
 
-The Microsoft Security Academy is organized into five smaller academies and security categories, including [Cloud Security](/PartnerResources/skilling/microsoft-security-academy/cloud-security), [Identity and Access](/PartnerResources/skilling/microsoft-security-academy/identity-access), [Endpoint Security](/PartnerResources/skilling/microsoft-security-academy/endpoint-security), [SIEM & XDR](/PartnerResources/skilling/microsoft-security-academy/siem-xdr), and [Risk Management and Privacy](/PartnerResources/skilling/microsoft-security-academy/risk-mgmt). Each academy includes video sessions, demonstrations, learning paths, certifications, and other related materials.
+#### Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources. 📚
 
-The resources within each academy are created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields. The overall objective of the academies is to help you enhance your security knowledge, scale in learning, and grow in experience.
+Want to help defend the world against threats? Cybersecurity is not just an individual effort — it's a shared responsibility. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)** and take action today.
+
+Stay ahead of evolving threats and protect your organization with continuous learning through our **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules).** The Microsoft Security Academy's **[Resources](/PartnerResources/skilling/microsoft-security-academy/resources)** complement the **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)** and enable you to explore cybersecurity concepts in greater detail.
+
+**Explore our new resources for [Microsoft Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot) and common [Microsoft Security Copilot Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot-extra).**
+
+Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
+
+#### The Basics
+1. **[Basic cyber hygiene prevents 98% of attacks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856)**
+2. **[CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)**
+3. **[Secure Cloud Business Applications (SCuBA) Project -- CISA](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)**
+4. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)**
 
 
-**For more resources, see our [Security Readiness Resources](https://microsoft.github.io/PartnerResources/security/).**
-
-## Organization
-![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Org. Chart 2.jpg)
-
-## Important Updates
-Interested in Microsoft 365 E5 Licensing features? Watch our architects breakdown what you need to know with [Microsoft 365 E5](https://microsoft-my.sharepoint.com/:v:/r/personal/nickblackman_microsoft_com/Documents/Documents/GPSUS%20Training%20Sessions/Microsoft%20365%20E5%20Licensing/Microsoft%20365%20E5%20-%20Feature%20Breakdown%20-%20Q4-FY23.mp4?csf=1&web=1&e=6r3HSL).
+![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)
 
 
-## Start Your Journey
+## Start Your Journey and Stay Connected🔗
  
 **Join our private [Cloud Security Community](https://aka.ms/PrSecCom) where you can sign-up to make a difference in helping us shape our products together.**
 
@@ -46,6 +51,7 @@ Microsoft Ninja trainings are sets of organized sections and modules to guide yo
 
 * [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
 * [Microsoft Sentinel Notebooks Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491)
+* [Microsoft Sentinel Automation Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377)
 * [Microsoft Defender Threat Intelligence Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965)
 * [Microsoft Defender for Cloud Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761)
 * [Microsoft Defender External Attack Surface Management Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-external/become-a-microsoft-defender-external-attack-surface-management/ba-p/3743985)
