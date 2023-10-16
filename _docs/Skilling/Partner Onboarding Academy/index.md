@@ -14,11 +14,18 @@ TODO: Table of Contents would be helpful given this is a journey page.
 
 Are you ready to onboard as a Microsoft Partner? **[Get started](/PartnerResources/skilling/partner-onboarding-academy/acct)** and take action today.
 
+![](../../assets/../../assets/partner-onboarding/partner-journey.png)
+
 The Microsoft Partner Onboarding Academy's **Modules** are organized into sections which reflect the typical partner journey:
-- [Create Partner Center Account](/PartnerResources/skilling/partner-onboarding-academy/acct): This is the first step towards becoming a Microsoft Partner
-- [Create Your First Offer](/PartnerResources/skilling/partner-onboarding-academy/offer): Now that you've created an account, create your first offer.
-- [Create A Transactable Offer](/PartnerResources/skilling/partner-onboarding-academy/transactable-offer): Transactable Offers are the first step towards Co-Selling with Microsoft
-- [Create MACC Eligible Offer](/PartnerResources/skilling/partner-onboarding-academy/macc-offer): Offers which are [MACC](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment) eligible are ideal for customers committment with an existing agreement.
+- Build
+  - Optional: [Find a Solution Partner](https://partner.microsoft.com/en-rs/partnership/solutions-partner)
+- Onboard
+  - [Create Partner Center Account](/PartnerResources/skilling/partner-onboarding-academy/acct): This is the first step towards becoming a Microsoft Partner
+  - [Create Your First Offer](/PartnerResources/skilling/partner-onboarding-academy/offer): Now that you've created an account, create your first offer.
+- Market
+  - [Create A Transactable Offer](/PartnerResources/skilling/partner-onboarding-academy/transactable-offer): Transactable Offers are the first step towards Co-Selling with Microsoft
+- Grow
+  - [Create MACC Eligible Offer](/PartnerResources/skilling/partner-onboarding-academy/macc-offer): Offers which are [MACC](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment) eligible are ideal for customers committment with an existing agreement.
 
 The resources within each module are created by the Global Partner Solutions (GPS) team and beyond. Choose the modules that align with your areas of interest to start your journey.
 
