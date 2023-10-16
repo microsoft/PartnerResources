@@ -97,21 +97,15 @@ tags:
 
 [Azure Networking Blog](https://azure.microsoft.com/en-us/blog/topics/networking/)
 
-## Exam resources
-
-* [Fundamentals- EXAM AZ-900: Microsoft Azure Fundamentals:](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900?wt.mc_id=learningredirect_certs-web-wwl) (Self-Paced)
-* [Associate- Exam AZ-104: Microsoft Azure Administrator](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104/) (Self-Paced)
-* [Expert- Exam AZ-305: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/#certification-exams) (Self-Paced)
-
 ## Additional Learning resources
 
-* [Azure best practices for network security](https://docs.microsoft.com/en-us/azure/security/fundamentals/network-best-practices) (Self-Paced) (16 Minutes)
-* [Azure Networking Reference Architectures](https://docs.microsoft.com/en-us/azure/architecture/architectures/?filter=networking&filter=reference-architecture&sort=-publish_date) (Self-Paced)
-* [Best practices to set up networking for workloads migrated to Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/migrate-best-practices-networking) (Self-Paced) (27 Minutes)
-* [Azure Networking labs](https://github.com/binals/azurenetworking) (Self-Paced)
-* [Virtual WAN documentation](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about) (Self-Paced)
-* [Azure Firewall](https://azure.microsoft.com/en-us/services/azure-firewall/) (Self-Paced)
-* [Azure Front Door](https://azure.microsoft.com/en-us/services/frontdoor/) (Self-Paced)
+* [Azure best practices for network security](https://docs.microsoft.com/en-us/azure/security/fundamentals/network-best-practices) 
+* [Azure Networking Reference Architectures](https://docs.microsoft.com/en-us/azure/architecture/architectures/?filter=networking&filter=reference-architecture&sort=-publish_date) 
+* [Best practices to set up networking for workloads migrated to Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/migrate-best-practices-networking) 
+* [Azure Networking labs](https://github.com/binals/azurenetworking) 
+* [Virtual WAN documentation](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about) 
+* [Azure Firewall](https://azure.microsoft.com/en-us/services/azure-firewall/) 
+* [Azure Front Door](https://azure.microsoft.com/en-us/services/frontdoor/) 
 
 
 

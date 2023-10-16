@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Azure Governance
-description: Resources for CAF (Cloud Adoption Framework), Azure Policy, Azure Lighthouse)
+description: Resources for Governance, Azure Policy, Azure Lighthouse)
 updated: 2023-10-15
 permalink: /azure/infrastructure/Azure-governance
 tags: 
@@ -12,15 +12,13 @@ tags:
 
 # Learning Plan Resources for Governance
 
-## Fundamentals for Cloud Adoption Framework (CAF)
-
-* [Begin a cloud migration journey in Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/getting-started/migrate) (Self-Paced) (15 Minutes)
-* [Cloud Journey Tracker](https://docs.microsoft.com/en-us/assessments/?id=cloud-journey-tracker&WT.mc_id=email) (Self-Paced) (15 Minutes)
-* [Get your organization ready for your Azure journey](https://medius.studios.ms/video/asset/HIGHMP4/IG19-BRK2191) (Self-Paced) (45 Minutes)
-* [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/) (Self-Paced) (1 Hour)
-* [Microsoft Cloud Adoption Framework for Azure, Part 1](https://www.youtube.com/watch?v=9VJYVITjckw) (Self-Paced) (10 Minutes)
-* [Microsoft Cloud Adoption Framework for Azure, Part 2](https://www.youtube.com/watch?v=8eqv_wXqflQ) (Self-Paced) (15 Minutes)
-* [Overview - Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/) (Self-Paced) (10 Minutes)
+## Fundamentals for Governance
+* [What is data governance](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-data-governance/?ef_id=_k_df485a98acab1b287eb03fb419b06e0a_k_&OCID=AIDcmme9zx2qiz_SEM__k_df485a98acab1b287eb03fb419b06e0a_k_&msclkid=df485a98acab1b287eb03fb419b06e0a)
+* [Begin a cloud migration journey in Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/getting-started/migrate) (15 Minutes)
+* [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
+* [Overview- Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
+* [Cloud Journey Tracker](https://docs.microsoft.com/en-us/assessments/?id=cloud-journey-tracker&WT.mc_id=email) 
+* [Get your organization ready for your Azure journey](https://medius.studios.ms/video/asset/HIGHMP4/IG19-BRK2191) 
 
 # Learning Plan Resources for Azure Policy
 

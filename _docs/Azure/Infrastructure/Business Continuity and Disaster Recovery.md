@@ -2,7 +2,7 @@
 layout: page
 title: Business Continuity and Disaster Recovery
 description: Resources for BCDR (Business Continuity and Disaster Recovery)
-updated: 2021-12-01
+updated: 2023-10-16
 permalink: /azure/infrastructure/business-continuity-and-disaster-recovery
 tags: 
 - learning plan
@@ -20,15 +20,14 @@ Fundamentals, Associate, Expert: content categorized in increase levels of compl
 
 ## Fundamentals
 
-* [About Site Recovery](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-overview) (Self-Paced) (15 Minutes)
-* [General questions about Azure Site Recovery](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-faq) (Self-Paced) (1 Hour)
-* [Building a Microsoft BCDR Practice](https://assetsprod.microsoft.com/mpn/en-us/easy-play-button-build-an-azure-bcdr.pdf) (Self-Paced) (1 Hour)
+* [About Site Recovery](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-overview)
+* [General questions about Azure Site Recovery](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-faq) 
 
 ## Associate
 
-* [BCDR Learning Plan from Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/) (Self-Paced) (8 Hours)
+* [BCDR Learning Plan from Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/architect-migration-bcdr/) 
 
 ## Expert
 
-* [BCDR Modern Cloud Workshop](https://github.com/Microsoft/MCW-Business-Continuity-and-Disaster-Recovery) (Self-Paced) (3 Days)
-* [Building a resilient IaaS architecture Modern Cloud Workshop](https://github.com/Microsoft/MCW-Building-A-Resilient-IaaS-Architecture) (Self-Paced) (3 Days)
+* [BCDR Modern Cloud Workshop](https://github.com/Microsoft/MCW-Business-Continuity-and-Disaster-Recovery) 
+* [Building a resilient IaaS architecture Modern Cloud Workshop](https://github.com/Microsoft/MCW-Building-A-Resilient-IaaS-Architecture) 
