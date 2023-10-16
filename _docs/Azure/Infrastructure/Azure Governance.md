@@ -2,7 +2,7 @@
 layout: page
 title: Azure Governance
 description: Resources for Governance, Azure Policy, Azure Lighthouse)
-updated: 2023-10-15
+updated: 2023-10-13
 permalink: /azure/infrastructure/Azure-governance
 tags: 
 - learning plan

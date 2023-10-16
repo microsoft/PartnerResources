@@ -2,7 +2,7 @@
 layout: page
 title: Cloud to Cloud Migration and Cloud Adoption Framework
 description: Resources for Cloud to Cloud Migration
-updated: 2023-10-16
+updated: 2023-10-13
 permalink: /azure/infrastructure/cloud-to-cloud-migration
 tags: 
 - learning plan

@@ -2,7 +2,7 @@
 layout: page
 title: Azure Networking Resources
 description: Resources for Azure Networking
-updated: 2023-10-15
+updated: 2023-10-13
 permalink: /azure/infrastructure/azure-networking-resources
 tags: 
 - learning plan
@@ -97,8 +97,16 @@ tags:
 
 [Azure Networking Blog](https://azure.microsoft.com/en-us/blog/topics/networking/)
 
+## Resources for Virtual WAN (SDWAN)
+
+* [Virtual WAN documentation](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about)
+* [Azure Firewall in vWAN hub](https://docs.microsoft.com/en-us/azure/virtual-wan/howto-firewall/) 
+* [vWAN Partner Integrations](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-locations-partners) 
+
+
 ## Additional Learning resources
 
+* [Azure Networking Products](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=network) 
 * [Azure best practices for network security](https://docs.microsoft.com/en-us/azure/security/fundamentals/network-best-practices) 
 * [Azure Networking Reference Architectures](https://docs.microsoft.com/en-us/azure/architecture/architectures/?filter=networking&filter=reference-architecture&sort=-publish_date) 
 * [Best practices to set up networking for workloads migrated to Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/migrate-best-practices-networking) 

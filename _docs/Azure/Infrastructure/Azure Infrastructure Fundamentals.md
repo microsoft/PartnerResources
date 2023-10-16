@@ -2,7 +2,7 @@
 layout: page
 title: Azure Infrastructure Fundamentals and Well-Architected Framework
 description: Resources for Azure Infrastructure fundamentals
-updated: 2023-16-10
+updated: 2023-16-13
 permalink: /azure/infrastructure/azure-arc
 tags: 
 - learning plan
