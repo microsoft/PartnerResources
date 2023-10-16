@@ -2,7 +2,7 @@
 layout: page
 title: Azure Arc
 description: Resources for Azure Arc
-updated: 2021-12-01
+updated: 2023-16-10
 permalink: /azure/infrastructure/azure-arc
 tags: 
 - learning plan
