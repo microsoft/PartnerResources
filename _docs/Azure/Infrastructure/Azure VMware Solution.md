@@ -2,7 +2,7 @@
 layout: page
 title: Azure VMware Solution (AVS)
 description: Resources for Azure VMware Solution (AVS)
-updated: 2023-09-12
+updated: 2023-10-16
 permalink: /azure/infrastructure/azure-vmware-solution
 tags: 
 - learning plan
@@ -13,9 +13,11 @@ tags:
 # Learning Plan Resources for Azure VMware Solution (AVS)
 
 ## Most Recent Updates
-* [What's new in Azure VMware Solution](https://learn.microsoft.com/azure/azure-vmware/azure-vmware-solution-platform-updates)
+* [**Azure VMware Solution Professionals** LinkedIn Group](https://aka.ms/AVSPros)
+* [What's new in Azure VMware Solution](https://aka.ms/AVSUpdates)
 * [Azure VMware Solution Roadmap](https://aka.ms/avsroadmap)
-* Blog Posts: [June 2023](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-june-2023-what-s-new-update/ba-p/3843932)
+* Blog Posts: [August 2023](https://techcommunity.microsoft.com/t5/azure-migration-and/announcing-new-enhancements-for-azure-vmware-solution/ba-p/3906272)
+ | [June 2023](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-june-2023-what-s-new-update/ba-p/3843932)
  | [May 2023](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-may-2023-what-s-new-update/ba-p/3815569)
  | [March 2023](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-march-2023-what-s-new-update/ba-p/3766739)
  | [February 2023](https://techcommunity.microsoft.com/t5/azure-migration-and/azure-vmware-solution-february-2023-what-s-new-update/ba-p/3734890)
@@ -41,8 +43,9 @@ tags:
 * [Azure VMware Solution - VMware On-Demand Hands-on](https://aka.ms/AVSHOL)
 * [Azure VMware Solution - VMware FAQ](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/partners/vmw-faq-temp.pdf)
 
-### NetApp
-* [Azure VMware Solution - Documentation](https://docs.netapp.com/us-en/netapp-solutions/ehc/azure/index.html)
+### Integrations
+* [Azure VMware Solution - NetApp - Documentation](https://docs.netapp.com/netapp-solutions/ehc/azure/index.html)
+* [Azure VMware Solution - Pure Storage - Documentation](https://www.purestorage.com/solutions/cloud/azure-vmware.html) 🆕
 
 ### Business Impact
 * [Azure VMware Solution - Projected Total Economic Impact](https://aka.ms/AVSTEIReport)
@@ -108,9 +111,9 @@ tags:
 * [AVS Learn Live Series](https://aka.ms/learnlive-run-vmware-workloads-azure-vmware-solution)
 
 ### Events <sup>(VMware)</sup>
+* [VMware Explore **2023** - AVS content](https://www.vmware.com/explore/video-library/search.html#product=%22Azure%20VMware%20Solution%22&year=2023) 🆕
+* [VMware Explore 2022 - AVS content](https://www.vmware.com/explore/video-library/search.html#product=%22Azure%20VMware%20Solution%22&year=2022)
 * [AVS Office Hours](https://aka.ms/AVSOfficeHours)
-* [VMware Explore 2022 - AVS content](https://www.vmware.com/explore/video-library.html#product=%22Azure%20VMware%20Solution%22&year=2022)
-
 
 ## Partners Specific Resources
 * [**AVS Specialization**](https://aka.ms/AVSSpecial)
@@ -118,6 +121,7 @@ tags:
 * [AVS Specialization Overview Video](https://aka.ms/AVSAdvSpecVideo)
 * [AVS Specialization Assessment](https://aka.ms/AVSAdvSpecAssess)
 * [**AVS Partner Assets**](https://aka.ms/AVSPartnerAssets) 🆕
+* [**AVS in Azure Depth Enablement**](https://aka.ms/partner/azurevc) 🆕
 * [AVS Technical Assessment](https://partner.microsoft.com/en-nl/asset/collection/azure-vmware-solution-avs-technical-assessment#/)
 * [AVS Customer Success Stories](https://aka.ms/AVSCustomerSuccess)
 
@@ -150,7 +154,7 @@ tags:
 * [Azure Site Recovery: Disaster Recovery Drill from AVS](https://learn.microsoft.com/azure/site-recovery/avs-tutorial-dr-drill-azure)
 
 ### Design Areas (Enterprise Scale Landing Zone Accelerator)
-* [AVS Network Design Guide](https://aka.ms/avs-design-basics)
+* [AVS Network Design Guide](https://aka.ms/avs-design-basics) 🆕
 * [AVS HCX Best Practices](https://aka.ms/AVSHCX)
 * [AVS Accelerator](https://aka.ms/AVSAccelerator)
   * [Identity And Access Management for Azure VMware Solution](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-identity-and-access-management)
@@ -168,8 +172,8 @@ tags:
 
 ## Keeping Up
 * [AVS ITOps Talk Youtube Playlist](https://aka.ms/avschannel)
-* [AVS Youtube Playlist](https://aka.ms/AVSPlayList)
+* [AVS YouTube Playlist](https://aka.ms/AVSPlayList)
 * [AVS at Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/azure-migration/bg-p/AzureMigrationBlog)
 * [AVS Blog](https://avs.ms)
 * [VirtualWorkloads Blog](https://www.virtualworkloads.com/)
-* [#AzureVMwareSolution on Twitter](https://twitter.com/hashtag/azurevmwaresolution)
+* [#AzureVMwareSolution on X](https://twitter.com/hashtag/azurevmwaresolution)
