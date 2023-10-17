@@ -17,4 +17,4 @@ Azure Arc has a dedicated website called [Azure Arc Jumpstart](https://azurearcj
 * [Azure Arc enabled servers](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_servers/)
 * [Azure Arc enabled SQL Server](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_sqlsrv/)
 * [Azure Arc enabled Kubernetes](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_k8s/)
-* [Azure Arc enabled data services](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_data/)
+* [Azure Arc enabled data services](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_data/) 
