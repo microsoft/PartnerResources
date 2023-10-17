@@ -30,7 +30,7 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
 - Azure OpenAI: [Request Access to Azure OpenAI Service (microsoft.com)](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu)
 - Rate Increase: [Azure OpenAI Service: Request for Quota Increase (microsoft.com)](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUMkkzRUlBMFBPT1ZQM01DODJNV1BEVENUTCQlQCN0PWcu)
 - Form Recognizer Query: [Form Recognizer private preview access request (microsoft.com)](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUQTRDQUdHMTBWUDRBQ01QUVNWNlNYMVFDViQlQCN0PWcu)
-- GPT4: [Azure OpenAI GPT-4 Public Preview Wait list (microsoft.com)](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xURjE4QlhVUERGQ1NXOTlNT0w1NldTWjJCMSQlQCN0PWcu)
+- GPT4: GPT-4 and GPT-4-32k are now available to all Azure OpenAI Service customers. You no longer need to request access to use GPT-4 and GPT-4-32k. Availability is still currently limited by region to ensure a smooth rollout. You still need to apply for the AOAI Service if you do not have that already.
 
 ## Keeping Up
 
