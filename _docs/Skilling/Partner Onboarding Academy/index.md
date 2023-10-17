@@ -8,26 +8,39 @@ showbreadcrumb: true
 ---
 {% include_relative header.md %}
 
-TODO: Table of Contents would be helpful given this is a journey page.
-
 #### Welcome to the Microsoft Partner Onboarding Academy, your gateway to your Partner journey. 
 
 Are you ready to onboard as a Microsoft Partner? **[Get started](/PartnerResources/skilling/partner-onboarding-academy/acct)** and take action today.
 
-![](../../assets/../../assets/partner-onboarding/partner-journey.png)
+#### What is a Partner?
+
+There are multiple types of partnerships with Microsoft:
+- Engineering Partnership - Launching a joint technical project
+- Co-Sell / GTM - Primary focus of this Academy
+
+
+#### Why be a Microsoft Partner?
+
+- Integrated Billing for Customers
+  - Customer likely has existing billing setup with Microsoft
+  - Approving new Purchase Order for customer can take months
+- Customers can use eligible Partner solutions to [decrement MACC](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/track-consumption-commitment?tabs=portal)
+- MS is HUGE. MS Partner network is even bigger
+  - [For every $1 of MS revenue, ISV's make $10](https://blogs.partner.microsoft.com/partner/microsoft-ecosystem-value-new-data-reveals-partner-paths-to-profitability-and-growth/)
+  - [MANY benefits](https://learn.microsoft.com/en-us/partner-center/manage-your-partner-network-benefits)
+  - [MANY incentives](https://partner.microsoft.com/en-us/partnership/partner-incentives)
 
 The Microsoft Partner Onboarding Academy's **Modules** are organized into sections which reflect the typical partner journey:
-- Build
-  - Optional: [Find a Solution Partner](https://partner.microsoft.com/en-rs/partnership/solutions-partner)
-- Onboard
-  - [Create Partner Center Account](/PartnerResources/skilling/partner-onboarding-academy/acct): This is the first step towards becoming a Microsoft Partner
-  - [Create Your First Offer](/PartnerResources/skilling/partner-onboarding-academy/offer): Now that you've created an account, create your first offer.
-- Market
-  - [Create A Transactable Offer](/PartnerResources/skilling/partner-onboarding-academy/transactable-offer): Transactable Offers are the first step towards Co-Selling with Microsoft
-- Grow
-  - [Create MACC Eligible Offer](/PartnerResources/skilling/partner-onboarding-academy/macc-offer): Offers which are [MACC](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment) eligible are ideal for customers committment with an existing agreement.
 
-The resources within each module are created by the Global Partner Solutions (GPS) team and beyond. Choose the modules that align with your areas of interest to start your journey.
+![](../../assets/../../assets/partner-onboarding/partner-journey.png)
+
+Click on the individual steps below for details:
+
+- [Onboarding](/PartnerResources/skilling/partner-onboarding-academy/onboard): This is the first step towards becoming a Microsoft Partner.  This will give you entry into Partner Center, which is how and where you can access all of the Partner benefits.
+- [Build](/PartnerResources/skilling/partner-onboarding-academy/build): Learn about Azure services and build your Azure skills. NOTE: Sometimes this step is done prior to onboarding.
+- [Market](/PartnerResources/skilling/partner-onboarding-academy/market): Now that you've got access to Partner Center and a solution on Azure, create an offer in the Azure Marketplace, learn how to share leads and understand the rewards available to you.
+- [Grow](/PartnerResources/skilling/partner-onboarding-academy/grow): Once you understand the Marketplace, start to grow your business through other Co-Sell incentives.
+- [Accelerate](/PartnerResources/skilling/partner-onboarding-academy/accelerate): Take your partnership to the next level by fully utilizing Partner Incentives
 
 
 #### Concepts
@@ -57,24 +70,7 @@ Below are some acronyms and definitions you'll see used in this academy:
 - [MPO](https://learn.microsoft.com/en-us/partner-center/marketplace/multiparty-private-offers-faq): Multiparty Private Offers
 - [MPN](https://partner.microsoft.com/en-us/partnership): Microsoft Partner Number
 
-#### What is a Partner?
-
-There are multiple types of partnerships with Microsoft:
-- Engineering Partnership - Launching a joint technical project
-- Co-Sell / GTM: Primary focus of this Academy
-
-
-### Why be a Microsoft Partner?
-
-- Integrated Billing for Customers
-  - Customer likely has existing billing setup with Microsoft
-  - Approving new Purchase Order for customer can take months
-- Customers can use eligible Partner solutions to [decrement MACC](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/track-consumption-commitment?tabs=portal)
-- MS is HUGE. MS Partner network is even bigger
-  - [For every $1 of MS revenue, ISV's make $10](https://blogs.partner.microsoft.com/partner/microsoft-ecosystem-value-new-data-reveals-partner-paths-to-profitability-and-growth/)
-  - [MANY benefits](https://learn.microsoft.com/en-us/partner-center/manage-your-partner-network-benefits)
-  - [MANY incentives](https://partner.microsoft.com/en-us/partnership/partner-incentives)
 
 ### How does a Partner get started?
 
-The first thing to do is to create a [Partner Center Account](/PartnerResources/skilling/partner-onboarding-academy/acct).
+The first thing to do is to [start the onboarding process](/PartnerResources/skilling/partner-onboarding-academy/onboard).
