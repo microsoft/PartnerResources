@@ -37,10 +37,9 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
 **Please visit our Academy page to see Code Snippets & Architecture Examples: [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy).**
 
 - [What’s New in Azure OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/whats-new)
-- [Azure OpenAI - YouTube Playlist](https://www.youtube.com/watch?v=FJ0v3apQ2dM&list=PL8_VXqhvJI9CNF6Q409mSjh0InP6_GfBg)
-- [Blog: GPT-4 now available in Azure OpenAI Service](https://aka.ms/aoai-gpt4-blog)
-- [Blog: ChatGPT is now available in Azure OpenAI Service](http://aka.ms/AOAI-ChatGPT-Blog)
-- Quotas and limitations: [Azure OpenAI Service quotas and limits - Azure Cognitive Services](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quotas-limits?branch=release-azure-openai-preview)
+- [Azure OpenAI - YouTube Playlist](https://www.youtube.com/watch?v=dDDJIemqUp4)
+- [Model Availability](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models)
+- Quotas and Limitations: [Azure OpenAI Service quotas and limits - Azure Cognitive Services](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quotas-limits?branch=release-azure-openai-preview)
 - Pricing: [Azure OpenAI Service - Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/)
 
 ## Fundamentals
