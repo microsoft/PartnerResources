@@ -17,7 +17,7 @@ tags:
 
 We first introduced Security Copilot at the inaugural Microsoft Secure. Microsoft Security Copilot is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with a Microsoft-developed, security-specific model.
 
-**Are you a Microsoft partner wanting to learn more about how to engage customers and take advantage of Security Copilot? If so, complete our [Microsoft Security Copilot Partner Interest Form](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR7GkZxmcvGdGql1aVgLqRR1UNEk0MTVPVjg1VjhPMUJHVTZETlRXSk1RQy4u)!** 
+Are you a Microsoft partner wanting to learn more about how to engage customers and take advantage of Security Copilot? If so, complete our **[Microsoft Security Copilot Partner Interest Form](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR7GkZxmcvGdGql1aVgLqRR1UNEk0MTVPVjg1VjhPMUJHVTZETlRXSk1RQy4u)!** 
 
 If you have an existing NDA with Microsoft, join our [Microsoft Security Copilot Limited Customer Connection Program (CCP)](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR_XAVZ7AP_VPg7dX-69WxXdUQ1ZNUUVQOFNZOUtVSzdTNTFCMUEyQkVUQi4u).
 
