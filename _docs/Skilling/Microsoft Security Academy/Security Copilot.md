@@ -21,7 +21,7 @@ We first introduced Security Copilot at the inaugural Microsoft Secure. Microsof
 
 If you have an existing NDA with Microsoft, join our [Microsoft Security Copilot Limited Customer Connection Program (CCP)](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR_XAVZ7AP_VPg7dX-69WxXdUQ1ZNUUVQOFNZOUtVSzdTNTFCMUEyQkVUQi4u).
 
-**[Explore our new Security Copilot documentation]()** featuring extensive resources to prepare for Security Copilot's February launch.
+Prepare for Security Copilot's February launch with our new **[Security Copilot documentation](https://learn.microsoft.com/en-us/security-copilot/).**
 
 **See our [Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
 
