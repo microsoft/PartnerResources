@@ -45,8 +45,8 @@ Download the PowerPoint for Maximizing Customer Success with Azure AI and Secu
 
 ## Features
 
-* Incident Response — Summarize incident information with incident details from data sources, assess impact, and receive tailored remediation guidance based on proven strategies.
-* Security Posture Management — Find out if your organization is at risk from known vulnerabilities and examine resources in your environment for signs of a breach.
+* Incident Response — Summarize incidents, assess impact, and receive tailored remediation guidance based on proven strategies.
+* Security Posture Management — Discover if your organization is at risk from known vulnerabilities and examine resources in your environment for signs of a breach.
 * Security Reports — Summarize investigations, incidents, vulnerabilities, or threats in minutes and prepare the information in ready-to-share reports.
 
 
