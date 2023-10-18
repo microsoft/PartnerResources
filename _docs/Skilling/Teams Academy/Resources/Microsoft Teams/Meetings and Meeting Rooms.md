@@ -8,7 +8,6 @@ tags:
 - learning plan
 - modern workplace
 - microsoft teams
-- meetings
 ---
 
 # Learning Plan Resources for Meetings & Meeting Rooms
