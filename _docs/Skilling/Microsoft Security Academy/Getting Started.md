@@ -3,7 +3,7 @@ layout: page
 title: Getting Started with the Microsoft Security Academy
 description: Want to begin or continue your security journey?
 permalink: /skilling/microsoft-security-academy/start
-updated: 2023-09-22
+updated: 2023-10-18
 showbreadcrumb: true
 tags: 
 - academy content
@@ -58,3 +58,4 @@ Welcome to cybersecurity! Browse our curated collection of resources to help you
 
 ## Information Protection Administrator
 * [What is an information protection administrator?](https://learn.microsoft.com/en-us/training/career-paths/information-protection-admin)
+* [What is Microsoft Purview?](https://learn.microsoft.com/en-us/purview/purview)
