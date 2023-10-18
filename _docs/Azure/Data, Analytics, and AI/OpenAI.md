@@ -2,7 +2,7 @@
 layout: page
 title: Azure OpenAI
 description: Resources for Azure OpenAI
-updated: 2023-05-23
+updated: 2023-10-17
 permalink: /azure/data-analytics-ai/openai
 tags: 
 - azure
@@ -14,8 +14,6 @@ tags:
 ---
 
 # Learning Plan Resources for Azure OpenAI
-
-> This document is under active development. Please check regularly for updates.
 
 ## Introduction
 
