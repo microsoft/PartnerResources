@@ -325,9 +325,6 @@
           url: "modern-workplace"
           tag: modern workplace
           children:
-            - title: Management
-              url: "modern-workplace/management"
-              tag: modern workplace management
             - title: Microsoft Teams
               url: "modern-workplace/microsoft-teams"
               tag: microsoft teams

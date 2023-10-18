@@ -3,7 +3,7 @@ layout: page
 title: Q&A for Security Copilot
 description: Common Security Copilot Q&A.
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot-extra
-updated: 2023-09-22
+updated: 2023-10-18
 showbreadcrumb: true
 tags: 
 - academy content
@@ -29,8 +29,11 @@ If a user is dissatisfied with Security Copilot's response, they have the option
 #### What is a "planner" or "orchestrator"?
 An orchestrator is an autonomous agent in an environment that is tasked to achieve a goal by deciding action(s). The state of the agent gets updated after each action execution. Given an NL question from the user, the orchestrator (1) Understands the intent using an LLM (2) Generates a Plan (3) Executes the Plan (4) Prepares the response for the user (5) Preserves and updates the state (memory, chat history).
 
-#### Can I build my own Security Copilot skillsets?
-Currently, **all skillsets are either built by/with Microsoft.** If you would like to build a skillset or provide input, please join the Early Access Program (EAP).
+#### Can I build my own Security Copilot plugins?
+Learn how to develop your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin#custom-plugins).**
+
+#### How can I build effective prompts?
+Learn to create effective, natural language inputs (prompts) in Security Copilot **[here](https://learn.microsoft.com/en-us/security-copilot/prompting-tips).**
 
 #### How is Security Copilot different from competitor solutions?
 There is no comparative to Security Copilot. Picture a scenario in which a junior analyst can access incident data from Sentinel, compare that data with alerts from Defender, gain insights into potentially impacted devices through Intune, and receive threat intelligence flags for known threat actors, all within **one platform.** This junior analyst can also easily share the investigation with colleagues and automatically generate incident reports.

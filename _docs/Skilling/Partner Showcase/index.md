@@ -25,6 +25,3 @@ Our latest sessions:
     sortfield="updated" sortorder="desc" showdate="false" 
     showtags="false" visualstyle="normal" 
 %}
-
-
-
