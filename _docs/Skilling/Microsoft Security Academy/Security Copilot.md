@@ -43,6 +43,13 @@ To get started, we recommend watching the following videos created by Microsoft 
 Download the PowerPoint for Maximizing Customer Success with Azure AI and Security Copilot [here]({{ site.baseurl }}/assets/msa/How to Prepare for Optimal Results with Azure AI Security Copilot.pptx).
 
 
+## Features
+
+* Incident Response — Summarize incident information with incident details from data sources, assess impact, and receive tailored remediation guidance based on proven strategies.
+* Security Posture Management — Find out if your organization is at risk from known vulnerabilities and examine resources in your environment for signs of a breach.
+* Security Reports — Summarize investigations, incidents, vulnerabilities, or threats in minutes and prepare the information in ready-to-share reports.
+
+
 ## Architecture
 
 
@@ -53,13 +60,6 @@ Download the PowerPoint for Maximizing Customer Success with Azure AI and Secu
 
 * [Microsoft Security Copilot in Microsoft 365 Defender](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-in-microsoft-365-defender?view=o365-worldwide&bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Security Copilot and Intune](https://learn.microsoft.com/en-us/mem/intune/fundamentals/security-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
-
-
-## Features
-
-* Incident Response — Summarize incident information with incident details from data sources, assess impact, and receive tailored remediation guidance based on proven strategies.
-* Security Posture Management — Find out if your organization is at risk from known vulnerabilities and examine resources in your environment for signs of a breach.
-* Security Reports — Summarize investigations, incidents, vulnerabilities, or threats in minutes and prepare the information in ready-to-share reports.
 
 
 #### Considerations
