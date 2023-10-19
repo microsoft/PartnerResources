@@ -15,18 +15,14 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 ![](../../../assets/partner-onboarding/partner-journey.png)
 Click on the individual steps below for details:
 
-- Learn Go To Market benefits
+- Create an publish offer in Partner Center
+  - [Create Your First Offer](/PartnerResources/skilling/partner-onboarding-academy/offer): Now that you've created an account, create your first offer.
+    - PRO TIP: Create "Contact Me" to get started
+- Upload Co-Sell Collateral to become "Co-Sell Ready"
+- [Share leads with Microsoft](https://learn.microsoft.com/en-us/partner-center/manage-leads)
+- Understand Marketplace Rewards
   - [Overview](https://partner.microsoft.com/en-US/solutions/go-to-market#/)
   - [How to](https://learn.microsoft.com/en-us/partner-center/mpn-learn-about-go-to-market-benefits)
-- [Create Your First Offer](/PartnerResources/skilling/partner-onboarding-academy/offer): Now that you've created an account, create your first offer.
-    - PRO TIP: Create "Contact Me" to get started
-- [Share leads with Microsoft](https://learn.microsoft.com/en-us/partner-center/manage-leads)
-- [Review Marketplace Rewards]
-
-- GROW
-  - [Create A Transactable Offer](/PartnerResources/skilling/partner-onboarding-academy/transactable-offer): Transactable Offers are the first step towards Co-Selling with Microsoft
-- Grow
-  - [Create MACC Eligible Offer](/PartnerResources/skilling/partner-onboarding-academy/macc-offer): Offers which are [MACC](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment) eligible are ideal for customers committment with an existing agreement.
 
 
 ### Next steps

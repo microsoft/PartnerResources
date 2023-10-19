@@ -8,25 +8,28 @@ showbreadcrumb: true
 ---
 {% include_relative header.md %}
 
-#### Welcome to the Microsoft Partner Onboarding Academy, your gateway to your Partner journey. 
+#### Onboarding onto the Azure Marketplace
 
-The Microsoft Partner Onboarding Academy's **Modules** are organized into sections which reflect the typical partner journey:
+This academy will walk you though the steps necessary to get started and prosper as a Microsoft Partner.  In this page, you will learn how to Onboard onto the Azure Marketplace
 
 ![](../../../assets/partner-onboarding/partner-journey.png)
 
-In this step, we will focus on Onboarding.
+The following steps will help you on your Partner Onboarding journey:
 
-Click on the individual steps below for details:
-
-- [Create a Partner Center Account](/PartnerResources/skilling/partner-onboarding-academy/acct) - In this step, you'll create a Partner Center account.
-- [Enroll in Microsoft AI Cloud Partner Program](https://learn.microsoft.com/en-us/partner-center/intro-to-cloud-partner-program-membership) - There are many Partner programs.  If you're looking to build on Azure, join this program.
+- [Create a Partner Center Account](/PartnerResources/skilling/partner-onboarding-academy/acct) - Microsoft Partner Center is a web-based portal and platform provided by Microsoft for its partners. 
+- [Join Microsoft AI Cloud Partner Program](https://learn.microsoft.com/en-us/partner-center/intro-to-cloud-partner-program-membership) - There are many partner programs.  If you're looking to build on Azure, join this program.
 - [Complete Business Profile](https://learn.microsoft.com/en-us/partner-center/create-a-marketing-profile)
-- Active Resources to Grow Business
-  - [Action Pack](https://partner.microsoft.com/en-us/partnership/action-pack) (OPTIONAL) - [How to purchase](https://learn.microsoft.com/en-us/partner-center/mpn-get-action-pack)
-  - [Meet Criteria for Solution Designation](https://learn.microsoft.com/en-us/partner-center/introduction-to-pcs) (OPTIONAL)
 - [Obtain your Partner ID](https://learn.microsoft.com/en-us/partner-center/partner-center-account-setup#identifiers)
+- Active Resources to Grow Business (OPTIONAL)
+  - While this can be done later in your journey, enrolling in these programs will help you in the future.
+  - [Microsoft Action Pack](https://partner.microsoft.com/en-us/partnership/action-pack) - Software, support, and benefits for businesses that want to start, build, and grow their Microsoft practice 
+    - [Follow these steps to purchase](https://learn.microsoft.com/en-us/partner-center/mpn-get-action-pack)
+  - [Meet Criteria for Solutions Partner Designation](https://learn.microsoft.com/en-us/partner-center/introduction-to-pcs)
+    - Specializations and expert programs  give solutions partners a way to differentiate their organizations by demonstrating deep technical expertise along with experience in specific technical scenarios under each solution area.
+  - [Learn about other benefits in Partner Center](https://learn.microsoft.com/en-gb/partner-center/manage-your-partner-network-benefits) (Azure credit, cloud services, software benefits, developer tool, and more)
 
 
 ### Next steps
 
 The next thing to do is to start [building your solution on Azure](/PartnerResources/skilling/partner-onboarding-academy/build).
+

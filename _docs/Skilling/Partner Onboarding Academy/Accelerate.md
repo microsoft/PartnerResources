@@ -15,8 +15,5 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 ![](../../../assets/partner-onboarding/partner-journey.png)
 Click on the individual steps below for details:
 
-- [Create A Transactable Offer](/PartnerResources/skilling/partner-onboarding-academy/transactable-offer): Transactable Offers are the first step towards Co-Selling with Microsoft
-- [Update offer to be Co-Sell Ready](): ???
-- [Update offer to be MACC Eligible](/PartnerResources/skilling/partner-onboarding-academy/macc-offer): Offers which are [MACC](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment) eligible are ideal for customers committment with an existing agreement.
-
-
+- [Access Partner Incentives](https://partner.microsoft.com/en-US/partnership/partner-incentives)
+- [Improve your Partner Capability Score](https://learn.microsoft.com/en-us/partner-center/partner-capability-score)
