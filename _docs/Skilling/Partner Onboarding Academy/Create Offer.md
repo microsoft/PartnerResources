@@ -2,7 +2,7 @@
 layout: page
 title: Create an Offer
 description: Are you ready to create an offer?
-permalink: /skilling/partner-onboarding-academy/offer
+permalink: /skilling/partner-onboarding-academy/create-offer
 updated: 2023-09-28
 showbreadcrumb: true
 tags: 
