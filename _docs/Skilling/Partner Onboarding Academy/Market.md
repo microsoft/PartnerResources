@@ -16,7 +16,7 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 Click on the individual steps below for details:
 
 - Create an publish offer in Partner Center
-  - [Create Your First Offer](/PartnerResources/skilling/partner-onboarding-academy/offer): Now that you've created an account, create your first offer.
+  - [Create Your First Offer](/PartnerResources/skilling/partner-onboarding-academy/create-offer): Now that you've created an account, create your first offer.
     - PRO TIP: Create "Contact Me" to get started
 - Upload Co-Sell Collateral to become "Co-Sell Ready"
 - [Share leads with Microsoft](https://learn.microsoft.com/en-us/partner-center/manage-leads)
