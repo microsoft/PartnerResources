@@ -32,9 +32,9 @@ tags:
 * [**MS Docs:** Azure Policy for Kubernetes clusters](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/policy-for-kubernetes)
 
 ### Examples-End-to-End examples for deploying Azure Policies
-* [QuickStart — Deploy & manage NSG Flow Logs using Azure Policy](https://docs.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-policy-portal)
-* [Enable Azure Monitor for VMs by using Azure Policy](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/vminsights-enable-policy)
-* [Use Azure Policy to implement governance & controls for Azure Cosmos DB resourcess](https://docs.microsoft.com/en-us/azure/cosmos-db/policy)
+* [**MS Docs:** QuickStart — Deploy & manage NSG Flow Logs using Azure Policy](https://docs.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-policy-portal)
+* [**MS Docs:** Enable Azure Monitor for VMs by using Azure Policy](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/vminsights-enable-policy)
+* [**MS Docs:** Use Azure Policy to implement governance & controls for Azure Cosmos DB resourcess](https://docs.microsoft.com/en-us/azure/cosmos-db/policy)
 
 ### Tools
 * [**MS Docs:** Azure Policy Extension for Visual Studio Code](https://docs.microsoft.com/en-us/azure/governance/policy/how-to/extension-for-vscode)
