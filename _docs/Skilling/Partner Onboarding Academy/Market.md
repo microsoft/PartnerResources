@@ -15,6 +15,7 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 ![](../../../assets/partner-onboarding/partner-journey.png)
 Click on the individual steps below for details:
 
+- Join Commercial MP Program and/or Office Store (for Teams apps)
 - Create an publish offer in Partner Center
   - [Create Your First Offer](/PartnerResources/skilling/partner-onboarding-academy/create-offer): Now that you've created an account, create your first offer.
     - PRO TIP: Create "Contact Me" to get started

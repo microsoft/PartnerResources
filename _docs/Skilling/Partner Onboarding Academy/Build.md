@@ -15,6 +15,8 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 ![](../../../assets/partner-onboarding/partner-journey.png)
 Click on the individual steps below for details:
 
+NOTE:  Discussing how to deploy/run your solution on Azure is out of scope of this document.  This document will focus on benefits available which can enable how to deploy/run on Azure.
+
 - [Use Technical presales & deployment services consulting (TDP)](https://learn.microsoft.com/en-us/partner-center/technical-benefits)
 - Review Technical Benefits
   - [Azure](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-azure-cloud)
@@ -23,7 +25,8 @@ Click on the individual steps below for details:
 - Build skills
   - [Use Skills Navigator](https://learn.microsoft.com/en-us/collections/mjdcwo2gzmz43)
   - [Find a Solution Partner](https://partner.microsoft.com/en-rs/partnership/solutions-partner) (OPTIONAL)
-- [Build on Azure] ???
+- Build on Azure
+  - [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/) This content provides videos, hands-on labs and sample code to help you build transactable offers on the Microsoft marketplace.
 
 ### Next steps
 

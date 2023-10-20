@@ -266,6 +266,12 @@
         - title: Accelerate
           url: "skilling/partner-onboarding-academy/accelerate"
           tag: accelerate
+        - title: FAQ
+          url: "skilling/partner-onboarding-academy/faq"
+          tag: faq
+        - title: Acronyms
+          url: "skilling/partner-onboarding-academy/acronyms"
+          tag: acronyms
     - title: "Security Academy"
       url: "skilling/microsoft-security-academy"
       tag: microsoft security academy

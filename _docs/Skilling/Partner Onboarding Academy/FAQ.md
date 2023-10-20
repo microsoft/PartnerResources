@@ -15,6 +15,8 @@ tags:
 
 ## Frequently Asked Questions
 
+- What's the best way to get support?  If you encounter issues and need to contact support, see [this page for which portal you should use](https://learn.microsoft.com/en-us/partner-center/support-resource-options).
+
 - Does the Marketplace have a fee? [Yes, 3% if transacting through the MP](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#commercial-marketplace-service-fees)
 
 - Does becoming a MSFT Partner mean that Microsoft owns part of your IP? No

@@ -45,6 +45,8 @@ Click on the individual steps below for details:
 
 #### Concepts
 
+NOTE: Microsoft uses many acronyms in it's business.  You can use [this page](/PartnerResources/skilling/partner-onboarding-academy/acronyms) for reference for the most commonly used one.
+
 Below are some concepts and definitions you'll see used in this Academy: 
 
 - [Partner Center](https://learn.microsoft.com/en-us/partner-center/overview): A portal for Partners to manage their account, offers, customers and billing
@@ -58,18 +60,6 @@ The most common types of Partners are:
 - [SI](https://en.wikipedia.org/wiki/Systems_integrator): Systems Integrator
 - [CSP](https://learn.microsoft.com/en-us/partner-center/enrolling-in-the-csp-program): Cloud Service Providers
  
-#### Acronyms
-
-Below are some acronyms and definitions you'll see used in this academy:
-
-- [ECIF](https://partner.microsoft.com/en-bd/community/seanm-partner-hub/intelligent-cloud/funding): End Customer Investment Funds
-- [GTM](https://en.wikipedia.org/wiki/Go_to_market): Go To Market
-- [MACC](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment): Microsoft Azure Consumption Commitment
-- [MCPP](https://www.microsoft.com/en-us/us-partner-blog/2022/06/01/what-you-need-to-know-about-the-microsoft-cloud-partner-program/): Microsoft Cloud Partner Program
-- [MP](https://azuremarketplace.microsoft.com/en-us/): Azure Marketplace
-- [MPO](https://learn.microsoft.com/en-us/partner-center/marketplace/multiparty-private-offers-faq): Multiparty Private Offers
-- [MPN](https://partner.microsoft.com/en-us/partnership): Microsoft Partner Number
-
 
 ### How does a Partner get started?
 
