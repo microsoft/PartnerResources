@@ -10,11 +10,11 @@ tags:
 - infrastructure
 ---
 
-# Learning Plan and Technical Resources for Windows Virtual Desktop
+# Learning Plan for Azure Virtual Desktop
 
 ## Fundamentals
 * [**MS Docs:** What is Azure Virtual Desktop?](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview)
-* [Azure Virtual Desktop terminology](https://learn.microsoft.com/en-us/azure/virtual-desktop/terminology)
+* [**MS Docs:** Azure Virtual Desktop terminology](https://learn.microsoft.com/en-us/azure/virtual-desktop/terminology)
 * [Azure Virtual Desktop Experience Estimator](https://azure.microsoft.com/en-us/services/virtual-desktop/assessment/)
 * [**MS Docs:** Connect with Windows Desktop client](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
 * [Azure Virtual Desktop Partner Integrations](https://docs.microsoft.com/en-us/azure/virtual-desktop/partners)
@@ -28,25 +28,25 @@ tags:
 * [**MS Docs:** Required URLs for Azure Virtual Desktop](https://docs.microsoft.com/en-us/azure/virtual-desktop/safe-url-list)
 
 ### Networking
-* [**MS Docs:** Determine user connection latency in Azure Virtual Desktop](https://docs.microsoft.com/en-us/azure/virtual-desktop/connection-latency)
-* [**MS Docs:** Remote Desktop Protocol bandwidth requirements](https://docs.microsoft.com/en-us/azure/virtual-desktop/rdp-bandwidth)
-* [**MS Docs:** Host pool load-balancing methods](https://docs.microsoft.com/en-us/azure/virtual-desktop/host-pool-load-balancing)
-* [**MS Docs:** Understanding Azure Virtual Desktop network connectivity](https://docs.microsoft.com/en-us/azure/virtual-desktop/network-connectivity)
-* [**MS Docs:** Use Azure Firewall to protect Azure Virtual Desktop deployments](https://docs.microsoft.com/en-us/azure/firewall/protect-windows-virtual-desktop)
+* [**MS Docs:** Determine User Connection Latency in Azure Virtual Desktop](https://docs.microsoft.com/en-us/azure/virtual-desktop/connection-latency)
+* [**MS Docs:** Remote Desktop Protocol Bandwidth Requirements](https://docs.microsoft.com/en-us/azure/virtual-desktop/rdp-bandwidth)
+* [**MS Docs:** Host pool load-balancing Methods](https://docs.microsoft.com/en-us/azure/virtual-desktop/host-pool-load-balancing)
+* [**MS Docs:** Understanding Azure Virtual Desktop Network Connectivity](https://docs.microsoft.com/en-us/azure/virtual-desktop/network-connectivity)
+* [**MS Docs:** Use Azure Firewall to protect Azure Virtual Desktop Deployments](https://docs.microsoft.com/en-us/azure/firewall/protect-windows-virtual-desktop)
 
 ### Governance and Identity
 * [**MS Docs:** Delegated access in Azure Virtual Desktop](https://docs.microsoft.com/en-us/azure/virtual-desktop/delegated-access-virtual-desktop)
 * [**MS Docs:** Data and metadata locations for Azure Virtual Desktop](https://docs.microsoft.com/en-us/azure/virtual-desktop/data-locations)
-* [Topologies for Microsoft Entra Connect](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/connect/plan-connect-topologies)
+* [**MS Docs:** Topologies for Microsoft Entra Connect](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/connect/plan-connect-topologies)
 
 ### Microsoft Teams integration
-* [Use Microsoft Teams on Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)
+* [**MS Docs:** Use Microsoft Teams on Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)
 
 ### Monitoring
 * [**MS Docs:** Azure Virtual Desktop Diagnostics with Log Analytics](https://docs.microsoft.com/en-us/azure/virtual-desktop/diagnostics-log-analytics)
 * [**MS Docs:** Setup Alerts](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-service-alerts)
 
 ### Automation and Deployment
-* [Virtual Desktop Host Optimization Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
-* [**MS Docs:** Create a host pool to validate service updates](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-validation-host-pool)
-* [**MS Docs:** Setup the PowerShell module for Azure Virtual Desktop](https://docs.microsoft.com/en-us/azure/virtual-desktop/powershell-module)
+* [**GitHub:** Virtual Desktop Host Optimization Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
+* [**MS Docs:** Create Host Pool to validate Service Updates](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-validation-host-pool)
+* [**MS Docs:** Setup PowerShell for Azure Virtual Desktop](https://docs.microsoft.com/en-us/azure/virtual-desktop/powershell-module)

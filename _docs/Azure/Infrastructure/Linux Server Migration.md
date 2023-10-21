@@ -14,10 +14,8 @@ tags:
 
 ## Fundamentals
 * [**MS Docs:** Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/) (Self-Paced)
-
 ## Associate
 * [**MS Docs:** Microsoft Cloud Adoption Framework for Azure: Migrate](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/) 
-* [Learning Path: Secure your cloud data](https://docs.microsoft.com/en-us/learn/paths/secure-your-cloud-data/) 
 * [Manage Azure Resources](https://docs.microsoft.com/en-us/learn/paths/manage-resources-in-azure/) 
 * [Administer Containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/) 
 * [Administer Infrastructure Resources in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-infrastructure-resources-in-azure/) 

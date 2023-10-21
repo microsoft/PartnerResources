@@ -160,7 +160,7 @@ tags:
 * [AVS Accelerator Automation — Reference Implementation](https://aka.ms/avsacceleratorautomation): [Greenfield](https://github.com/Azure/Enterprise-Scale-for-AVS/tree/main/AVS-Landing-Zone/GreenField) | [Brownfield](https://github.com/Azure/Enterprise-Scale-for-AVS/blob/main/BrownField) | [Submit Request/Feedback/Issue](https://github.com/Azure/Enterprise-Scale-for-AVS/issues/new)
 
 ### Benefits
-* [Know your options for SQL Server 2012 and Windows Server 2012 End of Support](https://www.microsoft.com/windows-server/extended-security-updates) -- [Blog](https://cloudblogs.microsoft.com/sqlserver/2021/07/14/know-your-options-for-sql-server-2012-and-windows-server-2012-end-of-support/)
+* [Know your options for SQL Server 2012 and Windows Server 2012 End of Support](https://www.microsoft.com/windows-server/extended-security-updates) — [Blog](https://cloudblogs.microsoft.com/sqlserver/2021/07/14/know-your-options-for-sql-server-2012-and-windows-server-2012-end-of-support/)
 * [Self-service exchanges and refunds for Azure Reservations](https://learn.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)
 
 ## Keeping Up

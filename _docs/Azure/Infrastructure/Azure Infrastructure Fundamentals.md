@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Azure Infrastructure Fundamentals and Well-Architected Framework
-description: Resources for Azure Infrastructure fundamentals
+title: Azure Well-Architected Framework
+description: Resources for Azure Well-Architected Framework
 updated: 2023-10-20
 permalink: /azure/infrastructure/azure-fundamentals
 tags: 

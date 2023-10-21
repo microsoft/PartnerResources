@@ -28,7 +28,7 @@ tags:
 
 ## Load Balancing
 * [**MS Docs:** Azure Network Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
-* [**MS Docs:** Azure Application Gateway - Layer 7 Load balancer](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
+* [**MS Docs:** Azure Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
 * [**MS Docs:** Azure Front Door](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview)
 * [**MS Docs:** Azure DNS Load Balancer](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview)
 
@@ -42,8 +42,7 @@ tags:
 * [**MS Docs:** Azure DDoS Protection](https://docs.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview)
 
 ## Azure Networking Hands-on labs
-* [Azure Networking Hands-on Labs](https://github.com/binals/azurenetworking)
-
+* [**GitHub:** Azure Networking Hands-on Labs](https://github.com/binals/azurenetworking)
 
 ## Networking Architectures on Azure
 * [**MS Docs:** Hub-spoke topology](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke)
@@ -53,18 +52,16 @@ tags:
 * [**MS Docs:** Load Balancing Decision Tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview#overview)
 * [**MS Docs:** Azure Virtual WAN Migration](https://docs.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology)
 
-
 ## Azure Kubernetes Networking
 * [**MS Docs:** Azure CNI Networking](https://docs.microsoft.com/en-us/azure/aks/configure-azure-cni)
 * [**MS Docs:** Azure Application Gateway Ingress Controller](https://docs.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-existing?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Faks%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fbread%2Ftoc.json)
-* [**MS Docs:** Restrict egress traffic using Azure firewall](https://docs.microsoft.com/en-us/azure/aks/limit-egress-traffic#restrict-egress-traffic-using-azure-firewall)
-* [**MS Docs:** Network policy options in AKS](https://docs.microsoft.com/en-us/azure/aks/use-network-policies#network-policy-options-in-aks)
+* [**MS Docs:** Restrict Egress Traffic using Azure Firewall](https://docs.microsoft.com/en-us/azure/aks/limit-egress-traffic#restrict-egress-traffic-using-azure-firewall)
+* [**MS Docs:** Network Policy Options in AKS](https://docs.microsoft.com/en-us/azure/aks/use-network-policies#network-policy-options-in-aks)
 
 ## Resources for Virtual WAN (SDWAN)
 * [**MS Docs:** Virtual WAN documentation](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about)
 * [**MS Docs:** Azure Firewall in vWAN hub](https://docs.microsoft.com/en-us/azure/virtual-wan/howto-firewall/) 
 * [**MS Docs:** vWAN Partner Integrations](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-locations-partners) 
-
 
 ## Additional Learning resources
 * [**MS Docs:** Azure Network Security Best Practices](https://docs.microsoft.com/en-us/azure/security/fundamentals/network-best-practices) 
