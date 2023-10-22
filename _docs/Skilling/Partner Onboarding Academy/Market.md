@@ -46,18 +46,14 @@ In a co-sell opportunity, one or more Microsoft sales representatives actively e
 
 Follow this webpage to learn how to upload opportunities: [Manage Co-sell Opportunities](https://learn.microsoft.com/en-us/partner-center/manage-co-sell-opportunities). 
 
-#### Understand Marketplace Rewards 
-  - [Overview](https://partner.microsoft.com/en-US/solutions/go-to-market#/)
-  - [How to](https://learn.microsoft.com/en-us/partner-center/mpn-learn-about-go-to-market-benefits)
-- Create an publish offer in Partner Center
-  - [Create Your First Offer](/PartnerResources/skilling/partner-onboarding-academy/create-offer): Now that you've created an account, create your first offer.
-    - PRO TIP: Create "Contact Me" to get started
-
-- [Share leads with Microsoft](https://learn.microsoft.com/en-us/partner-center/manage-leads)
+#### Understand Marketplace Rewards
+DRAFT 
+As you begin to sell through the Azure Marketplace, you are able to take advantage of Sales and Marketing benefits provided by Microsoft. 
+https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-rewards
+https://onedrive.live.com/view.aspx?resid=6C423AE231DA44BB!2126&ithint=file%2cpptx&wdo=2&authkey=!AN7rkGIrJ72JoMs
 
   - [Overview](https://partner.microsoft.com/en-US/solutions/go-to-market#/)
   - [How to](https://learn.microsoft.com/en-us/partner-center/mpn-learn-about-go-to-market-benefits)
-
 
 ### Next steps
 
