@@ -19,9 +19,17 @@ Click on the individual steps below for details:
 #### Create and Publish an offer in Partner Center
   - One you have identified the correct offer type for your solution, follow the respective publishing guide. [Publishing Guide by Offer Type](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type)
      - Some offer types have different listing options available. For example, if you are publishing a SaaS offer, there are the following listing options:
-    ![](/assets/partner-onboarding/SaaS-listing-options.png){: width="250" }
+       
+| Listing option   |Transaction process |
+| ----------- | ----------- |
+| Contact me	   | The customer contacts you directly from information in your listing.* You can change to a different listing option after publishing the offer.|
+| Free trial  | 	The customer is redirected to your target URL via Azure Active Directory (Azure AD).* You can change to a different listing option after publishing the offer.|  
+| Get it now (Free) | The customer is redirected to your target URL via Azure AD.* You can change to a different listing option after publishing the offer. |
+| Sell through Microsoft | Offers sold through Microsoft are called transactable offers. An offer that is transactable is one in which Microsoft facilitates the exchange of money for a software license on the publisher's behalf. We bill SaaS offers using the pricing model you choose, and manage customer transactions on your behalf. Azure infrastructure usage fees are billed to you, the partner, directly. You should account for infrastructure costs in your pricing model. This is explained in more detail in SaaS billing below. |  
 
-     - TIP: The fastest and easiest offer is a "Contact Me" offer. If your goal is to get something published on the Azure Marketplace ASAP then select a "Contact Me" offer. However, most of the Co-sell and GTM benefits provided by Microsoft require solutions to be transactable in the Azure Marketplace. This would require a "Sell With Microsoft" offer. 
+Note: You cannot change this option once your offer is published.  
+
+TIP: The fastest and easiest offer is a "Contact Me" offer. If your goal is to get something published on the Azure Marketplace ASAP then select a "Contact Me" offer. However, most of the   Co-sell and GTM benefits provided by Microsoft require solutions to be transactable in the Azure Marketplace. This would require a "Sell With Microsoft" offer. 
 
 #### Upload Co-Sell Collateral to become "Co-Sell Ready"
 Co-selling is any collaborative engagement between Microsoft and its partner ecosystem, including: 
