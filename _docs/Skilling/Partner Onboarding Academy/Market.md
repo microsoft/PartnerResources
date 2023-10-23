@@ -18,8 +18,8 @@ Click on the individual steps below for details:
 
 #### Create and Publish an offer in Partner Center
   - One you have identified the correct offer type for your solution, follow the respective publishing guide. [Publishing Guide by Offer Type](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type)
-     - Some offer types have different listing options available. For example, if you are publishing a SaaS offer, there are the following listing options:  
-       <img src="../../../assets/partner-onboarding/SaaS-listing-options.png" width="600" />
+     - Some offer types have different listing options available. For example, if you are publishing a SaaS offer, there are the following listing options:
+    ![](/assets/partner-onboarding/SaaS-listing-options.png)
 
      - TIP: The fastest and easiest offer is a "Contact Me" offer. If your goal is to get something published on the Azure Marketplace ASAP then select a "Contact Me" offer. However, most of the Co-sell and GTM benefits provided by Microsoft require solutions to be transactable in the Azure Marketplace. This would require a "Sell With Microsoft" offer. 
 
