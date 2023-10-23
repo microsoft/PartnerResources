@@ -47,13 +47,9 @@ In a co-sell opportunity, one or more Microsoft sales representatives actively e
 Follow this webpage to learn how to upload opportunities: [Manage Co-sell Opportunities](https://learn.microsoft.com/en-us/partner-center/manage-co-sell-opportunities). 
 
 #### Understand Marketplace Rewards
-DRAFT 
-As you begin to sell through the Azure Marketplace, you are able to take advantage of Sales and Marketing benefits provided by Microsoft. 
-https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-rewards
-https://onedrive.live.com/view.aspx?resid=6C423AE231DA44BB!2126&ithint=file%2cpptx&wdo=2&authkey=!AN7rkGIrJ72JoMs
-
-  - [Overview](https://partner.microsoft.com/en-US/solutions/go-to-market#/)
-  - [How to](https://learn.microsoft.com/en-us/partner-center/mpn-learn-about-go-to-market-benefits)
+As you begin to sell through the Azure Marketplace, you are able to take advantage of Sales and Marketing benefits provided by Microsoft. Microsoft offers many programs for Partners. Membership workspace in Partner Center is a single stop shop where you can manage multiple membership of yours with Microsoft. We offer multiple programs for different types of partners [Partner Programs](https://learn.microsoft.com/en-us/partner-center/mpn-overview#explore-different-tracks). Different memberships come with different benefits provided by Microsoft. These benefits can be redeemed from Benefits workspace (including Azure Credits, Cloud Services, Software Keys, Technical consultation, Developer Tools, Marketing Benefits & Logo Builder).  
+  - [Guide to Redeem Marketplace Benefits](https://learn.microsoft.com/en-us/partner-center/mpn-learn-about-go-to-market-benefits)  
+  - For ISV partners, learn more about the [ISV Success Program](https://onedrive.live.com/view.aspx?resid=6C423AE231DA44BB!2126&ithint=file%2cpptx&wdo=2&authkey=!AN7rkGIrJ72JoMs) 
 
 ### Next steps
 
