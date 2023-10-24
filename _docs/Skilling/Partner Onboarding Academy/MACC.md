@@ -13,9 +13,31 @@ tags:
 
 ## Microsoft Partner Onboarding Academy
 
-Once you've created a transactable offer in the MP, the next step on most partner's journey is to make the offer attractive to customers and field sellers.
+Once you've created a transactable offer in the Marketplace, the next step on most partner's journey is to make the offer attractive to customers and field sellers.
 
-One of the most popular ways is to make an offer MACC eligible.  This page will walk through that process.
+One of the most popular ways is to make an offer MACC eligible. This page will walk through that process.
 
-### Fundamentals
+### What is a MACC offer
+
+#### MACC program:
+**The Microsoft Azure Consumption Commitment** (MACC) program is for [transactable offers](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#transact-overview) that are published to the commercial marketplace. Marketplace purchases of transactable offers that are enrolled in this program contribute towards an organization’s Microsoft Azure Consumption Commitment. Marketplace purchases that contribute towards a customer’s Microsoft Azure consumption commitment are limited to Azure benefit-eligible offers and can only be used to purchase solutions that are primarily platformed on or extend Microsoft cloud products or infrastructure
+
+### Requirements for an offer to be enrolled in MACC
+An offer must meet the following requirements to be enrolled in the MACC program:
+  - Transactable with a pricing plan greater than $0
+-   **Note** : **Free and BYOL (bring your own license) offers are NOT considered transactable.**
+  - Azure IP co-sell eligible
+  - Published live in the commercial marketplace
+
+### MACC Eligible Requirements
+
+One of the most popular Azure IP Co-Sell Incentives is MACC Eligibility.  
+
+[MACC Eligible Requirements](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment#requirements-for-an-offer-to-be-enrolled-in-macc) 
+
+1. Azure IP Co-sell Incentivized
+2. Transactable for > $0
+3. Offer is Live in MP
+
+Additional Details : [Azure Commitment Benefit](https://learn.microsoft.com/en-us/marketplace/azure-consumption-commitment-benefit)
 
