@@ -17,12 +17,12 @@ Once you've created your first offer in the MP, the next step on most partner's 
 
 This page will discuss what that means and how to get the most out of it.
 
-### Fundamentals
+### Fundamentals: Create a Transactable Offer
 
-From [MS Docs](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#transact-publishing-option):
-> A transactable offer is one in which Microsoft facilitates the exchange of money for a software license on the publisher’s behalf. Transact offers are billed against an existing Microsoft subscription or credit card, allowing Microsoft to host cloud marketplace transactions on behalf of the publisher.
+[What is a Transactable offer](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#transact-publishing-option):
+A transactable offer is one in which Microsoft facilitates the exchange of money for a software license on the publisher’s behalf. Transact offers are billed against an existing Microsoft subscription or credit card, allowing Microsoft to host cloud marketplace transactions on behalf of the publisher.
 
-To summarize, Transacting through the MP means that billing for your software goes through Microsoft instead of your own invoicing system.
+To summarize, Transacting through the Marketplace means that billing for your software goes through Microsoft instead of your own invoicing system.
 
 Transactable Offer types:
 
