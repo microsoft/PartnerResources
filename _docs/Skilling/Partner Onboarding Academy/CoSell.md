@@ -13,22 +13,22 @@ tags:
 
 ## Microsoft Partner Onboarding Academy
 
-Once you've created a transactable offer in the MP, the next step on most partner's journey is to CoSell with Microsoft.
+Once you've created a transactable offer in the Marketplace, the next step on most partner's journey is to CoSell with Microsoft. In this section you will learn about the differences between Co-sell Ready and IP Co-sell Eligible.
 
 
 
-### Fundamentals
+### What is Co-sell
 
-Every MP Solution will have a [Co-Sell Status](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#co-sell-statuses) that builds on each other:
+Co-selling is any collaborative engagement between Microsoft and its partner ecosystem, including:
+- Building demand
+- Sales planning
+- Sharing sales leads
+- Accelerating partner-to-partner empowered selling
+- Delivering marketplace-led commerce
 
-- In-Market:
-  - Offer is available in MP
-- Co-Sell Ready:
-  - Offer meets In-Market requirements AND
-  - Meets all Co-Sell Ready Requirements (TODO: add link to below page))
-- Azure IP co-sell incentive:
-  - Offer meets Co-Sell Ready requirements AND
-  - Eligible for incentives (e.g. MACC)
+**Co-sell-ready status** exposes your solutions to Microsoft sales teams. Co-selling with Microsoft sales teams and Microsoft partners helps you reach a vast community of Microsoft-managed customers to collaborate on sales opportunities that accelerate your business growth.
+
+**The Azure IP Co-sell eligibility** allows you to submit co-sell referrals and for your offers to contribute toward customers’ Microsoft Azure Consumption Commitments (MACC).
 
 
 ### Co-Sell Ready Requirements
@@ -47,22 +47,23 @@ Here are the [Co-Sell Ready Requirements](https://learn.microsoft.com/en-us/part
 Here are the [Azure IP Co-Sell Incentive Requirements](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#requirements-for-azure-ip-co-sell-incentive-status) for an offer:
 
 1. Co-Sell Ready
-2. $100k USD of ACR or MBS over last 12 months
+2. $100k USD of Azure Consumed Revenue (ACR) or Marketplace Billed Sales (MBS) over last 12 months
 3. Provide reference architecture diagram. ([Example](https://learn.microsoft.com/en-us/partner-center/reference-architecture-diagram#example-reference-architecture-diagram-vertical-industry-chatbot))
    - __PRO TIP__:  Use red box with "IP", use Azure Logos, add bullet points with data flows
 4. 50% of the offer's infrastructure uses Azure
 5. Offer must be transactable on the Marketplace
 
-### MACC Eligible Requirements
+### Verify Co-sell Status
 
-One of the most popular Azure IP Co-Sell Incentives is MACC Eligibility.  
+[Verify Co-sell Status](https://learn.microsoft.com/en-us/partner-center/co-sell-status): make sure user has appropriate permissions to access partner center.
+-  Permissions needed: Co-sell solution admin
 
-[MACC Eligible Requirements](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment#requirements-for-an-offer-to-be-enrolled-in-macc) 
+To verify the co-sell status of a solution, use the following steps:
+  1. Sign in to Partner Center and select Referrals.
+  2. Select Co-sell solutions.
+  - You can verify the current co-sell status and incentives programs your solution is approved for in the grid.
+  - You can alternatively select the solution name and open the pane to verify its current status (including if the status is currently under review).
 
-1. Azure IP Co-sell Incentivized
-2. Transactable for > $0
-3. Offer is Live in MP
  
 Additional details:
-- [How to tell if offer is MACC eligible](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment#how-to-see-if-your-offer-is-enrolled-in-the-macc-program)
-
+[IP Co-sell top tier benefits](https://learn.microsoft.com/en-us/partner-center/azure-ip-co-sell-top-tier-benefits)
