@@ -61,5 +61,11 @@ As you begin to sell through the Azure Marketplace, you are able to take advanta
   - For ISV partners, learn more about the [ISV Success Program](https://onedrive.live.com/view.aspx?resid=6C423AE231DA44BB!2126&ithint=file%2cpptx&wdo=2&authkey=!AN7rkGIrJ72JoMs) 
 
 ### Next steps
+Before moving on to the next section you should have: 
+-  [x] A published offer in the Micosoft Marketplace
+-  [x] Uploaded the collateral needed to cosell with Microsoft. AKA: your solution is "Co-sell Ready"!
+-  [x] Shared at least 1 co-sell opportunity with Microsoft through Partner Center 
+-  [x] Read and understand the potential of Marketplace rewards & redeemed your Marketplace benefits 
+
 
 The next thing to do is to start [growing your marketplace solution](/PartnerResources/skilling/partner-onboarding-academy/grow).
