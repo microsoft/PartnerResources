@@ -31,6 +31,8 @@ Note: You cannot change this option once your offer is published.
 
 TIP: The fastest and easiest offer is a "Contact Me" offer. If your goal is to get something published on the Azure Marketplace ASAP then select a "Contact Me" offer. However, most of the   Co-sell and GTM benefits provided by Microsoft require solutions to be transactable in the Azure Marketplace. This would require a "Sell With Microsoft" offer. 
 
+For a deeper dive into creating an offer, check out the [Create Offer Page](_docs/Skilling/Partner Onboarding Academy/Create Offer.md)
+
 #### Upload Co-Sell Collateral to become "Co-Sell Ready"
 Co-selling is any collaborative engagement between Microsoft and its partner ecosystem, including: 
 - Building demand 
