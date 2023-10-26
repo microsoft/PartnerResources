@@ -250,6 +250,7 @@
             - title: Customer Success
               url: "skilling/microsoft-infrastructure-academy/enable-customer-success"
               tag: enable-customer-success
+              children:
                 - title: Well Architected Framework
                   url: "/skilling/microsoft-infrastructure-academy/waf"
                   tag: well architected framework
