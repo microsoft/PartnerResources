@@ -59,6 +59,6 @@ For more information on Visual Studio and GitHub benefits for Microsoft Partners
 - Build on Azure
   - [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/) This content provides videos, hands-on labs and sample code to help you build transactable offers on the Microsoft marketplace.
 
-### Next steps
+## Next steps
 
 The next thing to do is to start [marketing your solution on Azure](/PartnerResources/skilling/partner-onboarding-academy/market).
