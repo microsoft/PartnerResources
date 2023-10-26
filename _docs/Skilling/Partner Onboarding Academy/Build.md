@@ -29,13 +29,13 @@ For more information on Technical Presales and Deployment Benefits for Microsoft
 
 ## Technical Benefits
 
-Microsoft Partners receive a number of benefits as a result of their partnership, including Azure Credits, Visual Studio and other Microsoft software, and GitHub Enterprise licenses.
+Microsoft Partners receive several benefits from their partnership, including Azure Credits, Visual Studio, other Microsoft software, and GitHub Enterprise licenses.
 
 ### Azure Credits
 
 As a Microsoft Partner, you may be eligible for Azure credits issued each month or for the current year. You can view your credits at the [Partner Center Azure Credits Page](https://partner.microsoft.com/dashboard/v2/benefits/azure).
 
-These credits must be assigned to a user in your organization.
+Assign these credits to a user in your organization.
 
 For more information on Azure Credits for Microsoft Partners, see [this article](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-azure-cloud).
 
@@ -43,18 +43,18 @@ For more information on Azure Credits for Microsoft Partners, see [this article]
 
 Microsoft Partners receive licenses for free Microsoft software.
 
-These benefits are listed in the "Software Benefits" section of the [Partner Center](https://partner.microsoft.com/dashboard/home), along with license keys, the last date on which you may activate the software, and instructions on how to activate your software.
+These benefits are listed in the "Software Benefits" section of the [Partner Center](https://partner.microsoft.com/dashboard/home), along with license keys, the last date you may activate the software, and instructions on activating your software.
 
 For more information on Software Benefits for Microsoft Partners, see [this article](
 https://learn.microsoft.com/en-us/partner-center/mpn-benefits-software).
 
 ### Visual Studio and GitHub benefits
 
-As a Microsoft Partner, you may be entitled to licenses for Visual Studio and GitHub GitHub Enterprise Cloud subscriptions.
+As a Microsoft Partner, you may be entitled to licenses for Visual Studio and GitHub Enterprise Cloud subscriptions.
 
-To access these benefits, select "Visual Studio subscriptions benefits" on the "Developer Tools" tab of the [Partner Center](https://partner.microsoft.com/dashboard/home). Here, you will find the number of available licenses and instructions on how to assign them to your users.
+To access these benefits, select "Visual Studio subscriptions benefits" on the "Developer Tools" tab of the [Partner Center](https://partner.microsoft.com/dashboard/home). Here, you will find the number of available licenses and instructions on assigning them to your users.
 
-For more information on Visual Studio and GitHub benefits for Microsoft Partners, see [this article](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-visual-studio).
+See [this article](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-visual-studio) for more information on Visual Studio and GitHub benefits for Microsoft Partners.
 
 ## Links
 
