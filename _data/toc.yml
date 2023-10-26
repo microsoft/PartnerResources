@@ -250,9 +250,9 @@
             - title: Customer Success
               url: "skilling/microsoft-infrastructure-academy/enable-customer-success"
               tag: enable-customer-success
-                - title: Well-Architected Framework
+                - title: Well Architected Framework
                   url: "/skilling/microsoft-infrastructure-academy/waf"
-                  tag: well-architected framework
+                  tag: well architected framework
                 - title: Cloud Adoption Framework
                   url: "/skilling/microsoft-infrastructure-academy/cloud-adoption-framework"
                   tag: cloud adoption framework
