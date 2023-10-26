@@ -228,7 +228,7 @@
           url: "skilling/microsoft-infrastructure-academy/modules"
           tag: modules
           children:
-            - title: Migrate and Secure Windows & SQL Servers
+            - title: Windows & SQL Servers
               url: "skilling/microsoft-infrastructure-academy/windows-sql-servers"
               tag: windows & sql servers
               children:
