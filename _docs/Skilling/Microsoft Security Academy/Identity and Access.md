@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Microsoft Security Academy - Identity & Access
+title: Microsoft Security Academy — Identity & Access
 description: Microsoft Security Academy Identity & Access Management.
 permalink: /skilling/microsoft-security-academy/identity-access
-updated: 2023-06-07
+updated: 2023-11-01
 showbreadcrumb: true
 tags: 
 - academy content

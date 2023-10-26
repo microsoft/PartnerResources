@@ -3,7 +3,7 @@ layout: page
 title: Linux and Windows Server Migration
 description: Resources for Linux Migrations
 updated: 2023-10-23
-permalink: /azure/infrastructure/linux-server-migration
+permalink: /skilling/microsoft-infrastructure-academy/resources/linux-server-migration
 tags: 
 - learning plan
 - azure

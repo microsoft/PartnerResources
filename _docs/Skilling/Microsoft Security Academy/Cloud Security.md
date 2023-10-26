@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Microsoft Security Academy - Cloud Security
+title: Microsoft Security Academy — Cloud Security
 description: Microsoft Security Academy Cloud Security.
 permalink: /skilling/microsoft-security-academy/cloud-security
-updated: 2023-06-07
+updated: 2023-11-01
 showbreadcrumb: true
 tags: 
 - academy content

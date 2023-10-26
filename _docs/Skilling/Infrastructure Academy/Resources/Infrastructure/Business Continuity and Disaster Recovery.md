@@ -3,7 +3,7 @@ layout: page
 title: Business Continuity and Disaster Recovery
 description: Resources for BCDR (Business Continuity and Disaster Recovery)
 updated: 2023-10-20
-permalink: /azure/infrastructure/business-continuity-and-disaster-recovery
+permalink: /skilling/microsoft-infrastructure-academy/resources/bcdr
 tags: 
 - learning plan
 - azure

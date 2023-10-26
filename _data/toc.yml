@@ -220,6 +220,48 @@
             - title: Viva Sales
               url: "skilling/d365-academy/d365-sales-academy/vivasales"
               tag: d365 sales academy viva sales
+    - title: "Infrastructure Academy"
+      url: "skilling/microsoft-infrastructure-academy"
+      tag: modern infrastructure academy
+      children:
+        - title: Modules
+          url: "skilling/microsoft-infrastructure-academy/modules"
+          tag: modules
+          children:
+            - title: Migrate and Secure Windows & SQL Servers
+              url: "skilling/microsoft-infrastructure-academy/windows-sql-servers"
+              tag: windows & sql servers
+              children:
+                - title: Azure VMware Solution
+                  url: "/skilling/microsoft-infrastructure-academy/avs"
+                  tag: avs
+                - title: Azure Arc
+                  url: "/skilling/microsoft-infrastructure-academy/azure-arc"
+                  tag: azure arc
+                - title: Azure Virtual Desktop
+                  url: "/skilling/microsoft-infrastructure-academy/avd"
+                  tag: avd
+                - title: Networking
+                  url: "/skilling/microsoft-infrastructure-academy/networking"
+                  tag: networking
+            - title: SAP on Azure
+              url: "skilling/microsoft-infrastructure-academy/sap-on-azure"
+              tag: sap on azure
+            - title: Customer Success
+              url: "skilling/microsoft-infrastructure-academy/enable-customer-success"
+              tag: enable-customer-success
+                - title: Well-Architected Framework
+                  url: "/skilling/microsoft-infrastructure-academy/waf"
+                  tag: well-architected framework
+                - title: Cloud Adoption Framework
+                  url: "/skilling/microsoft-infrastructure-academy/cloud-adoption-framework"
+                  tag: cloud adoption framework
+            - title: AI Infrastructure
+              url: "skilling/microsoft-infrastructure-academy/ai-infrastructure"
+              tag: ai infrastructure
+        - title: Resources
+          url: "skilling/microsoft-infrastructure-academy/resources"
+          tag: infrastructure
     - title: "Modern Analytics Academy"
       url: "skilling/modern-analytics-academy"
       tag: modern analytics academy
