@@ -17,6 +17,16 @@ Click on the individual steps below for details:
 
 NOTE:  Discussing how to deploy/run your solution on Azure is out of scope of this document.  This document will focus on benefits available which can enable how to deploy/run on Azure.
 
+## Technical Presales and Deployment Benefits
+
+Microsoft provides its partners with technical presales and deployment benefits.
+
+Some partners are entitled to one-to-one consultations with Microsoft to help sell their services.
+
+Othe benefits include evaluation of soultions, upskilling, architecture guidance, help listing in the appropriate marketplace, and proofs of concept.
+
+For more information on Technical Presales and Deployment Benefits for Microsoft Partners, see [this article](https://learn.microsoft.com/en-us/partner-center/technical-benefits).
+
 ## Technical Benefits
 
 Microsoft Partners receive a number of benefits as a result of their partnership, including Azure Credits, Visual Studio and other Microsoft software, and GitHub Enterprise licenses.
