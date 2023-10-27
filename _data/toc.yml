@@ -12,9 +12,6 @@
         - title: Data, Analytics, and AI
           url: "azure/data-analytics-ai"
           tag: data, analytics, and ai
-        - title: Infrastructure
-          url: "azure/infrastructure"
-          tag: infrastructure
         - title: IoT
           url: "azure/iot"
           tag: iot

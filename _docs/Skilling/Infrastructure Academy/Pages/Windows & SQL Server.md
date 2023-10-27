@@ -14,15 +14,13 @@ tags:
 ## Migrate and Secure Windows & SQL Servers
 
 ### [Azure VMware Solution Academy](/PartnerResources/skilling/microsoft-infrastructure-academy/avs)
-The Microsoft Sentinel Academy teaches you how to stop threats before they happen with Microsoft Sentinel's cloud and large-scale intelligence, making threat detection and response faster with AI. Learn how to collect data at scale or how to detect, investigate and hunt threats. Dive into training that highlights incident response with built-in orchestration, automation, and AI.
+The Azure VMware Solution Academy teaches you how to seamlessly integrate your VMware workloads with Azure for improved scalability and efficiency. Harness the full potential of Azure VMware, enabling you to enhance your infrastructure, streamline operations, and maximize benefits.
 
 ### [Azure Arc Academy](/PartnerResources/skilling/microsoft-infrastructure-academy/azure-arc)
-The Microsoft 365 Defender Academy features its enterprise defense suite that coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications. Learn about integrated Microsoft 365 Defender solutions, including Microsoft Defender for Office 365, Defender for Identity, and Defender for Cloud Apps.
+*Add description*
 
-### [Azure Virtual Desktop (AVD) Academy](/PartnerResources/skilling/microsoft-infrastructure-academy/avd)
-The Microsoft Sentinel Academy teaches you how to stop threats before they happen with Microsoft Sentinel's cloud and large-scale intelligence, making threat detection and response faster with AI. Learn how to collect data at scale or how to detect, investigate and hunt threats. Dive into training that highlights incident response with built-in orchestration, automation, and AI.
+### [Azure Virtual Desktop Academy](/PartnerResources/skilling/microsoft-infrastructure-academy/avd)
+*Add description*
 
 ### [Networking Academy](/PartnerResources/skilling/microsoft-infrastructure-academy/networking)
-The Microsoft 365 Defender Academy features its enterprise defense suite that coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications. Learn about integrated Microsoft 365 Defender solutions, including Microsoft Defender for Office 365, Defender for Identity, and Defender for Cloud Apps.
-
-*Add descriptions for each*
+*Add description*

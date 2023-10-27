@@ -11,12 +11,12 @@ Tags:
 - avd
 ---
 
-## Microsoft Azure Virtual Desktop (AVD) Academy
-Welcome to the Microsoft Azure Virtual Desktop Academy. Explore Microsoft AVD video sessions with demos delivered directly to partners, relevant certifications, and further resources.
+## Microsoft Azure Virtual Desktop Academy
+Welcome to the Microsoft Azure Virtual Desktop Academy. Explore Microsoft Azure Virtual Desktop video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
 #### Stay connected with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog). *Replace blog/link*
 
-### Sessions
+### Sessions *Examples*
 {% include series.md 
     includetags="academy content|network security" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 

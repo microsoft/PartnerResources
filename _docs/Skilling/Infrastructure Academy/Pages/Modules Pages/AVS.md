@@ -11,12 +11,12 @@ Tags:
 - avs
 ---
 
-## Microsoft Azure VMware Solution (AVS) Academy
-Welcome to the Microsoft Azure VMware Solution Academy. Explore Microsoft AVS video sessions with demos delivered directly to partners, relevant certifications, and further resources.
+## Microsoft Azure VMware Solution Academy
+Welcome to the Microsoft Azure VMware Solution Academy. Explore Microsoft Azure VMware Solution video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
 #### Stay connected with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog). *Replace blog/link*
 
-### Sessions
+### Sessions *Examples*
 {% include series.md 
     includetags="academy content|network security" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 

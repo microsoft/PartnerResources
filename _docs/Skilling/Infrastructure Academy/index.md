@@ -10,18 +10,20 @@ showbreadcrumb: true
 ---
 {% include_relative header.md %}
 
-#### Welcome to the Microsoft Infrastructure Academy, your gateway to comprehensive training and resources for managing and optimizing your cloud infrastructure. 📎
+#### Welcome to the Microsoft Infrastructure Academy, your gateway to managing and optimizing your cloud infrastructure. 📎
 
 > More coming this fall! The Infrastructure Academy launched Nov. 2023 and is undergoing development.
 
-Do you want to take your organization's cloud infrastructure to the next level? Managing Azure infrastructure isn't just a task for the IT team; it's a collective effort. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)** and begin your journey today.
+Ready to elevate your organization's cloud infrastructure? Managing Azure infrastructure isn't just a task for the IT team — it's a collective effort. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)** today.
 
-Keep your organization resilient against evolving challenges by embracing continuous learning through our **[Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)**. Our **[Resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources)** complement the **[Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** and empower you to dive deeper into key Azure infrastructure concepts.
+*Get started section coming soon*
+
+Keep your organization resilient against evolving with continuous learning through our **[Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)**. Our **[Resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources)** complement the **[Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** and empower you to dive deeper into key Azure infrastructure concepts.
 
 **Explore our latest resources for [Azure VMware Solution (AVS)](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/avs-resources) and [Azure Governance](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-governance).**
 
-#### The Basics📝
-*Coming soon*
+#### The Basics
+*Coming soon! Please check regularly for updates.*
 1. Azure Infrastructure Foundations?
 2. Azure Well-Architected Framework?
 
@@ -42,14 +44,16 @@ Keep your organization resilient against evolving challenges by embracing contin
 * [Microsoft Entra Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity)
 * [Security, Compliance, and Identity Blog](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance)
 
-*Need:*
+*Add:*
 
-Azure Infrastructure Blog
-Azure Security and Compliance Blog
-Azure Networking Blog
-Azure DevOps Blog?
+* *Azure Infrastructure Blog*
+* *Azure Security and Compliance Blog*
+* *Azure Networking Blog*
+* *Azure DevOps Blog?*
 
 ### Ready to Become an Azure Ninja?
+
+*Need all Infrastructure Ninja Trainings*
 
 Microsoft Ninja trainings are sets of organized sections and modules to guide you through the advanced features and functions of our products.
 
@@ -70,5 +74,3 @@ Microsoft Ninja trainings are sets of organized sections and modules to guide yo
 * [Microsoft Purview eDiscovery Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-purview-ediscovery-ninja/ba-p/2793108)
 * [Microsoft Purview Data Loss Prevention (DLP) Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-data-loss-prevention-ninja-training-is/ba-p/3659015)
 * [Insider Risk Management Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-an-insider-risk-management-ninja/ba-p/3282306).
-
-*Need all Infrastructure-related Ninja Trainings*

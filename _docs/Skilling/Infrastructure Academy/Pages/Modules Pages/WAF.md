@@ -11,7 +11,7 @@ Tags:
 - well-architected framework
 ---
 
-## Microsoft Networking Academy
+## Microsoft Well-Architected Framework Academy
 Welcome to the Microsoft Well-Architected Framework Academy. Explore Azure Well-Architected Framework video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
 #### Stay connected with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog). *Replace blog/link*

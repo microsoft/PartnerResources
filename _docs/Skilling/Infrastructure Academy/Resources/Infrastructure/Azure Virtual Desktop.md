@@ -11,7 +11,7 @@ tags:
 - avd resources
 ---
 
-# Learning Plan for Azure Virtual Desktop
+# Learning Plan Resources for Azure Virtual Desktop
 
 ## Fundamentals
 * [**MS Docs:** What is Azure Virtual Desktop?](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview)
