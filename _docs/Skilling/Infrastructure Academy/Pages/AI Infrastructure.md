@@ -16,7 +16,7 @@ Welcome to the Microsoft AI Infrastructure (HPC) Academy. Explore HPC video sess
 
 #### Stay connected with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog). *Replace blog/link*
 
-### Sessions *Examples*
+### Sessions *(Examples)*
 {% include series.md 
     includetags="academy content|network security" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 

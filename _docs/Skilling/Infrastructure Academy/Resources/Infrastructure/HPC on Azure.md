@@ -11,7 +11,7 @@ tags:
 - hpc resources
 ---
 
-# Learning Plan Resources for High Performance Computing (HPC) on Azure
+# Learning Plan Resources for High Performance Computing (HPC)
 
 ## Fundamentals
 * [Overview of HPC Solutions on Azure](https://azure.microsoft.com/en-us/solutions/high-performance-computing/)

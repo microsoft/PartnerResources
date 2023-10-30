@@ -10,15 +10,15 @@ showbreadcrumb: true
 ---
 {% include_relative header.md %}
 
-#### Welcome to the Microsoft Infrastructure Academy, your gateway to managing and optimizing your cloud infrastructure. 📎
-
 > More coming this fall! The Infrastructure Academy launched Nov. 2023 and is undergoing development.
 
-Ready to elevate your organization's cloud infrastructure? Managing Azure infrastructure isn't just a task for the IT team — it's a collective effort. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)** today.
+#### Welcome to the Microsoft Infrastructure Academy, your gateway to managing and optimizing your cloud infrastructure. 📎
 
-*Get started section coming soon*
+Ready to elevate your organization's cloud infrastructure? Managing Azure infrastructure isn't just a task for the IT team — it's a collective effort. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)** and take action today.
 
-Keep your organization resilient against evolving with continuous learning through our **[Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)**. Our **[Resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources)** complement the **[Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** and empower you to dive deeper into key Azure infrastructure concepts.
+*Get started section coming soon! Please check regularly for updates.*
+
+Keep your organization resilient against evolving challenges with continuous learning through our **[Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)**. Our **[Resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources)** complement the **[Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** and empower you to dive deeper into key Azure infrastructure concepts.
 
 **Explore our latest resources for [Azure VMware Solution (AVS)](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/avs-resources) and [Azure Governance](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-governance).**
 

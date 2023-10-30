@@ -16,7 +16,7 @@ Welcome to the Microsoft SAP on Azure Academy. Explore Microsoft SAP on Azure vi
 
 #### Stay connected with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog). *Replace blog/link*
 
-### Sessions *Examples*
+### Sessions *(Examples)*
 {% include series.md 
     includetags="academy content|network security" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
