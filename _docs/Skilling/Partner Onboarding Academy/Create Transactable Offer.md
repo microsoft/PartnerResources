@@ -50,4 +50,4 @@ For guidance on how to setup you offer type and pricing, see [the flow-chart](ht
 
 Now that you've created a Transactable Offer in the MP, you'll want to make this attractive to your new and potentials customers as well as your internal and Microsoft field sellers.
 
-One of the next steps in his journey is making the offer MACC eligible.  See the next step in this journey for details.
+One of the next steps in his journey is making the offer [Co-Sell Ready and meet Azure IP Co-Sell Incentive Requirements](/PartnerResources/skilling/partner-onboarding-academy/cosell).  See the next step in this journey for details.

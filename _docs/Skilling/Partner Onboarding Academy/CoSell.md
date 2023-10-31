@@ -67,3 +67,7 @@ To verify the co-sell status of a solution, use the following steps:
  
 Additional details:
 [IP Co-sell top tier benefits](https://learn.microsoft.com/en-us/partner-center/azure-ip-co-sell-top-tier-benefits)
+
+### Next Steps
+
+Now that your offer is Co-Sell Ready and meets the Azure IP Co-Sell Incentive Requirements, the next step is to make the offer [MACC eligible](/PartnerResources/skilling/partner-onboarding-academy/MACC).  See the next step in this journey for details.

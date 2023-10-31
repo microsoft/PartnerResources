@@ -13,7 +13,10 @@ showbreadcrumb: true
 The Microsoft Partner Onboarding Academy's **Modules** are organized into sections which reflect the typical partner journey:
 
 ![](../../../assets/partner-onboarding/partner-journey.png)
-Click on the individual steps below for details:
+
+Accelerating your co-sell journey with Microsoft involves a strategic approach to collaborating with Microsoft's sales teams to drive joint revenue.
+
+Here are some steps to accelerate your co-sell journey:
 
 - [Access Partner Incentives](https://partner.microsoft.com/en-US/partnership/partner-incentives)
 - [Improve your Partner Capability Score](https://learn.microsoft.com/en-us/partner-center/partner-capability-score)

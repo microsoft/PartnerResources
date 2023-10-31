@@ -254,11 +254,11 @@
           url: "skilling/partner-onboarding-academy/grow"
           tag: grow
           children:
-          - title: CoSell
-            url: "skilling/partner-onboarding-academy/cosell"
-            tag: transactable offer
           - title: Create Transactable Offer
             url: "skilling/partner-onboarding-academy/transactable-offer"
+            tag: transactable offer
+          - title: CoSell and IP-CoSell Ready
+            url: "skilling/partner-onboarding-academy/cosell"
             tag: transactable offer
           - title: Create MACC Offer
             url: "skilling/partner-onboarding-academy/macc-offer"

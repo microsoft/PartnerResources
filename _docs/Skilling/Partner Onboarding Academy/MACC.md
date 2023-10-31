@@ -17,7 +17,7 @@ Once you've created a transactable offer in the Marketplace, the next step on mo
 
 One of the most popular ways is to make an offer MACC eligible. This page will walk through that process.
 
-### What is a MACC offer
+### What is a MACC eligible offer
 
 #### MACC program:
 **The Microsoft Azure Consumption Commitment** (MACC) program is for [transactable offers](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#transact-overview) that are published to the commercial marketplace. Marketplace purchases of transactable offers that are enrolled in this program contribute towards an organization’s Microsoft Azure Consumption Commitment. Marketplace purchases that contribute towards a customer’s Microsoft Azure consumption commitment are limited to Azure benefit-eligible offers and can only be used to purchase solutions that are primarily platformed on or extend Microsoft cloud products or infrastructure
@@ -41,3 +41,6 @@ One of the most popular Azure IP Co-Sell Incentives is MACC Eligibility.
 
 Additional Details : [Azure Commitment Benefit](https://learn.microsoft.com/en-us/marketplace/azure-consumption-commitment-benefit)
 
+### Next Steps
+
+Now that your offer is MACC eligible, the next step is [Accelrate your partnership](/PartnerResources/skilling/partner-onboarding-academy/accelerate).  See the next step in this journey for details.

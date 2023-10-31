@@ -23,13 +23,13 @@ Microsoft provides its partners with technical presales and deployment benefits.
 
 Some partners are entitled to one-to-one consultations with Microsoft to help sell their services.
 
-Othe benefits include evaluation of soultions, upskilling, architecture guidance, help listing in the appropriate marketplace, and proofs of concept.
+Other benefits include evaluation of soultions, upskilling, architecture guidance, help listing in the appropriate marketplace, and proofs of concept.
 
 For more information on Technical Presales and Deployment Benefits for Microsoft Partners, see [this article](https://learn.microsoft.com/en-us/partner-center/technical-benefits).
 
 ## Technical Benefits
 
-Microsoft Partners receive several benefits from their partnership, including Azure Credits, Visual Studio, other Microsoft software, and GitHub Enterprise licenses.
+Microsoft Partners can receive several benefits from their partnership, including Azure Credits, Visual Studio, other Microsoft software, and GitHub Enterprise licenses.
 
 ### Azure Credits
 
