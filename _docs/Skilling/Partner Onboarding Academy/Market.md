@@ -17,6 +17,28 @@ Click on the individual steps below for details:
 
 
 #### Create and Publish an offer in Partner Center
+- Commercial Marketplace has different Offer Types that allow a variery of solutions to be published depending on how they are deployed and consumed by your customers. Each offer type has different requirements and configuration options so it's important to choose the offer type early. The following table shows a quick summary of all transactable offer types available in the Commercial Marketplace today:
+
+#### Transactable Offer Types
+
+| Offer type   | Description |
+| ----------- | ----------- |
+| Software As a Service | SaaS offers enable your customer to buy your solution as a subscription. The solution must be deployed in the **partner** environment |
+| Azure Application | Azure Application is a subscription-based solution for your customer. The solution must be deployed in the **customer** environment. You can choose to manage the solution yourself, let the customer manage it or lock it down completely |
+| Azure Virtual Machine | Deploy a virtual appliance to the subscription associated with your customer |
+| Azure Container | A Docker container image provisioned as a Kubernetes-based Azure Container service |
+| Power BI visual | An AppSource offer that exposes a Power BI Visual that others can discover and use in their Power BI reports and dashboards |
+
+#### Non-Transactable Offer Types
+
+| Offer type   | Description |
+| ----------- | ----------- |
+| IoT Edge Module  | Azure IoT Edge modules are the smallest computation units managed by IoT Edge, and can contain Microsoft services (such as Azure Stream Analytics), 3rd-party services, or your own solution-specific code |
+| Dynamics 365 |An AppSource offer that build on or extend Dynamics 365 Business Central, Dynamics 365 Customer Engagement, Power Apps, and Finance and Operations apps (* Business Central addon-s can be transactable)  |
+| Power BI app | An AppSource offer that build on or extend Power BI |
+| Consulting Service | An offer to connect customers with services to support and extend their use of Azure, Dynamics 365, or Power Suite services, Teams |
+| Managed Service | An offer that allows a partner to manage customer-delegated subscriptions or resource groups through Azure Lighthouse |
+
   - One you have identified the correct offer type for your solution, follow the respective publishing guide. [Publishing Guide by Offer Type](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type)
      - Some offer types have different listing options available. For example, if you are publishing a SaaS offer, there are the following listing options:
        

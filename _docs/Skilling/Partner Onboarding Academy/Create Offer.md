@@ -76,8 +76,8 @@ When creating the offer, you might want to offer a different pricing model for s
 
 - [Private Plans](https://learn.microsoft.com/en-us/marketplace/private-plans) - A custom pricing plan of an Offer for a specific Tenant or Subscription
 
-- [Private Offers](https://learn.microsoft.com/en-us/marketplace/private-offers-in-azure-marketplace) - Similar to Private Plans, but covers more scenarios (e.g. discounts, expiration dates, bundles, custom terms)
-  - [Requires extra configuration](https://learn.microsoft.com/en-us/marketplace/private-offers-pre-check)
-  - [Troubleshooting](https://learn.microsoft.com/en-us/marketplace/private-offer-troubleshoot)
+- [Private Offers](https://learn.microsoft.com/en-us/partner-center/marketplace/isv-customer) - Similar to Private Plans, but covers more scenarios (e.g. discounts, expiration dates, bundles, custom terms). Note that a private offer still requires a public offer and a public plan with a price. The pricing and terms will be updated in the private offer.
 
-__PRO TIP__: When possible, use a Private Plan.  If you create a private offer, it will need to be enrolled into any eligible programs separately (e.g. MACC eligibility).
+A good guide that compares the two options can be found [here](https://learn.microsoft.com/en-us/partner-center/marketplace/isv-customer-faq)
+
+__PRO TIP__: When possible, use a Private Offer. Creating a private plan requries your offer to go though certification again and takes more time.
