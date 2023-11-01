@@ -24,25 +24,28 @@ A transactable offer is one in which Microsoft facilitates the exchange of money
 
 To summarize, Transacting through the Marketplace means that billing for your software goes through Microsoft instead of your own invoicing system.
 
-Transactable Offer types:
+#### Transactable Offer types:
 
-- Azure Application (Managed application)
+- Software as a Service (SaaS)
+- Azure Application - Managed application
 - Azure Container
 - Azure Virtual Machine
-- Software as a service (SaaS)
 - Dynamics 365 apps on Dataverse and Power Apps
+- Dynamics 365 Business Central - Addon
 - Power BI visual 
 
 Additional details:
 - [Transact Requirements](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#transact-requirements)
+- [Payout and Tax setup](https://learn.microsoft.com/en-us/partner-center/set-up-your-payout-account)
  
 ### Pricing models
 
-For additional details, see [MS Docs](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#pricing-models)
+Different Offer Types have different billing pricing options depending on the capabilities they offer. For full details see [MS Docs](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#pricing-models)
 
-- Subscription - Recurring subscription fee billed as a flat rate or per-seat
-- Usage-based - Charge based on use of the offer (e.g. Per hour billing)
-- Metered billing (Custom meters) - Charge based upon applicaton specific meters (e.g. emails processed, bandwidth constumed)
+In general, pricing models can be split into 3 categories:
+- **Subscription** - Recurring subscription fee billed as a flat rate or per-seat
+- **Metered** (consumption) - Charge based upon applicaton specific meters (e.g. emails processed, bandwidth constumed)
+- **Usage-based** - Charge based on use of the offer (e.g. Per hour billing)
 
 For guidance on how to setup you offer type and pricing, see [the flow-chart](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#determine-offer-type-and-pricing-plan).
 
