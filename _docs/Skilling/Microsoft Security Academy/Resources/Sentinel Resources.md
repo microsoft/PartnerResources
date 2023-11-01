@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2023-09-22
+updated: 2023-10-19
 permalink: /security/microsoft-security-academy/microsoft-sentinel
 tags:
 - security
@@ -31,7 +31,6 @@ Below you will find content to assist in upskilling on Microsoft Sentinel. Conte
 * [Microsoft Defender Threat Intelligence Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965)
 * [Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
-* [Microsoft Sentinel Calculator](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FAzure_Sentinel_Calculator-v2.xlsx)
 * [Microsoft Sentinel Repository](https://github.com/Azure/Azure-Sentinel/wiki)
 
 

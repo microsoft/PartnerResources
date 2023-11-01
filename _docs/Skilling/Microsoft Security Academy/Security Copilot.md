@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Security Copilot Resources
+title: Security Copilot
 description: Are you ready for Security Copilot?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2023-08-30
+updated: 2023-10-18
 showbreadcrumb: true
 tags: 
 - academy content
@@ -17,11 +17,11 @@ tags:
 
 We first introduced Security Copilot at the inaugural Microsoft Secure. Microsoft Security Copilot is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with a Microsoft-developed, security-specific model.
 
-**Are you a Microsoft partner wanting to learn more about how to engage customers and take advantage of Security Copilot? If so, complete our [Microsoft Security Copilot Partner Interest Form](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR7GkZxmcvGdGql1aVgLqRR1UNEk0MTVPVjg1VjhPMUJHVTZETlRXSk1RQy4u)!** 
+Are you a Microsoft partner wanting to learn more about how to engage customers and take advantage of Security Copilot? If so, complete our **[Microsoft Security Copilot Partner Interest Form](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR7GkZxmcvGdGql1aVgLqRR1UNEk0MTVPVjg1VjhPMUJHVTZETlRXSk1RQy4u)!** 
 
 If you have an existing NDA with Microsoft, join our [Microsoft Security Copilot Limited Customer Connection Program (CCP)](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR_XAVZ7AP_VPg7dX-69WxXdUQ1ZNUUVQOFNZOUtVSzdTNTFCMUEyQkVUQi4u).
 
-**Read Vasu Jakkal's** -- Security, Compliance, Identity, and Management Corporate Vice President -- **[Microsoft Inspire Blog](https://www.microsoft.com/en-us/security/blog/2023/07/18/microsoft-inspire-partner-resources-to-prepare-for-the-future-of-security-with-ai/)** detailing partner resources to prepare for the future of security with AI.
+**Prepare for Security Copilot's February launch with our new [Security Copilot documentation](https://learn.microsoft.com/en-us/security-copilot/).**
 
 **See our [Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
 
@@ -43,19 +43,23 @@ To get started, we recommend watching the following videos created by Microsoft 
 Download the PowerPoint for Maximizing Customer Success with Azure AI and Security Copilot [here]({{ site.baseurl }}/assets/msa/How to Prepare for Optimal Results with Azure AI Security Copilot.pptx).
 
 
-## Azure OpenAI Integrations
-
-* [Microsoft Sentinel and OpenAI Chat API with GPT-3.5 and GPT-4](https://myfabersecurity.com/2023/04/04/sentinel-and-openai-chat-api-with-gpt-3-5-turbo-and-gpt-4/)
-* [Microsoft Sentinel Playbook with Azure OpenAI](https://myfabersecurity.com/2023/05/21/sentinel-playbook-and-azure-openai/)
-* [Generate a Microsoft Sentinel Incident Report using Azure OpenAI](https://myfabersecurity.com/2023/06/03/sentinel-incident-report-using-azure-openai/)
-* [SOC Chatbot with Azure OpenAI + Investigation Suggestions from Related Incident Comments](https://myfabersecurity.com/2023/06/20/investigation-suggestions-from-related-incident-comments-a-soc-chatbot-with-azure-openai/)
-
-
 ## Features
 
-* Incident Response — Detect ongoing attacks, estimate range, and receive tailored remediation guidance based on real-world security proven strategies.
-* Threat Hunting — Find out if your organization is at risk from known vulnerabilities and examine resources in your environment for signs of a breach.
-* Security Reports — Summarize events, incidents, or threats in minutes and prepare the information in shareable reports for the desired audience.
+* Incident Response — Summarize incidents, assess impact, and receive tailored remediation guidance based on proven strategies.
+* Security Posture Management — Learn if your organization is at risk from vulnerabilities and examine resources in your environment for signs of a breach.
+* Security Reports — Summarize investigations, incidents, vulnerabilities, or threats in minutes and prepare the information in ready-to-share reports.
+
+
+## Architecture
+
+
+![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/security-copilot-diagram.png)
+
+
+## Integrations
+
+* [Microsoft Security Copilot in Microsoft 365 Defender](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-in-microsoft-365-defender?view=o365-worldwide&bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Microsoft Security Copilot and Intune](https://learn.microsoft.com/en-us/mem/intune/fundamentals/security-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 
 
 #### Considerations

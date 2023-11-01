@@ -23,6 +23,6 @@ In our AI & ML Academy Vignettes, we extend the content of the original series b
 {% include series.md 
     includetags="ai & ml academy|academy content|vignettes" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="false" 
+    sortfield="updated" sortorder="desc" showdate="true" showtags="false" 
     visualstyle="normal"
 %}

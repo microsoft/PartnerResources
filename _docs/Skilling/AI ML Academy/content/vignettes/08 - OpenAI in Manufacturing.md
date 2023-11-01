@@ -25,8 +25,3 @@ tags:
 * [Presentation Deck]({{ site.baseurl }}/assets/aiml/vignettes/Exploring OpenAI in Manufacturing.pptx)
 
 {% include youtubethumb.md %}
-
-
-
-
-

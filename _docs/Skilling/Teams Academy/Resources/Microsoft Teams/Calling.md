@@ -8,7 +8,6 @@ tags:
 - learning plan
 - modern workplace
 - microsoft teams
-- calling
 ---
 
 # Learning Plan Resources for Microsoft Teams Calling
