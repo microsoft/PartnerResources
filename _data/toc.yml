@@ -233,6 +233,45 @@
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
           tag: vignettes
+    - title: "Partner Onboarding Academy"
+      url: "skilling/partner-onboarding-academy"
+      tag: partner onboarding academy
+      children:
+        - title: Onboard
+          url: "skilling/partner-onboarding-academy/onboard"
+          tag: partner center
+        - title: Build
+          url: "skilling/partner-onboarding-academy/build"
+          tag: partner center
+        - title: Market
+          url: "skilling/partner-onboarding-academy/market"
+          tag: market
+          children:
+          - title: Create Offer
+            url: "skilling/partner-onboarding-academy/create-offer"
+            tag: create offer
+        - title: Grow
+          url: "skilling/partner-onboarding-academy/grow"
+          tag: grow
+          children:
+          - title: Create Transactable Offer
+            url: "skilling/partner-onboarding-academy/transactable-offer"
+            tag: transactable offer
+          - title: CoSell and IP-CoSell Ready
+            url: "skilling/partner-onboarding-academy/cosell"
+            tag: transactable offer
+          - title: Create MACC Offer
+            url: "skilling/partner-onboarding-academy/macc-offer"
+            tag: macc offer
+        - title: Accelerate
+          url: "skilling/partner-onboarding-academy/accelerate"
+          tag: accelerate
+        - title: FAQ
+          url: "skilling/partner-onboarding-academy/faq"
+          tag: faq
+        - title: Acronyms
+          url: "skilling/partner-onboarding-academy/acronyms"
+          tag: acronyms
     - title: "Security Academy"
       url: "skilling/microsoft-security-academy"
       tag: microsoft security academy

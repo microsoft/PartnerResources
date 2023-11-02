@@ -6,9 +6,6 @@ description: Microsoft Teams Academy
 permalink: /skilling/microsoft-teams-academy
 updated: 2023-09-26
 showbreadcrumb: true
-tags: 
- - microsoft teams academy
- - intro
 ---
 
 # Microsoft Teams Academy
