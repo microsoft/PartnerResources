@@ -10,7 +10,7 @@ showbreadcrumb: true
 
 #### Onboarding onto the Azure Marketplace
 
-This academy will walk you though the steps necessary to get started and prosper as a Microsoft Partner.  In this page, you will learn how to Onboard onto the Azure Marketplace
+This academy will walk you through the steps necessary to get started and prosper as a Microsoft Partner.  In this page, you will learn how to Onboard onto the Azure Marketplace
 
 ![](../../../assets/partner-onboarding/partner-journey.png)
 
