@@ -9,10 +9,12 @@ tags:
 - azure
 - data, analytics, and ai
 - academy content
-- data governance academy
+- modern analytics academy
 - microsoft purview
 - resource sets
 - data lake
+- data governance
+- vignettes
 ---
 
 # {{ page.title }}

@@ -17,7 +17,7 @@ tags:
 
 # {{ page.title }}
 
-In our Vignette sessions, we'll explore topics based on feedback, new releases, or frequently asked questions. Newest releases are at the top:
+In our Vignette sessions, we'll explore topics based on feedback, new releases, or frequently asked questions. Use the [modules](/PartnerResources/skilling/modern-analytics-academy/modules) section to explore the content by topic area. Newest releases are at the top:
 
 {% include series.md 
     includetags="modern analytics academy|vignettes" includemethod="all" 

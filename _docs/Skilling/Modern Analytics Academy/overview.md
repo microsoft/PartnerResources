@@ -1,36 +1,40 @@
 ---
 layout: page
-title: Modern Analytics Academy - Home
-description: Workshop focused on Modern Analytics
-permalink: /skilling/modern-analytics-academy
-redirect_from:
-  - /skilling/modern-analytics-academy/
-  - /azure/data-analytics-ai/modern-analytics-academy
-  - /skilling/data-analytics-ai/modern-analytics-academy
-updated: 2023-08-17
+title: Modern Analytics Academy - Overview
+description: Modern Analytics Academy - Overview
+permalink: /skilling/modern-analytics-academy/overview
+updated: 2023-10-01
 showbreadcrumb: true
 navheadersonly: true
 tags:
 - azure
 - data, analytics, and ai
 - modern analytics academy
-- synapse
-- fabric
 - workshop
+- fabric
+- overview
 ---
 
-# Modern Analytics Academy
+# Modern Analytics Academy - Overview
 
 Welcome to the Modern Analytics Academy (MAA)! 
 
-The Modern Analytics Academy consists of several modules designed to illustrate and upskill on modern techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Microsoft Fabric, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. 
+The Modern Analytics Academy is designed to illustrate and upskill on modern techniques, principles, and technologies available on the Microsoft Azure platform related to data and analytics. The content will explore analytics in Microsoft Azure, Microsoft Fabric, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. 
 
 We've organized the content into a few key areas:
-* [Fabric Sessions](/PartnerResources/skilling/modern-analytics-academy/fabric) - Microsoft Fabric related material, covering the latest end-to-end analytics SaaS-based solution.
-* [Core Sessions](/PartnerResources/skilling/modern-analytics-academy/synapse) - The original main sessions designed to be a soup-to-nuts overview of a modern analytics solution
-* [Hands-on Content](/PartnerResources/skilling/modern-analytics-academy/hands-on) - Recommended labs, workshops, and other hands-on material
-* [Vignettes](/PartnerResources/skilling/modern-analytics-academy/vignettes) - Our ongoing series that dives into analytics-related topics
-* [Resources](/PartnerResources/skilling/modern-analytics-academy/resources) - Lists of helpful learning resources and readiness material organized by topic. 
+
+* [Modules](/PartnerResources/skilling/modern-analytics-academy/modules) - All of the modules on one page.
+ * [Acquisition and Storage](/PartnerResources/skilling/modern-analytics-academy/modules/acquisition) - Data storage options and acquisition patterns
+ * [Data Modeling](/PartnerResources/skilling/modern-analytics-academy/modules/modeling) - Data modeling practices
+ * [Data Integration](/PartnerResources/skilling/modern-analytics-academy/modules/integration) - Data movement and integration, ETL, & pipelines
+ * [Data Science](/PartnerResources/skilling/modern-analytics-academy/modules/datascience) - data science
+ * [Observability](/PartnerResources/skilling/modern-analytics-academy/modules/observability) - Observability, like Data Activator
+ * [Visualization](/PartnerResources/skilling/modern-analytics-academy/modules/visualization) - Visualization techniques with a focus on Power BI
+* [Hands-on Content](/PartnerResources/skilling/modern-analytics-academy/hands-on) - Labs, excercises, and hacks
+* [Vignettes](/PartnerResources/skilling/modern-analytics-academy/vignettes) - All of our short-form "vignette" content that dives into analytics-related topics
+* [Resources](/PartnerResources/skilling/modern-analytics-academy/resources) - Lists of helpful learning resources and readiness material organized by topic
+
+## DELETE BELOW
 
 ## Fabric Sessions
 

@@ -8,13 +8,15 @@ youtubeid: 7DUPcMwV-Ig
 tags: 
 - azure
 - data, analytics, and ai
-- data governance academy
+- modern analytics academy
 - academy content
 - microsoft purview 
 - self-service
 - data policy
 - data marketplace
 - data consumption
+- data governance
+- vignettes
 ---
 
 # {{ page.title }}
