@@ -24,7 +24,7 @@ Data Acquisition & Storage explores the role of data storage and integrating dat
     includetags="modern analytics academy|main series|data acquisition" includemethod="all" 
     removetags="azure|data, analytics, and ai|modern analytics academy|main series|academy content" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
-    visualstyle="tiny"
+    visualstyle="normal"
 %}
 
 ## Ongoing "Vignette" Sessions 
@@ -36,6 +36,6 @@ Our ongoing Modern Analytics Academy series, which we've called "vignettes", div
     includetags="modern analytics academy|vignettes|acquisition" includemethod="all" 
     removetags="azure|data, analytics, and ai|modern analytics academy|vignettes|academy content" 
     sortfield="updated" sortorder="desc" showtags="true"
-    visualstyle="tiny"
+    visualstyle="normal"
 %}
 

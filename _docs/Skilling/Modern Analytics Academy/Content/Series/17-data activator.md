@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Activator in Microsoft Fabric
-description: Data Activator is an observability tool in Microsoft Fabric for automatically monitoring and taking actions when certain conditions (or patterns) emerge in the underlying data stream. This is often used for sensors, sales data, KPIs, system health/performance counters. We'll take a look at configuring Data Activator and getting started using our recently published lab.
+description: Data Activator is an observability tool in Microsoft Fabric for automatically monitoring and taking actions when certain conditions (or patterns) emerge in the underlying data stream. This is often used for sensors, sales data, KPIs, system health/performance counters. We'll take a look at configuring Data Activator from a Power BI visual and getting started using our recently published lab.
 updated: 2023-11-06
 permalink: /skilling/modern-analytics-academy/vignettes/data-activator
 youtubeid: 3DjLJLiwkC0
@@ -14,6 +14,8 @@ tags:
 - fabric
 - data activator
 - observability
+- data engineering
+- power bi
 ---
 
 # {{ page.title }}

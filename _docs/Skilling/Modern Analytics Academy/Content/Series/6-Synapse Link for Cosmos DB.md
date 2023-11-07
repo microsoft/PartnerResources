@@ -14,6 +14,7 @@ tags:
 - synapse
 - synapse link
 - cosmos db
+- acquisition
 ---
 
 # {{ page.title }}

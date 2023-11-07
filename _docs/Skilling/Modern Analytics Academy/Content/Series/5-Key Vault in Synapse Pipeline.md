@@ -14,6 +14,7 @@ tags:
 - synapse
 - notebooks
 - key vault
+- security
 ---
 
 # {{ page.title }}

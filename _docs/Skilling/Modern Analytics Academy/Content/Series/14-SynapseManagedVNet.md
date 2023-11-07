@@ -14,6 +14,7 @@ tags:
 - synapse
 - managed virtual network
 - private endpoint
+- security
 ---
 
 # {{ page.title }}

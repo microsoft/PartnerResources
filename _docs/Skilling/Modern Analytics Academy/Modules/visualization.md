@@ -22,10 +22,10 @@ Visualizaton explores how data is visualized and presented for analysis. Often, 
 
 {% include series.md 
     includetags="modern analytics academy|main series|visualization" includemethod="all" 
-    includesecondtags="modern analytics academy|main series|powerbi" 
+    includesecondtags="modern analytics academy|main series|power bi" 
     removetags="azure|data, analytics, and ai|modern analytics academy|main series|academy content" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
-    visualstyle="tiny"
+    visualstyle="normal"
 %}
 
 ## Ongoing "Vignette" Sessions 
@@ -35,8 +35,8 @@ Our ongoing Modern Analytics Academy series, which we've called "vignettes", div
 
 {% include series.md 
     includetags="modern analytics academy|vignettes|visualization" includemethod="all" 
-    includesecondtags="modern analytics academy|vignettes|powerbi" 
+    includesecondtags="modern analytics academy|vignettes|power bi" 
     removetags="azure|data, analytics, and ai|modern analytics academy|vignettes|academy content" 
     sortfield="updated" sortorder="desc" showtags="true"
-    visualstyle="tiny"
+    visualstyle="normal"
 %}

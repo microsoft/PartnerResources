@@ -14,6 +14,7 @@ tags:
 - synapse
 - synapse link
 - dataverse
+- acquisition
 ---
 
 # {{ page.title }}

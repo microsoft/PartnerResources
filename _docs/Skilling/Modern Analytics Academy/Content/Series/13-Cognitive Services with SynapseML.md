@@ -13,6 +13,7 @@ tags:
 - vignettes
 - synapse
 - cognitive services
+- data science
 ---
 
 # {{ page.title }}

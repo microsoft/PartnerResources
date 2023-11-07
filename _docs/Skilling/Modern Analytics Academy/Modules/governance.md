@@ -26,7 +26,7 @@ Security and Governance explores topics related to security and data governance.
     includesecondtags="modern analytics academy|main series|data governance" 
     removetags="azure|data, analytics, and ai|modern analytics academy|main series|academy content" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
-    visualstyle="tiny"
+    visualstyle="normal"
 %}
 
 ## Ongoing "Vignette" Sessions 
@@ -39,5 +39,5 @@ Our ongoing Modern Analytics Academy series, which we've called "vignettes", div
     includesecondtags="modern analytics academy|vignettes|data governance" 
     removetags="azure|data, analytics, and ai|modern analytics academy|vignettes|academy content" 
     sortfield="updated" sortorder="desc" showtags="true"
-    visualstyle="tiny"
+    visualstyle="normal"
 %}

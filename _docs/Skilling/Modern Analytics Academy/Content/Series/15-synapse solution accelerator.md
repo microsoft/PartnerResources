@@ -13,6 +13,8 @@ tags:
 - vignettes
 - synapse
 - solution accelerator
+- acquisition
+- data engineering
 ---
 
 # {{ page.title }}

@@ -18,14 +18,14 @@ tags:
 
 # Modern Analytics Academy - Data Engineering
 
-Data Engineering explores topics related to the infrastructure and systems that process data. In our original series, we referred to this as "Data Pipelines." These topics focus on data movement in Synapse Pipelines, Azure Data Factory, and Fabric Data Engineering (which encompasses Fabric Data Factory, data pipelines, and Spark/notebooks). Data Engineering often overlaps with Storage and Modeling, particularly with Lakehouse implementations, so we'll include topics related to data modeling. We'll also include material related to observability and monitoring. 
+Data Engineering explores topics related to the infrastructure and systems that process data. In our original series, we referred to this as "Data Pipelines." These topics focus on data movement in Synapse Pipelines, Azure Data Factory, and Fabric Data Engineering (which encompasses Fabric Data Factory, data pipelines, and Spark/notebooks). Data Engineering often overlaps with storage and modeling, particularly with Lakehouse implementations, so we'll include topics related to data modeling. We'll also include material related to observability and monitoring. 
 
 {% include series.md 
-    includetags="modern analytics academy|main series|engineering" includemethod="all" 
+    includetags="modern analytics academy|main series|data engineering" includemethod="all" 
     includesecondtags="modern analytics academy|main series|observability" 
     removetags="azure|data, analytics, and ai|modern analytics academy|main series|academy content" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
-    visualstyle="tiny"
+    visualstyle="normal"
 %}
 
 ## Ongoing "Vignette" Sessions 
@@ -34,9 +34,9 @@ Our ongoing Modern Analytics Academy series, which we've called "vignettes", div
 [vignette page](/PartnerResources/skilling/modern-analytics-academy/vignettes). The following vignettes are related to acquisition and storage:
 
 {% include series.md 
-    includetags="modern analytics academy|vignettes|engineering" includemethod="all" 
+    includetags="modern analytics academy|vignettes|data engineering" includemethod="all" 
     includesecondtags="modern analytics academy|vignettes|observability" 
     removetags="azure|data, analytics, and ai|modern analytics academy|vignettes|academy content" 
     sortfield="updated" sortorder="desc" showtags="true"
-    visualstyle="tiny"
+    visualstyle="normal"
 %}

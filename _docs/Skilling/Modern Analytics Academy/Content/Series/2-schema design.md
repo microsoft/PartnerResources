@@ -12,6 +12,8 @@ tags:
 - modern analytics academy
 - vignettes
 - synapse
+- acquisition
+- data engineering
 ---
 
 # {{ page.title }}

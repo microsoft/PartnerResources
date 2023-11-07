@@ -13,6 +13,7 @@ tags:
 - vignettes
 - synapse
 - data explorer
+- acquisition
 ---
 
 # {{ page.title }}
