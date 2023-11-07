@@ -12,6 +12,8 @@ tags:
  - data governance
  - master data management
  - cluedin
+ - modern analytics academy
+ - vignettes
 ---
 
 # {{ page.title }}
