@@ -3,9 +3,8 @@ layout: page
 title: Modern Analytics Academy - Overview
 description: Modern Analytics Academy - Overview
 permalink: /skilling/modern-analytics-academy/overview
-updated: 2023-10-01
+updated: 2023-11-07
 showbreadcrumb: true
-navheadersonly: true
 tags:
 - azure
 - data, analytics, and ai

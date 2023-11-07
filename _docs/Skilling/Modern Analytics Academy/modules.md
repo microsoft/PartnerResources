@@ -3,9 +3,8 @@ layout: page
 title: Modern Analytics Academy - Modules
 description: Modern Analytics Academy - Modules
 permalink: /skilling/modern-analytics-academy/modules
-updated: 2023-11-06
+updated: 2023-11-07
 showbreadcrumb: true
-navheadersonly: true
 tags:
 - azure
 - data, analytics, and ai

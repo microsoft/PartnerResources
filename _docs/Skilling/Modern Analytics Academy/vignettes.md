@@ -2,6 +2,7 @@
 layout: page
 title: Modern Analytics Academy - Vignettes
 description: In our Vignette sessions, we'll explore topics based on feedback or frequently asked questions. We'll update the content here as the series continues.
+updated: 2023-11-07
 permalink: /skilling/modern-analytics-academy/vignettes
 redirect_from:
   - /skilling/modern-analytics-academy/vignettes/

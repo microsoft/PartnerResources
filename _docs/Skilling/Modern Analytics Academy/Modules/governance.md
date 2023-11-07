@@ -5,7 +5,6 @@ description: Modern Analytics Academy - Security and Governance
 permalink: /skilling/modern-analytics-academy/modules/governance
 updated: 2023-11-07
 showbreadcrumb: true
-navheadersonly: true
 tags:
 - azure
 - data, analytics, and ai

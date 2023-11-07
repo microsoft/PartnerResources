@@ -3,9 +3,8 @@ layout: page
 title: Modern Analytics Academy - Acquisition and Storage
 description: Modern Analytics Academy - Acquisition and Storage
 permalink: /skilling/modern-analytics-academy/modules/acquisition
-updated: 2023-11-06
+updated: 2023-11-07
 showbreadcrumb: true
-navheadersonly: true
 tags:
 - azure
 - data, analytics, and ai

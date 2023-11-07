@@ -3,7 +3,7 @@ layout: page
 title: Modern Analytics Academy - Hands-on
 description: Workshop focused on Modern Analytics
 permalink: /skilling/modern-analytics-academy/hands-on
-updated: 2022-12-05
+updated: 2023-11-07
 showbreadcrumb: true
 tags:
 - azure
@@ -23,11 +23,11 @@ In the hands-on section, we'll look at tutorials, labs, and hacks.
 | Lab Name | Time | Content | 
 |---|---|---|
 | Real-time Analytics Lab | 4 hours | [Lab](https://aka.ms/fabricrealtime) |
-| Real-time Analytics Hack | 8 hours | (coming soon)[Lab](https://aka.ms/wth) |
+| Real-time Analytics Hack | 8 hours | (coming soon) [Lab](https://aka.ms/wth) |
 
 Our real-time analytics lab and hack will walk through a scenario of ingesting real-time data, storing it in a KQL database, develop reporting from the real time data, configure data activator for observability/alerting, and transform the data into a data warehouse from real-time data.
 
-Progressive Fabric Labs
+## Progressive Fabric labs:
 
 | Lab Name | Time | Content | 
 |---|---|---|
