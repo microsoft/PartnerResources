@@ -19,6 +19,7 @@ tags:
 - main series
 - synapse
 - azure data factory
+- data engineering
 ---
 
 # Modern Analytics Academy - Data Pipelines

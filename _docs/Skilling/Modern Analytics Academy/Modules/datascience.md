@@ -27,7 +27,7 @@ Data Science explores topics related to data enrichment and getting value from d
     visualstyle="normal"
 %}
 
-## Ongoing "Vignette" Sessions 
+## "Vignette" Sessions 
 
 Our ongoing Modern Analytics Academy series, which we've called "vignettes", dive into topical areas related to analytics. For a complete list of sessions, visit the 
 [vignette page](/PartnerResources/skilling/modern-analytics-academy/vignettes). The following vignettes are related to acquisition and storage:

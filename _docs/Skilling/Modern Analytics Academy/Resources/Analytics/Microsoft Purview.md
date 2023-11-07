@@ -3,12 +3,11 @@ layout: page
 title: Microsoft Purview
 description: Resources for Data Governance with Microsoft Purview
 updated: 2023-01-03
-permalink: /azure/data-analytics-ai/microsoft-purview
-redirect_from:
-  - /azure/data-analytics-ai/azure-purview
+permalink: /skilling/modern-analytics-academy/resources/microsoft-purview
 tags: 
 - azure
 - data, analytics, and ai
+- modern analytics academy
 - learning plan
 - purview
 - purview resources

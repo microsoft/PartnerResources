@@ -20,6 +20,7 @@ tags:
 - synapse
 - data lake
 - delta lake
+- data engineering
 ---
 
 # Modern Analytics Academy - Data Modeling

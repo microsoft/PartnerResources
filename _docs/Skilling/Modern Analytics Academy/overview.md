@@ -25,10 +25,9 @@ We've organized the content into a few key areas:
 
 * [Modules](/PartnerResources/skilling/modern-analytics-academy/modules) - All of the modules on one page.
   * [Acquisition and Storage](/PartnerResources/skilling/modern-analytics-academy/modules/acquisition) - Data storage options and acquisition patterns
-  * [Data Modeling](/PartnerResources/skilling/modern-analytics-academy/modules/modeling) - Data modeling practices
-  * [Data Integration](/PartnerResources/skilling/modern-analytics-academy/modules/integration) - Data movement and integration, ETL, & pipelines
-  * [Data Science](/PartnerResources/skilling/modern-analytics-academy/modules/datascience) - data science
-  * [Observability](/PartnerResources/skilling/modern-analytics-academy/modules/observability) - Observability, like Data Activator
+  * [Data Engineering](/PartnerResources/skilling/modern-analytics-academy/modules/engineering) - Data modeling practices
+  * [Data Science](/PartnerResources/skilling/modern-analytics-academy/modules/datascience) - Advanced data analysis, data enrichment, and business insights
+  * [Security and Governance](/PartnerResources/skilling/modern-analytics-academy/modules/governance) - Security and data governance related material
   * [Visualization](/PartnerResources/skilling/modern-analytics-academy/modules/visualization) - Visualization techniques with a focus on Power BI
 * [Hands-on Content](/PartnerResources/skilling/modern-analytics-academy/hands-on) - Labs, excercises, and hacks
 * [Vignettes](/PartnerResources/skilling/modern-analytics-academy/vignettes) - All of our short-form "vignette" content that dives into analytics-related topics

@@ -221,7 +221,7 @@
               url: "skilling/d365-academy/d365-sales-academy/vivasales"
               tag: d365 sales academy viva sales
     - title: "Modern Analytics Academy"
-      url: "skilling/modern-analytics-academy"
+      url: "skilling/modern-analytics-academy/overview"
       tag: modern analytics academy
       children:
         - title: Overview
