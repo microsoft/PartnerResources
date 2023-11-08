@@ -3,7 +3,7 @@ layout: page
 title: Modern Analytics Academy - Hands-on
 description: Workshop focused on Modern Analytics
 permalink: /skilling/modern-analytics-academy/hands-on
-updated: 2022-12-05
+updated: 2023-11-07
 showbreadcrumb: true
 tags:
 - azure
@@ -16,11 +16,35 @@ tags:
 
 # Modern Analytics Academy - Hands-on
 
-Welcome to the Modern Analytics Academy (MAA)! 
+In the hands-on section, we'll look at tutorials, labs, and hacks. 
 
-The Modern Analytics Academy consists of several modules designed to illustrate and upskill on modern techniques, principles, and technologies available on the Microsoft Azure platform. The content will explore analytics in Microsoft Azure, Azure Synapse Analytics, data modeling and storage, event processing, data governance, and Power BI. 
+## Fabric Specific Labs & Workshops
 
-## Suggested Labs
+| Lab Name | Time | Content | 
+|---|---|---|
+| Real-time Analytics Lab | 4 hours | [Lab](https://aka.ms/fabricrealtime) |
+| Real-time Analytics Hack | 8 hours | (coming soon) [Lab](https://aka.ms/wth) |
+
+Our real-time analytics lab and hack will walk through a scenario of ingesting real-time data, storing it in a KQL database, develop reporting from the real time data, configure data activator for observability/alerting, and transform the data into a data warehouse from real-time data.
+
+## Progressive Fabric labs:
+
+| Lab Name | Time | Content | 
+|---|---|---|
+|Lab 01-Configure a Lakehouse, ingesting sample data and building report | 1 hour | [Lab](https://learn.microsoft.com/en-in/fabric/data-engineering/tutorial-lakehouse-introduction) |
+| Lab 02-Analyzing data with Apache Spark | 2 hours | [Lab](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/02-analyze-spark.html) |
+| Lab 03-Using delta tables in Apache Spark | 1 hour | [Lab](https://learn.microsoft.com/en-in/training/modules/work-delta-lake-tables-fabric/6-exercise-delta-tables) |
+| Lab 04-Ingesting data with a pipeline | 1 hour | [Lab](https://learn.microsoft.com/en-in/training/modules/use-data-factory-pipelines-fabric/6-exercise-pipelines) |
+| Lab 05-Creating and using a Dataflow (Gen2) in Microsoft Fabric | 30 minutes | [Lab](https://learn.microsoft.com/en-in/training/modules/use-dataflow-gen-2-fabric/5-exercise) | 
+| Lab 06- Building a data warehouse in Microsoft Fabric (8 part series) | 2 hours | [Lab](https://learn.microsoft.com/en-in/fabric/data-warehouse/tutorial-create-workspace) |
+| Lab 07- Training and tracking a model in Microsoft Fabric | 30 minutes | [Lab](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/08-data-science-get-started.html) |
+| Lab 08- Data science end-to-end scenario: Introduction and Architecture (5 part series) | 2 hours | [Lab](https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-introduction) |
+| Lab 09- Training and evaluating a time series forecasting model in Microsoft Fabric | 1 hour | [Lab](https://learn.microsoft.com/en-us/fabric/data-science/time-series-forecasting) |
+| Lab 10- Create, evaluate, and deploy a fraud detection model in Microsoft Fabric | 1 hour | [Lab](https://learn.microsoft.com/en-us/fabric/data-science/fraud-detection) |
+| Lab 11- Exploring Synapse Real-Time Analytics in Microsoft Fabric | 1 hour | [Lab](https://learn.microsoft.com/en-in/training/modules/get-started-kusto-fabric/5-exercise-use-kusto-query-data-onelake) |
+
+
+## Synapse Labs
 
 | Lab Name | Time | Content | 
 |---|---|---|
