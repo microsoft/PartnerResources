@@ -62,7 +62,7 @@ Currently using whole tag but can change to first word if needed
         <li class="collapse show" id="sidebar_{{ section.title | slugify }}">
           <ul class="td-sidebar-nav__section pr-md-3">
               {% for entry in section.links %}
-             
+
                 {% comment %} 
                   each entry in section.links = "AI/ML Academy", "Teams Academy" etc.
                 {% endcomment %}    
@@ -77,26 +77,18 @@ Currently using whole tag but can change to first word if needed
                 {% capture sectionTail %}</li></ul>{% endcapture %}
                 {% assign sectionText = sectionHead %}
                 {% assign areatext = "" %}
-
+                {% assign subareaText = "" %}
                 {% if entry.children %}
                   {% for area in entry.children %}
 
-                    {% comment %} 
-                      each area such as MAA > Overview, MAA > Modules, MAA > Vignettes
-                    {% endcomment %}  
-           
                     {% comment %}
                     Third level nesting - subarea
                     {% endcomment %}     
                     {% assign subareaText = "" %} 
                     {% assign isCurrentSubarea = false %}
                     {% assign isCurrentArea = false %}
-
                     {% if area.children %}
                       {% for subarea in area.children %}
-                        {% comment %} 
-                          each subarea such as MAA > Modules > Observability 
-                        {% endcomment %}  
                         {% if subarea.url %}{% assign linkUrl = site.baseurl | append: "/" | append: subarea.url %}{% else %}{% assign linkUrl = subarea.external_url %}{% endif %}
                         {% assign cleanedChild = subarea.url | remove: "/" %}
                         {% if cleanedPage == cleanedChild or cleanedPage contains cleanedChild %}
@@ -120,6 +112,7 @@ Currently using whole tag but can change to first word if needed
                         {% assign isCurrentArea = true %}
                         {% assign isCurrentEntry = true %}
                       {% endif %} 
+
                     {% endif %}
                 
                     {% if area.url %}{% assign linkUrl = site.baseurl | append: "/" | append: area.url %}{% else %}{% assign linkUrl = area.external_url %}{% endif %}
@@ -132,7 +125,7 @@ Currently using whole tag but can change to first word if needed
                       {% capture areaFragment %}<a class="td-sidebar-link td-sidebar-link__page " id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ area.title | slugify }}" href="{{ linkUrl }}">{{ area.title }}</a>{% endcapture %}
                     {% endif %}
                     {% assign areatext = areatext | append: areaFragment %}
-                    {% if navTag == area.tag or isCurrentArea == true or isCurrentEntry == true %}
+                    {% if navTag == area.tag or isCurrentArea == true %}
                       {% assign areatext = areatext | append: subareaText %}
 
                     {% endif %}
@@ -144,15 +137,14 @@ Currently using whole tag but can change to first word if needed
                   {% endcomment %}     
                  
                   {% assign testUrl = "/" | append: entry.url | append: "/" %}
-                  {% if navTag == entry.tag or page.url contains testUrl %}
+                  {% if page.url contains testUrl %}
                     {% assign isCurrentArea = true %}
                     {% assign isCurrentEntry = true %}
                   {% endif %} 
                 {% endif %}
                 
-                {% comment %} Test for each entry (eg Modern Analytics Academy) {% endcomment %}     
                 {% if cleanedPage == cleanedEntry %}{% assign isCurrentEntry = true %}{% endif %}
-              
+
                 {% assign shim = "0px" %}
                 {% if entry.title == "Partner Showcase" %}
                   {% assign shim = "10px" %}

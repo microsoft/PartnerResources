@@ -225,7 +225,7 @@
       tag: maa
       children:
         - title: Overview
-          url: "skilling/modern-analytics-academy"
+          url: "skilling/modern-analytics-academy/"
           tag: maa
         - title: Modules
           url: "skilling/modern-analytics-academy/modules"
