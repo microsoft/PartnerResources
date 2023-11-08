@@ -17,7 +17,6 @@ showbreadcrumb: true
 Ready to elevate your organization's cloud infrastructure? Managing Azure infrastructure isn't just a task for the IT team — it's a collective effort. Get started with the basics and take action today.
 
 #### The Basics
-> More coming soon! Please check regularly for updates.
 1. [Azure Well-Architected Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-waf)
 2. [Azure Well-Architected Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-governance)
 3. [Azure Virtual Desktop](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-virtual-desktop)
