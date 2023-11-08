@@ -89,9 +89,6 @@
         - title: Resources
           url: "skilling/azure-data-academy/resources"
           tag: ada resources
-    - title: "Data Governance Academy"
-      url: "skilling/data-governance-academy"
-      tag: dga
     - title: "Developer Velocity Academy"
       url: "skilling/developer-velocity-academy"
       tag: data velocity academy
