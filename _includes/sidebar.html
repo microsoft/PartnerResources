@@ -1,3 +1,45 @@
+{% comment %}
+Get the tag of the current page
+
+page.url: /skilling/modern-analytics-academy/overview
+
+section.url: skilling/academies
+entry.url: skilling/modern-analytics-academy/overview
+           skilling/azure-data-academy
+{% endcomment %}  
+
+{% assign navTags = "" | split: ',' %}
+{% assign navTag = "" %}
+{% assign firstTag = "" %}
+
+{% for section in site.data.toc %}  {% comment %} Academies {% endcomment %}
+   
+  {% for entry in section.links %} 
+    {% if page.url contains entry.url %}{% assign navTag = entry.tag %}{% endif %}
+    {% for area in entry.children %} 
+      {% if page.url contains area.url %}{% assign navTag = area.tag %}{% endif %}
+      {% for subarea in area.children %} 
+        {% if page.url contains subarea.url %}{% assign navTag = subarea.tag %}{% endif %}
+      {% endfor %} 
+    {% endfor %}
+  {% endfor %}
+{% endfor %}
+
+{% comment %}
+Get the first word of the tag, like "maa" in "maa overview"
+The first word in the tag is used as a grouping for the nav
+
+Currently using whole tag but can change to first word if needed
+{% endcomment %} 
+
+{% assign navTags = navTag | split:' ' %}
+{% if navTags.size >= 0 %}
+  {% assign firstTag = navTags[0] %}
+{% endif %}
+{% comment %}
+----------------
+{% endcomment %} 
+
 <div id="td-sidebar-menu" class="td-sidebar__inner">  
   <form class="td-sidebar__search d-flex align-items-center">
   <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
@@ -8,6 +50,7 @@
   {% comment %}
   Order of Nav: section > entry > area > subarea
   {% endcomment %}  
+
   {% for section in site.data.toc %}
 
     <ul class="td-sidebar-nav__section pr-md-3">
@@ -19,6 +62,11 @@
         <li class="collapse show" id="sidebar_{{ section.title | slugify }}">
           <ul class="td-sidebar-nav__section pr-md-3">
               {% for entry in section.links %}
+             
+                {% comment %} 
+                  each entry in section.links = "AI/ML Academy", "Teams Academy" etc.
+                {% endcomment %}    
+
                 {% assign sectionText = "" %}
                 {% assign isCurrentEntry = false %}
                 {% assign isCurrentArea = false %}
@@ -29,18 +77,26 @@
                 {% capture sectionTail %}</li></ul>{% endcapture %}
                 {% assign sectionText = sectionHead %}
                 {% assign areatext = "" %}
-                {% assign subareaText = "" %}
+
                 {% if entry.children %}
                   {% for area in entry.children %}
 
+                    {% comment %} 
+                      each area such as MAA > Overview, MAA > Modules, MAA > Vignettes
+                    {% endcomment %}  
+           
                     {% comment %}
                     Third level nesting - subarea
                     {% endcomment %}     
                     {% assign subareaText = "" %} 
                     {% assign isCurrentSubarea = false %}
                     {% assign isCurrentArea = false %}
+
                     {% if area.children %}
                       {% for subarea in area.children %}
+                        {% comment %} 
+                          each subarea such as MAA > Modules > Observability 
+                        {% endcomment %}  
                         {% if subarea.url %}{% assign linkUrl = site.baseurl | append: "/" | append: subarea.url %}{% else %}{% assign linkUrl = subarea.external_url %}{% endif %}
                         {% assign cleanedChild = subarea.url | remove: "/" %}
                         {% if cleanedPage == cleanedChild or cleanedPage contains cleanedChild %}
@@ -64,7 +120,6 @@
                         {% assign isCurrentArea = true %}
                         {% assign isCurrentEntry = true %}
                       {% endif %} 
-
                     {% endif %}
                 
                     {% if area.url %}{% assign linkUrl = site.baseurl | append: "/" | append: area.url %}{% else %}{% assign linkUrl = area.external_url %}{% endif %}
@@ -77,8 +132,9 @@
                       {% capture areaFragment %}<a class="td-sidebar-link td-sidebar-link__page " id="m-{{ section.title | slugify }}-{{ entry.title | slugify }}-{{ area.title | slugify }}" href="{{ linkUrl }}">{{ area.title }}</a>{% endcapture %}
                     {% endif %}
                     {% assign areatext = areatext | append: areaFragment %}
-                    {% if isCurrentArea == true %}
+                    {% if navTag == area.tag or isCurrentArea == true or isCurrentEntry == true %}
                       {% assign areatext = areatext | append: subareaText %}
+
                     {% endif %}
                   {% endfor %}
                 {% else %}
@@ -88,14 +144,15 @@
                   {% endcomment %}     
                  
                   {% assign testUrl = "/" | append: entry.url | append: "/" %}
-                  {% if page.url contains testUrl %}
+                  {% if navTag == entry.tag or page.url contains testUrl %}
                     {% assign isCurrentArea = true %}
                     {% assign isCurrentEntry = true %}
                   {% endif %} 
                 {% endif %}
                 
+                {% comment %} Test for each entry (eg Modern Analytics Academy) {% endcomment %}     
                 {% if cleanedPage == cleanedEntry %}{% assign isCurrentEntry = true %}{% endif %}
-
+              
                 {% assign shim = "0px" %}
                 {% if entry.title == "Partner Showcase" %}
                   {% assign shim = "10px" %}
