@@ -19,6 +19,10 @@ tags:
 
 Visualizaton explores how data is visualized and presented for analysis. Often, this is through reporting dashboards (Power BI) and through visualizations in Notebooks, which support a variety of visualization plug-ins. 
 
+* [Microsoft: Introducing Fabric](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/)
+* [Microsoft Learn: What is Microsoft Fabric?](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview)
+* [Microsoft Learn: Power BI Leaning Paths](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
+
 {% include series.md 
     includetags="modern analytics academy|main series|visualization" includemethod="all" 
     includesecondtags="modern analytics academy|main series|power bi" 

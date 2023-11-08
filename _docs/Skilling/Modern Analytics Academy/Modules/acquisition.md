@@ -19,9 +19,9 @@ tags:
 
 Data Acquisition & Storage explores the role of data storage and integrating data into our applications and reporting systems. Relational systems, data ingestion, real-time/hot path/cold path factors all play a role in architecting an analytical solution.
 
-* [Microsoft Learn: data store models](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview)
-* [Microsoft Learn: analytical data store](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/analytical-data-stores)
-* [Microsoft Learn: big data architectures](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures)
+* [Microsoft Learn: Data store models](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview)
+* [Microsoft Learn: Analytical data store](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/analytical-data-stores)
+* [Microsoft Learn: Big data architectures](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures)
 
 {% include series.md 
     includetags="modern analytics academy|main series|data acquisition" includemethod="all" 
