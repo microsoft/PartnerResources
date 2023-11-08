@@ -3,7 +3,7 @@ layout: page
 title: Modern Analytics Academy - Modules
 description: Modern Analytics Academy - Modules
 permalink: /skilling/modern-analytics-academy/modules
-updated: 2023-11-07
+updated: 2023-11-08
 showbreadcrumb: true
 navheadersonly: true
 tags:
@@ -35,7 +35,7 @@ Our core sessions map to the main pillars of each module: Acquisition & Storage,
     includetags="modern analytics academy|main series" includemethod="all" 
     removetags="azure|data, analytics, and ai|modern analytics academy|main series|academy content" 
     sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false"
-    visualstyle="tiny"
+    visualstyle="normal"
 %}
 
 ## "Vignette" Sessions
