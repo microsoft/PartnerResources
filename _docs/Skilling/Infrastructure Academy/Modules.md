@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Infrastructure Academy Modules
 description: Want to dive deep into learning?
 permalink: /skilling/microsoft-infrastructure-academy/modules
-updated: 2023-11-01
+updated: 2023-11-09
 showbreadcrumb: true
 tags: 
 - academy content
