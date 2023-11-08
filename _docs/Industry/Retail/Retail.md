@@ -33,6 +33,8 @@ Additionally, some content may be marked with one or more icons:
 
 * [Overview of Microsoft Cloud for Retail](https://www.microsoft.com/en-us/industry/retail/microsoft-cloud-for-retail)
     * Connect your customers, your people, and your data
+* [Store Operations Assist Training](https://learn.microsoft.com/en-us/training/paths/get-started-store-operations-assist)
+    *    Learn about store operations assist
 * [Partner Resources](https://partner.microsoft.com/en-us/solutions/industry-solutions/retail-consumer-goods)
     * Learn about the partner opportunity
 
