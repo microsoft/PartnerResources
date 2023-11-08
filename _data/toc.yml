@@ -296,69 +296,69 @@
           tag: acronyms
     - title: "Security Academy"
       url: "skilling/microsoft-security-academy"
-      tag: microsoft security academy
+      tag: msa
       children:
         - title: Getting Started
           url: "skilling/microsoft-security-academy/start"
-          tag: getting started
+          tag: msa
         - title: Modules
           url: "skilling/microsoft-security-academy/modules"
-          tag: modules
+          tag: msa
           children:
             - title: SIEM + XDR
               url: "skilling/microsoft-security-academy/siem-xdr"
-              tag: siem & xdr
+              tag: msa
               children:
                 - title: Microsoft Sentinel Academy
                   url: "skilling/microsoft-security-academy/sentinel-academy"
-                  tag: sentinel
+                  tag: msa
                 - title: Microsoft 365 Defender Academy
                   url: "skilling/microsoft-security-academy/365d-academy"
-                  tag: 365d-academy
+                  tag: msa
             - title: Cloud Security
               url: "skilling/microsoft-security-academy/cloud-security"
-              tag: cloud security
+              tag: msa
               children:
                 - title: Microsoft Defender for Cloud Academy
                   url: "skilling/microsoft-security-academy/defender-academy"
-                  tag: defender for cloud
+                  tag: msa
                 - title: Azure Network Security Academy
                   url: "skilling/microsoft-security-academy/network-academy"
-                  tag: network security
+                  tag: msa
             - title: Identity and Access
               url: "skilling/microsoft-security-academy/identity-access"
-              tag: identity & access
+              tag: msa
               children:
                 - title: Microsoft Entra Academy
                   url: "skilling/microsoft-security-academy/entra-academy"
-                  tag: entra
+                  tag: msa
             - title: Endpoint Security
               url: "skilling/microsoft-security-academy/endpoint-security"
-              tag: endpoint security
+              tag: msa
               children: 
                 - title: Endpoint Security Academy
                   url: "skilling/microsoft-security-academy/endpoint-academy"
-                  tag: endpoint security academy
+                  tag: msa
             - title: Data Security and Governance
               url: "skilling/microsoft-security-academy/data-sec"
-              tag: data security and governance
+              tag: msa
               children:
                 - title: Microsoft Purview Academy
                   url: "skilling/microsoft-security-academy/purview-academy"
-                  tag: purview
+                  tag: msa
         - title: Resources
           url: "skilling/microsoft-security-academy/resources"
-          tag: resources
+          tag: msa
         - title: Security Copilot
           url: "skilling/microsoft-security-academy/microsoft-security-copilot"
-          tag: security copilot
+          tag: msa
           children: 
             - title: Q&A
               url: "skilling/microsoft-security-academy/microsoft-security-copilot-extra"
-              tag: security copilot
+              tag: msa
         - title: Specializations
           url: "skilling/microsoft-security-academy/specializations"
-          tag: specializations
+          tag: msa
     - title: "Teams Academy"
       url: "skilling/microsoft-teams-academy"
       tag: mta
