@@ -20,6 +20,10 @@ tags:
 
 Security and Governance explores topics related to security and data governance. While security topics can be specific, such as password management in Key Vault, they can also be more generalized like best practices for security in mixed heterogeneous environments. We'll also look at data governance integration with Microsoft Purview, with a specific attention to how that integrates with analytical and data systems. 
 
+* [Microsoft: What is data governance?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-data-governance/)
+* [Microsoft Purview: Unified data governance](https://azure.microsoft.com/en-us/products/purview)
+* [Microsoft Learn: Security in Microsoft Fabric)](https://learn.microsoft.com/en-us/fabric/security/security-overview)
+
 {% include series.md 
     includetags="modern analytics academy|main series|security" includemethod="all" 
     includesecondtags="modern analytics academy|main series|data governance" 
