@@ -19,6 +19,10 @@ tags:
 
 Data Science explores topics related to data enrichment and getting value from data, historically referred to as "business intelligence." This often overlaps with integration and modeling, and often machine learning algorithms. However, the data cleansing, enrichment, and modeling techniques are often unique to data science when compared to other business analytics. For more in-depth AI and ML related topics, see our [AI and ML Academy](/PartnerResources/skilling/ai-ml-academy).
 
+* [Microsoft Learn: What is data science?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-data-science)
+* [SynapseML on Github](https://microsoft.github.io/SynapseML/)
+* [Microsoft Learn: Data science in Fabric](https://learn.microsoft.com/en-us/fabric/data-science/data-science-overview)
+
 {% include series.md 
     includetags="modern analytics academy|main series|data science" includemethod="all" 
     removetags="azure|data, analytics, and ai|modern analytics academy|main series|academy content" 
