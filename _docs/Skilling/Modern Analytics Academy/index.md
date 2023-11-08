@@ -2,7 +2,7 @@
 layout: page
 title: Modern Analytics Academy - Overview
 description: Modern Analytics Academy - Overview
-permalink: /skilling/modern-analytics-academy/overview
+permalink: /skilling/modern-analytics-academy
 updated: 2023-11-07
 showbreadcrumb: true
 tags:
