@@ -8,6 +8,7 @@ redirect_from:
   - /skilling/modern-analytics-academy/vignettes/
   - /skilling/data-analytics-ai/modern-analytics-academy-vignettes
 showbreadcrumb: true
+hiderightnav: true
 tags:
 - azure
 - data, analytics, and ai
