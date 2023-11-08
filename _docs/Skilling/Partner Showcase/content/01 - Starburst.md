@@ -11,6 +11,9 @@ tags:
  - microsoft partner showcase
  - data, analytics, and ai
  - data mesh
+ - modern analytics academy
+ - vignettes
+ - acquisition
 ---
 
 # {{ page.title }}

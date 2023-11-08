@@ -13,6 +13,9 @@ tags:
  - data management
  - edm council
  - data governance academy
+ - modern analytics academy
+ - vignettes
+ - data governance
 ---
 
 # {{ page.title }}

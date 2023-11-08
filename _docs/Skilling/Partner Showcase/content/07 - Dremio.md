@@ -14,6 +14,9 @@ tags:
  - data lakehouse
  - data warehouse
  - dremio
+ - modern analytics academy
+ - vignettes
+ - acquisition
 ---
 
 # {{ page.title }}
