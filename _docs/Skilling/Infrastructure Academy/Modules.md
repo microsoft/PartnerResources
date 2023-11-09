@@ -13,7 +13,7 @@ tags:
 
 ## Microsoft Infrastructure Academy
 
-### Modules📘
+### Video Modules📘
 
 The Microsoft Infrastructure Academy's **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** are organized into four smaller infrastructure modules, including **[Migrate and Secure Windows & SQL Servers](/PartnerResources/skilling/microsoft-infrastructure-academy/windows-sql-servers)**, **[SAP on Azure](/PartnerResources/skilling/microsoft-infrastructure-academy/sap-on-azure)**, **[Enable Customer Success](/PartnerResources//skilling/microsoft-infrastructure-academy/enable-customer-success)**, and **[AI Infrastructure (HPC)](/PartnerResources/skilling/microsoft-infrastructure-academy/ai-infrastructure)**. These modules lay the foundation for developing proficiency in Azure infrastructure.
 
