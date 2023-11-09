@@ -216,47 +216,47 @@
               tag: d365 sales academy viva sales
     - title: "Infrastructure Academy"
       url: "skilling/microsoft-infrastructure-academy"
-      tag: modern infrastructure academy
+      tag: IA
       children:
         - title: Video Modules
           url: "skilling/microsoft-infrastructure-academy/modules"
-          tag: modules
+          tag: IA
           children:
             - title: Windows & SQL Servers
               url: "skilling/microsoft-infrastructure-academy/windows-sql-servers"
-              tag: windows & sql servers
+              tag: IA
               children:
                 - title: Azure VMware Solution
                   url: "/skilling/microsoft-infrastructure-academy/avs"
-                  tag: avs
+                  tag: IA
                 - title: Azure Arc
                   url: "/skilling/microsoft-infrastructure-academy/azure-arc"
-                  tag: azure arc
+                  tag: IA
                 - title: Azure Virtual Desktop
                   url: "/skilling/microsoft-infrastructure-academy/avd"
-                  tag: avd
+                  tag: IA
                 - title: Networking
                   url: "/skilling/microsoft-infrastructure-academy/networking"
-                  tag: networking
+                  tag: IA
             - title: SAP on Azure
               url: "skilling/microsoft-infrastructure-academy/sap-on-azure"
-              tag: sap on azure
+              tag: IA
             - title: Customer Success
               url: "skilling/microsoft-infrastructure-academy/enable-customer-success"
-              tag: enable-customer-success
+              tag: IA
               children:
                 - title: Well Architected Framework
                   url: "/skilling/microsoft-infrastructure-academy/waf"
-                  tag: well architected framework
+                  tag: IA
                 - title: Cloud Adoption Framework
                   url: "/skilling/microsoft-infrastructure-academy/cloud-adoption-framework"
-                  tag: cloud adoption framework
+                  tag: IA
             - title: AI Infrastructure
               url: "skilling/microsoft-infrastructure-academy/ai-infrastructure"
-              tag: ai infrastructure
+              tag: IA
         - title: Resources
           url: "skilling/microsoft-infrastructure-academy/resources"
-          tag: infrastructure
+          tag: IA
     - title: "Modern Analytics Academy"
       url: "skilling/modern-analytics-academy"
       tag: maa
