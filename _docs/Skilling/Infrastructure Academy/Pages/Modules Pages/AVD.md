@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Infrastructure Academy — Azure Virtual Desktop (AVD)
 description: Microsoft Infrastructure Academy Azure Virtual Desktop (AVD).
 permalink: /skilling/microsoft-infrastructure-academy/avd
-updated: 2023-11-11
+updated: 2023-11-10
 showbreadcrumb: true
 Tags:
 - academy content

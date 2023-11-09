@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Infrastructure Academy — AI Infrastructure (HPC)
 description: Microsoft Infrastructure Academy AI Infrastructure (HPC).
 permalink: /skilling/microsoft-infrastructure-academy/ai-infrastructure
-updated: 2023-11-11
+updated: 2023-11-10
 showbreadcrumb: true
 Tags:
 - academy content

@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Infrastructure Academy — Networking
 description: Microsoft Infrastructure Academy Networking.
 permalink: /skilling/microsoft-infrastructure-academy/networking
-updated: 2023-11-11
+updated: 2023-11-10
 showbreadcrumb: true
 Tags:
 - academy content

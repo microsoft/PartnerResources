@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Infrastructure Academy — Azure Arc
 description: Microsoft Infrastructure Academy Azure Arc.
 permalink: /skilling/microsoft-infrastructure-academy/azure-arc
-updated: 2023-11-11
+updated: 2023-11-10
 showbreadcrumb: true
 Tags:
 - academy content

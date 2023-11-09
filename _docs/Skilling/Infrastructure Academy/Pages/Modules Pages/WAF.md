@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Infrastructure Academy — Well-Architected Framework
 description: Microsoft Infrastructure Academy Well-Architected Framework.
 permalink: /skilling/microsoft-infrastructure-academy/waf
-updated: 2023-11-11
+updated: 2023-11-10
 showbreadcrumb: true
 Tags:
 - academy content

@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Infrastructure Academy
 description: Microsoft Infrastructure Academy
-updated: 2023-11-11
+updated: 2023-11-10
 permalink: /skilling/microsoft-infrastructure-academy
 redirect_from:
   - /skilling/microsoft-infrastructure-academy/
@@ -43,4 +43,4 @@ Keep your organization resilient against evolving challenges with continuous lea
 * [Azure Virtual Desktop Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog)
 * [Core Infrastructure and Security Blog](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bg-p/CoreInfrastructureandSecurityBlog)
 * [Linux and Open Source Blog](https://techcommunity.microsoft.com/t5/linux-and-open-source-blog/bg-p/LinuxandOpenSourceBlog)
-* [Running SAP Applications on the Microsoft Platform](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications)
+* [Running SAP Applications on the Microsoft Platform Blog](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications)

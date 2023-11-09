@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Infrastructure Academy — Cloud Adoption Framework (CAF)
 description: Microsoft Infrastructure Academy Cloud Adoption Framework (CAF).
 permalink: /skilling/microsoft-infrastructure-academy/cloud-adoption-framework
-updated: 2023-11-11
+updated: 2023-11-10
 showbreadcrumb: true
 Tags:
 - academy content
