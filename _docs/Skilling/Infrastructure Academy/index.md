@@ -14,13 +14,12 @@ showbreadcrumb: true
 
 #### Welcome to the Microsoft Infrastructure Academy, your gateway to managing and optimizing your cloud infrastructure. 📎
 
-Ready to elevate your organization's cloud infrastructure? Managing Azure infrastructure isn't just a task for the IT team — it's a collective effort. Get started with the basics and take action today.
+Ready to elevate your organization's cloud infrastructure? Managing Azure infrastructure isn't just a task for the IT team — it's a collective effort. Get started with **the basics** and take action today.
 
 #### The Basics
-1. [Azure Well-Architected Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-waf)
-2. [Azure Well-Architected Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-governance)
-3. [Azure Virtual Desktop](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-virtual-desktop)
-
+1. **[Azure Well-Architected Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-waf)**
+2. **[Azure Governance](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-governance)**
+3. **[Azure Virtual Desktop](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-virtual-desktop)**
 
 Keep your organization resilient against evolving challenges with continuous learning through our **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)**. Our **[Resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources)** complement the **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** and empower you to dive deeper into key Azure infrastructure concepts.
 

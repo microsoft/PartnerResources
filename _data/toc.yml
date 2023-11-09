@@ -218,7 +218,7 @@
       url: "skilling/microsoft-infrastructure-academy"
       tag: modern infrastructure academy
       children:
-        - title: Modules
+        - title: Video Modules
           url: "skilling/microsoft-infrastructure-academy/modules"
           tag: modules
           children:
