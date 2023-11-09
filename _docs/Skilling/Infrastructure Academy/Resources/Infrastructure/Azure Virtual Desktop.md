@@ -3,14 +3,15 @@ layout: page
 title: Azure Virtual Desktop
 description: Resources for Azure Virtual Desktop
 updated: 2023-10-20
-permalink: /azure/infrastructure/windows-virtual-desktop
+permalink: /skilling/microsoft-infrastructure-academy/resources/azure-virtual-desktop
 tags: 
 - learning plan
 - azure
 - infrastructure
+- avd resources
 ---
 
-# Learning Plan for Azure Virtual Desktop
+# Learning Plan Resources for Azure Virtual Desktop
 
 ## Fundamentals
 * [**MS Docs:** What is Azure Virtual Desktop?](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview)
@@ -48,5 +49,5 @@ tags:
 
 ### Automation and Deployment
 * [**GitHub:** Virtual Desktop Host Optimization Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
-* [**MS Docs:** Create Host Pool to validate Service Updates](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-validation-host-pool)
+* [**MS Docs:** Create Host pool to validate Service Updates](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-validation-host-pool)
 * [**MS Docs:** Setup PowerShell for Azure Virtual Desktop](https://docs.microsoft.com/en-us/azure/virtual-desktop/powershell-module)

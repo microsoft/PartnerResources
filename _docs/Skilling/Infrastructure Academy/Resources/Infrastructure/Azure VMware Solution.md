@@ -2,12 +2,13 @@
 layout: page
 title: Azure VMware Solution (AVS)
 description: Resources for Azure VMware Solution (AVS)
-updated: 2023-10-16
-permalink: /azure/infrastructure/azure-vmware-solution
+updated: 2023-11-03
+permalink: /skilling/microsoft-infrastructure-academy/resources/avs-resources
 tags: 
 - learning plan
 - azure
 - infrastructure
+- avs resources
 ---
 
 # Learning Plan Resources for Azure VMware Solution (AVS)
@@ -44,7 +45,7 @@ tags:
 * [Azure VMware Solution — VMware FAQ](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/partners/vmw-faq-temp.pdf)
 
 ### Integrations
-* [Azure VMware Solution — NetApp — Documentation](https://docs.netapp.com/netapp-solutions/ehc/azure/index.html)
+* [Azure VMware Solution — NetApp — Documentation](https://docs.netapp.com/us-en/netapp-solutions/ehc/azure/index.html)
 * [Azure VMware Solution — Pure Storage — Documentation](https://www.purestorage.com/solutions/cloud/azure-vmware.html) 🆕
 
 ### Business Impact

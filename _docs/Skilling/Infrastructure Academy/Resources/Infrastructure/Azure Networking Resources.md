@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Azure Networking Resources
+title: Azure Networking
 description: Resources for Azure Networking
 updated: 2023-10-20
-permalink: /azure/infrastructure/azure-networking-resources
+permalink: /skilling/microsoft-infrastructure-academy/resources/azure-networking
 tags: 
 - learning plan
 - azure
-- networking resources
 - infrastructure
+- networking resources
 ---
 
 # [Azure Advanced Networking Resources](https://docs.microsoft.com/en-us/azure/networking/)

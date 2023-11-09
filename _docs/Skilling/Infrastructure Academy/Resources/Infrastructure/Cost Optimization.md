@@ -3,7 +3,7 @@ layout: page
 title: Cost Optimization
 description: Resources for Cloud Cost Optimization
 updated: 2023-10-20
-permalink: /azure/infrastructure/cost-optimization
+permalink: /skilling/microsoft-infrastructure-academy/resources/cost-optimization
 tags: 
 - learning plan
 - azure

@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2023-10-18
+updated: 2023-11-03
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -19,6 +19,8 @@ Stay ahead of evolving threats and protect your organization with continuous lea
 **Explore our new resources for [Microsoft Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot) and common [Microsoft Security Copilot Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot-extra).**
 
 Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
+
+Learn about Microsoft's new **[Secure Future Initiative](https://blogs.microsoft.com/on-the-issues/2023/11/02/secure-future-initiative-sfi-cybersecurity-cyberattacks/) to address "sophisticated, patient, stealthy, well-resourced, and government-backed techniques to infect and undermine the integrity of computer networks on a long-term basis."**
 
 #### The Basics
 1. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)**

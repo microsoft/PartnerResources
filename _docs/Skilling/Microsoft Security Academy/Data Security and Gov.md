@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Microsoft Security Academy - Data Security and Governance
+title: Microsoft Security Academy — Data Security and Governance
 description: Microsoft Security Academy Data Security and Governance.
 permalink: /skilling/microsoft-security-academy/data-sec
-updated: 2023-07-21
+updated: 2023-11-01
 showbreadcrumb: true
 tags: 
 - academy content
