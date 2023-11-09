@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Azure Networking Resources
+title: Azure Networking
 description: Resources for Azure Networking
 updated: 2023-10-20
 permalink: /skilling/microsoft-infrastructure-academy/resources/azure-networking

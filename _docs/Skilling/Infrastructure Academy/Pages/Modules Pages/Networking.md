@@ -16,7 +16,7 @@ Welcome to the Microsoft Networking Academy. Explore Azure Networking video sess
 
 #### Stay connected with the [Azure Networking Blog](https://techcommunity.microsoft.com/t5/azure-networking-blog/bg-p/AzureNetworkingBlog).
 
-#### Learn more with our collection of [Azure Virtual Desktop resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-networking).
+#### Learn more with our collection of [Azure Advanced Networking resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-networking).
 
 ### Sessions
 

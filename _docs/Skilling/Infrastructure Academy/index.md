@@ -31,7 +31,7 @@ Keep your organization resilient against evolving challenges with continuous lea
 
 ## Start Your Journey and Stay Connected🔗
  
- Stay connected with our [Azure Infrastructure Blog](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog) and find guidance and resources for technical questions and more.
+ Stay connected with our [Azure Infrastructure Blog](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog) and more to find guidance and resources for technical questions.
 
 * [Azure Architecture Blog](https://techcommunity.microsoft.com/t5/azure-architecture-blog/bg-p/AzureArchitectureBlog)
 * [Azure Arc Blog](https://techcommunity.microsoft.com/t5/azure-arc-blog/bg-p/AzureArcBlog)
