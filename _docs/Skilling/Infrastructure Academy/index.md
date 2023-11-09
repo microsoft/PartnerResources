@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Infrastructure Academy
 description: Microsoft Infrastructure Academy
-updated: 2023-11-09
+updated: 2023-11-10
 permalink: /skilling/microsoft-infrastructure-academy
 redirect_from:
   - /skilling/microsoft-infrastructure-academy/
@@ -10,7 +10,7 @@ showbreadcrumb: true
 ---
 {% include_relative header.md %}
 
-> More coming this fall! The Infrastructure Academy launched Nov. 2023 and is undergoing development.
+> More coming this December! The Infrastructure Academy launched Nov. 2023 and is undergoing development.
 
 #### Welcome to the Microsoft Infrastructure Academy, your gateway to managing and optimizing your cloud infrastructure. 📎
 
