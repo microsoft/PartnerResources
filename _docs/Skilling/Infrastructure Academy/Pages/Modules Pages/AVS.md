@@ -3,8 +3,7 @@ layout: page
 title: Microsoft Infrastructure Academy — Azure VMware Solution (AVS)
 description: Microsoft Infrastructure Academy Azure VMware Solution (AVS).
 permalink: /skilling/microsoft-infrastructure-academy/avs
-updated: 2023-11-10
-showbreadcrumb: true
+updated: 2023-11-11
 Tags:
 - academy content
 - microsoft infrastructure academy
@@ -17,4 +16,5 @@ Welcome to the Microsoft Azure VMware Solution Academy. Explore Microsoft Azure 
 #### Learn more with our collection of [AVS resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/avs-resources).
 
 ### Sessions
+
 > Sessions coming soon! The Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.

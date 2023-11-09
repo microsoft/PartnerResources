@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Infrastructure Academy
 description: Microsoft Infrastructure Academy
-updated: 2023-11-10
+updated: 2023-11-11
 permalink: /skilling/microsoft-infrastructure-academy
 redirect_from:
   - /skilling/microsoft-infrastructure-academy/

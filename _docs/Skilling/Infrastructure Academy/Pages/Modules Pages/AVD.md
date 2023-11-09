@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Infrastructure Academy — Azure Virtual Desktop (AVD)
 description: Microsoft Infrastructure Academy Azure Virtual Desktop (AVD).
 permalink: /skilling/microsoft-infrastructure-academy/avd
-updated: 2023-11-01
+updated: 2023-11-11
 showbreadcrumb: true
 Tags:
 - academy content
@@ -14,22 +14,10 @@ Tags:
 ## Microsoft Azure Virtual Desktop Academy
 Welcome to the Microsoft Azure Virtual Desktop Academy. Explore Microsoft Azure Virtual Desktop video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
-#### Stay connected with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog). *Replace blog/link*
+#### Stay connected with the [Azure Virtual Desktop Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog).
 
-### Sessions *(Examples)*
-{% include series.md 
-    includetags="academy content|network security" includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
-    visualstyle="normal" 
-%}
+#### Learn more with our collection of [Azure Virtual Desktop resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-virtual-desktop).
 
-### Additional Resources
+### Sessions
 
-{% include resources.md 
-    includetags="avd resources"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
+> Sessions coming soon! The Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.
