@@ -40,14 +40,14 @@ There are multiple types of partnerships with Microsoft:
 
 1. **[Onboarding](/PartnerResources/skilling/partner-onboarding-academy/onboard)**: This is the first step towards becoming a Microsoft Partner. This will give you entry into Partner Center, which is how and where you can access all of the Partner benefits.
 2. **[Build](/PartnerResources/skilling/partner-onboarding-academy/build)**: Learn about Azure services and build your Azure skills.
-  * **NOTE:** *Sometimes this step is done prior to onboarding.*
+  * NOTE: *Sometimes this step is done prior to onboarding.*
 3. **[Market](/PartnerResources/skilling/partner-onboarding-academy/market)**: Now that you have access to Partner Center and a solution on Azure, the next step is to create an offer in the Azure Marketplace. Learn how to share leads and understand the rewards available to you.
 4. **[Grow](/PartnerResources/skilling/partner-onboarding-academy/grow)**: Once you understand the Marketplace, start to grow your business through other Co-Sell incentives.
 5. **[Accelerate](/PartnerResources/skilling/partner-onboarding-academy/accelerate)**: Take your partnership to the next level by fully utilizing Partner Incentives.
 
 #### Key Concepts
 
-**NOTE:** *Microsoft uses many acronyms in it's business. Use [this page](/PartnerResources/skilling/partner-onboarding-academy/acronyms) to reference those most commonly used.*
+NOTE: *Microsoft uses many acronyms in it's business. Use [this page](/PartnerResources/skilling/partner-onboarding-academy/acronyms) to reference those most commonly used.*
 
 Below are key concepts and definitions you'll see used in this Academy: 
 
@@ -70,7 +70,7 @@ The first step is to **[start the onboarding process](/PartnerResources/skilling
 
 Have questions not addressed here? See our **[FAQ](/PartnerResources/skilling/partner-onboarding-academy/faq).**
 
-#### Additional resources
+### Additional resources
 
 * [Six easy steps to becoming a Microsoft Partner](https://www.microsoft.com/en-us/americas-partner-blog/2023/06/15/six-easy-steps-to-becoming-a-microsoft-partner/)
 * [Carve Partners: Partner Center Guide for ISVs](https://www.linkedin.com/posts/reis-barrie-13414656_carve-partner-center-guide-for-isvs-activity-7118183761975889920-xAII/)
