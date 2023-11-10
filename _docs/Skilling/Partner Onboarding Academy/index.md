@@ -8,9 +8,9 @@ showbreadcrumb: true
 ---
 {% include_relative header.md %}
 
-### Welcome to the Microsoft Partner Onboarding Academy, your gateway to your Partner journey.🔗
+### Welcome to the Microsoft Partner Onboarding Academy, your gateway to your partner journey.🔗
 
-**This academy will walk you through the steps necessary to get started and prosper as a Microsoft Partner.**
+**This Academy will walk you through the steps necessary to get started and prosper as a Microsoft Partner.**
 
 #### What is a Partner?
 
