@@ -14,8 +14,6 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 
 ![](../../../assets/partner-onboarding/partner-journey.png)
 
-**In this page, you will learn how to Onboard onto the Azure Marketplace.**
-
 ### Onboarding onto the Azure Marketplace
 
 The following steps will help you onboard your Partner Onboarding journey:
