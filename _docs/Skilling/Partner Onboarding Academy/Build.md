@@ -36,9 +36,7 @@ For more information on Azure Credits for Microsoft Partners, see **[this articl
 
 #### Software
 
-Microsoft Partners receive licenses for free Microsoft software.
-
-These benefits are listed in the "Software Benefits" section of **[Partner Center](https://partner.microsoft.com/dashboard/home)**, along with license keys, the last date you may activate the software, and instructions on activating your software.
+Microsoft Partners receive licenses for free Microsoft software. These benefits are listed in the "Software Benefits" section of **[Partner Center](https://partner.microsoft.com/dashboard/home)**, along with license keys, the last date you may activate the software, and instructions on activating your software.
 
 For more information on Software Benefits for Microsoft Partners, see **[this article](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-software).**
 
@@ -50,19 +48,19 @@ To access these benefits, select "Visual Studio subscriptions benefits" on the "
 
 See **[this article](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-visual-studio)** for more information on Visual Studio and GitHub benefits for Microsoft Partners.
 
-## Links
+### Useful Links
 
 - [Use Technical presales & deployment services consulting (TDP)](https://learn.microsoft.com/en-us/partner-center/technical-benefits)
-- **Review Technical Benefits**
+- Review Technical Benefits
   - [Azure](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-azure-cloud)
   - [Software](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-software)
   - [Visual Studio & GitHub](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-visual-studio)
-- **Build skills**
+- Build Skills
   - [Use Skills Navigator](https://learn.microsoft.com/en-us/collections/mjdcwo2gzmz43)
   - [Find a Solution Partner](https://partner.microsoft.com/en-rs/partnership/solutions-partner) (OPTIONAL)
-- **Build on Azure**
+- Build on Azure
   - [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/) This content provides videos, hands-on labs and sample code to help you build transactable offers on the Microsoft marketplace.
 
-## Next steps
+### Next Steps
 
 The next thing to do is to start **[marketing your solution on Azure](/PartnerResources/skilling/partner-onboarding-academy/market).**

@@ -34,6 +34,6 @@ The following steps will help you onboard your Partner Onboarding journey:
     - Specializations and expert programs give solutions partners a way to differentiate their organizations by demonstrating deep technical expertise along with experience in specific technical scenarios under each solution area.
     - **[Learn about other benefits in Partner Center](https://learn.microsoft.com/en-gb/partner-center/manage-your-partner-network-benefits):** Examples include Azure credits, cloud services, software benefits, developer tools, and more.
 
-#### Next steps
+### Next steps
 
 The next step is to start **[building your solution on Azure](/PartnerResources/skilling/partner-onboarding-academy/build).**

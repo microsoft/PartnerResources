@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Partner Onboarding Academy
 description: Microsoft Partner Onboarding Academy
-updated: 2023-11-13
+updated: 2023-11-14
 permalink: /skilling/partner-onboarding-academy
 showbreadcrumb: true
 ---
@@ -37,14 +37,14 @@ There are multiple types of partnerships with Microsoft:
 
 1. **[Onboarding](/PartnerResources/skilling/partner-onboarding-academy/onboard)**: This is the first step towards becoming a Microsoft Partner. This will give you entry into Partner Center, which is how and where you can access all of the Partner benefits.
 2. **[Build](/PartnerResources/skilling/partner-onboarding-academy/build)**: Learn about Azure services and build your Azure skills.
-  * NOTE: *Sometimes this step is done prior to onboarding.*
+  * NOTE: Sometimes this step is done prior to onboarding.
 3. **[Market](/PartnerResources/skilling/partner-onboarding-academy/market)**: Now that you have access to Partner Center and a solution on Azure, the next step is to create an offer in the Azure Marketplace. Learn how to share leads and understand the rewards available to you.
 4. **[Grow](/PartnerResources/skilling/partner-onboarding-academy/grow)**: Once you understand the Marketplace, start to grow your business through other Co-Sell incentives.
 5. **[Accelerate](/PartnerResources/skilling/partner-onboarding-academy/accelerate)**: Take your partnership to the next level by fully utilizing Partner Incentives.
 
 #### Key Concepts
 
-NOTE: *Microsoft uses many acronyms in it's business. Use [this page](/PartnerResources/skilling/partner-onboarding-academy/acronyms) to reference those most commonly used.*
+NOTE: Microsoft uses many acronyms in it's business. Use [this page](/PartnerResources/skilling/partner-onboarding-academy/acronyms) to reference those most commonly used.
 
 Below are key concepts and definitions you'll see used in this Academy: 
 
