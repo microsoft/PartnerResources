@@ -2,13 +2,11 @@
 layout: page
 title: Acronyms
 description: Common Acronyms
-updated: 2023-11-13
+updated: 2023-11-14
 permalink: /skilling/partner-onboarding-academy/acronyms
 showbreadcrumb: true
 ---
 {% include_relative header.md %}
-
-### Acronyms
 
 Below are acronyms and definitions used in the Partner Onboarding Academy:
 

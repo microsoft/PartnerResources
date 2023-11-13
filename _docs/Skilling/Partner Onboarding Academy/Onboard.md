@@ -2,7 +2,7 @@
 layout: page
 title: Onboard 
 description: How to Onboard onto your Partner Journey
-updated: 2023-11-13
+updated: 2023-11-14
 permalink: /skilling/partner-onboarding-academy/onboard
 showbreadcrumb: true
 ---
@@ -16,23 +16,23 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 
 **In this page, you will learn how to Onboard onto the Azure Marketplace.**
 
-#### Onboarding onto the Azure Marketplace
+### Onboarding onto the Azure Marketplace
 
-The following steps will help you on your Partner Onboarding journey:
+The following steps will help you onboard your Partner Onboarding journey:
 
 1. Choose an existing Microsoft Entra tenant or **[create a new one](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/create-new-tenant).**
-2. [Enroll in Partner Center Account with the tenant](/PartnerResources/skilling/partner-onboarding-academy/acct) - Microsoft Partner Center is a web-based portal and platform provided by Microsoft for its partners. 
-3. [Join Microsoft AI Cloud Partner Program and Commercial Marketplace Program](https://learn.microsoft.com/en-us/partner-center/intro-to-cloud-partner-program-membership) — There are many partner programs. If you are looking to build and transact a solution on Azure Marketplace, join these programs.
-    - NOTE: *By joining the Commercial Marketplace Program, you are automatically enrolled in the Microsoft AI Cloud Partner Program as well.*
-4. [Complete Business Profile](https://learn.microsoft.com/en-us/partner-center/create-a-marketing-profile) **(OPTIONAL)**
-5. [Obtain your Partner ID](https://learn.microsoft.com/en-us/partner-center/partner-center-account-setup#identifiers) 
+2. **[Enroll in Partner Center Account with the tenant](/PartnerResources/skilling/partner-onboarding-academy/acct)** — Microsoft Partner Center is a portal and platform provided by Microsoft for its partners.
+3. **[Join Microsoft AI Cloud Partner Program and Commercial Marketplace Program](https://learn.microsoft.com/en-us/partner-center/intro-to-cloud-partner-program-membership)** — There are many partner programs. If you are looking to build and transact a solution on Azure Marketplace, join these programs.
+    - NOTE: By joining the Commercial Marketplace Program, you are automatically enrolled in the Microsoft AI Cloud Partner Program as well.
+4. **[Complete Business Profile](https://learn.microsoft.com/en-us/partner-center/create-a-marketing-profile)** **(OPTIONAL)**
+5. **[Obtain your Partner ID](https://learn.microsoft.com/en-us/partner-center/partner-center-account-setup#identifiers)**
 6. Active Resources to Grow Business **(OPTIONAL)**
   - While this can be done later in your partner journey, enrolling in these programs will help you in the future.
   - **[Microsoft Action Pack](https://partner.microsoft.com/en-us/partnership/action-pack):** Software, support, and benefits for businesses that want to start, build, and grow their Microsoft practice.
-    - [Follow these steps to purchase](https://learn.microsoft.com/en-us/partner-center/mpn-get-action-pack)
-  - **[Meet Criteria for Solutions Partner Designation](https://learn.microsoft.com/en-us/partner-center/introduction-to-pcs)**
+    - **[Follow these steps to purchase](https://learn.microsoft.com/en-us/partner-center/mpn-get-action-pack)**
+    - **[Meet Criteria for Solutions Partner Designation](https://learn.microsoft.com/en-us/partner-center/introduction-to-pcs)**
     - Specializations and expert programs give solutions partners a way to differentiate their organizations by demonstrating deep technical expertise along with experience in specific technical scenarios under each solution area.
-  - **[Learn about other benefits in Partner Center](https://learn.microsoft.com/en-gb/partner-center/manage-your-partner-network-benefits):** Examples include Azure credits, cloud services, software benefits, developer tools, and more.
+    - **[Learn about other benefits in Partner Center](https://learn.microsoft.com/en-gb/partner-center/manage-your-partner-network-benefits):** Examples include Azure credits, cloud services, software benefits, developer tools, and more.
 
 #### Next steps
 

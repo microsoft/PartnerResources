@@ -3,7 +3,7 @@ layout: page
 title: Frequently Asked Questions
 description: Frequently Asked Questions
 permalink: /skilling/partner-onboarding-academy/faq
-updated: 2023-11-13
+updated: 2023-11-14
 showbreadcrumb: true
 tags: 
 - academy content
@@ -13,7 +13,7 @@ tags:
 
 ## Microsoft Partner Onboarding Academy
 
-### Frequently Asked Questions
+### Frequently Asked Questions (FAQ)
 
 - What's the best way to get support? If you encounter issues and need to contact support, see [this page for which portal you should use](https://learn.microsoft.com/en-us/partner-center/support-resource-options).
 
