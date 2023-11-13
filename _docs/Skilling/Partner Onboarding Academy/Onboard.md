@@ -32,7 +32,7 @@ The following steps will help you onboard your Partner Onboarding journey:
     - **[Follow these steps to purchase](https://learn.microsoft.com/en-us/partner-center/mpn-get-action-pack)**
     - **[Meet Criteria for Solutions Partner Designation](https://learn.microsoft.com/en-us/partner-center/introduction-to-pcs)**
     - Specializations and expert programs give solutions partners a way to differentiate their organizations by demonstrating deep technical expertise along with experience in specific technical scenarios under each solution area.
-    - **[Learn about other benefits in Partner Center](https://learn.microsoft.com/en-gb/partner-center/manage-your-partner-network-benefits):** Examples include Azure credits, cloud services, software benefits, developer tools, and more.
+    - **[Learn about other benefits in Partner Center](https://learn.microsoft.com/en-gb/partner-center/manage-your-partner-network-benefits):** Azure Credits, Cloud Services, Software Keys, Technical consultations, Developer Tools, Marketing Benefits & Logo Builder.
 
 ### Next steps
 

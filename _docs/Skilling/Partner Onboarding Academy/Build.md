@@ -14,13 +14,13 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 
 ![](../../../assets/partner-onboarding/partner-journey.png)
 
-NOTE: Discussing how to deploy/run your solution on Azure is out of scope of this document. This document will focus on benefits available which can enable how to deploy/run on Azure.
+**Discussing how to deploy/run your solution on Azure is out of scope of this document. This document will focus on benefits available which can enable you to deploy and run on Azure.**
 
-#### Technical Presales and Deployment Benefits
+### Technical Presales and Deployment Benefits
 
 * Microsoft provides its partners with technical presales and deployment benefits.
 * Some partners are entitled to one-to-one consultations with Microsoft to help sell their services.
-* Other benefits include evaluation of soultions, upskilling, architecture guidance, help listing in the appropriate marketplace, and proofs of concept.
+* Other benefits include evaluation of solutions, upskilling, architecture guidance, help listing in the appropriate marketplace, and proofs of concept.
 
 For more information on Technical Presales and Deployment Benefits for Microsoft Partners, see **[this article](https://learn.microsoft.com/en-us/partner-center/technical-benefits).**
 
@@ -44,22 +44,22 @@ For more information on Software Benefits for Microsoft Partners, see **[this ar
 
 As a Microsoft Partner, you may be entitled to licenses for Visual Studio and GitHub Enterprise Cloud subscriptions.
 
-To access these benefits, select "Visual Studio subscriptions benefits" on the "Developer Tools" tab of [Partner Center](https://partner.microsoft.com/dashboard/home). Here, you will find the number of available licenses and instructions on assigning them to your users.
+To access these benefits, select "Visual Studio subscriptions benefits" on the "Developer Tools" tab of **[Partner Center](https://partner.microsoft.com/dashboard/home).** Here, you will find the number of available licenses and instructions on assigning them to your users.
 
 See **[this article](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-visual-studio)** for more information on Visual Studio and GitHub benefits for Microsoft Partners.
 
 ### Useful Links
 
-- [Use Technical presales & deployment services consulting (TDP)](https://learn.microsoft.com/en-us/partner-center/technical-benefits)
+- [Use Technical Presales & Deployment Services Consulting (TDP)](https://learn.microsoft.com/en-us/partner-center/technical-benefits)
 - Review Technical Benefits
   - [Azure](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-azure-cloud)
   - [Software](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-software)
   - [Visual Studio & GitHub](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-visual-studio)
 - Build Skills
   - [Use Skills Navigator](https://learn.microsoft.com/en-us/collections/mjdcwo2gzmz43)
-  - [Find a Solution Partner](https://partner.microsoft.com/en-rs/partnership/solutions-partner) (OPTIONAL)
+  - [Find a Solution Partner](https://partner.microsoft.com/en-rs/partnership/solutions-partner) **(OPTIONAL)**
 - Build on Azure
-  - [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/) This content provides videos, hands-on labs and sample code to help you build transactable offers on the Microsoft marketplace.
+  - [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/)
 
 ### Next Steps
 

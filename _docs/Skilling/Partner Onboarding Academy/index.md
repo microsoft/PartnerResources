@@ -29,7 +29,7 @@ There are multiple types of partnerships with Microsoft:
   * [MANY benefits](https://learn.microsoft.com/en-us/partner-center/manage-your-partner-network-benefits)
   * [MANY incentives](https://partner.microsoft.com/en-us/partnership/partner-incentives)
 
-### The Microsoft Partner Onboarding Academy's **Modules** are organized into sections which reflect the typical partner journey:
+#### The Microsoft Partner Onboarding Academy's **Modules** are organized into sections which reflect the typical partner journey:
 
 ![](../../assets/../../assets/partner-onboarding/partner-journey.png)
 
@@ -44,7 +44,7 @@ There are multiple types of partnerships with Microsoft:
 
 #### Key Concepts
 
-NOTE: Microsoft uses many acronyms in it's business. Use [this page](/PartnerResources/skilling/partner-onboarding-academy/acronyms) to reference those most commonly used.
+NOTE: Microsoft uses many acronyms in its business. Use **[this page](/PartnerResources/skilling/partner-onboarding-academy/acronyms)** to reference those most commonly used.
 
 Below are key concepts and definitions you'll see used in this Academy: 
 
