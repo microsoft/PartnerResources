@@ -1,9 +1,9 @@
 ---
 nav_exclude: true
 layout: page
-title: Microsoft Teams Academy - Meetings
-sorttitle: Microsoft Teams Academy - Meetings
-description: Microsoft Teams Academy - Meetings
+title: Microsoft Teams Academy — Meetings
+sorttitle: Microsoft Teams Academy — Meetings
+description: Microsoft Teams Academy — Meetings
 permalink: /skilling/microsoft-teams-academy/meetings
 updated: 2023-09-22
 showbreadcrumb: false
