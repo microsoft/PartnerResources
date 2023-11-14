@@ -63,4 +63,4 @@ See **[this article](https://learn.microsoft.com/en-us/partner-center/mpn-benefi
 
 ### Next Steps
 
-The next thing to do is to start **[marketing your solution on Azure](/PartnerResources/skilling/partner-onboarding-academy/market).**
+The next step is to start **[marketing your solution on Azure](/PartnerResources/skilling/partner-onboarding-academy/market).**

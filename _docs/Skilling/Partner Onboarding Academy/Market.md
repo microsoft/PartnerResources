@@ -42,7 +42,7 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 Once you have identified the correct offer type for your solution, follow the respective **[Publishing Guide by Offer Type](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type).**
 
 
-Some offer types have different listing options available. For example, if you are publishing a SaaS offer, there are the following listing options:
+Some Offer Types have different listing options available. For example, if you are publishing a SaaS offer, there are the following listing options:
        
 | Listing Option | Transaction Process |
 | ----------- | ----------- |
@@ -104,4 +104,4 @@ Before moving on to the next section you should have:
 -  [x] Shared at least 1 Co-Sell opportunity with Microsoft through Partner Center.
 -  [x] Read and understand the potential of Marketplace rewards & redeemed your Marketplace benefits.
 
-**The next thing to do is to start [growing your marketplace solution](/PartnerResources/skilling/partner-onboarding-academy/grow).**
+**The next step is to start [growing your marketplace solution](/PartnerResources/skilling/partner-onboarding-academy/grow).**
