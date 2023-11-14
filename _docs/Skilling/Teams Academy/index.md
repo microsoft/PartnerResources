@@ -4,13 +4,13 @@ layout: page
 title: Microsoft Teams Academy
 description: Microsoft Teams Academy
 permalink: /skilling/microsoft-teams-academy
-updated: 2023-11-11
+updated: 2023-11-14
 showbreadcrumb: true
 ---
 
 # Microsoft Teams Academy
 
-> More coming this fall! The Teams Academy is undergoing improvements, and the Resources will receive updates by January 2024.
+> More coming this winter! The Teams Academy is undergoing improvements, and the Resources will receive updates by January 2024.
 
 Welcome to the Microsoft Teams Academy, your comprehensive deep dive into everything Microsoft Teams! The Microsoft Teams Academy embraces a service-oriented organizational approach, making the deep and broad domain of Teams more easily consumable.
 

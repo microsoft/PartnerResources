@@ -1,9 +1,9 @@
 ---
 nav_exclude: true
 layout: page
-title: Microsoft Teams Academy - Management
-sorttitle: Microsoft Teams Academy - Management
-description: Microsoft Teams Academy - Management
+title: Microsoft Teams Academy — Management
+sorttitle: Microsoft Teams Academy — Management
+description: Microsoft Teams Academy — Management
 permalink: /skilling/microsoft-teams-academy/management
 updated: 2023-09-22
 showbreadcrumb: false

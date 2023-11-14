@@ -1,9 +1,9 @@
 ---
 nav_exclude: true
 layout: page
-title: Microsoft Teams Academy - Platform
-sorttitle: Microsoft Teams Academy - Platform
-description: Microsoft Teams Academy - Platform
+title: Microsoft Teams Academy — Platform
+sorttitle: Microsoft Teams Academy — Platform
+description: Microsoft Teams Academy — Platform
 permalink: /skilling/microsoft-teams-academy/platform
 updated: 2023-09-22
 showbreadcrumb: false

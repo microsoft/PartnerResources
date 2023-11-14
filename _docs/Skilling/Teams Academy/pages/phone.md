@@ -1,9 +1,9 @@
 ---
 nav_exclude: true
 layout: page
-title: Microsoft Teams Academy - Phone
-sorttitle: Microsoft Teams Academy - Phone
-description: Microsoft Teams Academy - Phone
+title: Microsoft Teams Academy — Phone
+sorttitle: Microsoft Teams Academy — Phone
+description: Microsoft Teams Academy — Phone
 permalink: /skilling/microsoft-teams-academy/phone
 updated: 2023-09-22
 showbreadcrumb: false
