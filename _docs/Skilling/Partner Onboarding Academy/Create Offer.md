@@ -37,7 +37,7 @@ To Create an Offer, you must select the following:
     - [Subscription](https://learn.microsoft.com/en-us/partner-center/marketplace/determine-your-listing-type#subscription): Charge a flat fee for monthly or annual subscriptions
     - [Usage Based Pricing](https://learn.microsoft.com/en-us/partner-center/marketplace/determine-your-listing-type#usage-based-pricing): Used to define custom or pre-defined billing metrics and rates (e.g., per vCPU, per seat, usage billing, etc.)
  
-__PRO TIP__: Many partners start with the "Contact Me" offer to get started.
+__PRO TIP__: Most partners start with the "Contact Me" offer when getting started.
 
 ### Offer Types
 
@@ -67,7 +67,7 @@ Reference this **[blog post](https://aka.ms/k8sapps)** for more details.
 
 ### Private vs Public Plans
 
-When creating an offer, you may want to offer a different pricing model for customers that are not yet publicly available. The different options:
+When creating an offer, you may want to offer different pricing models for customers that are not yet publicly available. The different options:
 
 - **[Private Plans](https://learn.microsoft.com/en-us/marketplace/private-plans):** A custom pricing plan for an offer for a specific Tenant or Subscription.
 

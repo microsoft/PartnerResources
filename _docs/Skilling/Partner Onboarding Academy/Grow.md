@@ -21,6 +21,6 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 - **[Update Offer to be MACC Eligible](/PartnerResources/skilling/partner-onboarding-academy/macc-offer):** Offers which are **[MACC eligible](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment)** are ideal for customers with an existing agreement.
 
 
-### Next steps
+### Next Steps
 
 The next step is to start **[accelerating your solution on Azure](/PartnerResources/skilling/partner-onboarding-academy/accelerate).**

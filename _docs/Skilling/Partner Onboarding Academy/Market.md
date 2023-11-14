@@ -42,7 +42,7 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 Once you have identified the correct offer type for your solution, follow the respective **[Publishing Guide by Offer Type](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type).**
 
 
-Some offer types have different listing options available. For example, if you are publishing a SaaS offer, there are the following listing options:
+Some Offer Types have different listing options available. For example, if you are publishing a SaaS offer, there are the following listing options:
        
 | Listing Option | Transaction Process |
 | ----------- | ----------- |

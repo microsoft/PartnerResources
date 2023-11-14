@@ -57,7 +57,7 @@ The **[Azure IP Co-Sell Incentive Requirements](https://learn.microsoft.com/en-u
 
 To verify the Co-Sell status of a solution, use the following steps:
 
-  1. Sign in to Partner Center and select Referrals.
+  1. Sign into Partner Center and select Referrals.
   2. Select Co-Sell solutions.
   - You can verify the current Co-Sell status and incentive programs your solution is approved for in the grid.
   - You can alternatively select the solution name and open the pane to verify its current status (including if the status is currently under review).

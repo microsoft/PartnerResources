@@ -23,10 +23,10 @@ tags:
 
 #### Requirements for an Offer to be Enrolled in MACC
 
-An offer must meet the following requirements to be enrolled in the MACC Program:
+An offer must meet the following requirements to enroll in the MACC Program:
 
   - Transactable with a pricing plan greater than $0 USD
-  - **Free and BYOL (Bring your Own License) Offers are NOT considered transactable.**
+  - **Free and BYOL (Bring your Own License) Offers are NOT considered transactable**
   - Azure IP & Co-Sell eligible
   - Published live in the Commercial Marketplace
 
@@ -42,4 +42,4 @@ For full details see **[here](https://learn.microsoft.com/en-us/marketplace/azur
 
 ### Next Steps
 
-Now that your offer is MACC eligible, the next step is to **[accelrate your partnership](/PartnerResources/skilling/partner-onboarding-academy/accelerate).**
+Now that your offer is MACC eligible, the next step is to **[accelerate your partnership](/PartnerResources/skilling/partner-onboarding-academy/accelerate).**

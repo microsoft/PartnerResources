@@ -17,11 +17,11 @@ tags:
 
 ### Fundamentals: Create a Transactable Offer
 
-**[What is a Transactable Offer?](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#transact-publishing-option)** A Transactable Offer is one in which Microsoft facilitates the exchange of money for a software license on the publisher’s behalf. Transactable Offers are billed against an existing Microsoft subscription or credit card, allowing Microsoft to host cloud marketplace transactions on behalf of the publisher.
+**[What is a Transactable Offer?](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#transact-publishing-option)** A Transactable Offer is one in which Microsoft facilitates the exchange of money for a software license on the publisher’s behalf. Transactable Offers are billed against an existing Microsoft Subscription or credit card, allowing Microsoft to host cloud marketplace transactions on behalf of the publisher.
 
 To simplify, Transacting through the Marketplace means that **billing for your software goes through Microsoft instead of your own invoicing system.**
 
-#### Transactable Offer types:
+#### Transactable Offer Types:
 
 - Software as a Service (SaaS)
 - Azure Application — Managed application
@@ -41,7 +41,7 @@ Different Offer Types have different billing options depending on the capabiliti
 
 In general, pricing models can be split into 3 categories:
 - **Subscription:** Recurring subscription fee billed as a flat rate or per-seat
-- **Metered:** Charge based upon applicaton meters (e.g., emails processed, bandwidth)
+- **Metered:** Charge based upon application meters (e.g., emails processed, bandwidth)
 - **Usage-based:** Charge based on use of the offer (e.g., per hour billing)
 
 For guidance on how to setup your Offer Type and pricing, see **[here](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#determine-offer-type-and-pricing-plan).**
