@@ -26,7 +26,7 @@ To Create an Offer, you must select the following:
 
 ### Offer Listing Type Options
 
-An offer must have one of 4 different listing types:
+**An offer must have one of 4 different listing types:**
 
 - [Free Trial](https://learn.microsoft.com/en-us/partner-center/marketplace/determine-your-listing-type#free-trial): A free software license available for 30 to 120 days. Customers will be charged for applicable Azure infrastructure usage.
 - [Test Drive](https://learn.microsoft.com/en-us/partner-center/marketplace/determine-your-listing-type#test-drive)
@@ -41,7 +41,7 @@ __PRO TIP__: Many partners start with the "Contact Me" offer to get started.
 
 ### Offer Types
 
-**The technical portion of an Offer will fall into one of the following Offer Types:**
+**The technical portion of an offer will fall into one of the following Offer Types:**
 
 - [SaaS](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-saas-offer)
 - [Azure Container](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-containers)
@@ -61,15 +61,15 @@ To integrate your SaaS with the MP, here are a few, great resources to get start
 
 #### [Offer Type — Azure Container](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-containers) 
 
-- **[Azure Container Offers](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-container-technical-assets-kubernetes)** are for solutions which can run inside an Azure Kubernetes Service (AKS) cluster. Microsoft hosts your container images and helm chart, deploys them into a Customer AKS cluster, and manages billing.
+- **[Azure Container Offers](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-container-technical-assets-kubernetes)** are for solutions which can run inside an Azure Kubernetes Service (AKS) cluster. Microsoft hosts your container images and helm chart, deploys them into a customer AKS cluster, and manages billing.
 
-**Reference this [Blog post](https://aka.ms/k8sapps) for more details.**
+Reference this **[Blog post](https://aka.ms/k8sapps)** for more details.
 
 ### Private vs Public Plans
 
-When creating an offer, you may want to offer a different pricing model for customers that are not publicly available. The different options:
+When creating an offer, you may want to offer a different pricing model for customers that are not yet publicly available. The different options:
 
-- **[Private Plans](https://learn.microsoft.com/en-us/marketplace/private-plans):** A custom pricing plan for an Offer for a specific Tenant or Subscription.
+- **[Private Plans](https://learn.microsoft.com/en-us/marketplace/private-plans):** A custom pricing plan for an offer for a specific Tenant or Subscription.
 
 - **[Private Offers](https://learn.microsoft.com/en-us/partner-center/marketplace/isv-customer):** Similar to Private Plans, but cover more scenarios (e.g., discounts, expiration dates, bundles, custom terms). Note that a Private Offer still requires a Public Offer and a Public Plan with a price. The pricing and terms will be updated in the Private Offer.
 
