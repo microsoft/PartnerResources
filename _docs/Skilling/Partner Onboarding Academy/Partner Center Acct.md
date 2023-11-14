@@ -13,11 +13,13 @@ tags:
 
 ## Microsoft Partner Onboarding Academy
 
-## What is Partner Center?
+### What is Partner Center?
 
-Microsoft Partner Center is a web-based portal and platform provided by Microsoft for its partners, including resellers, managed service providers (MSPs), system integrators, and other businesses that collaborate with Microsoft to sell or deliver Microsoft products and services to customers. Partner Center serves as a central hub for partners to manage their relationship with Microsoft and access various tools and resources to support their business activities.
+**Microsoft Partner Center is a web-based portal and platform provided by Microsoft for its partners, including resellers, Managed Service Providers (MSPs), System Integrators (SIs), and other businesses that collaborate with Microsoft to sell or deliver Microsoft products and/or services to customers.** 
 
-Key Features and functionalities:
+Partner Center serves as the central hub for partners to manage their relationship with Microsoft and access various tools and resources to support their business activities.
+
+Key Features & Functionalities:
 
 - __Account Management__: Partners can use Partner Center to manage their Microsoft Partner Network (MPN) accounts. This includes updating company information, managing user access, and maintaining a record of their Microsoft certifications and competencies.
 
@@ -37,30 +39,31 @@ Key Features and functionalities:
 
 - __Analytics and Reporting__: Partners can access analytics and reporting tools to monitor their business performance, customer usage, and sales trends.
 
-- __Collaboration__: Partner Center allows partners to collaborate with Microsoft and other partners on joint projects, co-selling initiatives, and customer engagements.
+- __Collaboration__: Partner Center allows partners to collaborate with Microsoft and other partners on joint projects, Co-Selling initiatives, and customer engagements.
 
 - __Training and Learning Resources__: Partners can access training and learning resources to enhance their skills and knowledge about Microsoft products and services.
 
-## Steps to take
+## Steps to Take
 
-You can follow the official steps here to [Create your free Partner Account]((https://learn.microsoft.com/en-us/partner-center/mpn-create-a-partner-center-account))
+You can follow the official steps here to **[create your free Partner Account](https://learn.microsoft.com/en-us/partner-center/mpn-create-a-partner-center-account).**
 
 You will need to provide:
+
 - Primary Contact
 - Email Address
 - Authority to sign legal agreements
 - Legal business name and address for your company
 
-After submitted, Microsoft will [validate the account](https://learn.microsoft.com/en-us/partner-center/verification-responses).  Once complete, you will have:
+After submitted, Microsoft will **[validate the account](https://learn.microsoft.com/en-us/partner-center/verification-responses).**  Once complete, you will have:
 
    - MPN ID
    - Verified Account
 
-### Additional resources
+#### Additional resources
 
 - [How to become a Microsoft Partner](https://www.microsoft.com/en-us/us-partner-blog/2020/10/22/how-to-become-a-microsoft-partner/) from [Americas Partner Blog](https://www.microsoft.com/en-us/americas-partner-blog/)
 - [Step-by-step instructions for becoming a partner](https://davidgiard.com/becoming-a-microsoft-partner) by [David Giard](https://davidgiard.com)
 
 ### Next Steps
 
-Now that you have a verified Partner Center account, the next step is to [create an offer](/PartnerResources/skilling/partner-onboarding-academy/offer).
+Now that you have a verified Partner Center account, the next step is to **[create an offer](/PartnerResources/skilling/partner-onboarding-academy/offer).**
