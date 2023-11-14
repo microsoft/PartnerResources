@@ -14,7 +14,7 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 
 ![](../../../assets/partner-onboarding/partner-journey.png)
 
-**Discussing how to deploy/run your solution on Azure is out of scope of this document. This document will focus on benefits available which can enable you to deploy and run on Azure.**
+**Discussing how to deploy/run your solution on Azure is out of scope of this document. This document will focus on the benefits available which can enable you to deploy and run on Azure.**
 
 ### Technical Presales and Deployment Benefits
 
