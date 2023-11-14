@@ -13,7 +13,7 @@ tags:
 
 ## Microsoft Partner Onboarding Academy
 
-**After creating a Microsoft Partner Center account and receiving your MPN ID, your next step in the journey is to Create an Offer.**
+**After creating a Microsoft Partner Center account and receiving your MPN ID, your next step in your partner journey is to Create an Offer.**
 
 ### Create an Offer in Partner Center
 

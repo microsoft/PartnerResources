@@ -104,4 +104,4 @@ Before moving on to the next section you should have:
 -  [x] Shared at least 1 Co-Sell opportunity with Microsoft through Partner Center.
 -  [x] Read and understand the potential of Marketplace rewards & redeemed your Marketplace benefits.
 
-**The next thing to do is to start [growing your marketplace solution](/PartnerResources/skilling/partner-onboarding-academy/grow).**
+**The next step is to start [growing your marketplace solution](/PartnerResources/skilling/partner-onboarding-academy/grow).**

@@ -13,11 +13,11 @@ tags:
 
 ## Microsoft Partner Onboarding Academy
 
-**Once you have created your first offer in the MP, the next step on the partner's journey is to ensure that the solution is Transactable.**
+**Once you have created your first offer in the MP, your next step in your partner journey is to ensure that the solution is Transactable.**
 
 ### Fundamentals: Create a Transactable Offer
 
-**[What is a Transactable Offer?](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#transact-publishing-option):** A Transactable Offer is one in which Microsoft facilitates the exchange of money for a software license on the publisher’s behalf. Transactable Offers are billed against an existing Microsoft subscription or credit card, allowing Microsoft to host cloud marketplace transactions on behalf of the publisher.
+**[What is a Transactable Offer?](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#transact-publishing-option)** A Transactable Offer is one in which Microsoft facilitates the exchange of money for a software license on the publisher’s behalf. Transactable Offers are billed against an existing Microsoft subscription or credit card, allowing Microsoft to host cloud marketplace transactions on behalf of the publisher.
 
 To simplify, Transacting through the Marketplace means that **billing for your software goes through Microsoft instead of your own invoicing system.**
 
@@ -48,4 +48,4 @@ For guidance on how to setup your Offer Type and pricing, see **[here](https://l
 
 ### Next Steps
 
-One of the next steps in the partner journey is to make the offer **[Co-Sell Ready and meet Azure IP Co-Sell Incentive Requirements](/PartnerResources/skilling/partner-onboarding-academy/cosell).**
+The next steps in your partner journey is to make the offer **[Co-Sell Ready and meet Azure IP Co-Sell Incentive Requirements](/PartnerResources/skilling/partner-onboarding-academy/cosell).**

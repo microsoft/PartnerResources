@@ -46,19 +46,19 @@ The **[Azure IP Co-Sell Incentive Requirements](https://learn.microsoft.com/en-u
 
 1. Co-Sell Ready
 2. $100k USD of Azure Consumed Revenue (ACR) or Marketplace Billed Sales (MBS) over the last 12 months
-3. Provide reference architecture diagram. *(See [Example](https://learn.microsoft.com/en-us/partner-center/reference-architecture-diagram#example-reference-architecture-diagram-vertical-industry-chatbot))*
+3. Provide reference architecture diagram. **(See [Example](https://learn.microsoft.com/en-us/partner-center/reference-architecture-diagram#example-reference-architecture-diagram-vertical-industry-chatbot))**
    - __PRO TIP__:  Use red box with "IP", use Azure Logos, and add bullet points with data flows
 4. 50% of the offer's infrastructure uses Azure
 5. Offer must be Transactable on the Marketplace
 
 ### Verify Co-Sell Status
 
-**[Verify your Co-sell Status](https://learn.microsoft.com/en-us/partner-center/co-sell-status)** to ensure users have appropriate permissions to access Partner Center.
+**[Verify your Co-Sell Status](https://learn.microsoft.com/en-us/partner-center/co-sell-status)** to ensure users have appropriate permissions to access Partner Center.
 
 To verify the Co-Sell status of a solution, use the following steps:
 
   1. Sign in to Partner Center and select Referrals.
-  2. Select Co-sell solutions.
+  2. Select Co-Sell solutions.
   - You can verify the current Co-Sell status and incentive programs your solution is approved for in the grid.
   - You can alternatively select the solution name and open the pane to verify its current status (including if the status is currently under review).
 
