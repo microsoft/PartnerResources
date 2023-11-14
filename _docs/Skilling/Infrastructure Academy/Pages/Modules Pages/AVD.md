@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Microsoft Infrastructure Academy — Azure Virtual Desktop (AVD)
-description: Microsoft Infrastructure Academy Azure Virtual Desktop (AVD).
+title: Microsoft Azure Infrastructure Academy — Azure Virtual Desktop (AVD)
+description: Microsoft Azure Infrastructure Academy Azure Virtual Desktop (AVD).
 permalink: /skilling/microsoft-infrastructure-academy/avd
-updated: 2023-11-10
+updated: 2023-11-14
 showbreadcrumb: true
 Tags:
 - academy content
-- microsoft infrastructure academy
+- microsoft azure infrastructure academy
 - avd
 ---
 
@@ -22,4 +22,6 @@ Welcome to the Microsoft Azure Virtual Desktop Academy. Explore Microsoft Azure 
 
 ### Sessions
 
-> Sessions coming soon! The Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.
+Explore Azure Virtual Desktop, Citrix on Azure and VMware Horizon on Azure via the [Azure Virtual Desktop LinkedIn SmartLink](https://aka.ms/avdsmartlink) 
+
+> More sessions coming soon! The Azure Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.
