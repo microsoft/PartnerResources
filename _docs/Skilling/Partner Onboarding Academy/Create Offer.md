@@ -63,7 +63,7 @@ To integrate your SaaS with the MP, here are a few, great resources to get start
 
 - **[Azure Container Offers](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-container-technical-assets-kubernetes)** are for solutions which can run inside an Azure Kubernetes Service (AKS) cluster. Microsoft hosts your container images and helm chart, deploys them into a customer AKS cluster, and manages billing.
 
-Reference this **[Blog post](https://aka.ms/k8sapps)** for more details.
+Reference this **[blog post](https://aka.ms/k8sapps)** for more details.
 
 ### Private vs Public Plans
 
