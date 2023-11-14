@@ -3,7 +3,7 @@ layout: page
 title: Create a Partner Center Account
 description: Want to begin your partner journey?
 permalink: /skilling/partner-onboarding-academy/acct
-updated: 2023-09-28
+updated: 2023-11-14
 showbreadcrumb: true
 tags: 
 - academy content
@@ -54,7 +54,7 @@ You will need to provide:
 - Authority to sign legal agreements
 - Legal business name and address for your company
 
-After submitted, Microsoft will **[validate the account](https://learn.microsoft.com/en-us/partner-center/verification-responses).**  Once complete, you will have:
+Once submitted, Microsoft will **[validate the account](https://learn.microsoft.com/en-us/partner-center/verification-responses).**  Once complete, you will have:
 
    - MPN ID
    - Verified Account
