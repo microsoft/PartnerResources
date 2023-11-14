@@ -67,4 +67,4 @@ For additional details, see **[here](https://learn.microsoft.com/en-us/partner-c
 
 ### Next Steps
 
-Now that your offer is Co-Sell Ready and meets the Azure IP Co-Sell Incentive Requirements, the next step is to make the offer **[MACC eligible](/PartnerResources/skilling/partner-onboarding-academy/MACC).**
+Now that your offer is Co-Sell Ready and meets the Azure IP Co-Sell Incentive Requirements, the next step is to make the offer **[MACC eligible](/PartnerResources/skilling/partner-onboarding-academy/macc-offer).**
