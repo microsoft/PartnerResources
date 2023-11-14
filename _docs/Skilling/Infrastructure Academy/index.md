@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Microsoft Infrastructure Academy
-description: Microsoft Infrastructure Academy
-updated: 2023-11-10
+title: Microsoft Azure Infrastructure Academy
+description: Microsoft Azure Infrastructure Academy
+updated: 2023-11-14
 permalink: /skilling/microsoft-infrastructure-academy
 redirect_from:
   - /skilling/microsoft-infrastructure-academy/
@@ -21,7 +21,7 @@ Ready to elevate your organization's cloud infrastructure? Managing Azure infras
 2. **[Azure Governance](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-governance)**
 3. **[Azure Virtual Desktop](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-virtual-desktop)**
 
-Keep your organization resilient against evolving challenges with continuous learning through our **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)**. Our **[Resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources)** complement the **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** and empower you to dive deeper into key Azure infrastructure concepts.
+Keep your organization resilient against evolving challenges with continuous learning through our **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)**. Our **[Solution Plays](/PartnerResources/skilling/microsoft-infrastructure-academy/resources)** complement the **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** and empower you to dive deeper into key Azure infrastructure concepts.
 
 **Explore our latest resources for [Azure VMware Solution (AVS)](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/avs-resources).**
 

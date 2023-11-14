@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Microsoft Infrastructure Academy — Azure Arc
-description: Microsoft Infrastructure Academy Azure Arc.
+title: Microsoft Azure Infrastructure Academy — Azure Arc
+description: Microsoft Azure Infrastructure Academy Azure Arc.
 permalink: /skilling/microsoft-infrastructure-academy/azure-arc
-updated: 2023-11-10
+updated: 2023-11-14
 showbreadcrumb: true
 Tags:
 - academy content
@@ -20,4 +20,4 @@ Welcome to the Microsoft Azure Arc Academy. Explore Microsoft Azure Arc video se
 
 ### Sessions
 
-> Sessions coming soon! The Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.
+> Sessions coming soon! The Azure Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.

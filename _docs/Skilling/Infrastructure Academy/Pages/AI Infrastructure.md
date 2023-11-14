@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Microsoft Infrastructure Academy — AI Infrastructure (HPC)
-description: Microsoft Infrastructure Academy AI Infrastructure (HPC).
+title: Microsoft Azure Infrastructure Academy — AI Infrastructure (HPC)
+description: Microsoft Azure Infrastructure Academy AI Infrastructure (HPC).
 permalink: /skilling/microsoft-infrastructure-academy/ai-infrastructure
-updated: 2023-11-10
+updated: 2023-11-14
 showbreadcrumb: true
 Tags:
 - academy content
@@ -20,4 +20,4 @@ Welcome to the Microsoft AI Infrastructure (HPC) Academy. Explore HPC video sess
 
 ### Sessions
 
-> Sessions coming soon! The Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.
+> Sessions coming soon! The Azure Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.
