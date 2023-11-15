@@ -16,13 +16,13 @@ tags:
 
 Content is broken down as follows:
 
-* **Fundamentals, Associate, Expert, Specialist:** content categorized in increasing level of complexity
+* **Fundamentals, Associate, Expert, Specialist:** content categorized by increasing level of complexity
 * **Certifications:** relevant Microsoft certifications
 * **Community resources:** user groups, events, blogs
 
 ## Keeping Up
 
-* [Overview of Microsoft cloud for Financial Services](https://aka.ms/FinancialServices)
+* [Overview of Microsoft Cloud for Financial Services](https://aka.ms/FinancialServices)
 * [Introducing Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=xByz3P6FlMQ)
 * [2023 Release Wave 1](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-financial-services/)
 * [Industry Hub](https://industryhub.transform.microsoft.com/enterprise-commercial/financial-services?tab=overview)
@@ -31,9 +31,9 @@ Content is broken down as follows:
 
 * [What is Microsoft Cloud for Financial Services?](https://learn.microsoft.com/en-us/industry/financial-services/overview)
 * [Microsoft Cloud for Financial Services Partner Assets](https://partner.microsoft.com/en-us/asset/collection/microsoft-cloud-for-financial-services-partner-assets#/)
-* [Learning Resources: Get started with Microsoft Cloud for Financial Services](https://docs.microsoft.com/en-us/learn/paths/financial-services-in-a-day/)
-* [How to buy Microsoft Cloud for Financial Services?](https://learn.microsoft.com/en-us/industry/financial-services/buy)
-* [Demo environment: Microsoft Customer Digital Experiences for Microsoft Cloud for Financial Services](https://cdx.transform.microsoft.com/experience-detail/c3325ad2-0746-4ee1-8df3-37d2eeb07141)
+* [Get started with Microsoft Cloud for Financial Services](https://docs.microsoft.com/en-us/learn/paths/financial-services-in-a-day/)
+* [How to buy Microsoft Cloud for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/buy)
+* [**Demo environment:** Microsoft Customer Digital Experiences for Microsoft Cloud for Financial Services](https://cdx.transform.microsoft.com/experience-detail/c3325ad2-0746-4ee1-8df3-37d2eeb07141)
 * [Roadmap: What's new and planned?](https://docs.microsoft.com/en-us/dynamics365-release-plan/2022wave1/industry-clouds/financial-services/planned-features)
 
 ## Associate
@@ -42,7 +42,7 @@ Content is broken down as follows:
 * [Request licenses for development environment **(for partners only)**](https://experience.dynamics.com/requestlicense/)
 * [Getting 30-day FSI Trial Environment](https://docs.microsoft.com/en-us/learn/modules/training-environment-preparation/)
 * [Set up and configure Microsoft Cloud for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/configure-cloud-for-financial-services)
-* [Videos and learning resources for Microsoft Cloud for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/training-videos)
+* [Videos for Microsoft Cloud for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/training-videos)
 
 
 ## Expert
