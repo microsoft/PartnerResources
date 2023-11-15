@@ -218,7 +218,7 @@
       url: "skilling/microsoft-infrastructure-academy"
       tag: IA
       children:
-        - title: Solution Plays
+        - title: Resources
           url: "skilling/microsoft-infrastructure-academy/resources"
           tag: IA
         - title: Video Modules

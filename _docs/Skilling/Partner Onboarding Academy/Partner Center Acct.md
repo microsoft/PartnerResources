@@ -15,7 +15,7 @@ tags:
 
 ### What is Partner Center?
 
-**Microsoft Partner Center is a web-based portal and platform provided by Microsoft for its partners, including resellers, Managed Service Providers (MSPs), System Integrators (SIs), and other businesses that collaborate with Microsoft to sell or deliver Microsoft products and/or services to customers.** 
+**Microsoft Partner Center** is a web-based portal and platform provided by Microsoft for its partners, including resellers, Managed Service Providers (MSPs), System Integrators (SIs), and other businesses that collaborate with Microsoft to sell or deliver Microsoft products and/or services to customers.
 
 Partner Center serves as the central hub for partners to manage their relationship with Microsoft and access various tools and resources to support their business activities.
 
@@ -59,10 +59,10 @@ Once submitted, Microsoft will **[validate the account](https://learn.microsoft.
    - MPN ID
    - Verified Account
 
-#### Additional resources
+#### Additional Resources
 
 - [How to become a Microsoft Partner](https://www.microsoft.com/en-us/us-partner-blog/2020/10/22/how-to-become-a-microsoft-partner/) from [Americas Partner Blog](https://www.microsoft.com/en-us/americas-partner-blog/)
-- [Step-by-step instructions for becoming a partner](https://davidgiard.com/becoming-a-microsoft-partner) by [David Giard](https://davidgiard.com)
+- [Step-by-step Instructions for Becoming a Partner](https://davidgiard.com/becoming-a-microsoft-partner) by [David Giard](https://davidgiard.com)
 
 ### Next Steps
 
