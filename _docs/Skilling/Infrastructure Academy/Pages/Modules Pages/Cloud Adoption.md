@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Microsoft Infrastructure Academy — Cloud Adoption Framework (CAF)
-description: Microsoft Infrastructure Academy Cloud Adoption Framework (CAF).
+title: Microsoft Azure Infrastructure Academy — Cloud Adoption Framework (CAF)
+description: Microsoft Azure Infrastructure Academy Cloud Adoption Framework (CAF).
 permalink: /skilling/microsoft-infrastructure-academy/cloud-adoption-framework
-updated: 2023-11-10
+updated: 2023-11-14
 showbreadcrumb: true
 Tags:
 - academy content
@@ -20,4 +20,4 @@ Welcome to the Microsoft Cloud Adoption Framework Academy. Explore Cloud Adoptio
 
 ### Sessions
 
-> Sessions coming soon! The Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.
+> Sessions coming soon! The Azure Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.

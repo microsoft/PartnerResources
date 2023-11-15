@@ -48,4 +48,4 @@ For guidance on how to setup your Offer Type and pricing, see **[here](https://l
 
 ### Next Steps
 
-The next steps in your partner journey is to make the offer **[Co-Sell Ready and meet Azure IP Co-Sell Incentive Requirements](/PartnerResources/skilling/partner-onboarding-academy/cosell).**
+The next step in your partner journey is to make the offer **[Co-Sell Ready and meet Azure IP Co-Sell Incentive Requirements](/PartnerResources/skilling/partner-onboarding-academy/cosell).**

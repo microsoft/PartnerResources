@@ -29,7 +29,7 @@ tags:
 
 **Azure IP Co-Sell eligibility** allows you to submit Co-Sell referrals for your offers to contribute toward customers’ Microsoft Azure Consumption Commitments (MACC).
 
-### Co-Sell Ready Requirements
+#### Co-Sell Ready Requirements
 
 The **[Co-Sell Ready Requirements](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#requirements-for-co-sell-ready-status)** for an offer:
 
@@ -40,7 +40,7 @@ The **[Co-Sell Ready Requirements](https://learn.microsoft.com/en-us/partner-cen
 5. Provide listing & required documents
 
 
-### Azure IP Co-Sell Incentive Requirements
+#### Azure IP Co-Sell Incentive Requirements
 
 The **[Azure IP Co-Sell Incentive Requirements](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#requirements-for-azure-ip-co-sell-incentive-status)** for an offer:
 
@@ -51,7 +51,7 @@ The **[Azure IP Co-Sell Incentive Requirements](https://learn.microsoft.com/en-u
 4. 50% of the offer's infrastructure uses Azure
 5. Offer must be Transactable on the Marketplace
 
-### Verify Co-Sell Status
+#### Verify Co-Sell Status
 
 **[Verify your Co-Sell Status](https://learn.microsoft.com/en-us/partner-center/co-sell-status)** to ensure users have appropriate permissions to access Partner Center.
 

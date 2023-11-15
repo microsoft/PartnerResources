@@ -214,15 +214,18 @@
             - title: Viva Sales
               url: "skilling/d365-academy/d365-sales-academy/vivasales"
               tag: d365 sales academy viva sales
-    - title: "Infrastructure Academy"
+    - title: "Azure Infrastructure Academy"
       url: "skilling/microsoft-infrastructure-academy"
       tag: IA
       children:
+        - title: Resources
+          url: "skilling/microsoft-infrastructure-academy/resources"
+          tag: IA
         - title: Video Modules
           url: "skilling/microsoft-infrastructure-academy/modules"
           tag: IA
           children:
-            - title: Windows & SQL Servers
+            - title: Migrate & Secure
               url: "skilling/microsoft-infrastructure-academy/windows-sql-servers"
               tag: IA
               children:
@@ -254,9 +257,6 @@
             - title: AI Infrastructure
               url: "skilling/microsoft-infrastructure-academy/ai-infrastructure"
               tag: IA
-        - title: Resources
-          url: "skilling/microsoft-infrastructure-academy/resources"
-          tag: IA
     - title: "Modern Analytics Academy"
       url: "skilling/modern-analytics-academy"
       tag: maa

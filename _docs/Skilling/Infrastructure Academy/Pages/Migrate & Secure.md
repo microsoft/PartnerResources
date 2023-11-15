@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Microsoft Infrastructure Academy — Migrate and Secure Windows & SQL Servers
-description: Microsoft Infrastructure Academy Migrate and Secure Windows & SQL Servers.
+title: Microsoft Azure Infrastructure Academy — Migrate and Secure
+description: Microsoft Azure Infrastructure Academy Migrate and Secure.
 permalink: /skilling/microsoft-infrastructure-academy/windows-sql-servers
-updated: 2023-11-10
+updated: 2023-11-14
 showbreadcrumb: true
 tags: 
 - academy content
@@ -11,7 +11,7 @@ tags:
 - windows & sql servers
 ---
 
-## Migrate and Secure Windows & SQL Servers
+## Migrate and Secure
 
 ### [Azure VMware Solution Academy](/PartnerResources/skilling/microsoft-infrastructure-academy/avs)
 The Azure VMware Solution Academy is all about how to seamlessly integrate your VMware workloads with Azure for improved scalability and efficiency. Harness the full potential of Azure VMware, enabling you to improve your infrastructure, streamline operations, and maximize benefits.

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Microsoft Infrastructure Academy — Enable Customer Success
-description: Microsoft Infrastructure Academy Enable Customer Success.
+title: Microsoft Azure Infrastructure Academy — Enable Customer Success
+description: Microsoft Azure Infrastructure Academy Enable Customer Success.
 permalink: /skilling/microsoft-infrastructure-academy/enable-customer-success
-updated: 2023-11-10
+updated: 2023-11-14
 showbreadcrumb: true
 tags: 
 - academy content

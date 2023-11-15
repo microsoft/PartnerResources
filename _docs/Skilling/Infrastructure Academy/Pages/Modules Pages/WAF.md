@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Microsoft Infrastructure Academy — Well-Architected Framework
-description: Microsoft Infrastructure Academy Well-Architected Framework.
+title: Microsoft Azure Infrastructure Academy — Well-Architected Framework
+description: Microsoft Azure Infrastructure Academy Well-Architected Framework.
 permalink: /skilling/microsoft-infrastructure-academy/waf
-updated: 2023-11-10
+updated: 2023-11-14
 showbreadcrumb: true
 Tags:
 - academy content
@@ -20,4 +20,4 @@ Welcome to the Microsoft Well-Architected Framework Academy. Explore Azure Well-
 
 ### Sessions
 
-> Sessions coming soon! The Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.
+> Sessions coming soon! The Azure Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.
