@@ -16,8 +16,7 @@ tags:
 
 Content is broken down as follows:
 
-* **Fundamentals, Associate, Expert, Specialist:** content categorized by increasing level of complexity
-* **Certifications:** relevant Microsoft certifications
+* **Fundamentals, Associate:** content categorized by increasing level of complexity
 * **Community resources:** user groups, events, blogs
 
 ## Keeping Up
@@ -37,24 +36,11 @@ Content is broken down as follows:
 
 ## Associate
 
-* [Deployment: Microsoft Cloud Solution Center](https://solutions.microsoft.com/Microsoft%20Cloud%20for%20Financial%20Services)
+* [**Deployment:** Microsoft Cloud Solution Center](https://solutions.microsoft.com/Microsoft%20Cloud%20for%20Financial%20Services)
 * [Request licenses for development environment **(for partners only)**](https://experience.dynamics.com/requestlicense/)
 * [Getting 30-day FSI Trial Environment](https://docs.microsoft.com/en-us/learn/modules/training-environment-preparation/)
 * [Set up and configure Microsoft Cloud for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/configure-cloud-for-financial-services)
 * [Videos for Microsoft Cloud for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/training-videos)
-
-
-## Expert
-
-> More coming soon! The Industry resources are undergoing improvements.
-
-## Specialist
-
-> More coming soon! The Industry resources are undergoing improvements.
-
-## Certifications
-
-> More coming soon! The Industry resources are undergoing improvements.
 
 ## Community Resources
 
