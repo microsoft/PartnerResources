@@ -22,6 +22,6 @@ Welcome to the Microsoft Azure Virtual Desktop Academy. Explore Microsoft Azure 
 
 ### Sessions
 
-Explore Azure Virtual Desktop, Citrix on Azure and VMware Horizon on Azure via the [Azure Virtual Desktop LinkedIn SmartLink](https://aka.ms/avdsmartlink) 
+>Explore Azure Virtual Desktop, Citrix on Azure and VMware Horizon on Azure via the [Azure Virtual Desktop LinkedIn SmartLink](https://aka.ms/avdsmartlink) 
 
 > More sessions coming soon! The Azure Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.
