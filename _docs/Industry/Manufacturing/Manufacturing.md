@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Cloud for Manufacturing
 description:  Microsoft Cloud for Manufacturing Resources
-updated: 2022-12-01
+updated: 2023-11-15
 permalink: /industry/manufacturing/manufacturing-resources
 tags:
 - learning plan
