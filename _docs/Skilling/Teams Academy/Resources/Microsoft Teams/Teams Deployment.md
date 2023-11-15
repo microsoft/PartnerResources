@@ -14,7 +14,6 @@ tags:
 
 ## Fundamentals
 
-* [Create a team with Templates](https://support.microsoft.com/en-us/office/create-a-team-with-team-templates-702a2977-e662-4038-bef5-bdf8ee47b17b?ui=en-us&rs=en-us&ad=us)
 * [Deploy Microsoft Teams with Microsoft 365 Apps](https://learn.microsoft.com/en-us/deployoffice/teams-install)
 * [Troubleshoot Microsoft Teams installation and update issues on Windows](https://learn.microsoft.com/en-us/microsoftteams/troubleshoot-installation)
 * [Configure Log Files in Teams](https://learn.microsoft.com/en-us/microsoftteams/log-files)

@@ -16,4 +16,4 @@ tags:
 
 * [Admin Training for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/itadmin-readiness)
 * [Use Microsoft Teams for Collaboration](https://learn.microsoft.com/en-us/microsoft-365/business-premium/create-teams-for-collaboration?view=o365-worldwide&viewFallbackFrom=o365-worldwide%2F)
-* [Coffee in the Cloud](https://www.youtube.com/channel/UCs2IXBqperxWVe2ozrr3Gdg)
+* [Coffee in the Cloud Blog](https://www.youtube.com/channel/UCs2IXBqperxWVe2ozrr3Gdg)

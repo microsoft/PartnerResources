@@ -24,4 +24,4 @@ These resources are created and delivered by architects across the Global Partne
 
 ## Start Your Journey and Stay Connected🔗
  
- Stay connected with our [Microsoft Teams Blog](https://techcommunity.microsoft.com/t5/microsoft-teams/ct-p/MicrosoftTeams) to find guidance and resources for technical questions.
+ Stay connected with our **[Microsoft Teams Blog](https://techcommunity.microsoft.com/t5/microsoft-teams/ct-p/MicrosoftTeams)** to find guidance and resources for technical questions.
