@@ -18,6 +18,5 @@ Welcome to the Microsoft Azure Virtual Desktop Academy. Explore Microsoft Azure 
 
 #### Stay connected with the [Azure Virtual Desktop Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog) and learn more with our collection of [Azure Virtual Desktop resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-virtual-desktop).
 
-### AVD Integration with Azure
 
 ![AVD Daisy Chain]({{ site.baseurl }}/assets/infrapics/AVD Daisy Chain.png)

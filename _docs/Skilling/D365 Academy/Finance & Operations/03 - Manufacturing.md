@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dynamics 365 Supply Chain Management - Manufacturing
-description: Resources for Dynamics 365 SCM - Manufacturing
+title: Dynamics 365 Supply Chain Management — Manufacturing
+description: Resources for Dynamics 365 SCM — Manufacturing
 updated: 2023-08-21
 permalink: /skilling/d365-academy/business-applications/finance-and-operations/manufacturing
 tags:
