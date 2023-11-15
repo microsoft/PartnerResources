@@ -14,14 +14,12 @@ Tags:
 ## Microsoft Azure Virtual Desktop Academy
 Welcome to the Microsoft Azure Virtual Desktop Academy. Explore Microsoft Azure Virtual Desktop video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
-#### Explore Azure Virtual Desktop, Citrix on Azure and VMware Horizon on Azure via the [Azure Virtual Desktop LinkedIn SmartLink](https://aka.ms/avdsmartlink).
-
-### AVD Integration
-
-![AVD Daisy Chain]({{ site.baseurl }}/assets/infrapics/AVD Daisy Chain.png)
-
-### Explore Azure Virtual Desktop, Citrix on Azure and VMware Horizon on Azure via the [Azure Virtual Desktop LinkedIn SmartLink](https://aka.ms/avdsmartlink).
+**Explore Azure Virtual Desktop, Citrix on Azure, and VMware Horizon [here](https://aka.ms/avdsmartlink).**
 
 #### Stay connected with the [Azure Virtual Desktop Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog).
 
 #### Learn more with our collection of [Azure Virtual Desktop resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-virtual-desktop).
+
+### AVD Integration with Azure
+
+![AVD Daisy Chain]({{ site.baseurl }}/assets/infrapics/AVD Daisy Chain.png)

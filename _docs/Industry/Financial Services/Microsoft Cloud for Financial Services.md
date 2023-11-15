@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Cloud for Financial Services
 description: Resources for Microsoft Cloud for Financial Services
-updated: 2023-02-23
+updated: 2023-11-15
 permalink: /industry/financial-services/microsoft-cloud-for-financial-services
 tags:
 - learning plan
@@ -12,16 +12,13 @@ tags:
 
 # Learning Plan Resources for Microsoft Cloud for Financial Services
 
-Microsoft Cloud for Financial Services provides capabilities to manage data to deliver differentiated experiences, empower employees, and combat financial crime while facilitating security, compliance, and interoperability.
+**Microsoft Cloud for Financial Services provides capabilities to manage data to deliver differentiated experiences, empower employees, and combat financial crime while facilitating security, compliance, and interoperability.**
 
 Content is broken down as follows:
-* Fundamentals, Associate, Expert, Specialist: content categorized in increasing level of complexity
-* Certifications: relevant Microsoft exams or certifications
-* Community resources: user groups, events, blogs
 
-Additionally, some content may be marked with one or more icons:
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
+* **Fundamentals, Associate, Expert, Specialist:** content categorized in increasing level of complexity
+* **Certifications:** relevant Microsoft certifications
+* **Community resources:** user groups, events, blogs
 
 ## Keeping Up
 
@@ -42,26 +39,25 @@ Additionally, some content may be marked with one or more icons:
 ## Associate
 
 * [Deployment: Microsoft Cloud Solution Center](https://solutions.microsoft.com/Microsoft%20Cloud%20for%20Financial%20Services)
-* [Request licenses for development environment (for partners only)](https://experience.dynamics.com/requestlicense/)
-* [Getting 30 day FSI Trial environment](https://docs.microsoft.com/en-us/learn/modules/training-environment-preparation/)
+* [Request licenses for development environment **(for partners only)**](https://experience.dynamics.com/requestlicense/)
+* [Getting 30-day FSI Trial Environment](https://docs.microsoft.com/en-us/learn/modules/training-environment-preparation/)
 * [Set up and configure Microsoft Cloud for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/configure-cloud-for-financial-services)
 * [Videos and learning resources for Microsoft Cloud for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/training-videos)
 
 
 ## Expert
 
+> More coming soon! The Industry resources are undergoing improvements.
 
 ## Specialist
 
+> More coming soon! The Industry resources are undergoing improvements.
 
 ## Certifications
 
+> More coming soon! The Industry resources are undergoing improvements.
 
-## Resources
+## Community Resources
 
 * [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/financial-services/)
-
-## Community
-
 * [Microsoft Cloud for Financial Services: Create new value with deeper customer connections](https://cloudblogs.microsoft.com/industry-blog/financial-services/2022/10/26/microsoft-cloud-for-financial-services-create-new-value-with-deeper-customer-connections/)
-
