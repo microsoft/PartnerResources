@@ -14,7 +14,7 @@ Tags:
 ## Microsoft Azure Virtual Desktop Academy
 Welcome to the Microsoft Azure Virtual Desktop Academy. Explore Microsoft Azure Virtual Desktop video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
-#### Explore Azure Virtual Desktop, Citrix on Azure, and VMware Horizon [here](https://aka.ms/avdsmartlink).**
+#### Explore [Azure Virtual Desktop, Citrix on Azure, and VMware Horizon](https://aka.ms/avdsmartlink).
 
 #### Stay connected with the [Azure Virtual Desktop Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog) and learn more with our collection of [Azure Virtual Desktop resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-virtual-desktop).
 

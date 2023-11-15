@@ -25,7 +25,6 @@ Content is broken down as follows:
 * [Overview of Microsoft Cloud for Financial Services](https://aka.ms/FinancialServices)
 * [Introducing Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=xByz3P6FlMQ)
 * [2023 Release Wave 1](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-financial-services/)
-* [Industry Hub](https://industryhub.transform.microsoft.com/enterprise-commercial/financial-services?tab=overview)
 
 ## Fundamentals
 

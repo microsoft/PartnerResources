@@ -23,15 +23,12 @@ Content is broken down as follows:
 
 ## Keeping Up
 
-* [Overview of Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare) - Includes overview, high-level capabilities and Pricing details.
-* [2023 Wave 1 Realease Pan](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-healthcare)
-* [Industry Hub](https://industryhub.transform.microsoft.com/download/ced61889-15bf-4fe4-a13a-8dee9b981867)
+* [Overview of Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare)
+* [2023 Wave 1 Realease](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-healthcare)
 
 ## Fundamentals
 
 * [What is Microsoft Cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/overview)
-* [Partner Message](https://industryhubstorageprd.azureedge.net/assets/INTERNAL%20Microsoft%20Cloud%20for%20Healthcare%20Messaging%20Positioning%20Framework.pdf?sv=2019-07-07&sr=b&sig=lPzHWLpDWn9CWmr2%2BLI%2BgTG8RA11vfr%2FmKdWrTHwbhU%3D&se=2023-04-25T14%3A25%3A38Z&sp=r)
-* [Partner Walking Deck](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Findustryhubstorageprd.azureedge.net%2Fassets%2FTO%2520CUSTOMER%2520Microsoft%2520Cloud%2520for%2520Healthcare%2520Overview%2520BDM%2520TDM%2520Deck.pptx%3Fsv%3D2019-07-07%26sr%3Db%26sig%3DCFMGNT0DfIpC9m7KeT2B%252BMvTpejDTNJP9wsr7brQkYE%253D%26se%3D2023-04-25T14%253A26%253A21Z%26sp%3Dr&wdOrigin=BROWSELINK)
 * [Systems Integrator (SI) Playbook](https://microsoft.sharepoint.com/teams/Healthcarehub/Shared%20Documents/Forms/AllItems.aspx?id=/teams/Healthcarehub/Shared%20Documents/Microsoft%20cloud%20for%20healthcare/Healthcare%20-%20Industry%20cloud%20SI%20playbook.pdf&parent=/teams/Healthcarehub/Shared%20Documents/Microsoft%20cloud%20for%20healthcare)
 * [Battlecards](https://microsoft.sharepoint.com/teams/Healthcarehub/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FHealthcarehub%2FShared%20Documents%2FMicrosoft%20cloud%20for%20healthcare%2FMS%20Cloud%20for%20Healthcare%20Battlecard%202020%2001%2011%2Epdf&parent=%2Fteams%2FHealthcarehub%2FShared%20Documents%2FMicrosoft%20cloud%20for%20healthcare)
 * [Partner Messaging Framework](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-partner-messaging-framework.docx)
@@ -40,8 +37,6 @@ Content is broken down as follows:
 * [Demos](https://cdx.transform.microsoft.com/experience-detail/1a4be2b1-89c6-4978-a69e-a2c481721f85)
 * [MC4HC Skilling](https://docs.microsoft.com/en-us/learn/paths/healthcare-in-a-day/)
 * [Get started with Microsoft Cloud for Healthcare solutions](https://docs.microsoft.com/en-us/learn/modules/get-started-healthcare)
-* [Microsoft Cloud for Healthcare — Partner Readiness Guide](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-partner-readiness-guide.pdf)
-* [Services Partners’ Capabilities Guide — Customer Ready Version](https://assetsprod.microsoft.com/mpn/en-us/microsoft-cloud-for-healthcare-services-partners-capabilities-guide.pdf)
 * [Compliance in Microsoft Cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/compliance-overview)
 * [Security in Microsoft Cloud for Healthcare](https://docs.microsoft.com/en-us/industry/healthcare/security-overview)
 * [Microsoft Cloud for Healthcare — Pricing and Licensing](https://docs.microsoft.com/en-us/industry/healthcare/buy)
@@ -73,4 +68,3 @@ Content is broken down as follows:
 ## Community Resources
 
 * [Industry Blogs](https://cloudblogs.microsoft.com/industry-blog/)
-* [Microsoft Cloud for Healthcare: Unlocking the power of Health Data for better care](https://azure.microsoft.com/en-us/blog/microsoft-cloud-for-healthcare-unlocking-the-power-of-health-data-for-better-care/)
