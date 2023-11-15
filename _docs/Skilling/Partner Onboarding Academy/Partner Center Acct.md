@@ -45,7 +45,7 @@ Key Features & Functionalities:
 
 ## Steps to Take
 
-You can follow the official steps here to **[create your free Partner Account](https://learn.microsoft.com/en-us/partner-center/mpn-create-a-partner-center-account).**
+Follow the official steps to **[create your free Partner Account](https://learn.microsoft.com/en-us/partner-center/mpn-create-a-partner-center-account).**
 
 You will need to provide:
 
@@ -66,4 +66,4 @@ Once submitted, Microsoft will **[validate the account](https://learn.microsoft.
 
 ### Next Steps
 
-Now that you have a verified Partner Center account, the next step is to **[create an offer](/PartnerResources/skilling/partner-onboarding-academy/offer).**
+Now that you have a verified Partner Center account, the next step is to **[create an offer](/PartnerResources/skilling/partner-onboarding-academy/create-offer).**
