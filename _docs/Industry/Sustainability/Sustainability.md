@@ -21,7 +21,7 @@ Content is broken down as follows:
 
 ## Keeping Up
 
-* [What's new in Microsoft Cloud for Sustainability](https://learn.microsoft.com/en-us/industry/sustainability/whats-new). 
+* [What's new in Microsoft Cloud for Sustainability](https://learn.microsoft.com/en-us/industry/sustainability/whats-new)
 * [2023 Release Wave 1](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-sustainability/)
 
 ## Fundamentals

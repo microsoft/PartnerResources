@@ -22,11 +22,11 @@ Content is broken down as follows:
 
 ## Keeping Up
 
-* [Overview of Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare)
 * [2023 Release Wave 1](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-healthcare)
 
 ## Fundamentals
 
+* [Overview of Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare)
 * [What is Microsoft Cloud for Healthcare?](https://docs.microsoft.com/en-us/industry/healthcare/overview)
 * [Systems Integrator (SI) Playbook](https://microsoft.sharepoint.com/teams/Healthcarehub/Shared%20Documents/Forms/AllItems.aspx?id=/teams/Healthcarehub/Shared%20Documents/Microsoft%20cloud%20for%20healthcare/Healthcare%20-%20Industry%20cloud%20SI%20playbook.pdf&parent=/teams/Healthcarehub/Shared%20Documents/Microsoft%20cloud%20for%20healthcare)
 * [Battlecards](https://microsoft.sharepoint.com/teams/Healthcarehub/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FHealthcarehub%2FShared%20Documents%2FMicrosoft%20cloud%20for%20healthcare%2FMS%20Cloud%20for%20Healthcare%20Battlecard%202020%2001%2011%2Epdf&parent=%2Fteams%2FHealthcarehub%2FShared%20Documents%2FMicrosoft%20cloud%20for%20healthcare)

@@ -21,12 +21,12 @@ Content is broken down as follows:
 
 ## Keeping Up
 
-* [Overview of Microsoft Cloud for Financial Services](https://aka.ms/FinancialServices)
 * [Introducing Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=xByz3P6FlMQ)
 * [2023 Release Wave 1](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-financial-services/)
 
 ## Fundamentals
 
+* [Overview of Microsoft Cloud for Financial Services](https://aka.ms/FinancialServices)
 * [What is Microsoft Cloud for Financial Services?](https://learn.microsoft.com/en-us/industry/financial-services/overview)
 * [Microsoft Cloud for Financial Services Partner Assets](https://partner.microsoft.com/en-us/asset/collection/microsoft-cloud-for-financial-services-partner-assets#/)
 * [Get started with Microsoft Cloud for Financial Services](https://docs.microsoft.com/en-us/learn/paths/financial-services-in-a-day/)

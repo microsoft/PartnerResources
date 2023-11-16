@@ -26,7 +26,7 @@ Content is broken down as follows:
 
 ## Fundamentals
 
-* [What is Microsoft Cloud for Retail?](https://www.microsoft.com/en-us/industry/retail/microsoft-cloud-for-retail)
+* [Overview of Microsoft Cloud for Retail](https://www.microsoft.com/en-us/industry/retail/microsoft-cloud-for-retail)
 * [Store Operations Assist Training](https://learn.microsoft.com/en-us/training/paths/get-started-store-operations-assist)
 
 ## Associate

@@ -25,7 +25,7 @@ Content is broken down as follows:
 
 ## Fundamentals
 
-* [What is Microsoft Cloud for Manufacturing?](https://www.microsoft.com/en-us/industry/manufacturing/microsoft-cloud-for-manufacturing)
+* [Overview of Microsoft Cloud for Manufacturing](https://www.microsoft.com/en-us/industry/manufacturing/microsoft-cloud-for-manufacturing)
 
 ## Associate
 
