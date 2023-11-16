@@ -23,7 +23,7 @@
       tag: industry
       children:
         - title: Financial Services
-          url: "/industry/financial-services"
+          url: "industry/financial-services"
           tag: financial services
         - title: Healthcare
           url: "industry/healthcare"
