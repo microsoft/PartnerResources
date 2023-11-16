@@ -15,9 +15,6 @@
         - title: IoT
           url: "azure/iot"
           tag: iot
-        - title: Azure Marketplace
-          url: "azure/azure-marketplace"
-          tag: marketplace
     - title: Industry
       url: "industry"
       tag: industry
