@@ -15,6 +15,11 @@ Welcome to the Microsoft Azure VMware Solution Academy. Explore Microsoft Azure 
 
 #### Learn more with our collection of [AVS resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/avs-resources).
 
+### Overview
+One minute tells you everything!
+
+[![AVS SHORT VIDEO](https://i.ytimg.com/vi/VaF-f4DgK2s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMw23EUbZBh6EVjTDnCBxl7tkbtA)](https://www.youtube.com/watch?v=VaF-f4DgK2s)
+
 ### Sessions
 
 > Sessions coming soon! The Azure Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.
