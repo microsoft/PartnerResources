@@ -13,7 +13,7 @@ tags:
 
 # Learning Plan Resources for Microsoft Cloud for Healthcare
 
-**Microsoft Cloud for Healthcare includes data models, cross-cloud connectors, workflows, APIs, and built-in healthcare-specific components with the best of our horizontal cloud apps and services.** We are committed to helping provider, payor, pharmaceutical, and medical technology organizations reimagine tomorrow by empowering everyone to deliver value faster, adapt to make more impactful decisions, and support security, privacy and compliance.
+**Microsoft Cloud for Healthcare includes data models, cross-cloud connectors, workflows, APIs, and built-in healthcare-specific components with the best of our horizontal cloud apps and services.** We are committed to helping provider, payor, pharmaceutical, and medical technology organizations reimagine tomorrow by empowering everyone to deliver value faster, adapt to make more impactful decisions, and support security, privacy, and compliance.
 
 Content is broken down as follows:
 
@@ -23,7 +23,7 @@ Content is broken down as follows:
 ## Keeping Up
 
 * [Overview of Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare)
-* [2023 Wave 1 Realease](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-healthcare)
+* [2023 Release Wave 1](https://learn.microsoft.com/en-us/industry/release-plan/2023wave1/cloud-healthcare)
 
 ## Fundamentals
 
