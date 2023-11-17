@@ -100,7 +100,7 @@ Welcome to the Partner Onboarding Academy, a comprehensive guide for partners wh
 <hr/>
 
 ### [Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)
-Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources. The Microsoft Security Academy is organized into seven into smaller academies and security modules (Sentinel, Defender XDR, Defender for Cloud, Entra, Azure Network Security, Endpoint Security, Purview). Our latest content:
+Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources. The Microsoft Security Academy is organized into 7 smaller academies and security modules (Sentinel, Defender XDR, Defender for Cloud, Entra, Azure Network Security, Endpoint Security, Purview). Our latest content:
 
 {% include series.md 
     includetags="microsoft security academy|academy content" includemethod="all" 
@@ -121,4 +121,4 @@ The Teams Academy is your comprehensive deep dive into everything Microsoft Team
 
 <hr/>
 
-Have a suggestion, comment, or would like to contribute? [Use our form](https://forms.office.com/r/GZwiMqB3Zg) to contact us or use the Github Issues and Discussions functionality.
+Have a suggestion, comment, or would like to contribute? [Use our form](https://forms.office.com/r/GZwiMqB3Zg) to contact us or use the GitHub Issues and Discussions functionality.
