@@ -32,9 +32,10 @@ A new era of security is here. Read how **[Microsoft unveiled the expansion of A
 ![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)
 
 
-### Noteworthy News📰 
+### Noteworthy News📰
 
 Learn about Microsoft's new **[Secure Future Initiative](https://blogs.microsoft.com/on-the-issues/2023/11/02/secure-future-initiative-sfi-cybersecurity-cyberattacks/)** to address "sophisticated, patient, stealthy, well-resourced, and government-backed techniques to infect and undermine the integrity of computer networks on a long-term basis."
+
 
 ## Start Your Journey and Stay Connected🔗
  
