@@ -3,7 +3,7 @@ layout: page
 title: Cloud Security — Azure Network Security Academy
 description: Microsoft Security Academy Cloud Security.
 permalink: /skilling/microsoft-security-academy/network-academy
-updated: 2023-09-22
+updated: 2023-11-17
 showbreadcrumb: true
 tags: 
 - academy content
@@ -14,6 +14,8 @@ tags:
 
 ## Network Security Academy
 Welcome to the Network Security Academy. Explore network security video sessions with demos delivered directly to partners, relevant certifications, and further resources.
+
+The Azure Network Security Academy focuses on security solutions designed to protect your network infrastructure and resources in Azure. Explore its key features including network segmentation, access controls, and distributed denial of service (DDoS) protection. Learn how with Azure Network Security, organizations can safeguard their cloud networks against various threats and manage their security policies centrally.
 
 #### Stay connected with the [Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog).
 
