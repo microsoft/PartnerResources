@@ -3,7 +3,7 @@ layout: page
 title: Specializations with Microsoft Security
 description: Want to earn a specialization and display your technical expertise?
 permalink: /skilling/microsoft-security-academy/specializations
-updated: 2023-08-02
+updated: 2023-11-17
 showbreadcrumb: true
 tags: 
 - academy content
