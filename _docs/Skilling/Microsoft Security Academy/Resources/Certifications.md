@@ -12,7 +12,7 @@ tags:
 ---
 
 # Security Certifications
-Explore security certifications critical for learning and our **[Security Specializations](https://partner.microsoft.com/en-us/partnership/specialization#tab-6).**
+**Explore security certifications critical for learning and our [Security Specializations](https://partner.microsoft.com/en-us/partnership/specialization#tab-6).**
 
 
 | **Exam** | **Overview** | **Learning Path** | **Study Cram** | **Labs** |

@@ -20,7 +20,7 @@ Stay ahead of evolving threats and protect your organization with continuous lea
 
 Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
 
-**A new era of security is here. Read how [Microsoft unveiled the expansion of AI for security and security for AI at Microsoft Ignite](https://www.microsoft.com/en-us/security/blog/2023/11/15/microsoft-unveils-expansion-of-ai-for-security-and-security-for-ai-at-microsoft-ignite/).**
+A new era of security is here. Read how **[Microsoft unveiled the expansion of AI for security and security for AI at Microsoft Ignite](https://www.microsoft.com/en-us/security/blog/2023/11/15/microsoft-unveils-expansion-of-ai-for-security-and-security-for-ai-at-microsoft-ignite/).**
 
 #### The Basics
 1. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)**
@@ -32,7 +32,7 @@ Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-se
 ![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)
 
 
-#### Noteworthy News
+### Noteworthy News📰 
 
 Learn about Microsoft's new **[Secure Future Initiative](https://blogs.microsoft.com/on-the-issues/2023/11/02/secure-future-initiative-sfi-cybersecurity-cyberattacks/)** to address "sophisticated, patient, stealthy, well-resourced, and government-backed techniques to infect and undermine the integrity of computer networks on a long-term basis."
 
