@@ -351,7 +351,7 @@
             - title: Microsoft Entra
               url: "skilling/microsoft-security-academy/entra-academy"
               tag: msa
-            - title: Azure Network Security
+            - title: Network Security
               url: "skilling/microsoft-security-academy/network-academy"
               tag: msa
             - title: Endpoint Security

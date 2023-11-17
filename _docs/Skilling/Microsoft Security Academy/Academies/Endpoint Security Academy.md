@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Endpoint Security — Microsoft Endpoint Security Academy
-description: Microsoft Security Academy Endpoint Security.
+title: Microsoft Endpoint Security Academy
+description: Microsoft Endpoint Security Academy.
 permalink: /skilling/microsoft-security-academy/endpoint-academy
 updated: 2023-11-17
 showbreadcrumb: true

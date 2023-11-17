@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data Security and Governance — Microsoft Purview Academy
-description: Microsoft Security Academy Data Security and Governance.
+title: Microsoft Purview Academy
+description: Microsoft Purview Academy.
 permalink: /skilling/microsoft-security-academy/purview-academy
 updated: 2023-11-17
 showbreadcrumb: true
