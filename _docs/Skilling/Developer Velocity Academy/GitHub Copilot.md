@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Developer Velocity Academy - GitHub Copilot
-description: Developer Velocity Academy - GitHub Copilot
+title: Developer Velocity Academy — GitHub Copilot
+description: Developer Velocity Academy — GitHub Copilot
 permalink: /skilling/developer-velocity-academy/github-copilot
 updated: 2023-10-02
 showbreadcrumb: true

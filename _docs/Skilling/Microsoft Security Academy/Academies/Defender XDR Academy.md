@@ -11,7 +11,7 @@ Tags:
 ---
 
 ## Microsoft Defender XDR Academy
-Welcome to the Microsoft Defender XDR Academy. Explore Microsoft Defender XDR video sessions with demos delivered directly to partners, relevant certifications, and further resources.
+Welcome to the **Microsoft Defender XDR Academy.** Explore Microsoft Defender XDR video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
 #### Stay connected with the [Microsoft Defender XDR Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/bg-p/MicrosoftThreatProtectionBlog).
 

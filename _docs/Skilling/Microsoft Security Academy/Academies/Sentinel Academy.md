@@ -11,7 +11,7 @@ Tags:
 ---
 
 ## Microsoft Sentinel Academy
-Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sessions with demos delivered directly to partners, relevant certifications, and further resources.
+Welcome to the **Microsoft Sentinel Academy.** Explore Microsoft Sentinel video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
 #### Stay connected with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog).
 

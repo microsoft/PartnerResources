@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Developer Velocity Academy - Monitoring
-description: Developer Velocity Academy - Monitoring
+title: Developer Velocity Academy — Monitoring
+description: Developer Velocity Academy — Monitoring
 permalink: /skilling/developer-velocity-academy/monitoring
 updated: 2023-10-02
 showbreadcrumb: true

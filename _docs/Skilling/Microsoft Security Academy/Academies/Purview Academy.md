@@ -11,7 +11,7 @@ Tags:
 ---
 
 ## Microsoft Purview Academy
-Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessions with demos delivered directly to partners, relevant certifications, and further resources.
+Welcome to the **Microsoft Purview Academy.** Explore Microsoft Purview video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
 ### Sessions
 [Microsoft Purview End-to-End eDiscovery Workflow Implementation](https://msuspartners.eventbuilder.com/event/62424?source=EnablePurview) --- Learn how to detect, preserve, collect, process, cull, and analyze data in place and do an end-to-end eDiscovery workflow. Discover how you can find and collect data, streamline your eDiscovery process with an end-to-end workflow, and get insights quickly with built-in capabilities.

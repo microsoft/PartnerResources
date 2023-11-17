@@ -11,7 +11,7 @@ Tags:
 ---
 
 ## Microsoft Entra Academy
-Welcome to the Microsoft Entra Academy. Explore Microsoft Entra video sessions with demos delivered directly to partners, relevant certifications, and further resources.
+Welcome to the **Microsoft Entra Academy.** Explore Microsoft Entra video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
 #### Stay connected with the [Microsoft Entra Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity).
 
