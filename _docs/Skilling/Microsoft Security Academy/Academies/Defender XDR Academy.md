@@ -8,13 +8,10 @@ showbreadcrumb: true
 Tags:
 - academy content
 - microsoft security academy
-- siem & xdr
 ---
 
 ## Microsoft Defender XDR Academy
 Welcome to the Microsoft Defender XDR Academy. Explore Microsoft Defender XDR video sessions with demos delivered directly to partners, relevant certifications, and further resources.
-
-The Microsoft Defender XDR Academy features its enterprise defense suite that coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications. Learn about integrated Microsoft Defender XDR solutions, including Defender for Endpoint, Defender for Identity, Microsoft Defender for Office 365, and Defender for Cloud Apps.
 
 #### Stay connected with the [Microsoft Defender XDR Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/bg-p/MicrosoftThreatProtectionBlog).
 

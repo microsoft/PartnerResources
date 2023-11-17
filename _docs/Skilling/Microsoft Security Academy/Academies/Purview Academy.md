@@ -8,14 +8,10 @@ showbreadcrumb: true
 Tags:
 - academy content
 - microsoft security academy
-- data security and governance
-- purview
 ---
 
 ## Microsoft Purview Academy
 Welcome to the Microsoft Purview Academy. Explore Microsoft Purview video sessions with demos delivered directly to partners, relevant certifications, and further resources.
-
-The Microsoft Purview Academy highlights data governance solutions that help organizations discover and manage their data across hybrid and multi-cloud environments. Learn how Purview provides a unified data map that enables users to understand and analyze their data assets, and establish policies and controls to ensure compliance with regulations and data privacy laws. Some of the key capabilities analyzed include data discovery, classification, and collaboration.
 
 ### Sessions
 [Microsoft Purview End-to-End eDiscovery Workflow Implementation](https://msuspartners.eventbuilder.com/event/62424?source=EnablePurview) --- Learn how to detect, preserve, collect, process, cull, and analyze data in place and do an end-to-end eDiscovery workflow. Discover how you can find and collect data, streamline your eDiscovery process with an end-to-end workflow, and get insights quickly with built-in capabilities.

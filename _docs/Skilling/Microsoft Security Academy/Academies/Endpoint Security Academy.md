@@ -13,8 +13,6 @@ tags:
 ## Microsoft Endpoint Security Academy
 Welcome to the Microsoft Endpoint Security Academy. Explore Microsoft endpoint security video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
-The Microsoft Endpoint Security Academy is your one-stop shop for endpoint protection. Discover how to protect your IoT/OT infrastructure with Microsoft Defender for IoT, along with how to manage threats and evolve defenses with Microsoft Defender for Endpoint.
-
 #### Stay connected with the [Microsoft Defender for Endpoint Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog) and the [Microsoft Defender for IoT Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog).
 
 ### Sessions

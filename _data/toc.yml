@@ -339,25 +339,25 @@
           url: "skilling/microsoft-security-academy/modules"
           tag: msa
           children:
-            - title: Microsoft Sentinel Academy
+            - title: Microsoft Sentinel
               url: "skilling/microsoft-security-academy/sentinel-academy"
               tag: msa
-            - title: Microsoft Defender XDR Academy
+            - title: Microsoft Defender XDR
               url: "skilling/microsoft-security-academy/dxdr-academy"
               tag: msa
-            - title: Microsoft Defender for Cloud Academy
+            - title: Microsoft Defender for Cloud
               url: "skilling/microsoft-security-academy/defender-academy"
               tag: msa
-            - title: Microsoft Entra Academy
+            - title: Microsoft Entra
               url: "skilling/microsoft-security-academy/entra-academy"
               tag: msa
-            - title: Azure Network Security Academy
+            - title: Azure Network Security
               url: "skilling/microsoft-security-academy/network-academy"
               tag: msa
-            - title: Endpoint Security Academy
+            - title: Endpoint Security
               url: "skilling/microsoft-security-academy/endpoint-academy"
               tag: msa
-            - title: Microsoft Purview Academy
+            - title: Microsoft Purview
               url: "skilling/microsoft-security-academy/purview-academy"
               tag: msa
         - title: Resources

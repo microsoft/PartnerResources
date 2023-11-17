@@ -8,14 +8,10 @@ showbreadcrumb: true
 Tags:
 - academy content
 - microsoft security academy
-- siem & xdr
-- sentinel academy
 ---
 
 ## Microsoft Sentinel Academy
 Welcome to the Microsoft Sentinel Academy. Explore Microsoft Sentinel video sessions with demos delivered directly to partners, relevant certifications, and further resources.
-
-The Microsoft Sentinel Academy teaches you how to stop threats before they happen with Microsoft Sentinel's cloud and large-scale intelligence, making threat detection and response faster with AI. Learn how to collect data at scale or how to detect, investigate, and hunt threats. Dive into training that highlights incident response with built-in orchestration, automation, and AI.
 
 #### Stay connected with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog).
 
