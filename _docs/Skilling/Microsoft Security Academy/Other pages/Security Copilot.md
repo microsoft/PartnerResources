@@ -25,7 +25,7 @@ See our **[Microsoft Security Academy](/PartnerResources/skilling/microsoft-secu
 
 ## Nov. 2023 Update📰
 
-**Prepare for Security Copilot's February launch with our new [Security Copilot documentation](https://learn.microsoft.com/en-us/security-copilot/) and [Security Copilot demos](https://app.highlights.guide/gallery).**
+**Prepare for Security Copilot's February or March launch with our new [Security Copilot documentation](https://learn.microsoft.com/en-us/security-copilot/) and [Security Copilot demos](https://app.highlights.guide/gallery).**
 
 
 ## Get Started
