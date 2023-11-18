@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Developer Velocity Academy - Home
-description: Developer Velocity Academy - Home
+title: Developer Velocity Academy
+description: Developer Velocity Academy
 permalink: /skilling/developer-velocity-academy
 updated: 2023-10-02
 showbreadcrumb: true

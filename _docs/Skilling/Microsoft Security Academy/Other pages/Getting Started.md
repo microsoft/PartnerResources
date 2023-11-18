@@ -3,7 +3,7 @@ layout: page
 title: Getting Started with the Microsoft Security Academy
 description: Want to begin or continue your security journey?
 permalink: /skilling/microsoft-security-academy/start
-updated: 2023-10-18
+updated: 2023-11-17
 showbreadcrumb: true
 tags: 
 - academy content
@@ -45,7 +45,7 @@ Welcome to cybersecurity! Browse our curated collection of resources to help you
 ## Security Operations Analyst
 * [Security Operations (SecOps) Functions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-security-operations-center)
 * [What is Microsoft Sentinel?](https://learn.microsoft.com/en-us/azure/sentinel/overview)
-* [What is Microsoft 365 Defender?](https://learn.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender?view=o365-worldwide)
+* [What is Microsoft Defender XDR?](https://learn.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender?view=o365-worldwide)
 * [What is Microsoft Defender for Cloud?](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction)
 * [What is Microsoft Defender for Endpoint?](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint?view=o365-worldwide)
 
