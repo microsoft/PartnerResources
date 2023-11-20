@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Azure Infrastructure Academy
 description: Microsoft Azure Infrastructure Academy
-updated: 2023-11-14
+updated: 2023-11-20
 permalink: /skilling/microsoft-infrastructure-academy
 redirect_from:
   - /skilling/microsoft-infrastructure-academy/
@@ -31,7 +31,7 @@ Keep your organization resilient against evolving challenges with continuous lea
 
 ## Start Your Journey and Stay Connected🔗
  
- Stay connected with our [Azure Infrastructure Blog](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog) and more to find guidance and resources for technical questions.
+ Stay connected with our **[Azure Infrastructure Blog](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog)** and more to find guidance and resources for technical questions.
 
 * [Azure Architecture Blog](https://techcommunity.microsoft.com/t5/azure-architecture-blog/bg-p/AzureArchitectureBlog)
 * [Azure Arc Blog](https://techcommunity.microsoft.com/t5/azure-arc-blog/bg-p/AzureArcBlog)
@@ -44,3 +44,9 @@ Keep your organization resilient against evolving challenges with continuous lea
 * [Core Infrastructure and Security Blog](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bg-p/CoreInfrastructureandSecurityBlog)
 * [Linux and Open Source Blog](https://techcommunity.microsoft.com/t5/linux-and-open-source-blog/bg-p/LinuxandOpenSourceBlog)
 * [Running SAP Applications on the Microsoft Platform Blog](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications)
+
+## Meet our Team🎉
+
+The resources within each academy are created by our team of Azure Infrastructure experts.
+
+![Azure Infra. Team]({{ site.baseurl }}/assets/msa/Azure Infra. Team.png)
