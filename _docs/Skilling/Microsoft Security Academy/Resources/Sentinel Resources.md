@@ -42,7 +42,7 @@ Use these steps to build a demo instance; free for one month
 2. [**GitHub:** Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
 3. [**MS Docs:** Connect Azure Active Directory (Azure AD) Data to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
 4. [**GitHub:** Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)
-   * Microsoft Sentinel To-Go is an open source project developed to expedite the deployment of a Microsoft Sentinel lab along with other resources for research purposes. (i.e., more "Dummy Data")
+   * Microsoft Sentinel To-Go is an open-source project developed to expedite the deployment of a Microsoft Sentinel lab along with resources. (i.e., more "Dummy Data")
 5. [**MSFT Blog:** Ingest Sample CEF Data into Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-sample-cef-data-into-azure-sentinel/ba-p/1064158)
    * Sample Data CEF
 6. [**MSFT Blog:** New Ingestion SampleData-as-a-Service Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-ingestion-sampledata-as-a-service-solution-for-a-great-demos/ba-p/3598500)
@@ -68,7 +68,7 @@ Use these steps to build a demo instance; free for one month
 * [**GitHub:** Azure Monitor Agent Migration (Remove Log Analytics Agent) Lab](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Powershell%20scripts/Remove%20Log%20Analytics%20Agent%20At%20Scale)
 
 #### ADX
-   * [**MS Docs:** What is a free Azure Data Explorer Cluster?s](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free)
+   * [**MS Docs:** What is a free Azure Data Explorer Cluster?](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free)
       * Free cluster, only a Microsoft Identity is required
    * [**MSFT Blog:** Azure Data Explorer in 60 minutes with Samples -- Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-in-60-minutes-with-the-new-samples-gallery/ba-p/3447552)
 
@@ -84,14 +84,14 @@ Use these steps to build a demo instance; free for one month
 * [**MSFT Blog:** Hunting for Low & Slow Password Sprays Using Machine Learning](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-low-and-slow-password-sprays-using-machine-learning/ba-p/3592052)
 
 #### SOAR
-* [STAT](https://aka.ms/mstat) -- The Microsoft Sentinel Triage AssistanT (STAT) uses modular playbooks and a Logic App Custom Connector to simplify the process through reusable content.
+* **[STAT](https://aka.ms/mstat)** -- The Microsoft Sentinel Triage Assistant (STAT) uses modular playbooks and a Logic App Custom Connector to simplify the process through reusable content.
 * [Sample Integrations with Azure OpenAI](https://myfabersecurity.com/2023/07/29/initial-assessment-connecting-the-dots-with-aoai/) 
 
 #### Fusion
 * [**MS Docs:** Advanced Multistage Attack Detection in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/fusion)
 
 #### UEBA
-* [**MSFT Blog:** Microsoft Sentinel Customizable Ml Based Anomalies now Generally Available](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-customizable-machine-learning-based-anomalies/ba-p/3624436)
+* [**MSFT Blog:** Microsoft Sentinel Customizable ML Based Anomalies now Generally Available](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-customizable-machine-learning-based-anomalies/ba-p/3624436)
 
 #### Repositories
 * [**GitHub:** Microsoft Sentinel As-A-Code Lab](https://github.com/sreedharande/Microsoft-Sentinel-As-A-Code)
