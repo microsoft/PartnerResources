@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2023-11-17
+updated: 2023-11-20
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -18,9 +18,9 @@ Stay ahead of evolving threats and protect your organization with continuous lea
 
 **Explore our new resources for [Microsoft Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot) and common [Microsoft Security Copilot Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot-extra).**
 
-Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
+Explore our [Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations) to help demonstrate your technical expertise.
 
-A new era of security is here. Read how **[Microsoft unveiled the expansion of AI for security and security for AI at Microsoft Ignite](https://www.microsoft.com/en-us/security/blog/2023/11/15/microsoft-unveils-expansion-of-ai-for-security-and-security-for-ai-at-microsoft-ignite/).**
+A new era of security is here. Read how [Microsoft unveiled the expansion of AI for security and security for AI at Microsoft Ignite](https://www.microsoft.com/en-us/security/blog/2023/11/15/microsoft-unveils-expansion-of-ai-for-security-and-security-for-ai-at-microsoft-ignite/).
 
 #### The Basics
 1. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)**

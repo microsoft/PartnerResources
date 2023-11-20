@@ -47,6 +47,6 @@ Keep your organization resilient against evolving challenges with continuous lea
 
 ## Meet our Team😎
 
-The resources within each academy are created and delivered by our team of Azure Infrastructure experts.
+The resources within each academy are created by our team of Azure Infrastructure experts.
 
 ![Azure Infra. Team]({{ site.baseurl }}/assets/msa/Azure Infra. Team.png)

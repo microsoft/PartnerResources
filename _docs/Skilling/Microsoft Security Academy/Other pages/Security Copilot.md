@@ -17,7 +17,7 @@ tags:
 
 We first introduced Security Copilot at the inaugural Microsoft Secure. Microsoft Security Copilot is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with a Microsoft-developed, security-specific model.
 
-Are you a Microsoft partner wanting to learn more about how to engage customers and take advantage of Security Copilot? If so, complete our **[Microsoft Security Copilot Partner Interest Form](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR7GkZxmcvGdGql1aVgLqRR1UNEk0MTVPVjg1VjhPMUJHVTZETlRXSk1RQy4u)!
+Are you a Microsoft partner wanting to learn more about how to engage customers and take advantage of Security Copilot? If so, complete our **[Microsoft Security Copilot Partner Interest Form](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR7GkZxmcvGdGql1aVgLqRR1UNEk0MTVPVjg1VjhPMUJHVTZETlRXSk1RQy4u)!**
 
 If you have an existing NDA with Microsoft, join our [Microsoft Security Copilot Limited Customer Connection Program (CCP)](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR_XAVZ7AP_VPg7dX-69WxXdUQ1ZNUUVQOFNZOUtVSzdTNTFCMUEyQkVUQi4u).
 
@@ -67,6 +67,8 @@ Download the PowerPoint for Maximizing Customer Success with Azure AI and Secu
 
 * [Microsoft Security Copilot in Microsoft 365 Defender](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-in-microsoft-365-defender?view=o365-worldwide&bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Security Copilot and Intune](https://learn.microsoft.com/en-us/mem/intune/fundamentals/security-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Microsoft Security Copilot and Defender EASM](https://learn.microsoft.com/en-us/azure/external-attack-surface-management/easm-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Microsoft Security Copilot and Microsoft Defender Threat Intelligence](https://learn.microsoft.com/en-us/defender/threat-intelligence/security-copilot-and-defender-threat-intelligence?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 
 
 #### Considerations
@@ -88,7 +90,7 @@ Download the PowerPoint for Maximizing Customer Success with Azure AI and Secu
 
 ## Community Resources
 
-* [15 Tips to Become a Better Prompt Engineer for Generative AI](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935?utm_source=substack&utm_medium=email)
+* [Create effective prompts](https://learn.microsoft.com/en-us/security-copilot/prompting-tips)
 * [OpenAI's GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * Learn more about our approach to [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).
 
