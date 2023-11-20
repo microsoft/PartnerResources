@@ -45,7 +45,7 @@ Keep your organization resilient against evolving challenges with continuous lea
 * [Linux and Open Source Blog](https://techcommunity.microsoft.com/t5/linux-and-open-source-blog/bg-p/LinuxandOpenSourceBlog)
 * [Running SAP Applications on the Microsoft Platform Blog](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications)
 
-## Meet our Team😎
+## Meet our Team🎉
 
 The resources within each academy are created by our team of Azure Infrastructure experts.
 
