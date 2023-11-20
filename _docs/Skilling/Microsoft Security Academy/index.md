@@ -18,7 +18,7 @@ Stay ahead of evolving threats and protect your organization with continuous lea
 
 **Explore our new resources for [Microsoft Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot) and common [Microsoft Security Copilot Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot-extra).**
 
-Explore our [Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations) to help demonstrate your technical expertise.
+Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
 
 A new era of security is here. Read how [Microsoft unveiled the expansion of AI for security and security for AI at Microsoft Ignite](https://www.microsoft.com/en-us/security/blog/2023/11/15/microsoft-unveils-expansion-of-ai-for-security-and-security-for-ai-at-microsoft-ignite/).
 
@@ -54,7 +54,7 @@ Learn about Microsoft's new **[Secure Future Initiative](https://blogs.microsoft
 
 ### Want to be a Ninja?
 
-**Microsoft Ninja trainings** are sets of organized learning modules that guide you through the advanced features and functions of our products.
+Microsoft Ninja trainings are sets of organized learning modules that guide you through the advanced features and functions of our products.
 
 * [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
 * [Microsoft Sentinel Notebooks Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491)
