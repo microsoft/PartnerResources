@@ -31,7 +31,7 @@ Keep your organization resilient against evolving challenges with continuous lea
 
 ## Start Your Journey and Stay Connected🔗
  
- Stay connected with our [Azure Infrastructure Blog](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog) and more to find guidance and resources for technical questions.
+ Stay connected with our **[Azure Infrastructure Blog](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog)** and more to find guidance and resources for technical questions.
 
 * [Azure Architecture Blog](https://techcommunity.microsoft.com/t5/azure-architecture-blog/bg-p/AzureArchitectureBlog)
 * [Azure Arc Blog](https://techcommunity.microsoft.com/t5/azure-arc-blog/bg-p/AzureArcBlog)
@@ -46,8 +46,6 @@ Keep your organization resilient against evolving challenges with continuous lea
 * [Running SAP Applications on the Microsoft Platform Blog](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications)
 
 ## Meet our Team😎
-
-Meet our Azure Infrastructure team
 
 The resources within each academy are created and delivered by our team of Azure Infrastructure experts.
 

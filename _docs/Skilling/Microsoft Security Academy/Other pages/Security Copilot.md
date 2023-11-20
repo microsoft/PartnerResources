@@ -3,7 +3,7 @@ layout: page
 title: Security Copilot
 description: Are you ready for Security Copilot?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2023-11-17
+updated: 2023-11-20
 showbreadcrumb: true
 tags: 
 - academy content
@@ -34,8 +34,8 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 <table>
   <tr style="vertical-align:top">
-   <td><a href="https://youtu.be/2mL9iDr_lUY?si=ePBzuIBQT8In-zz8"><img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/microsoft-security-copilot-gpt-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Microsoft Security Copilot & Tanium Demo" width="200" height="153"></a></td>
-    <td><a href="https://youtu.be/2mL9iDr_lUY?si=lWO3C49hAFIPrhqs"><b>Microsoft Security Copilot Demo</b></a><br><br>See Security Copilot in action and learn how it uncovers, investigates, and responds to threats.</td>
+   <td><a href="https://youtu.be/2mL9iDr_lUY?si=ePBzuIBQT8In-zz8"><img src="https://img.youtube.com/vi/2mL9iDr_lUY/maxresdefault.jpg" alt="Microsoft Security Copilot & Tanium Demo" width="200" height="153"></a></td>
+    <td><a href="https://youtu.be/2mL9iDr_lUY?si=lWO3C49hAFIPrhqs"><b>Microsoft Security Copilot & Tanium Demo</b></a><br><br>Tanium introduces their Security Copilot proof of concept to enable responses in minutes with real-time visibility.</td>
   </tr>
   <tr>
     <td><a href="https://youtu.be/jzgrD4nvTXE"><img src="https://github.com/ZacharyRiffle/PartnerResources/blob/main/assets/msa/Microsoft%20Security%20Copilot.png?raw=true" alt="Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results" width="200" height="153"></a></td>
