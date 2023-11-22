@@ -41,7 +41,7 @@ Use these steps to build a demo instance; free for one month
 
 1. [Microsoft Sentinel All In One](https://aka.ms/SentinelAllInOne) -> Speed up Microsoft Sentinel deployment and initial configuration tasks in a few clicks.
 2. [**GitHub:** Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
-3. [**MS Docs:** Connect Azure Active Directory (Azure AD) Data to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
+3. [**MSFT Docs:** Connect Azure Active Directory (Azure AD) Data to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
 4. [**GitHub:** Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)
    * Microsoft Sentinel To-Go is an open-source project developed to expedite the deployment of a Microsoft Sentinel lab along with resources. (i.e., more "Dummy Data")
 5. [**MSFT Blog:** Ingest Sample CEF Data into Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-sample-cef-data-into-azure-sentinel/ba-p/1064158)
@@ -49,9 +49,9 @@ Use these steps to build a demo instance; free for one month
 6. [**MSFT Blog:** New Ingestion SampleData-as-a-Service Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-ingestion-sampledata-as-a-service-solution-for-a-great-demos/ba-p/3598500)
 
 ## Associate
-* [**MS Docs:** Design your Microsoft Sentinel Workspace Architecture](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
-* [**MS Docs:** Find your Microsoft Sentinel Data Connector](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
-* [**MS Docs:** Resources for Creating Microsoft Sentinel Custom Connectors](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector#compare-custom-connector-methods)
+* [**MSFT Docs:** Design your Microsoft Sentinel Workspace Architecture](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture#decision-tree)
+* [**MSFT Docs:** Find your Microsoft Sentinel Data Connector](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
+* [**MSFT Docs:** Resources for Creating Microsoft Sentinel Custom Connectors](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector#compare-custom-connector-methods)
 
 #### Azure Lighthouse
 * [Delegate Access using Azure Lighthouse for a Sentinel POC](https://myfabersecurity.com/2022/07/15/delegate-access-using-azure-lighthouse-for-a-sentinel-poc/)
@@ -62,14 +62,14 @@ Use these steps to build a demo instance; free for one month
 * [MSSPs and Identity: Considerations for Tenant Architecture & Delegating Access to SOC analysts](https://myfabersecurity.com/2023/01/11/mssps-and-identity/)
 
 #### Agents Resources
-* [**MS Docs:** Azure Monitor Agent Overview](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
-* [**MS Docs:** Data Collection Rules in Azure Monitor - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview)
+* [**MSFT Docs:** Azure Monitor Agent Overview](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
+* [**MSFT Docs:** Data Collection Rules in Azure Monitor - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview)
 * [**GitHub:** Microsoft Sentinel Transformations Library](http://aka.ms/sentinel-transforms)
-* [**MS Docs:** Overview of the Azure Connected Machine Agent (Azure Arc)](https://learn.microsoft.com/en-us/azure/azure-arc/servers/agent-overview)
+* [**MSFT Docs:** Overview of the Azure Connected Machine Agent (Azure Arc)](https://learn.microsoft.com/en-us/azure/azure-arc/servers/agent-overview)
 * [**GitHub:** Azure Monitor Agent Migration (Remove Log Analytics Agent) Lab](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Powershell%20scripts/Remove%20Log%20Analytics%20Agent%20At%20Scale)
 
 #### ADX
-   * [**MS Docs:** What is a free Azure Data Explorer Cluster?](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free)
+   * [**MSFT Docs:** What is a free Azure Data Explorer Cluster?](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free)
       * Free cluster, only a Microsoft Identity is required
    * [**MSFT Blog:** Azure Data Explorer in 60 minutes with Samples -- Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-in-60-minutes-with-the-new-samples-gallery/ba-p/3447552)
 
@@ -78,10 +78,10 @@ Use these steps to build a demo instance; free for one month
 * [**GitHub:** KQL for Microsoft Sentinel Lab & Queries](https://github.com/reprise99/Sentinel-Queries)
 * [KQL Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet)
 * [KQL Search](https://www.kqlsearch.com)
-* [**MS Docs:** SQL to KQL Cheat Sheet](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet)
+* [**MSFT Docs:** SQL to KQL Cheat Sheet](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet)
 
 #### Notebooks
-* [**MS Docs:** Get Started with Jupyter Notebooks & MSTICPy in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/notebook-get-started)
+* [**MSFT Docs:** Get Started with Jupyter Notebooks & MSTICPy in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/notebook-get-started)
 * [**MSFT Blog:** Hunting for Low & Slow Password Sprays Using Machine Learning](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-low-and-slow-password-sprays-using-machine-learning/ba-p/3592052)
 
 #### SOAR
@@ -89,7 +89,7 @@ Use these steps to build a demo instance; free for one month
 * [Sample Integrations with Azure OpenAI](https://myfabersecurity.com/2023/07/29/initial-assessment-connecting-the-dots-with-aoai/) 
 
 #### Fusion
-* [**MS Docs:** Advanced Multistage Attack Detection in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/fusion)
+* [**MSFT Docs:** Advanced Multistage Attack Detection in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/fusion)
 
 #### UEBA
 * [**MSFT Blog:** Microsoft Sentinel Customizable ML Based Anomalies now Generally Available](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-customizable-machine-learning-based-anomalies/ba-p/3624436)
@@ -99,8 +99,8 @@ Use these steps to build a demo instance; free for one month
 * [**GitHub:** Sample Content Repository](https://github.com/SentinelCICD/RepositoriesSampleContent)
 
 #### Migration
-* [**MS Docs:** Microsoft Sentinel Migration: Select Target Azure Platform for Exported Data](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
-* [**MS Docs:** Microsoft Sentinel Migration: Select Data Ingestion Tool](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
+* [**MSFT Docs:** Microsoft Sentinel Migration: Select Target Azure Platform for Exported Data](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
+* [**MSFT Docs:** Microsoft Sentinel Migration: Select Data Ingestion Tool](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
 * [Unicoder Sigma Rule Converter for SIEM, EDR, & NTDR](https://uncoder.io/)
 
 #### MDTI (Defender for Threat Intelligence) & Risk IQ Integration
