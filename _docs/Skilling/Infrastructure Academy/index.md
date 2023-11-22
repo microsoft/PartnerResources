@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Azure Infrastructure Academy
 description: Microsoft Azure Infrastructure Academy
-updated: 2023-11-20
+updated: 2023-11-22
 permalink: /skilling/microsoft-infrastructure-academy
 redirect_from:
   - /skilling/microsoft-infrastructure-academy/
@@ -27,6 +27,11 @@ Keep your organization resilient against evolving challenges with continuous lea
 
 
 ![IA Organizational Chart]({{ site.baseurl }}/assets/msa/IA Thumbnail.png)
+
+
+### Noteworthy News📰
+
+Watch **[Satya Nadella talk to NVIDIA's Jensen Huang](https://youtu.be/QsWtiop4IJA?si=QgschuA-oRRiLMTP)** about Microsoft's expanding partnership with Nvidia, learn more about **[Microsoft's recent innovation in AI Infrastructure](https://youtu.be/AHSboyXhjyw?si=4gke11Oj1RN1qJuc)**, and explore **[​what's new and what's next with Azure IaaS](https://ignite.microsoft.com/en-US/sessions/67c69220-d1f8-4241-8519-bfc3e73d08e3?source=sessions).**
 
 
 ## Start Your Journey and Stay Connected🔗
