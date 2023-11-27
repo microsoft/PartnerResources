@@ -74,6 +74,6 @@ Microsoft Ninja trainings are sets of organized learning modules that guide you 
 * [Microsoft Purview Data Loss Prevention (DLP) Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-data-loss-prevention-ninja-training-is/ba-p/3659015)
 * [Insider Risk Management Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-an-insider-risk-management-ninja/ba-p/3282306)
 
-### Microsoft's Cybersecurity Architecture
+## Microsoft's Cybersecurity Architecture🔒
 
 ![Cybersecurity Reference Architecture]({{ site.baseurl }}/assets/msa/Cybersecurity Reference Architecture.png)
