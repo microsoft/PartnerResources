@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2023-11-22
+updated: 2023-11-27
 permalink: /security/microsoft-security-academy/microsoft-sentinel
 tags:
 - security
@@ -19,6 +19,7 @@ See our **[Microsoft Sentinel Academy](https://microsoft.github.io/PartnerResour
 
 
 ## What's New
+* [Elevating Cybersecurity Intelligence with Microsoft Sentinel's New Enrichment Widgets](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/elevating-cybersecurity-intelligence-with-microsoft-sentinel-s/ba-p/3985255?utm_source=substack&utm_medium=email)
 * [Quality Assurance in Microsoft Sentinel: How to ensure accurate threat detections?](https://secopslab.substack.com/p/quality-assurance-in-microsoft-sentinel?utm_source=profile&utm_medium=reader2)
 * [Refactoring Data Ingestion Costs](https://craigclouditpro.wordpress.com/2023/09/19/refactoring-data-ingestion-costs/?utm_source=substack&utm_medium=email)
 * [**MSFT Blog:** New Playbooks with tasks for BEC, Ransomware, and Phishing investigations](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-tasks-management-to-protect-your-organization-against/ba-p/3884516?utm_source=substack&utm_medium=email)

@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2023-11-20
+updated: 2023-11-27
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -73,3 +73,7 @@ Microsoft Ninja trainings are sets of organized learning modules that guide you 
 * [Microsoft Purview Information Protection Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-information-protection-ninja-training-is/ba-p/2887478?WT.mc_id=m365-0000-rotrent)
 * [Microsoft Purview Data Loss Prevention (DLP) Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-data-loss-prevention-ninja-training-is/ba-p/3659015)
 * [Insider Risk Management Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-an-insider-risk-management-ninja/ba-p/3282306)
+
+### Microsoft's Cybersecurity Architecture
+
+![Cybersecurity Reference Architecture]({{ site.baseurl }}/assets/msa/Cybersecurity Reference Architecture.png)

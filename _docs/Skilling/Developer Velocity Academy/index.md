@@ -33,7 +33,7 @@ Explore DV concepts in greater detail with **Modules.** The Developer Velocity A
 Choose the modules that align with your areas of interest to expand your knowledge.
 
 
-![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/DV Org. Chart.png)
+![DVA Organizational Chart]({{ site.baseurl }}/assets/msa/DV Org. Chart.png)
 
 
 ## Useful Links
