@@ -280,6 +280,9 @@
           - title: Visualization
             url: "skilling/modern-analytics-academy/modules/visualization"
             tag: maa
+        - title: Certs & Specialization
+          url: "skilling/modern-analytics-academy/certs-and-specialization"
+          tag: maa
         - title: Hands-on
           url: "skilling/modern-analytics-academy/hands-on"
           tag: maa
