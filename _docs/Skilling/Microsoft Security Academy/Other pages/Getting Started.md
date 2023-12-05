@@ -31,9 +31,6 @@ Welcome to cybersecurity! Browse our curated collection of resources to help you
 | [Data Retention](https://learn.microsoft.com/en-us/purview/retention) | Refers to minimum and maximum timelines for keeping corporate data, including sensitive data, before such data is permanently deleted. |
 | [Records Management](https://learn.microsoft.com/en-us/purview/records-management) | A solution for organizations to manage regulatory, legal, and business-critical records. |
 
-### Microsoft Zero Trust Architecture
-
-![Microsoft Zero Trust Architectur]({{ site.baseurl }}/assets/msa/zero-trust-diagram.png)
 
 ## Security Strategy
 * [Define a Security Strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/define-security-strategy)
@@ -62,3 +59,7 @@ Welcome to cybersecurity! Browse our curated collection of resources to help you
 ## Information Protection Administrator
 * [What is an information protection administrator?](https://learn.microsoft.com/en-us/training/career-paths/information-protection-admin)
 * [What is Microsoft Purview?](https://learn.microsoft.com/en-us/purview/purview)
+
+## Microsoft Zero Trust Architecture
+
+![Microsoft Zero Trust Architectur]({{ site.baseurl }}/assets/msa/zero-trust-diagram.png)
