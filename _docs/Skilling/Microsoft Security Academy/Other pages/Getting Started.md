@@ -16,6 +16,10 @@ tags:
 ### Are you ready to get started?⏩ 
 Welcome to cybersecurity! Browse our curated collection of resources to help you kickstart your journey. These resources specifically cater to those who are new to the field seeking to gain expertise.
 
+## Microsoft Zero Trust Architecture
+
+![Microsoft Zero Trust Architectur]({{ site.baseurl }}/assets/msa/zero-trust-diagram.png)
+
 ## Definition Cookbook
 
 
@@ -59,7 +63,3 @@ Welcome to cybersecurity! Browse our curated collection of resources to help you
 ## Information Protection Administrator
 * [What is an information protection administrator?](https://learn.microsoft.com/en-us/training/career-paths/information-protection-admin)
 * [What is Microsoft Purview?](https://learn.microsoft.com/en-us/purview/purview)
-
-## Microsoft Zero Trust Architecture
-
-![Microsoft Zero Trust Architectur]({{ site.baseurl }}/assets/msa/zero-trust-diagram.png)
