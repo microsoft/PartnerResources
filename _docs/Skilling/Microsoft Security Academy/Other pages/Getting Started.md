@@ -16,7 +16,7 @@ tags:
 ### Are you ready to get started?⏩ 
 Welcome to cybersecurity! Browse our curated collection of resources to help you kickstart your journey. These resources specifically cater to those who are new to the field seeking to gain expertise.
 
-## Microsoft Zero Trust Architecture
+### Microsoft Zero Trust Architecture
 
 ![Microsoft Zero Trust Architectur]({{ site.baseurl }}/assets/msa/zero-trust-diagram.png)
 
