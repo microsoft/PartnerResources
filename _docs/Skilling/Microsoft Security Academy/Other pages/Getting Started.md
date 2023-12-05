@@ -3,7 +3,7 @@ layout: page
 title: Getting Started with the Microsoft Security Academy
 description: Want to begin or continue your security journey?
 permalink: /skilling/microsoft-security-academy/start
-updated: 2023-11-17
+updated: 2023-12-05
 showbreadcrumb: true
 tags: 
 - academy content
@@ -15,6 +15,10 @@ tags:
 
 ### Are you ready to get started?⏩ 
 Welcome to cybersecurity! Browse our curated collection of resources to help you kickstart your journey. These resources specifically cater to those who are new to the field seeking to gain expertise.
+
+### Microsoft Zero Trust Architecture
+
+![Microsoft Zero Trust Architectur]({{ site.baseurl }}/assets/msa/zero-trust-diagram.png)
 
 ## Definition Cookbook
 

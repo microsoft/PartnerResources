@@ -3,7 +3,7 @@ layout: page
 title: Security Copilot
 description: Are you ready for Security Copilot?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2023-11-20
+updated: 2023-12-05
 showbreadcrumb: true
 tags: 
 - academy content
@@ -23,7 +23,7 @@ If you have an existing NDA with Microsoft, join our [Microsoft Security Copilot
 
 See our **[Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
 
-## Nov. 2023 Update📰
+## Dec. 2023 Update📰
 
 **Prepare for Security Copilot's February or March launch with our new [Security Copilot documentation](https://learn.microsoft.com/en-us/security-copilot/) and [Security Copilot demos](https://app.highlights.guide/gallery).**
 
@@ -34,16 +34,16 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 <table>
   <tr style="vertical-align:top">
+   <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><img src="https://img.youtube.com/vi/0lg_derTkaM/maxresdefault.jpg" alt="How Microsoft Security Copilot works" width="200" height="153"></a></td>
+    <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><b>How Microsoft Security Copilot works</b></a><br><br>Ryan Munsch, from the Security Copilot team, joins host Jeremy Chapman to share how Security Copilot is an enterprise-grade natural language interface for your organization's security data.</td>
+  </tr>
+  <tr style="vertical-align:top">
    <td><a href="https://youtu.be/2mL9iDr_lUY?si=ePBzuIBQT8In-zz8"><img src="https://img.youtube.com/vi/2mL9iDr_lUY/maxresdefault.jpg" alt="Microsoft Security Copilot & Tanium Demo" width="200" height="153"></a></td>
     <td><a href="https://youtu.be/2mL9iDr_lUY?si=lWO3C49hAFIPrhqs"><b>Microsoft Security Copilot & Tanium Demo</b></a><br><br>Tanium introduces their Security Copilot proof of concept to enable responses in minutes with real-time visibility.</td>
   </tr>
-  <tr>
+  <tr style="vertical-align:top">
     <td><a href="https://youtu.be/jzgrD4nvTXE"><img src="https://github.com/ZacharyRiffle/PartnerResources/blob/main/assets/msa/Microsoft%20Security%20Copilot.png?raw=true" alt="Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results" width="200" height="153"></a></td>
     <td><a href="https://youtu.be/jzgrD4nvTXE"><b>Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results</b></a><br><br>Join Angelica, Rick, and Zach as they explore optimal preparations for Security Copilot, leverage Azure's OpenAI capabilities, and watch a complete Microsoft Sentinel and OpenAI integration demo in Azure.</td>
-  </tr>
-  <tr style="vertical-align:top">
-   <td><a href="https://youtu.be/g1HoXNoP3V0"><img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/microsoft-security-copilot-gpt-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Microsoft Security Copilot Demo" width="200" height="153"></a></td>
-    <td><a href="https://youtu.be/g1HoXNoP3V0"><b>Microsoft Security Copilot Demo</b></a><br><br>See Security Copilot in action and learn how it uncovers, investigates, and responds to threats.</td>
   </tr>
 </table>
 
