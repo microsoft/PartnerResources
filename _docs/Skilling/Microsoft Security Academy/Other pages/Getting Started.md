@@ -3,7 +3,7 @@ layout: page
 title: Getting Started with the Microsoft Security Academy
 description: Want to begin or continue your security journey?
 permalink: /skilling/microsoft-security-academy/start
-updated: 2023-11-17
+updated: 2023-12-05
 showbreadcrumb: true
 tags: 
 - academy content
@@ -31,6 +31,9 @@ Welcome to cybersecurity! Browse our curated collection of resources to help you
 | [Data Retention](https://learn.microsoft.com/en-us/purview/retention) | Refers to minimum and maximum timelines for keeping corporate data, including sensitive data, before such data is permanently deleted. |
 | [Records Management](https://learn.microsoft.com/en-us/purview/records-management) | A solution for organizations to manage regulatory, legal, and business-critical records. |
 
+### Microsoft Zero Trust Architecture
+
+![Microsoft Zero Trust Architectur]({{ site.baseurl }}/assets/msa/zero-trust-diagram.png)
 
 ## Security Strategy
 * [Define a Security Strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/define-security-strategy)

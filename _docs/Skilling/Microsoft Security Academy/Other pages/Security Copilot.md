@@ -23,7 +23,7 @@ If you have an existing NDA with Microsoft, join our [Microsoft Security Copilot
 
 See our **[Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
 
-## Nov. 2023 Update📰
+## Dec. 2023 Update📰
 
 **Prepare for Security Copilot's February or March launch with our new [Security Copilot documentation](https://learn.microsoft.com/en-us/security-copilot/) and [Security Copilot demos](https://app.highlights.guide/gallery).**
 

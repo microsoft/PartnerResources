@@ -77,7 +77,3 @@ Microsoft Ninja trainings are sets of organized learning modules that guide you 
 ### Microsoft Cybersecurity Reference Architecture (MCRA)🔒
 
 ![Cybersecurity Reference Architecture]({{ site.baseurl }}/assets/msa/Cybersecurity Reference Architecture.png)
-
-### Microsoft Zero Trust Architecture🔒
-
-![Microsoft Zero Trust Architectur]({{ site.baseurl }}/assets/msa/zero-trust-diagram.png)
