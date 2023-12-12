@@ -15,8 +15,7 @@ tags:
 
 
 ## Hybrid Cloud Connectivity
-[Hub and Spoke Design](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli)
-
+**[Hub and Spoke Design](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli)**
 
 
 ## Virtual Network
