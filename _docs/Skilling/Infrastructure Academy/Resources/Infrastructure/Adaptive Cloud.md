@@ -19,9 +19,9 @@ tags:
 
 The majority of the Azure Arc skilling and training content resides in the **[Azure Arc Jumpstart](https://arcjumpstart.com).** The Jumpstart is a community of Microsoft adaptive cloud engineers and field experts that build demo environments, example scripts and templates, video content, and much more.
 
-Azure Arc Jumpstart can be used to get acquainted with the various facets of Azure Arc capabilities. Use the links below to access key Jumpstart resources to help you get going.
+**[Azure Arc Jumpstart](https://arcjumpstart.com)** can be used to get acquainted with the various facets of Azure Arc capabilities. Use the links below to access key Jumpstart resources to help you get going.
 
-* [Jumpstart Agora](https://arcjumpstart.com/azure_jumpstart_ag) - a sandbox lab that can be used to explore industry edge scenarios powered by Azure Arc, AKS Edge Essentials, and IoT.
+* [Jumpstart Agora](https://arcjumpstart.com/azure_jumpstart_ag) — a sandbox lab that can be used to explore industry edge scenarios powered by Azure Arc, AKS Edge Essentials, and IoT.
 * [Jumpstart ArcBox](https://arcjumpstart.com/azure_jumpstart_arcbox) — a sandbox lab for exploring Azure Arc technical features.
 * [Jumpstart HCIBox](https://arcjumpstart.com/azure_jumpstart_hcibox) — a sandbox lab for exploring Azure Stack HCI without requiring physical hardware.
 * [Jumpstart Scenarios](https://arcjumpstart.com/azure_arc_jumpstart) — over 100 different scenarios for trying Azure Arc on any platform.
