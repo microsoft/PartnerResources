@@ -1,7 +1,7 @@
 ---
 layout: page
-title: D365 Marketing Academy - Push Notification
-description: D365 Marketing Academy - Push Notification
+title: D365 Customer Insights - Journeys Academy - Push Notification
+description: D365 Customer Insights - Journeys Academy - Push Notification
 permalink: /skilling/d365-academy/d365-marketing-academy/pushnotification
 showbreadcrumb: true
 tags: 
@@ -10,6 +10,8 @@ tags:
 - push notifications
 - dynamics
 - marketing
+- customer insights journeys
+- journeys
 ---
 
 # {{ page.title }}
