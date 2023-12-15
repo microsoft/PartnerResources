@@ -18,7 +18,9 @@ Tags:
 
 ## Microsoft Adaptive Cloud Academy☁️
 
-Microsoft Azure offers many ways for customers to build, deploy, operate, and secure their application and data estates, including customer on-premises assets and even customer assets running in other cloud providers. 
+Microsoft Azure offers many ways for customers to build, deploy, operate, and secure their application and data estates, including customer on-premises assets and even customer assets running in other cloud providers.
+
+## Overview
 
 **[Azure Arc](https://azure.microsoft.com/products/azure-arc) is at the core of enabling this [adaptive cloud](https://arcjumpstart.com/adaptive_cloud) approach to customer requirements.**
 
@@ -32,7 +34,7 @@ Reach out to your Microsoft partner team to learn more about how we have helped 
 ![Azure Platform with Azure Arc]({{ site.baseurl }}/assets/infrapics/AzureArcDiagram.png)
 
 
-In the **[Adaptive Cloud Academy](/PartnerResources/skilling/microsoft-infrastructure-academy/adaptive-cloud),** you can explore Microsoft Azure Arc and Azure Stack HCI video sessions with demos delivered directly to partners and access dedicated Adaptive Cloud resources including sandbox labs and example templates.
+In the [Adaptive Cloud Academy](/PartnerResources/skilling/microsoft-infrastructure-academy/adaptive-cloud),** you can explore Microsoft Azure Arc and Azure Stack HCI video sessions with demos delivered directly to partners and access dedicated Adaptive Cloud resources including sandbox labs and example templates.
 
 ## More Resources📚
 
