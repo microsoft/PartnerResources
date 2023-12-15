@@ -1,7 +1,7 @@
 ---
 layout: page
-title: D365 Marketing Academy - Journeys
-description: D365 Marketing Academy - Journeys
+title: D365 Customer Insights - Journeys Academy - Journeys
+description: D365 Customer Insights - Journeys Academy - Journeys
 permalink: /skilling/d365-academy/d365-marketing-academy/journeys
 showbreadcrumb: true
 tags: 
@@ -10,6 +10,8 @@ tags:
 - journeys
 - dynamics
 - marketing
+- customer insights journeys
+- journeys
 ---
 
 # {{ page.title }}
