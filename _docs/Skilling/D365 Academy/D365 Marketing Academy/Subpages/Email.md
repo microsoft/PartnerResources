@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D365 Customer Insights - Journeys in a Day - Creating Emails
+title: D365 Customer Insights - Journeys - Creating Emails
 description: D365 Customer Insights - Journeys Academy - Email
 permalink: /skilling/d365-academy/d365-marketing-academy/email
 showbreadcrumb: true
