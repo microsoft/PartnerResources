@@ -26,13 +26,13 @@ Effectively, Azure Arc extends the Azure control plane to on-premises or multicl
 
 If you are a Microsoft services partner and you have not incorporated Azure Arc into your toolset then you are missing customer opportunity.
 
-**Reach out to your Microsoft partner team to learn more about how we have helped partners use Azure Arc as part of their cloud managed services, migration, and application development practices.**
+Reach out to your Microsoft partner team to learn more about how we have helped partners use Azure Arc as part of their cloud managed services, migration, and application development practices.
 
 
 ![Azure Platform with Azure Arc]({{ site.baseurl }}/assets/infrapics/AzureArcDiagram.png)
 
 
-In the **[Adaptive Cloud Academy](/PartnerResources/skilling/microsoft-infrastructure-academy/adaptive-cloud)** you can explore Microsoft Azure Arc and Azure Stack HCI video sessions with demos delivered directly to partners and access dedicated Adaptive Cloud resources including sandbox labs and example templates.
+In the **[Adaptive Cloud Academy](/PartnerResources/skilling/microsoft-infrastructure-academy/adaptive-cloud),** you can explore Microsoft Azure Arc and Azure Stack HCI video sessions with demos delivered directly to partners and access dedicated Adaptive Cloud resources including sandbox labs and example templates.
 
 ## More Resources📚
 

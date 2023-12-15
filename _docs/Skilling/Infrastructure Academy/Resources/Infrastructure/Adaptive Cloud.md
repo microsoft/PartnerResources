@@ -2,8 +2,8 @@
 layout: page
 title: Adaptive Cloud
 description: Resources for Adaptive Cloud
-updated: 2023-12-14
-permalink: /skilling/microsoft-infrastructure-academy/resources/azure-arc
+updated: 2023-12-15
+permalink: /skilling/microsoft-infrastructure-academy/resources/adaptive-cloud
 tags: 
 - academy content
 - infrastructure
