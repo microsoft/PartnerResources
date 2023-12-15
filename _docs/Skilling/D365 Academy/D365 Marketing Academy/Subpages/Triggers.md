@@ -1,7 +1,7 @@
 ---
 layout: page
-title: D365 Marketing Academy - Triggers
-description: D365 Marketing Academy - Triggers
+title: D365 Customer Insights - Journeys Academy - Triggers
+description: D365 Customer Insights - Journeys Academy - Triggers
 permalink: /skilling/d365-academy/d365-marketing-academy/triggers
 showbreadcrumb: true
 tags: 
@@ -10,6 +10,9 @@ tags:
 - triggers
 - dynamics
 - marketing
+- Customer Insights Journeys
+- journeys
+- 
 ---
 
 # {{ page.title }}
