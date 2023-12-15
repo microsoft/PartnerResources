@@ -1,7 +1,7 @@
 ---
 layout: page
-title: D365 Marketing in a Day - Working with Segments
-description: D365 Marketing Academy - Segments
+title: D365 Customer Insights - Journeys in a Day - Working with Segments
+description: D365 Customer Insights - Journeys Academy - Segments
 permalink: /skilling/d365-academy/d365-marketing-academy/segments
 showbreadcrumb: true
 tags: 
@@ -10,6 +10,8 @@ tags:
 - segments
 - dynamics
 - marketing
+- Customer Insights Journeys
+- journeys
 ---
 
 # {{ page.title }}
