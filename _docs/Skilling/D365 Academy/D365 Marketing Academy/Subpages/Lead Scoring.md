@@ -1,7 +1,7 @@
 ---
 layout: page
-title: D365 Marketing Academy - Lead Scoring
-description: D365 Marketing Academy - Lead Scoring
+title: D365 Customer Insights - Journeys Academy - Lead Scoring
+description: D365 Customer Insights - Journeys Academy - Lead Scoring
 permalink: /skilling/d365-academy/d365-marketing-academy/leadscoring
 showbreadcrumb: true
 tags: 
@@ -10,6 +10,7 @@ tags:
 - lead scores
 - dynamics
 - marketing
+- customer insights journeys
 ---
 
 # {{ page.title }}
