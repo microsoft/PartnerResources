@@ -24,7 +24,7 @@ Microsoft Azure offers many ways for customers to build, deploy, operate, and se
 
 **[Azure Arc](https://azure.microsoft.com/products/azure-arc) is at the core of enabling this [adaptive cloud](https://arcjumpstart.com/adaptive_cloud) approach to customer requirements.**
 
-Effectively, Azure Arc extends the Azure control plane to on-premises or multicloud customer infrastructure, allowing operators to manage, operate and secure their **[servers](https://learn.microsoft.com/azure/azure-arc/servers/overview)** and **[Kubernetes clusters](https://learn.microsoft.com/azure/azure-arc/kubernetes/overview)** all through tools like Azure portal and Azure PowerShell or Azure CLI. Azure management features like **[Azure Monitor](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/hybrid/arc-enabled-servers/eslz-management-and-monitoring-arc-server)**, **[Azure Policy](https://learn.microsoft.com/azure/azure-arc/servers/policy-reference)**, and **[Update Manager](https://learn.microsoft.com/azure/update-manager/overview?tabs=azure-vms)** are also available on-premises via Azure Arc.
+Effectively, Azure Arc extends the Azure control plane to on-premises or multicloud customer infrastructure, allowing operators to manage, operate and secure their [servers](https://learn.microsoft.com/azure/azure-arc/servers/overview) and [Kubernetes clusters](https://learn.microsoft.com/azure/azure-arc/kubernetes/overview) all through tools like Azure portal and Azure PowerShell or Azure CLI. Azure management features like [Azure Monitor](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/hybrid/arc-enabled-servers/eslz-management-and-monitoring-arc-server), [Azure Policy](https://learn.microsoft.com/azure/azure-arc/servers/policy-reference), and [Update Manager](https://learn.microsoft.com/azure/update-manager/overview?tabs=azure-vms) are also available on-premises via Azure Arc.
 
 If you are a Microsoft services partner and you have not incorporated Azure Arc into your toolset then you are missing customer opportunity.
 
@@ -33,8 +33,6 @@ Reach out to your Microsoft partner team to learn more about how we have helped 
 
 ![Azure Platform with Azure Arc]({{ site.baseurl }}/assets/infrapics/AzureArcDiagram.png)
 
-
-In the [Adaptive Cloud Academy](/PartnerResources/skilling/microsoft-infrastructure-academy/adaptive-cloud),** you can explore Microsoft Azure Arc and Azure Stack HCI video sessions with demos delivered directly to partners and access dedicated Adaptive Cloud resources including sandbox labs and example templates.
 
 ## More Resources📚
 
