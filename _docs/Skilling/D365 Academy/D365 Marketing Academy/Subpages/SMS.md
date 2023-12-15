@@ -1,7 +1,7 @@
 ---
 layout: page
-title: D365 Marketing Academy - SMS
-description: D365 Marketing Academy - Text Messages
+title: D365 Customer Insights - Journeys Academy - SMS
+description: D365 Customer Insights - Journeys Academy - Text Messages
 permalink: /skilling/d365-academy/d365-marketing-academy/sms
 showbreadcrumb: true
 tags: 
@@ -10,11 +10,13 @@ tags:
 - sms
 - dynamics
 - marketing
+- Customer Insights Journeys
+- journeys
 ---
 
 # {{ page.title }}
 
-Text messages (SMS) allow marketers to reach customers directly on their mobile devices. Marketers can send text messages from real-time marketing by generating a phone number to use within the app. 
+Text messages (SMS) allow marketers to reach customers directly on their mobile devices. Marketers can send text messages from Customer Insights - Journeys by generating a phone number to use within the app. 
 
 {% include series.md 
     includetags="d365 marketing academy|academy content|sms" 
