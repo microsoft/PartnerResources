@@ -230,7 +230,7 @@
                   url: "/skilling/microsoft-infrastructure-academy/avs"
                   tag: IA
                 - title: Azure Arc
-                  url: "/skilling/microsoft-infrastructure-academy/azure-arc"
+                  url: "/skilling/microsoft-infrastructure-academy/adaptive-cloud"
                   tag: IA
                 - title: Azure Virtual Desktop
                   url: "/skilling/microsoft-infrastructure-academy/avd"
