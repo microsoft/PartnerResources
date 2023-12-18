@@ -10,8 +10,6 @@ tags:
 - journeys
 - dynamics
 - marketing
-- customer insights journeys
-- journeys
 ---
 
 # {{ page.title }}
