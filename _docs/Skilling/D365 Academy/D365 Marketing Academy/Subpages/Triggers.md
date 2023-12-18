@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Customer Insights — Journeys —  Triggers
-description: Customer Insights — Journeys — Triggers
-permalink: /skilling/d365-academy/d365-ci-journeys/triggers
+title: D365 Marketing Academy - Triggers
+description: D365 Marketing Academy - Triggers
+permalink: /skilling/d365-academy/d365-marketing-academy/triggers
 showbreadcrumb: true
 tags: 
 - customer insights
@@ -10,6 +10,9 @@ tags:
 - triggers
 - dynamics
 - marketing
+- Customer Insights Journeys
+- journeys
+- 
 ---
 
 # {{ page.title }}

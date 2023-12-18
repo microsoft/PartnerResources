@@ -2,10 +2,10 @@
 layout: page
 title: Customer Insights — Optimizing Your Trial Environment
 sorttitle: 01 Customer Insights — Getting Started
-description: This video, <strong>Optimizing Your Trial</strong>, provides partners with guidance on how to configure and optimize demo enviornnments.
-updated: 2023-01-31
+description: This video, <strong>Optimizing Your Trial</strong>, provides Dynamics 365 partners with guidance on how to configure and optimize demo enviornnments when getting started with Customer Insights - Journeys.
+updated: 2023-12-17
 permalink: /skilling/d365-academy/d365-ci-journeys/optimizetrial/getting-started
-youtubeid: MqWTl96GVgM
+youtubeid: l-G7_StOe64
 tags: 
 - d365 academy
 - customer insights

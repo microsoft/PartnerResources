@@ -10,6 +10,8 @@ tags:
 - push notifications
 - dynamics
 - marketing
+- customer insights journeys
+- journeys
 ---
 
 # {{ page.title }}
@@ -18,7 +20,7 @@ Push notifications are messages sent to customers who have installed your mobile
 
 {% include series.md 
     includetags="customer insights|academy content|push notifications" 
-    includemethod="all" sortfield="sorttitle" sortorder="asc" 
+    includemethod="all" sortfield="sorttitle" sortorder="asc"
     showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
 %}

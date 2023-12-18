@@ -10,6 +10,7 @@ tags:
 - lead scores
 - dynamics
 - marketing
+- customer insights journeys
 ---
 
 # {{ page.title }}

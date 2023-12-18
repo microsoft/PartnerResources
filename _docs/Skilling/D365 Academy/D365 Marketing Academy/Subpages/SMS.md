@@ -10,6 +10,8 @@ tags:
 - sms
 - dynamics
 - marketing
+- Customer Insights Journeys
+- journeys
 ---
 
 # {{ page.title }}
