@@ -1,7 +1,7 @@
 ---
 layout: page
-title: D365 Customer Insights - Journeys - Optimize Trial
-description: D365 Customer Insights - Journeys - Optimize Trial
+title: D365 Customer Insights - Journeys, Optimize your Trial
+description: D365 Customer Insights - Journeys - Optimize your Trial
 permalink: /skilling/d365-academy/d365-marketing-academy/optimizetrial
 showbreadcrumb: true
 tags: 
