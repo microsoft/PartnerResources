@@ -10,9 +10,6 @@ tags:
 - triggers
 - dynamics
 - marketing
-- Customer Insights Journeys
-- journeys
-- 
 ---
 
 # {{ page.title }}

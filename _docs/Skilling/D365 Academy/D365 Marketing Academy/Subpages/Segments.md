@@ -10,8 +10,6 @@ tags:
 - segments
 - dynamics
 - marketing
-- Customer Insights Journeys
-- journeys
 ---
 
 # {{ page.title }}

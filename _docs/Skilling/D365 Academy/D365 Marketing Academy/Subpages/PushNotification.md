@@ -10,8 +10,6 @@ tags:
 - push notifications
 - dynamics
 - marketing
-- customer insights journeys
-- journeys
 ---
 
 # {{ page.title }}
