@@ -1,14 +1,14 @@
 ---
 layout: page
-title: D365 Marketing in a Day - Optimizing Your Trial Environment
-sorttitle: 01 D365 Marketing - Getting Started
-description: This video, <strong>Optimizing Your Trial</strong>, provides Dynamics 365 partners with guidance on how to configure and optimize demo enviornnments when getting started with D365 Marketing.
+title: Customer Insights — Optimizing Your Trial Environment
+sorttitle: 01 Customer Insights — Getting Started
+description: This video, <strong>Optimizing Your Trial</strong>, provides partners with guidance on how to configure and optimize demo enviornnments.
 updated: 2023-01-31
-permalink: /skilling/d365-academy/d365-marketing-academy/optimizetrial/getting-started
+permalink: /skilling/d365-academy/d365-ci-journeys/optimizetrial/getting-started
 youtubeid: MqWTl96GVgM
 tags: 
 - d365 academy
-- d365 marketing academy
+- customer insights
 - academy content
 - getting started
 - dynamics

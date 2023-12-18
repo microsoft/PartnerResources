@@ -2,8 +2,8 @@
 
 # {{ page.title }}
 
-Welcome to the **Dynamics 365 Marketing Presales Academy.**
+Welcome to **Customer Insights — Journeys.**
 
-The **Dynamics 365 Marketing Presales Academy** is an on-demand version based on the in-person, Dynamics 365 Marketing in a Day workshop. 
+**Customer Insights — Journeys** is an on-demand version based on the in-person, Customer Insights — Journeys in a Day workshop. 
 
-The series of videos is designed as a "follow the trainer" with your demo environment. The hands-on workshop is geared towards Presales consultants responsible for understanding Dynamics 365 Marketing. Attendees will leave with expertise on how to create, connect and explore an optimized demo environment for new prospective customer scenarios by reviewing the essential Dynamics 365 Marketing foundational topics including Segments, Channels (email, text and push notifications), Triggers, Journeys, Forms, Analytics and Lead Scoring.
+This series of videos is designed as a "follow the trainer" with your demo environment. The hands-on workshop is geared towards Presales consultants responsible for understanding Customer Insights — Journey. Attendees will leave with expertise on how to create, connect and explore an optimized demo environment for new prospective customer scenarios by reviewing the essential foundational topics including segments, channels (email, text and push notifications), triggers, journeys, forms, analytics and lead scoring.

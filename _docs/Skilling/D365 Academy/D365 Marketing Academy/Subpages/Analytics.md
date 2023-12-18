@@ -1,21 +1,21 @@
 ---
 layout: page
-title: D365 Marketing Academy - Analytics
-description: D365 Marketing Academy - Analytics
-permalink: /skilling/d365-academy/d365-marketing-academy/analytics
+title: Customer Insights — Journeys — Analytics
+description: Customer Insights — Journeys — Analytics
+permalink: /skilling/d365-academy/d365-ci-journeys/analytics
 showbreadcrumb: true
 ---
 
 # {{ page.title }}
 
-D365 Marketing Academy - Analytics
+Customer Insights — Journeys — Analytics
 
  {% include series.md 
-    includetags="d365 marketing academy" includemethod="all" 
+    includetags="customer insights" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
 %}
 
 ### Supporting Resources for these videos
 
-D365 Marketing Academy - Analytics
+Customer Insights — Journeys — Analytics

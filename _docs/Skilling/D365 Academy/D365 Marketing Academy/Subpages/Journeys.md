@@ -1,11 +1,11 @@
 ---
 layout: page
-title: D365 Marketing Academy - Journeys
-description: D365 Marketing Academy - Journeys
-permalink: /skilling/d365-academy/d365-marketing-academy/journeys
+title: Customer Insights — Journeys
+description: : Customer Insights — Journeys
+permalink: /skilling/d365-academy/d365-ci-journeys/journeys
 showbreadcrumb: true
 tags: 
-- d365 marketing academy
+- customer insights
 - academy page
 - journeys
 - dynamics
@@ -14,12 +14,12 @@ tags:
 
 # {{ page.title }}
 
-Journeys can be triggered based on real-world interactions. Trigger-based customer journeys enable marketers to react to customers’ actions in real time. Whereas Segment-based journeys are used to create outbound journeys like sending out announcements or a nurture campaign. 
+Journeys can be triggered based on real-world interactions. Trigger-based customer journeys enable Marketers to react to customers’ actions in real-time. Whereas Segment-based journeys are used to create outbound journeys like sending out announcements or a nurture campaign.
 
 The real-time nature of the journey ensures that Marketers can respond to customers immediately and convert their expression of interest into a sale.
  
  {% include series.md 
-    includetags="d365 marketing academy|academy content|journeys" includemethod="all" 
+    includetags="customer insights|academy content|journeys" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
 %}
