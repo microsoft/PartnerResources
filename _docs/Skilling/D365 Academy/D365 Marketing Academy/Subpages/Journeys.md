@@ -2,7 +2,7 @@
 layout: page
 title: Customer Insights — Journeys
 description: : Customer Insights — Journeys
-permalink: skilling/d365-academy/d365-ci-journeys/journey
+permalink: /skilling/d365-academy/d365-ci-journeys/journeys
 showbreadcrumb: true
 tags: 
 - customer insights
