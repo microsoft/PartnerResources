@@ -176,34 +176,34 @@
           children:
             - title: Create Trial
               url: "skilling/d365-academy/d365-marketing-academy/create-trial"
-              tag: d365 marketing academy createtrial
+              tag: customer insights
             - title: Optimize Trial
               url: "skilling/d365-academy/d365-marketing-academy/optimizetrial"
-              tag: d365 marketing academy optimizetrial
+              tag: customer insights
             - title: Segments
               url: "skilling/d365-academy/d365-marketing-academy/segments"
-              tag: d365 marketing academy segments
+              tag: customer insights
             - title: E-mail
               url: "skilling/d365-academy/d365-marketing-academy/email"
-              tag: d365 marketing academy email
+              tag: customer insights
             - title: SMS
               url: "skilling/d365-academy/d365-marketing-academy/sms"
-              tag: d365 marketing academy sms
+              tag: customer insights
             - title: Push Notification
               url: "skilling/d365-academy/d365-marketing-academy/pushnotification"
-              tag: d365 marketing academy push
+              tag: customer insights
             - title: Forms
               url: "skilling/d365-academy/d365-marketing-academy/forms"
-              tag: d365 marketing academy forms
+              tag: customer insights
             - title: Triggers
               url: "skilling/d365-academy/d365-marketing-academy/triggers"
-              tag: d365 marketing academy triggers
+              tag: customer insights
             - title: Journeys
               url: "skilling/d365-academy/d365-marketing-academy/journeys"
-              tag: d365 marketing academy journeys
+              tag: customer insights
             - title: Lead Scoring
               url: "skilling/d365-academy/d365-marketing-academy/leadscoring"
-              tag: d365 marketing academy leadscoring
+              tag: customer insights
         - title: "Sales Academy"
           url: "skilling/d365-academy/d365-sales-academy"
           tag: d365 sales academy

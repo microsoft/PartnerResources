@@ -1,8 +1,8 @@
 ---
 layout: page
-title: D365 Marketing Academy - Triggers
-description: D365 Marketing Academy - Triggers
-permalink: /skilling/d365-academy/d365-marketing-academy/triggers
+title: Customer Insights — Triggers
+description: Customer Insights — Triggers
+permalink: /skilling/d365-academy/d365-ci-journeys/triggers
 showbreadcrumb: true
 tags: 
 - customer insights
