@@ -1,7 +1,7 @@
 ---
 layout: page
-title: D365 Marketing Academy
-description: D365 Marketing Academy
+title: Customer Insights — Journeys
+description: Customer Insights — Journeys
 permalink: /skilling/d365-academy/d365-ci-journeys
 updated: 2023-12-18
 redirect_from:
