@@ -17,6 +17,6 @@ tags:
 
 {{ page.description }}
 
-* [PDF of PowerPoint Deck]({{ site.baseurl }}/assets/msa/Sentinel-Aug2023-Shared 2.pdf)
+* [PowerPoint Deck]({{ site.baseurl }}/assets/msa/Sentinel-Aug2023-Shared 2.pdf)
 
 {% include youtubethumb.md showlink="true" %}

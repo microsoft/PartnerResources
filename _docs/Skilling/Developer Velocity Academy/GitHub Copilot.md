@@ -3,7 +3,7 @@ layout: page
 title: Developer Velocity Academy — GitHub Copilot
 description: Developer Velocity Academy — GitHub Copilot
 permalink: /skilling/developer-velocity-academy/github-copilot
-updated: 2023-10-02
+updated: 2023-12-19
 showbreadcrumb: true
 navheadersonly: true
 tags:
@@ -29,7 +29,7 @@ Welcome to the **Developer Velocity Academy — GitHub Copilot.**
 
 ## GitHub Copilot Trust Center
 
-When discussing GitHub Copilot, questions about privacy and security often arise as primary concerns. The [GitHub Copilot Trust Center](https://resources.github.com/copilot-trust-center/) is dedicated to addressing these concerns, offering a comprehensive guide that covers key considerations and frequent inquiries about using and integrating GitHub Copilot. It delivers vital information on privacy, security, intellectual property, and the product's terms and conditions, ensuring users are well-informed about these critical aspects.
+When discussing GitHub Copilot, questions about privacy and security often arise as primary concerns. The **[GitHub Copilot Trust Center](https://resources.github.com/copilot-trust-center/)** is dedicated to addressing these concerns, offering a comprehensive guide that covers key considerations and frequent inquiries about using and integrating GitHub Copilot. It delivers vital information on privacy, security, intellectual property, and the product's terms and conditions, ensuring users are well-informed about these critical aspects.
 
 ## Useful Links
 
@@ -37,7 +37,7 @@ When discussing GitHub Copilot, questions about privacy and security often arise
 * [GitHub Copilot FAQ](https://github.com/features/copilot#faq)
 * [Microsoft Learn Module for GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/)
 * [Simplified Code Refinement and Debugging with GitHub Copilot Chat](https://devblogs.microsoft.com/visualstudio/simplified-code-refinement-and-debugging-with-github-copilot-chat/)
-* [GitHub Copilot - Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
+* [GitHub Copilot — Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 * [GitHub Copilot documentation](https://docs.github.com/copilot)
 
 {% include series.md 

@@ -17,6 +17,6 @@ tags:
 
 {{ page.description }}
 
-* [Download Accompanying PowerPoint Presentation](https://1drv.ms/u/s!Fl_kL1U59rx8cEp4TnRyOGYxUm9zJAw?e=rRihTM)
+* [PowerPoint Deck](https://1drv.ms/u/s!Fl_kL1U59rx8cEp4TnRyOGYxUm9zJAw?e=rRihTM)
 
 {% include youtubethumb.md showlink="true" %}
