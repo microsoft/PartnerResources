@@ -95,11 +95,11 @@ We are not currently offering fully-hosted lab environments for AI & ML Academy,
 
 ## Prepare for AI-Related Specializations
 
-# Specialization Program Guides
+### Specialization Program Guides
 * [Specialization: AI & Machine Learning in Microsoft Azure](https://partner.microsoft.com/en-us/partnership/specialization/ai-and-machine-learning)
 * [Specialization: Build and Modernize AI Apps with Microsoft Azure](https://partner.microsoft.com/en-us/partnership/specialization/build-and-modernize-ai-apps)
 
-# Preparation Guidance
+### Preparation Guidance
 * [AI and Machine Learning in Microsoft Azure Specialization-Partner Prep-FY24Q2]({{ site.baseurl }}/assets/misc/AI and Machine Learning in Microsoft Azure Specialization-Partner Prep-FY24Q2.pdf)
 * [Build and Modernize AI Apps with Microsoft Azure Specialization-Partner Prep-FY24Q2]({{ site.baseurl }}/assets/misc/Build and Modernize AI Apps with Microsoft Azure Specialization-Partner Prep-FY24Q2.pdf)
 
