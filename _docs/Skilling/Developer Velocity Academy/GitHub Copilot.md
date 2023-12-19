@@ -15,8 +15,6 @@ tags:
 
 # Developer Velocity Academy — GitHub Copilot
 
-> More coming soon! This page is under development. Please check regularly for updates.
-
 Welcome to the **Developer Velocity Academy — GitHub Copilot.**
 
 {% include_relative pagenav.md %}
