@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Customer Insights — Journeys
-description: : Customer Insights — Journeys
-permalink: /skilling/d365-academy/d365-ci-journeys/deepdive
+title: D365 Customer Insights — Journeys
+description: D365 Customer Insights — Journeys
+permalink: /skilling/d365-academy/d365-ci-journeys/journeys
 showbreadcrumb: true
 tags: 
 - customer insights

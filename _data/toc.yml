@@ -199,7 +199,7 @@
               url: "skilling/d365-academy/d365-ci-journeys/triggers"
               tag: customer insights
             - title: Journeys
-              url: "skilling/d365-academy/d365-ci-journeys/deepdive"
+              url: "skilling/d365-academy/d365-ci-journeys/journeys"
               tag: customer insights
             - title: Lead Scoring
               url: "skilling/d365-academy/d365-ci-journeys/leadscoring"
