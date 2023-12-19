@@ -22,21 +22,19 @@ tags:
 ## Azure Core Services for HPC  
 * [Azure Batch](https://azure.microsoft.com/en-us/products/batch/)
 * [**MS Docs:** Azure CycleCloud](https://docs.microsoft.com/en-us/azure/cyclecloud/?view=cyclecloud-8)
-* [**MS Docs:** HPC VMs in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-hpc)
-* [**MS Docs:** GPU Optimized VMs in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-gpu)
-* [**MS Docs:** High-performance computing on InfiniBand enabled H-series and N-series VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/hpc/overview)
+* [**MS Docs:** HPC VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-hpc)
+* [**MS Docs:** GPU Optimized VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-gpu)
+* [**MS Docs:** HPC on InfiniBand enabled H-series and N-series VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/hpc/overview)
 * [**MS Docs:** What is Azure ExpressRoute?](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction)
-* **NEW:** [Azure Storage solutions: High-performance computing (HPC), Machine Learning, and AI workloads](https://www.youtube.com/watch?v=nX1su3Ea6Bs)
 
 ## HPC on Azure Learning Path
-* [Introduction to high-performance computing (HPC) on Azure](https://docs.microsoft.com/en-us/training/modules/intro-to-hpc/)
-* [Run high-performance computing (HPC) Apps on Azure](https://docs.microsoft.com/en-us/training/paths/run-high-performance-computing-applications-azure/)
-* [Optimizing HPC applications on HBv2, HC, and HB series VMs](https://docs.microsoft.com/en-us/training/modules/optimize-tightly-coupled-hpc-apps/)
-* [HPC storage selection in Azure](https://docs.microsoft.com/en-us/training/modules/hpc-storage-considerations/)
+* [Introduction to HPC on Azure](https://docs.microsoft.com/en-us/training/modules/intro-to-hpc/)
+* [Run HPC Apps on Azure](https://docs.microsoft.com/en-us/training/paths/run-high-performance-computing-applications-azure/)
+* [Optimizing HPC Apps on HBv2, HC, and HB series VMs](https://docs.microsoft.com/en-us/training/modules/optimize-tightly-coupled-hpc-apps/)
+* [HPC Storage Selection in Azure](https://docs.microsoft.com/en-us/training/modules/hpc-storage-considerations/)
 * [Creating an Azure Batch](https://docs.microsoft.com/en-us/training/modules/create-batch-account-using-azure-portal/)
 * [Create, customize, and manage an HPC cluster in Azure with Azure CycleCloud](https://docs.microsoft.com/en-us/training/modules/azure-cyclecloud-high-performance-computing/)
-* [Improve Azure NetApp Files performance for your EDA and HPC Apps](https://docs.microsoft.com/en-us/training/modules/improve-azure-netapp-files-performance-hpc-eda-best-practices/)
+* [Improve Azure NetApp Files for EDA and HPC Apps](https://docs.microsoft.com/en-us/training/modules/improve-azure-netapp-files-performance-hpc-eda-best-practices/)
 
 ## Community/Blog
-* [Microsoft Azure’s 1st Azure HPC + AI Day](https://azure.microsoft.com/en-us/blog/microsoft-azure-s-first-azure-hpc-ai-day/)
 * [**GitHub:** GitHub Automation for HPC on Azure](https://github.com/Azure/azurehpc)
