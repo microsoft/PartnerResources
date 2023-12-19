@@ -17,15 +17,15 @@ tags:
 - prebuilt ai
 ---
 
-# AI & ML Academy - Prebuilt AI
+# AI & ML Academy - Customizable AI Models
 
-Welcome to the AI & ML Academy (AIA) - Prebuilt AI!
+Welcome to the AI & ML Academy (AIA) - Customizable AI Models!
 
-In this section we will go through an overview of the AI Cognitive Services pillars and what services reside within each of them. There is also a level of customization that can be achieved in each of these pillars through services like Custom Vision and Custom Speech that we will introduce.  Finally, we provide some best practices for each of these services.
+In this section we will go through an overview of the AI Customizable AI Models and what services reside within each of them. There is also a level of customization that can be achieved in each of these pillars through services like Custom Vision and Custom Speech that we will introduce.  Finally, we provide some best practices for each of these services.
 
-## AI Cognitive Services
+## AI Services
 
-Azure Cognitive Services are cloud-based artificial intelligence (AI) services that help you build cognitive intelligence into your applications. They are available as REST APIs, client library SDKs, and user interfaces. You can add cognitive features to your applications without having AI or data science skills. Cognitive Services enable you to build cognitive solutions that can see, hear, speak, understand, and even make decisions.
+Azure AI Services are cloud-based artificial intelligence (AI) services that help you build cognitive intelligence into your applications. They are available as REST APIs, client library SDKs, and user interfaces. You can add cognitive features to your applications without having AI or data science skills. These AI services enable you to build cognitive solutions that can see, hear, speak, understand, and even make decisions.
 
 <!--
 ```html
@@ -60,7 +60,7 @@ Azure Cognitive Services are cloud-based artificial intelligence (AI) services t
 -->
 ### Vision 
 
-Cognitive Services features (1) the ability to leverage off-the-shelf APIs pretrained to tag and analyze your images and video, and (2) customizable models that allow you to train models using your own data.  
+AI Services features (1) the ability to leverage off-the-shelf APIs pretrained to tag and analyze your images and video, and (2) customizable models that allow you to train models using your own data.  
 
 **Computer Vision**
 
