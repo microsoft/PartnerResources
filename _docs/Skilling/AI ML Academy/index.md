@@ -93,6 +93,16 @@ Generative AI, including GPT, Codex, DALL-E, and Chat GPT
 
 We are not currently offering fully-hosted lab environments for AI & ML Academy, but this may change in the future as we expand the content. In the meantime, you can still run the labs in your own Azure subscription. These labs are listed below:
 
+## Prepare for AI-Related Specializations
+
+# Specialization Program Guides
+* [Specialization: AI & Machine Learning in Microsoft Azure](https://partner.microsoft.com/en-us/partnership/specialization/ai-and-machine-learning)
+* [Specialization: Build and Modernize AI Apps with Microsoft Azure](https://partner.microsoft.com/en-us/partnership/specialization/build-and-modernize-ai-apps)
+
+# Preparation Guidance
+* [AI and Machine Learning in Microsoft Azure Specialization-Partner Prep-FY24Q2]({{ site.baseurl }}/assets/misc/AI and Machine Learning in Microsoft Azure Specialization-Partner Prep-FY24Q2.pdf)
+* [Build and Modernize AI Apps with Microsoft Azure Specialization-Partner Prep-FY24Q2]({{ site.baseurl }}/assets/misc/Build and Modernize AI Apps with Microsoft Azure Specialization-Partner Prep-FY24Q2.pdf)
+
 ## Contributions
 
 We welcome contributors to this project. Please use the GitHub links near the upper right and consider submitting pull requests or filing issues as needed. Curious how to contribute? See our [Contribution Cheat Sheet]({{ site.baseurl }}/assets/msa/TODO Contribution Cheat Sheet.pdf).
