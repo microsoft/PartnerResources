@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Azure Infrastructure Academy
 description: Microsoft Azure Infrastructure Academy
-updated: 2023-12-15
+updated: 2023-12-19
 permalink: /skilling/microsoft-infrastructure-academy
 redirect_from:
   - /skilling/microsoft-infrastructure-academy/
