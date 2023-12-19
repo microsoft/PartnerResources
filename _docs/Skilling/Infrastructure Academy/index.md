@@ -10,7 +10,7 @@ showbreadcrumb: true
 ---
 {% include_relative header.md %}
 
-> More coming this December! The Azure Infrastructure Academy launched Nov. 2023 and is undergoing development.
+> More coming this January! The Azure Infrastructure Academy launched Nov. 2023 and is undergoing development.
 
 #### Welcome to the Microsoft Azure Infrastructure Academy, your gateway to managing and optimizing your cloud infrastructure. 📎
 
