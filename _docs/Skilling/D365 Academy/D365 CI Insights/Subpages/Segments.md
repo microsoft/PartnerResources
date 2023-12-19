@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Customer Insights — Journeys — Working with Segments
+title: D365 Customer Insights - Journeys, Working with Segments
 description: Customer Insights — Journeys — Segments
 permalink: /skilling/d365-academy/d365-ci-journeys/segments
 showbreadcrumb: true
@@ -15,6 +15,12 @@ tags:
 # {{ page.title }}
 
 Targeting the right audience is an essential task for Marketers. Watch this video titled **Working with Segments** to build segments and leverage a powerful, easy-to-use logic builder that does not require specialized knowledge of complex data structures and logical operators.
+
+This video titled **Working with Segments** shows you how to use Segments in Customer Insights – Journeys.
+
+Segments help marketers reach the right audience for their marketing campaigns. You can create segments with a simple and powerful logic builder that works with any data structure and operator, without needing any special skills.
+
+And, with Copilot feature enabled, you create segments faster and easier. You type the segment criteria and Copilot will suggest the best logic for you. For example, if you want to create a segment of customers who have purchased more than $1000 worth of products in the last 30 days, you can type that into the Segment builder.
 
 {% include series.md 
     includetags="customer insights|academy content|segments"
