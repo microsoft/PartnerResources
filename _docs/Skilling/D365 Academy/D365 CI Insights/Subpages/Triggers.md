@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Customer Insights — Triggers
+title: Customer Insights — Journeys — Triggers
 description: Customer Insights — Triggers
 permalink: /skilling/d365-academy/d365-ci-journeys/triggers
 showbreadcrumb: true

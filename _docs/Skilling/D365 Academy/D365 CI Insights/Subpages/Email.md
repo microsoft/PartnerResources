@@ -1,7 +1,7 @@
 ---
 layout: page
-title: D365 Customer Insights - Journeys, Optimize your Trial
-description: D365 Customer Insights - Journeys - Optimize your Trial
+title: Customer Insights — Journeys — Email
+description: Customer Insights — Journeys — Email
 permalink: /skilling/d365-academy/d365-ci-journeys/email
 showbreadcrumb: true
 tags: 
@@ -10,8 +10,6 @@ tags:
 - email
 - dynamics
 - marketing
-- customer insights - journeys
-- journeys
 ---
 
 # {{ page.title }}

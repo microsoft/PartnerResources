@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D365 Customer Insights - Journeys, Working with Segments
+title: Customer Insights — Journeys — Segments
 description: Customer Insights — Journeys — Segments
 permalink: /skilling/d365-academy/d365-ci-journeys/segments
 showbreadcrumb: true
