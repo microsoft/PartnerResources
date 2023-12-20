@@ -45,9 +45,14 @@ Our [ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes) cont
 
 ## Events
 
-- [Microsoft Build](https://build.microsoft.com/) (developer conference) - May 23-24. Join live or watch recordings on-demand! See [Microsoft Build 2023 Recommended AI Session Guide]({{ site.baseurl }}/assets/aiml/Microsoft Build 2023 Recommended AI Session Guide.pdf)
-- Microsoft Build Recap: Insights and Learnings for Analytics and AI - June 7 - [Registration page](https://msuspartners.eventbuilder.com/event/73358)
+- [Microsoft Build](https://build.microsoft.com/) (developer conference) - May 23-24, 2023. Join live or watch recordings on-demand! See [Microsoft Build 2023 Recommended AI Session Guide]({{ site.baseurl }}/assets/aiml/Microsoft Build 2023 Recommended AI Session Guide.pdf)
+- Microsoft Build Recap: Insights and Learnings for Analytics and AI - June 7 2023 - [Registration page](https://msuspartners.eventbuilder.com/event/73358)
+- [Microsoft Ignite Nov 14-17, 2023](https://ignite.microsoft.com/en-US/home)
 - AI Readiness events: [AI & ML Partner Prep](https://aka.ms/AIMLPartnerPrep)
+
+Upcoming: 
+- [Microsoft Data & AI Conference March 26-28, 2024](https://msdataaiconf.com/#!/)
+
 
 ## Table of Contents
 
