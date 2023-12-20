@@ -14,7 +14,7 @@ Tags:
 ## Microsoft AI Infrastructure Academy
 Welcome to the Microsoft AI Infrastructure (HPC) Academy. Explore HPC video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
-#### Stay connected with the [Azure Infrastructure Blog](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog).📖
+#### Stay connected with the [Azure Infrastructure Blog](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog).
 
 ### Get Started with Azure Infrastructure
 
