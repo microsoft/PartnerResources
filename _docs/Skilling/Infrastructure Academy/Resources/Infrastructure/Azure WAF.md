@@ -37,7 +37,7 @@ It provides a set of best practices and guidelines for designing and operating r
 ## Training 
 * [Introduction to the Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-introduction/)
 * [Build great solutions with the Microsoft Well-Architected Framework](https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/)
-* [Architect successful workloads on Azure | Well-Architected Framework](https://youtu.be/UpQHmWxkVEU)
+* [Architect successful workloads on Azure with the Well-Architected Framework](https://youtu.be/UpQHmWxkVEU)
 * [Well-Architected mission-critical workloads on Azure](https://youtu.be/vLY48KCktII)
 
 ## Well-Architected Assessements 
