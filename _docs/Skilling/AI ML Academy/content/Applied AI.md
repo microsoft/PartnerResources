@@ -26,31 +26,31 @@ In this module, we’ll look at Applied AI services, including Form Recognizer, 
 ## Applied AI
 
 
-### Form Recognizer 
+### Document Intelligence
 
-Form Recognizer is an AI service that applies advanced machine learning to extract text, key-value pairs, tables, and structures from documents automatically and accurately. Turn documents into usable data and shift your focus to acting on information rather than compiling it.
+Document Intelligence, formerly known as Form Recognizer, is an AI service that applies advanced machine learning to extract text, key-value pairs, tables, and structures from documents automatically and accurately. Turn documents into usable data and shift your focus to acting on information rather than compiling it.
 
 Conceptual 
 
-* [The AI Show - Ep 52: Analyze unstructured docs and more with Azure Form Recognizer](https://www.youtube.com/watch?v=86cZgYJdRGc) - This is a great resource to understand Form Recognizer capabilites and updates.
-* [Applied AI Blog](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/bg-p/AppliedAIBlog/label-name/Form%20Recognizer) - A place to ask any questions you have about Form Recognizer as you work on your solutions.
+* [The AI Show - Ep 52: Analyze unstructured docs and more with Azure Document Intelligence](https://www.youtube.com/watch?v=86cZgYJdRGc) - This is a great resource to understand Document Intelligence capabilites and updates.
+* [Applied AI Blog](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/bg-p/AppliedAIBlog/label-name/Form%20Recognizer) - A place to ask any questions you have about Document Intelligence as you work on your solutions.
 
 Updates 
 
-* [Build Recap: The Newest Features from Azure Form Recognizer](https://www.youtube.com/watch?v=o1dEJMoFeus) - A great place to see the new features for Azure Form Recognizer
+* [Build Recap: The Newest Features from Azure Document Intelligence](https://www.youtube.com/watch?v=o1dEJMoFeus) - A great place to see the new features for Azure Document Intelligence
 
-### Cognitive Search 
+### AI Search 
 
-Azure Cognitive Search is a cloud search service with built-in AI capabilities that enrich all types of information to help you identify and explore relevant content at scale. Use cognitive skills for vision, language, and speech, or use custom machine learning models to uncover insights from all types of content.
+AI Search, formerly known as, Azure Cognitive Search is a cloud search service with built-in AI capabilities that enrich all types of information to help you identify and explore relevant content at scale. Use cognitive skills for vision, language, and speech, or use custom machine learning models to uncover insights from all types of content.
 
 Conceptual 
 
-* [Knowledge Mining Solution Accelerator](https://docs.microsoft.com/en-us/samples/azure-samples/azure-search-knowledge-mining/azure-search-knowledge-mining/) - A tool to get hands-on and build a knowledge mining prototype with azure cognitive search.
-* [Implement knowledge mining with Azure Cognitive Search](https://docs.microsoft.com/en-us/learn/paths/implement-knowledge-mining-azure-cognitive-search/) - This is a good learning path to understand knowledge mining with azure cognitive search
-* [Indexing multiple Azure Blob Storage containers in Azure Cognitive Search](https://github.com/ruoccofabrizio/azure-cognitive-search-multiple-containers-indexer) - This is a good hands-on lab to understand how to index multiple blob storage containers in Azure Cog Search.
+* [Knowledge Mining Solution Accelerator](https://docs.microsoft.com/en-us/samples/azure-samples/azure-search-knowledge-mining/azure-search-knowledge-mining/) - A tool to get hands-on and build a knowledge mining prototype with azure AI search.
+* [Implement knowledge mining with Azure AI Search](https://docs.microsoft.com/en-us/learn/paths/implement-knowledge-mining-azure-cognitive-search/) - This is a good learning path to understand knowledge mining with azure AI search
+* [Indexing multiple Azure Blob Storage containers in Azure AI Search](https://github.com/ruoccofabrizio/azure-cognitive-search-multiple-containers-indexer) - This is a good hands-on lab to understand how to index multiple blob storage containers in Azure AI Search.
 * [Search over multiple search services](https://github.com/Azure-Samples/azure-search-dotnet-samples/tree/main/multiple-search-services) - This shows how to combine Search Results and Relevance Scores from different indexes 
 * [ServerlessIndexer](https://github.com/aditmer/Event-Driven-Indexing-For-Cognitive-Search) - Another great hands on tool for a trigger indexer with Push API solution 
-* [Azure Cognitive Search UI](https://github.com/dereklegenzoff/azure-search-react-template) - Hands-On React template for Azure Cognitive Search
+* [Azure AI Search UI](https://github.com/dereklegenzoff/azure-search-react-template) - Hands-On React template for Azure AI Search
 * [Business Process Accelerator](https://github.com/Azure/business-process-automation) - No code solution for creating a multi-stage AI pipeline
 
 ### Metrics Advisor
