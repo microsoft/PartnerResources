@@ -7,10 +7,7 @@ permalink: /skilling/ai-ml-academy/vignettes/openai-technical-briefing
 updated: 2023-02-28
 showbreadcrumb: true
 youtubeid: lHw1tZhXlEo
-tags: 
-- ai & ml academy
-- academy content
-- vignettes
+tags:
 - data, analytics, and ai
 - artificial intelligence
 - machine learning

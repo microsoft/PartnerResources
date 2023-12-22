@@ -7,9 +7,7 @@ permalink: /skilling/ai-ml-academy/vignettes/openai-business-briefing
 updated: 2023-02-27
 showbreadcrumb: true
 youtubeid: FJ0v3apQ2dM
-tags: 
-- ai & ml academy
-- academy content
+tags:
 - vignettes
 - data, analytics, and ai
 - artificial intelligence
