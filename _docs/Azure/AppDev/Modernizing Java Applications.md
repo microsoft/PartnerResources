@@ -13,7 +13,7 @@ tags:
 - modernization
 ---
 
-# Modernizing Java Applications on Azure (Draft)
+# Modernizing Java Applications on Azure
 
 * [Overview](#overview)
   * [Why Modernize?](#why)
