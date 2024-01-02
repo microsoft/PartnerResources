@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Azure Infrastructure Academy — Well-Architected Framework
 description: Microsoft Azure Infrastructure Academy Well-Architected Framework.
 permalink: /skilling/microsoft-infrastructure-academy/waf
-updated: 2023-12-28
+updated: 2024-01-02
 showbreadcrumb: true
 Tags:
 - academy content
@@ -12,11 +12,11 @@ Tags:
 ---
 
 ## Microsoft Well-Architected Framework Academy
-Microsoft's Azure Well-Architected Framework is a set of quality-driven tenets, architectural decision points, and review tools that help solution architects build a technical foundation for their workloads.
+[Microsoft's Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) is a set of quality-driven tenets, architectural decision points, and review tools that help solution architects build a technical foundation for their workloads.
 
 #### Stay connected with the [Azure Governance and Management Blog](https://techcommunity.microsoft.com/t5/azure-governance-and-management/bg-p/AzureGovernanceandManagementBlog).
 
-Microsoft's Azure Well-Architected Framework (WAF) provides a set of best practices and guidelines for designing and operating reliable, secure, efficient, and cost-effective systems in the cloud. The framework consists of five pillars of architecture excellence:
+[Microsoft's Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) consists of five pillars of architecture excellence:
 
 *  [Cost Optimization](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/)
 *  [Operational Excellence](https://docs.microsoft.com/en-us/azure/architecture/framework/devops/overview/)
@@ -24,20 +24,17 @@ Microsoft's Azure Well-Architected Framework (WAF) provides a set of best practi
 *  [Reliability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview)
 *  [Security](https://docs.microsoft.com/en-us/azure/architecture/framework/security/overview)
 
-The framework helps organizations optimize their Azure workloads by providing a framework for reviewing and improving their architecture.
-
 ## Getting Started
 
-* [Microsoft's Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
 * [Microsoft's Azure Well-Architected Framework Keynote Address with Mark Russinovich](https://youtu.be/iHuBzJi0HiU)
 
 ## The Azure Well-Architected Backstage Tour Video Series
 
-* [Cost Optimization](https://youtu.be/48DwOBTHEGQ)
-* [Operational Excellence](https://youtu.be/yRAkQCPat90)
-* [Performance Efficiency](https://www.youtube.com/watch?v=qFMfVBPkgYo)
-* [Reliability](https://www.youtube.com/watch?v=CCIoko9tf2g)
-* [Security](https://youtu.be/RDb8F-o7guU)
+{% include series.md 
+    includetags="academy content|waf videos" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    visualstyle="normal" 
+%}
 
 ## Training
 
