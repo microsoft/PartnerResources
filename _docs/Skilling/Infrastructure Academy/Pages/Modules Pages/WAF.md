@@ -11,7 +11,7 @@ Tags:
 - well-architected framework
 ---
 
-## Microsoft Well-Architected Framework Academy
+## Microsoft Well-Architected Framework Academy📌
 [Microsoft's Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) is a set of quality-driven tenets, architectural decision points, and review tools that help solution architects build a technical foundation for their workloads.
 
 #### Stay connected with the [Azure Governance and Management Blog](https://techcommunity.microsoft.com/t5/azure-governance-and-management/bg-p/AzureGovernanceandManagementBlog).
