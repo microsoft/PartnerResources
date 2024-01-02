@@ -46,13 +46,13 @@
       url: "skilling/ai-ml-academy"
       tag: ai ml academy
       children:
-        - title: Prebuilt AI
+        - title: Customizeable AI Models
           url: "skilling/ai-ml-academy/prebuilt-ai"
           tag: aiml prebuilt
         - title: Azure OpenAI
           url: "skilling/ai-ml-academy/openai"
           tag: aiml openai
-        - title: Applied AI
+        - title: Scenario-based Services
           url: "skilling/ai-ml-academy/applied-ai"
           tag: aiml applied
         - title: Build Your Own AI

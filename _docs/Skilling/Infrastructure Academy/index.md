@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Azure Infrastructure Academy
 description: Microsoft Azure Infrastructure Academy
-updated: 2023-12-19
+updated: 2024-01-02
 permalink: /skilling/microsoft-infrastructure-academy
 redirect_from:
   - /skilling/microsoft-infrastructure-academy/
@@ -17,13 +17,11 @@ showbreadcrumb: true
 Ready to elevate your organization's cloud infrastructure? Managing Azure infrastructure isn't just a task for the IT team — it's a collective effort. Get started with **the basics** and take action today.
 
 #### The Basics
-1. **[Azure Well-Architected Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-waf)**
-2. **[Azure Governance](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-governance)**
-3. **[Azure Virtual Desktop](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-virtual-desktop)**
+1. **[Azure Well-Architected Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/waf)**
+2. **[Azure Virtual Desktop](/PartnerResources/skilling/microsoft-infrastructure-academy/avd)**
+3. **[Azure VMware Solution (AVS)](/PartnerResources/skilling/microsoft-infrastructure-academy/avs)**
 
 Keep your organization resilient against evolving challenges with continuous learning through our **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)**. Our **[Resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources)** complement the **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** and empower you to dive deeper into key Azure infrastructure concepts.
-
-**Explore our latest resources for [Azure VMware Solution (AVS)](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/avs-resources).**
 
 
 ![IA Organizational Chart]({{ site.baseurl }}/assets/msa/IA Thumbnail.png)
