@@ -33,7 +33,7 @@ Tags:
 {% include series.md 
     includetags="academy content|waf videos" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
-    visualstyle="normal" 
+    visualstyle="list" 
 %}
 
 ## Training
