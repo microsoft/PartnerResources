@@ -43,7 +43,7 @@ Tags:
 * [Architect successful workloads on Azure with the Well-Architected Framework](https://youtu.be/UpQHmWxkVEU)
 * [Well-Architected mission-critical workloads on Azure](https://youtu.be/vLY48KCktII)
 
-## Well-Architected Assessements
+## Well-Architected Assessments
 
 *  [Microsoft's Well-Architected Assessments](https://learn.microsoft.com/en-us/assessments/browse/?page=1&pagesize=30&searchterm=well-architected)
 *  [All Assessments](https://learn.microsoft.com/en-us/assessments/)
