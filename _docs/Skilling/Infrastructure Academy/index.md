@@ -18,11 +18,10 @@ Ready to elevate your organization's cloud infrastructure? Managing Azure infras
 
 #### The Basics
 1. **[Azure Well-Architected Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/waf)**
-2. **[Azure Virtual Desktop](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/azure-virtual-desktop)**
+2. **[Azure Virtual Desktop](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/avd)**
+3. **[Azure VMware Solution (AVS)](/PartnerResources/skilling/microsoft-infrastructure-academy/avs)**
 
 Keep your organization resilient against evolving challenges with continuous learning through our **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)**. Our **[Resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources)** complement the **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** and empower you to dive deeper into key Azure infrastructure concepts.
-
-**Explore our latest resources for [Azure VMware Solution (AVS)](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/avs-resources).**
 
 
 ![IA Organizational Chart]({{ site.baseurl }}/assets/msa/IA Thumbnail.png)
