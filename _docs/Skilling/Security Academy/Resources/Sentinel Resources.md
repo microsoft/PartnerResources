@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2023-11-27
+updated: 2024-01-03
 permalink: /security/microsoft-security-academy/microsoft-sentinel
 tags:
 - security
@@ -12,7 +12,7 @@ tags:
 - sentinel resources
 ---
 
-# Microsoft Sentinel Readiness Resources
+# Microsoft Sentinel Resources
 Below you will find content to assist in skilling on Microsoft Sentinel. Content is organized by increasing levels of complexity (Fundamentals, Associate) followed by other associated critical resources.
 
 See our **[Microsoft Sentinel Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy/sentinel-academy)** for video sessions, demonstrations and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond, who are experts in their respective fields.

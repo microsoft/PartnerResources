@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Cost Optimization
-description: Resources for Cloud Cost Optimization
-updated: 2023-10-20
+description: Resources for Cost Optimization
+updated: 2024-01-03
 permalink: /skilling/microsoft-infrastructure-academy/resources/cost-optimization
 tags: 
 - learning plan
@@ -10,7 +10,7 @@ tags:
 - infrastructure
 ---
 
-# Learning Plan Resources for Cost Optimization
+# Resources for Cost Optimization
 
 ## Fundamentals
 * [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/?&OCID=AID2000128_SEM_08PbDDI7&MarinID=08PbDDI7_78889977407231_azure%20pricing%20calculator_be_c__1262239398853538_kwd-78889985548526:loc-190&lnkd=Bing_Azure_Brand&msclkid=e42948871b501e874a9616fd4ef3fd8b&ef_id=Xcx00gAABIsf93tO:20200324184701:s&dclid=CjkKEQjw3-bzBRDR343VpZKmwtYBEiQAFtas2kiBARsDwJp4LYi224ToJ3t2ykuJhJLggNVp00Dmwsrw_wcB)

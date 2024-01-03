@@ -2,7 +2,7 @@
 layout: page
 title: Teams Deployment
 description: Resources for Microsoft Teams Deployment
-updated: 2023-11-15
+updated: 2024-01-03
 permalink: /modern-workplace/microsoft-teams/teams-deployment
 tags:
 - learning plan
@@ -10,7 +10,7 @@ tags:
 - microsoft teams
 ---
 
-# Learning Plan Resources for Teams Deployment
+# Resources for Microsoft Teams Deployment
 
 ## Fundamentals
 

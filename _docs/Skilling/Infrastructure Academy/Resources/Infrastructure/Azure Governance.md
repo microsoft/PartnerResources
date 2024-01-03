@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Azure Governance
-description: Resources for Governance, Azure Policy, Azure Lighthouse
-updated: 2023-10-20
+description: Resources for Governance, Azure Policy, & Azure Lighthouse
+updated: 2024-01-03
 permalink: /skilling/microsoft-infrastructure-academy/resources/azure-governance
 tags: 
 - learning plan
@@ -10,7 +10,7 @@ tags:
 - infrastructure
 ---
 
-# Learning Plan Resources for Governance
+# Resources for Azure Governance
 
 ## Governance Fundamentals
 * [**MS Docs:** What is Data Governance?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-data-governance/?ef_id=_k_df485a98acab1b287eb03fb419b06e0a_k_&OCID=AIDcmme9zx2qiz_SEM__k_df485a98acab1b287eb03fb419b06e0a_k_&msclkid=df485a98acab1b287eb03fb419b06e0a)
