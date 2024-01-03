@@ -12,7 +12,7 @@ tags:
 - ai
 ---
 
-# Learning Plan Resources for Azure AI Services for Health
+# Resources for Azure AI Services for Health
 
 ## Azure AI Services for Health
 

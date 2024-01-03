@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microsoft Cloud for Retail
-description: Resources for Retailers using the Microsoft Cloud
+description: Resources for Microsoft Cloud for Retail
 updated: 2023-11-15
 permalink: /industry/retail/retail-resources
 tags:
@@ -10,7 +10,7 @@ tags:
 - retail
 ---
 
-# Learning Plan Resources for Microsoft Cloud for Retail
+# Resources for Microsoft Cloud for Retail
 
 **Microsoft Cloud for Retail brings together different data sources across the retail value chain and uniquely connects experiences across the shopper's journey through a set of capabilities that deliver more relevant personalized experiences and operational excellence for sustained profitability.**
 
