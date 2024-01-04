@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2023-12-19
+updated: 2024-01-05
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -36,6 +36,7 @@ A new era of security is here. Read how [Microsoft unveiled the expansion of AI 
 
 Learn about Microsoft's new **[Secure Future Initiative](https://blogs.microsoft.com/on-the-issues/2023/11/02/secure-future-initiative-sfi-cybersecurity-cyberattacks/)** to address "sophisticated, patient, stealthy, well-resourced, and government-backed techniques to infect and undermine the integrity of computer networks on a long-term basis."
 
+Read how Microsoft’s DCU (Digital Crimes Unit) has [honed its strategy of using unique legal tactics and the company’s technical reach to disrupt global cybercrime and state-backed actors](https://www.wired.com/story/microsoft-digital-crime-unit-2023/).
 
 ## Start Your Journey and Stay Connected🔗
  

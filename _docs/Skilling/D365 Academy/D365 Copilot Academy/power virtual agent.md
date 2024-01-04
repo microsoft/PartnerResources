@@ -4,7 +4,7 @@ layout: page
 title: D365 Copilot Academy - Copilot Studio
 sorttitle: 01 - D365 Copilot Academy - Copilot Studio
 description: D365 Copilot Academy - Copilot Studio (formerly Power Virtual Agent)
-permalink: /skilling/d365-academy/d365-copilot-academy/pva
+permalink: /skilling/d365-academy/d365-copilot-academy/copilotstudio
 updated: 2024-01-04
 showbreadcrumb: true
 tags: 

@@ -2,7 +2,7 @@
 layout: page
 title: Azure Container Apps
 description: Resources for Azure Container Apps
-updated: 2024-01-08
+updated: 2024-01-05
 permalink: /azure/appdev/azure-container-apps
 tags:
 - learning plan
@@ -23,7 +23,7 @@ Content is broken down as follows:
 * [Introduction to Azure Container Apps](https://docs.microsoft.com/en-us/azure/container-apps/overview)
 * [Comparing Container Offerings in Azure](https://docs.microsoft.com/en-us/azure/container-apps/compare-options)
 * [Azure Container Apps Environments](https://docs.microsoft.com/en-us/azure/container-apps/environment)
-* [**NEW:**: Build and Deliver Apps with Container Apps](https://www.youtube.com/watch?v=b3dopSTnSRg)
+* [**NEW:** Build and Deliver Apps with Container Apps](https://www.youtube.com/watch?v=b3dopSTnSRg)
 
 ## Associate
 
@@ -43,7 +43,7 @@ Content is broken down as follows:
 * [Health Probes in Azure Container Apps](https://docs.microsoft.com/en-us/azure/container-apps/health-probes?tabs=arm-template)
 * [Reliability in Azure Container Apps](https://docs.microsoft.com/en-us/azure/container-apps/disaster-recovery/)
 * [Azure Container App Samples](https://docs.microsoft.com/en-us/azure/container-apps/samples)
-* [Microservices with Azure Container Apps](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/serverless/microservices-with-container-apps) (Self-Paced)
+* [Microservices with Azure Container Apps](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/serverless/microservices-with-container-apps)
 * [Microservices with Azure Container Apps & Dapr](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/serverless/microservices-with-container-apps-dapr)
 
 ## Community Resources

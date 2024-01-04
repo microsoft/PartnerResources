@@ -2,7 +2,7 @@
 layout: page
 title: Azure Kubernetes Service
 description: Resources for Azure Kubernetes Service
-updated: 2024-01-08
+updated: 2024-01-05
 permalink: /azure/appdev/containerize-with-kubernetes
 tags:
 - learning plan
@@ -22,40 +22,35 @@ Content is broken down as follows:
 ## Fundamentals
 
 * [Introduction to Kubernetes Tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
-* [Phippy Goes to the Zoo: A Kubernetes Story](https://azure.microsoft.com/mediahandler/files/resourcefiles/phippy-goes-to-the-zoo/Phippy%20Goes%20To%20The%20Zoo_MSFTonline.pdf)
+* [**eBook:** Phippy Goes to the Zoo: A Kubernetes Story](https://azure.microsoft.com/mediahandler/files/resourcefiles/phippy-goes-to-the-zoo/Phippy%20Goes%20To%20The%20Zoo_MSFTonline.pdf)
 * [Introduction to Kubernetes on Azure](https://docs.microsoft.com/en-us/learn/paths/intro-to-kubernetes-on-azure/)
 
 ## Associate
 
-* [Core Kubernetes Concepts for Azure Kubernetes Service)](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
-* [Implement a Code Workflow in your Build Pipeline using Git and GitHub](https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/)
+* [Core Kubernetes Concepts for Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
+* [Implement a Code Workflow in your Build Pipeline using Git & GitHub](https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/)
 * [Administer Containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/)
 
 ## Expert
 
 * [AKS Construction Kit](https://azure.github.io/AKS-Construction/)
-* [Azure Kubernetes Service Production Baseline](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)
+* [AKS Production Baseline](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)
 * [Architect Compute Infrastructure in Azure](https://learn.microsoft.com/en-us/training/paths/architect-compute-infrastructure/) 
 * [Architect Infrastructure Operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/)
 * [Architect Modern Apps in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-modern-apps/)
 * [Architect Network Infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/)
 * [Architect Storage Infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/)
-* [**eBook:** Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
-* [Kuberentes & Azure Arc Multi-cloud Management](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_k8s/)
+* [Kubernetes & Azure Arc Management](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_k8s/)
 
 ## Community Resources
 
 * [AKS Roadmap](https://github.com/Azure/AKS/projects/1)
 * [AKS Release Notes](https://aka.ms/aks/releasenotes)
 * [The AKS Checklist](https://www.the-aks-checklist.com/)
-* [Azure Developer Community Blog](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/bg-p/AzureDevCommunityBlog)
-* [The Definitive Guide to Securing Kubernetes](https://info.aquasec.com/securing_kubernetes)
-
-## Events & Forums
-
 * [KubeCon](https://www.cncf.io/kubecon-cloudnativecon-events/)
 * [Kubernetes Meetup](https://www.meetup.com/topics/kubernetes/)
 * [GitHub AKS Community](https://github.com/Azure/AKS)
+* [Azure Developer Community Blog](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/bg-p/AzureDevCommunityBlog)
 
 ## AKS Well-Architected Framework Baseline Implementation 
 
@@ -70,7 +65,7 @@ Content is broken down as follows:
 ## Kubernetes Apps Marketplace
 
 * [Zero to Hero with K8s Apps in the Azure Marketplace](https://aka.ms/k8sapps)
-* [How to prepare your Technical Assets](https://learn.microsoft.com/en-us/azure/marketplace/azure-container-technical-assets-kubernetes)
+* [Prepare your Technical Assets](https://learn.microsoft.com/en-us/azure/marketplace/azure-container-technical-assets-kubernetes)
 
 ## Learn Kubernetes & AKS through What The Hack
 
