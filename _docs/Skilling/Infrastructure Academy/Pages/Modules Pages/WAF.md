@@ -46,4 +46,4 @@ Tags:
 ## Well-Architected Assessments
 
 *  [Microsoft's Well-Architected Assessments](https://learn.microsoft.com/en-us/assessments/browse/?page=1&pagesize=30&searchterm=well-architected)
-*  [All Assessments](https://learn.microsoft.com/en-us/assessments/)
+*  [All Assessments](https://learn.microsoft.com/en-us/assessments/) 
