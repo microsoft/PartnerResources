@@ -27,7 +27,7 @@ Content is broken down as follows:
 
 ## Associate
 
-* [Core Kubernetes Concepts for Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
+* [AKS Core Concepts](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
 * [Implement a Code Workflow in your Build Pipeline using Git & GitHub](https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/)
 * [Administer Containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/)
 
@@ -56,13 +56,13 @@ Content is broken down as follows:
 
 * [Well-Architected Framework Baseline for AKS](https://github.com/mspnp/aks-baseline)
 
-## Certifications for Azure Kubernetes Services
+## Certifications
 
 * [Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect)
 * [Certified Kubernetes Administrator (CKA) Program](https://www.cncf.io/certification/cka/)
 * [Certified Kubernetes Application Developer (CKAD) Program](https://www.cncf.io/certification/ckad/)
 
-## Kubernetes Apps Marketplace
+## Marketplace
 
 * [Zero to Hero with K8s Apps in the Azure Marketplace](https://aka.ms/k8sapps)
 * [Prepare your Technical Assets](https://learn.microsoft.com/en-us/azure/marketplace/azure-container-technical-assets-kubernetes)
