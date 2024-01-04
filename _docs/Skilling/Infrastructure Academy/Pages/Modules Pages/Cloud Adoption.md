@@ -11,7 +11,7 @@ Tags:
 - cloud adoption framework
 ---
 
-## Cloud Adoption Framework Academy 📌
+## Cloud Adoption Framework Academy📌
 [Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) The Cloud Adoption Framework is proven guidance that’s designed to help you create and implement the business and technology strategies necessary for your organization to succeed in the cloud. It provides best practices, documentation, and tools that cloud architects, IT professionals, and business decision makers need to successfully achieve their short- and long-term objectives. [What's new with the Framework?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/whats-new)
 
 #### Stay connected with the [Azure Governance and Management Blog](https://techcommunity.microsoft.com/t5/azure-governance-and-management/bg-p/AzureGovernanceandManagementBlog).
