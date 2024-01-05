@@ -37,17 +37,11 @@ Tags:
 
 ## Cloud Adoption Framework Series
 
-*   [Azure Landing Zones Approach to the Cloud Adoption Framework](https://www.youtube.com/watch?v=PeC0tp04rsc&list=PLLasX02E8BPAQHbGgJLZ94woFDyPfsQ3Y&index=28)
-*   [Prepare your Cloud Strategy with Technical Considerations](https://www.youtube.com/watch?v=P_5P5fegkcc&list=PLLasX02E8BPAQHbGgJLZ94woFDyPfsQ3Y&index=18)
-*   [Cloud Adoption Framework Strategy](https://www.youtube.com/watch?v=8nlm0mW_53w&list=PLLasX02E8BPAQHbGgJLZ94woFDyPfsQ3Y&index=14)
-*   [Cloud Adoption Framework Plan Methodology](https://www.youtube.com/watch?v=bTdFmCDXYdE&list=PLLasX02E8BPAQHbGgJLZ94woFDyPfsQ3Y&index=13)
-*   [Cloud Adoption Framwework Ready Methodology](https://www.youtube.com/watch?v=MC4bCzM_XCs&list=PLLasX02E8BPAQHbGgJLZ94woFDyPfsQ3Y&index=5)
-*   [Cloud Adoption Framework Manage Methodology](https://www.youtube.com/watch?v=riizUgSs3T8&list=PLLasX02E8BPAQHbGgJLZ94woFDyPfsQ3Y&index=11)
-*   [Cloud Adoption Framework Operations Management](https://www.youtube.com/watch?v=ztiwSPgH0jg&list=PLLasX02E8BPAQHbGgJLZ94woFDyPfsQ3Y&index=16)
-*   [Efficiently Manage your Cloud Operations](https://www.youtube.com/watch?v=Ay1B7lLEQ-Y&list=PLLasX02E8BPAQHbGgJLZ94woFDyPfsQ3Y&index=17)
-*   [Govern and Manage Azure Resources at Scale](https://www.youtube.com/watch?v=iTrilL6aBJw&list=PLLasX02E8BPAQHbGgJLZ94woFDyPfsQ3Y&index=20)
-*   [Security Baseline of the Cloud Framework](https://www.youtube.com/watch?v=lG40Bvgtn2k&list=PLLasX02E8BPAQHbGgJLZ94woFDyPfsQ3Y&index=22)
- 
+{% include series.md 
+    includetags="academy content|caf videos" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    visualstyle="normal" 
+%}
 
 ## Training
 

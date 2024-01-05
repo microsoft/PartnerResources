@@ -45,10 +45,6 @@ To get started, we recommend watching the following videos created by Microsoft 
    <td><a href="https://youtu.be/2mL9iDr_lUY?si=ePBzuIBQT8In-zz8"><img src="https://img.youtube.com/vi/2mL9iDr_lUY/maxresdefault.jpg" alt="Microsoft Security Copilot & Tanium Demo" width="200" height="153"></a></td>
     <td><a href="https://youtu.be/2mL9iDr_lUY?si=lWO3C49hAFIPrhqs"><b>Microsoft Security Copilot & Tanium Demo</b></a><br><br>Tanium introduces their Security Copilot proof of concept to enable responses in minutes with real-time visibility.</td>
   </tr>
-  <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/jzgrD4nvTXE"><img src="https://github.com/ZacharyRiffle/PartnerResources/blob/main/assets/msa/Microsoft%20Security%20Copilot.png?raw=true" alt="Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results" width="200" height="153"></a></td>
-    <td><a href="https://youtu.be/jzgrD4nvTXE"><b>Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results</b></a><br><br>Join Angelica, Rick, and Zach as they explore optimal preparations for Security Copilot, leverage Azure's OpenAI capabilities, and watch a complete Microsoft Sentinel and OpenAI integration demo in Azure.</td>
-  </tr>
 </table>
 
 Download the PowerPoint for Maximizing Customer Success with Azure AI and Security Copilot [here]({{ site.baseurl }}/assets/msa/How to Prepare for Optimal Results with Azure AI Security Copilot.pptx).
