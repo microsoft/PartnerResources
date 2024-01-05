@@ -3,7 +3,7 @@ layout: page
 title: Security Copilot
 description: Are you ready for Security Copilot?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2023-12-05
+updated: 2024-01-05
 showbreadcrumb: true
 tags: 
 - academy content
@@ -23,9 +23,9 @@ If you have an existing NDA with Microsoft, join our [Microsoft Security Copilot
 
 See our **[Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
 
-## Dec. 2023 Update📰
+## Jan. 2024 Update📰
 
-**Prepare for Security Copilot's February or March launch with our new [Security Copilot documentation](https://learn.microsoft.com/en-us/security-copilot/) and [Security Copilot demos](https://app.highlights.guide/gallery).**
+**Prepare for Security Copilot's February or March launch with our new [Security Copilot documentation](https://learn.microsoft.com/en-us/security-copilot/).**
 
 
 ## Get Started
@@ -34,21 +34,18 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 <table>
   <tr style="vertical-align:top">
-   <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><img src="https://img.youtube.com/vi/0lg_derTkaM/maxresdefault.jpg" alt="How Microsoft Security Copilot works" width="200" height="153"></a></td>
+   <td><a href="https://www.youtube.com/watch?v=dNvdeJA6m4g"><img src="https://img.youtube.com/vi/dNvdeJA6m4g/maxresdefault.jpg" alt="Prepare for New Threats with Microsoft Security Copilot" width="300" height="250"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=dNvdeJA6m4g"><b>Prepare for New Threats with Microsoft Security Copilot</b></a><br><br>Join Dave and Zach as they discuss how to prepare for new threats in an era of increasingly complex cyberattacks with Microsoft Security Copilot. Explore Security Copilot’s interface, how a partner gains access, the power of plugins and Promptbooks, data security and privacy, AI threats and how we at Microsoft defeat them, and our Responsible AI story.</td>
+  </tr>
+  <tr style="vertical-align:top">
+   <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><img src="https://img.youtube.com/vi/0lg_derTkaM/maxresdefault.jpg" alt="How Microsoft Security Copilot works" width="300" height="250"></a></td>
     <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><b>How Microsoft Security Copilot works</b></a><br><br>Ryan Munsch, from the Security Copilot team, joins host Jeremy Chapman to share how Security Copilot is an enterprise-grade natural language interface for your organization's security data.</td>
   </tr>
   <tr style="vertical-align:top">
-   <td><a href="https://youtu.be/2mL9iDr_lUY?si=ePBzuIBQT8In-zz8"><img src="https://img.youtube.com/vi/2mL9iDr_lUY/maxresdefault.jpg" alt="Microsoft Security Copilot & Tanium Demo" width="200" height="153"></a></td>
+   <td><a href="https://youtu.be/2mL9iDr_lUY?si=ePBzuIBQT8In-zz8"><img src="https://img.youtube.com/vi/2mL9iDr_lUY/maxresdefault.jpg" alt="Microsoft Security Copilot & Tanium Demo" width="300" height="250"></a></td>
     <td><a href="https://youtu.be/2mL9iDr_lUY?si=lWO3C49hAFIPrhqs"><b>Microsoft Security Copilot & Tanium Demo</b></a><br><br>Tanium introduces their Security Copilot proof of concept to enable responses in minutes with real-time visibility.</td>
   </tr>
-  <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/jzgrD4nvTXE"><img src="https://github.com/ZacharyRiffle/PartnerResources/blob/main/assets/msa/Microsoft%20Security%20Copilot.png?raw=true" alt="Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results" width="200" height="153"></a></td>
-    <td><a href="https://youtu.be/jzgrD4nvTXE"><b>Maximizing Customer Success with Azure AI and Security Copilot: How to Prepare for Optimal Results</b></a><br><br>Join Angelica, Rick, and Zach as they explore optimal preparations for Security Copilot, leverage Azure's OpenAI capabilities, and watch a complete Microsoft Sentinel and OpenAI integration demo in Azure.</td>
-  </tr>
 </table>
-
-Download the PowerPoint for Maximizing Customer Success with Azure AI and Security Copilot [here]({{ site.baseurl }}/assets/msa/How to Prepare for Optimal Results with Azure AI Security Copilot.pptx).
-
 
 ## Features
 
