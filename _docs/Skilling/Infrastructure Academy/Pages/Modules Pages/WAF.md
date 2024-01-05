@@ -24,14 +24,6 @@ Tags:
 *  [Reliability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview)
 *  [Security](https://docs.microsoft.com/en-us/azure/architecture/framework/security/overview)
 
-## Getting Started
-
-{% include series.md 
-    includetags="academy content|waf video intro" includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
-    visualstyle="normal" 
-%}
-
 ## Training
 
 * [Introduction to the Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-introduction/)
@@ -43,6 +35,14 @@ Tags:
 
 *  [Microsoft's Well-Architected Assessments](https://learn.microsoft.com/en-us/assessments/browse/?page=1&pagesize=30&searchterm=well-architected)
 *  [All Assessments](https://learn.microsoft.com/en-us/assessments/)
+
+## Getting Started
+
+{% include series.md 
+    includetags="academy content|waf video intro" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    visualstyle="normal" 
+%}
 
 ## The Azure Well-Architected Backstage Tour Video Series
 

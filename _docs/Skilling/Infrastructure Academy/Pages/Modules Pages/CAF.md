@@ -27,14 +27,6 @@ Tags:
 *  [Secure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/secure/)
 *  [Organize](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/)
 
-## Getting Started
-
-{% include series.md 
-    includetags="academy content|caf video intro" includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
-    visualstyle="normal" 
-%}
-
 ## Training
 
 * [Accelerate Cloud Adoption with the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/paths/cloud-adoption-framework/)
@@ -49,6 +41,14 @@ Tags:
 *  [Governance Benchmark](https://learn.microsoft.com/en-us/assessments/governance-assessment/)
 *  [Well Architected Review (Manage)](https://learn.microsoft.com/en-us/assessments/azure-architecture-review/)
 *  [Cloud Adoption Security (Review)](https://learn.microsoft.com/en-us/assessments/93dfb79b-71af-404d-897e-3928ecfb92b1/)
+
+## Getting Started
+
+{% include series.md 
+    includetags="academy content|caf video intro" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    visualstyle="normal" 
+%}
 
 ## Cloud Adoption Framework Series
 
