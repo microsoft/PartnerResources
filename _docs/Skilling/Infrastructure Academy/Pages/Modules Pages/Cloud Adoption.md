@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Azure Infrastructure Academy — Cloud Adoption Framework (CAF)
 description: Microsoft Azure Infrastructure Academy Cloud Adoption Framework (CAF).
 permalink: /skilling/microsoft-infrastructure-academy/cloud-adoption-framework
-updated: 2023-11-14
+updated: 2024-01-05
 showbreadcrumb: true
 Tags:
 - academy content
@@ -29,7 +29,11 @@ Tags:
   
 ## Getting Started
 
-* [Introduction to the Cloud Adoption Framework on Azure ](https://www.youtube.com/watch?v=j2Vk-YNdSdQ&t=13s)
+{% include series.md 
+    includetags="academy content|caf video intro" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    visualstyle="normal" 
+%}
 
 ## Cloud Adoption Framework Series
 
