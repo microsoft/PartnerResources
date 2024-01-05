@@ -39,7 +39,7 @@ Tags:
 *  [Cloud Journey Tracker (Ready)](https://learn.microsoft.com/en-us/assessments/cloud-journey-tracker/)
 *  [App & Data Modernization Readiness Tool (Adopt) ](https://learn.microsoft.com/en-us/assessments/50adbf76-60fb-47ce-a787-f9d5f52f6a48/)
 *  [Governance Benchmark](https://learn.microsoft.com/en-us/assessments/governance-assessment/)
-*  [Well Architected Review (Manage)](https://learn.microsoft.com/en-us/assessments/azure-architecture-review/)
+*  [Well-Architected Review (Manage)](https://learn.microsoft.com/en-us/assessments/azure-architecture-review/)
 *  [Cloud Adoption Security (Review)](https://learn.microsoft.com/en-us/assessments/93dfb79b-71af-404d-897e-3928ecfb92b1/)
 
 ## Getting Started

@@ -27,7 +27,7 @@ Tags:
 ## Training
 
 * [Introduction to the Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-introduction/)
-* [Build great solutions with the Microsoft Well-Architected Framework](https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/)
+* [Build great solutions with the Well-Architected Framework](https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/)
 * [Architect successful workloads with the Well-Architected Framework](https://youtu.be/UpQHmWxkVEU)
 * [Well-Architected mission-critical workloads](https://youtu.be/vLY48KCktII)
 
