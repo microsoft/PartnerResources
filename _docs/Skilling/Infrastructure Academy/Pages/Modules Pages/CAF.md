@@ -34,10 +34,10 @@ Tags:
 
 ## Cloud Adoption Framework Assessments
 
-*  [Define your Strategy  with the Cloud Adoption Strategy Evauator](https://learn.microsoft.com/en-us/assessments/8fefc6d5-97ac-42b3-8e97-d82701e55bab/)
-*  [Strategic Migration Assessment and Readiness Tool (Plan)](https://learn.microsoft.com/en-us/assessments/Strategic-Migration-Assessment/)
+*  [Define your Strategy with the Cloud Adoption Strategy Evaluator](https://learn.microsoft.com/en-us/assessments/8fefc6d5-97ac-42b3-8e97-d82701e55bab/)
+*  [Strategic Migration Assessment & Readiness Tool (Plan)](https://learn.microsoft.com/en-us/assessments/Strategic-Migration-Assessment/)
 *  [Cloud Journey Tracker(Ready)](https://learn.microsoft.com/en-us/assessments/cloud-journey-tracker/)
-*  [App and Data Modernization Readiness Tool (Adopt) ](https://learn.microsoft.com/en-us/assessments/50adbf76-60fb-47ce-a787-f9d5f52f6a48/)
+*  [App & Data Modernization Readiness Tool (Adopt) ](https://learn.microsoft.com/en-us/assessments/50adbf76-60fb-47ce-a787-f9d5f52f6a48/)
 *  [Governance Benchmark](https://learn.microsoft.com/en-us/assessments/governance-assessment/)
 *  [Well Architected Review (Manage)](https://learn.microsoft.com/en-us/assessments/azure-architecture-review/)
 *  [Cloud Adoption Security Review](https://learn.microsoft.com/en-us/assessments/93dfb79b-71af-404d-897e-3928ecfb92b1/)
