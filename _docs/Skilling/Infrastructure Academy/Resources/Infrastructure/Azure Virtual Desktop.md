@@ -2,7 +2,7 @@
 layout: page
 title: Azure Virtual Desktop
 description: Resources for Azure Virtual Desktop
-updated: 2023-10-20
+updated: 2024-01-03
 permalink: /skilling/microsoft-infrastructure-academy/resources/azure-virtual-desktop
 tags: 
 - learning plan
@@ -11,7 +11,7 @@ tags:
 - avd resources
 ---
 
-# Learning Plan Resources for Azure Virtual Desktop
+# Resources for Azure Virtual Desktop
 
 ## Fundamentals
 * [**MS Docs:** What is Azure Virtual Desktop?](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview)

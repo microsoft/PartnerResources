@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Meetings and Meeting Rooms
-description: Resources for Microsoft Teams Meetings and Meeting Rooms
-updated: 2023-11-15
+title: Meetings & Meeting Rooms
+description: Resources for Microsoft Teams Meetings & Meeting Rooms
+updated: 2024-01-03
 permalink: /modern-workplace/microsoft-teams/meetings-and-meeting-rooms
 tags:
 - learning plan
@@ -10,7 +10,7 @@ tags:
 - microsoft teams
 ---
 
-# Learning Plan Resources for Meetings & Meeting Rooms
+# Resources for Microsoft Teams Meetings & Meeting Rooms
 
 ## Fundamentals
 

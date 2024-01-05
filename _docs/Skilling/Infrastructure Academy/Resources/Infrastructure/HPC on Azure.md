@@ -2,7 +2,7 @@
 layout: page
 title: High Performance Computing (HPC)
 description: Resources for HPC on Azure
-updated: 2023-12-19
+updated: 2024-01-03
 permalink: /skilling/microsoft-infrastructure-academy/resources/hpc-on-azure
 tags: 
 - learning plan
@@ -11,7 +11,7 @@ tags:
 - hpc resources
 ---
 
-# Learning Plan Resources for High Performance Computing (HPC)
+# Resources for High Performance Computing (HPC)
 
 ## Fundamentals
 * [Overview of HPC Solutions on Azure](https://azure.microsoft.com/en-us/solutions/high-performance-computing/)

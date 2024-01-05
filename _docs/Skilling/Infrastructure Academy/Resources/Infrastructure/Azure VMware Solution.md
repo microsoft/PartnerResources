@@ -11,7 +11,7 @@ tags:
 - avs resources
 ---
 
-# Learning Plan Resources for Azure VMware Solution (AVS)
+# Resources for Azure VMware Solution (AVS)
 
 ## Most Recent Updates
 * [**Azure VMware Solution Professionals** LinkedIn Group](https://aka.ms/AVSPros)

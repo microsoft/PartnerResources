@@ -167,10 +167,10 @@
             - title: Business Central
               url: "skilling/d365-academy/d365-copilot-academy/business-central"
               tag: d365 copilot business central
-            - title: Power Virtual Agent
-              url: "skilling/d365-academy/d365-copilot-academy/pva"
+            - title: Copilot Studio
+              url: "skilling/d365-academy/d365-copilot-academy/copilotstudio"
               tag: d365 copilot pva
-        - title: "CI — Journeys"
+        - title: "Journeys"
           url: "skilling/d365-academy/d365-ci-journeys"
           tag: customer insights
           children:

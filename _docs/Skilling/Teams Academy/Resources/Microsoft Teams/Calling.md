@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Teams Calling
 description: Resources for Microsoft Teams Calling
-updated: 2023-11-15
+updated: 2024-01-02
 permalink: /modern-workplace/microsoft-teams/calling
 tags:
 - learning plan
@@ -10,7 +10,7 @@ tags:
 - microsoft teams
 ---
 
-# Learning Plan Resources for Microsoft Teams Calling
+# Resources for Microsoft Teams Calling
 
 ## Fundamentals
 

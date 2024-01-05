@@ -2,7 +2,7 @@
 layout: page
 title: Adaptive Cloud
 description: Resources for Adaptive Cloud
-updated: 2023-12-15
+updated: 2024-01-03
 permalink: /skilling/microsoft-infrastructure-academy/resources/adaptive-cloud
 tags: 
 - academy content
@@ -15,7 +15,7 @@ tags:
 - servers
 ---
 
-# Learning Plan Resources for Azure Arc
+# Resources for Adaptive Cloud
 
 The majority of the Azure Arc skilling and training content resides in the **[Azure Arc Jumpstart](https://arcjumpstart.com).** The Jumpstart is a community of Microsoft adaptive cloud engineers and field experts that build demo environments, example scripts and templates, video content, and much more.
 

@@ -2,7 +2,7 @@
 layout: page
 title: SAP on Azure Resources
 description: Resources for SAP on Azure
-updated: 2023-10-20
+updated: 2024-01-03
 permalink: /skilling/microsoft-infrastructure-academy/resources/sap-on-azure-resources
 tags: 
 - learning plan
@@ -11,7 +11,7 @@ tags:
 - sap on azure resources
 ---
 
-# Learning Plan Resources for SAP on Azure
+# Resources for SAP on Azure
 
 ## Fundamentals
 * [SAP on the Microsoft Cloud](https://azure.microsoft.com/en-us/solutions/sap/#overview)
