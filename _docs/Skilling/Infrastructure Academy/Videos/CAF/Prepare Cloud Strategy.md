@@ -5,7 +5,7 @@ sorttitle: 2
 description: Brian Blanchard & Jeff Amels join Sarah Lean to discuss the technical considerations your organization should consider when building your cloud strategy.
 updated: 2024-01-05
 permalink: /skilling/microsoft-infrastructure-academy/cloud-strategy
-youtubeid: P_5P5fegkcc&list=PLLasX02E8BPAQHbGgJLZ94woFDyPfsQ3Y&index=19
+youtubeid: P_5P5fegkcc
 tags: 
 - academy content
 - azure infrastructure academy

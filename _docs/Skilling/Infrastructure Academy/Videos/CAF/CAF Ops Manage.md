@@ -5,7 +5,7 @@ sorttitle: 8
 description: Brian Blanchard joins Sarah Lean to discuss how you can efficiently manage your cloud operations using the Cloud Adoption Framework.
 updated: 2024-01-05
 permalink: /skilling/microsoft-infrastructure-academy/caf-operations-manage
-youtubeid: Ay1B7lLEQ-Y?si=m0kr9AGg1xm71jkH
+youtubeid: Ay1B7lLEQ-Y
 tags: 
 - academy content
 - azure infrastructure academy
