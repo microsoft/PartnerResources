@@ -9,8 +9,8 @@ youtubeid: qK9kKp6bdf4
 tags: 
  - showcase content
  - microsoft partner showcase
-- academy content
-- microsoft security academy
+ - academy content
+ - microsoft security academy
  - security
 ---
 
