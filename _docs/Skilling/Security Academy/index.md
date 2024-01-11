@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-01-05
+updated: 2024-01-11
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -36,6 +36,8 @@ A new era of security is here. Read how [Microsoft unveiled the expansion of AI 
 
 Learn about Microsoft's new **[Secure Future Initiative](https://blogs.microsoft.com/on-the-issues/2023/11/02/secure-future-initiative-sfi-cybersecurity-cyberattacks/)** to address "sophisticated, patient, stealthy, well-resourced, and government-backed techniques to infect and undermine the integrity of computer networks on a long-term basis."
 
+**[Read Microsoft's analysis](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783)** of the global security landscape through 10 essential insights from the Microsoft Digital Defense Report 2023.
+
 **[Read how Microsoft’s DCU (Digital Crimes Unit)](https://www.wired.com/story/microsoft-digital-crime-unit-2023/)** has honed its strategy of using unique legal tactics and the company’s technical reach to disrupt global cybercrime and state-backed actors.
 
 ## Start Your Journey and Stay Connected🔗
@@ -57,6 +59,7 @@ Learn about Microsoft's new **[Secure Future Initiative](https://blogs.microsoft
 
 Microsoft Ninja trainings are sets of organized learning modules that guide you through the advanced features and functions of our products.
 
+* [Microsoft Unified SOC Platform Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-unified-soc-platform-ninja/ba-p/4014565)
 * [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
 * [Microsoft Sentinel Notebooks Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491)
 * [Microsoft Sentinel Automation Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377)
