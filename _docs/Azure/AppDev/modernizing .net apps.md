@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Modernizing .NET Apps
-description: Resources for Modernizing .NET Applications
+title: Modernizing Apps
+description: Resources for Modernizing Applications
 updated: 2024-01-12
 permalink: /azure/appdev/modernize-dot-net-applications
 tags:
@@ -27,11 +27,11 @@ Content is broken down as follows:
 
 ## Associate
 
-* [Create Serverless Apps](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/) (Self-Paced) (50 Minutes)
+* [Create Serverless Apps](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
 * [Deploy a website with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)
 * [Deploy a website with Azure VMs](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/)
 * [Connect Services](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/)
-* [Work with NoSQL data in Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/)
+* [Work with NoSQL Data in Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/)
 * [Relational Data](https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/)
 * [Data Storage in Azure](https://docs.microsoft.com/en-us/learn/paths/store-data-in-azure/)
 * [Introduction to ML with Python and Azure Notebooks](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/)
@@ -40,26 +40,23 @@ Content is broken down as follows:
 ## Expert
 
 * [Architect Network Infrastructure](https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/)
-* [Architect Storage Infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/)
+* [Architect Storage Infrastructure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/)
 * [Architect Data Platforms](https://docs.microsoft.com/en-us/learn/paths/architect-data-platform/)
 * [Architect API Integration](https://docs.microsoft.com/en-us/learn/paths/architect-api-integration/)
 * [Architect Compute Infrastructure](https://docs.microsoft.com/en-us/learn/paths/architect-compute-infrastructure/)
 * **[Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)**
-
-##  Migration Tools & Frameworks
-
-### Cost Benefit
-
 * [Enterprise Dev/Test Offer](https://azure.microsoft.com/en-us/offers/ms-azr-0148p/#:~:text=The%20Enterprise%20Dev/Test%20offer%20is,be%20accessed%20by%20any%20users.)
 
-### Discovery Assessment
+## Community Resources
 
-* [Azure Database Migration Guide](https://learn.microsoft.com/en-us/data-migration/)
+* [Azure Developer Community Blog](https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/bg-p/AzureDevCommunityBlog)
+* [.NET Developer Community](https://dotnet.microsoft.com/platform/community)
+
+## Cloud Migration
+
+* [Azure Database Migration Guides](https://learn.microsoft.com/en-us/data-migration/)
 * [Data Migration Assistant](https://learn.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017)
 * [SQL Server Migration Assistant](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017)
-
-### Cloud Migration (General)
-
 * [Migration Plan](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-refactor-web-app-sql)
 
 ### App Migration
@@ -70,7 +67,7 @@ Content is broken down as follows:
 
 ## Deployment
 
-* [Best Practices](https://docs.microsoft.com/en-us/azure/app-service/app-service-best-practices)
+* [Azure App Service Best Practices](https://docs.microsoft.com/en-us/azure/app-service/app-service-best-practices)
 * [Deployment Best Practices](https://docs.microsoft.com/en-us/azure/app-service/deploy-best-practices)
 * [Highly Available Multi-Region Web Application](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region)
 * [Highly Available SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla)
@@ -80,13 +77,8 @@ Content is broken down as follows:
 ## Certifications
 
 * [Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator)
-* [Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect)
-* [Azure DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-devops)
-* [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer)
 * [Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer)
 * [Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer)
-
-## Community Resources
-
-* [Azure Developer Community Blog](https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/bg-p/AzureDevCommunityBlog)
-* [.NET Developer Community](https://dotnet.microsoft.com/platform/community)
+* [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer)
+* [Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect)
+* [Azure DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-devops)
