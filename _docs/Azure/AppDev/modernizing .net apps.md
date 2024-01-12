@@ -59,7 +59,7 @@ Content is broken down as follows:
 * [SQL Server Migration Assistant](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017)
 * [Migration Plan](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-refactor-web-app-sql)
 
-### App Migration
+## App Migration
 
 * [Modernize .NET Apps](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/net-app-modernization)
 * [Apps Migration Considerations](https://docs.microsoft.com/en-us/dotnet/azure/migration/app-service)
