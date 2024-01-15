@@ -96,6 +96,9 @@
         - title: GitHub Copilot
           url: "skilling/developer-velocity-academy/github-copilot"
           tag: dva github copilot
+        - title: Resources
+          url: "skilling/developer-velocity-academy/resources"
+          tag: dva resources
     - title: "Dynamics 365"
       url: "skilling/d365-academy"
       tag: d365 academy

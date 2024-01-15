@@ -3,12 +3,10 @@ layout: page
 title: Modernizing Java Applications
 description: Modernizing Java Applications on Azure
 updated: 2024-01-16
-permalink: /azure/appdev/modernizing-javaapplications
+permalink: /skilling/developer-velocity-academy/resources/modernizing-javaapplications
 tags:
 - azure
 - appdev
-- technical resources 
-- learning plan
 - java
 - modernization
 ---

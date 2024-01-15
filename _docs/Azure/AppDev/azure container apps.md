@@ -3,7 +3,7 @@ layout: page
 title: Azure Container Apps
 description: Resources for Azure Container Apps
 updated: 2024-01-05
-permalink: /azure/appdev/azure-container-apps
+permalink: /skilling/developer-velocity-academy/resources/azure-container-apps
 tags:
 - learning plan
 - azure

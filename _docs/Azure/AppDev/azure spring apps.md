@@ -3,9 +3,8 @@ layout: page
 title: Azure Spring Apps
 description: Resources for Azure Spring Apps
 updated: 2024-01-05
-permalink: /azure/appdev/azure-spring-apps
+permalink: /skilling/developer-velocity-academy/resources/azure-spring-apps
 tags:
-- learning plan
 - azure
 - appdev
 - microservices

@@ -3,9 +3,8 @@ layout: page
 title: DevOps
 description: Resources for DevOps
 updated: 2024-01-12
-permalink: /azure/appdev/devops
+permalink: /skilling/developer-velocity-academy/resources/devops
 tags: 
-- learning plan
 - azure
 - appdev
 - devops
