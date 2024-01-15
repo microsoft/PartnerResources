@@ -75,7 +75,7 @@ At the end of the Envisioning Session, both parties should reach an agreement wh
 
 A key part of any application modernization project is to conduct an Architecture Design Session (ADS) with the customer or partner. An ADS allows us to define and agree upon the architecture and scope of the application, making it easier to plan the development.
 
-This is ideally done in-person to avoid distractions; however, it can also be accomplished successfully remotely or as a hybrid event with some attendees meeting in-person and others participating virtually.
+This is ideally done in person to avoid distractions; however, it can also be accomplished successfully remotely or as a hybrid event with some attendees meeting in-person and others participating virtually.
 
 Below we cover ADS details for SI partners and for ISVs.
 
@@ -276,7 +276,7 @@ Some partners will require upskilling on the technologies used in the solution. 
 
 ## <a name="poc"></a>Proof of Concept
 
-We may have uncertainty if a technology is a good fit for our solution. In this case, a Proof of Concept (POC) will help. A Proof of Concept is a small application that demonstrates the capabilities of a technology in a given scenario. This helps us decide if the technology is appropriate for the solution, minimizing risk without investing inordinate time and money.
+We may be uncertain if a technology is a good fit for our solution. In this case, a Proof of Concept (POC) will help. A Proof of Concept is a small application that demonstrates the capabilities of a technology in a given scenario. This helps us decide if the technology is appropriate for the solution, minimizing risk without investing inordinate time and money.
 
 ## <a name="techbriefing"></a>Tech Briefing
 
@@ -327,7 +327,7 @@ The partner should provide detailed explanations for one or more customer refere
 
 ### Best Practices
 
-**High Availability (HA):** The partner should articulate how they ensure the solution is highly available for customers. They might implement at least one of the below services in the case of App Service Environment:
+**High Availability (HA):** The partner should articulate how they ensure the solution is highly available for customers. They might implement at least one of the services below in the case of App Service Environment:
 
   * Availability Zones
   * Availability Sets
@@ -354,14 +354,14 @@ The partner should provide detailed explanations for one or more customer refere
 
 **Governance:** The partner should explain the different access control and governance policies practiced as part of solution implementation.
 
-**Identity Access Management (IAM):** The partner should explain how they implement identity, authentication, and authorization in their solution. They should implement at least one of the below services:
+**Identity Access Management (IAM):** The partner should explain how they implement identity, authentication, and authorization in their solution. They should implement at least one of the services below:
 
   * Easy Auth
   * Azure Active Directory
   * Azure Active Directory B2C
   * Enterprise Applications
 
-**DevOps**: The partner should explain in detail on how they implement their DevOps strategy for easier repeatable code and/or infrastructure deployments. They should be familiar with the DevOps offerings within Azure and their implementations. Below is a list of such implementations:
+**DevOps**: The partner should explain in detail how they implement their DevOps strategy for easier repeatable code and/or infrastructure deployments. They should be familiar with the DevOps offerings within Azure and their implementations. Below is a list of such implementations:
 
   * Web Apps Deployment Slots
   * App Configuration
@@ -369,7 +369,7 @@ The partner should provide detailed explanations for one or more customer refere
   * Git Integration
   * Containers (Linux + Windows)
 
-**Observability**: The partner must articulate their strategy for knowing the health of the solution. They must implement one or more of the below listed services:
+**Observability**: The partner must articulate their strategy for knowing the health of the solution. They must implement one or more of the services listed below:
 
   * Application Insights
   * Azure Monitor
@@ -382,7 +382,7 @@ The partner should provide detailed explanations for one or more customer refere
 
 **Cost Effectiveness**: The partner must be familiar with scaling and compute options to implement a cost-effective solution for the customer.
 
-**Performance**: The partner must articulate their strategy for high performing solution delivery. They should leverage at least one of the below:
+**Performance**: The partner must articulate their strategy for high performing solution delivery. They should leverage at least one of the following:
 
   * Azure CDN
   * Azure Front Door
