@@ -1,7 +1,7 @@
 ---
 layout: planlist
 title: Azure AppDev Readiness Resources📃
-permalink: /azure/appdev/
+permalink: /skilling/developer-velocity-academy/resources
 includemethod: all
 includeplans:
 - appdev

@@ -3,7 +3,7 @@ layout: page
 title: Azure Kubernetes Service
 description: Resources for Azure Kubernetes Service
 updated: 2024-01-05
-permalink: /azure/appdev/containerize-with-kubernetes
+permalink: /skilling/developer-velocity-academy/resources/aks
 tags:
 - learning plan
 - azure
