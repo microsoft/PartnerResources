@@ -6,9 +6,6 @@
       url: "azure"
       tag: azure
       children:
-        - title: App Dev
-          url: "azure/appdev"
-          tag: appdev
         - title: Data, Analytics, and AI
           url: "azure/data-analytics-ai"
           tag: data, analytics, and ai

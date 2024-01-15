@@ -4,7 +4,8 @@ title: DevOps
 description: Resources for DevOps
 updated: 2024-01-12
 permalink: /skilling/developer-velocity-academy/resources/devops
-tags: 
+tags:
+- learning plan
 - azure
 - appdev
 - devops

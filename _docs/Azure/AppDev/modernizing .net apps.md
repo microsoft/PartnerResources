@@ -5,6 +5,7 @@ description: Resources for Modernizing Applications
 updated: 2024-01-12
 permalink: /skilling/developer-velocity-academy/resources/modernize-applications
 tags:
+- learning plan
 - azure
 - appdev
 - app modernization

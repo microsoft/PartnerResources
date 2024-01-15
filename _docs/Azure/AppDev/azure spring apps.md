@@ -5,6 +5,7 @@ description: Resources for Azure Spring Apps
 updated: 2024-01-05
 permalink: /skilling/developer-velocity-academy/resources/azure-spring-apps
 tags:
+- learning plan
 - azure
 - appdev
 - microservices

@@ -5,6 +5,7 @@ description: Modernizing Java Applications on Azure
 updated: 2024-01-16
 permalink: /skilling/developer-velocity-academy/resources/modernizing-javaapplications
 tags:
+- learning plan
 - azure
 - appdev
 - java

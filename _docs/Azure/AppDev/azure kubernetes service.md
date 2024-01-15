@@ -5,6 +5,7 @@ description: Resources for Azure Kubernetes Service
 updated: 2024-01-05
 permalink: /skilling/developer-velocity-academy/resources/aks
 tags:
+- learning plan
 - azure
 - appdev
 - kubernetes
