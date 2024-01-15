@@ -42,13 +42,13 @@ Microsoft Azure contains native support for Java applications and the Java ecosy
 
 Existing Java applications that run well on-premise may not be designed to take advantage of the flexibility and scalability that Microsoft Azure provides.
 
-When considering migrating an application to Azure, it is useful to modernize the application and make it "cloud native" to better take advantage of the benefits of cloud computing. While a "lift and shift" approach - running your applications and data on virtual machines in the cloud - may work, it is likely to be inefficient. By architecting your application into distinct services that can be developed, deployed, and managed separately, you can increase the flexibility, maintainability, and scalability of your application. Microsoft Azure offers hundreds of managed services that free the developer from maintaining the underlying infrastructure of the application, allowing them to focus on solving business problems.
+When considering migrating an application to Azure, it is useful to modernize the application and make it "cloud native" to better take advantage of the benefits of cloud computing. While a "lift and shift" approach may work, it is likely to be inefficient.
 
-We have included links to resources recommended for partners looking to migrate their Java applications to Azure and will cover mainstream Java on Azure scenarios.  Readers can expect to learn how to migrate different types of Java applications to Azure, and understand how to build, deploy, and monitor those applications on Azure for their customers.
+By architecting your application into distinct services that can be developed, deployed, and managed separately, you can increase the flexibility, maintainability, and scalability of your application. Microsoft Azure offers hundreds of managed services that free the developer from maintaining the underlying infrastructure of the application, allowing them to focus on solving business problems.
 
 ### <a name="costbenefit"></a>Costs vs Benefits
 
-Migrating an application to Azure provides potential cost savings. By renting compute and storage resources instead of buying them, we move from Capital Expenses to Operating Expenses. For volatile workloads, this can offer significant savings, as we don't need to pay for excess capacity when demand is low.
+Migrating an application to Azure provides cost savings. By renting compute and storage resources instead of buying them, we move from Capital Expenses to Operating Expenses. For volatile workloads, this can offer significant savings, as we don't need to pay for excess capacity when demand is low.
 
 The **[Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)** allows you to estimate the cost of an application deployed to Azure.
 
@@ -65,7 +65,7 @@ The goals of an Envisioning Session are:
 
 * Establish a clear understanding of business objectives
 * Define how a potential solution would be used and how its performance should be measured
-* Understand the capabilities of the development team and address any gasp
+* Understand the capabilities of the development team and address any gaps
 * Make sure all parties have the same understanding of the scope of the project
 * Clearly communicate the next steps
 
@@ -93,18 +93,16 @@ Microsoft provides resources for partners throughout the entire modernize journe
 
 ### <a name="discover"></a>Discover
 
-* [Azure Database Migration Guide](https://datamigration.microsoft.com/)
+* [Azure Database Migration Guides](https://datamigration.microsoft.com/)
 * [Data Migration Service](https://docs.microsoft.com/en-us/azure/dms/)
 * [Migrate Java Applications to Azure](https://docs.microsoft.com/en-us/azure/developer/java/migration/migration-overview)
-* [How to Containerize and Deploy a Java app to Azure](https://www.youtube.com/watch?v=8BxcPngGaaM)
+* [How to Containerize & Deploy a Java App to Azure](https://www.youtube.com/watch?v=8BxcPngGaaM)
 
 ### <a name="assess"></a>Assess
 
 * [Build Migration Plan with Azure Migrate](https://docs.microsoft.com/en-us/azure/migrate/concepts-migration-planning)
 
 ### <a name="plan"></a>Plan
-
-* [Choosing an Azure Compute Service for your App](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?_lrsc=e623b82d-6c35-449e-9ff0-8cc81a0819e3)
 
 The following Azure services can host a Java application. Consider which is appropriate for the current solution.
 
@@ -140,7 +138,7 @@ Read more about Azure App Service **[here](https://docs.microsoft.com/en-us/azur
 
 Azure Kubernetes Service is a service that allows you to manage Kubernetes clusters within Azure. It supports any application that can run in a container, including Java applications.
 
-Read more about Azure Kubernetes Service (AKS) [here](https://docs.microsoft.com/en-us/azure/aks/).
+Read more about Azure Kubernetes Service (AKS) **[here](https://docs.microsoft.com/en-us/azure/aks/).**
 
 *More resources:*
 
@@ -169,7 +167,7 @@ Read more about Azure Kubernetes Service (AKS) [here](https://docs.microsoft.com
 
 * [Best Practices for Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-best-practices)
 * [Azure App Service Deployment Best Practices](https://docs.microsoft.com/en-us/azure/app-service/deploy-best-practices)
-* [Highly Available Multi-Region Web Application on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region)
+* [Highly Available Multi-Region Web Apps on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region)
 * [Design Principles for Azure Applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/)
 * [Application Insights on Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
 
@@ -197,7 +195,7 @@ Before the ADS, establish the objectives you wish to achieve. Then, determine an
 
 Collect any relevant artifacts that will assist in designing the architecture. This can include descriptions and diagrams of existing systems, as well as documentation on their roadmap.
 
-Identify the right people to attend the ADS. From your side, this should be a project owner and the subject-matter experts on the required technologies. From the customer's side, this should be the product owner and the architect who will work on the project.
+Identify the right people to attend the ADS. From your side, this should be the **project owner** and the subject-matter experts on the required technologies. From the customer's side, this should be the **product owner** and the architect(s) who will work on the project.
 
 Decide when, where, and how to host the ADS. Ideally, this will be on-site and away from the customer's work environment. This is not always possible, so you may choose to host the ADS virtually or hold a hybrid event in which some attend in-person and others attend virtually.
 
@@ -205,7 +203,7 @@ Depending on the scope of the project, an ADS can last anywhere from 4 hours to 
 
 Here is a sample agenda for a 2-day ADS:
 
-Day 1:
+**Day #1:**
 
 | When| What |
 | --- | --- |
@@ -215,7 +213,7 @@ Day 1:
 | 1:00PM-3:00PM | Azure Technologies |
 | 3:00PM-5:00PM | Architecture and Solution Design |
 
-Day 2:
+**Day #2:**
 
 | When| What |
 | --- | --- |
@@ -258,7 +256,7 @@ For a Java application, consider the following Azure technologies:
 
 Take time at the end of the ADS to discuss the next steps.
 
-For the next meeting(s)?
+For the next meeting(s)?:
 
 * What is the cadence?
 * Who should attend?
@@ -294,7 +292,7 @@ The **[Microsoft Azure Well Architected Framework](https://docs.microsoft.com/en
 
 Here is technical review guidance from the Microsoft US Partner Tech Team.
 
-The solution must contain at least one of these services listed below:
+The solution must contain at least one of the services listed below:
 
 * API Management
 * App Service
@@ -312,7 +310,7 @@ The solution must contain at least one of these services listed below:
 Additional Solution Services:
 
 * Application Gateway
-* Azure Active Directory
+* Azure Active Directory (AAD)
 * Azure Monitor
 * Azure Storage
 * Key Vault
@@ -323,7 +321,7 @@ Additional Solution Services:
 
 The partner should provide detailed explanations for one or more customer reference stories that clearly demonstrate Modernizing with Java.
 
-* The partner should have sufficient staff with skills or certifications for Modernizing with Java.
+* The partner should have sufficient staff with skills or certifications for Modernizing with Java
 * The partner’s staff should understand and leverage best practices as well as guidance and principles described in the Application Architecture Center, Azure Well-Architected Framework, and Cloud Adoption Framework
 * The partner's staff should understand and leverage App and Data Migration Tools (Ex. Azure Migrate, App Service Migration Assistant, Data Migration Assistant)
 
@@ -356,14 +354,14 @@ The partner should provide detailed explanations for one or more customer refere
 
 **Governance:** The partner should explain the different access control and governance policies practiced as part of solution implementation.
 
-**Identity Access Management (IAM):** The partner should explain how they implement identity, authentication and authorization in their solution. They should implement at least one of the below services:
+**Identity Access Management (IAM):** The partner should explain how they implement identity, authentication, and authorization in their solution. They should implement at least one of the below services:
 
   * Easy Auth
   * Azure Active Directory
   * Azure Active Directory B2C
   * Enterprise Applications
 
-**DevOps**: The partner should explain in detail on how they implement their DevOps strategy for easier repeatable code or infrastructure deployments. They should be familiar with the DevOps offerings with Azure and their implementations. Below is a list of such implementations:
+**DevOps**: The partner should explain in detail on how they implement their DevOps strategy for easier repeatable code and/or infrastructure deployments. They should be familiar with the DevOps offerings within Azure and their implementations. Below is a list of such implementations:
 
   * Web Apps Deployment Slots
   * App Configuration
@@ -382,7 +380,7 @@ The partner should provide detailed explanations for one or more customer refere
   * KQL
   * Microsoft Sentinel
 
-**Cost Effectiveness**: The partner must be familiar with the scaling and compute options for all the Basic Solution Services listed above, to implement a cost-effective solution for the customer.
+**Cost Effectiveness**: The partner must be familiar with scaling and compute options to implement a cost-effective solution for the customer.
 
 **Performance**: The partner must articulate their strategy for high performing solution delivery. They should leverage at least one of the below:
 
