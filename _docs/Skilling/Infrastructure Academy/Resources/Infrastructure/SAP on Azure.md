@@ -44,4 +44,5 @@ tags:
 * [**MS Docs:** Enterprise Scale for SAP Deployment Automation Framework](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/automation-tutorial)
 
 ## Certification & Learning Path
-* [**MS Docs:** SAP on Azure Microsoft Certification Program and Learning Path](https://docs.microsoft.com/en-us/learn/certifications/azure-for-sap-workloads-specialty/)
+* [SAP on Azure Microsoft Certification Program and Learning Path](https://docs.microsoft.com/en-us/learn/certifications/azure-for-sap-workloads-specialty/)
+* [Modernize SAP on Azure Academy](https://msuspartners.eventbuilder.com/ModernizeSAPonAzureAcademy)
