@@ -2,7 +2,7 @@
 layout: page
 title: SAP on Azure Resources
 description: Resources for SAP on Azure
-updated: 2024-01-03
+updated: 2024-01-18
 permalink: /skilling/microsoft-infrastructure-academy/resources/sap-on-azure-resources
 tags: 
 - learning plan
@@ -28,7 +28,7 @@ tags:
 * [SAP on Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/sap-overview)
 * [SAP Technical Scenarios](https://azure.microsoft.com/en-us/solutions/sap/azure-solutions/#scenarios)
 * [Planning & Implementation for SAP NetWeaver on Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/planning-guide)
-* [SAP HANA infrastructure Configurations & Ops](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-operations)
+* [SAP HANA Infrastructure Configurations & Ops](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-operations)
 
 ## Automate SAP Deployment on Azure 
 * [The SAP Deployment Automation Framework](https://github.com/Azure/sap-automation)
@@ -43,8 +43,8 @@ tags:
 ## SAP and Open AI Service Integration 
 * [Microsoft AI SDK for SAP](https://microsoft.github.io/aisdkforsapabap/docs/intro/)
 * [ABAP SDK for Azure](https://github.com/microsoft/ABAP-SDK-for-Azure)
-* [Empower SAP RISE enterprise users with Azure OpenAI in multi-cloud environment](https://blogs.sap.com/2023/02/14/empower-sap-rise-enterprise-users-with-chatgpt-in-multi-cloud-environment/)
-* [Consume OpenAI services (GPT) through CAP & SAP BTP, AI Core](https://github.com/SAP-samples/azure-openai-aicore-cap-api)
+* [Empower SAP RISE Enterprise Users with Azure OpenAI in multi-cloud Environment](https://blogs.sap.com/2023/02/14/empower-sap-rise-enterprise-users-with-chatgpt-in-multi-cloud-environment/)
+* [Consume OpenAI Services (GPT) through CAP & SAP BTP, AI Core](https://github.com/SAP-samples/azure-openai-aicore-cap-api)
 * [SAP SuccessFactors Helps HR Solve Skills Gap with Generative AI](https://news.sap.com/2023/05/sap-successfactors-helps-hr-solve-skills-gap-with-generative-ai/)
 * [Powering Your Business with AI: 7 Unbelievable Whiteboard Scenarios for SAP S/4HANA & Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/powering-your-business-with-ai-7-unbelievable-whiteboard/ba-p/3790982)
 
