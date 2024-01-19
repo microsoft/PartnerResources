@@ -2,7 +2,7 @@
 layout: page
 title: Epic on Azure Resources
 description: Resources for Epic on Azure
-updated: 2024-01-18
+updated: 2024-01-19
 permalink: /skilling/microsoft-infrastructure-academy/resources/epic-on-azure-resources
 tags: 
 - learning plan
@@ -13,7 +13,7 @@ tags:
 
 # Resources for Epic on Azure
 
-## Microsoft and Healthcare
+## Microsoft & Healthcare
 * [Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare)
 * [3 Ways Cloud-Based EHR Elevates Healthcare](https://go.microsoft.com/fwlink/p/?linkid=2228707&clcid=0x409&culture=en-us&country=us)
 
