@@ -2,7 +2,7 @@
 layout: page
 title: Epic on Azure Resources
 description: Resources for Epic on Azure
-updated: 2024-01-03
+updated: 2024-01-18
 permalink: /skilling/microsoft-infrastructure-academy/resources/epic-on-azure-resources
 tags: 
 - learning plan
@@ -18,11 +18,11 @@ tags:
 * [3 Ways Cloud-Based EHR Elevates Healthcare](https://go.microsoft.com/fwlink/p/?linkid=2228707&clcid=0x409&culture=en-us&country=us)
 
 ## Epic Workload on Azure
-* [Migrate EHR to cloud confidently :  5 key steps to ensure a successful EHR transition](https://go.microsoft.com/fwlink/p/?linkid=2226127&clcid=0x409&culture=en-us&country=us)
+* [Migrate EHR to Cloud Confidently:  5 key steps to ensure a successful EHR transition](https://go.microsoft.com/fwlink/p/?linkid=2226127&clcid=0x409&culture=en-us&country=us)
 * [Overview of Epic on Azure ](https://go.microsoft.com/fwlink/p/?linkid=2228174&clcid=0x409&culture=en-us&country=us)
 * [Epic on Azure Service Offering Page](https://www.microsoft.com/en-us/industry/health/epic-on-azure?rtc=1)
 * [Microsoft & Epic AI partnership](https://blogs.microsoft.com/blog/2023/08/22/microsoft-and-epic-expand-ai-collaboration-to-accelerate-generative-ais-impact-in-healthcare-addressing-the-industrys-most-pressing-needs/)
-* [Azure Large Instances for Epic workload](https://learn.microsoft.com/en-us/azure/azure-large-instances/workloads/epic/)
+* [Azure Large Instances for Epic Workload](https://learn.microsoft.com/en-us/azure/azure-large-instances/workloads/epic/)
 
 ## Epic on Azure Customer Stories
 * [Mount Sinai Health System](https://customers.microsoft.com/en-us/story/3126619b-dc3d-424c-abb6-19234fe60c78?preview=1)
@@ -32,8 +32,8 @@ tags:
 * [Memorial Hospital](https://customers.microsoft.com/en-us/story/1621994115891906610-memorialhospital-azurecloud-unitedstates)
 
 
-## Extend and Innovate with EHR data in Microsoft Azure - Using Azure Managed FHIR & Advance Analytics Services to take your healthcare data to next level.
-* [Breaking Down AI: Real applications in healthcare](https://info.microsoft.com/ww-landing-Health-Real-Applications-Gate.html?lcid=EN-US)
+## Extend and Innovate with EHR Data in Microsoft Azure — Using Azure Managed FHIR & Advance Analytics Services to take your healthcare data to next level
+* [Breaking Down AI: Real Applications in Healthcare](https://info.microsoft.com/ww-landing-Health-Real-Applications-Gate.html?lcid=EN-US)
 * [Microsoft AI in Healthcare](https://www.microsoft.com/en-us/ai/industry/ai-in-healthcare?activetab=pivot1%3aprimaryr6)
 * [FHIR Server for Azure: an open-source project](https://github.com/Microsoft/fhir-server)
 * [Azure API for FHIR](https://learn.microsoft.com/en-us/azure/healthcare-apis/azure-api-for-fhir/overview)
@@ -42,7 +42,7 @@ tags:
 
 
 ## Referance Architecture using Azure FHIR services 
-* [Azure Health Data Services architecture](https://learn.microsoft.com/en-us/azure/architecture/guide/data/azure-health-data-services)
-* [Remote patient monitoring](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/digital-health/remote-patient-monitoring)
-* [Donor-patient matching on Azure Machine Learning](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/machine-learning/donor-patient-cross-match)
-* [Implement risk prediction for surgeries](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/risk-stratification-surgery)
+* [Azure Health Data Services Architecture](https://learn.microsoft.com/en-us/azure/architecture/guide/data/azure-health-data-services)
+* [Remote Patient Monitoring](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/digital-health/remote-patient-monitoring)
+* [Donor-patient Matching on Azure Machine Learning](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/machine-learning/donor-patient-cross-match)
+* [Implement Risk Prediction for surgeries](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/risk-stratification-surgery)
