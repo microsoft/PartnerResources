@@ -21,7 +21,7 @@ tags:
 * [Migrate EHR to Cloud Confidently: 5 key steps to ensure a successful EHR transition](https://go.microsoft.com/fwlink/p/?linkid=2226127&clcid=0x409&culture=en-us&country=us)
 * [Overview of Epic on Azure ](https://go.microsoft.com/fwlink/p/?linkid=2228174&clcid=0x409&culture=en-us&country=us)
 * [Epic on Azure Service Offering Page](https://www.microsoft.com/en-us/industry/health/epic-on-azure?rtc=1)
-* [Microsoft & Epic AI partnership](https://blogs.microsoft.com/blog/2023/08/22/microsoft-and-epic-expand-ai-collaboration-to-accelerate-generative-ais-impact-in-healthcare-addressing-the-industrys-most-pressing-needs/)
+* [Microsoft & Epic AI Partnership](https://blogs.microsoft.com/blog/2023/08/22/microsoft-and-epic-expand-ai-collaboration-to-accelerate-generative-ais-impact-in-healthcare-addressing-the-industrys-most-pressing-needs/)
 * [Azure Large Instances for Epic Workload](https://learn.microsoft.com/en-us/azure/azure-large-instances/workloads/epic/)
 
 ## Epic on Azure Customer Stories
