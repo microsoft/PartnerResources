@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2024-01-03
+updated: 2024-01-19
 permalink: /security/microsoft-security-academy/microsoft-sentinel
 tags:
 - security
@@ -18,7 +18,8 @@ Below you will find content to assist in skilling on Microsoft Sentinel. Content
 See our **[Microsoft Sentinel Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy/sentinel-academy)** for video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security team and beyond, who are experts in their respective fields.
 
 
-## What's New
+## Jan. 2024 Update📰
+* **NEW:** [Updated Workbook for User and Entity Behavior Analytics (UEBA)](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unleash-the-full-potential-of-user-and-entity-behavior-analytics/ba-p/4031570)
 * **NEW:** [Elevating Cybersecurity Intelligence with Microsoft Sentinel's New Enrichment Widgets](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/elevating-cybersecurity-intelligence-with-microsoft-sentinel-s/ba-p/3985255?utm_source=substack&utm_medium=email)
 * **NEW:** [Quality Assurance in Microsoft Sentinel: How to ensure accurate threat detections?](https://secopslab.substack.com/p/quality-assurance-in-microsoft-sentinel?utm_source=profile&utm_medium=reader2)
 * [Refactoring Data Ingestion Costs](https://craigclouditpro.wordpress.com/2023/09/19/refactoring-data-ingestion-costs/?utm_source=substack&utm_medium=email)
