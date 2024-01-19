@@ -18,7 +18,7 @@ tags:
 * [3 Ways Cloud-Based EHR Elevates Healthcare](https://go.microsoft.com/fwlink/p/?linkid=2228707&clcid=0x409&culture=en-us&country=us)
 
 ## Epic Workload on Azure
-* [Migrate EHR to Cloud Confidently:  5 key steps to ensure a successful EHR transition](https://go.microsoft.com/fwlink/p/?linkid=2226127&clcid=0x409&culture=en-us&country=us)
+* [Migrate EHR to Cloud Confidently: 5 key steps to ensure a successful EHR transition](https://go.microsoft.com/fwlink/p/?linkid=2226127&clcid=0x409&culture=en-us&country=us)
 * [Overview of Epic on Azure ](https://go.microsoft.com/fwlink/p/?linkid=2228174&clcid=0x409&culture=en-us&country=us)
 * [Epic on Azure Service Offering Page](https://www.microsoft.com/en-us/industry/health/epic-on-azure?rtc=1)
 * [Microsoft & Epic AI partnership](https://blogs.microsoft.com/blog/2023/08/22/microsoft-and-epic-expand-ai-collaboration-to-accelerate-generative-ais-impact-in-healthcare-addressing-the-industrys-most-pressing-needs/)
@@ -32,17 +32,17 @@ tags:
 * [Memorial Hospital](https://customers.microsoft.com/en-us/story/1621994115891906610-memorialhospital-azurecloud-unitedstates)
 
 
-## Extend and Innovate with EHR Data in Microsoft Azure — Using Azure Managed FHIR & Advance Analytics Services to take your healthcare data to next level
+## Extend and Innovate with EHR Data in Microsoft Azure - Using Azure Managed FHIR & Advance Analytics Services to take your healthcare data to next level
 * [Breaking Down AI: Real Applications in Healthcare](https://info.microsoft.com/ww-landing-Health-Real-Applications-Gate.html?lcid=EN-US)
 * [Microsoft AI in Healthcare](https://www.microsoft.com/en-us/ai/industry/ai-in-healthcare?activetab=pivot1%3aprimaryr6)
 * [FHIR Server for Azure: an open-source project](https://github.com/Microsoft/fhir-server)
 * [Azure API for FHIR](https://learn.microsoft.com/en-us/azure/healthcare-apis/azure-api-for-fhir/overview)
-* [Azure Health Data Services: Unified Service includ FHIR, DICOM & MedTech](https://azure.microsoft.com/en-us/products/health-data-services)
+* [Azure Health Data Services: Unified Service including FHIR, DICOM & MedTech](https://azure.microsoft.com/en-us/products/health-data-services)
 * [Microsoft introduces new data and AI solutions to help healthcare organizations unlock insights and improve patient and clinician experiences](https://blogs.microsoft.com/blog/2023/10/10/microsoft-introduces-new-data-and-ai-solutions-to-help-healthcare-organizations-unlock-insights-and-improve-patient-and-clinician-experiences/)
 
 
-## Referance Architecture using Azure FHIR services 
+## Reference Architecture using Azure FHIR Services
 * [Azure Health Data Services Architecture](https://learn.microsoft.com/en-us/azure/architecture/guide/data/azure-health-data-services)
 * [Remote Patient Monitoring](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/digital-health/remote-patient-monitoring)
 * [Donor-patient Matching on Azure Machine Learning](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/machine-learning/donor-patient-cross-match)
-* [Implement Risk Prediction for surgeries](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/risk-stratification-surgery)
+* [Implementing Risk Prediction for surgeries](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/risk-stratification-surgery)
