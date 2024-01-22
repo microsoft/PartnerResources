@@ -10,7 +10,7 @@ tags:
 - financial services
 ---
 
-# Learning Plan Resources for Microsoft Cloud for Financial Services
+# Resources for Microsoft Cloud for Financial Services
 
 **Microsoft Cloud for Financial Services provides capabilities to manage data to deliver differentiated experiences, empower employees, and combat financial crime while facilitating security, compliance, and interoperability.**
 

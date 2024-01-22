@@ -11,7 +11,7 @@ tags:
 - azure
 ---
 
-# Learning Plan Resources for Microsoft Cloud for Healthcare
+# Resources for Microsoft Cloud for Healthcare
 
 **Microsoft Cloud for Healthcare includes data models, cross-cloud connectors, workflows, APIs, and built-in healthcare-specific components with the best of our horizontal cloud apps and services.** We are committed to helping provider, payor, pharmaceutical, and medical technology organizations reimagine tomorrow by empowering everyone to deliver value faster, adapt to make more impactful decisions, and support security, privacy, and compliance.
 

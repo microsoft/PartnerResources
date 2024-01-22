@@ -25,4 +25,6 @@ Welcome to the Microsoft Azure VMware Solution Academy. Explore Microsoft Azure 
 
 [![AVS SHORT VIDEO](https://img.youtube.com/vi/VcWXQ86dro0/mqdefault.jpg)](https://www.youtube.com/watch?v=VcWXQ86dro0)
 
-**Additional sessions available here:** [AVS Academy](https://aka.ms/AVSA)
+👩‍💻 **Additional sessions available here:** [AVS Bootcamp 2024](https://aka.ms/AVSBootcamp2023) 🆕 & [AVS Academy](https://aka.ms/AVSA)
+
+🧑‍💼 **[Join AVSPros](https://aka.ms/AVSPros) LinkedIn Group to stay up to date with Azure VMware Solution**

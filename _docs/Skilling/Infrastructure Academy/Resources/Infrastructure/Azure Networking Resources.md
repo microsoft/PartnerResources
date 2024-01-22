@@ -13,6 +13,11 @@ tags:
 
 # [Azure Advanced Networking Resources](https://docs.microsoft.com/en-us/azure/networking/)
 
+
+## Hybrid Cloud Connectivity
+**[Hub and Spoke Design](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli)**
+
+
 ## Virtual Network
 * [**MS Docs:** Azure Virtual Network]( https://docs.microsoft.com/en-us/azure/virtual-network)
 * [**MS Docs:** Azure DNS](https://docs.microsoft.com/en-us/azure/dns/dns-overview)

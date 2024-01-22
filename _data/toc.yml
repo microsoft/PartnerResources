@@ -6,9 +6,6 @@
       url: "azure"
       tag: azure
       children:
-        - title: App Dev
-          url: "azure/appdev"
-          tag: appdev
         - title: Data, Analytics, and AI
           url: "azure/data-analytics-ai"
           tag: data, analytics, and ai
@@ -46,13 +43,13 @@
       url: "skilling/ai-ml-academy"
       tag: ai ml academy
       children:
-        - title: Prebuilt AI
+        - title: Customizeable AI Models
           url: "skilling/ai-ml-academy/prebuilt-ai"
           tag: aiml prebuilt
         - title: Azure OpenAI
           url: "skilling/ai-ml-academy/openai"
           tag: aiml openai
-        - title: Applied AI
+        - title: Scenario-based Services
           url: "skilling/ai-ml-academy/applied-ai"
           tag: aiml applied
         - title: Build Your Own AI
@@ -96,6 +93,9 @@
         - title: GitHub Copilot
           url: "skilling/developer-velocity-academy/github-copilot"
           tag: dva github copilot
+        - title: Resources
+          url: "skilling/developer-velocity-academy/resources"
+          tag: dva resources
     - title: "Dynamics 365"
       url: "skilling/d365-academy"
       tag: d365 academy
@@ -167,43 +167,43 @@
             - title: Business Central
               url: "skilling/d365-academy/d365-copilot-academy/business-central"
               tag: d365 copilot business central
-            - title: Power Virtual Agent
-              url: "skilling/d365-academy/d365-copilot-academy/pva"
+            - title: Copilot Studio
+              url: "skilling/d365-academy/d365-copilot-academy/copilotstudio"
               tag: d365 copilot pva
-        - title: "Marketing Academy"
-          url: "skilling/d365-academy/d365-marketing-academy"
-          tag: d365 marketing academy
+        - title: "Journeys"
+          url: "skilling/d365-academy/d365-ci-journeys"
+          tag: customer insights
           children:
             - title: Create Trial
-              url: "skilling/d365-academy/d365-marketing-academy/create-trial"
-              tag: d365 marketing academy createtrial
+              url: "skilling/d365-academy/d365-ci-journeys/create-trial"
+              tag: customer insights
             - title: Optimize Trial
-              url: "skilling/d365-academy/d365-marketing-academy/optimizetrial"
-              tag: d365 marketing academy optimizetrial
+              url: "skilling/d365-academy/d365-ci-journeys/optimizetrial"
+              tag: customer insights
             - title: Segments
-              url: "skilling/d365-academy/d365-marketing-academy/segments"
-              tag: d365 marketing academy segments
+              url: "skilling/d365-academy/d365-ci-journeys/segments"
+              tag: customer insights
             - title: E-mail
-              url: "skilling/d365-academy/d365-marketing-academy/email"
-              tag: d365 marketing academy email
+              url: "skilling/d365-academy/d365-ci-journeys/email"
+              tag: customer insights
             - title: SMS
-              url: "skilling/d365-academy/d365-marketing-academy/sms"
-              tag: d365 marketing academy sms
+              url: "skilling/d365-academy/d365-ci-journeys/sms"
+              tag: customer insights
             - title: Push Notification
-              url: "skilling/d365-academy/d365-marketing-academy/pushnotification"
-              tag: d365 marketing academy push
+              url: "skilling/d365-academy/d365-ci-journeys/pushnotification"
+              tag: customer insights
             - title: Forms
-              url: "skilling/d365-academy/d365-marketing-academy/forms"
-              tag: d365 marketing academy forms
+              url: "skilling/d365-academy/d365-ci-journeys/forms"
+              tag: customer insights
             - title: Triggers
-              url: "skilling/d365-academy/d365-marketing-academy/triggers"
-              tag: d365 marketing academy triggers
+              url: "skilling/d365-academy/d365-ci-journeys/triggers"
+              tag: customer insights
             - title: Journeys
-              url: "skilling/d365-academy/d365-marketing-academy/journeys"
-              tag: d365 marketing academy journeys
+              url: "skilling/d365-academy/d365-ci-journeys/journeys"
+              tag: customer insights
             - title: Lead Scoring
-              url: "skilling/d365-academy/d365-marketing-academy/leadscoring"
-              tag: d365 marketing academy leadscoring
+              url: "skilling/d365-academy/d365-ci-journeys/leadscoring"
+              tag: customer insights
         - title: "Sales Academy"
           url: "skilling/d365-academy/d365-sales-academy"
           tag: d365 sales academy
@@ -230,7 +230,7 @@
                   url: "/skilling/microsoft-infrastructure-academy/avs"
                   tag: IA
                 - title: Azure Arc
-                  url: "/skilling/microsoft-infrastructure-academy/azure-arc"
+                  url: "/skilling/microsoft-infrastructure-academy/adaptive-cloud"
                   tag: IA
                 - title: Azure Virtual Desktop
                   url: "/skilling/microsoft-infrastructure-academy/avd"

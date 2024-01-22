@@ -164,8 +164,6 @@ __Microsoft OpenHack events are immersive, multi-day hands on experiences; speci
 
 ## Specialist
 
-* [Open Hack Registration Site](https://openhacks.azurewebsites.net/labs/player/openhack_-_modern_data_warehousing_2bd410cacc6b_3_0)
-  * Register for a Modern Data Warehouse OpenHack. OpenHacks are a challenge-based lab format; the Modern Data Warehousing OpenHack provides a lab environment with preconfigured resources.
 * [Analytics in a Day](https://github.com/abrahams1/azsynapselabsny)
   * Self-guided labs for Analytics in Day workshop.
 

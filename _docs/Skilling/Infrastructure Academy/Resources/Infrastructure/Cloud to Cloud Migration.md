@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Cloud Adoption Framework
+title: Cloud to Cloud Migration
 description: Resources for Cloud to Cloud Migration
-updated: 2023-10-20
+updated: 2024-01-03
 permalink: /skilling/microsoft-infrastructure-academy/resources/cloud-to-cloud-migration
 tags: 
 - learning plan
@@ -11,7 +11,7 @@ tags:
 - cloud adoption resources
 ---
 
-# Learning Plan Resources for Cloud to Cloud Migration and Cloud Adoption Framework
+# Resources for Cloud to Cloud Migration
 
 ## Fundamentals
 * [**MS Docs:** Begin a Cloud Migration Journey in Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/getting-started/migrate)
@@ -20,7 +20,6 @@ tags:
 * [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/) 
 
 ## Associate
-* [**MS Docs:** Microsoft Cloud Adoption Framework for Azure: Migrate](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/) 
 * [**MS Docs:** Migrate Amazon Web Services (AWS) VMs to Azure](https://docs.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-aws-azure)
 * [**MS Docs:** Migrate Physical Servers to Azure](https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines)
 * [Manage resources in Azure](https://docs.microsoft.com/en-us/learn/paths/manage-resources-in-azure/)

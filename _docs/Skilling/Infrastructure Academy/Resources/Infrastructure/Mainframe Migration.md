@@ -2,7 +2,7 @@
 layout: page
 title: Mainframe Migration
 description: Resources for Mainframe Migration
-updated: 2023-10-20
+updated: 2024-01-03
 permalink: /skilling/microsoft-infrastructure-academy/resources/mainframe-migration
 tags: 
 - learning plan
@@ -10,7 +10,7 @@ tags:
 - infrastructure
 ---
 
-# Learning Plan Resources for Mainframe Migration
+# Resources for Mainframe Migration
 
 ## Fundamentals
 * [**MS Docs:** Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/)

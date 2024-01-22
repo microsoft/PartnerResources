@@ -2,7 +2,7 @@
 layout: page
 title: Business Continuity and Disaster Recovery
 description: Resources for BCDR (Business Continuity and Disaster Recovery)
-updated: 2023-10-20
+updated: 2024-01-03
 permalink: /skilling/microsoft-infrastructure-academy/resources/bcdr
 tags: 
 - learning plan
@@ -10,7 +10,7 @@ tags:
 - infrastructure
 ---
 
-# Learning Plan Resources for Business Continuity and Disaster Recovery
+# Resources for BCDR (Business Continuity and Disaster Recovery)
 
 Azure offers an end-to-end backup and disaster recovery solution that’s simple, secure, scalable, and cost-effective — and can be integrated with on-premises data protection solutions. In the case of service disruption, accidental deletion, or corruption of data, recover your business services in a timely and orchestrated manner. The Azure backup and disaster recovery solution is simple to architect, cloud-native, highly available, and resilient.
 

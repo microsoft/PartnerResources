@@ -5,7 +5,7 @@ description: The AI & ML Academy is focused on Artificial Intelligence and Machi
 permalink: /skilling/ai-ml-academy
 redirect_from:
   - /skilling/ai-ml-academy/
-updated: 2023-06-09
+updated: 2023-12-20
 showbreadcrumb: true
 tags:
 - azure
@@ -45,9 +45,14 @@ Our [ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes) cont
 
 ## Events
 
-- [Microsoft Build](https://build.microsoft.com/) (developer conference) - May 23-24. Join live or watch recordings on-demand! See [Microsoft Build 2023 Recommended AI Session Guide]({{ site.baseurl }}/assets/aiml/Microsoft Build 2023 Recommended AI Session Guide.pdf)
-- Microsoft Build Recap: Insights and Learnings for Analytics and AI - June 7 - [Registration page](https://msuspartners.eventbuilder.com/event/73358)
+- [Microsoft Build](https://build.microsoft.com/) (developer conference) - May 23-24, 2023. Join live or watch recordings on-demand! See [Microsoft Build 2023 Recommended AI Session Guide]({{ site.baseurl }}/assets/aiml/Microsoft Build 2023 Recommended AI Session Guide.pdf)
+- Microsoft Build Recap: Insights and Learnings for Analytics and AI - June 7 2023 - [Registration page](https://msuspartners.eventbuilder.com/event/73358)
+- [Microsoft Ignite Nov 14-17, 2023](https://ignite.microsoft.com/en-US/home)
 - AI Readiness events: [AI & ML Partner Prep](https://aka.ms/AIMLPartnerPrep)
+
+Upcoming: 
+- [Microsoft Data & AI Conference March 26-28, 2024](https://msdataaiconf.com/#!/)
+
 
 ## Table of Contents
 
@@ -92,6 +97,16 @@ Generative AI, including GPT, Codex, DALL-E, and Chat GPT
 ## Hands-on provisioned Environments
 
 We are not currently offering fully-hosted lab environments for AI & ML Academy, but this may change in the future as we expand the content. In the meantime, you can still run the labs in your own Azure subscription. These labs are listed below:
+
+## Prepare for AI-Related Specializations
+
+### Specialization Program Guides
+* [Specialization: AI & Machine Learning in Microsoft Azure](https://partner.microsoft.com/en-us/partnership/specialization/ai-and-machine-learning)
+* [Specialization: Build and Modernize AI Apps with Microsoft Azure](https://partner.microsoft.com/en-us/partnership/specialization/build-and-modernize-ai-apps)
+
+### Preparation Guidance
+* [AI and Machine Learning in Microsoft Azure Specialization-Partner Prep-FY24Q2]({{ site.baseurl }}/assets/misc/AI and Machine Learning in Microsoft Azure Specialization-Partner Prep-FY24Q2.pdf)
+* [Build and Modernize AI Apps with Microsoft Azure Specialization-Partner Prep-FY24Q2]({{ site.baseurl }}/assets/misc/Build and Modernize AI Apps with Microsoft Azure Specialization-Partner Prep-FY24Q2.pdf)
 
 ## Contributions
 

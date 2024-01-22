@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microsoft Cloud for Manufacturing
-description:  Microsoft Cloud for Manufacturing Resources
+description: Resources for Microsoft Cloud for Manufacturing
 updated: 2023-11-15
 permalink: /industry/manufacturing/manufacturing-resources
 tags:
@@ -10,7 +10,7 @@ tags:
 - manufacturing
 ---
 
-# Learning Plan Resources for Manufacturing
+# Resources for Microsoft Cloud for Manufacturing
 
 **Microsoft Cloud for Manufacturing is designed to deliver capabilities that support the core processes and requirements of the industry.** Manufacturing cloud solutions include released and new capabilities that help securely connect people, assets, workflows, and business processes, empowering organizations to be more resilient.
 

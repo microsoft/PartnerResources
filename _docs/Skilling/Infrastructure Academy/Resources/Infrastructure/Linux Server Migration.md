@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Linux and Windows Server Migration
-description: Resources for Linux Migrations
-updated: 2023-10-23
+title: Linux & Windows Server Migration
+description: Resources for Server Migration
+updated: 2024-01-03
 permalink: /skilling/microsoft-infrastructure-academy/resources/linux-server-migration
 tags: 
 - learning plan
@@ -10,7 +10,7 @@ tags:
 - infrastructure
 ---
 
-# Learning Plan Resources for Server Migration
+# Resources for Server Migration
 
 ## Fundamentals
 * [**MS Docs:** Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
