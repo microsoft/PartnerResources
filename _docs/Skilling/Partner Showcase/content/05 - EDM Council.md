@@ -12,6 +12,7 @@ tags:
  - academy content
  - data management
  - edm council
+ - data, analytics, and ai
  - data governance academy
  - modern analytics academy
  - vignettes

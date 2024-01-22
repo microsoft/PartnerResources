@@ -413,6 +413,9 @@
     - title: All Showcases
       url: "skilling/microsoft-partner-showcase/all"
       tag: partnershowcase
+    - title: Data & Analytics 
+      url: "skilling/microsoft-partner-showcase/data-and-analytics"
+      tag: partnershowcase
     - title: Embedded Analytics Accelerators
       url: "skilling/microsoft-partner-showcase/embedded-analytics"
       tag: partnershowcase

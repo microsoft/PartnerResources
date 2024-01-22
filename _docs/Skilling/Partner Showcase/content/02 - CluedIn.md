@@ -11,6 +11,7 @@ tags:
  - microsoft partner showcase
  - data governance
  - master data management
+ - data, analytics, and ai
  - cluedin
  - modern analytics academy
  - vignettes
