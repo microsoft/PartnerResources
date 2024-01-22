@@ -434,13 +434,13 @@
     {% if showLink == "true" %}
     
         {% if doc.youtubeid %}<a href="{{- site.baseurl -}}{{- doc.url -}}" 
-        {% if target.size > 0 %}target={{target}}{% endif %}><img src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;float:left; margin-right:12px;"/></a>
+        {% if target.size > 0 %}target={{target}}{% endif %}><img width="180" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;float:left; margin-right:12px;"/></a>
         {% endif %}
 
     {% else %}
 
         {% if doc.youtubeid %}<a href="https://www.youtube.com/watch?v={{ doc.youtubeid }}" 
-        {% if target.size > 0 %}target={{target}}{% endif %}><img src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;float:left; margin-right:12px;"/></a>
+        {% if target.size > 0 %}target={{target}}{% endif %}><img width="180" src="https://img.youtube.com/vi/{{ doc.youtubeid }}/mqdefault.jpg" style="border: 1px solid black;float:left; margin-right:12px;"/></a>
         {% endif %}
 
     {% endif %}

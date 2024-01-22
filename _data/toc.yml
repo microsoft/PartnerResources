@@ -409,3 +409,14 @@
 - title: "Partner Showcase"
   url: "skilling/microsoft-partner-showcase"
   tag: partnershowcase
+  children:
+        - title: All Showcases
+          url: "skilling/microsoft-partner-showcase/all"
+          tag: partnershowcase
+        - title: Embedded Analytics Accelerators
+          url: "skilling/microsoft-partner-showcase/embedded-analytics"
+          tag: partnershowcase
+        - title: Security
+          url: "skilling/microsoft-partner-showcase/security"
+          tag: partnershowcase
+       
