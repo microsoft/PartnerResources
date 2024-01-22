@@ -410,9 +410,6 @@
   url: "skilling/microsoft-partner-showcase"
   tag: partnershowcase
   links:
-    - title: All Showcases
-      url: "skilling/microsoft-partner-showcase/all"
-      tag: partnershowcase
     - title: Data & Analytics 
       url: "skilling/microsoft-partner-showcase/data-and-analytics"
       tag: partnershowcase
