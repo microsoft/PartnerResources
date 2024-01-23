@@ -5,6 +5,3 @@
 {% if page.updated %}{% unless page.hidedate == true %}<script>
     $('h1').first().append('<div id="maindate" class="docupdated">Updated <time datetime="{{- page.updated | date_to_xmlschema -}}"> {{- page.updated | date: "%B %d, %Y" -}}</time></div>')</script>{% endunless %}
 {% endif %}
-{% if page.hidedate == true %}<script>
-    $('h1').first().append('<div id="maindate" class="docupdated"></div>')</script>
-{% endif %}

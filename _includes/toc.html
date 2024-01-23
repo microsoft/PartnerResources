@@ -28,9 +28,12 @@ $(document).ready(function() {
             $('#contribs').css("visibility","visible");
             $('#contribs_header').css("visibility","visible");
 
-            if ($('#maindate').length > 0) {
+            {% if page.hidedate == true %}
+                $('h1').first().append('<div id="maindate" class="docupdated"></div>')
+            {% else %}
                 $('#maindate').append(" • "); 
-            }
+            {% endif %}
+        
             if (names.length == 1) {
                 $('#maindate').append(names.length + " contributor");
             } else {
