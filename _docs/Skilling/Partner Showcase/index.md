@@ -20,7 +20,7 @@ tags:
 
 {{ page.description }}
 
-All of our showcase episodes are listed below, starting with the most recent:
+Our most recent episodes:
 
 {% include series.md 
     includetags="microsoft partner showcase|showcase content" 

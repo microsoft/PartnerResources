@@ -2,7 +2,7 @@
 nav_exclude: true
 layout: page
 title: Microsoft Partner Showcase - Data & Analytics
-description: The **Microsoft Partner Showcase💡** features technical conversations with Microsoft Partners and their solutions. Join Microsoft CSAs and Partners from around the world to get their perspectives on the tech industry and go hands-on with their solutions. These videos focus on data, analytics, and AI solutions.
+description: The **Microsoft Partner Showcase💡** features technical conversations with Microsoft Partners and their solutions. Join Microsoft CSAs and Partners from around the world to get their perspectives on the tech industry and go hands-on with their solutions. These episodes focus on data, analytics, and AI solutions.
 permalink: /skilling/microsoft-partner-showcase/data-and-analytics
 updated: 2024-01-22
 showbreadcrumb: true
@@ -16,8 +16,6 @@ tags:
 # {{ page.title }}
 
 {{ page.description }}
-
-Data, analytics, and AI Sessions:
 
 {% include series.md 
     includetags="microsoft partner showcase|showcase content|data, analytics, and ai" 
