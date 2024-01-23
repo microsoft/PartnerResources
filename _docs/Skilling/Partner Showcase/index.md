@@ -7,7 +7,8 @@ permalink: /skilling/microsoft-partner-showcase
 redirect_from:
 - /skilling/microsoft-partner-showcase/
 updated: 2023-06-28
-showbreadcrumb: true
+showbreadcrumb: false
+hidedate: true
 tags: 
  - microsoft partner showcase
  - academy page
