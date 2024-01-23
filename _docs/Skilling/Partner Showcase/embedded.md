@@ -20,6 +20,6 @@ For more details on this program, visit the [Embedded Analytics Accelerators pag
 {% include series.md 
     includetags="microsoft partner showcase|showcase content|embedded analytics accelerator" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" 
-    showtags="true" visualstyle="normal" 
+    sortfield="sorttitle" sortorder="asc" showdate="false" 
+    showtags="false" visualstyle="normal" 
 %}

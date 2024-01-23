@@ -20,6 +20,6 @@ Our latest security-focused sessions:
 {% include series.md 
     includetags="microsoft partner showcase|showcase content|security" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" 
-    showtags="true" visualstyle="normal"  
+    sortfield="updated" sortorder="desc" showdate="false" 
+    showtags="false" visualstyle="normal"  
 %}
