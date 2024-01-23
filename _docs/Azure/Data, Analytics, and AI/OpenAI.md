@@ -2,7 +2,7 @@
 layout: page
 title: Azure OpenAI
 description: Resources for Azure OpenAI
-updated: 2023-10-17
+updated: 2024-01-22
 permalink: /azure/data-analytics-ai/openai
 tags: 
 - azure
@@ -54,6 +54,7 @@ Evaluating models:
 
 - [LangChain Lib: Evaluation — 🦜🔗](https://python.langchain.com/docs/guides/evaluation)
 - [Evals is a framework for evaluating LLMs and LLM systems](https://github.com/openai/evals)
+- [Leverage Prompt Flow to evaluate your model](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/how-to-develop-an-evaluation-flow?view=azureml-api-2)
 
 Responsible AI:
 
@@ -74,14 +75,16 @@ Responsible AI:
 
 ## Expert 
 - [Azure Cognitive Search + Langchain](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/azure-cognitive-search-and-langchain-a-seamless-integration-for/ba-p/3901448)
+- [Prompt Enginering Techniques](https://microsoft-my.sharepoint.com/:x:/p/mrichter/Ec7Q4fhTNh5CrfQcAgtAHxwBP4-2Z4XR9kKT52m61x59mg?e=ZjrFC6)
 
 <!-- - *Coming soon!* -->
 
 ## Events
 ### Upcoming
-- [Microsoft Ignite](https://ignite.microsoft.com/en-US/) - Nov 14 to 17 
+
 
 ### Past
+- [Microsoft Ignite 2023](https://ignite.microsoft.com/en-US/) You can view the recordings for various sessions, covering updates on services, product announcements and demos.
 - [Microsoft Build](https://build.microsoft.com/) (developer conference) - You should still be able to catch the recordings from the event. See [Microsoft Build 2023 Recommended AI Session Guide]({{ site.baseurl }}/assets/aiml/Microsoft Build 2023 Recommended AI Session Guide.pdf)
 - Microsoft Build Recap: Insights and Learnings for Analytics and AI - You can still register to view the recording. - [Registration page](https://msuspartners.eventbuilder.com/event/73358)
 - Azure AI Bootcamp for Microsoft Partners –  [Registration page](https://vshow.on24.com/vshow/Azure_Depth/registration/22504) *Register to view on-demand*
@@ -98,6 +101,8 @@ Responsible AI:
 - [Business Process Automation Accelerator](https://github.com/Azure/business-process-automation) - Provides a no-code Studio for users to quickly build complex, multi-stage AI pipelines across multiple Azure AI and ML Services
 - [Microsoft Tech Community: Azure OpenAI (GPT) with Power Apps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/azure-open-ai-gpt-with-power-apps-build-a-power-app-to-create/ba-p/3730864) - Build a Power App to create a demo or personal knowledge bot
 - [Build a low code conversational SMS bot with Azure Communication Services and Azure OpenAI](https://techcommunity.microsoft.com/t5/azure-communication-services/build-a-low-code-conversational-sms-bot-with-azure-communication/ba-p/3749180)
+- [Q&A using Azure OpenAI and document's vector embeddings](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna/tree/main)
+- [Create a chatbot using enterprise data with DevOp best practices](https://github.com/oaviles/hello_openaibot)
 
 ## Community Resources
 
@@ -106,6 +111,8 @@ Responsible AI:
 - [OpenAI Cookbook (github.com)](https://github.com/openai/openai-cookbook)
 - [Awesome ChatGPT Prompts](https://prompts.chat/)
 - [Tokenizer for python & NodeJS](https://platform.openai.com/tokenizer)
+
+
 
 ## Interesting Reads
 
