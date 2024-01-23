@@ -18,11 +18,11 @@ tags:
 
 {{ page.description }}
 
-Our latest sessions:
+All of our showcase episodes are listed below, starting with the most recent:
 
 {% include series.md 
     includetags="microsoft partner showcase|showcase content" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="false" 
-    showtags="false" visualstyle="normal" 
+    sortfield="updated" sortorder="desc" showdate="true" 
+    showtags="true" visualstyle="normal" 
 %}
