@@ -6,6 +6,8 @@ description: The **Microsoft Partner Showcase💡** features technical conversat
 permalink: /skilling/microsoft-partner-showcase/security
 updated: 2024-01-22
 showbreadcrumb: true
+removetoctext: Microsoft Partner Showcase — 
+replacetoctext:
 tags: 
  - microsoft partner showcase
  - academy page

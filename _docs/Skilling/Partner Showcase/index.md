@@ -9,6 +9,8 @@ redirect_from:
 updated: 2023-06-28
 showbreadcrumb: false
 hidedate: true
+removetoctext: Microsoft Partner Showcase — 
+replacetoctext:
 tags: 
  - microsoft partner showcase
  - academy page

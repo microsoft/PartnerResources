@@ -6,6 +6,8 @@ description: The Embedded Analytics Solution Accelerator program offers out of t
 permalink: /skilling/microsoft-partner-showcase/embedded-analytics
 updated: 2024-01-22
 showbreadcrumb: true
+removetoctext: Microsoft Partner Showcase — 
+replacetoctext:
 tags: 
  - microsoft partner showcase
  - academy page
