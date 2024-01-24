@@ -2,7 +2,7 @@
 layout: page
 title: Cognitive Services
 description: Resources for Azure Cognitive Services
-updated: 2023-07-20
+updated: 2024-01-23
 permalink: /azure/data-analytics-ai/cognitive-services
 tags: 
 - azure
@@ -12,14 +12,14 @@ tags:
 - cognitive services
 ---
 
-# Cognitive Services Readiness Resources
+# Azure AI Services Readiness Resources
 
 ## Fundamentals
 
-Go through an overview of all the cognitive service pillars, sample use cases, as well as how to start working with some of these services through a unified studio experience.
+Go through an overview of all the AI service pillars, sample use cases, as well as how to start working with some of these services through a unified studio experience.
 
 ### Overview
-* [Azure Cognitive Services Guide](https://learn.microsoft.com/en-us/azure/cognitive-services/)
+* [Azure Azure AI Services Guide](https://learn.microsoft.com/en-us/azure/ai-services/)
 
 ### Use Cases 
 * [Captioning with speech to text](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/captioning-concepts?pivots=programming-language-csharp)
@@ -37,25 +37,30 @@ Go through an overview of all the cognitive service pillars, sample use cases, a
 Azure Cognitive Services for Vision is a cloud based service that offers innovative computer vision capabilities. You can analyze images, read text, and detect faces with prebuilt image tagging, conduct text extraction with optical character recognition (OCR), and perform responsible facial recognition. These vision features can be integrated into your projects with no machine learning experience required. 
 
 * [Overview](https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
-* [Product Announcements](https://azure.microsoft.com/en-us/blog/topics/cognitive-services/)
+* [Product Announcements](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/whats-new)
 * [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/computer-vision/)
   
 ### Speech 
 Azure Cognitive Services for Speech provides speech-to-text and text-to-speech capabilities. You can transcribe speech to text with high accuracy, produce natural-sounding text-to-speech voices, translate spoken audio, and use speaker recognition during conversations. In addition, you can create custom voices, add specific words to your base vocabulary, or build your own models. The service can be run in the cloud or at the edge in containers. 
 
 * [Overview](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/)
-* [Updates](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/latest-updates-on-azure-neural-tts-new-voices-for-casual/ba-p/2761278)
-* [New additions](https://azure.microsoft.com/en-us/blog/announcing-new-voices-and-emotions-to-azure-neural-text-to-speech/)
+* [Product Announcements](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/releasenotes?tabs=speech-sdk)
+* [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/)
   
 ### Language 
 Azure Language is a cloud-based service that provides Natural Language Processing (NLP) features for understanding and analyzing text. With Azure Cognitive services, you use pre-made models to identify entities, summarize text , find key phrases, understand sentiment, and more. There are more custom routes that allow you to create models that are able to extract key information and classify text for more specific use cases, create Q&A chatbots,  and orchestrate  workflows to connect language models to other services. 
 
 * [Overview](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/overview)
 * [Transparency Note](https://learn.microsoft.com/en-us/legal/cognitive-services/language-service/transparency-note?context=%2Fazure%2Fcognitive-services%2Flanguage-service%2Fcontext%2Fcontext)
-* [Updates](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/whats-new?tabs=csharp)
+* [Product Announcements](https://learn.microsoft.com/en-us/azure/ai-services/language-service/whats-new?tabs=csharp)
+* [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/language-service/)
+* [Migration guidance for API and standard voice](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/migration-overview-neural-voice)
   
 ### Decision
 Azure Cognitive Services for Decision provides Natural Language Processing (NLP) features to provide recommendations for informed and efficient decision-making. You can use anomaly detection, content moderation, and personalizer. 
+* The Azure Content Moderator API checks text, image, and video content for material that is potentially offensive, risky, or otherwise undesirable. Content Moderator is being deprecated in February 2024, and will be retired by February 2027. It is being replaced by [Azure AI Content Safety](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/) , which offers advanced AI features and enhanced performance. Azure AI Content Safety is a comprehensive solution designed to detect harmful user-generated and AI-generated content in applications and services.
+* Starting on the 20th of September, 2023 you won’t be able to create new Personalizer resources. The Personalizer service is being retired on the 1st of October, 2026.
+* Starting on the 20th of September, 2023 you won’t be able to create new Anomaly Detector resources. The Anomaly Detector service is being retired on the 1st of October, 2026.
 
 
 ## Expert
@@ -66,10 +71,8 @@ Azure Cognitive Services for Decision provides Natural Language Processing (NLP)
 * [QuickStart](https://learn.microsoft.com/en-us/training/paths/explore-computer-vision-microsoft-azure/)
 * [OCR Overview](https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-ocr)
 * [OCR + Computer Vision](https://www.youtube.com/watch?v=PrjlfdFRUrc&list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1&index=18)
-* [OCR + Form Recognizer](https://www.youtube.com/watch?v=86cZgYJdRGc&list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1&index=32)
+* [OCR + Document Intelligence](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-read?view=doc-intel-4.0.0)
 * [Image Analysis Overview](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-image-analysis?tabs=4-0)
-* [Image Analysis with Project Florence](https://www.youtube.com/watch?v=1cHVk0Z8sL0&list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1&index=2)
-* [Image Analysis with AutoML ](https://www.youtube.com/watch?v=ovsMiyqKo28&list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1&index=49)
 * [Face Overview](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-identity)
 * [Face Quickstart](https://learn.microsoft.com/en-us/training/modules/detect-analyze-faces/)
 * [Face Transparency Note](https://azure.microsoft.com/mediahandler/files/resourcefiles/transparency-note-azure-cognitive-services-face-api/Face%20API%20Transparency%20Note%20(March%202019).pdf)
@@ -79,9 +82,8 @@ Azure Cognitive Services for Decision provides Natural Language Processing (NLP)
 * [Visual Search Toolkit](https://www.youtube.com/watch?v=ZEwaqkMkLUY&list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1&index=9)
 
 #### Custom Vision
-* [Overview](https://learn.microsoft.com/en-us/training/modules/train-custom-vision-ai/)
+* [Overview](https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/overview)
 * [Quickstart](https://learn.microsoft.com/en-us/training/modules/classify-images-custom-vision/)
-* [What is it?](https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/overview)
 * [Custom Vision with AutoML](https://www.youtube.com/watch?v=VvTjHzcYuaQ&list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1&index=39)
 ### Speech 
 * [Speech to Text](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-to-text)
@@ -90,7 +92,8 @@ Azure Cognitive Services for Decision provides Natural Language Processing (NLP)
 * [Speaker Recognition](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/speaker-recognition-overview)
 * [Custom Neural Voice Overview](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/custom-neural-voice)
 * [Custom Neural Voice Quickstart](https://www.youtube.com/watch?v=di3vKMhyLaY)
-* [Custom Neural Voice Tutorial](https://youtu.be/di3vKMhyLaY)
+* [Whisper Model](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/whisper-overview)
+
 ### Language 
 #### Entity Recognition
 * [Custom NER Overview](https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/overview)
@@ -122,13 +125,11 @@ Azure Cognitive Services for Decision provides Natural Language Processing (NLP)
 * [Custom Neural Voice](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/how-to-create-a-custom-neural-voice/ba-p/3028275)
 
 ### Vision
-* [Computer Vision Demo](https://aidemos.microsoft.com/computer-vision)
 * [Custom Vision: Get Started](https://github.com/azure-samples/rock-paper-scissors-customvision/tree/master/)
 * [Hyperparameter for AutoML CV Tasks](https://learn.microsoft.com/en-us/azure/machine-learning/reference-automl-images-hyperparameters)
 * [Containers](https://learn.microsoft.com/en-us/azure/cognitive-services/containers/container-faq)
-* [Containers FAQ](https://learn.microsoft.com/en-us/azure/cognitive-services/containers/container-faq)
 * [Computer Vision with IoT Edge](https://learn.microsoft.com/en-us/azure/architecture/guide/iot-edge-vision/)
-* [Architecture](https://learn.microsoft.com/en-us/azure/architecture/guide/iot-edge-vision/)
+
 ## Community Resources
 
 
