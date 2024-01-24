@@ -409,14 +409,4 @@
 - title: "Partner Showcase"
   url: "skilling/microsoft-partner-showcase"
   tag: partnershowcase
-  links:
-    - title: Data & Analytics 
-      url: "skilling/microsoft-partner-showcase/data-and-analytics"
-      tag: partnershowcase
-    - title: Embedded Analytics Accelerators
-      url: "skilling/microsoft-partner-showcase/embedded-analytics"
-      tag: partnershowcase
-    - title: Security
-      url: "skilling/microsoft-partner-showcase/security"
-      tag: partnershowcase
        
