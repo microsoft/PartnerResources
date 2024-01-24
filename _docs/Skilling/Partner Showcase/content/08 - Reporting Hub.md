@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microsoft Partner Showcase — The Reporting Hub
-sorttitle: Microsoft Partner Showcase — The Reporting Hub
+sorttitle: 2 Microsoft Partner Showcase — The Reporting Hub
 description: With the release of Microsoft Fabric, this a great time to highlight some of the amazing solutions that build off Fabric and Power BI. Embedding Power BI in a multitenant environment and creating white-label experiences can take a significant amount of development time. 
 updated: 2023-11-15
 permalink: /skilling/microsoft-partner-showcase/reportinghub
@@ -14,6 +14,7 @@ tags:
  - modern analytics academy
  - vignettes
  - dashboards
+ - embedded analytics accelerator
 ---
 
 # {{ page.title }}

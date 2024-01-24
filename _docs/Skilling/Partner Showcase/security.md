@@ -1,14 +1,11 @@
 ---
 nav_exclude: true
 layout: page
-title: Microsoft Partner Showcase
+title: Microsoft Partner Showcase - Security
 description: The **Microsoft Partner Showcase💡** features technical conversations with Microsoft Partners and their solutions. Join Microsoft CSAs and Partners from around the world to get their perspectives on the tech industry and go hands-on with their solutions.
-permalink: /skilling/microsoft-partner-showcase
-redirect_from:
-- /skilling/microsoft-partner-showcase/
-updated: 2024-01-24
-showbreadcrumb: false
-hidedate: true
+permalink: /skilling/microsoft-partner-showcase/security
+updated: 2024-01-22
+showbreadcrumb: true
 removetoctext: Microsoft Partner Showcase — 
 replacetoctext:
 tags: 
@@ -20,11 +17,11 @@ tags:
 
 {{ page.description }}
 
-Our most recent episodes:
+Our latest security-focused sessions:
 
 {% include series.md 
-    includetags="microsoft partner showcase|showcase content" 
+    includetags="microsoft partner showcase|showcase content|security" 
     includemethod="all" 
-    sortfield="updated" sortorder="desc" showdate="true" 
-    showtags="false" visualstyle="normal" 
+    sortfield="updated" sortorder="desc" showdate="false" 
+    showtags="false" visualstyle="normal"  
 %}

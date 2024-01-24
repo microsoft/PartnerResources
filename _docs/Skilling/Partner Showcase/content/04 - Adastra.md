@@ -10,6 +10,7 @@ tags:
  - showcase content
  - microsoft partner showcase
  - academy content
+ - data, analytics, and ai
  - openai
  - adastra
  - ai & ml academy

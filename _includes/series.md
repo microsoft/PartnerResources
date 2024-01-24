@@ -414,7 +414,7 @@
             <span class="nav-entry">{{ doctitle }}</span> 
         {% endif %}
         {% if doc.updated and showDate == "true" %}
-            <span class="docupdated"><time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
+            <span class="docupdated">• <time datetime="{{- doc.updated | date_to_xmlschema -}}"> {{- doc.updated | date: "%B %d, %Y" -}}</time></span>
         {% endif %}
     </div>
     {% if showTags == "true" %}

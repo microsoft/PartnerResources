@@ -13,16 +13,21 @@
         {% else %} 
             {% if page.url != "/docs/" %}
                 {% assign linkText =  crumb | replace:'-',' ' | remove:'.html' | capitalize %}
+                {% assign found_toc_entry = false %}
                 {% for section in site.data.toc %}{% if section.links %}{% for entry in section.links %}
-                    {% if crumbUrl == entry.url %}{% assign linkText = entry.title %}{% endif %}
+                    {% if crumbUrl == entry.url %}{% assign linkText = entry.title %}{% assign found_toc_entry = true %}{% endif %}
                     {% if entry.children %}
-                    {% for child in entry.children %}{% if crumbUrl == child.url %}{% assign linkText = child.title %}{% endif %}{% endfor %}
+                    {% for child in entry.children %}{% if crumbUrl == child.url %}{% assign linkText = child.title %}{% assign found_toc_entry = true %}{% endif %}{% endfor %}
                     {% endif %}     
                 {% endfor %}{% endif %}{% endfor %}
-             
                 {% capture crumblink %}{{ site.url }}{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}{% endcapture %}
                 {% assign crumblink = crumblink | append: '@' %}
                 {% assign crumblink = crumblink | replace: '/@', '' | replace '@', '' %}
+                {% if found_toc_entry == false %}
+                    {% assign words = linkText | split: ' ' %}
+                    {% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
+                    {% assign linkText = titlecase %}
+                {% endif %}
             <li class="breadcrumb-item"><a href="{{ crumblink }}">{% if crumb == "docs" %}Documentation{% else %}{{ linkText }}{% endif %}</a></li>
             {% endif %}
         {% endif %}
