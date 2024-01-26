@@ -46,13 +46,13 @@ Azure Cognitive Services for Speech provides speech-to-text and text-to-speech c
 * [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/)
   
 ### Language 
-Azure Language is a cloud-based service that provides Natural Language Processing (NLP) features for understanding and analyzing text. With Azure Cognitive services, you use pre-made models to identify entities, summarize text, find key phrases, understand sentiment, and more. There are more custom routes that allow you to create models that are able to extract key information and classify text for more specific use cases, create Q&A chatbots, and orchestrate  workflows to connect language models to other services.
+Azure Language is a cloud-based service that provides Natural Language Processing (NLP) features for understanding and analyzing text. With Azure Cognitive Services, you use pre-made models to identify entities, summarize text, find key phrases, understand sentiment, and more. There are more custom routes that allow you to create models that are able to extract key information and classify text for more specific use cases, create Q&A chatbots, and orchestrate  workflows to connect language models to other services.
 
 * [Overview](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/overview)
 * [Transparency Note](https://learn.microsoft.com/en-us/legal/cognitive-services/language-service/transparency-note?context=%2Fazure%2Fcognitive-services%2Flanguage-service%2Fcontext%2Fcontext)
 * [Product Announcements](https://learn.microsoft.com/en-us/azure/ai-services/language-service/whats-new?tabs=csharp)
 * [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/language-service/)
-* [Migration guidance for API and standard voice](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/migration-overview-neural-voice)
+* [Migration Guidance for API and Standard Voice](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/migration-overview-neural-voice)
   
 ### Decision
 Azure Cognitive Services for Decision provides Natural Language Processing (NLP) features to provide recommendations for informed decision-making. You can use anomaly detection, content moderation, and personalizer.
