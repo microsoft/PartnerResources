@@ -2,7 +2,7 @@
 layout: page
 title: Azure AI Services
 description: Resources for Azure AI Services formerly known as Cognitive Services 
-updated: 2024-01-26
+updated: 2024-01-29
 permalink: /azure/data-analytics-ai/azure-ai-services
 tags: 
 - azure
@@ -13,7 +13,7 @@ tags:
 - azure ai services
 ---
 
-# Azure AI Services Readiness Resources
+# Azure AI Services Resources
 
 ## Fundamentals
 Go through an overview of all the AI service pillars, sample use cases, as well as how to start working with some of these services through a unified studio experience.
@@ -52,7 +52,7 @@ Azure Language is a cloud-based service that provides Natural Language Processin
 * [Transparency Note](https://learn.microsoft.com/en-us/legal/cognitive-services/language-service/transparency-note?context=%2Fazure%2Fcognitive-services%2Flanguage-service%2Fcontext%2Fcontext)
 * [Product Announcements](https://learn.microsoft.com/en-us/azure/ai-services/language-service/whats-new?tabs=csharp)
 * [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/language-service/)
-* [Migration Guidance for API and Standard Voice](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/migration-overview-neural-voice)
+* [Migration Guidance for API & Standard Voice](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/migration-overview-neural-voice)
   
 ### Decision
 Azure Cognitive Services for Decision provides Natural Language Processing (NLP) features to provide recommendations for informed decision-making. You can use anomaly detection, content moderation, and personalizer.
