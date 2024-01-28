@@ -32,9 +32,9 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
 **Please visit our Academy page to see Code Snippets & Architecture Examples: [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy).**
 
 - [What’s New in Azure OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/whats-new)
-- [Azure OpenAI | YouTube](https://www.youtube.com/watch?v=dDDJIemqUp4)
+- [Azure OpenAI — YouTube](https://www.youtube.com/watch?v=dDDJIemqUp4)
 - [Model Availability](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models)
-- Quotas & Limitations: [Azure OpenAI Service Quotas & Limits | Azure Cognitive Services](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quotas-limits?branch=release-azure-openai-preview)
+- Quotas & Limitations: [Azure OpenAI Service Quotas & Limits — Azure Cognitive Services](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quotas-limits?branch=release-azure-openai-preview)
 - Pricing: [Azure OpenAI Service Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/)
 
 ## Fundamentals
@@ -42,10 +42,10 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
 - [Azure OpenAI Product Page](https://azure.microsoft.com/services/cognitive-services/openai-service/)
 - [Azure OpenAI Documentation – Overview, QuickStart, tutorials, how-to guides, API reference](https://learn.microsoft.com/azure/cognitive-services/openai/)
 - [Video: Combining OpenAI models with the power of Azure](https://learn.microsoft.com/en-us/shows/ai-show/azure-openaigenerative-ai-learning)
-- [Introduction to Azure OpenAI Service | Microsoft Learn](https://learn.microsoft.com/training/modules/explore-azure-openai)
+- [Introduction to Azure OpenAI Service — Microsoft Learn](https://learn.microsoft.com/training/modules/explore-azure-openai)
 - [How to ground models](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/chatgpt?pivots=programming-language-chat-completions#using-data-for-grounding)
-- [ChatGPT Enterprise: Revolutionize your Enterprise Data with ChatGPT: Next-gen Apps w/ Azure OpenAI and Cognitive Search | Microsoft Community Hub](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087)
-- [GPT4 Model: How to work with the ChatGPT and GPT-4 models (Preview) | Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/chatgpt?pivots=programming-language-chat-completions)
+- [ChatGPT Enterprise: Revolutionize your Enterprise Data with ChatGPT: Next-gen Apps w/ Azure OpenAI and Cognitive Search — Microsoft Community Hub](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087)
+- [GPT4 Model: How to work with the ChatGPT and GPT-4 models (Preview) — Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/chatgpt?pivots=programming-language-chat-completions)
 
 Evaluating models:
 
@@ -82,7 +82,7 @@ Responsible AI:
 
 ## Demos & Codes
 
-- [Customer Service Conversational Insights with Azure OpenAI | Architecture Example](https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services)
+- [Customer Service Conversational Insights with Azure OpenAI — Architecture Example](https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services)
 - [OpenAI End-to-End Code Snippets](https://github.com/Azure/openai-samples)
 - [OpenAI Use Cases & ChatGPT Demo](https://www.microsoft.com/videoplayer/embed/RWZbzn)
 - [AI-powered Call Center Architecture Example](https://github.com/amulchapla/AI-Powered-Call-Center-Intelligence)
