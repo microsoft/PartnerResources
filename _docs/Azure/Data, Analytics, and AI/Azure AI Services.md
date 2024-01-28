@@ -19,7 +19,7 @@ tags:
 Go through an overview of all the AI service pillars, sample use cases, as well as how to start working with some of these services through a unified studio experience.
 
 ### Overview & Use Cases
-* [**Overview:** Azure Azure AI Services Guide](https://learn.microsoft.com/en-us/azure/ai-services/)
+* [**Overview:** Azure AI Services Guide](https://learn.microsoft.com/en-us/azure/ai-services/)
 * [**Use Cases:** Captioning with Speech-to-Text](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/captioning-concepts?pivots=programming-language-csharp)
 * [**Use Cases:** Call Center Overview](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/call-center-overview)
 
