@@ -6,7 +6,6 @@ updated: 2024-01-29
 permalink: /skilling/ai-ml-academy/resources/openai
 tags: 
 - azure
-- data, analytics, and ai
 - learning plan
 - academy content
 - aiml resources

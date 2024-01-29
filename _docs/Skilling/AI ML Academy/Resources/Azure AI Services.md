@@ -6,7 +6,6 @@ updated: 2024-01-29
 permalink: /skilling/ai-ml-academy/resources/azure-ai-services
 tags: 
 - azure
-- data, analytics, and ai
 - learning plan
 - academy content
 - aiml resources
