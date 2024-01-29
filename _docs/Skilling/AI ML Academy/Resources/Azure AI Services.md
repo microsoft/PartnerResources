@@ -3,14 +3,13 @@ layout: page
 title: Azure AI Services
 description: Resources for Azure AI Services formerly known as Cognitive Services 
 updated: 2024-01-29
-permalink: /azure/data-analytics-ai/azure-ai-services
+permalink: /skilling/ai-ml-academy/resources/azure-ai-services
 tags: 
 - azure
 - data, analytics, and ai
 - learning plan
-- ai
-- cognitive services
-- azure ai services
+- academy content
+- aiml resources
 ---
 
 # Azure AI Services Resources
