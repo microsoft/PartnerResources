@@ -3,14 +3,12 @@ layout: page
 title: Azure OpenAI
 description: Azure OpenAI Resources
 updated: 2024-01-29
-permalink: /azure/data-analytics-ai/openai
+permalink: /skilling/ai-ml-academy/resources/openai
 tags: 
 - azure
-- data, analytics, and ai
 - learning plan
-- artificial intelligence
-- ai
-- openai
+- academy content
+- aiml resources
 ---
 
 # Azure OpenAI Resources
