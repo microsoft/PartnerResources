@@ -43,6 +43,9 @@
       url: "skilling/ai-ml-academy"
       tag: ai ml academy
       children:
+        - title: Resources
+          url: "skilling/ai-ml-academy/resources"
+          tag: aiml resources
         - title: Customizeable AI Models
           url: "skilling/ai-ml-academy/prebuilt-ai"
           tag: aiml prebuilt
