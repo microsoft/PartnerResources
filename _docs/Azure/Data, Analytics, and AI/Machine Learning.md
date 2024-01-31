@@ -20,7 +20,7 @@ To make AI accessible for all experience levels, Azure ML features a no-code Aut
 
 ## Fundamentals
 
-* [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/) – A good overview of fundamental concepts for AI and ML on Azure, along with an intro to Azure Open AI
+* [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/) – A good overview of fundamental concepts for AI and ML on Azure, along with an intro to Azure OpenAI
 * [Azure Machine Learning Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/) – Documentation for Azure ML, covering concepts such as how to train, deploy, and manage your ML models
 * [Introduction to Azure Machine Learning SDK V2 and CLI V2](https://www.youtube.com/watch?v=unbzStG3IVY&ab_channel=MicrosoftDeveloper) – Video describing the new V2 version of Azure ML, its features, and capabilities, along with a demo
 * [Automated Machine Learning Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml) – All about Azure ML's Automated ML service that enables no-code ML model training and deployment
@@ -33,7 +33,7 @@ To make AI accessible for all experience levels, Azure ML features a no-code Aut
 ## Associate
 
 * [Python SDK Documentation](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py) – A good overview of the Azure ML SDK and its features
-    * [Tutorial: Get started creating your first ML experiment with the Python SDK](https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-1st-experiment-sdk-setup) –
+    * [Tutorial: Get started creating your first ML experiment with the Python SDK](https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-1st-experiment-sdk-setup)
         * Part 1 – Create a compute instance using Azure ML
         * Part 2 – Train a model: Follow the Next Steps on the bottom of Part 1 to train your image classification model with MNIST data and scikit-learn 
         * Part 3 – Deploy a model: Follow the Next Steps on the bottom of Part 2 to deploy the classification model in Azure Container Instances  
@@ -49,9 +49,9 @@ To make AI accessible for all experience levels, Azure ML features a no-code Aut
 * [Deploy batch inference pipelines with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/) – Learn to create, deploy, and use batch inference pipelines
 * [Explain Machine Learning models with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/explain-machine-learning-models-with-azure-machine-learning/?OCID=AID3027817) – Learn to explain models by calculating and interpreting feature importance
 * [Tune hyperparameters with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-machine-learning/?OCID=AID3027817) – Tutorial on hyperparameter sweeping to optimize your ML models
-* [Monitor models with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/?OCID=AID3027817) – Learn to run hyperparameter tuning experiments to optimize model performance
+* [Monitor models with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/?OCID=AID3027817) – Learn to run hyperparameter tuning experiments to optimize ML model performance
 * [Monitor data drift with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/?OCID=AID3027817) – Learn to configure data drift monitoring to detect changes in data over time
-* [MLOps Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) – Documentation on Azure ML Operations (MLOps) for building efficient ML workflows, including continuous integration, delivery, and deployment
+* [MLOps Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) – Documentation on Azure ML Operations (MLOps) for building efficient ML workflows, including continuous integration, delivery, and deployment (CI/CD)
 
 ## Specialist
 * [Recommendation System Best Practices & GitHub Examples](https://github.com/microsoft/recommenders) – GitHub repository containing examples and best practice guidelines for recommendation systems
@@ -61,11 +61,11 @@ To make AI accessible for all experience levels, Azure ML features a no-code Aut
  
 ## Certifications
 
-DP-100 applies your knowledge of data science and ML to implement and run ML workloads on Azure; in particular, using Azure ML. This is the most ML heavy certification.
+DP-100 applies your knowledge of data science and ML to implement and run ML workloads on Azure; in particular, using Azure ML. This is the most ML-heavy certification.
 
 * [DP-100](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100)
 
-You may also consider taking AI-102 to skill up on Azure AI services, ML, and knowledge mining or DP-203 to skill up on the data engineering portion of a ML project. 
+You may also consider taking AI-102 to skill up on Azure AI services, ML, and knowledge mining or DP-203 to skill up on the data engineering portion of an ML project.
 
 * [AI-102](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-102/)
 * [DP-203](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-203/)
