@@ -16,4 +16,6 @@ tags:
 
 {{ page.description }}
 
+Download the PowerPoint [here](/PartnerResources/assets/msa/AI Video.pdf).
+
 {% include youtubethumb.md showlink="true" %}
