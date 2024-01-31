@@ -3,13 +3,12 @@ layout: page
 title: Machine Learning
 description: Resources for Azure Machine Learning (AML)
 updated: 2024-01-31
-permalink: /azure/data-analytics-ai/machine-learning
-tags: 
+permalink: /skilling/ai-ml-academy/resources/machine-learning
+tags:
 - azure
-- data, analytics, and ai
 - learning plan
-- machine learning
-- ai
+- academy content
+- aiml resources
 ---
 
 # Machine Learning (ML) Resources
