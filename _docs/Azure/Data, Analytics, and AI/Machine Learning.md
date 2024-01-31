@@ -14,7 +14,7 @@ tags:
 
 # Machine Learning (ML) Resources
 
-This learning plan will guide you through implementing Machine Learning (ML) solutions on Azure with Azure Machine Learning (AML), a suite of services that enables those new to ML, as well as experienced data scientists, to build and operationalize ML models.   
+This learning plan will guide you through implementing Machine Learning (ML) solutions on Azure with Azure Machine Learning (AML), a suite of services that enables those new to ML, as well as experienced data scientists, to build and operate ML models.
 
 To make AI accessible for all experience levels, Azure ML features a no-code Automated ML service, a low-code drag-and-drop Designer interface, and a full-featured Python SDK for code development within Jupyter Notebooks or your IDE of choice.
 
