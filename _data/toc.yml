@@ -6,9 +6,6 @@
       url: "azure"
       tag: azure
       children:
-        - title: Data, Analytics, and AI
-          url: "azure/data-analytics-ai"
-          tag: data, analytics, and ai
         - title: IoT
           url: "azure/iot"
           tag: iot
