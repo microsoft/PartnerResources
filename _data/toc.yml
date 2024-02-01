@@ -6,9 +6,6 @@
       url: "azure"
       tag: azure
       children:
-        - title: Data, Analytics, and AI
-          url: "azure/data-analytics-ai"
-          tag: data, analytics, and ai
         - title: IoT
           url: "azure/iot"
           tag: iot
@@ -412,4 +409,15 @@
 - title: "Partner Showcase"
   url: "skilling/microsoft-partner-showcase"
   tag: partnershowcase
+  links:
+    - title: Data & Analytics 
+      url: "skilling/microsoft-partner-showcase/data-and-analytics"
+      tag: partnershowcase
+    - title: Embedded Analytics Accelerators
+      url: "skilling/microsoft-partner-showcase/embedded-analytics"
+      tag: partnershowcase
+    - title: Security
+      url: "skilling/microsoft-partner-showcase/security"
+      tag: partnershowcase
+       
        
