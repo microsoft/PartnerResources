@@ -32,19 +32,19 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
   
 **Please visit our Academy page to see Code Snippets & Architecture Examples: [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy).**
 - [What’s New in Azure OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/whats-new)
-- [Azure OpenAI — YouTube](https://www.youtube.com/watch?v=dDDJIemqUp4)
+- [Azure OpenAI – YouTube](https://www.youtube.com/watch?v=dDDJIemqUp4)
 - [Model Availability](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models)
-- Quotas & Limitations: [Azure OpenAI Service Quotas & Limits — Azure Cognitive Services](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quotas-limits?branch=release-azure-openai-preview)
+- Quotas & Limitations: [Azure OpenAI Service Quotas & Limits – Azure Cognitive Services](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quotas-limits?branch=release-azure-openai-preview)
 - Pricing: [Azure OpenAI Service Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/)
 
 ## Fundamentals
 
 - [Azure OpenAI Documentation – Overview, QuickStart, tutorials, how-to guides, API reference](https://learn.microsoft.com/azure/cognitive-services/openai/)
 - [Video: Combining OpenAI models with the power of Azure](https://learn.microsoft.com/en-us/shows/ai-show/azure-openaigenerative-ai-learning)
-- [Introduction to Azure OpenAI Service — Microsoft Learn](https://learn.microsoft.com/training/modules/explore-azure-openai)
+- [Introduction to Azure OpenAI Service – Microsoft Learn](https://learn.microsoft.com/training/modules/explore-azure-openai)
 - [How to ground models](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/chatgpt?pivots=programming-language-chat-completions#using-data-for-grounding)
-- [ChatGPT Enterprise: Revolutionize your Enterprise Data with ChatGPT: Next-gen Apps w/ Azure OpenAI and Cognitive Search — Microsoft Community Hub](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087)
-- [GPT4 Model: How to work with the ChatGPT and GPT-4 models (Preview) — Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/chatgpt?pivots=programming-language-chat-completions)
+- [ChatGPT Enterprise: Revolutionize your Enterprise Data with ChatGPT: Next-gen Apps w/ Azure OpenAI and Cognitive Search – Microsoft Community Hub](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087)
+- [GPT4 Model: How to work with the GPT-35-Turbo and GPT-4 models — Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/chatgpt?pivots=programming-language-chat-completions)
 
 Evaluating models:
 
@@ -89,7 +89,7 @@ Tooling:
 - **[The First Annual Microsoft Fabric Community Conference In-person March 26-28, 2024](https://fabricconf.com/?ocid=fabric24_fabcon_t2-learnpromotion_cnl#!/)**: See firsthand how Microsoft Fabric and the data and AI products at Microsoft can help your organization prepare for the era of AI. You’ll hear from leading Microsoft and community experts from around the world and receive hands-on experiences with the latest features from Microsoft Fabric, Power BI, Databases, Azure AI, Microsoft Purview, and more.
 
 ### Past
-- **[Microsoft Ignite 2023](https://ignite.microsoft.com/en-US/):** Watch the recordings for various sessions, covering updates on services, product announcements and demos.
+- **[Microsoft Ignite 2023](https://ignite.microsoft.com/en-US/):** Watch the recordings for various sessions, covering updates on services, product announcements, and demos.
 - **[Microsoft Build](https://build.microsoft.com/):** Catch the recordings from the event. See **[Microsoft Build 2023 Recommended AI Session Guide](https://microsoft.github.io/PartnerResources/assets/aiml/Microsoft%20Build%202023%20Recommended%20AI%20Session%20Guide.pdf)**
 - **[Azure OpenAI What the Hack (WTH)](https://msuspartners.eventbuilder.com/AIMLPartnerPrep):** This introductory hackathon will provide participants with hands-on experience on how to integrate the Azure OpenAI offering
 
@@ -101,7 +101,7 @@ Tooling:
 - [AI-powered Call Center Architecture Example](https://github.com/amulchapla/AI-Powered-Call-Center-Intelligence)
 - [Business Process Automation Accelerator](https://github.com/Azure/business-process-automation) - Provides a no-code Studio for users to quickly build complex, multi-stage AI pipelines across multiple Azure AI and ML Services
 - [Microsoft Tech Community: Azure OpenAI (GPT) with Power Apps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/azure-open-ai-gpt-with-power-apps-build-a-power-app-to-create/ba-p/3730864) - Build a Power App to create a demo or Personal Knowledge Bot
-- [Build a low code conversational SMS bot with Azure Communication Services & Azure OpenAI](https://techcommunity.microsoft.com/t5/azure-communication-services/build-a-low-code-conversational-sms-bot-with-azure-communication/ba-p/3749180)
+- [Build a low-code conversational SMS bot with Azure Communication Services & Azure OpenAI](https://techcommunity.microsoft.com/t5/azure-communication-services/build-a-low-code-conversational-sms-bot-with-azure-communication/ba-p/3749180)
 - [Q&A using Azure OpenAI & document's vector embeddings](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna/tree/main)
 - [Create a chatbot using enterprise data with DevOps best practices](https://github.com/oaviles/hello_openaibot)
 
@@ -116,7 +116,7 @@ Tooling:
 
 ## Interesting Reads
 
-- [New Microsoft Copilot Studio implementation guide](https://microsoftcopilotstudio.microsoft.com/en-us/blog/new-microsoft-copilot-studio-implementation-guide/)
+- [New Microsoft Copilot Studio Implementation Guide](https://microsoftcopilotstudio.microsoft.com/en-us/blog/new-microsoft-copilot-studio-implementation-guide/)
 - [Vector Similarity Search with Azure SQL database and OpenAI](https://devblogs.microsoft.com/azure-sql/vector-similarity-search-with-azure-sql-database-and-openai/)
 - [Using Microsoft Fabric’s Lakehouse Data and prompt flow in Azure Machine Learning Service to create RAG applications – Microsoft Fabric Blog](https://blog.fabric.microsoft.com/en-gb/blog/using-microsoft-fabrics-lakehouse-data-and-prompt-flow-in-azure-machine-learning-service-to-create-rag-applications?ft=Data-science:category)
 - [Azure AI Search: Outperforming vector search with hybrid retrieval and ranking capabilities – Microsoft Community Hub](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-ai-search-outperforming-vector-search-with-hybrid/ba-p/3929167)
