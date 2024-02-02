@@ -28,7 +28,7 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
 
 **In Recent News**: OpenAI launched the Assistants API at its OpenAI Dev Day in November 2023, and as of 02/02/24, it is now available in preview in Azure OpenAI Service. The Assistants API makes it easy to create intelligent AI assistant and copilot-like experiences within an application, with in-built state and memory management and tools like Code Interpreter, Retrieval, and Function Calling.
 
-- [Quickstart – Getting started with Azure OpenAI Assistants (Preview) – Azure OpenAI](https://github.com/microsoft/PartnerResources/assets/36856999/fd2384e2-cf9c-412c-a633-38a2bab76bbc)
+- [QuickStart – Getting started with Azure OpenAI Assistants (Preview) – Azure OpenAI](https://github.com/microsoft/PartnerResources/assets/36856999/fd2384e2-cf9c-412c-a633-38a2bab76bbc)
   
 **Please visit our Academy page to see Code Snippets & Architecture Examples: [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy).**
 - [What’s New in Azure OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/whats-new)
