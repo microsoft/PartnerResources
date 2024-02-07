@@ -2,7 +2,7 @@
 layout: page
 title: Azure OpenAI
 description: Azure OpenAI Resources
-updated: 2024-02-02
+updated: 2024-02-07
 permalink: /skilling/ai-ml-academy/resources/openai
 tags: 
 - azure
@@ -24,7 +24,7 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
 - Rate Increase: [Azure OpenAI Service: Request for Quota Increase (microsoft.com)](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUMkkzRUlBMFBPT1ZQM01DODJNV1BEVENUTCQlQCN0PWcu)
 - GPT4: GPT-4 and GPT-4-32k are now available to **all** Azure OpenAI Service customers. You no longer need to request access to use GPT-4 and GPT-4-32k. Availability is currently limited by region to ensure a smooth rollout. You still need to apply for the AOAI Service if you do not have that already.
 
-## Keeping Up
+## Keeping Up (Feb. 2024 Update📰)
 
 **In Recent News**: OpenAI launched the Assistants API at its OpenAI Dev Day in November 2023, and as of 02/02/24, it is now available in preview in Azure OpenAI Service. The Assistants API makes it easy to create intelligent AI assistant and copilot-like experiences within an application, with in-built state and memory management and tools like Code Interpreter, Retrieval, and Function Calling.
 
@@ -66,7 +66,7 @@ AI Business Material:
 - [Azure AI Customer Stories](https://www.microsoft.com/en-us/AI/customer-stories)
 
 Tooling:
--  **[The Azure OpenAI benchmarking tool](https://github.com/Azure/azure-openai-benchmark)** helps you test and measure the performance of your provisioned throughput deployments. These deployments give you a fixed amount of model compute, but the actual performance depends on factors like: prompt size, generation size, and call rate. The tool sends test traffic to your deployment and shows you the throughput, latency, and utilization statistics. You can use it to try different traffic patterns and find the best settings for your prompt size, generation size, and PTUs.
+-  **[The Azure OpenAI benchmarking tool](https://github.com/Azure/azure-openai-benchmark)** helps you test and measure the performance of your provisioned throughput deployments. These deployments give you a fixed amount of model compute, but the actual performance depends on factors like prompt size, generation size, and call rate. The tool sends test traffic to your deployment and shows you the throughput, latency, and utilization statistics. You can use it to try different traffic patterns and find the best settings for your prompt size, generation size, and PTUs.
 
 ## Associate
 
