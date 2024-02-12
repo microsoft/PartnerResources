@@ -16,6 +16,7 @@ tags:
 - observability
 - data engineering
 - power bi
+- fabric real-time workshop
 ---
 
 # {{ page.title }}

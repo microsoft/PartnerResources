@@ -13,6 +13,7 @@ tags:
 - vignettes
 - fabric
 - data science
+- fabric real-time workshop
 ---
 
 # {{ page.title }}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Started with Microsoft Fabric Real-time Analytics
-description: Real-time Analytics in Microsoft Fabric is a fully managed analytics platform optimized for streaming and time-series data. In this video, Cameron walks though getting started with setting up an environment, generating and ingesting test data, and visualize the data using KQL in Power BI. This is based off an upcoming What-the-Hack scenario -- we'll provide a link here once published.
+description: Real-time Analytics in Microsoft Fabric is a fully managed analytics platform optimized for streaming and time-series data. In this video, Cameron walks though getting started with setting up an environment, generating and ingesting test data, and visualize the data using KQL in Power BI. See this hack and others at https://aka.ms/wth
 updated: 2023-10-06
 permalink: /skilling/modern-analytics-academy/vignettes/fabric-real-time
 youtubeid: wGox1lf0ve0
@@ -14,6 +14,7 @@ tags:
 - fabric
 - real time analytics
 - data engineering
+- fabric real-time workshop
 ---
 
 # {{ page.title }}

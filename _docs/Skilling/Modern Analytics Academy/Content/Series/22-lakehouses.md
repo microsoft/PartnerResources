@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Getting Started with Data Wrangler in Microsoft Fabric
+title: Getting Started with Lakehouses in Microsoft Fabric
 description: In this video, we'll dive into how to use Data Wrangler in Microsoft Fabric to cleanse and group by/aggregate data as part our ETL pipeline. We'll walk through some common steps used in data transformation, and include a few examples on deriving new columns from existing ones, such as extracting the hour from a timestamp. workspace.
-updated: 2024-02-08
-permalink: /skilling/modern-analytics-academy/vignettes/data-wrangler-in-fabric
-youtubeid: iMoUXkH6u6c
+updated: 2024-02-12
+permalink: /skilling/modern-analytics-academy/vignettes/lakehouses-in-fabric
+youtubeid: H2fFDaxUkfY
 tags: 
 - azure
 - data, analytics, and ai
@@ -13,7 +13,7 @@ tags:
 - vignettes
 - fabric
 - data engineering
-- data wrangler
+- lakehouse
 - fabric real-time workshop
 ---
 
