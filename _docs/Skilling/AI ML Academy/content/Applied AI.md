@@ -4,7 +4,7 @@ title: AI & ML Academy - Applied AI
 sorttitle: 03
 description: Workshop focused on AI and ML - Applied AI
 permalink: /skilling/ai-ml-academy/applied-ai
-updated: 2022-10-17
+updated: 2024-02-13
 showbreadcrumb: true
 tags: 
 - azure
@@ -14,16 +14,16 @@ tags:
 - academy content
 - ai & ml academy
 - ai & ml academy module
-- applied ai
+- scenario based services 
 ---
 
-# AI & ML Academy - Applied AI
+# AI & ML Academy - Scenario-based Services 
 
-Welcome to the AI & ML Academy (AIA) - Applied AI!
+Welcome to the AI & ML Academy - Scenario-based Services!
 
-In this module, we’ll look at Applied AI services, including Form Recognizer, Metrics Advisor, Cognitive Search, Video Indexer, Personalizer, Anomaly Detector, and Power Virtual Agents. 
+In this module, we’ll look at Scenario-based services, including Document Intelligence, Metrics Advisor, Azure AI Search, Video Indexer, Personalizer, Anomaly Detector, and Power Virtual Agents. 
 
-## Applied AI
+## Scenario-based Services 
 
 
 ### Document Intelligence
@@ -90,8 +90,8 @@ Azure Video Indexer is a cloud application built on Azure Media Services and Azu
 
 Conceptual
 
-* [Video Indexer 101 Overview ](https://microsofteur.sharepoint.com/:p:/r/teams/VideoIndexer-Fieldenablement/_layouts/15/Doc.aspx?sourcedoc=%7B75F0BD14-23E3-4BFF-A3F4-2D87AF41C682%7D&file=Video%20Indexer%20101%20overview.pptx&action=edit&mobileredirect=true&share=IQEUvfB14yP_S6P0LYevQcaCAdJcxUBz7nH4mrKVCl4z-rQ&cid=caff4f28-2e35-458a-8d42-e5c1a4bcdb7a) - This is a helpful deck with a good overview of video indexer and its features.
-* [Official Azure Media Services | Video Indexer Samples](https://github.com/Azure-Samples/media-services-video-indexer) - Hands-on lab with many examples of video indexer in action
+* [Video Indexer 101 Overview](https://microsofteur.sharepoint.com/:p:/r/teams/VideoIndexer-Fieldenablement/_layouts/15/Doc.aspx?sourcedoc=%7B75F0BD14-23E3-4BFF-A3F4-2D87AF41C682%7D&file=Video%20Indexer%20101%20overview.pptx&action=edit&mobileredirect=true&share=IQEUvfB14yP_S6P0LYevQcaCAdJcxUBz7nH4mrKVCl4z-rQ&cid=caff4f28-2e35-458a-8d42-e5c1a4bcdb7a) - This is a helpful deck with a good overview of video indexer and its features.
+* [Official Azure Media Services | Video Indexer Samples](https://github.com/Azure-Samples/media-services-video-indexer) - Hands-on lab with many examples of video indexer in action.
 
 
 ### Anomaly Detector 
@@ -117,11 +117,4 @@ Conceptual
 * [Power Virtual Agents Demo](https://powervirtualagents.microsoft.com/en-us/demo/) - Helpful demo to showcase PVA capabilities.
 * [Power Virtual Agents Overview](https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents) - This is a documentation page with a good overview on PVA along with tutorials.
 
-## Hands-on Content
-
-Each module contains several options for hands-on learning. In most cases, there are multiple options available designed to meet your specific skilling needs, from simple tutorial/demo content to more advanced workshops. We understand that some people may just want to see demos while others want to dive deep; most are somewhere in between. Use the content that best suits you!
-
-## Suggested Hands-on Labs (HOL) / Workshops
-
-Coming soon
 
