@@ -31,7 +31,7 @@ Document Intelligence, formerly known as Form Recognizer, is an AI service that 
 
 #### Conceptual
 
-* [The AI Show -Ep52: Analyze unstructured docs and more with Azure Document Intelligence](https://www.youtube.com/watch?v=86cZgYJdRGc) - This is a great resource to understand Document Intelligence capabilites and updates.
+* [The AI Show -Ep52: Analyze unstructured docs and more with Azure Document Intelligence](https://www.youtube.com/watch?v=86cZgYJdRGc) - This is a great resource to understand Document Intelligence capabilities and updates.
 * [Applied AI Blog](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/bg-p/AppliedAIBlog/label-name/Form%20Recognizer) - A place to ask any questions you may have about Document Intelligence as you work on your solutions.
 
 Updates 
@@ -41,7 +41,7 @@ Updates
 
 ### AI Search 
 
-AI Search, formerly known as, Azure Cognitive Search is a cloud search service with built-in AI capabilities that enrich all types of information to help you identify and explore relevant content at scale. Use cognitive skills for vision, language, and speech, or use custom machine learning models to uncover insights from all types of content.
+AI Search, formerly known as Azure Cognitive Search, is a cloud search service with built-in AI capabilities that enrich all types of information to help you identify and explore relevant content at scale. Use cognitive skills for vision, language, and speech, or use custom machine learning models to uncover insights from all types of content.
 
 #### Conceptual
 
@@ -54,7 +54,7 @@ AI Search, formerly known as, Azure Cognitive Search is a cloud search service w
 
 ### Metrics Advisor
 
-Metrics Advisor is a part of Azure Applied AI Services that uses AI to perform data monitoring and anomaly detection in time series data. The service automates the process of applying models to your data, and provides a set of APIs and a web-based workspace for data ingestion, anomaly detection, and diagnostics, without needing to know machine learning.
+Metrics Advisor is a part of Azure Applied AI Services that uses AI to perform data monitoring and anomaly detection in time series data. The service automates the process of applying models to your data and provides a set of APIs and a web-based workspace for data ingestion, anomaly detection, and diagnostics, without needing to know machine learning.
 
 #### Conceptual
 
@@ -105,4 +105,4 @@ Power Virtual Agents lets you create powerful AI-powered chatbots for a range of
 #### Conceptual
 
 * [Power Virtual Agents Blog](https://powervirtualagents.microsoft.com/en-us/blog/) - Blog post that describes the latest and greatest updates!
-* [Power Virtual Agents Demo](https://powervirtualagents.microsoft.com/en-us/demo/) - Helpful demo to showcase PVA capabilities.
+* [Power Virtual Agents Demo](https://powervirtualagents.microsoft.com/en-us/demo/) - Helpful demo to highlight PVA capabilities.
