@@ -36,7 +36,7 @@ Document Intelligence, formerly known as Form Recognizer, is an AI service that 
 
 Updates 
 
-* [Build Recap: The Newest Features from Azure Document Intelligence](https://www.youtube.com/watch?v=o1dEJMoFeus) - A great place to see the new features for Azure Document Intelligence.
+* [Build Recap: The Newest Features from Azure Document Intelligence](https://www.youtube.com/watch?v=o1dEJMoFeus) - See the new features for Azure Document Intelligence.
 
 
 ### AI Search 
@@ -45,7 +45,6 @@ AI Search, formerly known as, Azure Cognitive Search is a cloud search service w
 
 #### Conceptual
 
-* [Knowledge Mining Solution Accelerator](https://docs.microsoft.com/en-us/samples/azure-samples/azure-search-knowledge-mining/azure-search-knowledge-mining/) - A tool to get hands-on and build a knowledge mining prototype with Azure AI Search.
 * [Implement Knowledge Mining with Azure AI Search](https://docs.microsoft.com/en-us/learn/paths/implement-knowledge-mining-azure-cognitive-search/) - Learning path to understand knowledge mining with Azure AI Search.
 * [Indexing multiple Azure Blob Storage containers in Azure AI Search](https://github.com/ruoccofabrizio/azure-cognitive-search-multiple-containers-indexer) - Hands-on lab to understand how to index multiple blob storage containers in Azure AI Search.
 * [ServerlessIndexer](https://github.com/aditmer/Event-Driven-Indexing-For-Cognitive-Search) - Hands-on tool for a trigger indexer with a Push API solution.
@@ -60,7 +59,7 @@ Metrics Advisor is a part of Azure Applied AI Services that uses AI to perform d
 #### Conceptual
 
 * [MetricsAdvisorSample](https://github.com/Azure-Samples/MetricsAdvisor) - Hands-on lab to understand the capabilities of Azure Metrics Advisor.
-* [Introducing Metrics Advisor - A new Cognitive Service](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-metrics-advisor-a-new-cognitive-service/ba-p/1668025) - An overview of Metrics Advisor and what is possible.
+* [Introducing Metrics Advisor - A new Cognitive Service!](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-metrics-advisor-a-new-cognitive-service/ba-p/1668025) - An overview of Metrics Advisor and what is possible.
 * [How Azure Metrics Advisor improves customer satisfaction](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/customer-support-how-azure-metrics-advisor-can-help-improve/ba-p/3038907) - Great page for user stories.
 * [Detecting Methane Leaks using Azure Metrics Advisor](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/detecting-methane-leaks-using-azure-metrics-advisor/ba-p/3254005) - Blog post for a use case for detecting methane leaks.
 * [Azure Metrics Advisor Documentation](https://docs.microsoft.com/en-us/azure/applied-ai-services/metrics-advisor/) - Documentation with QuickStarts and tutorials.
@@ -85,12 +84,12 @@ Azure Video Indexer is a cloud application built on Azure Media Services and Azu
 Conceptual
 
 * [Video Indexer 101 Overview](https://microsofteur.sharepoint.com/:p:/r/teams/VideoIndexer-Fieldenablement/_layouts/15/Doc.aspx?sourcedoc=%7B75F0BD14-23E3-4BFF-A3F4-2D87AF41C682%7D&file=Video%20Indexer%20101%20overview.pptx&action=edit&mobileredirect=true&share=IQEUvfB14yP_S6P0LYevQcaCAdJcxUBz7nH4mrKVCl4z-rQ&cid=caff4f28-2e35-458a-8d42-e5c1a4bcdb7a) - Overview of video indexer and its features.
-* [Video Indexer Samples](https://github.com/Azure-Samples/media-services-video-indexer) - Hands-on lab with many examples of video indexer in action.
+* **[Video Indexer Samples](https://github.com/Azure-Samples/media-services-video-indexer)** - Hands-on lab with examples of Video Indexer in action.
 
 
 ### Anomaly Detector 
 
-Anomaly Detector ingests time-series data of all types and selects the best anomaly detection algorithm for your data to ensure high accuracy. Detect spikes, dips, deviations from cyclic patterns, and trend changes through both univariate and multivariate APIs. 
+Anomaly Detector ingests time-series data of all types and selects the best anomaly detection algorithm for your data to ensure high accuracy. Detect spikes, dips, deviations from cyclic patterns, and trend changes through both univariate and multivariate APIs.
 
 #### Conceptual
 
