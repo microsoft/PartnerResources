@@ -21,7 +21,7 @@ tags:
 
 Welcome to the AI & ML Academy - Scenario-based Services!
 
-In this module, we’ll look at Scenario-based services, including Document Intelligence, Metrics Advisor, Azure AI Search, Video Indexer, Personalizer, Anomaly Detector, and Power Virtual Agents. 
+In this module, we’ll look at Scenario-based services, including Document Intelligence, Azure AI Search, Metrics Advisor, Personalizer, Video Indexer, Anomaly Detector, and Power Virtual Agents.
 
 ## Scenario-based Services 
 
@@ -36,7 +36,7 @@ Document Intelligence, formerly known as Form Recognizer, is an AI service that 
 
 Updates 
 
-* [Build Recap: The Newest Features from Azure Document Intelligence](https://www.youtube.com/watch?v=o1dEJMoFeus) - See the new features for Azure Document Intelligence.
+* [Build Recap: The Newest Features from Azure Document Intelligence](https://www.youtube.com/watch?v=o1dEJMoFeus) - See the latest features for Azure Document Intelligence!
 
 
 ### AI Search 
@@ -59,11 +59,11 @@ Metrics Advisor is a part of Azure Applied AI Services that uses AI to perform d
 #### Conceptual
 
 * [MetricsAdvisorSample](https://github.com/Azure-Samples/MetricsAdvisor) - Hands-on lab to understand the capabilities of Azure Metrics Advisor.
-* [Introducing Metrics Advisor - A new Cognitive Service!](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-metrics-advisor-a-new-cognitive-service/ba-p/1668025) - An overview of Metrics Advisor and what is possible.
+* [Introducing Metrics Advisor - A new Cognitive Service!](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-metrics-advisor-a-new-cognitive-service/ba-p/1668025) - Overview of Metrics Advisor and what's possible.
 * [How Azure Metrics Advisor improves customer satisfaction](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/customer-support-how-azure-metrics-advisor-can-help-improve/ba-p/3038907) - Great page for user stories.
 * [Detecting Methane Leaks using Azure Metrics Advisor](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/detecting-methane-leaks-using-azure-metrics-advisor/ba-p/3254005) - Blog post for a use case for detecting methane leaks.
 * [Azure Metrics Advisor Documentation](https://docs.microsoft.com/en-us/azure/applied-ai-services/metrics-advisor/) - Documentation with QuickStarts and tutorials.
-* [Supply Chain Anomaly Detection and Root Cause Analysis with Azure Metric Advisor](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/supply-chain-anomaly-detection-and-root-cause-analysis-with/ba-p/2871920) - Blog post with a use case for supply chain anomaly detection.
+* [Supply Chain Anomaly Detection and Root Cause Analysis with Azure Metric Advisor](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/supply-chain-anomaly-detection-and-root-cause-analysis-with/ba-p/2871920) - Blog post for a use case for supply chain anomaly detection.
 
 
 ### Personalizer
@@ -83,7 +83,7 @@ Azure Video Indexer is a cloud application built on Azure Media Services and Azu
 
 Conceptual
 
-* [Video Indexer 101 Overview](https://microsofteur.sharepoint.com/:p:/r/teams/VideoIndexer-Fieldenablement/_layouts/15/Doc.aspx?sourcedoc=%7B75F0BD14-23E3-4BFF-A3F4-2D87AF41C682%7D&file=Video%20Indexer%20101%20overview.pptx&action=edit&mobileredirect=true&share=IQEUvfB14yP_S6P0LYevQcaCAdJcxUBz7nH4mrKVCl4z-rQ&cid=caff4f28-2e35-458a-8d42-e5c1a4bcdb7a) - Overview of video indexer and its features.
+* [Video Indexer 101 Overview](https://microsofteur.sharepoint.com/:p:/r/teams/VideoIndexer-Fieldenablement/_layouts/15/Doc.aspx?sourcedoc=%7B75F0BD14-23E3-4BFF-A3F4-2D87AF41C682%7D&file=Video%20Indexer%20101%20overview.pptx&action=edit&mobileredirect=true&share=IQEUvfB14yP_S6P0LYevQcaCAdJcxUBz7nH4mrKVCl4z-rQ&cid=caff4f28-2e35-458a-8d42-e5c1a4bcdb7a) - Overview of Video Indexer and its features.
 * **[Video Indexer Samples](https://github.com/Azure-Samples/media-services-video-indexer)** - Hands-on lab with examples of Video Indexer in action.
 
 
