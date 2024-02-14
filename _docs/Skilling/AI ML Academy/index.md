@@ -19,7 +19,7 @@ tags:
 
 ## Content
 
-Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of which build on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you all move faster and build effective solutions. The modules are:
+Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of which are built on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you move faster and build effective solutions. The modules are:
 
 {% include series.md 
     includetags="ai & ml academy|academy content|ai & ml academy module" 
@@ -45,18 +45,13 @@ Our [ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes) cont
 
 ## Events
 
-- [Microsoft Build](https://build.microsoft.com/) (developer conference) - May 23-24, 2023. Join live or watch recordings on-demand! See [Microsoft Build 2023 Recommended AI Session Guide]({{ site.baseurl }}/assets/aiml/Microsoft Build 2023 Recommended AI Session Guide.pdf)
-- Microsoft Build Recap: Insights and Learnings for Analytics and AI - June 7 2023 - [Registration page](https://msuspartners.eventbuilder.com/event/73358)
-- [Microsoft Ignite Nov 14-17, 2023](https://ignite.microsoft.com/en-US/home)
-- AI Readiness events: [AI & ML Partner Prep](https://aka.ms/AIMLPartnerPrep)
-
-Upcoming: 
 - [Microsoft Data & AI Conference March 26-28, 2024](https://msdataaiconf.com/#!/)
+- AI Readiness events: [AI & ML Partner Prep](https://aka.ms/AIMLPartnerPrep)
 
 
 ## Table of Contents
 
-The structure of the content is represented in the table below; the overview session is a high level overview focusing on concepts and principles, while each of the 'module' sessions, Pre-Built AI through MLOps, will be more in-depth. Each session will contain one or more presentations, with several suggested labs and workshop content in each module designed to accomodate various skill levels and time availability.
+The structure of the content is represented in the table below; the overview session is a high-level overview focusing on concepts and principles, while each of the 'module' sessions, Customizable AI through MLOps, will be more in-depth. Each session will contain one or more presentations, with several suggested labs and workshop content in each module designed to accommodate various skill levels and time availability.
 
 Refer to links below for the module breakouts. 
 
@@ -65,19 +60,19 @@ Refer to links below for the module breakouts.
 <td colspan="2" style="text-align: center;">AI & ML Overview</td>
 </tr>
 <tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/prebuilt-ai">Prebuilt AI</a></b></td>
-<td>General-purpose AI Cognitive Services, including Vision, Speech, Language<br>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/prebuilt-ai">Customizable AI</a></b></td>
+<td>Azure AI Services, including Vision, Speech, Language<br>
 Customization of these Cognitive Services</td>
 </tr>
 <tr>
 <td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/openai">Azure OpenAI</a></b></td>
 <td>
-Generative AI, including GPT, Codex, DALL-E, and Chat GPT
+Generative AI, including GPT, Codex, DALL-E, and ChatGPT
 </td>
 </tr>
 <tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/applied-ai">Applied AI</a></b></td>
-<td>Form Recognizer, Metrics Advisor, Cognitive Search, Video Analyzer, Bot service, Immersive Reader etc.</td>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/applied-ai">Scenario-based Services</a></b></td>
+<td> Document Intelligence, Azure AI Search, Metrics Advisor, Personalizer, Video Indexer, Anomaly Detector, and Power Virtual Agents</td>
 </tr>
 <tr>
 <td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/build-your-own-ml">Build Your Own ML</a></b></td>
@@ -96,7 +91,7 @@ Generative AI, including GPT, Codex, DALL-E, and Chat GPT
 
 ## Hands-on provisioned Environments
 
-We are not currently offering fully-hosted lab environments for AI & ML Academy, but this may change in the future as we expand the content. In the meantime, you can still run the labs in your own Azure subscription. These labs are listed below:
+We are not currently offering fully-hosted lab environments for the AI & ML Academy, but this may change in the future as we expand the content. In the meantime, you can still run the labs in your own Azure subscription. These labs are listed below:
 
 ## Prepare for AI-Related Specializations
 
