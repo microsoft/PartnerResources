@@ -5,7 +5,7 @@ description: The AI & ML Academy is focused on Artificial Intelligence and Machi
 permalink: /skilling/ai-ml-academy
 redirect_from:
   - /skilling/ai-ml-academy/
-updated: 2024-02-14
+updated: 2024-02-15
 showbreadcrumb: true
 tags:
 - azure
@@ -43,7 +43,7 @@ Our [ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes) cont
 
 <div>&nbsp;</div>
 
-## Events
+## Events (Feb. 2024 Update📰)
 
 - [Microsoft Data & AI Conference March 26-28, 2024](https://msdataaiconf.com/#!/)
 - AI Readiness events: [AI & ML Partner Prep](https://aka.ms/AIMLPartnerPrep)
@@ -61,8 +61,7 @@ Refer to links below for the module breakouts.
 </tr>
 <tr>
 <td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/prebuilt-ai">Customizable AI</a></b></td>
-<td>Azure AI Services, including Vision, Speech, Language<br>
-Customization of these Cognitive Services</td>
+<td>Azure AI Services, including Vision, Language, Speech and Customization of these Cognitive Services</td>
 </tr>
 <tr>
 <td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/openai">Azure OpenAI</a></b></td>
@@ -84,7 +83,7 @@ Generative AI, including GPT, Codex, DALL-E, and ChatGPT
 </tr>
 <tr>
 <td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/mlops">ML Engineering in Production (MLOps)</a></b></td>
-<td>Azure DevOps, GitHub Actions, KubeFlow
+<td>Azure DevOps, GitHub Actions, Kubeflow
 </td>
 </tr>
 </table>
