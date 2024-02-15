@@ -4,7 +4,7 @@ title: AI & ML Academy - Customizable AI Models
 sorttitle: 01
 description: Customizable AI Models
 permalink: /skilling/ai-ml-academy/prebuilt-ai
-updated: 2024-02-15
+updated: 2023-12-15
 showbreadcrumb: true
 tags: 
 - azure

@@ -61,7 +61,7 @@ Refer to links below for the module breakouts.
 </tr>
 <tr>
 <td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/prebuilt-ai">Customizable AI</a></b></td>
-<td>Azure AI Services, including Vision, Language, Speech and Customization of these Cognitive Services</td>
+<td>Azure AI Services, including Vision, Language, Speech and customization of these Cognitive Services</td>
 </tr>
 <tr>
 <td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/openai">Azure OpenAI</a></b></td>
