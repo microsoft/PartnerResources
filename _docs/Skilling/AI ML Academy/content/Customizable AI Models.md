@@ -1,10 +1,10 @@
 ---
 layout: page
-title: AI & ML Academy - Prebuilt AI
+title: AI & ML Academy - Customizable AI Models
 sorttitle: 01
-description: Workshop focused on AI and ML - Prebuilt AI
+description: Customizable AI Models
 permalink: /skilling/ai-ml-academy/prebuilt-ai
-updated: 2022-10-17
+updated: 2024-02-15
 showbreadcrumb: true
 tags: 
 - azure
@@ -14,7 +14,7 @@ tags:
 - academy content
 - ai & ml academy module
 - ai & ml academy
-- prebuilt ai
+- customizable ai models
 ---
 
 # AI & ML Academy - Customizable AI Models
