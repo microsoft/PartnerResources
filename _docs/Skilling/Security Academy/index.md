@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-01-26
+updated: 2024-02-16
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -16,7 +16,7 @@ Want to help defend the world against threats? Cybersecurity is not just an indi
 
 Stay ahead of evolving threats and protect your organization with continuous learning through our **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules).** The Microsoft Security Academy's **[Resources](/PartnerResources/skilling/microsoft-security-academy/resources)** complement the **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)** and enable you to explore cybersecurity concepts in greater detail.
 
-**Explore our new resources for [Microsoft Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot) and common [Microsoft Security Copilot Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot-extra).**
+**Explore our new resources for [Microsoft Copilot for Security](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot) and common [Microsoft Copilot for Security Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot-extra).**
 
 Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
 
