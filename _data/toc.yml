@@ -366,7 +366,7 @@
         - title: Resources
           url: "skilling/microsoft-security-academy/resources"
           tag: msa
-        - title: Security Copilot
+        - title: Copilot for Security
           url: "skilling/microsoft-security-academy/microsoft-security-copilot"
           tag: msa
           children: 
