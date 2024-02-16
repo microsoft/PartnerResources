@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2024-01-26
+updated: 2024-02-16
 permalink: /security/microsoft-security-academy/microsoft-sentinel
 tags:
 - security
@@ -18,7 +18,9 @@ Below you will find content to assist in skilling on Microsoft Sentinel. Content
 See our **[Microsoft Sentinel Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy/sentinel-academy)** for video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security team and beyond, who are experts in their respective fields.
 
 
-## Jan. 2024 Update📰
+## Feb. 2024 Update📰
+* **NEW:** [Data Connectors: MMA vs AMA](https://www.linkedin.com/pulse/cef-data-connector-mma-vs-ama-debac-manikandan-fo36c/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
+* **NEW:** [Data Connectors: AWS vs AWS S3](https://www.linkedin.com/pulse/data-connector-aws-vs-s3-debac-manikandan-vfhcc%3FtrackingId=CUG5RbZTglInWcBaHIvgYA%253D%253D/?trackingId=CUG5RbZTglInWcBaHIvgYA%3D%3D&utm_source=substack&utm_medium=email)
 * **NEW:** [Before and After Archive Tier](https://www.linkedin.com/pulse/before-after-archive-tier-debac-manikandan-zxwuc/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 * **NEW:** [Before and After Data Collection Rules (DCRs)](https://www.linkedin.com/pulse/before-after-data-collection-rules-debac-manikandan-gyw5c/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 * **NEW:** [Updated Workbook for User and Entity Behavior Analytics (UEBA)](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unleash-the-full-potential-of-user-and-entity-behavior-analytics/ba-p/4031570)
