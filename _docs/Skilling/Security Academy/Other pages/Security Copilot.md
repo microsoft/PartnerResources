@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Security Copilot
-description: Are you ready for Security Copilot?
+title: Copilot for Security
+description: Are you ready for Copilot for Security?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2024-01-05
+updated: 2024-02-16
 showbreadcrumb: true
 tags: 
 - academy content
@@ -11,21 +11,21 @@ tags:
 - security copilot
 ---
 
-# Security Copilot Resources
+# Copilot for Security Resources
 
-## What is Security Copilot? 🤔
+## What is Copilot for Security? 🤔
 
-We first introduced Security Copilot at the inaugural Microsoft Secure. Microsoft Security Copilot is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with a Microsoft-developed, security-specific model.
+We first introduced Copilot for Security at the inaugural Microsoft Secure. Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with a Microsoft-developed, security-specific model.
 
-Are you a Microsoft partner wanting to learn more about how to engage customers and take advantage of Security Copilot? If so, complete our **[Microsoft Security Copilot Partner Interest Form](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR7GkZxmcvGdGql1aVgLqRR1UNEk0MTVPVjg1VjhPMUJHVTZETlRXSk1RQy4u)!**
-
-If you have an existing NDA with Microsoft, join our [Microsoft Security Copilot Limited Customer Connection Program (CCP)](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR_XAVZ7AP_VPg7dX-69WxXdUQ1ZNUUVQOFNZOUtVSzdTNTFCMUEyQkVUQi4u).
+If you have an existing NDA with Microsoft, join our **[Microsoft Copilot for Security Limited Customer Connection Program (CCP)](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR_XAVZ7AP_VPg7dX-69WxXdUQ1ZNUUVQOFNZOUtVSzdTNTFCMUEyQkVUQi4u).**
 
 See our **[Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
 
-## Jan. 2024 Update📰
+## Feb. 2024 Update📰
 
-**Prepare for Security Copilot's February or March launch with our new [Security Copilot documentation](https://learn.microsoft.com/en-us/security-copilot/).**
+**Prepare for Copilot for Security's March launch with our new [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).**
+
+Prompt engineering is critical for Copilot for Security to create specific, high-quality outputs. **[This folder](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts)** contains Copilot for Security prompting templates and Promptbooks.
 
 
 ## Get Started
@@ -34,16 +34,16 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 <table>
   <tr style="vertical-align:top">
-   <td><a href="https://www.youtube.com/watch?v=dNvdeJA6m4g"><img src="https://img.youtube.com/vi/dNvdeJA6m4g/maxresdefault.jpg" alt="Prepare for New Threats with Microsoft Security Copilot" width="300" height="250"></a></td>
-    <td><a href="https://www.youtube.com/watch?v=dNvdeJA6m4g"><b>Prepare for New Threats with Microsoft Security Copilot</b></a><br><br>Join Dave and Zach as they discuss how to prepare for new threats in an era of increasingly complex cyberattacks with Microsoft Security Copilot. Explore Security Copilot’s interface, how a partner gains access, the power of plugins and Promptbooks, data security and privacy, AI threats and how we at Microsoft defeat them, and our Responsible AI story.</td>
+   <td><a href="https://www.youtube.com/watch?v=dNvdeJA6m4g"><img src="https://img.youtube.com/vi/dNvdeJA6m4g/maxresdefault.jpg" alt="Prepare for New Threats with Microsoft Copilot for Security" width="300" height="250"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=dNvdeJA6m4g"><b>Prepare for New Threats with Microsoft Copilot for Security</b></a><br><br>Join Dave and Zach as they discuss how to prepare for new threats in an era of increasingly complex cyberattacks with Microsoft Copilot for Security. Explore Copilot for Security’s interface, how a partner gains access, the power of plugins and Promptbooks, data security and privacy, AI threats and how we at Microsoft defeat them, and our Responsible AI story.</td>
   </tr>
   <tr style="vertical-align:top">
-   <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><img src="https://img.youtube.com/vi/0lg_derTkaM/maxresdefault.jpg" alt="How Microsoft Security Copilot works" width="300" height="250"></a></td>
-    <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><b>How Microsoft Security Copilot works</b></a><br><br>Ryan Munsch, from the Security Copilot team, joins host Jeremy Chapman to share how Security Copilot is an enterprise-grade natural language interface for your organization's security data.</td>
+   <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><img src="https://img.youtube.com/vi/0lg_derTkaM/maxresdefault.jpg" alt="How Microsoft Copilot for Security works" width="300" height="250"></a></td>
+    <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><b>How Microsoft Copilot for Security works</b></a><br><br>Ryan Munsch, from the Copilot for Security team, joins host Jeremy Chapman to share how Copilot for Security is an enterprise-grade natural language interface for your organization's security data.</td>
   </tr>
   <tr style="vertical-align:top">
-   <td><a href="https://youtu.be/2mL9iDr_lUY?si=ePBzuIBQT8In-zz8"><img src="https://img.youtube.com/vi/2mL9iDr_lUY/maxresdefault.jpg" alt="Microsoft Security Copilot & Tanium Demo" width="300" height="250"></a></td>
-    <td><a href="https://youtu.be/2mL9iDr_lUY?si=lWO3C49hAFIPrhqs"><b>Microsoft Security Copilot & Tanium Demo</b></a><br><br>Tanium introduces their Security Copilot proof of concept to enable responses in minutes with real-time visibility.</td>
+   <td><a href="https://youtu.be/2mL9iDr_lUY?si=ePBzuIBQT8In-zz8"><img src="https://img.youtube.com/vi/2mL9iDr_lUY/maxresdefault.jpg" alt="Microsoft Copilot for Security & Tanium Demo" width="300" height="250"></a></td>
+    <td><a href="https://youtu.be/2mL9iDr_lUY?si=lWO3C49hAFIPrhqs"><b>Microsoft Copilot for Security & Tanium Demo</b></a><br><br>Tanium introduces their Copilot for Security proof of concept to enable responses in minutes with real-time visibility.</td>
   </tr>
 </table>
 
@@ -62,10 +62,10 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 ## Integrations
 
-* [Microsoft Security Copilot in Microsoft Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-in-microsoft-365-defender?view=o365-worldwide&bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
-* [Microsoft Security Copilot and Intune](https://learn.microsoft.com/en-us/mem/intune/fundamentals/security-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
-* [Microsoft Security Copilot and Defender EASM](https://learn.microsoft.com/en-us/azure/external-attack-surface-management/easm-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
-* [Microsoft Security Copilot and Microsoft Defender Threat Intelligence](https://learn.microsoft.com/en-us/defender/threat-intelligence/security-copilot-and-defender-threat-intelligence?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Microsoft Copilot for Security in Microsoft Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-in-microsoft-365-defender?view=o365-worldwide&bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Microsoft Copilot for Security and Intune](https://learn.microsoft.com/en-us/mem/intune/fundamentals/security-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Microsoft Copilot for Security and Defender EASM](https://learn.microsoft.com/en-us/azure/external-attack-surface-management/easm-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Microsoft Copilot for Security and Microsoft Defender Threat Intelligence](https://learn.microsoft.com/en-us/defender/threat-intelligence/security-copilot-and-defender-threat-intelligence?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 
 
 #### Considerations
@@ -79,15 +79,15 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 ## AI Security
 
-* [Must Learn AI Security](https://github.com/rod-trent/OpenAISecurity/tree/main/Must_Learn)
+* **[Must Learn AI Security](https://github.com/rod-trent/OpenAISecurity/tree/main/Must_Learn)**
+* **[MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/?utm_source=substack&utm_medium=email)**
 * [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
-* [MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/?utm_source=substack&utm_medium=email)
 * [Introduction to red teaming large language models (LLMs)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming?utm_source=substack&utm_medium=email)
 
 
 ## Community Resources
 
-* [Create effective prompts in Microsoft Security Copilot](https://learn.microsoft.com/en-us/security-copilot/prompting-tips)
+* [Create effective prompts in Microsoft Copilot for Security](https://learn.microsoft.com/en-us/security-copilot/prompting-tips)
 * [OpenAI's GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * Learn more about our approach to [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).
 
