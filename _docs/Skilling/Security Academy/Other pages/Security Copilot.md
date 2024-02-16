@@ -17,17 +17,15 @@ tags:
 
 We first introduced Copilot for Security at the inaugural Microsoft Secure. Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with a Microsoft-developed, security-specific model.
 
-Are you a Microsoft partner wanting to learn more about how to engage customers and take advantage of Copilot for Security? If so, complete our **[Microsoft Copilot for Security Partner Interest Form](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR7GkZxmcvGdGql1aVgLqRR1UNEk0MTVPVjg1VjhPMUJHVTZETlRXSk1RQy4u)!**
-
-If you have an existing NDA with Microsoft, join our [Microsoft Copilot for Security Limited Customer Connection Program (CCP)](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR_XAVZ7AP_VPg7dX-69WxXdUQ1ZNUUVQOFNZOUtVSzdTNTFCMUEyQkVUQi4u).
+If you have an existing NDA with Microsoft, join our **[Microsoft Copilot for Security Limited Customer Connection Program (CCP)](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR_XAVZ7AP_VPg7dX-69WxXdUQ1ZNUUVQOFNZOUtVSzdTNTFCMUEyQkVUQi4u).**
 
 See our **[Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
 
 ## Feb. 2024 Update📰
 
-**Prepare for Copilot for Security's February or March launch with our new [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).**
+**Prepare for Copilot for Security's March launch with our new [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).**
 
-**Prompt engineering is critical for Copilot for Security to create specific, high-quality outputs. [This folder](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts) contains Copilot for Security prompting templates and Promptbooks.**
+Prompt engineering is critical for Copilot for Security to create specific, high-quality outputs. [This folder](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts) contains Copilot for Security prompting templates and Promptbooks.
 
 
 ## Get Started
@@ -81,9 +79,9 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 ## AI Security
 
-* [Must Learn AI Security](https://github.com/rod-trent/OpenAISecurity/tree/main/Must_Learn)
+* **[Must Learn AI Security](https://github.com/rod-trent/OpenAISecurity/tree/main/Must_Learn)**
+* **[MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/?utm_source=substack&utm_medium=email)**
 * [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
-* [MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/?utm_source=substack&utm_medium=email)
 * [Introduction to red teaming large language models (LLMs)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming?utm_source=substack&utm_medium=email)
 
 
