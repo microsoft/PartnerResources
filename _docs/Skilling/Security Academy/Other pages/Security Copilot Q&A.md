@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security Q&A
 description: Common Copilot for Security Q&A.
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot-extra
-updated: 2024-02-16
+updated: 2024-02-20
 showbreadcrumb: true
 tags: 
 - academy content
@@ -28,6 +28,10 @@ Copilot for Security uses on-behalf-of (OBO) authentication to access security-r
 To ensure the accuracy of Copilot for Security's responses, Microsoft's Threat Intelligence (TI) data, model fine-tuning, and the user's connected skillsets ground Copilot for Security to prevent hallucinations. Copilot for Security also outlines the steps and sources it uses to arrive at an answer, allowing users to verify the results provided.
 
 If a user is dissatisfied with Copilot for Security's response, they have the option to provide feedback within the platform. Feedback is encouraged and contributes to the ongoing improvement of response quality.
+
+#### How can I measure success?
+
+Consider defining some use case scenarios (e.g., writing reports/summaries) and estimate the time to fulfill the task with and without Copilot for Security. Discuss use cases based on who is able to lead them and whether they can assign more junior analysts more senior tasks. Lastly, and thanks to Copilot for Security's efficiency, determine if your team is able to manage more proactive security tasks.
 
 #### What is a "planner" or "orchestrator"?
 An orchestrator is an autonomous agent in an environment that is tasked to achieve a goal by deciding action(s). The state of the agent gets updated after each action execution. Given an NL question from the user, the orchestrator (1) Understands the intent using an LLM (2) Generates a Plan (3) Executes the Plan (4) Prepares the response for the user (5) Preserves and updates the state (Ex: memory, chat history).
