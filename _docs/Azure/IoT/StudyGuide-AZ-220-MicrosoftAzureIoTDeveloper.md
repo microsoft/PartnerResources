@@ -15,7 +15,7 @@ tags:
 
 The Microsoft Global Partner Solutions (GPS) Technical Team, IoT Product Group, IoT Advocates, and Microsoft Worldwide Learning have collaborated to create this guide to help you prepare for the Microsoft Azure IoT Developer exam!
 
-## NOTE: This exam retired on July 31, 2023.
+**<span style="color:red">NOTE: This exam retired on July 31, 2023.</span>**
 
 ## Skills Measured
 
