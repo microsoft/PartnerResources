@@ -21,7 +21,7 @@ Welcome to the Microsoft Azure Virtual Desktop Academy. Explore Microsoft Azure 
 
 ![AVD Daisy Chain]({{ site.baseurl }}/assets/infrapics/AVD Daisy Chain.png)
 
-### Sessions
+## Sessions
 
 {% include series.md 
     includetags="academy content|avd videos" includemethod="all" 
