@@ -12,7 +12,7 @@ showbreadcrumb: true
 
 The Microsoft Partner Onboarding Academy's **Modules** are organized into sections which reflect the typical partner journey:
 
-![](../../../assets/partner-onboarding/partner-journey.png)
+![](../../../assets/partner-onboarding/partner-journey-market.png)
 
 ### Create and Publish an Offer in Partner Center
 

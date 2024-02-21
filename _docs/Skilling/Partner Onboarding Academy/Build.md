@@ -12,7 +12,7 @@ showbreadcrumb: true
 
 The Microsoft Partner Onboarding Academy's **Modules** are organized into sections which reflect the typical partner journey:
 
-![](../../../assets/partner-onboarding/partner-journey.png)
+![](../../../assets/partner-onboarding/partner-journey-build.png)
 
 **Discussing how to deploy/run your solution on Azure is out of scope of this document. This document will focus on the benefits available which can enable you to deploy and run on Azure.**
 

@@ -12,7 +12,7 @@ showbreadcrumb: true
 
 The Microsoft Partner Onboarding Academy's **Modules** are organized into sections which reflect the typical partner journey:
 
-![](../../../assets/partner-onboarding/partner-journey.png)
+![](../../../assets/partner-onboarding/partner-journey-onboard.png)
 
 ### Onboarding onto the Azure Marketplace
 
