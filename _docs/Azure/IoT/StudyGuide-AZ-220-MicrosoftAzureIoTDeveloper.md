@@ -15,6 +15,8 @@ tags:
 
 The Microsoft Global Partner Solutions (GPS) Technical Team, IoT Product Group, IoT Advocates, and Microsoft Worldwide Learning have collaborated to create this guide to help you prepare for the Microsoft Azure IoT Developer exam!
 
+## NOTE: This exam retired on July 31, 2023.
+
 ## Skills Measured
 
 |Section #|Topic|Homework|
@@ -82,6 +84,8 @@ Weekly releases of the IoT Show, regular premieres of the IoT Deep Dives, advoca
 | **Implement security (5–10%)** | **[Enhance IoT solution security by using Microsoft Defender for IoT](https://docs.microsoft.com/learn/paths/enhance-iot-solution-security-by-using-azure-defender/)**<br />[1-Examine security fundamentals for IoT](https://docs.microsoft.com/learn/modules/examine-security-fundamentals-for-iot/)<br />[2-Examine Microsoft Defender for Cloud and Microsoft Defender for IoT](https://docs.microsoft.com/learn/modules/examine-azure-security-center-azure-defender-for-iot/)<br />[3-Examine Microsoft Defender for IoT security agents](https://docs.microsoft.com/learn/modules/examine-azure-defender-iot-security-agents/)<br />[4-Explore Microsoft Defender for IoT implementation](https://docs.microsoft.com/learn/modules/explore-azure-defender-for-iot-implementation/) |
 
 ## Exam Updates
+
+### This exam retired on July 31, 2023.
 
 ### Skills Measured - Exam update on July 28, 2022
 * **Modified** "Build device messaging and communication": subtopic "Connect to IoT Hub using TLS server certificates" changed to "Connect to IoT Hub by using Transport Layer Security (TLS) server certificates"
