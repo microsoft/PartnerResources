@@ -12,34 +12,41 @@ showbreadcrumb: true
 
 The Microsoft Partner Onboarding Academy's **Modules** are organized into sections which reflect the typical partner journey:
 
-![](../../../assets/partner-onboarding/partner-journey.png)
+![](../../../assets/partner-onboarding/partner-journey-market.png)
 
 ### Create and Publish an Offer in Partner Center
 
-- **Commercial Marketplace** has different Offer Types that allow a variety of solutions to be published depending on how they are deployed and consumed by your customers. Each Offer Type has different requirements and configuration options so it's important to choose the Offer Type early. The following table shows a quick summary of all transactable Offer Types available in the Commercial Marketplace today:
+**Commercial Marketplace** has different Offer Types that allow a variety of solutions to be published depending on how they are deployed and consumed by your customers. Each Offer Type has different requirements and configuration options so it's important to choose the Offer Type early. The following table shows a quick summary of all transactable Offer Types available in the Commercial Marketplace today:
 
 #### Transactable Offer Types
 
 | Offer Type   | Description |
 | ----------- | ----------- |
-| Software As a Service | SaaS offers enable your customer to buy your solution as a subscription. The solution must be deployed in the **partner** environment. |
-| Azure Application | Azure Application is a subscription-based solution for your customer. The solution must be deployed in the **customer** environment. You can choose to manage the solution yourself, let the customer manage it, or lock it down completely. |
-| Azure Virtual Machine | Deploy a virtual machine to the subscription associated with your customer. |
-| Azure Container | A Docker container image provisioned as a Kubernetes-based Azure Container service. |
-| Power BI Visual | An AppSource offer that exposes a Power BI Visual that others can discover and use in their Power BI reports and dashboards. |
+| [Software As a Service](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-saas-offer) | SaaS offers enable your customer to buy your solution as a subscription. The solution must be deployed in the **partner** environment. |
+| [Azure Application](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-azure-application-offer) | Azure Application is a subscription-based solution for your customer. The solution must be deployed in the **customer** environment. You can choose to manage the solution yourself, let the customer manage it, or lock it down completely. |
+| [Azure Virtual Machine](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-virtual-machines) | Deploy a virtual machine to the subscription associated with your customer. |
+| [Azure Container](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-containers) | A Docker container image provisioned as a Kubernetes-based Azure Container service. |
+| [Power BI Visual](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-power-bi-visual) | An AppSource offer that exposes a Power BI Visual that others can discover and use in their Power BI reports and dashboards. |
 
+
+Use can use this diagram to determine the offer type that best suits your needs:
+![](https://learn.microsoft.com/en-us/partner-center/marketplace/media/marketplace-commercial-transaction-capabilities-and-considerations/plans-offer-type-and-pricing-plan-flowchart-updated-01-04-2024.png)
+
+For additional details, see: [Determine offer type and pricing plan](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#determine-offer-type-and-pricing-plan)
 
 #### Non-Transactable Offer Types
 
 | Offer Type   | Description |
 | ----------- | ----------- |
-| IoT Edge Module | Azure IoT Edge modules are the smallest computation units managed by IoT Edge and can contain Microsoft services (such as Azure Stream Analytics), 3rd-party services, or your own solution-specific code. |
-| Dynamics 365 | An AppSource offer that builds on or extends Dynamics 365 Business Central, Dynamics 365 Customer Engagement, Power Apps, and Finance and Operations apps. |
-| Power BI App | An AppSource offer that builds on or extends Power BI. |
-| Consulting Service | An offer to connect customers with services to support and extend their use of Azure, Dynamics 365, or Power Suite services, and Teams. |
-| Managed Service | An offer that allows a partner to manage customer-delegated subscriptions or resource groups through Azure Lighthouse. |
+| [IoT Edge Module](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-iot-edge) | Azure IoT Edge modules are the smallest computation units managed by IoT Edge and can contain Microsoft services (such as Azure Stream Analytics), 3rd-party services, or your own solution-specific code. |
+| [Dynamics 365](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-dynamics-365) | An AppSource offer that builds on or extends Dynamics 365 Business Central, Dynamics 365 Customer Engagement, Power Apps, and Finance and Operations apps. |
+| [Power BI App](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-power-bi) | An AppSource offer that builds on or extends Power BI. |
+| [Consulting Service](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-consulting-service-offer) | An offer to connect customers with services to support and extend their use of Azure, Dynamics 365, or Power Suite services, and Teams. |
+| [Managed Service](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-managed-service-offer) | An offer that allows a partner to manage customer-delegated subscriptions or resource groups through Azure Lighthouse. |
 
 Once you have identified the correct offer type for your solution, follow the respective **[Publishing Guide by Offer Type](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type).**
+
+
 
 
 Some Offer Types have different listing options available. For example, if you are publishing a SaaS offer, there are the following listing options:

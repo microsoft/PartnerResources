@@ -12,7 +12,7 @@ showbreadcrumb: true
 
 The Microsoft Partner Onboarding Academy's **Modules** are organized into sections which reflect the typical partner journey:
 
-![](../../../assets/partner-onboarding/partner-journey.png)
+![](../../../assets/partner-onboarding/partner-journey-grow.png)
 
 **After publishing an offer to the Marketplace, your next step will be to grow adoption and Co-Selling. These three steps will make your offer attractive to potential customers:**
 
