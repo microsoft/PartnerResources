@@ -28,6 +28,12 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 | [Azure Container](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-containers) | A Docker container image provisioned as a Kubernetes-based Azure Container service. |
 | [Power BI Visual](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-power-bi-visual) | An AppSource offer that exposes a Power BI Visual that others can discover and use in their Power BI reports and dashboards. |
 
+
+Use can use this diagram to determine the offer type that best suits your needs:
+![](https://learn.microsoft.com/en-us/partner-center/marketplace/media/marketplace-commercial-transaction-capabilities-and-considerations/plans-offer-type-and-pricing-plan-flowchart-updated-01-04-2024.png)
+
+For additional details, see: [Determine offer type and pricing plan](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#determine-offer-type-and-pricing-plan)
+
 #### Non-Transactable Offer Types
 
 | Offer Type   | Description |
@@ -39,6 +45,8 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 | [Managed Service](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-managed-service-offer) | An offer that allows a partner to manage customer-delegated subscriptions or resource groups through Azure Lighthouse. |
 
 Once you have identified the correct offer type for your solution, follow the respective **[Publishing Guide by Offer Type](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type).**
+
+
 
 
 Some Offer Types have different listing options available. For example, if you are publishing a SaaS offer, there are the following listing options:

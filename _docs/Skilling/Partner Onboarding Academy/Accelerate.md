@@ -20,3 +20,4 @@ Here are several steps to accelerate your Co-Sell journey:
 
 * [Access Partner Incentives](https://partner.microsoft.com/en-US/partnership/partner-incentives)
 * [Improve your Partner Capability Score](https://learn.microsoft.com/en-us/partner-center/partner-capability-score)
+* [Microsoft Partner Blog](https://blogs.partner.microsoft.com/partner/)

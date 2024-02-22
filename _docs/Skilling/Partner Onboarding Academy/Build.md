@@ -60,6 +60,7 @@ See **[this article](https://learn.microsoft.com/en-us/partner-center/mpn-benefi
   - [Find a Solution Partner](https://partner.microsoft.com/en-rs/partnership/solutions-partner) **(OPTIONAL)**
 - Build on Azure
   - [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/)
+- [Technical Journeys](https://partner.microsoft.com/en-US/partnership/technical-journeys) - Webinars and technical consultations to help you grow
 
 ### Next Steps
 
