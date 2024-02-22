@@ -70,3 +70,4 @@ Have questions not addressed here? See our **[FAQ](/PartnerResources/skilling/pa
 
 * [Six easy steps to becoming a Microsoft Partner](https://www.microsoft.com/en-us/americas-partner-blog/2023/06/15/six-easy-steps-to-becoming-a-microsoft-partner/)
 * [Carve Partners: Partner Center Guide for ISVs](https://www.linkedin.com/posts/reis-barrie-13414656_carve-partner-center-guide-for-isvs-activity-7118183761975889920-xAII/)
+* [Mastering the Marketplace](https://aka.ms/masteringthemarketplace)
