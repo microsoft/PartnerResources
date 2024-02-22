@@ -2,7 +2,7 @@
 layout: page
 title: Accelerate
 description: Accelerate your business
-updated: 2023-11-13
+updated: 2024-02-22
 permalink: /skilling/partner-onboarding-academy/accelerate
 showbreadcrumb: true
 ---

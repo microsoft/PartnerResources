@@ -2,7 +2,7 @@
 layout: page
 title: Onboard 
 description: How to Onboard onto your Partner Journey
-updated: 2023-11-14
+updated: 2024-02-22
 permalink: /skilling/partner-onboarding-academy/onboard
 showbreadcrumb: true
 ---

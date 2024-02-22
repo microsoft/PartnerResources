@@ -2,7 +2,7 @@
 layout: page
 title: Market
 description: Create your Marketplace Offer
-updated: 2023-11-14
+updated: 2024-02-22
 permalink: /skilling/partner-onboarding-academy/market
 showbreadcrumb: true
 ---
@@ -32,7 +32,7 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 Use can use this diagram to determine the offer type that best suits your needs:
 ![](https://learn.microsoft.com/en-us/partner-center/marketplace/media/marketplace-commercial-transaction-capabilities-and-considerations/plans-offer-type-and-pricing-plan-flowchart-updated-01-04-2024.png)
 
-For additional details, see: [Determine offer type and pricing plan](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#determine-offer-type-and-pricing-plan)
+For additional details, see: **[Determine Offer Type and Pricing Plan](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-commercial-transaction-capabilities-and-considerations#determine-offer-type-and-pricing-plan)**
 
 #### Non-Transactable Offer Types
 
