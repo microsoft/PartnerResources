@@ -35,7 +35,7 @@ There are multiple types of partnerships with Microsoft:
 
 #### Steps⬇️
 
-1. **[Onboarding](/PartnerResources/skilling/partner-onboarding-academy/onboard)**: This is the first step towards becoming a Microsoft Partner. This will give you entry into Partner Center, which is how and where you can access all of the Partner benefits.
+1. **[Onboard](/PartnerResources/skilling/partner-onboarding-academy/onboard)**: This is the first step towards becoming a Microsoft Partner. This will give you entry into Partner Center, which is how and where you can access all of the Partner benefits.
 2. **[Build](/PartnerResources/skilling/partner-onboarding-academy/build)**: Learn about Azure services and build your Azure skills.
   * NOTE: Sometimes this step is done prior to onboarding.
 3. **[Market](/PartnerResources/skilling/partner-onboarding-academy/market)**: Now that you have access to Partner Center and a solution on Azure, the next step is to create an offer in the Azure Marketplace. Learn how to share leads and understand the rewards available to you.
