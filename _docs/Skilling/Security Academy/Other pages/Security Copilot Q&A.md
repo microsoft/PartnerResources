@@ -41,6 +41,3 @@ Learn how to develop your own custom plugins **[here](https://learn.microsoft.co
 
 #### How can I build effective prompts?
 Learn to create effective, natural language inputs (prompts) in Copilot for Security **[here](https://learn.microsoft.com/en-us/security-copilot/prompting-tips).**
-
-#### How is Copilot for Security different from competitor solutions?
-There is no comparative to Copilot for Security. Picture a scenario in which a junior analyst uses natural language to access incident data from Sentinel, compare that data with alerts from Defender, gain insights into potentially impacted devices through Intune, and receive threat intelligence flags for known threat actors, all within **one platform.** This junior analyst can also easily share the investigation with colleagues and automatically generate incident reports. Competitor solutions are also limited to their 1st party ecosystem.
