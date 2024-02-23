@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Partner Onboarding Academy
 description: Microsoft Partner Onboarding Academy
-updated: 2023-11-14
+updated: 2024-02-22
 permalink: /skilling/partner-onboarding-academy
 showbreadcrumb: true
 ---
