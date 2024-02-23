@@ -25,7 +25,7 @@ As an ISV, there are many additional programs and offers available:
 
 ### Mastering the Marketplace
 
-**[Mastering the Marketplace](https://aka.ms/masteringthemarketplace)** is a site which provides videos, interactive hands-on labs, and sample code to provide a better understanding of the Marketplace:
+**[Mastering the Marketplace](https://aka.ms/masteringthemarketplace)** is a site which provides videos, interactive hands-on labs, and sample code for a better understanding of the Marketplace:
 
 * [Main Site](https://aka.ms/masteringthemarketplace)
 * [Webinars](https://aka.ms/MTMwebinars)
