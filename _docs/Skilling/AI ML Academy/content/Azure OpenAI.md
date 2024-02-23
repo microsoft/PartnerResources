@@ -439,4 +439,4 @@ A collection of solution accelerators (repositories) that show you how to create
 
 
 ## Other Azure OpenAI Learning Resources
-- [Learning Path Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/openai)
+* [Learning Path Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/resources/openai)
