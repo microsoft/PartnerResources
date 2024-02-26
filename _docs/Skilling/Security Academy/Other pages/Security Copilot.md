@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Are you ready for Copilot for Security?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2024-02-16
+updated: 2024-02-26
 showbreadcrumb: true
 tags: 
 - academy content
@@ -25,7 +25,7 @@ See our **[Microsoft Security Academy](/PartnerResources/skilling/microsoft-secu
 
 **Prepare for Copilot for Security's March launch with our new [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).**
 
-Prompt engineering is critical for Copilot for Security to create specific, high-quality outputs. **[This folder](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts)** contains Copilot for Security prompting templates and Promptbooks.
+**[Prompt engineering in Copilot for Security](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/?utm_source=substack&utm_medium=email)** plays a critical role in creating specific, high-quality outputs. **[This folder](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts)** contains Copilot for Security prompting templates and Promptbooks.
 
 
 ## Get Started
