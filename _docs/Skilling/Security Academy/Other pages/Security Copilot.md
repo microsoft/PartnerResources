@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Are you ready for Copilot for Security?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2024-02-26
+updated: 2024-03-05
 showbreadcrumb: true
 tags: 
 - academy content
@@ -21,7 +21,7 @@ If you have an existing NDA with Microsoft, join our **[Microsoft Copilot for Se
 
 See our **[Microsoft Security Academy](/PartnerResources/skilling/microsoft-security-academy)** for more video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security-aligned team and beyond.
 
-## Feb. 2024 Update📰
+## Mar. 2024 Update📰
 
 **Prepare for Copilot for Security's March launch with our new [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).**
 
