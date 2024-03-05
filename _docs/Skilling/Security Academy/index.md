@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-02-26
+updated: 2024-03-05
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -25,8 +25,9 @@ A new era of security is here. Read how [Microsoft unveiled the expansion of AI 
 #### The Basics
 1. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)**
 2. **[Basic cyber hygiene prevents 98% of attacks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856)**
-3. **[CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)**
-4. **[Secure Cloud Business Applications (SCuBA) Project -- CISA](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)**
+3. **[Microsoft's Security-101](https://github.com/microsoft/Security-101?tab=readme-ov-file)**
+4. **[CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)**
+5. **[Secure Cloud Business Applications (SCuBA) Project -- CISA](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)**
 
 
 ![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)
