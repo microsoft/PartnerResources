@@ -31,6 +31,12 @@ Welcome to the Microsoft Azure VMware Solution Academy. Explore Microsoft Azure 
 
 [![AVS SHORT VIDEO](https://img.youtube.com/vi/cBwxLSZMN9o/mqdefault.jpg)](https://www.youtube.com/watch?v=cBwxLSZMN9o)
 
+**Azure VMware Solution Sessions in Spanish (Sesiones de Azure VMware Solution en español)**
+| Introducción Azure VMware Solution  | Azure Migrate Dimensionamiento y precios | Opciones de almacenamiento |
+|-------------------------------------|------------------------------------------|----------------------------|
+|       📽️ [00:33:41]       |       📽️ [00:35:15]       |       📽️ [00:27:20]       |
+| [![Introducción Azure VMware Solution](https://img.youtube.com/vi/UkJCqHW2ly0/mqdefault.jpg)](https://www.youtube.com/watch?v=UkJCqHW2ly0) | [![AVS – Azure Migrate Dimensionamiento y precios](https://img.youtube.com/vi/MpKUdOdpqSY/mqdefault.jpg)](https://www.youtube.com/watch?v=MpKUdOdpqSY)  | [![AVS – Opciones de almacenamiento](https://img.youtube.com/vi/WkrM2ioUTVk/mqdefault.jpg)](https://www.youtube.com/watch?v=WkrM2ioUTVk) |
+
 
 ### Additional Resources
 
