@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Azure Infrastructure Academy — Azure VMware Solution (AVS)
 description: Microsoft Azure Infrastructure Academy Azure VMware Solution (AVS).
 permalink: /skilling/microsoft-infrastructure-academy/avs
-updated: 2023-11-20
+updated: 2024-03-06
 Tags:
 - academy content
 - microsoft infrastructure academy
@@ -32,6 +32,8 @@ Welcome to the Microsoft Azure VMware Solution Academy. Explore Microsoft Azure 
 [![AVS SHORT VIDEO](https://img.youtube.com/vi/cBwxLSZMN9o/mqdefault.jpg)](https://www.youtube.com/watch?v=cBwxLSZMN9o)
 
 **Azure VMware Solution Sessions in Spanish (Sesiones de Azure VMware Solution en español)**
+
+
 | Introducción Azure VMware Solution  | Azure Migrate Dimensionamiento y precios | Opciones de almacenamiento |
 |-------------------------------------|------------------------------------------|----------------------------|
 |       📽️ [00:33:41]       |       📽️ [00:35:15]       |       📽️ [00:27:20]       |
