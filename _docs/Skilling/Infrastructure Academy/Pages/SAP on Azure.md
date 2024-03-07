@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Azure Infrastructure Academy — SAP on Azure
 description: Microsoft Azure Infrastructure Academy SAP on Azure.
 permalink: /skilling/microsoft-infrastructure-academy/sap-on-azure
-updated: 2023-11-14
+updated: 2024-03-07
 showbreadcrumb: true
 Tags:
 - academy content
@@ -20,4 +20,8 @@ Welcome to the Microsoft SAP on Azure Academy. Explore Microsoft SAP on Azure vi
 
 ### Sessions
 
-> Sessions coming soon! The Azure Infrastructure Academy launched Nov. 2023 and is undergoing development. Please check regularly for updates.
+{% include series.md 
+    includetags="academy content|sap videos" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    visualstyle="normal" 
+%}
