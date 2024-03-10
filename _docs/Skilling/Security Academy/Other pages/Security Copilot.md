@@ -74,7 +74,7 @@ To get started, we recommend watching the following videos created by Microsoft 
 * **Have High Customer Value** — The cost of Generative AI is orders of magnitude higher per transaction than your average feature today and depends on a constrained hardware supply (GPUs).
 * **Will be Regularly Used** — The best integrations will be used regularly so it is ongoing value, not a one-time value (like a configuration assistant).
 
-## How does Copilot for Security increase efficiency?
+#### How does Copilot for Security increase efficiency?
 
 -> *[Reference](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/improving-threat-hunting-efficiency-using-copilot-for-security/ba-p/4077527?utm_source=substack&utm_medium=email)*
 
