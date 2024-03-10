@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Are you ready for Copilot for Security?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2024-03-05
+updated: 2024-03-09
 showbreadcrumb: true
 tags: 
 - academy content
@@ -71,11 +71,17 @@ To get started, we recommend watching the following videos created by Microsoft 
 #### Considerations
 
 * **Assist a Human in Completing Work** – It's a Copilot, integrations are driven by/drive human engagement, not background runtime processing of substantial amounts of data.
-* **Have High Customer Value** — The cost of Generative AI is orders of magnitude per transaction higher than your average feature today and depend on a constrained hardware supply (GPUs).
+* **Have High Customer Value** — The cost of Generative AI is orders of magnitude higher per transaction than your average feature today and depends on a constrained hardware supply (GPUs).
 * **Will be Regularly Used** — The best integrations will be used regularly so it is ongoing value, not a one-time value (like a configuration assistant).
-* **Work with Constrained Context** — The model has a token limit for both input and output for the entire session.
-* **Leverage Model Creativity** — The model is probabilistic and not deterministic; the best integrations are cases where that is additive to the user experience.
 
+#### [How does Copilot for Security increase efficiency?](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/improving-threat-hunting-efficiency-using-copilot-for-security/ba-p/4077527?utm_source=substack&utm_medium=email)
+
+* **Threat Hunting:** Assists in building hunting queries by reasoning over MDTI.
+* **Speed:** Improves security teams’ response time, with up to a [26% reduction in randomized control trials.](https://www.microsoft.com/en-us/security/blog/2023/12/06/microsoft-security-copilot-drives-new-product-integrations-at-microsoft-ignite-to-empower-security-and-it-teams/)
+* **Quality:** Enhances responses by connecting endpoints, cloud services, and threat intelligence feeds.
+* **Time:** Saves time by capturing and consolidating attack data (up to 90% reduction).
+* **More Proactive Threat Hunting:** Empowers teams with AI-generated hypotheses and recommendations.
+* **Empowering Staff:** Frees senior staff for strategic work and strengthens junior staff expertise.
 
 ## AI Security
 
