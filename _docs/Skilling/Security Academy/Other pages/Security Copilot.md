@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Are you ready for Copilot for Security?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2024-03-09
+updated: 2024-03-11
 showbreadcrumb: true
 tags: 
 - academy content
