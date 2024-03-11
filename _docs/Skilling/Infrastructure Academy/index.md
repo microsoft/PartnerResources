@@ -2,15 +2,13 @@
 layout: page
 title: Microsoft Azure Infrastructure Academy
 description: Microsoft Azure Infrastructure Academy
-updated: 2024-03-07
+updated: 2024-03-11
 permalink: /skilling/microsoft-infrastructure-academy
 redirect_from:
   - /skilling/microsoft-infrastructure-academy/
 showbreadcrumb: true
 ---
 {% include_relative header.md %}
-
-> More coming this March! The Azure Infrastructure Academy launched Nov. 2023 and is undergoing development.
 
 #### Welcome to the Microsoft Azure Infrastructure Academy, your gateway to managing and optimizing your cloud infrastructure. 📎
 
