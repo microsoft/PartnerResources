@@ -14,7 +14,7 @@ Tags:
 ## Microsoft Networking Academy
 Welcome to the Microsoft Networking Academy. Explore Azure Networking video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
-> More coming later this March! Our team is currently creating new networking videos. Please check regularly for updates.
+> More coming this March! Our team is currently creating new networking videos. Please check regularly for updates.
 
 #### Stay connected with the [Azure Networking Blog](https://techcommunity.microsoft.com/t5/azure-networking-blog/bg-p/AzureNetworkingBlog).
 
