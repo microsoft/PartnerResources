@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-03-11
+updated: 2024-03-13
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -20,7 +20,7 @@ Stay ahead of evolving threats and protect your organization with continuous lea
 
 Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
 
-A new era of security is here. Read how [Microsoft unveiled the expansion of AI for security and security for AI at Microsoft Ignite](https://www.microsoft.com/en-us/security/blog/2023/11/15/microsoft-unveils-expansion-of-ai-for-security-and-security-for-ai-at-microsoft-ignite/).
+A new era of security is here. Read **[Vasu Jakkal's Copilot for Security April-1 Global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/).**
 
 #### The Basics
 1. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)**
@@ -37,9 +37,7 @@ A new era of security is here. Read how [Microsoft unveiled the expansion of AI 
 
 Learn about Microsoft's new **[Secure Future Initiative](https://blogs.microsoft.com/on-the-issues/2023/11/02/secure-future-initiative-sfi-cybersecurity-cyberattacks/)** to address "sophisticated, patient, stealthy, well-resourced, and government-backed techniques to infect and undermine the integrity of computer networks on a long-term basis."
 
-**[Read Microsoft's analysis](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783)** of the global security landscape through 10 essential insights from the Microsoft Digital Defense Report 2023.
-
-**[Read how Microsoft’s DCU (Digital Crimes Unit)](https://www.wired.com/story/microsoft-digital-crime-unit-2023/)** has honed its strategy of using unique legal tactics and the company’s technical reach to disrupt global cybercrime and state-backed actors.
+Read Microsoft's analysis of the global security landscape through **[10 essential insights from the Microsoft Digital Defense Report 2023](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783).**
 
 ## Start Your Journey and Stay Connected🔗
  
