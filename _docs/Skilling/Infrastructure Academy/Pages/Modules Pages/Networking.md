@@ -35,7 +35,7 @@ The repository includes tips and tools for effective storytelling that explains 
 
    
 ### Part 2 (FY 2024 — Upcoming live sessions)
-### Download all drawio diagrams [here](/diagrams)
+### Download all draw.io diagrams [here](/diagrams)
 
 ### Cross-Functional Networking
 
