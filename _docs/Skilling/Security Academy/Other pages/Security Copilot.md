@@ -11,25 +11,25 @@ tags:
 - security copilot
 ---
 
-# Copilot for Security Resources
+# Copilot for Security Technical Resources
 
 ## What is Copilot for Security? 🤔
 
-Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
+Microsoft Copilot for Security is the first security product that enables defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
 
-## Secure Update
+## Secure Update🎉
 
 It's been a busy week! As someone who began experimenting with Copilot for Security (CfS) nearly a year ago, it's rewarding to see not just a product, but a platform, excel expectations. CfS is truly an embodiment of what's possible. Most of the heros behind it will never be widely known, but there work surely will.
 
-Speaking of heros — read **[Vasu Jakkal's Copilot for Security Apil-1 Global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/).** Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners). As the ecosystem continues to grow, so too will plugins.
+Speaking of heros — read **[Vasu Jakkal's Copilot for Security April-1 Global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/).** Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners). As the ecosystem continues to grow, so too will plugins.
 
 As a partner, learn how to create and manage your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin).**
 
-Explore more [General Availability details](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-general-availability-details/ba-p/4079970) or dive into the results of our recent [Randomized Controlled Trial for Copilot for Securit](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us).
+Explore more **[General Availability details](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-general-availability-details/ba-p/4079970)** or dive into the results of our recent **[Randomized Controlled Trial for Copilot for Securit](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us).**
 
 ## Events
 
-* [Learn Live (March 19 — April 9): Get started with Microsoft Copilot for Security](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-copilot-for-security/)
+* [Learn Live (March 19 - April 9): Get started with Microsoft Copilot for Security](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-copilot-for-security/)
 * [Microsoft Copilot for Security Partner Boot Camp (April 16-17)](https://vshow.on24.com/vshow/FY24_SDepth/registration/23173)
 
 ## Other Mar. 2024 Updates📰
