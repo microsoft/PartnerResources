@@ -15,7 +15,7 @@ tags:
 
 ## What is Copilot for Security? 🤔
 
-Microsoft Copilot for Security is the first security product that enables defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
+Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
 
 ## Secure Update🔓
 
