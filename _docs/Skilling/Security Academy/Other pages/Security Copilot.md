@@ -17,7 +17,7 @@ tags:
 
 Microsoft Copilot for Security is the first security product that enables defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
 
-## Secure Update🎉
+## Secure Update🔓
 
 It's been a busy week! As someone who began experimenting with Copilot for Security (CfS) nearly a year ago, it's rewarding to see not just a product, but a platform, excel expectations. CfS is truly an embodiment of what's possible. Most of the heros behind it will never be widely known, but there work surely will.
 
