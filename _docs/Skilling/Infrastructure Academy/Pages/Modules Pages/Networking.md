@@ -39,7 +39,7 @@ The repository includes tips and tools for effective storytelling that explains 
 
 ### Cross-Functional Networking
 
-1. [Azure AI Studio Networking](#Azure-AI-Studio-Network-design) — March 28th, 2024 -> **[Register here!](https://msit.events.teams.microsoft.com/event/**0a8c1351-b4d6-47e1-8924-06d505a53439@72f988bf-86f1-41af-91ab-2d7cd011db47)**
+1. [Azure AI Studio Networking](#Azure-AI-Studio-Network-design) — March 28th, 2024 -> **[Register here!](https://msit.events.teams.microsoft.com/event/0a8c1351-b4d6-47e1-8924-06d505a53439@72f988bf-86f1-41af-91ab-2d7cd011db47)**
 2. [AVS Networking](#Azure-VMWare-Solutions-Network-design) (Webinar Registration Link —  *Coming soon*)
 3. [AKS Networking](#AKS-Networking) (Webinar Registration Link —  *Coming soon*)
 4. ADF and SQL MI Networking
