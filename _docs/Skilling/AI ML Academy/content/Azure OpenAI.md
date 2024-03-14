@@ -163,7 +163,7 @@ Read more:
 
 - [Azure OpenAI Service - Azure OpenAI](https://docs.microsoft.com/learn/modules/azure-openai-fundamentals/)
 - [Prompt engineering techniques with Azure OpenAI - Azure OpenAI Service](https://docs.microsoft.com/learn/modules/azure-openai-prompt-engineering/)
-- [System message framework and template recommendations for Large Language Models(LLMs) - Azure OpenAI Service](https://docs.microsoft.com/learn/modules/azure-openai-system-message-framework/)
+- [System message framework and template recommendations for Large Language Models (LLMs) - Azure OpenAI Service](https://docs.microsoft.com/learn/modules/azure-openai-system-message-framework/)
 
 
 
