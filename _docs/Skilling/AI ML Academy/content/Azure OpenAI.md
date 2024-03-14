@@ -57,6 +57,118 @@ This section includes Azure OpenAI resources to help you get started including s
 
 ```
 -->
+
+
+ 
+We’ll start by covering the Prompt Engineering Techniques, which is the first step to the LLM behavior and interactions
+
+## Prompt Engineering Techniques
+
+1. **System Message: Setting the Stage**
+
+The system message acts as the opening act for our AI model. It sets the tone and context. Consider this example:
+
+- System Message: “You’re an AI assistant that helps people find information and responds in rhyme.”
+- When a user asks, “What’s the capital of France?” our AI responds with: 
+  - “In Paris, the Seine does dance, where croissants and baguettes enhance.”
+
+Remember, the system message shapes the AI’s behavior. Experiment with different prompts to fine-tune your model’s personality.
+
+2. **Basic Best Practices for Prompting**
+
+When crafting prompts, follow these best practices:
+
+	1. Put Instructions at the Beginning:
+		- Clearly state what you want the model to do.
+		
+		Example: Summarize the follow text, highlighting the main point.
+		Text: """
+		{input}
+		"""
+		
+	2. Be Explicit:
+		- Specify the desired format or output.
+		- Example: “Summarize the article in 3 sentences, highlighting the key figures.”
+		
+	3. Avoid Negations:
+		- Instead of saying what not to do, focus on positive instructions.
+		- Example: “Provide a concise summary” (instead of “Don’t be verbose”).
+		
+	4. Use Examples:
+		- Show the model what you expect.
+		- Example: “Translate the following: ‘Bonjour’” (with the expected output: “Hello”).
+		
+	5. Iterate and Experiment:
+		- Fine-tune prompts based on model responses.
+		- Observe how different instructions impact results.
+
+3. **Zero-Shot Prompting**
+
+- Definition: 
+  - Zero-shot prompting tests the model’s ability to produce relevant outputs without relying on prior examples.
+  - You provide a prompt that is not part of the training data, and the model generates a result given your instructions.
+  
+- Example: 
+  - Imagine asking the model: “Translate the following English text to Spanish: ‘Good morning!’”
+  - The model responds with: “¡Buenos días!”
+
+4. **Few-Shot Prompting (In-Context Learning)**
+
+- Definition: 
+  - Few-shot prompting gives the model a few sample outputs (shots) to help it learn what the user wants.
+  - By providing context, the learning model better understands the desired output.
+  
+- Example: 
+  - Extract keywords from the corresponding texts below.
+  
+  1. Azure OpenAI and Language Models
+	  - Text: “Azure OpenAI offers powerful language models that excel at understanding and generating text. Our API provides seamless access to these models, enabling developers to tackle a wide range of language-related tasks.”
+	  - Keywords: Azure OpenAI, language models, text generation, API
+	  
+  2. Integration with Web Applications
+	  - Text: “Integrating Azure OpenAI into web applications is straightforward. Developers can leverage our APIs to enhance natural language understanding, sentiment analysis, and chatbot interactions.”
+	  - Keywords: Azure OpenAI, web applications, APIs, natural language understanding, sentiment analysis, chatbots
+	  
+  3. Custom Text (User-Specified)
+	  - Text: {text}
+	  - Keywords: 
+	  
+	  The model learns from these examples and responds similarly.
+
+5. **Chain-of-Thought (CoT) Prompting**
+
+- Definition: 
+  - CoT prompting encourages reasoning and multi-step thinking.
+  - A few sample questions and answers followed by the actual question (few-shot prompt) for the model can help it generate reasoning to response to the prompt. 
+  
+- Example: 
+  - “Let’s think step-by-step: Roger started with 5 balls. 2 cans of 3 tennis balls each is 6 tennis balls. 5 + 6 = ?”
+  - Generated Response: “Roger started with 5 balls. Adding the 6 tennis balls from the cans, he now has 11 balls.”
+
+6. **Parameters**
+
+	1. Model - Based on what model is used, you may expect different results and latency. For example, GPT 3.5 turbo will return faster that a GPT-4 model, but GPT-4 has better reasoning, so the resulting text could be better in more complex scenarios. The Azure [AI studio](https://ai.azure.com/) and [Hugging Face](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a) have benchmarking to show the difference between performance for certain task 
+	
+	2. Temperature & Top_p- These metrics can determine how varied the response will be. The metrics can be a number between 0 to 1, with the closer the temperature is set 1 the more creative/random, and with it set to 0 more grounded and great for use cases where factual data is needed. Both Temperature and Top_p are similar in the fact that they control randomness, but they do it in a different way. The general recommendation is to alter only one out of the pair.
+
+7. **Grounding**
+
+	1. The best way to get reliable answers is by providing your model context. For example, if you were to ask a question like, "Who is responsible to project A on my team?", the model would have no idea on how to answer that. Provided context "Sally is in charge of project A, Sam for project B, and Steve for project C", the model is able to respond back with an answer grounded by this context.
+
+Get hands=on and practice these concepts:
+
+- [What The Hack - Azure OpenAI Fundamentals](https://microsoft.github.io/WhatTheHack/AzureOpenAI/01-Intro.html)
+
+Read more:
+
+- [Azure OpenAI Service - Azure OpenAI | Microsoft Learn](https://docs.microsoft.com/learn/modules/azure-openai-fundamentals/)
+- [Prompt engineering techniques with Azure OpenAI - Azure OpenAI Service | Microsoft Learn](https://docs.microsoft.com/learn/modules/azure-openai-prompt-engineering/)
+- [System message framework and template recommendations for Large Language Models(LLMs) - Azure OpenAI Service | Microsoft Learn](https://docs.microsoft.com/learn/modules/azure-openai-system-message-framework/)
+
+
+
+
+
 ## Getting Started
 Start here for an introduction to programmatically utilizing GPT models.
 
