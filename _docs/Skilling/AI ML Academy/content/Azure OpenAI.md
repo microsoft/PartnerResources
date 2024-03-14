@@ -4,7 +4,7 @@ title: AI & ML Academy - Azure OpenAI
 sorttitle: 02
 description: Workshop focused on AI and ML - Azure OpenAI
 permalink: /skilling/ai-ml-academy/openai
-updated: 2023-04-12
+updated: 2024-03-14
 showbreadcrumb: true
 tags: 
 - azure
@@ -21,7 +21,7 @@ tags:
 
 Welcome to the AI & ML Academy (AIA) - Azure OpenAI!
 
-This section includes Azure OpenAI resources to help you get started including sample code, end-to-end scenarios, notebooks, and other quickstart resources.
+This section includes Azure OpenAI resources to help you get started including sample code, end-to-end scenarios, notebooks, and other QuickStart resources.
 
 <!--
 ```html
@@ -161,9 +161,9 @@ Get hands=on and practice these concepts:
 
 Read more:
 
-- [Azure OpenAI Service - Azure OpenAI | Microsoft Learn](https://docs.microsoft.com/learn/modules/azure-openai-fundamentals/)
-- [Prompt engineering techniques with Azure OpenAI - Azure OpenAI Service | Microsoft Learn](https://docs.microsoft.com/learn/modules/azure-openai-prompt-engineering/)
-- [System message framework and template recommendations for Large Language Models(LLMs) - Azure OpenAI Service | Microsoft Learn](https://docs.microsoft.com/learn/modules/azure-openai-system-message-framework/)
+- [Azure OpenAI Service - Azure OpenAI](https://docs.microsoft.com/learn/modules/azure-openai-fundamentals/)
+- [Prompt engineering techniques with Azure OpenAI - Azure OpenAI Service](https://docs.microsoft.com/learn/modules/azure-openai-prompt-engineering/)
+- [System message framework and template recommendations for Large Language Models(LLMs) - Azure OpenAI Service](https://docs.microsoft.com/learn/modules/azure-openai-system-message-framework/)
 
 
 
