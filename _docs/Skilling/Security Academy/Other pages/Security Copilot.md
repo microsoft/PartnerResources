@@ -18,7 +18,7 @@ tags:
 Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
 ## Mar. 22nd, 2024 Update📰
 
-It's been a busy week! I was in Redmond this past Tuesday and Wednesday presenting Copilot for Security at the Microsoft AI Cloud Summit for SMB Partners. The attendees, most of whom had surprisingly never seen it, were fascinated. Most partners are confused about the pricing. Below, I provide details about Copilot for Security's [pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#pricing).
+It's been a busy week! I was in Redmond this past Tuesday and Wednesday presenting Copilot for Security at the Microsoft AI Cloud Summit for SMB Partners. The attendees, most of whom had surprisingly never seen it, were fascinated. Most partners are confused about the pricing. Below, I provide details about Copilot for Security's [newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#pricing).
 
 **Prepare for Copilot for Security's April-1 launch with our [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).**
 
@@ -58,17 +58,15 @@ To get started, we recommend watching the following videos created by Microsoft 
   </tr>
 </table>
 
-#### Explore [Microsoft Copilot for Security's official YouTube playlist](https://youtube.com/playlist?list=PL3ZTgFEc7LyuQRLD61q9YqPKEDlZj4j5u&si=tcAVkQqEVuHENDY2)
-
 ## Pricing📌
 
-Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU/hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a given workload. One SCU = ~10 workflows/day. The pricing is consistent across both the standalone experience and the embedded experience as well as regions (East US, West Europe, UK South, and Australia East).
+Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU/hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a given workload. One SCU ~10 workflows/day. The pricing is consistent across the standalone experience and the embedded experience as well as regions (East US, West Europe, UK South, and Australia East).
 
 Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing; the more telemetry ingested = the more coverage and insights, so long as it's not *too* much noise).
 
-To use Copilot for Security, you must have **at least* one SCU/hr 24x7.** Therefore, the minimum annual price is **$35,040** ($4 * 24hr/day * 365day/yr). Customers and partners can purchase SCUs in the standalone experience or in Azure. You can manually provision SCUs up or down so long as you have **at least* one SCU/hr.**
+To use Copilot for Security, you must have ***at least* one SCU/hr 24x7.** Therefore, the **minimum annual price is $35,040** ($4 * 24hr/day * 365day/yr). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.**
 
-If you de-provision Copilot for Security (i.e., zero SCUs/hr), we will retain your data for 90 days. It also cannot be overstated how valuable MDTI workbench included is. While it's not the standalone API, the TI information is easy-to-read in the context of your investigations.
+If you de-provision Copilot for Security (i.e., zero SCUs/hr), we will retain your data for 90 days. **MDTI workbench is included** and while it's not the standalone API, the TI information is easy-to-read and in the context of your investigations.
 
 Since computing capacity and token usage is **variable** (quantifying a specific # of tokens needed per prompt/Promptbook is difficult), it's important for partners to know what they can do *now:*
 
@@ -89,7 +87,7 @@ I'm assuming beyond the EAP, we're also collecting this data and in good time, w
 ## Architecture
 
 
-![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/security-copilot-diagram.png)
+![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/CfS Arch.png)
 
 
 ## Integrations
@@ -110,12 +108,21 @@ I'm assuming beyond the EAP, we're also collecting this data and in good time, w
 
 -> *[Reference](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/improving-threat-hunting-efficiency-using-copilot-for-security/ba-p/4077527?utm_source=substack&utm_medium=email)*
 
+* **Augment​ Human Expertise​:** 
+
 * **Threat Hunting:** Assists in building hunting queries by reasoning over MDTI.
 * **Speed:** Improves security teams’ response time, with up to a [26% reduction in randomized control trials.](https://www.microsoft.com/en-us/security/blog/2023/12/06/microsoft-security-copilot-drives-new-product-integrations-at-microsoft-ignite-to-empower-security-and-it-teams/)
-* **Quality:** Enhances responses by connecting endpoints, cloud services, and threat intelligence feeds.
-* **Time:** Saves time by capturing and consolidating attack data (up to 90% reduction).
-* **More Proactive Threat Hunting:** Empowers teams with AI-generated hypotheses and recommendations.
+* **Efficiency:** Enhances responses with contextual summarizations, reduces routine tasks, amd Natural Language to KQL conversion (NL2KQL).
+* **More Proactive Threat Hunting:** Empowers teams with AI-powered recommendations.
 * **Empowering Staff:** Frees senior staff for strategic work and strengthens junior staff expertise.
+
+#### Personas beyond SOC analysts​
+
+* **DLP​ Analysts:​** Summarize Data Loss Prevention alerts and analyze DLP policy configurations.
+* **Insider​ Risk Analysts:​** Summarize Insider Risk Management alerts and gain context around users with risky behavior​.
+* **IT​ Admins:** Create device configuration profiles in Intune and leverage data-driven configuration troubleshooting and remediation​.
+* **eDiscovery​ Analysts​:** Generate Keyword Query Language from NL in eDiscovery and summarize evidence collected.
+* **Identity Access Management​ Admins:** Discover high risk users, over privileged access, suspicious sign-ins in Entra.
 
 ## AI Security
 
