@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Are you ready for Copilot for Security?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2024-03-14
+updated: 2024-03-22
 showbreadcrumb: true
 tags: 
 - academy content
@@ -16,12 +16,19 @@ tags:
 ## What is Copilot for Security? 🤔
 
 Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
+## Mar. 22nd, 2024 Update📰
+
+It's been a busy week! I was in Redmond this past Tuesday and Wednesday presenting Copilot for Security at the Microsoft AI Cloud Summit for SMB Partners. The attendees, most of whom had surprisingly never seen it, were fascinated. Leaving the conference, it's clear most partners are confused about the pricing. Below, I added details about Copilot for Security's **[newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#pricing).**
+
+**Prepare for Copilot for Security's April-1 launch with our [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).**
+
+**[Prompt engineering in Copilot for Security](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/?utm_source=substack&utm_medium=email)** plays a critical role in creating specific, high-quality outputs. **[This folder](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts)** contains Copilot for Security prompting templates and Promptbooks.
 
 ## Secure Update🔓
 
-It's been a busy week! As someone who began experimenting with Copilot for Security (CfS) nearly a year ago, it's rewarding to see not just a product, but a platform, excel expectations. CfS is truly an embodiment of what's possible. Most of the heroes behind it, and all their late nights, will never be widely known, but their work surely will.
+As someone who began experimenting with Copilot for Security (CfS) nearly a year ago, it's rewarding to see not just a product, but a platform, excel expectations. CfS is truly an embodiment of what's possible. Most of the heroes behind it, and all their late nights, will never be widely known, but their work surely will.
 
-Read **[Vasu Jakkal's Copilot for Security April-1 Global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/).** Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners). As the ecosystem continues to grow, so too will plugins.
+Read **[Vasu Jakkal's Copilot for Security April-1 global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/).** Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners). As the ecosystem continues to grow, so too will plugins.
 
 As a partner, learn how to create and manage your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin).**
 
@@ -29,15 +36,8 @@ Explore more **[General Availability details](https://techcommunity.microsoft.co
 
 ## Events
 
-* [Learn Live (March 19 - April 9): Get started with Microsoft Copilot for Security](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-copilot-for-security/)
-* [Microsoft Copilot for Security Partner Boot Camp (April 16-17)](https://vshow.on24.com/vshow/FY24_SDepth/registration/23173)
-
-## Other Mar. 2024 Updates📰
-
-**Prepare for Copilot for Security's April-1 launch with our [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).**
-
-**[Prompt engineering in Copilot for Security](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/?utm_source=substack&utm_medium=email)** plays a critical role in creating specific, high-quality outputs. **[This folder](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts)** contains Copilot for Security prompting templates and Promptbooks.
-
+* [**Learn Live:** Get started with Microsoft Copilot for Security (March 19-April 9)](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-copilot-for-security/)
+* [**Microsoft Copilot for Security Partner Boot Camp** (April 16-17)](https://vshow.on24.com/vshow/FY24_SDepth/registration/23173)
 
 ## Get Started
 
@@ -58,6 +58,25 @@ To get started, we recommend watching the following videos created by Microsoft 
   </tr>
 </table>
 
+## Pricing📌
+
+Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU/hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a given workload. One SCU ~10 workflows/day. The pricing is consistent across the standalone experience and the embedded experiences as well as regions (East US, West Europe, UK South, and Australia East).
+
+Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing; the more telemetry ingested = the more coverage and insights, so long as it's not *too* much noise).
+
+To use Copilot for Security, you must have ***at least* one SCU/hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr/day * 365day/yr). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.**
+
+If you de-provision Copilot for Security (zero SCUs/hr), we will retain your data for 90 days. **MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
+
+Since computing capacity and token usage is **variable** (quantifying a specific # of tokens or **workflows** needed per prompt/Promptbook is difficult), it's important for partners to know what they can do *now:*
+
+* Measure SCU usage between different user roles (SOC analysts, Purview admins, identity/access admins, etc.)
+* Measure SCU usage between different levels of expertise (Junior analysts vs Senior analysts)
+* Measure SCU usage across our tooling and 3rd-party plugins
+* Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
+
+I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage and what ***is and isn't a workflow.***
+
 ## Features
 
 * Incident Response — Summarize incidents, assess impact, and receive tailored remediation guidance based on proven strategies.
@@ -68,7 +87,7 @@ To get started, we recommend watching the following videos created by Microsoft 
 ## Architecture
 
 
-![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/security-copilot-diagram.png)
+![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/CfS Arch.png)
 
 
 ## Integrations
@@ -91,10 +110,17 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 * **Threat Hunting:** Assists in building hunting queries by reasoning over MDTI.
 * **Speed:** Improves security teams’ response time, with up to a [26% reduction in randomized control trials.](https://www.microsoft.com/en-us/security/blog/2023/12/06/microsoft-security-copilot-drives-new-product-integrations-at-microsoft-ignite-to-empower-security-and-it-teams/)
-* **Quality:** Enhances responses by connecting endpoints, cloud services, and threat intelligence feeds.
-* **Time:** Saves time by capturing and consolidating attack data (up to 90% reduction).
-* **More Proactive Threat Hunting:** Empowers teams with AI-generated hypotheses and recommendations.
+* **Efficiency:** Enhances responses with contextual summaries, reduces routine tasks, and offers Natural Language to KQL conversion (NL2KQL).
+* **More Proactive Threat Hunting:** Empowers teams with AI-powered recommendations.
 * **Empowering Staff:** Frees senior staff for strategic work and strengthens junior staff expertise.
+
+#### Personas beyond SOC analysts​
+
+* **DLP​ Analysts:​** Summarize DLP alerts and analyze DLP policy configurations.
+* **Insider​ Risk Analysts:​** Summarize Insider Risk Management alerts and gain context around users with risky behavior​.
+* **IT​ Admins:** Create device configuration profiles in Intune and leverage data-driven configuration troubleshooting and remediation​.
+* **eDiscovery​ Analysts​:** Generate Keyword Query Language from NL in eDiscovery and summarize evidence collected.
+* **Identity Access Management​ Admins:** Discover high risk users, overprivileged access, suspicious sign-ins in Entra.
 
 ## AI Security
 
