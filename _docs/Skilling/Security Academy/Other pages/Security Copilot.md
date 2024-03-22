@@ -40,23 +40,6 @@ Explore more **[General Availability details](https://techcommunity.microsoft.co
 * [Learn Live (March 19 - April 9): Get started with Microsoft Copilot for Security](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-copilot-for-security/)
 * [Microsoft Copilot for Security Partner Boot Camp (April 16-17)](https://vshow.on24.com/vshow/FY24_SDepth/registration/23173)
 
-## Pricing
-
-Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU/hr.** A Security Compute Unit (SCU) is Copilot for Security's unit of measurement for of computing capacity to run a given workload. One SCU = ~10 workflows/day. The pricing is consistent across both the standalone experience and the embedded experience as well as regions (East US, West Europe, UK South and Australia East).
-
-Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing with data ingestion; the more telematery = the more coverage and insights, as long as it's not *too* much noise).
-
-To use Copilot for Security, you must have *at least* one SCU/hr 24x7. Therefore, the minimum annual price is **$35,040** ($4 * 24hr/day * 365day/yr). Customers and partners can purchase SCUs in the standalone experience or in Azure. You can manually provision SCUs up or down so long as you have *at least* one SCU/hr. If you de-provision Copilot for Security (i.e., zero SCUs/hr), your data will be retained for 90 days. It also cannot be overstated how valuable MDTI workbench included is. While it's not the standalone API, the TI information will easy-to-read formats and in the context of your investigations.
-
-Since computing capacity and token usage is **variable** (quantifying a specific # of tokens needed per prompt/Promptbook is difficult), it's important for partners to know what they can do *now.*
-
-* Measure SCU usage between different user roles (SOC analysts, Purview admins, identity/access admins, etc.)
-* Measure SCU usage between different levels of expertise (Junior analysts vs. Senior analysts)
-* Measure SCU usage across our tooling and 3rd-party plugins
-* Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
-
-I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage.
-
 ## Get Started
 
 To get started, we recommend watching the following videos created by Microsoft Security and the Global Partner Solutions (GPS) Technical Team:
@@ -76,7 +59,24 @@ To get started, we recommend watching the following videos created by Microsoft 
   </tr>
 </table>
 
-## Explore [Microsoft Copilot for Security's official YouTube playlist](https://youtube.com/playlist?list=PL3ZTgFEc7LyuQRLD61q9YqPKEDlZj4j5u&si=tcAVkQqEVuHENDY2)
+#### Explore [Microsoft Copilot for Security's official YouTube playlist](https://youtube.com/playlist?list=PL3ZTgFEc7LyuQRLD61q9YqPKEDlZj4j5u&si=tcAVkQqEVuHENDY2)
+
+## Pricing📌
+
+Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU/hr.** A Security Compute Unit (SCU) is Copilot for Security's unit of measurement for of computing capacity to run a given workload. One SCU = ~10 workflows/day. The pricing is consistent across both the standalone experience and the embedded experience as well as regions (East US, West Europe, UK South and Australia East).
+
+Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing with data ingestion; the more telematery = the more coverage and insights, as long as it's not *too* much noise).
+
+To use Copilot for Security, you must have *at least* one SCU/hr 24x7. Therefore, the minimum annual price is **$35,040** ($4 * 24hr/day * 365day/yr). Customers and partners can purchase SCUs in the standalone experience or in Azure. You can manually provision SCUs up or down so long as you have *at least* one SCU/hr. If you de-provision Copilot for Security (i.e., zero SCUs/hr), your data will be retained for 90 days. It also cannot be overstated how valuable MDTI workbench included is. While it's not the standalone API, the TI information will easy-to-read formats and in the context of your investigations.
+
+Since computing capacity and token usage is **variable** (quantifying a specific # of tokens needed per prompt/Promptbook is difficult), it's important for partners to know what they can do *now.*
+
+* Measure SCU usage between different user roles (SOC analysts, Purview admins, identity/access admins, etc.)
+* Measure SCU usage between different levels of expertise (Junior analysts vs. Senior analysts)
+* Measure SCU usage across our tooling and 3rd-party plugins
+* Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
+
+I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage.
 
 ## Features
 
