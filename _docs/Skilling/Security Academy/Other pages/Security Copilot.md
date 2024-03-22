@@ -28,7 +28,7 @@ It's been a busy week! I was in Redmond this past Tuesday and Wednesday presenti
 
 As someone who began experimenting with Copilot for Security (CfS) nearly a year ago, it's rewarding to see not just a product, but a platform, excel expectations. CfS is truly an embodiment of what's possible. Most of the heroes behind it, and all their late nights, will never be widely known, but their work surely will.
 
-Read **[Vasu Jakkal's Copilot for Security April-1 Global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/).** Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners). As the ecosystem continues to grow, so too will plugins.
+Read **[Vasu Jakkal's Copilot for Security April-1 global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/).** Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners). As the ecosystem continues to grow, so too will plugins.
 
 As a partner, learn how to create and manage your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin).**
 
@@ -36,8 +36,8 @@ Explore more **[General Availability details](https://techcommunity.microsoft.co
 
 ## Events
 
-* [Learn Live (March 19 - April 9): Get started with Microsoft Copilot for Security](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-copilot-for-security/)
-* [Microsoft Copilot for Security Partner Boot Camp (April 16-17)](https://vshow.on24.com/vshow/FY24_SDepth/registration/23173)
+* [**Learn Live:** Get started with Microsoft Copilot for Security (March 19-April 9)](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-copilot-for-security/)
+* [**Microsoft Copilot for Security Partner Boot Camp** (April 16-17)](https://vshow.on24.com/vshow/FY24_SDepth/registration/23173)
 
 ## Get Started
 
@@ -64,18 +64,18 @@ Copilot for Security pricing is consumption-based and costs approximately **$4 p
 
 Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing; the more telemetry ingested = the more coverage and insights, so long as it's not *too* much noise).
 
-To use Copilot for Security, you must have ***at least* one SCU/hr 24x7.** Therefore, the **minimum annual price is $35,040** ($4 * 24hr/day * 365day/yr). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.**
+To use Copilot for Security, you must have ***at least* one SCU/hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr/day * 365day/yr). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.**
 
-If you de-provision Copilot for Security (i.e., zero SCUs/hr), we will retain your data for 90 days. **MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations.
+If you de-provision Copilot for Security (zero SCUs/hr), we will retain your data for 90 days. **MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations.
 
-Since computing capacity and token usage is **variable** (quantifying a specific # of tokens needed per prompt/Promptbook is difficult), it's important for partners to know what they can do *now:*
+Since computing capacity and token usage is **variable** (quantifying a specific # of tokens or **workflows** needed per prompt/Promptbook is difficult), it's important for partners to know what they can do *now:*
 
 * Measure SCU usage between different user roles (SOC analysts, Purview admins, identity/access admins, etc.)
-* Measure SCU usage between different levels of expertise (Junior analysts vs. Senior analysts)
+* Measure SCU usage between different levels of expertise (Junior analysts vs Senior analysts)
 * Measure SCU usage across our tooling and 3rd-party plugins
 * Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
 
-I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage and what is and isn't a workflow.
+I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage and what ***is and isn't a workflow.***
 
 ## Features
 
@@ -108,21 +108,19 @@ I'm assuming beyond the EAP, we're also collecting this data and in good time, w
 
 -> *[Reference](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/improving-threat-hunting-efficiency-using-copilot-for-security/ba-p/4077527?utm_source=substack&utm_medium=email)*
 
-* **Augment​ Human Expertise​:** 
-
 * **Threat Hunting:** Assists in building hunting queries by reasoning over MDTI.
 * **Speed:** Improves security teams’ response time, with up to a [26% reduction in randomized control trials.](https://www.microsoft.com/en-us/security/blog/2023/12/06/microsoft-security-copilot-drives-new-product-integrations-at-microsoft-ignite-to-empower-security-and-it-teams/)
-* **Efficiency:** Enhances responses with contextual summarizations, reduces routine tasks, and Natural Language to KQL conversion (NL2KQL).
+* **Efficiency:** Enhances responses with contextual summaries, reduces routine tasks, and offers Natural Language to KQL conversion (NL2KQL).
 * **More Proactive Threat Hunting:** Empowers teams with AI-powered recommendations.
 * **Empowering Staff:** Frees senior staff for strategic work and strengthens junior staff expertise.
 
 #### Personas beyond SOC analysts​
 
-* **DLP​ Analysts:​** Summarize Data Loss Prevention alerts and analyze DLP policy configurations.
+* **DLP​ Analysts:​** Summarize DLP alerts and analyze DLP policy configurations.
 * **Insider​ Risk Analysts:​** Summarize Insider Risk Management alerts and gain context around users with risky behavior​.
 * **IT​ Admins:** Create device configuration profiles in Intune and leverage data-driven configuration troubleshooting and remediation​.
 * **eDiscovery​ Analysts​:** Generate Keyword Query Language from NL in eDiscovery and summarize evidence collected.
-* **Identity Access Management​ Admins:** Discover high risk users, over privileged access, suspicious sign-ins in Entra.
+* **Identity Access Management​ Admins:** Discover high risk users, overprivileged access, suspicious sign-ins in Entra.
 
 ## AI Security
 
