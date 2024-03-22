@@ -18,7 +18,7 @@ tags:
 Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
 ## Mar. 22nd, 2024 Update📰
 
-It's been a busy week! I was in Redmond this past Tuesday and Wednesday presenting Copilot for Security at the Microsoft AI Cloud Summit for SMB Partners. The attendees, most of whom had surprisingly never seen it, were fascinated. Most partners are confused about the pricing. Below, I provide details about Copilot for Security's [newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#pricing).
+It's been a busy week! I was in Redmond this past Tuesday and Wednesday presenting Copilot for Security at the Microsoft AI Cloud Summit for SMB Partners. The attendees, most of whom had surprisingly never seen it, were fascinated. Most partners are confused about the pricing. Below, I provide details about Copilot for Security's **[newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#pricing).**
 
 **Prepare for Copilot for Security's April-1 launch with our [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).**
 
@@ -66,7 +66,7 @@ Why is it consumption-based and not per user? The idea is that the flexibility w
 
 To use Copilot for Security, you must have ***at least* one SCU/hr 24x7.** Therefore, the **minimum annual price is $35,040** ($4 * 24hr/day * 365day/yr). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.**
 
-If you de-provision Copilot for Security (i.e., zero SCUs/hr), we will retain your data for 90 days. **MDTI workbench is included** and while it's not the standalone API, the TI information is easy-to-read and in the context of your investigations.
+If you de-provision Copilot for Security (i.e., zero SCUs/hr), we will retain your data for 90 days. **MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations.
 
 Since computing capacity and token usage is **variable** (quantifying a specific # of tokens needed per prompt/Promptbook is difficult), it's important for partners to know what they can do *now:*
 
@@ -112,7 +112,7 @@ I'm assuming beyond the EAP, we're also collecting this data and in good time, w
 
 * **Threat Hunting:** Assists in building hunting queries by reasoning over MDTI.
 * **Speed:** Improves security teams’ response time, with up to a [26% reduction in randomized control trials.](https://www.microsoft.com/en-us/security/blog/2023/12/06/microsoft-security-copilot-drives-new-product-integrations-at-microsoft-ignite-to-empower-security-and-it-teams/)
-* **Efficiency:** Enhances responses with contextual summarizations, reduces routine tasks, amd Natural Language to KQL conversion (NL2KQL).
+* **Efficiency:** Enhances responses with contextual summarizations, reduces routine tasks, and Natural Language to KQL conversion (NL2KQL).
 * **More Proactive Threat Hunting:** Empowers teams with AI-powered recommendations.
 * **Empowering Staff:** Frees senior staff for strategic work and strengthens junior staff expertise.
 
