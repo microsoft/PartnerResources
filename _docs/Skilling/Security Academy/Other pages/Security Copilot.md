@@ -60,13 +60,13 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 ## Pricing📌
 
-Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU/hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a given workload. One SCU ~10 workflows/day. The pricing is consistent across the standalone experience and the embedded experience as well as regions (East US, West Europe, UK South, and Australia East).
+Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU/hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a given workload. One SCU ~10 workflows/day. The pricing is consistent across the standalone experience and the embedded experiences as well as regions (East US, West Europe, UK South, and Australia East).
 
 Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing; the more telemetry ingested = the more coverage and insights, so long as it's not *too* much noise).
 
 To use Copilot for Security, you must have ***at least* one SCU/hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr/day * 365day/yr). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.**
 
-If you de-provision Copilot for Security (zero SCUs/hr), we will retain your data for 90 days. **MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations.
+If you de-provision Copilot for Security (zero SCUs/hr), we will retain your data for 90 days. **MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
 
 Since computing capacity and token usage is **variable** (quantifying a specific # of tokens or **workflows** needed per prompt/Promptbook is difficult), it's important for partners to know what they can do *now:*
 
