@@ -19,7 +19,7 @@ Microsoft Copilot for Security is the first security product to enable defenders
 
 ## Mar. 22nd, 2024 Update📰
 
-It's been a busy week! I was in Redmond this week presenting Copilot for Security at the Microsoft AI Cloud Summit for SMB Partners. The attendees, most of whom had surprisingly never seen it before, were fascinated. Naturally, most partners are confused about our pricing. I've even heard that the pricing is "as clear as mud" so I try to address it below.
+It's been a busy week! I was in Redmond this past Tuesday and Wednesday presenting Copilot for Security at the Microsoft AI Cloud Summit for SMB Partners. The attendees, most of whom had surprisingly never seen it, were fascinated. Naturally, most partners are confused about pricing. I've even heard the pricing is "as clear as mud." To address the confusion, I provide some clarity below.
 
 **Prepare for Copilot for Security's April-1 launch with our [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).**
 
