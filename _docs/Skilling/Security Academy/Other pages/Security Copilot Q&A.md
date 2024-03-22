@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security Q&A
 description: Common Copilot for Security Q&A.
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot-extra
-updated: 2024-03-13
+updated: 2024-03-22
 showbreadcrumb: true
 tags: 
 - academy content
@@ -22,7 +22,7 @@ Additionally, **Copilot for Security does not share your data with OpenAI.**
 Copilot for Security is built with our **[responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).** Additionally, Copilot for Security uses Role-based access controls (RBAC) and operates in tandem with existing user permissions.
 
 #### How is access and authorization governed?
-Copilot for Security uses on-behalf-of (OBO) authentication to access security-related data through plugins. As such, the user will only be presented with data that they have access to. To access the Copilot for Security portal, users must be assigned a Microsoft Entra RBAC role (either directly or through a group) that has access to a given feature.
+Copilot for Security uses on-behalf-of (OBO) authentication to access security-related data through plugins. As such, the user will only be presented with data that they have access to. To access the Copilot for Security portal, users must be assigned a Microsoft Entra RBAC role (either directly or through a group) that has access to a given feature. Learn more about OAuth 2.0 On-Behalf-Of authentication **[here](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow)** and overall authentication in Copilot for Security **[here](https://learn.microsoft.com/en-us/security-copilot/authentication).**
 
 #### Will Copilot for Security "hallucinate"?
 To ensure the accuracy of Copilot for Security's responses, Microsoft's Threat Intelligence (TI) data, model fine-tuning, and the user's connected skillsets ground Copilot for Security to prevent hallucinations. Copilot for Security also outlines the steps and sources it uses to arrive at an answer, allowing users to verify the results provided.

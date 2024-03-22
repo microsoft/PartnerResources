@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Are you ready for Copilot for Security?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2024-03-14
+updated: 2024-03-22
 showbreadcrumb: true
 tags: 
 - academy content
@@ -17,9 +17,17 @@ tags:
 
 Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
 
+## Mar. 22nd, 2024 Update📰
+
+It's been a busy week! I was in Redmond this week presenting Copilot for Security at the Microsoft AI Cloud Summit for SMB Partners. The attendees, most of whom had surprisingly never seen it before, were fascinated. Naturally, most partners are confused about our pricing. I've even heard that the pricing is "as clear as mud" so I try to address it below.
+
+**Prepare for Copilot for Security's April-1 launch with our [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).**
+
+**[Prompt engineering in Copilot for Security](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/?utm_source=substack&utm_medium=email)** plays a critical role in creating specific, high-quality outputs. **[This folder](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts)** contains Copilot for Security prompting templates and Promptbooks.
+
 ## Secure Update🔓
 
-It's been a busy week! As someone who began experimenting with Copilot for Security (CfS) nearly a year ago, it's rewarding to see not just a product, but a platform, excel expectations. CfS is truly an embodiment of what's possible. Most of the heroes behind it, and all their late nights, will never be widely known, but their work surely will.
+As someone who began experimenting with Copilot for Security (CfS) nearly a year ago, it's rewarding to see not just a product, but a platform, excel expectations. CfS is truly an embodiment of what's possible. Most of the heroes behind it, and all their late nights, will never be widely known, but their work surely will.
 
 Read **[Vasu Jakkal's Copilot for Security April-1 Global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/).** Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners). As the ecosystem continues to grow, so too will plugins.
 
@@ -32,12 +40,22 @@ Explore more **[General Availability details](https://techcommunity.microsoft.co
 * [Learn Live (March 19 - April 9): Get started with Microsoft Copilot for Security](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-copilot-for-security/)
 * [Microsoft Copilot for Security Partner Boot Camp (April 16-17)](https://vshow.on24.com/vshow/FY24_SDepth/registration/23173)
 
-## Other Mar. 2024 Updates📰
+## Pricing
 
-**Prepare for Copilot for Security's April-1 launch with our [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).**
+Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU/hr.** A Security Compute Unit (SCU) is Copilot for Security's unit of measurement for of computing capacity to run a given workload. One SCU = ~10 workflows/day. The pricing is consistent across both the standalone experience and the embedded experience as well as regions (East US, West Europe, UK South and Australia East).
 
-**[Prompt engineering in Copilot for Security](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/?utm_source=substack&utm_medium=email)** plays a critical role in creating specific, high-quality outputs. **[This folder](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts)** contains Copilot for Security prompting templates and Promptbooks.
+Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing with data ingestion; the more telematery = the more coverage and insights, as long as it's not *too* much noise).
 
+To use Copilot for Security, you must have *at least* one SCU/hr 24x7. Therefore, the minimum annual price is **$35,040** ($4 * 24hr/day * 365day/yr). Customers and partners can purchase SCUs in the standalone experience or in Azure. You can manually provision SCUs up or down so long as you have *at least* one SCU/hr. If you de-provision Copilot for Security (i.e., zero SCUs/hr), your data will be retained for 90 days. It also cannot be overstated how valuable MDTI workbench included is. While it's not the standalone API, the TI information will easy-to-read formats and in the context of your investigations.
+
+Since computing capacity and token usage is **variable** (quantifying a specific # of tokens needed per prompt/Promptbook is difficult), it's important for partners to know what they can do *now.*
+
+* Measure SCU usage between different user roles (SOC analysts, Purview admins, identity/access admins, etc.)
+* Measure SCU usage between different levels of expertise (Junior analysts vs. Senior analysts)
+* Measure SCU usage across our tooling and 3rd-party plugins
+* Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
+
+I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage.
 
 ## Get Started
 
@@ -57,6 +75,8 @@ To get started, we recommend watching the following videos created by Microsoft 
     <td><a href="https://youtu.be/2mL9iDr_lUY?si=lWO3C49hAFIPrhqs"><b>Microsoft Copilot for Security & Tanium Demo</b></a><br><br>Tanium introduces their Copilot for Security proof of concept to enable responses in minutes with real-time visibility.</td>
   </tr>
 </table>
+
+## Explore [Microsoft Copilot for Security's official YouTube playlist](https://youtube.com/playlist?list=PL3ZTgFEc7LyuQRLD61q9YqPKEDlZj4j5u&si=tcAVkQqEVuHENDY2)
 
 ## Features
 

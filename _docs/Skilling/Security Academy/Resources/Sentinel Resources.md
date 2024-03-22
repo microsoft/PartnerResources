@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2024-02-16
+updated: 2024-03-22
 permalink: /security/microsoft-security-academy/microsoft-sentinel
 tags:
 - security
@@ -18,7 +18,8 @@ Below you will find content to assist in skilling on Microsoft Sentinel. Content
 See our **[Microsoft Sentinel Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy/sentinel-academy)** for video sessions, demos, and other related materials created and delivered by architects across the Global Partner Solutions (GPS) security team and beyond, who are experts in their respective fields.
 
 
-## Feb. 2024 Update📰
+## Mar. 2024 Update📰
+* **NEW:** [Migrate to Microsoft Sentinel with the new SIEM Migration Experience (Preview)](https://learn.microsoft.com/en-us/azure/sentinel/siem-migration)
 * **NEW:** [Data Connectors: MMA vs AMA](https://www.linkedin.com/pulse/cef-data-connector-mma-vs-ama-debac-manikandan-fo36c/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 * **NEW:** [Data Connectors: AWS vs AWS S3](https://www.linkedin.com/pulse/data-connector-aws-vs-s3-debac-manikandan-vfhcc%3FtrackingId=CUG5RbZTglInWcBaHIvgYA%253D%253D/?trackingId=CUG5RbZTglInWcBaHIvgYA%3D%3D&utm_source=substack&utm_medium=email)
 * **NEW:** [Before and After Archive Tier](https://www.linkedin.com/pulse/before-after-archive-tier-debac-manikandan-zxwuc/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
