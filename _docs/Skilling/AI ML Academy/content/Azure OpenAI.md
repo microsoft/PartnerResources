@@ -23,7 +23,7 @@ Welcome to the AI & ML Academy (AIA) - Azure OpenAI!
 
 This section includes Azure OpenAI resources to help you get started including sample code, end-to-end scenarios, notebooks, and other QuickStart resources.
 
-### Also explore our [Learning Path Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/resources/openai)!
+### Also explore our [Learning Path Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/resources/openai)!📖
 
 <!--
 ```html
@@ -298,7 +298,7 @@ A collection of solution accelerators (repositories) that show you how to create
                 <a href="https://github.com/Azure/business-process-automation">Business Process Automation</a>
             </td>
             <td>Summarization, Search</td>
-            <td>Creates pipelines to analyze text and audio datasets, across multiple cognitive services, and the Hugging Face library. The accelerator deploys all of the resources, and transforms the input data at each step, allowing multiple Cognitive Services to be called and deployed within a single, end-to-end pipeline. Includes capabilities like Azure OpenAI (summarization or custom prompts) and integration with CosmosDb, Cognitive Search, and RediSearch for Vector Search</td>
+            <td>Creates pipelines to analyze text and audio datasets, across multiple cognitive services, and the Hugging Face library. The accelerator deploys all of the resources, and transforms the input data at each step, allowing multiple Cognitive Services to be called and deployed within a single, end-to-end pipeline. Includes capabilities like Azure OpenAI (summarization or custom prompts) and integration with CosmosDB, Cognitive Search, and RediSearch for Vector Search</td>
             <td>
                 • Cognitive Services (Speech, Language, Form Recognizer, Read API)<br>
                 • Cognitive Search<br>
