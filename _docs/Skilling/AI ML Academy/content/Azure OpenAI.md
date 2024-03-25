@@ -81,7 +81,7 @@ When crafting prompts, follow these best practices:
 	1. Put Instructions at the Beginning:
 		- Clearly state what you want the model to do.
 		
-		Example: Summarize the follow text, highlighting the main point.
+		Example: Summarize the following text, highlighting the main point.
 		Text: """
 		{input}
 		"""
@@ -298,7 +298,7 @@ A collection of solution accelerators (repositories) that show you how to create
                 <a href="https://github.com/Azure/business-process-automation">Business Process Automation</a>
             </td>
             <td>Summarization, Search</td>
-            <td>Creates pipelines to analyze text and audio datasets, across multiple cognitive services, and the HuggingFace library. The accelerator deploys all of the resources, and transforms the input data at each step, allowing multiple Cognitive Services to be called and deployed within a single, end-to-end pipeline. Includes capabilities like Azure OpenAI (summarization or custom prompts) and integration with CosmosDb, Cognitive Search, and RediSearch for Vector Search</td>
+            <td>Creates pipelines to analyze text and audio datasets, across multiple cognitive services, and the Hugging Face library. The accelerator deploys all of the resources, and transforms the input data at each step, allowing multiple Cognitive Services to be called and deployed within a single, end-to-end pipeline. Includes capabilities like Azure OpenAI (summarization or custom prompts) and integration with CosmosDb, Cognitive Search, and RediSearch for Vector Search</td>
             <td>
                 • Cognitive Services (Speech, Language, Form Recognizer, Read API)<br>
                 • Cognitive Search<br>
@@ -332,7 +332,7 @@ A collection of solution accelerators (repositories) that show you how to create
                 • Cognitive Services (Text Analytics, Translator, Computer Vision)<br>
                 • OpenAI Embedding and Completion models<br>
                 • Cosmos DB<br>
-                • Langchain<br>
+                • LangChain<br>
                 • Web App
             </td>
         </tr>
@@ -379,13 +379,13 @@ A collection of solution accelerators (repositories) that show you how to create
             </td>
         </tr><tr>
             <td>
-                <a href="https://github.com/microsoft/OpenAIWorkshop/tree/main/scenarios/powerapp_and_python">Build your first AOAI application with PowerApp</a>
+                <a href="https://github.com/microsoft/OpenAIWorkshop/tree/main/scenarios/powerapp_and_python">Build your first AOAI application with PowerApps</a>
             </td>
             <td>Summarization, Text Generation, Search</td>
             <td>Submit prompts to OpenAI from Power App using the OpenAI Python SDK. </td>
             <td>
                 • Power App<br>
-                • Langchain<br>
+                • LangChain<br>
                 • Azure OpenAI Embeddings API
             </td>
         </tr>
@@ -405,7 +405,7 @@ A collection of solution accelerators (repositories) that show you how to create
                 <a href="https://github.com/microsoft/OpenAIWorkshop/tree/main/scenarios/openai_batch_pipeline">Build an Open AI Pipeline to Ingest Batch Data, Perform Intelligent Operations, and Analyze in Synapse</a> (Advanced)
             </td>
             <td>Summarization, Search</td>
-            <td>This scenario allows uses OpenAI to summarize and analyze customer service call logs for the fictitious company, Contoso. The data is ingested into a blob storage account, and then processed by an Azure Function. The Azure Function will return the customer sentiment, product offering the conversation was about, the topic of the call, as well as a summary of the call. These results are written into a separate designated location in the Blob Storage. From there, Synapse Analytics is utilized to pull in the newly cleansed data to create a table that can be queried in order to derive further insights.</td>
+            <td>This scenario allows OpenAI to summarize and analyze customer service call logs for the fictitious company, Contoso. The data is ingested into a blob storage account, and then processed by an Azure Function. The Azure Function will return the customer sentiment, product offering the conversation was about, the topic of the call, as well as a summary of the call. These results are written into a separate designated location in the Blob Storage. From there, Synapse Analytics is utilized to pull in the newly cleansed data to create a table that can be queried in order to derive further insights.</td>
             <td>
                 • Synapse Analytics<br>
                 • Blob Storage<br>
