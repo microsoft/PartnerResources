@@ -5,7 +5,7 @@ description: The AI & ML Academy is focused on Artificial Intelligence and Machi
 permalink: /skilling/ai-ml-academy
 redirect_from:
   - /skilling/ai-ml-academy/
-updated: 2024-02-15
+updated: 2024-03-25
 showbreadcrumb: true
 tags:
 - azure
@@ -43,7 +43,7 @@ Our [ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes) cont
 
 <div>&nbsp;</div>
 
-## Events (Feb. 2024 Update📰)
+## Events (Mar. 2024 Update📰)
 
 - [Microsoft Data & AI Conference March 26-28, 2024](https://msdataaiconf.com/#!/)
 - AI Readiness events: [AI & ML Partner Prep](https://aka.ms/AIMLPartnerPrep)
