@@ -23,6 +23,8 @@ Welcome to the AI & ML Academy (AIA) - Azure OpenAI!
 
 This section includes Azure OpenAI resources to help you get started including sample code, end-to-end scenarios, notebooks, and other QuickStart resources.
 
+## Also explore our [Learning Path Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/resources/openai)!
+
 <!--
 ```html
 <!DOCTYPE html>
@@ -58,8 +60,6 @@ This section includes Azure OpenAI resources to help you get started including s
 ```
 -->
 
-
- 
 We’ll start by covering the Prompt Engineering Techniques, which is the first step to the LLM behavior and interactions
 
 ## Prompt Engineering Techniques
@@ -228,92 +228,6 @@ Accelerators and Demo Assets repository](https://github.com/Azure/ai-solution-ac
 </table>
 
 
-## Fundamental Code Snippets
-A collection of notebooks illustrating fundamental usage of OpenAI models in context with other Azure services and products.
-
-<table>
-    <tbody>
-        <tr>
-            <th>Name</th>
-            <th>Application</th>
-            <th>Description</th>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/Azure/azure-openai-samples/blob/main/fundamentals/langchain/02_large_document-summerization.ipynb">Large Document Summarization</a>
-            </td>
-            <td>Summarization</td>
-            <td>
-                Workshop materials to build intelligent solutions on Open AI
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/Azure/azure-openai-samples/blob/main/fundamentals/langchain/01_query_based_search_with_cognitive_search.ipynb">Query Based Search with Azure Cognitive Search</a>
-            </td>
-            <td>Search</td>
-            <td>
-                Build a text similarity based solution with knowledge store like Azure Cognitive Search
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/Azure/azure-openai-samples/blob/main/fundamentals/langchain/03_semantic_search_redis.ipynb">Question and answering (with source) using Redis Vector store</a>
-            </td>
-            <td>Search</td>
-            <td>
-                Answering user question and provide the source of the answers using Redis
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/Azure/azure-openai-samples/blob/main/fundamentals/langchain/04_bing_search.ipynb">Bing search with Azure OpenAI Service</a>
-            </td>
-            <td>Search</td>
-            <td>
-                Example of using Azure Bing Search to extend Azure OpenAI Service to answer questions
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/Azure/azure-openai-samples/blob/main/fundamentals/langchain/05_agent_csv.ipynb">Bing search with Azure OpenAI Service</a>
-            </td>
-            <td>Search</td>
-            <td>
-                Use a CSV file as source of information and answer questions
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/Azure/azure-openai-samples/blob/main/fundamentals/langchain/06_azure_sql.ipynb">Answer questions using Azure SQL or SQL Server</a>
-            </td>
-            <td>Search</td>
-            <td>
-                Answering questions using data stored inside a SQL Server database
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/Azure/azure-openai-samples/blob/main/fundamentals/langchain/07_azure_cognitive_search_as_tool.ipynb">Answer questions using Azure Cognitive Search</a>
-            </td>
-            <td>Search</td>
-            <td>
-                Similar to 5 & 6, demonstrate how Azure OpenAI Service can create a plan to answer questions where information is stored in Azure Cognitive Search. This demo is different from other Azure Search demo but we let Azure OpenAI decide how to engage Azure  Search store, what query should be used to get necessary information.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/Azure/azure-openai-samples/blob/main/fundamentals/langchain/08_azure_log_analytics_tool.ipynb">Log Analytics</a>
-            </td>
-            <td>Search</td>
-            <td>
-                Create log analytics queries
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-
 ## Notebooks
 Examples of applications applied to various industries in complete Jupyter Notebook format in conjunction with additional Azure services.
 
@@ -326,34 +240,12 @@ Examples of applications applied to various industries in complete Jupyter Noteb
             <th>Components</th>
         </tr>
         <tr>
-            <td><a href="https://github.com/Azure/azure-openai-samples/tree/main/use_cases/generate_podcast_synopsis">Podcast Synopsis</a></td>
-            <td>Summarization</td>
-            <td>• Generate a synopsis from a podcast transcription into multiple languages via a prompt.<br>
-            • Generate 2-3 tag lines based on the podcast content.<br>
-            • Generate search engine optimized (SEO) keywords.<br>
-            </td>
-            <td>• GPT</td>
-        </tr>
-        <tr>
             <td><a href="https://github.com/jakeatmsft/AzureOpenAIExamples/blob/main/Examples/FormRecognizer/Balance_sheet_analysis.ipynb">Income Statement Analysis </a></td>
             <td>Text/Code generation</td>
             <td>• Read a table into a Pandas DataFrame and generate code to analyze insights<br>
                 • Generate 2-3 tag lines based on the podcast content.<br>
             </td>
             <td>• Davinci-002<br>• Form Recognizer</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/Azure/azure-openai-samples/tree/main/use_cases/call_center">Call Center Sentiment Analysis</a></td>
-            <td>Summarization</td>
-            <td>• Analyze call center transcripts<br>
-            • Extract and redact PII<br>
-            • Summarize transcription<br>
-            • Provide business insights<br>
-            </td>
-            <td>• Cognitive Services Speech<br>
-                • Sentiment analysis and keyword extraction<br>
-                • GPT-3<br>
-                • PowerBI<br></td>
         </tr>
         <tr>
             <td><a href="https://github.com/jakeatmsft/AzureOpenAIExamples/blob/main/Examples/FormRecognizer/FormRecognizerExamples.ipynb">Form Recognizer Examples</a></td>
