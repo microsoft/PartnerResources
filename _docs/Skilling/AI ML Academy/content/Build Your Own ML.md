@@ -21,8 +21,6 @@ tags:
 
 Welcome to the AI & ML Academy (AIA) - Build Your Own ML!
 
-
-
 ## What is Azure Machine Learning?
 Azure Machine Learning (Azure ML, or AML) is a cloud service for accelerating and managing the machine learning project lifecycle. 
 Machine learning professionals, data scientists, ML engineers can use it in their day-to-day workflows: 

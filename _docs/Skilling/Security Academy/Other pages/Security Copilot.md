@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Are you ready for Copilot for Security?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2024-03-22
+updated: 2024-03-25
 showbreadcrumb: true
 tags: 
 - academy content
@@ -16,7 +16,7 @@ tags:
 ## What is Copilot for Security? 🤔
 
 Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
-## Mar. 22nd, 2024 Update📰
+## Mar. 25nd, 2024 Update📰
 
 It's been a busy week! I was in Redmond this past Tuesday and Wednesday presenting Copilot for Security at the Microsoft AI Cloud Summit for SMB Partners. The attendees, most of whom had surprisingly never seen it, were fascinated. Leaving the conference, it's clear most partners are confused about the pricing. Below, I added details about Copilot for Security's **[newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#pricing).**
 
@@ -64,7 +64,7 @@ Copilot for Security pricing is consumption-based and costs approximately **$4 p
 
 Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing; the more telemetry ingested = the more coverage and insights, so long as it's not *too* much noise).
 
-To use Copilot for Security, you must have ***at least* one SCU/hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr/day * 365day/yr). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.**
+To use Copilot for Security, you must have ***at least* one SCU/hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr/day * 365day/yr). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.** Once an analyst is nearing the capacity limit, they will receive a warning and the option to increase the capacity.
 
 If you de-provision Copilot for Security (zero SCUs/hr), we will retain your data for 90 days. **MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
 
