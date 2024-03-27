@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Are you ready for Copilot for Security?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2024-03-25
+updated: 2024-03-27
 showbreadcrumb: true
 tags: 
 - academy content
@@ -16,7 +16,7 @@ tags:
 ## What is Copilot for Security? 🤔
 
 Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
-## Mar. 25nd, 2024 Update📰
+## Mar. 27th, 2024 Update📰
 
 It's been a busy week! I was in Redmond this past Tuesday and Wednesday presenting Copilot for Security at the Microsoft AI Cloud Summit for SMB Partners. The attendees, most of whom had surprisingly never seen it, were fascinated. Leaving the conference, it's clear most partners are confused about the pricing. Below, I added details about Copilot for Security's **[newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#pricing).**
 
@@ -36,7 +36,7 @@ Explore more **[General Availability details](https://techcommunity.microsoft.co
 
 ## Events
 
-* [**Learn Live:** Get started with Microsoft Copilot for Security (March 19-April 9)](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-copilot-for-security/)
+* [**Learn Live:** Get started with Microsoft Copilot for Security (March 19-April 9)](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-copilot-for-security/) -- this is a "can't miss" event
 * [**Microsoft Copilot for Security Partner Boot Camp** (April 16-17)](https://vshow.on24.com/vshow/FY24_SDepth/registration/23173)
 
 ## Get Started
@@ -60,22 +60,22 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 ## Pricing📌
 
-Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU/hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a given workload. One SCU ~10 workflows/day. The pricing is consistent across the standalone experience and the embedded experiences as well as regions (East US, West Europe, UK South, and Australia East).
+Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU/hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a given workload. One SCU ≈10 workflows/day *(this is not approximate)*. The pricing is consistent across the standalone experience and the embedded experiences as well as regions (East US, West Europe, UK South, and Australia East).
 
-Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing; the more telemetry ingested = the more coverage and insights, so long as it's not *too* much noise).
+Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing; the more telemetry ingested = the more coverage and insights, so long as it's not *too* much noise). There are no prerequisites, but for the best experience, we recommend that customers have MDE P2 and/or Microsoft Sentinel.
 
 To use Copilot for Security, you must have ***at least* one SCU/hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr/day * 365day/yr). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.** Once an analyst is nearing the capacity limit, they will receive a warning and the option to increase the capacity.
 
 If you de-provision Copilot for Security (zero SCUs/hr), we will retain your data for 90 days. **MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
 
-Since computing capacity and token usage is **variable** (quantifying a specific # of tokens or **workflows** needed per prompt/Promptbook is difficult), it's important for partners to know what they can do *now:*
+Since computing capacity and token usage is **variable (quantifying a specific # of tokens or SCUs/workflows needed per prompt/Promptbook is difficult)**, it's important for partners to know what they can do *now:*
 
 * Measure SCU usage between different user roles (SOC analysts, Purview admins, identity/access admins, etc.)
 * Measure SCU usage between different levels of expertise (Junior analysts vs Senior analysts)
 * Measure SCU usage across our tooling and 3rd-party plugins
 * Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
 
-I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage and what ***is and isn't a workflow.***
+I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage patterns and what ***is and isn't a SCU/workflow.***
 
 ## Features
 
