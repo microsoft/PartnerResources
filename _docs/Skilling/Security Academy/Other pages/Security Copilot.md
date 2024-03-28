@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Are you ready for Copilot for Security?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2024-03-27
+updated: 2024-03-28
 showbreadcrumb: true
 tags: 
 - academy content
@@ -84,7 +84,7 @@ I'm assuming beyond the EAP, we're also collecting this data and in good time, w
 * Security Reports — Summarize investigations, incidents, vulnerabilities, or threats in minutes and prepare the information in ready-to-share reports.
 
 
-## Architecture
+## Architecture (updated)
 
 
 ![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/CfS Arch.png)
