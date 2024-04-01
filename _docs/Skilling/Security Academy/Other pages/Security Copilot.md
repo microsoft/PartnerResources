@@ -25,11 +25,11 @@ Learn more about how to provision Copilot for Security and its minimum requireme
 
 I was in Redmond two weeks ago presenting Copilot for Security at the Microsoft AI Cloud Summit. The attendees, most of whom had surprisingly never seen it, were fascinated. Leaving the conference, it's apparent most partners are confused about the pricing. Below, I added details about Copilot for Security's **[newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#pricing).**
 
-**Whether you're new to Copilot for Security or in the [Microsoft Copilot for Security Partner Ecosystem](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners), expand your capabilities with our [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).**
+Whether you're new to Copilot for Security or in the [Microsoft Copilot for Security Partner Ecosystem](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners), expand your capabilities with our [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).
 
 **[Prompt engineering in Copilot for Security](https://learn.microsoft.com/en-us/security-copilot/prompting-tips)** plays a critical role in creating specific, high-quality outputs. **[This folder](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts)** contains Copilot for Security prompting templates and Promptbooks.
 
-#### Are you a partner? If so, explore our newly-updated [Partner Landing Page](https://securitypartners.transform.microsoft.com/security-copilot)!
+#### Are you a partner? If so, explore our [Partner Landing Page!](https://securitypartners.transform.microsoft.com/security-copilot)
 
 ## Events
 
@@ -40,7 +40,7 @@ I was in Redmond two weeks ago presenting Copilot for Security at the Microsoft 
 
 As someone who began experimenting with Copilot for Security (CfS) nearly a year ago, it's rewarding to see not just a product, but a platform, excel expectations. CfS is truly an embodiment of what's possible. Most of the heroes behind it, and all their late nights, will never be widely known, but their work surely will.
 
-Read **[Vasu Jakkal's Copilot for Security April-1 global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/).** Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners). As the ecosystem continues to grow, so too will [Non-Microsoft plugins](https://learn.microsoft.com/en-us/security-copilot/plugin-other).
+Read **[Vasu Jakkal's Copilot for Security April-1 global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/).** Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners). As the ecosystem continues to grow, so too will **[Non-Microsoft plugins](https://learn.microsoft.com/en-us/security-copilot/plugin-other).**
 
 As a partner, learn how to create and manage your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin).**
 
@@ -91,7 +91,7 @@ I'm assuming beyond the EAP, we're also collecting this data and in good time, w
 * Security Posture Management — Learn if your organization is at risk from vulnerabilities and examine resources in your environment for signs of a breach.
 * Reverse Script Engineering — Analyze complex command line scripts and translate them into natural language with clear explanations of actions.
 
-## Personas beyond SOC analysts​
+## Roles beyond SOC Analysts​
 
 * **DLP​ Analysts:​** Summarize DLP alerts and analyze DLP policy configurations.
 * **Insider​ Risk Analysts:​** Summarize Insider Risk Management alerts and gain context around users with risky behavior​.
