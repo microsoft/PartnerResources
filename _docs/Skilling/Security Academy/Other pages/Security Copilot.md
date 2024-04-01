@@ -19,7 +19,7 @@ Microsoft Copilot for Security is the first security product to enable defenders
 
 ## April 1st, 2024 Update📰
 
-Copilot for Security is globally availabile as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's launch and transformative power. With all the recent developments, my colleague Sameh Younis and I are planning significant updates to this page. Stay tuned.
+Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's launch and transformative power. With all the recent developments, my colleague Sameh Younis and I are planning significant updates to this page. Stay tuned.
 
 Learn more about how to provision Copilot for Security and its minimum requirements **[here](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot).**
 
