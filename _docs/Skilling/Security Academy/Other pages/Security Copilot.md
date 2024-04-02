@@ -27,7 +27,7 @@ Whether you're new to Copilot for Security or in the [Microsoft Copilot for Secu
 
 **[Prompt engineering in Copilot for Security](https://learn.microsoft.com/en-us/security-copilot/prompting-tips)** plays a critical role in creating specific, high-quality outputs. **[This folder](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts)** contains Copilot for Security prompting templates and Promptbooks.
 
-#### Are you a partner? If so, explore our [Partner Landing Page!](https://securitypartners.transform.microsoft.com/security-copilot)
+Are you a partner? If so, explore our [Partner Landing Page](https://securitypartners.transform.microsoft.com/security-copilot)!
 
 ## Events
 
@@ -84,33 +84,17 @@ I'm assuming beyond the EAP, we're also collecting this data and in good time, w
 
 ## Onboarding Considerations
 
-##### 1. Provisioning
-* You can provision Copilot for Security within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure)
-* If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during the deployment
-* While there are technically no prerequisites, you'll need an Azure subscription and Microsoft Entra ID (AAD is required to authenticate your users)
-* We also recommend allowing prompt evaluation anywhere with available GPU capacity for optimal results
+**Provisioning:** You can provision Copilot for Security within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during the deployment.
 
-##### 2. Roles
-* By default, all users are **contributors** (this may vary according to existing user permissions)
-* It's also worth mentioning that **the provisioning user is also the owner**
-* Contributos cannot update data sharing options, manage capacity, view the usage dasboard, and may only manage and publish custom plugins or upload files when allowed
+While there are technically no prerequisites, you'll need an Azure subscription and Microsoft Entra ID (Entra ID is required to authenticate your users). We also recommend allowing prompt evaluation anywhere with available GPU capacity for optimal results.
 
-##### 3. Usage
-* It's critical to monitor SCU usage to avoid disruptions
-* Learn more about monitoring your usage [here](https://learn.microsoft.com/en-us/security-copilot/manage-usage)
+**Roles:** By default, all users are **contributors** (this may vary according to existing user permissions). It's also worth mentioning that **the provisioning user is also the owner.** Contributos cannot update data sharing options, manage capacity, view the usage dasboard, and may only manage and publish custom plugins or upload files when allowed.
 
-##### 4. Promptbooks
-* Start by using Promptbooks with trial and error
-* You can easily add tags, edit, share, run, and set the level of access for "Just me" or "Anyone in my organization"
-* Learn more about creating your own Promptbooks [here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks)
+**Usage:** It's critical to monitor SCU usage to avoid disruptions. Learn more about monitoring your usage [here](https://learn.microsoft.com/en-us/security-copilot/manage-usage).
 
-##### 5. Files
-* Experiment with uploading your organizations own DOCX, MD, PDF, and TXT files
-* You can upload files up to 20 MB in total
-* Copilot for Security reasons over files to generate more relevant and specific responses
-* Learn more about uploading your own files [here](https://learn.microsoft.com/en-us/security-copilot/upload-file)
+**Promptbooks:** Start by using Promptbooks with trial and error. You can easily add tags, edit, share, run, and set the level of access to "Just me" or "Anyone in my organization." Learn more about creating your own Promptbooks [here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks).
 
-Learn more about how to provision Copilot for Security and its minimum requirements **[here](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot).**
+**Files:** Experiment with uploading your organizations own DOCX, MD, PDF, and TXT files! You can upload files up to 20 MB in total. Copilot for Security reasons over files to generate more relevant and specific responses. Learn more about uploading your own files [here](https://learn.microsoft.com/en-us/security-copilot/upload-file).
 
 ## Features
 

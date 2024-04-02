@@ -13,8 +13,6 @@ tags:
 
 # Copilot for Security Q&A
 
-# Technical
-
 #### Is my data protected?
 ChatGPT was trained on data from the Internet. Copilot for Security does not leverage ChatGPT, or any data not owned by the customer and/or by Microsoft. In simpler terms, Copilot for Security **does not use your data to train foundation AI models.**
 
@@ -45,8 +43,6 @@ Learn to create effective, natural language inputs (prompts) in Copilot for Secu
 
 #### Will Copilot for Security take action?
 Copilot for Security won't take remediation action for you (it's a guided response), but there’s a possibility of more automation in the future.
-
-# Partner
 
 #### Can I build my own Copilot for Security plugins?
 Learn how to develop your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin#custom-plugins).**
