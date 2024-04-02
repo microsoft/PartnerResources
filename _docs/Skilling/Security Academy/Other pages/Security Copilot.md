@@ -84,17 +84,13 @@ I'm assuming beyond the EAP, we're also collecting this data and in good time, w
 
 ## Onboarding Considerations
 
-**Provisioning:** You can provision Copilot for Security within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during the deployment.
+You can provision Copilot for Security within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during the deployment.
 
-While there are technically no prerequisites, you'll need an Azure subscription and Microsoft Entra ID (Entra ID is required to authenticate your users). We also recommend allowing prompt evaluation anywhere with available GPU capacity for optimal results.
+While there are technically no prerequisites, you'll need an Azure subscription and Microsoft Entra ID (Entra ID is required to authenticate your users). We also recommend allowing prompt evaluation anywhere with available GPU capacity for optimal results. By default, all users are **contributors** (this may vary according to existing user permissions). It's also worth mentioning that **the provisioning user is also the owner.** Contributos cannot update data sharing options, manage capacity, view the usage dasboard, and may only manage and publish custom plugins or upload files when allowed.
 
-**Roles:** By default, all users are **contributors** (this may vary according to existing user permissions). It's also worth mentioning that **the provisioning user is also the owner.** Contributos cannot update data sharing options, manage capacity, view the usage dasboard, and may only manage and publish custom plugins or upload files when allowed.
+Start by using Promptbooks with trial and error. You can easily add tags, edit, share, run, and set the level of access to "Just me" or "Anyone in my organization." You can even create your own. Learn more about creating your own Promptbooks **[here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks).** It's also critical to monitor SCU usage to manage costs and avoid disruptions. Learn more about how to monitor your usage **[here](https://learn.microsoft.com/en-us/security-copilot/manage-usage).**
 
-**Usage:** It's critical to monitor SCU usage to avoid disruptions. Learn more about monitoring your usage [here](https://learn.microsoft.com/en-us/security-copilot/manage-usage).
-
-**Promptbooks:** Start by using Promptbooks with trial and error. You can easily add tags, edit, share, run, and set the level of access to "Just me" or "Anyone in my organization." Learn more about creating your own Promptbooks [here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks).
-
-**Files:** Experiment with uploading your organizations own DOCX, MD, PDF, and TXT files! You can upload files up to 20 MB in total. Copilot for Security reasons over files to generate more relevant and specific responses. Learn more about uploading your own files [here](https://learn.microsoft.com/en-us/security-copilot/upload-file).
+Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT files. You can upload files up to 20 MB in total. Copilot for Security reasons over files to generate more relevant and specific responses. Learn more about uploading your own files [here](https://learn.microsoft.com/en-us/security-copilot/upload-file).
 
 ## Features
 
