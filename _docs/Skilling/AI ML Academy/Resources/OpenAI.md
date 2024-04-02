@@ -2,7 +2,7 @@
 layout: page
 title: Azure OpenAI
 description: Azure OpenAI Resources
-updated: 2024-02-07
+updated: 2024-04-02
 permalink: /skilling/ai-ml-academy/resources/openai
 tags: 
 - azure
@@ -24,12 +24,15 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
 - Rate Increase: [Azure OpenAI Service: Request for Quota Increase (microsoft.com)](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUMkkzRUlBMFBPT1ZQM01DODJNV1BEVENUTCQlQCN0PWcu)
 - GPT4: GPT-4 and GPT-4-32k are now available to **all** Azure OpenAI Service customers. You no longer need to request access to use GPT-4 and GPT-4-32k. Availability is currently limited by region to ensure a smooth rollout. You still need to apply for the AOAI Service if you do not have that already.
 
-## Keeping Up (Feb. 2024 Update📰)
+## Keeping Up (April 2024 Update📰)
 
-**In Recent News**: OpenAI launched the Assistants API at its OpenAI Dev Day in November 2023, and as of 02/02/24, it is now available in preview in Azure OpenAI Service. The Assistants API makes it easy to create intelligent AI assistant and copilot-like experiences within an application, with in-built state and memory management and tools like Code Interpreter, Retrieval, and Function Calling.
+- **In Recent News**: Accelerate your productivity with the [Whisper model in Azure AI now generally available](https://learn.microsoft.com/en-us/azure/ai-services/openai/whisper-quickstart?tabs=command-line%2Cpython-new&pivots=rest-api). Whisper is a speech to text model from OpenAI that developers can use to transcribe audio files. Developers can begin using the generally available Whisper API in both Azure OpenAI Service as well as Azure AI Speech services on production workloads, knowing that it is backed by Azure’s enterprise-readiness promise. Azure OpenAI Service enables developers to run OpenAI’s Whisper model in Azure, mirroring the OpenAI Whisper model functionalities including fast processing time, multi-lingual support, and transcription and translation capabilities. OpenAI Whisper in Azure OpenAI Service is ideal for processing smaller size files for time-sensitive workloads and use-cases. 
+- [**DALL-E 3**](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Fai-services%2Fopenai%2Fdall-e-quickstart%3Ftabs%3Ddalle3%252Ccommand-line%26pivots%3Dprogramming-language-studio&data=05%7C02%7Calexisjoseph%40microsoft.com%7C7155df02a55f46db98a508dc43828a14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638459475296392483%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=N%2FkPxB9rLelmmjVBLUFS6Ko1FYb%2FpGA5afv8bAu9IMQ%3D&reserved=0) is now generally available, available in East US, Sweden Central, and Australia East -- providing service reliability for production scenarios, annotations for content filtering, and continuing to deliver high-quality generated images.
+- [**Azure AI announces Prompt Shields for Jailbreak and Indirect prompt injection attacks**](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-ai-announces-prompt-shields-for-jailbreak-and-indirect/ba-p/4099140)Our Azure OpenAI Service and Azure AI Content Safety teams are excited to launch a new Responsible AI capability called Prompt Shields. Prompt Shields protects applications powered by Foundation Models from two types of attacks: direct (jailbreak) and indirect attacks, both of which are now available in Public Preview. 
+- [**Azure OpenAI Service model deprecations and retirements**](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/model-retirements) addition of a documentation about models that are currently available, deprecated, and retired.
 
-- [Azure OpenAI Service announces Assistants API, New Models for Finetuning, Text-to-Speech and more](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-openai-service-announces-assistants-api-new-models-for/ba-p/4049940)
-- [QuickStart – Getting started with Azure OpenAI Assistants (Preview) – Azure OpenAI](https://github.com/microsoft/PartnerResources/assets/36856999/fd2384e2-cf9c-412c-a633-38a2bab76bbc)
+
+
   
 **Please visit our Academy page to see Code Snippets & Architecture Examples: [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy).**
 - [What’s New in Azure OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/whats-new)
@@ -83,13 +86,15 @@ Tooling:
 -  [Azure OpenAI for Big Data](https://learn.microsoft.com/en-us/fabric/data-science/open-ai)
 -  [Security Filters for Azure AI Search Indices](https://learn.microsoft.com/en-us/azure/search/search-security-trimming-for-azure-search)
 -  [Azure Cognitive Search + LangChain](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/azure-cognitive-search-and-langchain-a-seamless-integration-for/ba-p/3901448)
+-  [QuickStart – Getting started with Azure OpenAI Assistants (Preview) – Azure OpenAI](https://github.com/microsoft/PartnerResources/assets/36856999/fd2384e2-cf9c-412c-a633-38a2bab76bbc)
 
 
 ## Events
-- **[Microsoft AI Tour 2024 In-person](https://envision.microsoft.com/en-US/home)**
-- **[The First Annual Microsoft Fabric Community Conference In-person March 26-28, 2024](https://fabricconf.com/?ocid=fabric24_fabcon_t2-learnpromotion_cnl#!/)**: See firsthand how Microsoft Fabric and the data and AI products at Microsoft can help your organization prepare for the era of AI. You’ll hear from leading Microsoft and community experts from around the world and receive hands-on experiences with the latest features from Microsoft Fabric, Power BI, Databases, Azure AI, Microsoft Purview, and more.
+
 
 ### Past
+- **[Microsoft AI Tour 2024 In-person](https://envision.microsoft.com/en-US/home)**
+- **[The First Annual Microsoft Fabric Community Conference In-person March 26-28, 2024](https://fabricconf.com/?ocid=fabric24_fabcon_t2-learnpromotion_cnl#!/)**: See firsthand how Microsoft Fabric and the data and AI products at Microsoft can help your organization prepare for the era of AI. You’ll hear from leading Microsoft and community experts from around the world and receive hands-on experiences with the latest features from Microsoft Fabric, Power BI, Databases, Azure AI, Microsoft Purview, and more.
 - **[Microsoft Ignite 2023](https://ignite.microsoft.com/en-US/):** Watch the recordings for various sessions, covering updates on services, product announcements, and demos.
 - **[Microsoft Build](https://build.microsoft.com/):** Catch the recordings from the event. See **[Microsoft Build 2023 Recommended AI Session Guide](https://microsoft.github.io/PartnerResources/assets/aiml/Microsoft%20Build%202023%20Recommended%20AI%20Session%20Guide.pdf)**
 - **[Azure OpenAI What the Hack (WTH)](https://msuspartners.eventbuilder.com/AIMLPartnerPrep):** This introductory hackathon will provide participants with hands-on experience on how to integrate the Azure OpenAI offering
