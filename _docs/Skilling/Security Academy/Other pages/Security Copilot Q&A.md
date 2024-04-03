@@ -44,11 +44,11 @@ If a user is dissatisfied with Copilot for Security's response, they have the op
 #### What is a "planner" or "orchestrator"?
 An orchestrator is an autonomous agent in an environment that is tasked to achieve a goal by deciding action(s). The state of the agent gets updated after each action execution. Given an NL question from the user, the orchestrator (1) Understands the intent using an LLM (2) Generates a Plan (3) Executes the Plan (4) Prepares the response for the user (5) Preserves and updates the state (Ex: memory, chat history).
 
-#### How can I build effective prompts?
-Learn to create effective, natural language inputs (prompts) in Copilot for Security **[here](https://learn.microsoft.com/en-us/security-copilot/prompting-tips).**
-
 #### Will Copilot for Security take remediation action?
 Copilot for Security cannot perform remediation actions on your behalf, but there is potential for more automation in the future.
+
+#### How can I build effective prompts?
+Learn to create effective, natural language inputs (prompts) in Copilot for Security **[here](https://learn.microsoft.com/en-us/security-copilot/prompting-tips).**
 
 #### Can I build my own Copilot for Security plugins?
 Learn how to develop your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin#custom-plugins).**
