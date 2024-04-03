@@ -45,10 +45,9 @@ Our [ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes) cont
 
 <div>&nbsp;</div>
 
-## Events (Mar. 2024 Update📰)
+## Events (April 2024 Update📰)
 
-- [Microsoft Data & AI Conference March 26-28, 2024](https://msdataaiconf.com/#!/)
-- AI Readiness events: [AI & ML Partner Prep](https://aka.ms/AIMLPartnerPrep)
+- AI Readiness events: **[AI & ML Partner Prep](https://aka.ms/AIMLPartnerPrep)**
 
 
 ## Table of Contents
