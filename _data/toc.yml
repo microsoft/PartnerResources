@@ -339,11 +339,11 @@
           url: "skilling/microsoft-security-academy/start"
           tag: msa
         - title: Copilot for Security
-          url: "skilling/microsoft-security-academy/microsoft-security-copilot"
+          url: "skilling/microsoft-security-academy/microsoft-copilot-for-security"
           tag: msa
           children: 
             - title: Q&A
-              url: "skilling/microsoft-security-academy/microsoft-security-copilot-extra"
+              url: "skilling/microsoft-security-academy/microsoft-copilot-for-security-qa"
               tag: msa
         - title: Modules
           url: "skilling/microsoft-security-academy/modules"

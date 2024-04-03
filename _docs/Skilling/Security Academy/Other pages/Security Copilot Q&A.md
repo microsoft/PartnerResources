@@ -2,7 +2,7 @@
 layout: page
 title: Copilot for Security Q&A
 description: Common Copilot for Security Q&A.
-permalink: /skilling/microsoft-security-academy/microsoft-security-copilot-extra
+permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security-qa
 updated: 2024-04-03
 showbreadcrumb: true
 tags: 
@@ -12,6 +12,15 @@ tags:
 ---
 
 # Copilot for Security Q&A
+
+#### Can my MSSP manage Copilot for Security on my behalf?
+MSSPs can access customer tenants through both Guest Access (B2B) and Granular Delegated Admin Permissions (GDAP). Customers are responsible for purchasing their own Security Compute Units (SCUs) and configuring MSSP access in alignment with these permissions.
+
+#### Can I use a single instance of Copilot for Security to manage multiple tenants?
+Currently, Copilot for Security does not support cross-tenant prompting. However, MSSPs can utilize Tenant Switching to focus on ***one customer tenant at a time.*** MSSPs can choose the specific customer tenant from a dropdown menu within the in-product UX. Additionally, they have the option to include the TenantID (GUID) in the Copilot for Security session URL.
+
+#### What is the Microsoft Copilot Copyright Commitment?
+The Microsoft Customer Copyright Commitment extends intellectual property indemnity support to specific commercial Copilot services, including Copilot for Security. If a 3rd-party sues a commercial customer for copyright infringement related to the use of Microsoft’s Copilots or their generated output, Microsoft will defend the customer and cover any adverse judgments or settlements resulting from the lawsuit, provided that the customer adhered to the guardrails and content filters within the products.
 
 #### Is my data protected?
 ChatGPT was trained on data from the Internet. Copilot for Security does not leverage ChatGPT, or any data not owned by the customer and/or by Microsoft. In simpler terms, Copilot for Security **does not use your data to train foundation AI models.**
@@ -35,23 +44,14 @@ If a user is dissatisfied with Copilot for Security's response, they have the op
 #### What is a "planner" or "orchestrator"?
 An orchestrator is an autonomous agent in an environment that is tasked to achieve a goal by deciding action(s). The state of the agent gets updated after each action execution. Given an NL question from the user, the orchestrator (1) Understands the intent using an LLM (2) Generates a Plan (3) Executes the Plan (4) Prepares the response for the user (5) Preserves and updates the state (Ex: memory, chat history).
 
+#### Will Copilot for Security take remediation action?
+Copilot for Security cannot perform remediation actions on your behalf, but there is potential for more automation in the future.
+
 #### How can I build effective prompts?
 Learn to create effective, natural language inputs (prompts) in Copilot for Security **[here](https://learn.microsoft.com/en-us/security-copilot/prompting-tips).**
-
-#### Will Copilot for Security take remediation action?
-Copilot for Security cannot take remediation action for you, but there’s the possibility for more automation in the future.
 
 #### Can I build my own Copilot for Security plugins?
 Learn how to develop your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin#custom-plugins).**
 
-#### Can my MSSP manage Copilot for Security on my behalf?
-MSSPs can access customer tenants via Guest Access (B2B) and GDAP. Customers must purchase their own SCUs and configure MSSP access accordingly.
-
-#### Can I use a single instance of Copilot for Security to manage multiple tenants?
-At this time, Copilot for Security does not support prompting across multiple tenants. Instead, MSSPs can use Tenant Switching to target ***one customer tenant at a time.*** MSSPs can select the target customer tenant from a dropdown within the in-product UX. Additionally, MSSPs can include the TenantID (GUID) in the Copilot for Security session URL.
-
-#### What is the Microsoft Copilot Copyright Commitment?
-The Microsoft Customer Copyright Commitment extends intellectual property indemnity support to specific commercial Copilot services, including Copilot for Security. If a 3rd-party sues a commercial customer for copyright infringement related to the use of Microsoft’s Copilots or their generated output, Microsoft will defend the customer and cover any adverse judgments or settlements resulting from the lawsuit, provided that the customer adhered to the guardrails and content filters within the products.
-
 #### Does Copilot for Security work in US Government Cloud (GCC)?
-Copilot for Security does not support US Government clouds, including but not limited to GCC, GCC High, DoD, and Microsoft Azure Government.
+As of now, Copilot for Security does not support US Government clouds, including but not limited to GCC, GCC High, DoD, and Microsoft Azure Government.
