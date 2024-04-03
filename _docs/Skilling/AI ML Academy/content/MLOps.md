@@ -25,16 +25,16 @@ Machine learning Operations (MLOps) applies DevOps principles and techniques to 
 
 ## Getting Started - A Journey, not a Destination!
 
-* [Introduction to MLOps](https://docs.microsoft.com/en-us/learn/paths/introduction-machine-learn-operations/) - this is a great resource if you are new to MLOps!
+* [Introduction to MLOps](https://docs.microsoft.com/en-us/learn/paths/introduction-machine-learn-operations/) -- This is a great resource if you're new to MLOps!
 
 ### MLOps with Azure DevOps 
 
-* [Azure MLOps (v2) Solution Accelerator](https://github.com/Azure/mlops-v2) - This accelerator is intended to serve as the starting point for MLOps implementation in Azure using Azure DevOps.
-* [MLOps From Scratch hack using Azure DevOps](https://microsoft.github.io/WhatTheHack/032-MLOpsFromScratch/) - This challenge-based hack will introduce you to the Azure DevOps tooling for MLOps and helps you gain hands-on experience with creating end-to-end Build and Release pipelines to continuously train and deploy your ML model(s) to production.
+* [Azure MLOps (v2) Solution Accelerator](https://github.com/Azure/mlops-v2) -- This accelerator serves as the starting point for MLOps implementation in Azure using Azure DevOps.
+* [MLOps From Scratch hack using Azure DevOps](https://microsoft.github.io/WhatTheHack/032-MLOpsFromScratch/) -- This challenge-based hack will introduce you to the Azure DevOps tooling for MLOps and helps you gain hands-on experience with creating end-to-end Build & Release pipelines to continuously train and deploy your ML model(s).
 
 ### MLOps with GitHub Actions
 
-* [End-to-end MLOps with Azure ML and GitHub Actions](https://docs.microsoft.com/en-us/learn/paths/build-first-machine-operations-workflow/) - This provides a learning path -- with challenge-based exercises -- that will help you gain hands-on experience with Azure Machine Learning and GitHub Actions.
+* [End-to-end MLOps with Azure ML and GitHub Actions](https://docs.microsoft.com/en-us/learn/paths/build-first-machine-operations-workflow/) -- This provides a learning path that will help you gain hands-on experience with Azure Machine Learning and GitHub Actions.
 
 ### MLOps with Kubeflow 
 
