@@ -13,6 +13,15 @@ tags:
 
 # Copilot for Security Q&A
 
+#### Can my MSSP manage Copilot for Security on my behalf?
+MSSPs can access customer tenants through both Guest Access (B2B) and Granular Delegated Admin Permissions (GDAP). Customers are responsible for purchasing their own Security Compute Units (SCUs) and configuring MSSP access in alignment with these permissions.
+
+#### Can I use a single instance of Copilot for Security to manage multiple tenants?
+Currently, Copilot for Security does not support cross-tenant prompting. However, MSSPs can utilize Tenant Switching to focus on ***one customer tenant at a time.*** MSSPs can choose the specific customer tenant from a dropdown menu within the in-product UX. Additionally, they have the option to include the TenantID (GUID) in the Copilot for Security session URL.
+
+#### What is the Microsoft Copilot Copyright Commitment?
+The Microsoft Customer Copyright Commitment extends intellectual property indemnity support to specific commercial Copilot services, including Copilot for Security. If a 3rd-party sues a commercial customer for copyright infringement related to the use of Microsoft’s Copilots or their generated output, Microsoft will defend the customer and cover any adverse judgments or settlements resulting from the lawsuit, provided that the customer adhered to the guardrails and content filters within the products.
+
 #### Is my data protected?
 ChatGPT was trained on data from the Internet. Copilot for Security does not leverage ChatGPT, or any data not owned by the customer and/or by Microsoft. In simpler terms, Copilot for Security **does not use your data to train foundation AI models.**
 
@@ -43,15 +52,6 @@ Copilot for Security cannot perform remediation actions on your behalf, but ther
 
 #### Can I build my own Copilot for Security plugins?
 Learn how to develop your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin#custom-plugins).**
-
-#### Can my MSSP manage Copilot for Security on my behalf?
-MSSPs can access customer tenants through both Guest Access (B2B) and Granular Delegated Admin Permissions (GDAP). Customers are responsible for purchasing their own Security Compute Units (SCUs) and configuring MSSP access in alignment with these permissions.
-
-#### Can I use a single instance of Copilot for Security to manage multiple tenants?
-Currently, Copilot for Security does not support cross-tenant prompting. However, MSSPs can utilize Tenant Switching to focus on ***one customer tenant at a time.*** MSSPs can choose the specific customer tenant from a dropdown menu within the in-product UX. Additionally, they have the option to include the TenantID (GUID) in the Copilot for Security session URL.
-
-#### What is the Microsoft Copilot Copyright Commitment?
-The Microsoft Customer Copyright Commitment extends intellectual property indemnity support to specific commercial Copilot services, including Copilot for Security. If a 3rd-party sues a commercial customer for copyright infringement related to the use of Microsoft’s Copilots or their generated output, Microsoft will defend the customer and cover any adverse judgments or settlements resulting from the lawsuit, provided that the customer adhered to the guardrails and content filters within the products.
 
 #### Does Copilot for Security work in US Government Cloud (GCC)?
 As of now, Copilot for Security does not support US Government clouds, including but not limited to GCC, GCC High, DoD, and Microsoft Azure Government.

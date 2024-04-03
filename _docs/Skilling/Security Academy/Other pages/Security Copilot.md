@@ -21,9 +21,9 @@ Microsoft Copilot for Security is the first security product to enable defenders
 
 Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all the recent developments, my colleague Sameh Younis and I are planning significant updates to this page. Stay tuned.
 
-I was in Redmond two weeks ago presenting Copilot for Security at the Microsoft AI Cloud Summit. The attendees, most of whom had surprisingly never seen it, were fascinated. Leaving the conference, it's apparent most partners are confused about the pricing. Below, I added details about Copilot for Security's **[newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#pricing).**
+I was in Redmond two weeks ago presenting Copilot for Security at the Microsoft AI Cloud Summit. The attendees, most of whom had surprisingly never seen it, were fascinated. Leaving the conference, it's apparent most partners are confused about the pricing. Below, I added details about Copilot for Security's **[newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing).**
 
-When you're ready get started, I’ve also added some **[onboarding guidance](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#onboarding).**
+When you're ready get started, I’ve also added some **[onboarding guidance](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding).**
 
 Whether you're new to Copilot for Security or in the [Microsoft Copilot for Security Partner Ecosystem](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners), expand your capabilities with our [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).
 
