@@ -22,7 +22,7 @@ Additionally, **Copilot for Security does not share your data with OpenAI.**
 Copilot for Security is built with our **[Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).** Additionally, Copilot for Security uses Role-based access controls (RBAC) and operates in tandem with existing user permissions.
 
 #### How is this different than ChatGPT?
-The primary distinction between ChatGPT and Copilot for Security is that Copilot for Security is specifically is designed for security-specific tasks (Ex. incident response, posture management, reporting, and script analysis). It leverages insights from aggregated signals from plugins. In contrast, ChatGPT is a conversational chatbot.
+Copilot for Security is designed for security-specific tasks (Ex. incident response, posture management, reporting, and script analysis). It leverages insights from aggregated signals from plugins. In contrast, ChatGPT is a conversational chatbot.
 
 #### How is access and authorization governed?
 Copilot for Security uses on-behalf-of (OBO) authentication to access security-related data through plugins. As such, the user will only be presented with data that they have access to. To access the Copilot for Security portal, users must be assigned a Microsoft Entra RBAC role (either directly or through a group) that has access to a given feature. Learn more about OAuth 2.0 On-Behalf-Of authentication **[here](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow)** and overall authentication in Copilot for Security **[here](https://learn.microsoft.com/en-us/security-copilot/authentication).**
@@ -41,19 +41,17 @@ An orchestrator is an autonomous agent in an environment that is tasked to achie
 #### How can I build effective prompts?
 Learn to create effective, natural language inputs (prompts) in Copilot for Security **[here](https://learn.microsoft.com/en-us/security-copilot/prompting-tips).**
 
-#### Will Copilot for Security take action?
-Copilot for Security won't take remediation action for you (it's a guided response), but there’s a possibility of more automation in the future.
+#### Will Copilot for Security take remediation action?
+Copilot for Security cannot take remediation action for you, but there’s the possibility for more automation in the future.
 
 #### Can I build my own Copilot for Security plugins?
 Learn how to develop your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin#custom-plugins).**
 
-#### Can my MSSP manage CfS on my behalf?
+#### Can my MSSP manage Copilot for Security on my behalf?
 MSSPs can access customer tenants via Guest Access (B2B) and GDAP. Customers must purchase their own SCUs and configure MSSP access accordingly.
 
 #### Can I use a single instance of Copilot for Security to manage multiple tenants?
-At this time, Copilot for Security doesn’t support prompting across multiple tenants. Instead, MSSPs can use Tenant Switching to target *one customer tenant at a time.* MSSPs can select the target customer tenant from a dropdown within the in-product UX.
-
-Additionally, MSSPs can include the TenantID (GUID) in the Copilot for Security session URL. Copilot for Security operates within the context of the user, granting access only to what the delegated account is authorized to view.
+At this time, Copilot for Security does not support prompting across multiple tenants. Instead, MSSPs can use Tenant Switching to target *one customer tenant at a time.* MSSPs can select the target customer tenant from a dropdown within the in-product UX. Additionally, MSSPs can include the TenantID (GUID) in the Copilot for Security session URL.
 
 #### What is the Microsoft Copilot Copyright Commitment?
 The Microsoft Customer Copyright Commitment extends intellectual property indemnity support to specific commercial Copilot services, including Copilot for Security. If a 3rd-party sues a commercial customer for copyright infringement related to the use of Microsoft’s Copilots or their generated output, Microsoft will defend the customer and cover any adverse judgments or settlements resulting from the lawsuit, provided that the customer adhered to the guardrails and content filters within the products.
