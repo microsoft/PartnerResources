@@ -21,13 +21,13 @@ Microsoft Copilot for Security is the first security product to enable defenders
 
 Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all the recent developments, my colleague Sameh Younis and I are planning significant updates to this page. Stay tuned.
 
-I was in Redmond two weeks ago presenting Copilot for Security at the Microsoft AI Cloud Summit. The attendees, most of whom had surprisingly never seen it, were fascinated. Leaving the conference, it's apparent most partners are confused about the pricing. Below, I added details about Copilot for Security's **[newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#pricing)** and some **[onboarding considerations](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#onboarding-considerations).**
+I was in Redmond two weeks ago presenting Copilot for Security at the Microsoft AI Cloud Summit. The attendees, most of whom had surprisingly never seen it, were fascinated. Leaving the conference, it's apparent most partners are confused about the pricing. Below, I added details about Copilot for Security's **[newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#pricing).**
+
+If you're ready get started, I also added some **[onboarding guidance](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#onboarding-considerations).**
 
 Whether you're new to Copilot for Security or in the [Microsoft Copilot for Security Partner Ecosystem](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners), expand your capabilities with our [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).
 
 **[Prompt engineering in Copilot for Security](https://learn.microsoft.com/en-us/security-copilot/prompting-tips)** plays a critical role in creating specific, high-quality outputs. **[This folder](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts)** contains Copilot for Security prompting templates and Promptbooks.
-
-Are you a partner? If so, explore our [Partner Landing Page](https://securitypartners.transform.microsoft.com/security-copilot)!
 
 ## Events
 
@@ -38,9 +38,7 @@ Are you a partner? If so, explore our [Partner Landing Page](https://securitypar
 
 As someone who began experimenting with Copilot for Security (CfS) nearly a year ago, it's rewarding to see not just a product, but a platform, excel expectations.
 
-Read [Vasu Jakkal's Copilot for Security April-1 global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/). Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners)! As the ecosystem continues to grow, so too will **[Non-Microsoft plugins](https://learn.microsoft.com/en-us/security-copilot/plugin-other).**
-
-As a partner, learn how to create and manage your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin).**
+Read [Vasu Jakkal's Copilot for Security April-1 global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/). Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners)! As the ecosystem continues to grow, so too will **[Non-Microsoft plugins](https://learn.microsoft.com/en-us/security-copilot/plugin-other).** As a partner, learn how to create and manage your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin).**
 
 Also, explore the results of our recent **[Randomized Controlled Trial for Copilot for Security](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us).**
 
@@ -82,13 +80,13 @@ Since computing capacity and token usage is **variable (quantifying a specific #
 
 I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage patterns and what ***is and isn't a SCU/workflow.***
 
-## Onboarding Considerations
+## Onboarding
 
-You can provision Copilot for Security within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during the deployment.
+You can provision Copilot for Security within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during deployment.
 
-While there are technically no prerequisites, you'll need an Azure subscription and Microsoft Entra ID (Entra ID is required to authenticate your users). We also recommend allowing prompt evaluation anywhere with available GPU capacity for optimal results. By default, all users are **contributors** (this may vary according to existing user permissions). It's also worth mentioning that **the provisioning user is the owner.** Contributors cannot update data sharing options, manage SCUs, view the usage dashboard, and may only manage and publish custom plugins or upload files when allowed.
+While there are technically no prerequisites, you'll need an Azure subscription and Microsoft Entra ID (Entra ID is required to authenticate your users). We also recommend allowing prompt evaluation anywhere with available GPU capacity for optimal results. By default, ***all users are contributors*** (this may vary according to existing user permissions) and ***the provisioning user is the owner.*** Contributors cannot update data sharing options, manage SCUs, view the usage dashboard, and may only manage and publish custom plugins or upload files when allowed.
 
-I recommend starting by using Promptbooks. You can easily add tags, edit, share, run, and set the level of access to "Just me" or "Anyone in my organization." You can even create your own. Learn more about how to create your own Promptbooks **[here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks).** It's also critical to monitor SCU usage to manage costs and avoid disruptions. Learn more about how to monitor your usage **[here](https://learn.microsoft.com/en-us/security-copilot/manage-usage).**
+I recommend starting with Promptbooks. You can easily add tags, edit, share, run, and set the level of access to "Just me" or "Anyone in my organization." You can even create your own. Learn more about how to create your own Promptbooks **[here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks).** It's also critical to monitor SCU usage to manage costs and avoid disruptions. Learn more about how to monitor your usage **[here](https://learn.microsoft.com/en-us/security-copilot/manage-usage).**
 
 Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT files. You can upload files up to 20 MB in total. Copilot for Security reasons over files to generate more relevant and specific responses. Learn more about uploading your own files **[here](https://learn.microsoft.com/en-us/security-copilot/upload-file).**
 
