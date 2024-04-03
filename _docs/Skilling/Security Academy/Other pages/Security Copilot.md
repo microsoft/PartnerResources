@@ -2,7 +2,7 @@
 layout: page
 title: Copilot for Security
 description: Are you ready for Copilot for Security?
-permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
+permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
 updated: 2024-04-03
 showbreadcrumb: true
 tags: 
