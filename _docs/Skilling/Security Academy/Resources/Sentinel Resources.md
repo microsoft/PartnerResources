@@ -92,7 +92,6 @@ Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some
 
 #### MDTI
 * [**MSFT Blog:** Performing a Successful Proof of Concept (PoC)](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/performing-a-successful-proof-of-concept-poc/ba-p/3742412)
-* [**MSFT Blog:** Infrastructure Chaining with Microsoft Defender Threat Intelligence](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/infrastructure-chaining-with-microsoft-defender-threat/ba-p/3687956)
 
 #### Notebooks
 * [Get Started with Jupyter Notebooks & MSTICPy in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/notebook-get-started)

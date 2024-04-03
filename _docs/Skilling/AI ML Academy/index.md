@@ -5,7 +5,7 @@ description: The AI & ML Academy is focused on Artificial Intelligence and Machi
 permalink: /skilling/ai-ml-academy
 redirect_from:
   - /skilling/ai-ml-academy/
-updated: 2024-03-25
+updated: 2024-04-04
 showbreadcrumb: true
 tags:
 - azure
@@ -16,6 +16,8 @@ tags:
 ---
 
 # AI & ML Academy
+
+> More coming soon! The AI & ML Academy is undergoing improvements.
 
 ## Content
 
@@ -61,7 +63,7 @@ Refer to links below for the module breakouts.
 </tr>
 <tr>
 <td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/prebuilt-ai">Customizable AI</a></b></td>
-<td>Azure AI Services, including Vision, Language, Speech and customization of these Cognitive Services</td>
+<td>Azure AI Services, including Vision, Language, Speech, and customization of these Cognitive Services</td>
 </tr>
 <tr>
 <td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/openai">Azure OpenAI</a></b></td>
@@ -90,7 +92,7 @@ Generative AI, including GPT, Codex, DALL-E, and ChatGPT
 
 ## Hands-on provisioned Environments
 
-We are not currently offering fully-hosted lab environments for the AI & ML Academy, but this may change in the future as we expand the content. In the meantime, you can still run the labs in your own Azure subscription. These labs are listed below:
+We are not currently offering fully hosted lab environments for the AI & ML Academy, but this may change in the future as we expand the content. In the meantime, you can still run the labs in your own Azure subscription. These labs are listed below:
 
 ## Prepare for AI-Related Specializations
 
