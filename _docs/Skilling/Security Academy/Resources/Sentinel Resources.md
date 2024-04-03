@@ -39,11 +39,11 @@ Below you will find content to assist in skilling on Microsoft Sentinel. Content
 #### Building a Demo. Instance🚀
 Use these steps to build a demo instance; free for one month
 
-1. [Microsoft Sentinel All In One](https://aka.ms/SentinelAllInOne) -> Speed up Microsoft Sentinel deployment and initial configuration tasks in a few clicks.
+1. **[Microsoft Sentinel All In One](https://aka.ms/SentinelAllInOne)** -> Speed up Microsoft Sentinel deployment and initial configuration tasks in a few clicks.
 2. [**GitHub:** Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
 3. [Connect Microsoft Entra to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
 4. [**GitHub:** Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)
-   * Microsoft Sentinel 2-Go is an open-source project developed to expedite the deployment of a Microsoft Sentinel lab along with resources. (i.e., more "Dummy Data")
+   * Microsoft Sentinel 2-Go is an open-source project developed to expedite the deployment of a Microsoft Sentinel lab along with resources
 
 #### Ninja Trainings
 * [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
@@ -54,9 +54,9 @@ Use these steps to build a demo instance; free for one month
 #### Ingestion
 * [Microsoft Sentinel Migration: Select Target Azure Platform for Exported Data](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
 * [Microsoft Sentinel Migration: Select Data Ingestion Tool](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
-* **[Community:]** [Refactoring Data Ingestion Costs](https://craigclouditpro.wordpress.com/2023/09/19/refactoring-data-ingestion-costs/?utm_source=substack&utm_medium=email)
+* **Community: [Refactoring Data Ingestion Costs](https://craigclouditpro.wordpress.com/2023/09/19/refactoring-data-ingestion-costs/?utm_source=substack&utm_medium=email)**
 * [Find your Microsoft Sentinel Data Connector](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
-* [Resources for Creating Microsoft Sentinel Custom Connectors](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector)
+* [Resources for creating Microsoft Sentinel Custom Connectors](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector)
 
 #### Retention
 * [What is a free Azure Data Explorer Cluster?](https://docs.microsoft.com/en-us/azure/data-explorer/start-for-free)
@@ -80,25 +80,19 @@ Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some
 * [MSSPs and Identity: Considerations for Tenant Architecture & Delegating Access to SOC analysts](https://myfabersecurity.com/2023/01/11/mssps-and-identity/)
 * [Protecting MSSP Intellectual Property in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/mssp-protect-intellectual-property)
 
-#### Agents
-* [Azure Monitor Agent Overview](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
-* [**GitHub:** Microsoft Sentinel Transformations Library](http://aka.ms/sentinel-transforms)
-* [Overview of the Azure Connected Machine Agent (Azure Arc)](https://learn.microsoft.com/en-us/azure/azure-arc/servers/agent-overview)
-
 #### KQL
 * [MustLearnKQL Blog Series](https://github.com/rod-trent/MustLearnKQL)
-* [**GitHub:** KQL for Microsoft Sentinel Lab & Queries](https://github.com/reprise99/Sentinel-Queries)
 * [KQL Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet)
 * [KQL Search](https://www.kqlsearch.com)
 * [SQL to KQL Cheat Sheet](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet)
 
 #### SOAR
 * **[STAT](https://aka.ms/mstat)** -- The Microsoft Sentinel Triage Assistant (STAT) uses modular playbooks and a Logic App Custom Connector to simplify the process through reusable content.
-* [Sample Integrations with Azure OpenAI](https://myfabersecurity.com/2023/07/29/initial-assessment-connecting-the-dots-with-aoai/) 
-
-#### Notebooks
-* [Get Started with Jupyter Notebooks & MSTICPy in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/notebook-get-started)
+* [Sample Integrations with Azure OpenAI](https://myfabersecurity.com/2023/07/29/initial-assessment-connecting-the-dots-with-aoai/)
 
 #### MDTI
 * [**MSFT Blog:** Performing a Successful Proof of Concept (PoC)](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/performing-a-successful-proof-of-concept-poc/ba-p/3742412)
 * [**MSFT Blog:** Infrastructure Chaining with Microsoft Defender Threat Intelligence](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/infrastructure-chaining-with-microsoft-defender-threat/ba-p/3687956)
+
+#### Notebooks
+* [Get Started with Jupyter Notebooks & MSTICPy in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/notebook-get-started)

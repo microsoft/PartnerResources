@@ -26,15 +26,6 @@ Welcome to the **Microsoft Sentinel Academy.** Explore Microsoft Sentinel video 
     showdescription="true"
 %}
 
-{% include resources.md 
-    includetags="security certifications"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
 ### Sessions
 {% include series.md 
     includetags="academy content|sentinel" includemethod="all" 
