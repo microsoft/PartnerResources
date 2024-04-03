@@ -2,7 +2,7 @@
 layout: page
 title: AI & ML Academy - Azure OpenAI
 sorttitle: 02
-description: Workshop focused on AI and ML - Azure OpenAI
+description: Azure OpenAI
 permalink: /skilling/ai-ml-academy/openai
 updated: 2024-04-04
 showbreadcrumb: true
