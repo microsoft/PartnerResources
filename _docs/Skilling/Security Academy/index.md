@@ -14,7 +14,7 @@ showbreadcrumb: true
 
 Want to help defend the world against threats? Cybersecurity is not just an individual effort — it's a shared responsibility. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)** and take action today.
 
-**Explore our resources for [Microsoft Copilot for Security](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security) and common [Microsoft Copilot for Security Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft--opilot-for-security-qa).**
+**Explore our resources for [Microsoft Copilot for Security](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security) and common [Microsoft Copilot for Security Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa).**
 
 Stay ahead of evolving threats and protect your organization with continuous learning through our **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules).** The Microsoft Security Academy's **[Resources](/PartnerResources/skilling/microsoft-security-academy/resources)** complement the **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)** and enable you to explore cybersecurity concepts in greater detail.
 
