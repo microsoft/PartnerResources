@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Are you ready for Copilot for Security?
 permalink: /skilling/microsoft-security-academy/microsoft-security-copilot
-updated: 2024-04-01
+updated: 2024-04-03
 showbreadcrumb: true
 tags: 
 - academy content
@@ -17,19 +17,17 @@ tags:
 
 Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
 
-## April 1st, 2024 Update📰
+## April 3rd, 2024 Update📰
 
-Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's launch and transformative power. With all the recent developments, my colleague Sameh Younis and I are planning significant updates to this page. Stay tuned.
+Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all the recent developments, my colleague Sameh Younis and I are planning significant updates to this page. Stay tuned.
 
-Learn more about how to provision Copilot for Security and its minimum requirements **[here](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot).**
-
-I was in Redmond two weeks ago presenting Copilot for Security at the Microsoft AI Cloud Summit. The attendees, most of whom had surprisingly never seen it, were fascinated. Leaving the conference, it's apparent most partners are confused about the pricing. Below, I added details about Copilot for Security's **[newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#pricing).**
+I was in Redmond two weeks ago presenting Copilot for Security at the Microsoft AI Cloud Summit. The attendees, most of whom had surprisingly never seen it, were fascinated. Leaving the conference, it's apparent most partners are confused about the pricing. Below, I added details about Copilot for Security's **[newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#pricing)** and some **[onboarding considerations](/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot#onboarding-considerations).**
 
 Whether you're new to Copilot for Security or in the [Microsoft Copilot for Security Partner Ecosystem](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners), expand your capabilities with our [Copilot for Security documentation](https://learn.microsoft.com/en-us/security-copilot/).
 
 **[Prompt engineering in Copilot for Security](https://learn.microsoft.com/en-us/security-copilot/prompting-tips)** plays a critical role in creating specific, high-quality outputs. **[This folder](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts)** contains Copilot for Security prompting templates and Promptbooks.
 
-#### Are you a partner? If so, explore our [Partner Landing Page!](https://securitypartners.transform.microsoft.com/security-copilot)
+Are you a partner? If so, explore our [Partner Landing Page](https://securitypartners.transform.microsoft.com/security-copilot)!
 
 ## Events
 
@@ -38,13 +36,13 @@ Whether you're new to Copilot for Security or in the [Microsoft Copilot for Secu
 
 ## Secure Update🔓
 
-As someone who began experimenting with Copilot for Security (CfS) nearly a year ago, it's rewarding to see not just a product, but a platform, excel expectations. CfS is truly an embodiment of what's possible. Most of the heroes behind it, and all their late nights, will never be widely known, but their work surely will.
+As someone who began experimenting with Copilot for Security (CfS) nearly a year ago, it's rewarding to see not just a product, but a platform, excel expectations.
 
-Read **[Vasu Jakkal's Copilot for Security April-1 global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/).** Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners). As the ecosystem continues to grow, so too will **[Non-Microsoft plugins](https://learn.microsoft.com/en-us/security-copilot/plugin-other).**
+Read [Vasu Jakkal's Copilot for Security April-1 global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/). Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners)! As the ecosystem continues to grow, so too will **[Non-Microsoft plugins](https://learn.microsoft.com/en-us/security-copilot/plugin-other).**
 
 As a partner, learn how to create and manage your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin).**
 
-Explore more **[General Availability details](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-general-availability-details/ba-p/4079970)** or dive into the results of our recent **[Randomized Controlled Trial for Copilot for Security](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us).**
+Also, explore the results of our recent **[Randomized Controlled Trial for Copilot for Security](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us).**
 
 ## Get Started
 
@@ -73,7 +71,7 @@ Why is it consumption-based and not per user? The idea is that the flexibility w
 
 To use Copilot for Security, you must have ***at least* one SCU/hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr/day * 365day/yr). To calculate your estimated *monthly* bill, use (SCUs/hr) x $4 x 730/month. Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.** Once an analyst is nearing the capacity limit, they will receive a warning and the option to increase the capacity.
 
-If you de-provision Copilot for Security (zero SCUs/hr), we will retain your data for 90 days. **MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
+If you de-provision Copilot for Security (zero SCUs/hr), we will retain your data for 90 days. **Tenant-level MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
 
 Since computing capacity and token usage is **variable (quantifying a specific # of tokens or SCUs/workflows needed per prompt/Promptbook is difficult)**, it's important for partners to know what they can do *now:*
 
@@ -83,6 +81,16 @@ Since computing capacity and token usage is **variable (quantifying a specific #
 * Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
 
 I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage patterns and what ***is and isn't a SCU/workflow.***
+
+## Onboarding Considerations
+
+You can provision Copilot for Security within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during the deployment.
+
+While there are technically no prerequisites, you'll need an Azure subscription and Microsoft Entra ID (Entra ID is required to authenticate your users). We also recommend allowing prompt evaluation anywhere with available GPU capacity for optimal results. By default, all users are **contributors** (this may vary according to existing user permissions). It's also worth mentioning that **the provisioning user is the owner.** Contributors cannot update data sharing options, manage SCUs, view the usage dashboard, and may only manage and publish custom plugins or upload files when allowed.
+
+I recommend starting by using Promptbooks. You can easily add tags, edit, share, run, and set the level of access to "Just me" or "Anyone in my organization." You can even create your own. Learn more about how to create your own Promptbooks **[here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks).** It's also critical to monitor SCU usage to manage costs and avoid disruptions. Learn more about how to monitor your usage **[here](https://learn.microsoft.com/en-us/security-copilot/manage-usage).**
+
+Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT files. You can upload files up to 20 MB in total. Copilot for Security reasons over files to generate more relevant and specific responses. Learn more about uploading your own files **[here](https://learn.microsoft.com/en-us/security-copilot/upload-file).**
 
 ## Features
 
@@ -147,7 +155,7 @@ I'm assuming beyond the EAP, we're also collecting this data and in good time, w
 * [Introduction to red teaming large language models (LLMs)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming?utm_source=substack&utm_medium=email)
 
 ## Community Resources
-* **[Microsoft Copilot for Security Blog](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog)**
+* [Microsoft Copilot for Security Blog](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog)
 * [OpenAI's GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 
 ## Interesting Reads
