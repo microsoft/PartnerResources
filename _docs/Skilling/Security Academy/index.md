@@ -12,7 +12,7 @@ showbreadcrumb: true
 
 #### Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources. 📚
 
-> The Microsoft Security will undergo an overhaul in May, 2024. Stay tuned.
+> The Microsoft Security Academy will undergo an overhaul in May, 2024. Stay tuned.
 
 Want to help defend the world against threats? Cybersecurity is not just an individual effort — it's a shared responsibility. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)** and take action today.
 

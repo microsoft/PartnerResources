@@ -17,8 +17,8 @@ Below you will find content to assist in skilling on Microsoft Sentinel. Content
 
 ## April 2024 Update📰
 
-* **NEW:** [SOAR Capabilities with Microsoft Sentinel](https://mccybersec.github.io/microsoft%20sentinel/SOAR-Capabilities-with-Microsoft-Sentinel/?utm_source=substack&utm_medium=email)
-* **NEW:** [Continuously import Threat Intelligence Indicators in Microsoft Sentinel](https://mccybersec.github.io/microsoft%20sentinel/threat-intelligence-upload/?utm_source=substack&utm_medium=email)
+* **NEW:** [SOAR Capabilities in Microsoft Sentinel](https://mccybersec.github.io/microsoft%20sentinel/SOAR-Capabilities-with-Microsoft-Sentinel/?utm_source=substack&utm_medium=email)
+* **NEW:** [Continuously import Threat Intelligence (TI) Indicators in Microsoft Sentinel](https://mccybersec.github.io/microsoft%20sentinel/threat-intelligence-upload/?utm_source=substack&utm_medium=email)
 * **NEW:** [Migrate to Microsoft Sentinel with the new SIEM Migration Experience (Preview)](https://learn.microsoft.com/en-us/azure/sentinel/siem-migration)
 * **NEW:** [Data Connectors: MMA vs AMA](https://www.linkedin.com/pulse/cef-data-connector-mma-vs-ama-debac-manikandan-fo36c/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 * **NEW:** [Data Connectors: AWS vs AWS S3](https://www.linkedin.com/pulse/data-connector-aws-vs-s3-debac-manikandan-vfhcc%3FtrackingId=CUG5RbZTglInWcBaHIvgYA%253D%253D/?trackingId=CUG5RbZTglInWcBaHIvgYA%3D%3D&utm_source=substack&utm_medium=email)
@@ -52,8 +52,8 @@ Use these steps to build a demo instance; free for one month
 * [Microsoft Sentinel Notebooks Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491)
 
 #### Ingestion
-* [Microsoft Sentinel Migration: Select Target Azure Platform for Exported Data](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
-* [Microsoft Sentinel Migration: Select Data Ingestion Tool](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
+* [**Microsoft Sentinel Migration:** Select Target Azure Platform for Exported Data](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
+* [**Microsoft Sentinel Migration:** Select Data Ingestion Tool](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
 * **Community: [Refactoring Data Ingestion Costs](https://craigclouditpro.wordpress.com/2023/09/19/refactoring-data-ingestion-costs/?utm_source=substack&utm_medium=email)**
 * [Find your Microsoft Sentinel Data Connector](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
 * [Resources for creating Microsoft Sentinel Custom Connectors](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector)
@@ -70,7 +70,7 @@ Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some
 
 ## Associate
 * [Design your Microsoft Sentinel Workspace Architecture](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture)
-* [Elevating Cybersecurity Intelligence with Microsoft Sentinel's New Enrichment Widgets](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/elevating-cybersecurity-intelligence-with-microsoft-sentinel-s/ba-p/3985255?utm_source=substack&utm_medium=email)
+* [**MSFT Blog:** Elevating Cybersecurity Intelligence with Microsoft Sentinel's New Enrichment Widgets](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/elevating-cybersecurity-intelligence-with-microsoft-sentinel-s/ba-p/3985255?utm_source=substack&utm_medium=email)
 
 #### Azure Lighthouse
 * [Delegate Access using Azure Lighthouse for a Sentinel POC](https://myfabersecurity.com/2022/07/15/delegate-access-using-azure-lighthouse-for-a-sentinel-poc/)
@@ -81,13 +81,13 @@ Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some
 * [Protecting MSSP Intellectual Property in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/mssp-protect-intellectual-property)
 
 #### KQL
-* [MustLearnKQL Blog Series](https://github.com/rod-trent/MustLearnKQL)
+* **[MustLearnKQL Blog Series](https://github.com/rod-trent/MustLearnKQL)**
 * [KQL Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet)
 * [KQL Search](https://www.kqlsearch.com)
 * [SQL to KQL Cheat Sheet](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet)
 
 #### SOAR
-* **[STAT](https://aka.ms/mstat)** -- The Microsoft Sentinel Triage Assistant (STAT) uses modular playbooks and a Logic App Custom Connector to simplify the process through reusable content.
+* **[STAT](https://aka.ms/mstat)** -- The Microsoft Sentinel Triage Assistant (STAT) uses modular playbooks and a Logic App Custom Connector to simplify the process through reusable content
 * [Sample Integrations with Azure OpenAI](https://myfabersecurity.com/2023/07/29/initial-assessment-connecting-the-dots-with-aoai/)
 
 #### MDTI

@@ -23,7 +23,7 @@ Welcome to the **Microsoft Sentinel Academy.** Explore Microsoft Sentinel video 
     showtags="false" 
     showdate="true" 
     visualstyle="normal" 
-    showdescription="true"
+    showdescription="false"
 %}
 
 ### Sessions
