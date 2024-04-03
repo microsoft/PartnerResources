@@ -31,7 +31,7 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
 - [**Azure AI announces Prompt Shields for Jailbreak and Indirect prompt injection attacks**](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-ai-announces-prompt-shields-for-jailbreak-and-indirect/ba-p/4099140) -- Our Azure OpenAI Service and Azure AI Content Safety teams are excited to launch a new Responsible AI capability called Prompt Shields. Prompt Shields protect applications, powered by Foundation Models, from two types of attacks: direct (jailbreak) and indirect attacks, both of which are now available in Public Preview. 
 - [**Azure OpenAI Service model deprecations and retirements**](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/model-retirements) -- Learn about models that are currently available, deprecated, and retired.
   
-**Please visit our Academy page to see Code Snippets & Architecture Examples: [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy).**
+#### Please visit our Academy page to see Code Snippets & Architecture Examples: [AI & ML Academy](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy).
 
 - [What’s New in Azure OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/whats-new)
 - [Azure OpenAI – YouTube](https://www.youtube.com/watch?v=dDDJIemqUp4)

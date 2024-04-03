@@ -21,7 +21,7 @@ tags:
 
 Welcome to the AI & ML Academy (AIA) - Azure OpenAI!
 
-This section includes Azure OpenAI resources to help you get started including sample code, end-to-end scenarios, notebooks, and other QuickStart resources.
+This section includes Azure OpenAI sample code, architecture examples, end-to-end scenarios, notebooks, and other QuickStart resources.
 
 ### Also explore our [Azure OpenAI resources page](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/resources/openai)📖
 
