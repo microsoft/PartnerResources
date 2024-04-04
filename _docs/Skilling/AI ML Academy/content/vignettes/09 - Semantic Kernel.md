@@ -8,11 +8,13 @@ updated: 2024-04-04
 showbreadcrumb: true
 youtubeid: OLdeHYobcDI
 tags:
-- vignettes
+- azure
 - data, analytics, and ai
 - artificial intelligence
 - machine learning
-- openai
+- ai & ml academy
+- academy content
+- vignettes
 ---
 
 # {{ page.title }}
