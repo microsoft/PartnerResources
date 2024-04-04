@@ -30,7 +30,7 @@ Machine learning Operations (MLOps) applies DevOps principles and techniques to 
 ### MLOps with Azure DevOps 
 
 * [Azure MLOps (v2) Solution Accelerator](https://github.com/Azure/mlops-v2) -- This accelerator serves as the starting point for MLOps implementation in Azure using Azure DevOps.
-* [MLOps From Scratch hack using Azure DevOps](https://microsoft.github.io/WhatTheHack/032-MLOpsFromScratch/) -- This challenge-based hack will introduce you to the Azure DevOps tooling for MLOps and helps you gain hands-on experience with creating end-to-end Build & Release pipelines to continuously train and deploy your ML model(s).
+* [MLOps From Scratch hack using Azure DevOps](https://microsoft.github.io/WhatTheHack/032-MLOpsFromScratch/) -- This challenge-based hack will introduce you to the Azure DevOps tooling for MLOps and will help you gain hands-on experience with creating end-to-end Build & Release pipelines to continuously train and deploy your ML model(s).
 
 ### MLOps with GitHub Actions
 
@@ -42,7 +42,7 @@ Machine learning Operations (MLOps) applies DevOps principles and techniques to 
 
 ### MLOps with mlFlow 
 
-* [Getting Started with mlFlow](https://www.mlflow.org) 
-* [mlFlow Documentation](https://www.mlflow.org/docs/latest/index.html) -- The latest on mlFlow.
+* [Getting Started with MLflow](https://www.mlflow.org) 
+* [MLflow Documentation](https://www.mlflow.org/docs/latest/index.html) -- The latest on mlFlow.
 * [Track ML models with MLflow and Azure Machine Learning](https://learn.microsoft.com/en-us/azure/machine-learning/v1/how-to-use-mlflow?tabs=azuremlsdk)
 * [**Databricks Academy**](https://github.com/databricks-academy)
