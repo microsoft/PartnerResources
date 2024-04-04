@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leveraging Azure OpenAI Service in multi-cloud scenarios
-sorttitle: 09 Leveraging Azure OpenAI Service in multi-cloud scenarios
+sorttitle: 20 Leveraging Azure OpenAI Service in multi-cloud scenarios
 description: What are the approaches to harness the popular Azure OpenAI Service for building enterprise-grade applications on AWS, GCP, or alternative cloud platforms? Typical business use cases include content generation, summarization, code generation, information discovery and knowledge mining.
 permalink: /skilling/ai-ml-academy/vignettes/openai-in-multi-cloud
 updated: 2023-10-13
@@ -21,4 +21,4 @@ tags:
 
 {{ page.description }}
 
-{% include youtubethumb.md %}
+{% include youtubethumb.md showlink="true" %}
