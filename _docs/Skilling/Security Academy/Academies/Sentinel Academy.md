@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Sentinel Academy
 description: Microsoft Sentinel Academy.
 permalink: /skilling/microsoft-security-academy/sentinel-academy
-updated: 2023-11-17
+updated: 2024-04-04
 showbreadcrumb: true
 Tags:
 - academy content
@@ -14,13 +14,6 @@ Tags:
 Welcome to the **Microsoft Sentinel Academy.** Explore Microsoft Sentinel video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
 #### Stay connected with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog).
-
-### Sessions
-{% include series.md 
-    includetags="academy content|sentinel" includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
-    visualstyle="normal" 
-%}
 
 ### Additional Resources
 
@@ -33,11 +26,9 @@ Welcome to the **Microsoft Sentinel Academy.** Explore Microsoft Sentinel video 
     showdescription="true"
 %}
 
-{% include resources.md 
-    includetags="security certifications"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
+### Sessions
+{% include series.md 
+    includetags="academy content|sentinel" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" 
-    showdescription="true"
 %}

@@ -2,9 +2,9 @@
 layout: page
 title: AI & ML Academy - Azure OpenAI
 sorttitle: 02
-description: Workshop focused on AI and ML - Azure OpenAI
+description: Azure OpenAI
 permalink: /skilling/ai-ml-academy/openai
-updated: 2024-03-25
+updated: 2024-04-04
 showbreadcrumb: true
 tags: 
 - azure
@@ -21,9 +21,9 @@ tags:
 
 Welcome to the AI & ML Academy (AIA) - Azure OpenAI!
 
-This section includes Azure OpenAI resources to help you get started including sample code, end-to-end scenarios, notebooks, and other QuickStart resources.
+This section includes Azure OpenAI sample code, architecture examples, end-to-end scenarios, notebooks, and other QuickStart resources.
 
-### Also explore our [Learning Path Resources for Azure OpenAI](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/resources/openai)!📖
+### Also explore our [Azure OpenAI resources page](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/resources/openai)📖
 
 <!--
 ```html

@@ -2,7 +2,7 @@
 layout: page
 title: AI & ML Academy - Scenario-based Services
 sorttitle: 03
-description: Workshop focused on AI and ML - Scenario-based Services
+description: Scenario-based Services
 permalink: /skilling/ai-ml-academy/applied-ai
 updated: 2024-02-14
 showbreadcrumb: true
