@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Azure AI Search (Vector Search & Semantic Ranker)
-sorttitle: 04
+sorttitle: 4
 description: Learn about Azure AI Search with Alexis Joseph! Explore how Vector Search and Semantic Ranker enhances your search efficiency., with code-first and Azure portal demos!
 permalink: /skilling/ai-ml-academy/vignettes/azure-ai-search
 updated: 2024-04-04
