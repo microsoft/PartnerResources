@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Copilot Studio vs AI Studio
-sorttitle: 01 Copilot Studio vs AI Studio
+sorttitle: 01
 description: Learn about the most popular AI tooling with Melody Yin. Dive into an Azure AI Studio and Copilot Studio service comparison and understand when-to-use-which. Also, get ready for in-depth demos into both tools!
 permalink: /skilling/ai-ml-academy/vignettes/copilot-ai-studio
 updated: 2024-04-04

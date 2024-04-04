@@ -34,7 +34,7 @@ Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of 
 
 ## Vignettes (recently updated!)
 
-Our [ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes) continue the series by looking at the latest AI & ML topics:
+Our **[ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)** continue the series by looking at the latest AI & ML topics:
 
 {% include series.md 
     includetags="ai & ml academy|academy content|vignettes" 
