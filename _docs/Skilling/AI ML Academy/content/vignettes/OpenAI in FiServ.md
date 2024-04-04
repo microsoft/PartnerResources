@@ -6,11 +6,7 @@ permalink: /skilling/ai-ml-academy/vignettes/openai-in-fs
 updated: 2023-03-14
 showbreadcrumb: true
 youtubeid: cN_SP_RAl1c
-tags: 
-- ai & ml academy
-- academy content
-- vignettes
-- data, analytics, and ai
+tags:
 - artificial intelligence
 - machine learning
 - openai

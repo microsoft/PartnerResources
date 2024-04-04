@@ -7,7 +7,6 @@ updated: 2023-05-03
 showbreadcrumb: true
 youtubeid: JKQDypi4hI4
 tags:
-- data, analytics, and ai
 - artificial intelligence
 - machine learning
 - openai

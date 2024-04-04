@@ -41,15 +41,15 @@ Our **[ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)** 
     visualstyle="navlist" showdescrip="false"
 %}
 
+
 ## Events (April 2024 Update📰)
 
 - AI Readiness events: **[AI & ML Partner Prep](https://aka.ms/AIMLPartnerPrep)**
 
+
 ## Table of Contents
 
-The structure of the content is represented in the table below; the overview session is a high-level overview focusing on concepts and principles, while each of the 'module' sessions, Customizable AI through MLOps, will be more in-depth. Each session will contain one or more presentations, with several suggested labs and workshop content in each module designed to accommodate various skill levels and time availability.
-
-Refer to links below for the module breakouts. 
+The structure of the content is represented in the table below; each of the 'module' sessions, Customizable AI through MLOps, are more in-depth. Each session contains one or more presentations -- with suggested labs and workshop content -- designed to accommodate various skill levels.
 
 <table>
 <tr>
