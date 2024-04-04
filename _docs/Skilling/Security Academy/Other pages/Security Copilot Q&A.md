@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security Q&A
 description: Common Copilot for Security Q&A.
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security-qa
-updated: 2024-04-03
+updated: 2024-04-04
 showbreadcrumb: true
 tags: 
 - academy content
