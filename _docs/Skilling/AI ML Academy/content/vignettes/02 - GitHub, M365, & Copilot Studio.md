@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub Copilot, M365 Copilot, & Copilot Studio
-sorttitle: 2
+sorttitle: 02
 description: If you’re curious about Copilot, join David Giard as he unveils the capabilities of GitHub Copilot, M365 Copilot, and Copilot Studio!
 permalink: /skilling/ai-ml-academy/vignettes/github-m365-copilot-studio
 updated: 2024-04-04

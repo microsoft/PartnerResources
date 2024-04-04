@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Azure OpenAI in Financial Services
-sorttitle: 19
 description: The potential for OpenAI in financial services is immense, with opportunities across a wide range of use cases. From fraud detection and risk management to portfolio optimization and customer service, OpenAI has the potential to transform the way financial institutions operate. By leveraging advanced machine learning and natural language processing capabilities, OpenAI can help financial services providers make better decisions, automate processes, and reduce costs.
 permalink: /skilling/ai-ml-academy/vignettes/openai-in-fs
 updated: 2023-03-14
