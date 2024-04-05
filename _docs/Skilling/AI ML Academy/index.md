@@ -32,14 +32,14 @@ Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of 
 
 <div>&nbsp;</div>
 
-## Vignettes (undergoing updates)
+## Vignettes (recently updated!)
 
-Our [ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes) continue the series by looking at the latest AI & ML topics:
+Our **[ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)** continue the series by looking at the latest AI & ML topics:
 
 {% include series.md 
     includetags="ai & ml academy|academy content|vignettes" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="false" 
+    sortfield="sorttitle" sortorder="desc" showdate="true" showtags="false"
     visualstyle="navlist" showdescrip="false"
 %}
 
@@ -52,9 +52,7 @@ Our [ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes) cont
 
 ## Table of Contents
 
-The structure of the content is represented in the table below; the overview session is a high-level overview focusing on concepts and principles, while each of the 'module' sessions, Customizable AI through MLOps, will be more in-depth. Each session will contain one or more presentations, with several suggested labs and workshop content in each module designed to accommodate various skill levels and time availability.
-
-Refer to links below for the module breakouts. 
+The structure of the content is represented in the table below; each of the 'module' sessions, Customizable AI through MLOps, are more in-depth. Each session contains one or more presentations -- with suggested labs and workshop content -- designed to accommodate various skill levels.
 
 <table>
 <tr>
