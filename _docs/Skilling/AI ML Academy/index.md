@@ -26,7 +26,7 @@ Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of 
 {% include series.md 
     includetags="ai & ml academy|academy content|ai & ml academy module" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false" 
+    sortfield="sorttitle" sortorder="desc" showdate="false" showtags="false" 
     visualstyle="navlist" showdescrip="false" removetext="AI & ML Academy - " 
 %}
 
