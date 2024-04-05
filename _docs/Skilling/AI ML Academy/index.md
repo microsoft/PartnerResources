@@ -12,7 +12,6 @@ tags:
 - data, analytics, and ai
 - artificial intelligence
 - machine learning
-- workshop
 ---
 
 # AI & ML Academy
@@ -39,10 +38,10 @@ Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of 
 Our **[ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)** continue the series by looking at the latest AI & ML topics:
 
 {% include series.md 
-    includetags="ai & ml academy|academy content|vignettes"
+    includetags="ai & ml academy|academy content|vignettes" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="desc" showdate="true" showtags="false"
-    visualstyle="normal" showdescrip="false"
+    sortfield="updated" sortorder="desc" showdate="true" showtags="false" 
+    visualstyle="normal"
 %}
 
 
