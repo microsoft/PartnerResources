@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Are you ready for Copilot for Security?
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-04-04
+updated: 2024-04-05
 showbreadcrumb: true
 tags: 
 - academy content
@@ -63,13 +63,13 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 ## Pricing📌
 
-Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU per hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a Copilot workload. The amount of SCUs needed depends on the complexity of the workload. The pricing is consistent across the standalone experience and the embedded experiences as well as regions.
+Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU per hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a Copilot workload. The amount of SCUs needed depends on the complexity of the given workload. The pricing is consistent across the standalone experience and the embedded experiences as well as regions.
 
 Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing; the more telemetry ingested = the more coverage and insights, so long as it's not *too* much noise). There are no prerequisites, but for the best experience, we recommend that customers have MDE P2 and/or Microsoft Sentinel.
 
-To use Copilot for Security, you will need to provision ***at least* one SCU per hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr per day * 365day per yr). Your *monthly* bill is calculated as (SCUs per hr) x $4 x 730/month or you can leverage the [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.** Once an analyst is nearing the capacity limit, they will receive a warning and the option to increase the capacity.
+To use Copilot for Security, you will need to provision ***at least* one SCU per hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr per day * 365day per yr). Your ***monthly*** bill is calculated as (SCUs per hr) x $4 x 730/month or you can leverage the [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.** Once an analyst is nearing the capacity limit, they will receive a warning and the option to increase the capacity.
 
-If you delete Copilot for Security capacity (zero SCUs per hr), we will retain your data for 90 days. **Tenant-level MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
+If you delete Copilot for Security (zero SCUs per hr), we will retain your data for 90 days. **Tenant-level MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
 
 Since computing capacity and token usage is **variable (quantifying a specific # of tokens or SCUs/workflows needed per prompt/Promptbook is difficult)**, it's important for partners to know what they can do *now:*
 
@@ -81,11 +81,11 @@ I'm assuming beyond the EAP, we're also collecting this data and in good time, w
 
 ## Onboarding
 
-You can provision Copilot for Security within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during deployment. When provisioning Copilot for Security, you can purchase capacity in these ***four regions:*** East US, West Europe, UK South, and Australia East.
+You can provision Copilot for Security within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during deployment. When provisioning Copilot for Security, you can purchase capacity in these **four regions:** East US, West Europe, UK South, and Australia East.
 
 While there are technically no prerequisites, you'll need an Azure subscription and Microsoft Entra ID (Entra ID is required to authenticate your users). We also recommend allowing prompt evaluation anywhere with available GPU capacity for optimal results. By default, ***all users are contributors*** (this may vary according to existing user permissions) and ***the provisioning user is the owner.*** Contributors cannot update data sharing options, manage SCUs, view the usage dashboard, and may only manage and publish custom plugins or upload files when allowed.
 
-I recommend starting with Promptbooks. You can easily add tags, edit, share, run, and set the level of access to "Just me" or "Anyone in my organization." You can even create your own. Learn more about how to create your own Promptbooks **[here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks).** It's also critical to monitor SCU usage to manage costs and avoid disruptions. Learn more about how to monitor your usage **[here](https://learn.microsoft.com/en-us/security-copilot/manage-usage).** Also, if you’re beginning with the embedded experiences, I recommend ***starting with Defender XDR.***
+I recommend starting with Promptbooks. You can easily add tags, edit, share, run, and set the level of access to "Just me" or "Anyone in my organization." You can even create your own. Learn more about how to create your own Promptbooks **[here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks).** It's also critical to monitor SCU usage to manage costs and avoid disruptions. Learn more about how to monitor your usage **[here](https://learn.microsoft.com/en-us/security-copilot/manage-usage).** Also, if you’re beginning with the embedded experiences, I recommend **starting with Defender XDR.**
 
 Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT files. You can upload files up to 20 MB in total. Copilot for Security reasons over files to generate more relevant and specific responses. Learn more about uploading your own files **[here](https://learn.microsoft.com/en-us/security-copilot/upload-file).**
 
