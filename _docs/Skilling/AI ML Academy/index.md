@@ -41,7 +41,7 @@ Our **[ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)** 
     includetags="ai & ml academy|academy content|vignettes" 
     includemethod="all" 
     sortfield="updated" sortorder="desc" showdate="true" showtags="false" 
-    visualstyle="normal"
+    visualstyle="navlist"
 %}
 
 
