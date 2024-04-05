@@ -26,7 +26,7 @@ Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of 
 {% include series.md 
     includetags="ai & ml academy|academy content|ai & ml academy module" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="desc" showdate="false" showtags="false" 
+    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="false" 
     visualstyle="navlist" showdescrip="false" removetext="AI & ML Academy - " 
 %}
 
@@ -39,7 +39,7 @@ Our **[ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)** 
 {% include series.md 
     includetags="ai & ml academy|academy content|vignettes" 
     includemethod="all" 
-    sortfield="sorttitle" sortorder="desc" showdate="true" showtags="false"
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="false"
     visualstyle="navlist" showdescrip="false"
 %}
 
