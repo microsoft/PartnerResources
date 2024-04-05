@@ -247,8 +247,11 @@
     todo: check sortField for nulls
 ----------------------------------------------------
 {% endcomment %}
+
 {% if sortOrder == "asc" %}
     {% assign current_docs = current_docs | sort: sortField %}
+{% else %}
+    {% assign current_docs = current_docs | sort: sortField | reverse %}
 {% endif %}
 
 {% comment %}
