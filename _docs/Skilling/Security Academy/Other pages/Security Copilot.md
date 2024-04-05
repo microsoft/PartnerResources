@@ -63,26 +63,25 @@ To get started, we recommend watching the following videos created by Microsoft 
 
 ## Pricing📌
 
-Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU/hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a given workload. The amount of SCUs needed per prompt depends on its complexity. The pricing is consistent across the standalone experience and the embedded experiences as well as regions (East US, West Europe, UK South, and Australia East).
+Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU per hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run Copilot workloads. The amount of SCUs needed depends on the complexity of the workload. The pricing is consistent across the standalone experience and the embedded experiences as well all regions.
 
 Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing; the more telemetry ingested = the more coverage and insights, so long as it's not *too* much noise). There are no prerequisites, but for the best experience, we recommend that customers have MDE P2 and/or Microsoft Sentinel.
 
-To use Copilot for Security, you must have ***at least* one SCU/hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr/day * 365day/yr). To calculate your estimated *monthly* bill, use (SCUs/hr) x $4 x 730/month. Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.** Once an analyst is nearing the capacity limit, they will receive a warning and the option to increase the capacity.
+To use Copilot for Security, you will need to provision ***at least* one SCU per hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr per day * 365day per yr). Your *monthly* bill is calculated as (SCUs per hr) x $4 x 730/month and you can leverage the [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) to estimate your monthly cost. Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.** Once an analyst is nearing the capacity limit, they will receive a warning and the option to increase the capacity.
 
-If you de-provision Copilot for Security (zero SCUs/hr), we will retain your data for 90 days. **Tenant-level MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
+If you delete Copilot for Security capacity (zero SCUs per hr), we will retain your data for 90 days. **Tenant-level MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
 
 Since computing capacity and token usage is **variable (quantifying a specific # of tokens or SCUs/workflows needed per prompt/Promptbook is difficult)**, it's important for partners to know what they can do *now:*
 
-* Measure SCU usage between different user roles (SOC analysts, Purview admins, identity/access admins, etc.)
+* Measure SCU usage between different use cases (SOC analysts, Purview admins, identity/access admins, etc.)
 * Measure SCU usage between different levels of expertise (Junior analysts vs Senior analysts)
-* Measure SCU usage across our tooling and 3rd-party plugins
 * Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
 
 I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage patterns and what ***is and isn't a SCU/workflow.***
 
 ## Onboarding
 
-You can provision Copilot for Security within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during deployment.
+You can provision Copilot for Security within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during deployment. When provisioning Copilot for Security, you can purchase capacity in these four regions: East US, West Europe, UK South, and Australia East.
 
 While there are technically no prerequisites, you'll need an Azure subscription and Microsoft Entra ID (Entra ID is required to authenticate your users). We also recommend allowing prompt evaluation anywhere with available GPU capacity for optimal results. By default, ***all users are contributors*** (this may vary according to existing user permissions) and ***the provisioning user is the owner.*** Contributors cannot update data sharing options, manage SCUs, view the usage dashboard, and may only manage and publish custom plugins or upload files when allowed.
 
