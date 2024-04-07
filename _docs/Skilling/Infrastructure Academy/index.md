@@ -15,10 +15,10 @@ showbreadcrumb: true
 Ready to elevate your organization's cloud infrastructure? Managing Azure infrastructure isn't just a task for the IT team — it's a collective effort. Get started with **the basics** and take action today.
 
 #### The Basics
-1. **[Cloud Adoption Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/cloud-adoption-framework)**
-2. **[Azure Well-Architected Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/waf)**
-3. **[Azure Virtual Desktop](/PartnerResources/skilling/microsoft-infrastructure-academy/avd)**
-4. **[Azure VMware Solution (AVS)](/PartnerResources/skilling/microsoft-infrastructure-academy/avs)**
+1. **[Azure VMware Solution (AVS)](/PartnerResources/skilling/microsoft-infrastructure-academy/avs)**
+2. **[Adaptive Cloud with Azure Arc)](/PartnerResources/skilling/microsoft-infrastructure-academy/adaptive-cloud)**
+3. **[Cloud Adoption Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/cloud-adoption-framework)**
+4. **[Azure Well-Architected Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/waf)**
 
 Keep your organization resilient against evolving challenges with continuous learning through our **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)**. Our **[Resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources)** complement the **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** and empower you to dive deeper into key Azure infrastructure concepts.
 
