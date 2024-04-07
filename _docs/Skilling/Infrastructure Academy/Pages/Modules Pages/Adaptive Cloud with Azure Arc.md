@@ -33,7 +33,7 @@ Reach out to your Microsoft partner team to learn more about how we have helped 
 ## Core Sessions
 
 
-| Build and Manage Hybrid Cloud Apps | Hybrid Cloud Security & Governance | Cloud Native at the Edge | Modernize On-prem Environments |
+| Build Hybrid Cloud Apps | Hybrid Cloud Management | Cloud Native at the Edge | Modernize On-prem Environments |
 |----------------------------|--------------------------------------------||-------------------------|--------------------------------|
 | [![ARC VIDEO 1](https://img.youtube.com/vi/A-eUkKjmSzs/mqdefault.jpg)](https://www.youtube.com/watch?v=A-eUkKjmSzs) | [![ARC VIDEO 2](https://img.youtube.com/vi/B5Cyl8cj2e8/mqdefault.jpg)](https://www.youtube.com/watch?v=B5Cyl8cj2e8) | [![ARC VIDEO 3](https://img.youtube.com/vi/9BjGj2iSkIo/mqdefault.jpg)](https://www.youtube.com/watch?v=9BjGj2iSkIo) | [![ARC VIDEO 4](https://img.youtube.com/vi/mCcLUSOqVIo/mqdefault.jpg)](https://www.youtube.com/watch?v=mCcLUSOqVIo) |
 
