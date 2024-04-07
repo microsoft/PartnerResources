@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Azure Infrastructure Academy — Adaptive Cloud with Azure Arc and Azure Stack HCI
 description: Microsoft Azure Infrastructure Academy for Adaptive Cloud with Azure Arc and Azure Stack HCI.
 permalink: /skilling/microsoft-infrastructure-academy/adaptive-cloud
-updated: 2023-12-15
+updated: 2024-04-08
 showbreadcrumb: true
 Tags:
 - academy content
@@ -29,6 +29,13 @@ Effectively, Azure Arc extends the Azure control plane to on-premises or multicl
 If you are a Microsoft services partner and you have not incorporated Azure Arc into your toolset then you are missing customer opportunity.
 
 Reach out to your Microsoft partner team to learn more about how we have helped partners use Azure Arc as part of their cloud managed services, migration, and application development practices.
+
+## Core Sessions
+
+
+| Build Hybrid Cloud Apps | Hybrid Cloud Management | Cloud Native at the Edge | Modernize On-prem Environments |
+|----------------------------|--------------------------------------------||-------------------------|--------------------------------|
+| [![ARC VIDEO 1](https://img.youtube.com/vi/A-eUkKjmSzs/mqdefault.jpg)](https://www.youtube.com/watch?v=A-eUkKjmSzs) | [![ARC VIDEO 2](https://img.youtube.com/vi/B5Cyl8cj2e8/mqdefault.jpg)](https://www.youtube.com/watch?v=B5Cyl8cj2e8) | [![ARC VIDEO 3](https://img.youtube.com/vi/9BjGj2iSkIo/mqdefault.jpg)](https://www.youtube.com/watch?v=9BjGj2iSkIo) | [![ARC VIDEO 4](https://img.youtube.com/vi/mCcLUSOqVIo/mqdefault.jpg)](https://www.youtube.com/watch?v=mCcLUSOqVIo) |
 
 
 ![Azure Platform with Azure Arc]({{ site.baseurl }}/assets/infrapics/AzureArcDiagram.png)
