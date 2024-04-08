@@ -16,7 +16,7 @@ Ready to elevate your organization's cloud infrastructure? Managing Azure infras
 
 #### The Basics
 1. **[Azure VMware Solution (AVS)](/PartnerResources/skilling/microsoft-infrastructure-academy/avs)**
-2. **[Adaptive Cloud with Azure Arc)](/PartnerResources/skilling/microsoft-infrastructure-academy/adaptive-cloud)**
+2. **[Adaptive Cloud with Azure Arc](/PartnerResources/skilling/microsoft-infrastructure-academy/adaptive-cloud)**
 3. **[Cloud Adoption Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/cloud-adoption-framework)**
 4. **[Azure Well-Architected Framework](/PartnerResources/skilling/microsoft-infrastructure-academy/waf)**
 
