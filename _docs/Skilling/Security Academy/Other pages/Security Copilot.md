@@ -21,7 +21,7 @@ Microsoft Copilot for Security is the first security product to enable defenders
 
 Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all the recent developments, my colleague Sameh Younis and I are planning significant updates to this page. Stay tuned.
 
-It's been two days since GA and we're receiving some questions about why Copilot for Security is automatically appearing in Defender XDR. Since Copilot for Security uses Role-based access controls (RBAC) and operates in tandem with existing user permissions, if you belong to an RBAC group with access, you will not be able to disable it.
+It's been four days since GA and we're receiving some questions about why Copilot for Security is automatically appearing in Defender XDR. Since Copilot for Security uses Role-based access controls (RBAC) and operates in tandem with existing user permissions, if you belong to an RBAC group with access, you will not be able to disable it.
 
 We're aware of this issue and a fix should come soon. If you're new to Copilot for Security or just getting started, I’ve added some **[onboarding guidance](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)** below.
 
