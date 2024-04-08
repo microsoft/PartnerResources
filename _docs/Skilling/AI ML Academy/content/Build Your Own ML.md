@@ -296,15 +296,15 @@ AML experiments dashboard shows you all of your experiments and their associated
     ```
 
 Check out these repositories for examples of development and deployment on AML.
-- (https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml)
-- (https://github.com/microsoft/solution-accelerator-many-models)
-- (https://github.com/Azure/azureml-examples)
+- [https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml)
+- [https://github.com/microsoft/solution-accelerator-many-models](https://github.com/microsoft/solution-accelerator-many-models)
+- [https://github.com/Azure/azureml-examples](https://github.com/Azure/azureml-examples)
 
 #### Supportive features of AML
 There are additional benefits with AML that you may not have in traditional ML lifecycle.
 1. __AutoML:__
     AutoML is a smart tool that accepts a dataset (tabular or file) and produces your desired model. It can perform classification, clustering, regression tasks on datasets. AutoML tries tens or even hundreds of models from the literature, performs data cleaning, normalization, preprocessing, and trains all of them. It then reports to you the metrics for all of the calculated model, with recommendations. You can choose which model(s) to deploy with one click.
-[Use automated machine learning in Azure Machine Learning - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/)
+[Use automated machine learning in Azure Machine Learning - Learn Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/)
 
 2. __Designer__ and __Pipelines:__
     Azure ML designer is a low-code/no-code drag-and-drop interface used to train and deploy models in Azure ML. Use a visual canvas to build an end-to-end machine learning workflow. Train, test, and deploy models all in the designer:
@@ -322,11 +322,11 @@ There are additional benefits with AML that you may not have in traditional ML l
     As you edit a pipeline in the designer, your progress is saved as a pipeline draft. You can edit a pipeline draft at any point by adding or removing components, configuring compute targets, creating parameters, and so on. Each time you run a pipeline, the configuration of the pipeline and its results are stored in your workspace as a pipeline job. You can go back to any pipeline job to inspect it for troubleshooting or auditing. Clone a pipeline job to create a new pipeline draft for you to edit. 
 
 
-    [Create a regression model with Azure Machine Learning designer - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/)
+    [Create a regression model with Azure Machine Learning designer - Learn Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/)
     
-    [Orchestrate machine learning with pipelines - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/)
+    [Orchestrate machine learning with pipelines - Learn Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/)
 
 3. __Responsible AI:__
     Responsible Artificial Intelligence (Responsible AI) is an approach to developing, assessing, and deploying AI systems in a safe, trustworthy, and ethical way. From purpose to how people interact with AI systems, Responsible AI can help proactively guide these decisions toward more beneficial and equitable outcomes. Microsoft has developed a Responsible AI Standard. It's a framework for building AI systems according to six principles: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
 
-    [Discuss practices for responsible AI at Microsoft - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/)
+    [Discuss practices for responsible AI at Microsoft - Learn Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/)
