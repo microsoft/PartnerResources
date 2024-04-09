@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Automating Responses in Microsoft Sentinel and Integration with Microsoft Defender Solutions
-sorttitle: 10
+sorttitle: 9
 description: Learn about Microsoft Sentinel's SOAR capabilities, including Automation Rules and Playbooks. Explore several OOB Playbooks, Community Playbooks, as well as Custom Playbooks, including one utilizing the OpenAI Logic App Connector.
 updated: 2023-06-07
 permalink: /skilling/microsoft-security-academy/sentinel-academy-auto
