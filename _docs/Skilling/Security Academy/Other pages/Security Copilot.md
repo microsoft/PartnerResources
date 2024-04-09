@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Are you ready for Copilot for Security?
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-04-05
+updated: 2024-04-09
 showbreadcrumb: true
 tags: 
 - academy content
@@ -17,11 +17,13 @@ tags:
 
 Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
 
-## April 5th, 2024 Update📰
+## April 9th, 2024 Update📰
 
 Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all the recent developments, my colleague Sameh Younis and I are planning significant updates to this page. Stay tuned.
 
-It's been four days since GA and we're receiving some questions about why Copilot for Security is automatically appearing in Defender XDR. Since Copilot for Security uses Role-based access controls (RBAC) and operates in tandem with existing user permissions, if you belong to an RBAC group with access, you will not be able to disable it.
+If you're a partner, explore our new [Partner Landing Page!](https://securitypartners.transform.microsoft.com/security-copilot). It received a complete remodel last week.
+
+It's been a week since GA and we're receiving some questions about why Copilot for Security is automatically appearing in Defender XDR. Since Copilot for Security uses Role-based access controls (RBAC) and operates in tandem with existing user permissions, if you belong to an RBAC group with access, you will not be able to disable it.
 
 We're aware of this issue and a fix should come soon. If you're new to Copilot for Security or just getting started, I’ve added some **[onboarding guidance](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)** below.
 
