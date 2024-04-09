@@ -104,7 +104,7 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Prompting](https://learn.microsoft.com/en-us/security-copilot/prompting-security-copilot?view=o365-worldwide)
 * [Promptbooks](https://learn.microsoft.com/en-us/security-copilot/using-promptbooks?view=o365-worldwide)
 * [Improving Threat Hunting Efficiency using Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/improving-threat-hunting-efficiency-using-copilot-for-security/ba-p/4077527)
-* [Leveraging Generative AI for Efficient Security Investigation Summaries](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/leveraging-generative-ai-for-efficient-security-investigation/ba-p/4049630) -- Brandon is CfS's Partner Group PM
+* [Leveraging Generative AI for Efficient Security Investigation Summaries](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/leveraging-generative-ai-for-efficient-security-investigation/ba-p/4049630)
 * [What does good prompt engineering look like?](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)
 * [**NEW:** How to build a Copilot for Security API Plugin – Part 1](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-build-a-copilot-for-security-api-plugin-part-1/ba-p/4107604)
 * [**NEW:** Apply principles of Zero Trust to Microsoft Copilot for Security](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
@@ -126,9 +126,7 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Create an incident report in Microsoft Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-create-incident-report?view=o365-worldwide)
 * [Script analysis in Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-script-analysis?view=o365-worldwide)
 
-## Driving Customer Adoption
-
-#### Integrations
+## Integrations
 
 * [Microsoft Copilot for Security in Microsoft Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-in-microsoft-365-defender?view=o365-worldwide&bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Copilot for Security in Microsoft Entra](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-security-entra?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
@@ -209,9 +207,7 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * **More Proactive Threat Hunting:** Empowers teams with AI-powered recommendations.
 * **Empowering Staff:** Frees senior staff for strategic work and strengthens junior staff expertise.
 
-## Extend Copilot for Security
-
-#### Plugins
+## Plugins
 
 * [Overview](https://learn.microsoft.com/en-us/security-copilot/plugin-overview?view=o365-worldwide)
 * [API](https://learn.microsoft.com/en-us/security-copilot/plugin-api?view=o365-worldwide)
@@ -220,7 +216,7 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Manage plugins](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?view=o365-worldwide&tabs=securitycopilotplugin)
 * [Plugin error codes](https://learn.microsoft.com/en-us/security-copilot/plugin-error-codes?view=o365-worldwide)
 
-#### Connectors
+## Connectors
 
 * [Overview](https://learn.microsoft.com/en-us/connectors/securitycopilot/)
 * [Logic Apps](https://learn.microsoft.com/en-us/security-copilot/connector-logicapp?view=o365-worldwide)
