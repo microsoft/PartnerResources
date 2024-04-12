@@ -26,11 +26,11 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 
 ## Fundamentals
 * <a href="https://learn.microsoft.com/en-us/power-automate/process-mining-overview/" target="_blank">Process Mining Documentation </a>
-* <a href="https://learn.microsoft.com/en-us/training/paths/introduction-process-advisor//" target="_blank">Process Mining Learning Path </a>
-* <a href="https://learn.microsoft.com/en-us/training/paths/introduction-process-advisor//" target="_blank">Process Mining Pitch Deck </a>
+* <a href="https://learn.microsoft.com/en-us/training/paths/introduction-process-advisor/" target="_blank">Process Mining Learning Path </a>
+* <a href="https://learn.microsoft.com/en-us/training/paths/introduction-process-advisor/" target="_blank">Process Mining Pitch Deck </a>
 * <a href="https://onedrive.live.com/?authkey=%21AMf524Z%2D1%5FENpI8&id=158B31507335E9B8%2139987&cid=158B31507335E9B8/" target="_blank">Process Mining In A Day Workshop Resources </a>
-* <a href="https://powerautomate.microsoft.com/en-us/pricing//" target="_blank">Process Mining Licesning </a>
-* <a href="/" target="_blank">Process Mining Partner Office Hours </a>
+* <a href="https://powerautomate.microsoft.com/en-us/pricing//" target="_blank">Process Mining Licensing </a>
+* Process Mining Partner Office Hours
 
 
 * Coming Soon
