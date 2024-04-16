@@ -21,10 +21,12 @@ The Microsoft Copilot for Security Technical Journey will teach you how to learn
 
 This page is organized into three parts -- Learn Copilot for Security, Extend Copilot for Security, and Driving Customer Adoption.
 
+<td colspan="2" style="text-align: center;"><b>Table of Contents</b></td>
+
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: center;">Table of Contents</td>
+        <td colspan="2" style="text-align: center;"><b>Table of Contents</b></td>
     </tr>
     <tr>
         <td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#learn-copilot-for-security">Learn Copilot for Security</a></b></td>
@@ -34,7 +36,7 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding">Onboarding</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started">Get Started</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#features">Features</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#use-casess">Use Cases</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#use-cases">Use Cases</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#demos">Demos</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos">Videos</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#roles-beyond-soc-analysts">Roles</a></li>
@@ -59,10 +61,10 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
     <tr>
         <td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#driving-customer-adoption">Driving Customer Adoption</a></b></td>
         <td>
-            <ul>
+            <ul>      
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#integrations">Integrations</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing">Pricing</a></li>
-            </ul>
+            </ul> 
         </td>
     </tr>
 </table>
@@ -76,10 +78,7 @@ Several colleagues have created comprehensive on-demand **[Technical Workshops f
 
 ## April 16th, 2024 Update📰
 
-Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all of the recent developments, my colleague Sameh Younis and I created this Copilot for Security Technical Learning Path. We will update the Journey weekly.
-
-
-<div>&nbsp;</div>
+Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all of the recent developments, my colleague Sameh Younis and I created this Copilot for Security Technical Journey. We will update the Journey weekly.
 
 ___
 
@@ -115,12 +114,12 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Best practices for Microsoft Entra roles](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/best-practices#1-apply-principle-of-least-privilege)
 * [Prompting](https://learn.microsoft.com/en-us/security-copilot/prompting-security-copilot?view=o365-worldwide)
 * [Promptbooks](https://learn.microsoft.com/en-us/security-copilot/using-promptbooks?view=o365-worldwide)
-* [Sample Prompts Library](https://github.com/Azure/Copilot-For-Security/tree/main/Sample%20Prompts)
-* [Promptbooks Library](https://github.com/Azure/Copilot-For-Security/tree/main/Promptbook%20samples)
+* [**NEW:** Sample Prompts Library](https://github.com/Azure/Copilot-For-Security/tree/main/Sample%20Prompts)
+* [**NEW:** Promptbooks Library](https://github.com/Azure/Copilot-For-Security/tree/main/Promptbook%20samples)
 * [Leveraging Generative AI for Efficient Security Investigation Summaries](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/leveraging-generative-ai-for-efficient-security-investigation/ba-p/4049630)
 * [What does good prompt engineering look like?](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)
-* [**NEW:** How to build a Copilot for Security API Plugin – Part 1](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-build-a-copilot-for-security-api-plugin-part-1/ba-p/4107604)
-* [**NEW:** Apply principles of Zero Trust to Microsoft Copilot for Security](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
+* [How to build a Copilot for Security API Plugin – Part 1](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-build-a-copilot-for-security-api-plugin-part-1/ba-p/4107604)
+* [Apply principles of Zero Trust to Microsoft Copilot for Security](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
 
 ### Features
 
@@ -330,4 +329,4 @@ Since computing capacity and token usage is **variable (quantifying a specific #
 I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage patterns and what ***is and isn't a SCU/workflow.***
 
 
-#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents)
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents).
