@@ -23,8 +23,19 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 | **Table of Contents** |
 --- | --- | ---
-Learn Copilot for Security[/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#learn-copilot-for-security] | [Extend Copilot for Security](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#extend-copilot-for-security) | [Driving Customer Adoption](PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#driving-customer-adoption)
-1 | 2 | 3
+**[Learn Copilot for Security](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#learn-copilot-for-security)** | **[Extend Copilot for Security](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#extend-copilot-for-security)** | **[Driving Customer Adoption](PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#driving-customer-adoption)** |
+| [Overview](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#overview) | [MSSPs](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#mssps) | [Integrations](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#integrations) |
+| [Onboarding](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding) | [Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#plugins) | [Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing) |
+| [Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started) | [Connectors](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#connectors) | |
+| [Features](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#features) | [3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins) | |
+| [Use Cases](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#use-cases) | [Community Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-plugins) | |
+| [Demos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#demos) | |
+| [Videos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos) | |
+| [Roles](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#roles-beyond-soc-analysts) | |
+| [Announcements & Whitepapers](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#announcements--whitepapers) | |
+| [Community Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-resources) | |
+| [AI Security](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#ai-security) | |
+
 
 <table>
 <tr>
@@ -32,7 +43,7 @@ Learn Copilot for Security[/PartnerResources/skilling/microsoft-security-academy
 </tr>
 <tr>
 <td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#learn-copilot-for-security">Learn Copilot for Security</a></b></td>
-<td> Learn Copilot for Security, including [Overview](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#overview), Onboarding, Getting Started, Features, Use Cases, Demos, Videos, Roles, Announcements and Whitepapers, Community Resources, and more. </td>
+<td> Learn Copilot for Security, including Overview, Onboarding, Getting Started, Features, Use Cases, Demos, Videos, Roles, Announcements and Whitepapers, Community Resources, and more. </td>
 </tr>
 <tr>
 <td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#extend-copilot-for-security">Extend Copilot for Security</a></b></td>
@@ -56,6 +67,8 @@ Copilot for Security is globally available as of April-1! Despite the April Fool
 
 
 <div>&nbsp;</div>
+
+___
 
 
 ## Learn Copilot for Security
@@ -189,6 +202,8 @@ We recommend watching the following videos created by Microsoft Security and the
 
 <div>&nbsp;</div>
 
+___
+
 
 ## Extend Copilot for Security
 
@@ -248,6 +263,8 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 
 
 <div>&nbsp;</div>
+
+___
 
 
 ## Driving Customer Adoption
