@@ -21,39 +21,52 @@ The Microsoft Copilot for Security Technical Journey will teach you how to learn
 
 This page is organized into three parts -- Learn Copilot for Security, Extend Copilot for Security, and Driving Customer Adoption.
 
-| **Table of Contents** |
---- | --- | ---
-**[Learn Copilot for Security](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#learn-copilot-for-security)** | **[Extend Copilot for Security](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#extend-copilot-for-security)** | **[Driving Customer Adoption](PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#driving-customer-adoption)** |
-| [Overview](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#overview) | [MSSPs](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#mssps) | [Integrations](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#integrations) |
-| [Onboarding](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding) | [Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#plugins) | [Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing) |
-| [Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started) | [Connectors](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#connectors) | |
-| [Features](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#features) | [3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins) | |
-| [Use Cases](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#use-cases) | [Community Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-plugins) | |
-| [Demos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#demos) | |
-| [Videos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos) | |
-| [Roles](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#roles-beyond-soc-analysts) | |
-| [Announcements & Whitepapers](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#announcements--whitepapers) | |
-| [Community Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-resources) | |
-| [AI Security](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#ai-security) | |
-
 
 <table>
-<tr>
-<td colspan="2" style="text-align: center;">Table of Contents</td>
-</tr>
-<tr>
-<td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#learn-copilot-for-security">Learn Copilot for Security</a></b></td>
-<td> Learn Copilot for Security, including Overview, Onboarding, Getting Started, Features, Use Cases, Demos, Videos, Roles, Announcements and Whitepapers, Community Resources, and more. </td>
-</tr>
-<tr>
-<td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#extend-copilot-for-security">Extend Copilot for Security</a></b></td>
-<td>Extend Copilot for Security, including granting an MSSP access, Plugins, Connectors, 3P Plugins, and Community-based Plugins. </td>
-</tr>
-<tr>
-<td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#driving-customer-adoption">Driving Customer Adoption</a></b></td>
-<td> Driving Customer Adoption, including Pricing, Integrations, Addressing Concerns, Technical Considerations, and Multi-tenant & Delegation Models. </td>
-</tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">Table of Contents</td>
+    </tr>
+    <tr>
+        <td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#learn-copilot-for-security">Learn Copilot for Security</a></b></td>
+        <td>
+            <ul>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#overview">Overview</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding">Onboarding</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started">Get Started</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#features">Features</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#use-casess">Use Cases</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#demos">Demos</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos">Videos</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#roles-beyond-soc-analysts">Roles</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#announcements--whitepapers">Announcements & Whitepapers</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-resources">Community Resources</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#ai-security">AI Security</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#extend-copilot-for-security">Extend Copilot for Security</a></b></td>
+        <td>
+            <ul>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#mssps">Granting an MSSP access</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#plugins">Plugins</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#connectors">Connectors</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins">3P Plugins</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-plugins">Community Plugins</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#driving-customer-adoption">Driving Customer Adoption</a></b></td>
+        <td>
+            <ul>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#integrations">Integrations</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing">Pricing</a></li>
+            </ul>
+        </td>
+    </tr>
 </table>
+
 
 ### Events
 
@@ -308,7 +321,7 @@ Why is it consumption-based and not per user? The idea is that the flexibility w
 
 To use Copilot for Security, you will need to provision ***at least* one SCU per hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr per day * 365day per yr). Your ***monthly*** bill is calculated as (SCUs per hr) x $4 x 730/month or you can leverage the [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.** Once an analyst is nearing the capacity limit, they will receive a warning and the option to increase the capacity.
 
-If you delete Copilot for Security (zero SCUs per hr), we will retain your data for 90 days. **Tenant-level MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
+If you delete Copilot for Security (zero SCUs per hr), we will retain your data for 90 days. **Tenant-level MDTI workbench is included with Copilot for Security** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
 
 Since computing capacity and token usage is **variable (quantifying a specific # of tokens or SCUs/workflows needed per prompt/Promptbook is difficult)**, it's important for partners to know what they can do *now:*
 
