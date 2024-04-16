@@ -91,7 +91,7 @@ Are you ready to get started? Dive into onboarding guidance, prompt engineering 
 * [Microsoft Copilot for Security experiences](https://learn.microsoft.com/en-us/security-copilot/experiences-security-copilot?view=o365-worldwide)
 * [Navigate Copilot for Security](https://learn.microsoft.com/en-us/security-copilot/navigating-security-copilot?view=o365-worldwide)
 * [Create effective prompts](https://learn.microsoft.com/en-us/security-copilot/prompting-tips?view=o365-worldwide)
-* [What is a compound AI system?](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) -- Through orchestration, Copilot for Security reasons across our Security Stack and responds with real-time, relevant, and accurate insights
+* [What is a compound AI system?](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 
 ### Onboarding
 
