@@ -15,74 +15,70 @@ tags:
 
 ## What is Copilot for Security? 🤔
 
-Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals. At its core, Microsoft Copilot for Security is a [compound AI system](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) and through orchestration, it's able to reason across an ecosystem, and respond to a user with real-time, relevant, and accurate insights.
+Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals. 
+
+Microsoft Copilot for Security is also a **[compound AI system](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)** and through orchestration, it reasons across our security stack and responds to users with real-time, relevant, and accurate insights.
 
 ## April 16th, 2024 Update📰
 
-Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all the recent developments, my colleague Sameh Younis and I recently redesigned this page. More updates are coming. Stay tuned.
+Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all of the recent developments, my colleague Sameh Younis and I redesigned this page. Even more updates are coming. Stay tuned.
 
-If you're a partner, explore our new [Partner Landing Page!](https://securitypartners.transform.microsoft.com/security-copilot). If you're already familiar with Copilot for Security, join the **[Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)** for insights into new features.
+If you're a partner, explore our new [Partner Landing Page](https://securitypartners.transform.microsoft.com/security-copilot)! If you're already familiar with Copilot for Security, join the **[Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)** for insights into new features.
 
 It's been 2+ weeks since GA and we're still receiving some questions about why Copilot for Security is automatically appearing in Defender XDR. Since Copilot for Security uses Role-based access controls (RBAC) and operates in tandem with existing user permissions, if you belong to an RBAC group with access, you will not be able to disable it.
 
-We're aware of this issue and a fix should come soon. If you're new to Copilot for Security or just getting started, I’ve added some **[onboarding guidance](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)** and details about Copilot for Security's **[newly-released pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing).** below.
+We're aware of this issue and a fix should come soon. If you're new to Copilot for Security or just getting started, I’ve added some **[onboarding guidance](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)** and details about Copilot for Security's **[pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)** below.
 
-[Prompt engineering in Copilot for Security](https://learn.microsoft.com/en-us/security-copilot/prompting-tips) plays a critical role in creating specific, high-quality outputs. Explore the **[Copilot for Security Promptbooks Library](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts)** and the **[Copilot for Security Sample Prompts Library](https://github.com/Azure/Copilot-For-Security/tree/main/Sample%20Prompts)** for Promptbooks and prompting templates.
+[Prompt engineering in Copilot for Security](https://learn.microsoft.com/en-us/security-copilot/prompting-tips) plays a critical role in creating specific, high-quality outputs. Explore the **[newly-released Copilot for Security Promptbooks Library](https://github.com/Azure/Copilot-For-Security/tree/main/Promptbook%20samples)** and the **[newly-released Copilot for Security Sample Prompts Library](https://github.com/Azure/Copilot-For-Security/tree/main/Sample%20Prompts)** for Promptbooks and prompting templates.🎉
 
-## Events
+### Events
 
 * [**Microsoft Copilot for Security Partner Boot Camp** (April 16-17, 9:00 AM - 1:00 PM PDT)](https://vshow.on24.com/vshow/FY24_SDepth/registration/23173)
 
-Several colleagues developed extensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops)**  designed to enhance your skills and knowledge. They're well worth your time! These workshops are tailored specifically for security professionals, system administrators, and all others interested in harnessing the power of AI to bolster their security infrastructure.
+Several colleagues have created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).** They're well worth your time and cater specifically to security professionals, administrators, and all others interested in levaraging the power of AI to bolster security infrastructure.
 
 
 ## Table of Contents
-All resources are organized into three parts -- Learn Copilot for Security, Extend Copilot for Security, and Driving Customer Adoption. 
+
+This page is organized into three parts -- Learn Copilot for Security, Extend Copilot for Security, and Driving Customer Adoption.
 
 <table>
 <tr>
 <td colspan="2" style="text-align: center;">Table of Contents</td>
 </tr>
 <tr>
-<td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing">Learn Copilot for Security</a></b></td>
-<td>Learn Copilot for Security, including Overview, Onboarding, Getting Started, Features, Use Cases, Integrations, Videos, Demos, Roles, Announcements and whitepapers, Community Resources, and more. </td>
+<td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#learn-copilot-for-security">Learn Copilot for Security</a></b></td>
+<td>Learn Copilot for Security, including Overview, Onboarding, Getting Started, Features, Use Cases, Demos, Videos, Roles, Announcements and Whitepapers, Community Resources, and more. </td>
 </tr>
 <tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/openai">Azure OpenAI</a></b></td>
-<td>
-Generative AI, including GPT, Codex, DALL-E, and ChatGPT
-</td>
+<td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#extend-copilot-for-security">Extend Copilot for Security</a></b></td>
+<td>Extend Copilot for Security, including granting an MSSP access, Plugins, Connectors, 3P Plugins, and Community-based Plugins. </td>
 </tr>
 <tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/applied-ai">Scenario-based Services</a></b></td>
-<td> Document Intelligence, Azure AI Search, Metrics Advisor, Personalizer, Video Indexer, Anomaly Detector, and Power Virtual Agents</td>
-</tr>
-<tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/build-your-own-ml">Build Your Own ML</a></b></td>
-<td>Custom ML with Notebooks, Auto ML, Designer using Azure ML</td>
-</tr>
-<tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/aml-plat">ML Platform</a></b></td>
-<td>Train and Deploy models across a host of environments and compute types</td>
-</tr>
-<tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/mlops">ML Engineering in Production (MLOps)</a></b></td>
-<td>Azure DevOps, GitHub Actions, Kubeflow
-</td>
+<td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#driving-customer-adoption">Driving Customer Adoption</a></b></td>
+<td> Driving Customer Adoption, including Pricing, Integrations, Addressing Concerns, Technical Considerations, and Multi-tenant & Delegation Models. </td>
 </tr>
 </table>
 
 
-## Secure Update🔓
+### Secure Update🔓
 
 Read [Vasu Jakkal's Copilot for Security April-1 global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/). Copilot for Security has grown into an ecosystem of more than [100 partners](https://securitypartners.transform.microsoft.com/copilot-private-preview-partners)! As the ecosystem continues to grow, so too will **[Non-Microsoft plugins](https://learn.microsoft.com/en-us/security-copilot/plugin-other).** As a partner, learn how to create and manage your own custom plugins **[here](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin).**
 
 Also, explore the results of our recent **[Randomized Controlled Trial for Copilot for Security](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us).**
 
-# Learn Copilot for Security
+## Learn Copilot for Security
+
 Are you ready to get started?
 
-## Onboarding
+### Overview
+
+* [What is Microsoft Copilot for Security?](https://learn.microsoft.com/en-us/security-copilot/microsoft-security-copilot?view=o365-worldwide)
+* [Microsoft Copilot for Security experiences](https://learn.microsoft.com/en-us/security-copilot/experiences-security-copilot?view=o365-worldwide)
+* [Navigate Copilot for Security](https://learn.microsoft.com/en-us/security-copilot/navigating-security-copilot?view=o365-worldwide)
+* [Create effective prompts](https://learn.microsoft.com/en-us/security-copilot/prompting-tips?view=o365-worldwide)
+
+### Onboarding
 
 You can provision Copilot for Security within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during deployment. When provisioning Copilot for Security, you can purchase capacity in these **four regions:** East US, West Europe, UK South, and Australia East.
 
@@ -94,27 +90,19 @@ I recommend starting with Promptbooks. You can easily add tags, edit, share, run
 
 Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT files. You can upload files up to 20 MB in total. Copilot for Security reasons over files to generate more relevant and specific responses. Learn more about uploading your own files **[here](https://learn.microsoft.com/en-us/security-copilot/upload-file).**
 
-## Overview
-
-* [What is Microsoft Copilot for Security?](https://learn.microsoft.com/en-us/security-copilot/microsoft-security-copilot?view=o365-worldwide)
-* [Microsoft Copilot for Security experiences](https://learn.microsoft.com/en-us/security-copilot/experiences-security-copilot?view=o365-worldwide)
-* [Navigate Copilot for Security](https://learn.microsoft.com/en-us/security-copilot/navigating-security-copilot?view=o365-worldwide)
-* [Create effective prompts](https://learn.microsoft.com/en-us/security-copilot/prompting-tips?view=o365-worldwide)
-
-## Get Started
+### Get Started
 
 * [Get started](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot?view=o365-worldwide)
 * [Understand authentication](https://learn.microsoft.com/en-us/security-copilot/authentication?view=o365-worldwide)
 * [Best practices for Microsoft Entra roles](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/best-practices#1-apply-principle-of-least-privilege)
 * [Prompting](https://learn.microsoft.com/en-us/security-copilot/prompting-security-copilot?view=o365-worldwide)
 * [Promptbooks](https://learn.microsoft.com/en-us/security-copilot/using-promptbooks?view=o365-worldwide)
-* [Improving Threat Hunting Efficiency using Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/improving-threat-hunting-efficiency-using-copilot-for-security/ba-p/4077527)
 * [Leveraging Generative AI for Efficient Security Investigation Summaries](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/leveraging-generative-ai-for-efficient-security-investigation/ba-p/4049630)
 * [What does good prompt engineering look like?](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)
 * [**NEW:** How to build a Copilot for Security API Plugin – Part 1](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-build-a-copilot-for-security-api-plugin-part-1/ba-p/4107604)
 * [**NEW:** Apply principles of Zero Trust to Microsoft Copilot for Security](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
 
-## Features
+### Features
 
 * Incident Response — Summarize incidents, assess impact, and receive tailored remediation guidance, including for triage, investigation, and containment.
 * Security Reports — Summarize investigations, incidents, vulnerabilities, or threats in minutes and prepare the information in ready-to-share reports.
@@ -131,7 +119,7 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * **More Proactive Threat Hunting:** Empowers teams with AI-powered recommendations.
 * **Empowering Staff:** Frees senior staff for strategic work and strengthens junior staff expertise.
 
-## Use Cases
+### Use Cases
 
 * [Triage incidents with enriched threat intelligence](https://learn.microsoft.com/en-us/security-copilot/triage-alert-with-enriched-threat-intel?view=o365-worldwide)
 * [Investigate an incident's malicious script](https://learn.microsoft.com/en-us/security-copilot/investigate-incident-malicious-script?view=o365-worldwide)
@@ -145,7 +133,7 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Respond to identity threats in Entra](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-entra-risky-user-summarization)
 * [Summarize the latest threats in MDTI](https://learn.microsoft.com/en-us/defender/threat-intelligence/using-copilot-threat-intelligence-defender-xdr#prioritize-which-threats-to-focus-on)
 
-## Demos
+### Demos
 
 * [Business Email Compromise (BEC)](https://securitypartners.transform.microsoft.com/copilot-for-security-demo-01)
 * [Human-operated ransomware (HumOR)](https://securitypartners.transform.microsoft.com/copilot-for-security-demo-02)
@@ -154,28 +142,110 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Cloud compromise](https://securitypartners.transform.microsoft.com/copilot-for-security-demo-05)
 * [Troubleshooting](https://securitypartners.transform.microsoft.com/copilot-for-security-demo-06)
 
-## Videos
+### Videos
 
 We recommend watching the following videos created by Microsoft Security and the Global Partner Solutions (GPS) Technical Team:
 
 <table>
   <tr style="vertical-align:top">
-   <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><img src="https://img.youtube.com/vi/0lg_derTkaM/maxresdefault.jpg" alt="How Microsoft Copilot for Security works" width="300" height="250"></a></td>
+   <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><img src="https://img.youtube.com/vi/0lg_derTkaM/maxresdefault.jpg" alt="How Microsoft Copilot for Security works" width="250" height="250"></a></td>
     <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><b>How Microsoft Copilot for Security works</b></a><br><br>Ryan Munsch, from the Copilot for Security team, joins host Jeremy Chapman to share how Copilot for Security is an enterprise-grade natural language interface for your organization's security data.</td>
   </tr>
   <tr style="vertical-align:top">
-   <td><a href="https://www.youtube.com/watch?v=dNvdeJA6m4g"><img src="https://img.youtube.com/vi/dNvdeJA6m4g/maxresdefault.jpg" alt="Prepare for New Threats with Microsoft Copilot for Security" width="300" height="250"></a></td>
+   <td><a href="https://www.youtube.com/watch?v=dNvdeJA6m4g"><img src="https://img.youtube.com/vi/dNvdeJA6m4g/maxresdefault.jpg" alt="Prepare for New Threats with Microsoft Copilot for Security" width="250" height="250"></a></td>
     <td><a href="https://www.youtube.com/watch?v=dNvdeJA6m4g"><b>Prepare for New Threats with Microsoft Copilot for Security</b></a><br><br>Join Dave and Zach as they discuss how to prepare for new threats in an era of increasingly complex cyberattacks with Microsoft Copilot for Security. Explore Copilot for Security’s interface, how a partner gains access, the power of plugins and Promptbooks, data security and privacy, AI threats and how we at Microsoft defeat them, and our Responsible AI story.</td>
-  </tr>
-  <tr style="vertical-align:top">
-   <td><a href="https://youtu.be/2mL9iDr_lUY?si=ePBzuIBQT8In-zz8"><img src="https://img.youtube.com/vi/2mL9iDr_lUY/maxresdefault.jpg" alt="Microsoft Copilot for Security & Tanium Demo" width="300" height="250"></a></td>
-    <td><a href="https://youtu.be/2mL9iDr_lUY?si=lWO3C49hAFIPrhqs"><b>Microsoft Copilot for Security & Tanium Demo</b></a><br><br>Tanium introduces their Copilot for Security proof of concept to enable responses in minutes with real-time visibility.</td>
   </tr>
 </table>
 
-#### Also explore [Microsoft's Copilot for Security YouTube Playlist](https://www.youtube.com/watch?v=sNaxv2zflmc&list=PL3ZTgFEc7LyuQRLD61q9YqPKEDlZj4j5u)
+#### Also explore [Microsoft's Copilot for Security YouTube Playlist](https://www.youtube.com/watch?v=sNaxv2zflmc&list=PL3ZTgFEc7LyuQRLD61q9YqPKEDlZj4j5u)📹
 
-## Pricing📌
+### Roles beyond SOC Analysts​
+
+* **DLP​ Analysts:​** Summarize DLP alerts and analyze DLP policy configurations.
+* **Insider​ Risk Analysts:​** Summarize Insider Risk Management alerts and gain context around users with risky behavior​.
+* **IT​ Admins:** Create device configuration profiles in Intune and leverage data-driven configuration troubleshooting and remediation​.
+* **eDiscovery​ Analysts​:** Generate Keyword Query Language from NL in eDiscovery and summarize evidence collected.
+* **Identity Access Management​ Admins:** Discover high risk users, overprivileged access, suspicious sign-ins in Entra.
+
+### Announcements & Whitepapers
+
+* [Whitepaper -- Microsoft Copilot for Security -- Working with the Microsoft Security stack and 3Ps](https://go.microsoft.com/fwlink/?linkid=2262593)
+* [Randomized Controlled Trial for Copilot for Security](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us)
+* [Vasu Jakkal's Copilot for Security April-1 global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/)
+
+### Community Resources
+
+* [Join the Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)
+* [Microsoft Copilot for Security Tech Community Blog](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog)
+* [OpenAI's GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+* [Introduction to red teaming large language models (LLMs)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming?utm_source=substack&utm_medium=email)
+* [Why AI Will Save the World](https://a16z.com/2023/06/06/ai-will-save-the-world/?utm_source=substack&amp;utm_medium=email)
+
+### AI Security
+
+* Learn more about our approach to **[Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).**
+* **[MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/?utm_source=substack&utm_medium=email)**
+* [Must Learn AI Security](https://github.com/rod-trent/OpenAISecurity/tree/main/Must_Learn)
+* [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
+
+
+## Extend Copilot for Security
+
+Learn how to grant an MSSP access to your Copilot for Security environment and how to use and create plugins. Copilot for Security plugins enhance the platform’s capabilities by acting as connectors, enabling seamless integration with infinite partners and third-parties, allowing for custom functionality. To create a plugin, you will need the correct instance URL and API token.
+
+### MSSPs
+
+* [Grant MSSP access](https://learn.microsoft.com/en-us/security-copilot/grant-access-external-users?view=o365-worldwide)
+
+### Plugins
+
+* [Overview](https://learn.microsoft.com/en-us/security-copilot/plugin-overview?view=o365-worldwide)
+* [Other plugins](https://learn.microsoft.com/en-us/copilot/security/plugin-other) -- ***Non-Microsoft plugins***
+* [API](https://learn.microsoft.com/en-us/security-copilot/plugin-api?view=o365-worldwide)
+* [GPT](https://learn.microsoft.com/en-us/security-copilot/plugin-gpt?view=o365-worldwide)
+* [KQL](https://learn.microsoft.com/en-us/security-copilot/plugin-kql?view=o365-worldwide)
+* [Manage plugins](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?view=o365-worldwide&tabs=securitycopilotplugin)
+* [Plugin error codes](https://learn.microsoft.com/en-us/security-copilot/plugin-error-codes?view=o365-worldwide)
+
+### Connectors
+
+* [Overview](https://learn.microsoft.com/en-us/connectors/securitycopilot/)
+* [Logic Apps](https://learn.microsoft.com/en-us/security-copilot/connector-logicapp?view=o365-worldwide)
+* [Microsoft Copilot for Security Logic Apps Templates](https://github.com/Azure/Copilot-For-Security/tree/main/Logic%20Apps)
+
+### 3P Plugins
+
+* [Computer Incident Response Center Luxembourg (CIRCL)](https://learn.microsoft.com/en-us/copilot/security/plugin-circl) -- CIRCL is a government initiative that provides a systematic response to incidents
+* [CrowdSec Threat Intelligence](https://learn.microsoft.com/en-us/copilot/security/plugin-crowdsec) -- CrowdSec provides information about IPs and identification and verification of potentially malicious IPs
+* [Cyware Respond](https://learn.microsoft.com/en-us/copilot/security/plugin-cyware) -- Cyware is an end-to-end incident management and threat response platform
+* [GreyNoise](https://learn.microsoft.com/en-us/copilot/security/plugin-greynoise) -- GreyNoise collects and analyzes Internet-wide scan and attack data
+* [Netskope](https://learn.microsoft.com/en-us/copilot/security/plugin-netskope) -- Netskope is a cloud-native platform that combines security and networking services, enabling Secure Access Services Edge (SASE) and Zero Trust
+* [Tanium](https://learn.microsoft.com/en-us/copilot/security/plugin-tanium) -- Tanium is a converged endpoint management (XEM) platform
+* [UrlScan](https://learn.microsoft.com/en-us/copilot/security/plugin-urlscan) -- UrlScan allows users to scan and analyze potentially malicious URLs
+* [Valence Security](https://learn.microsoft.com/en-us/copilot/security/plugin-valence) -- Valence combines SaaS security posture management (SSPM) and advanced remediation
+
+### Community Plugins
+
+***Disclaimer: Some of these plugins were developed and are maintained by the community and are not owned or managed by Microsoft.***
+
+* [Gather reputation and abuse reports for an IP Address](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/AbuseIPDB)
+* [Censys](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Censys) -- Censys regularly probes public IPs and domains
+* [Send Copilot for Security outputs to a designated email address](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Copilot%20For%20Security%20Output%20To%20Email)
+* [Microsoft Defender's Daily Operations](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/DefenderDailyOperations)
+* [GCP Audit Logs](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/GCP%20Audit%20Logs)
+* [Entra Sign-in Logs from Azure Data Explorer (ADX)](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/HuntSignInLogs-ADX)
+* [openSquat](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Open%20Squat#opensquat-custom-plugin-osint-security-tool-for-cyber-squatting-threats) -- openSquat is an open-source Intelligence (OSINT) security tool
+* [Estimate Microsoft Sentinel costs](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Sentinel%20Cost%20Query%20Plugin)
+* [Microsoft Sentinel's Daily Operations](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/SentinelDailyOperations)
+* [Shodan](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Shodan) -- Shodan is the world’s first search engine for Internet-connected devices
+* [VirusTotal](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/VirusTotal) -- VirusTotal analyzes files and URLs for malware and malicious content
+
+
+## Driving Customer Adoption
+
+Microsoft Copilot for Security enables customers and partners to proactively defend against cyber threats, streamline security workflows, and protect critical assets. Learn how to drive customer adoption below.
+
+### Pricing📌
 
 Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU per hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a Copilot workload. The amount of SCUs needed depends on the complexity of the given workload. The pricing is consistent across the standalone experience and the embedded experiences as well as regions.
 
@@ -193,93 +263,7 @@ Since computing capacity and token usage is **variable (quantifying a specific #
 
 I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage patterns and what ***is and isn't a SCU/workflow.***
 
-## Roles beyond SOC Analysts​
-
-* **DLP​ Analysts:​** Summarize DLP alerts and analyze DLP policy configurations.
-* **Insider​ Risk Analysts:​** Summarize Insider Risk Management alerts and gain context around users with risky behavior​.
-* **IT​ Admins:** Create device configuration profiles in Intune and leverage data-driven configuration troubleshooting and remediation​.
-* **eDiscovery​ Analysts​:** Generate Keyword Query Language from NL in eDiscovery and summarize evidence collected.
-* **Identity Access Management​ Admins:** Discover high risk users, overprivileged access, suspicious sign-ins in Entra.
-
-## Announcements & Whitepapers
-
-* [Whitepaper -- Microsoft Copilot for Security -- Working with the Microsoft security stack and 3P](https://go.microsoft.com/fwlink/?linkid=2262593)
-* [Randomized Controlled Trial for Copilot for Security](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us)
-* [Vasu Jakkal's Copilot for Security April-1 global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/)
-
-## Community Resources
-
-* [Join the Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)
-* [Microsoft Copilot for Security Tech Community Blog](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog)
-* [OpenAI's GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
-* [Microsoft AI Red Team Building a Future of Safer AI](https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/?utm_source=substack&utm_medium=email)
-* [Why AI Will Save the World](https://a16z.com/2023/06/06/ai-will-save-the-world/?utm_source=substack&amp;utm_medium=email)
-
-## AI Security Resources
-
-* Learn more about our approach to **[Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).**
-* **[MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/?utm_source=substack&utm_medium=email)**
-* **[Must Learn AI Security](https://github.com/rod-trent/OpenAISecurity/tree/main/Must_Learn)**
-* [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
-* [Introduction to red teaming large language models (LLMs)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming?utm_source=substack&utm_medium=email)
-
-# Extend Copilot for Security
-
-Learn how to grant an MSSP access to your Copilot for Security environment or how to use and create plugins. Copilot for Security plugins enhance the platform’s capabilities by acting as connectors, enabling seamless integration with infinite partners and third-parties, allowing for custom functionality. To create a plugin, you will need the correct instance URL and API token.
-
-## MSSP
-
-* [Grant MSSP access](https://learn.microsoft.com/en-us/security-copilot/grant-access-external-users?view=o365-worldwide)
-
-## Plugins
-
-* [Overview](https://learn.microsoft.com/en-us/security-copilot/plugin-overview?view=o365-worldwide)
-* [Other plugins](https://learn.microsoft.com/en-us/copilot/security/plugin-other) -- ***Non-Microsoft plugins***
-* [API](https://learn.microsoft.com/en-us/security-copilot/plugin-api?view=o365-worldwide)
-* [GPT](https://learn.microsoft.com/en-us/security-copilot/plugin-gpt?view=o365-worldwide)
-* [KQL](https://learn.microsoft.com/en-us/security-copilot/plugin-kql?view=o365-worldwide)
-* [Manage plugins](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?view=o365-worldwide&tabs=securitycopilotplugin)
-* [Plugin error codes](https://learn.microsoft.com/en-us/security-copilot/plugin-error-codes?view=o365-worldwide)
-
-## Connectors
-
-* [Overview](https://learn.microsoft.com/en-us/connectors/securitycopilot/)
-* [Logic Apps](https://learn.microsoft.com/en-us/security-copilot/connector-logicapp?view=o365-worldwide)
-* [Microsoft Copilot for Security Logic Apps Templates](https://github.com/Azure/Copilot-For-Security/tree/main/Logic%20Apps)
-
-## Third-Party Plugins
-
-* [Computer Incident Response Center Luxembourg (CIRCL)](https://learn.microsoft.com/en-us/copilot/security/plugin-circl) -- CIRCL is a government initiative that provides a systematic response to threats and incidents
-* [CrowdSec Threat Intelligence](https://learn.microsoft.com/en-us/copilot/security/plugin-crowdsec) -- CrowdSec provides information about IPs and verification of potentially malicious IPs
-* [Cyware Respond](https://learn.microsoft.com/en-us/copilot/security/plugin-cyware) -- Cyware is an end-to-end incident management and threat response platform
-* [GreyNoise](https://learn.microsoft.com/en-us/copilot/security/plugin-greynoise) -- GreyNoise collects and analyzes Internet-wide scans and attack data
-* [Netskope](https://learn.microsoft.com/en-us/copilot/security/plugin-netskope) -- Netskope One is a cloud-native platform that combines security and networking services, enabling Secure Access Services Edge (SASE) and Zero Trust
-* [Tanium](https://learn.microsoft.com/en-us/copilot/security/plugin-tanium) -- Tanium is a converged endpoint management (XEM) platform
-* [UrlScan](https://learn.microsoft.com/en-us/copilot/security/plugin-urlscan) -- UrlScan allows users to scan and analyze potentially malicious URLs
-* [Valence Security](https://learn.microsoft.com/en-us/copilot/security/plugin-valence) -- Valence combines SaaS security posture management (SSPM) and advanced remediation
-
-## Community Plugins
-
-Plugins developed by the Community for Microsoft Security Copilot through contribtions.
-
-* [Gather reputation and abuse reports for an IP Address](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/AbuseIPDB)
-* [Censys](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Censys) -- Censys regularly probes public IPs and domains
-* [Send Copilot for Security outputs to a designated email address](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Copilot%20For%20Security%20Output%20To%20Email)
-* [Gain insights into Microsoft Defender's daily operations](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/DefenderDailyOperations)
-* [GCP Audit Logs](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/GCP%20Audit%20Logs)
-* [Entra Sign-in Logs from Azure Data Explorer (ADX)](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/HuntSignInLogs-ADX)
-* [openSquat](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Open%20Squat#opensquat-custom-plugin-osint-security-tool-for-cyber-squatting-threats) -- openSquat is an open-source Intelligence (OSINT) security tool
-* [Estimate Microsoft Sentinel costs](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Sentinel%20Cost%20Query%20Plugin)
-* [Gain insights into Microsoft Sentinel's daily operations](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/SentinelDailyOperations)
-* [Shodan](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Shodan) -- Shodan is the world’s first search engine for Internet-connected devices
-* [VirusTotal](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/VirusTotal) -- VirusTotal analyzes files and URLs for malware and malicious content
-
-
-# Driving Customer Adoption
-
-Microsoft Copilot for Security enables customers and partners to proactively defend against cyber threats, streamline security workflows, and protect critical assets. Learn how to drive customer adoption below.
-
-## Service Integrations
+### Integrations
 
 * [Microsoft Copilot for Security in Microsoft Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-in-microsoft-365-defender?view=o365-worldwide&bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Copilot for Security in Microsoft Entra](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-security-entra?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
@@ -288,28 +272,22 @@ Microsoft Copilot for Security enables customers and partners to proactively def
 * [Microsoft Copilot for Security and Microsoft Defender Threat Intelligence](https://learn.microsoft.com/en-us/defender/threat-intelligence/security-copilot-and-defender-threat-intelligence?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Copilot for Security in Microsoft Purview](https://learn.microsoft.com/en-us/purview/copilot-in-purview-overview?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 
-#### Address Concerns
+### Address Concerns
 
 * [OAuth 2.0 On-Behalf-Of flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow)
 * [Privileged Identity Management (PIM)](https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/)
 * [MDE Device Scope Groups](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/machine-groups?view=o365-worldwide)
 
-##### Technical Considerations
+### Technical Considerations
 
 * **Assist a Human in Completing Work** – It's a Copilot, integrations are driven by/drive human engagement, not background runtime processing of substantial amounts of data.
 * **Have High Customer Value** — The cost of Generative AI is orders of magnitude higher per transaction than your average feature today and depends on a constrained hardware supply (GPUs).
 * **Will be Regularly Used** — The best integrations will be used regularly so it is ongoing value, not a one-time value (like a configuration assistant).
 
-#### Multi-tenant & Delegation Models
+### Multi-tenant & Delegation Models
 
 * [Grant MSSP access](https://learn.microsoft.com/en-us/security-copilot/grant-access-external-users?view=o365-worldwide)
 * [B2B collaboration](https://learn.microsoft.com/en-us/entra/external-id/what-is-b2b)
 * [Granular Delegated Admin Privileges (GDAP)](https://learn.microsoft.com/en-us/partner-center/gdap-introduction) — ***Coming soon to Copilot for Security***
 * [Azure Lighthouse](https://learn.microsoft.com/en-us/azure/lighthouse/) — ***Coming soon to Copilot for Security***
 * [Microsoft 365 Lighthouse](https://learn.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-overview?view=o365-worldwide) ***Coming soon to Copilot for Security***
-
-
-## Architecture (updated)
-
-
-![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/CfS Arch.png)
