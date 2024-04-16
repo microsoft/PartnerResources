@@ -270,9 +270,7 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 * [VirusTotal](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/VirusTotal) -- VirusTotal analyzes files and URLs for malware and malicious content
 
 
-#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents)
-
-**Are you ready to drive customer adoption?**
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents). Are you ready to drive customer adoption?
 
 
 <div>&nbsp;</div>
