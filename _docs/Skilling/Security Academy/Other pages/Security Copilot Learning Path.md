@@ -26,7 +26,7 @@ With AI, we can build solutions that seemed like science fiction a short time ag
 * [Challenges and risks with AI](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/7-challenges-with-ai)
 * [Understand Responsible AI](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/8a-understand-responsible-ai)
 
-## [Fundamentals of Generative AI](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/) (40 min)
+## [Fundamentals of Generative AI](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/) (40 min)
 
 In this module you'll explore the way in which large language models (LLMs) enable AI applications and services to generate original content based on natural language input. You’ll also learn how generative AI enables the creation of AI-powered Copilots that can assist humans in creative tasks.
 
@@ -38,7 +38,7 @@ In this module you'll explore the way in which large language models (LLMs) enab
 * [Improve generative AI responses with prompt engineering](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/6-writing-prompts)
 * [Exercise -- Explore generative AI with Bing Copilot](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/7-exercise)
 
-## [Fundamentals of Responsible Generative AI](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/) (50 min)
+## [Fundamentals of Responsible Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/) (50 min)
 
 Generative AI enables creative solutions but must be implemented responsibly to minimize the risk of harmful content generation.
 
@@ -61,7 +61,7 @@ Get acquainted with Microsoft Copilot for Security. You are introduced to basic 
 * [Describe the elements of an effective prompt](https://learn.microsoft.com/en-us/training/modules/security-copilot-getting-started/5-create-effective-prompts)
 * [Describe how to enable Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-getting-started/6-describe-how-to-enable-security-copilot)
 
-## [Describe the core features of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-getting-started/) (32 min)
+## [Describe the core features of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-describe-core-features/) (38 min)
 
 Microsoft Copilot for Security has a rich set of features. Learn about available plugins, promptbooks, the ways you can export and share information from Copilot, and much more.
 
@@ -72,7 +72,7 @@ Microsoft Copilot for Security has a rich set of features. Learn about available
 * [Describe custom promptbooks](https://learn.microsoft.com/en-us/training/modules/security-copilot-describe-core-features/5-describe-custom-promptbooks)
 * [Describe knowledge base connections](https://learn.microsoft.com/en-us/training/modules/security-copilot-describe-core-features/5a-describe-knowledge-base-connections)
 
-## [Describe the embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-getting-started/) (32 min)
+## [Describe the embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) (34 min)
 
 Microsoft Copilot for Security is accessible directly from some Microsoft security products, this is referred to as the embedded experience. Learn about the scenarios supported by the Copilot embedded experience in Microsoft’s security solutions.
 

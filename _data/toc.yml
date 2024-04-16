@@ -341,12 +341,12 @@
         - title: Copilot for Security
           url: "skilling/microsoft-security-academy/microsoft-copilot-for-security"
           tag: msa
-          children: 
-            - title: Learning Path
-              url: "skilling/microsoft-security-academy/microsoft-copilot-for-security-learning-path"
-              tag: msa
+          children:
             - title: Q&A
               url: "skilling/microsoft-security-academy/microsoft-copilot-for-security-qa"
+              tag: msa
+            - title: Learning Path
+              url: "skilling/microsoft-security-academy/microsoft-copilot-for-security-learning-path"
               tag: msa
         - title: Modules
           url: "skilling/microsoft-security-academy/modules"
