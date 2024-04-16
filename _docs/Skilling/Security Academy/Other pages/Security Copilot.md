@@ -57,12 +57,12 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 * [**Microsoft Copilot for Security Partner Boot Camp** (April 16-17, 9:00 AM - 1:00 PM PDT)](https://vshow.on24.com/vshow/FY24_SDepth/registration/23173)
 
-Several colleagues have created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).** They're well worth your time and cater specifically to security professionals, administrators, and all others interested in levaraging the power of AI to bolster security infrastructure.
+Several colleagues have created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).** They're well worth your time and cater specifically to security professionals, administrators, and all others interested in leveraging the power of AI to bolster security infrastructure.
 
 
 ## Learn Copilot for Security
 
-Are you ready to get started?
+Are you ready to get started? Dive into onboarding guidance, prompt engineering best practices and templates, use cases, demos, roles, community resources, and other relevant documentation.
 
 ### Overview
 
@@ -143,11 +143,11 @@ We recommend watching the following videos created by Microsoft Security and the
 
 <table>
   <tr style="vertical-align:top">
-   <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><img src="https://img.youtube.com/vi/0lg_derTkaM/maxresdefault.jpg" alt="How Microsoft Copilot for Security works" width="300" height="300"></a></td>
+   <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><img src="https://img.youtube.com/vi/0lg_derTkaM/maxresdefault.jpg" alt="How Microsoft Copilot for Security works" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><b>How Microsoft Copilot for Security works</b></a><br><br>Ryan Munsch, from the Copilot for Security team, joins host Jeremy Chapman to share how Copilot for Security is an enterprise-grade natural language interface for your organization's security data.</td>
   </tr>
   <tr style="vertical-align:top">
-   <td><a href="https://www.youtube.com/watch?v=dNvdeJA6m4g"><img src="https://img.youtube.com/vi/dNvdeJA6m4g/maxresdefault.jpg" alt="Prepare for New Threats with Microsoft Copilot for Security" width="300" height="300"></a></td>
+   <td><a href="https://www.youtube.com/watch?v=dNvdeJA6m4g"><img src="https://img.youtube.com/vi/dNvdeJA6m4g/maxresdefault.jpg" alt="Prepare for New Threats with Microsoft Copilot for Security" width="400" height="400"></a></td>
     <td><a href="https://www.youtube.com/watch?v=dNvdeJA6m4g"><b>Prepare for New Threats with Microsoft Copilot for Security</b></a><br><br>Join Dave and Zach as they discuss how to prepare for new threats in an era of increasingly complex cyberattacks with Microsoft Copilot for Security. Explore Copilot for Security’s interface, how a partner gains access, the power of plugins and Promptbooks, data security and privacy, AI threats and how we at Microsoft defeat them, and our Responsible AI story.</td>
   </tr>
 </table>
@@ -186,7 +186,7 @@ We recommend watching the following videos created by Microsoft Security and the
 
 ## Extend Copilot for Security
 
-Learn how to grant an MSSP access to your Copilot for Security environment and how to use and create plugins. Copilot for Security plugins enhance the platform’s capabilities by acting as connectors, enabling seamless integration with infinite partners and third-parties, allowing for custom functionality. To first create a plugin, you will need the correct instance URL and API token.
+Learn how to grant an MSSP access to your Copilot for Security environment and how to use and create plugins. Copilot for Security plugins enhance the platform’s capabilities by acting as connectors, enabling seamless integration with infinite partners and third parties, allowing for custom functionality. To first create a plugin, you will need the correct instance URL and API token.
 
 ### MSSPs
 
