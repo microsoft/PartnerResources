@@ -21,6 +21,11 @@ The Microsoft Copilot for Security Technical Journey will teach you how to learn
 
 This page is organized into three parts -- Learn Copilot for Security, Extend Copilot for Security, and Driving Customer Adoption.
 
+| **Table of Contents** |
+--- | --- | ---
+Learn Copilot for Security[/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#learn-copilot-for-security] | [Extend Copilot for Security](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#extend-copilot-for-security) | [Driving Customer Adoption](PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#driving-customer-adoption)
+1 | 2 | 3
+
 <table>
 <tr>
 <td colspan="2" style="text-align: center;">Table of Contents</td>
@@ -179,9 +184,7 @@ We recommend watching the following videos created by Microsoft Security and the
 * [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
 
 
-#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents).
-
-**Are you ready to extend Copilot for Security?**
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents). Are you ready to extend Copilot for Security?
 
 
 <div>&nbsp;</div>
