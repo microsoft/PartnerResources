@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Copilot for Security
-description: Are you ready for Copilot for Security?
+description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-04-16
+updated: 2024-04-17
 showbreadcrumb: true
 tags: 
 - academy content
@@ -11,25 +11,11 @@ tags:
 - security copilot
 ---
 
-# Copilot for Security Technical Resources
+# Copilot for Security Technical Journey
 
-## What is Copilot for Security? 🤔
+## What is the Copilot for Security Technical Journey?
 
-Microsoft Copilot for Security is the first security product to enable defenders to move at the speed and scale of AI. It combines the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals. 
-
-Microsoft Copilot for Security is also a **[compound AI system](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)** and through orchestration, it reasons across our Microsoft Security stack and responds with real-time, relevant, and accurate insights.
-
-## April 16th, 2024 Update📰
-
-Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all of the recent developments, my colleague Sameh Younis and I redesigned this page. Even more updates are coming. Stay tuned.
-
-If you're a partner, explore our new [Partner Landing Page](https://securitypartners.transform.microsoft.com/security-copilot)! If you're already familiar with Copilot for Security, join the **[Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)** for insights into new and upcoming features.
-
-It's been 2+ weeks since GA and we're still receiving some questions about why Copilot for Security is automatically appearing in Defender XDR. Since Copilot for Security uses Role-based access controls (RBAC) and operates in tandem with existing user permissions, if you belong to an RBAC group with access, you will not be able to disable it.
-
-We're aware of this issue and a fix should come soon. If you're new to Copilot for Security or just getting started, I’ve added some [onboarding guidance](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding) and details about Copilot for Security's [pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing) below.
-
-[Prompt engineering in Copilot for Security](https://learn.microsoft.com/en-us/security-copilot/prompting-tips) plays a critical role in creating specific, high-quality outputs. Explore the **[newly-released Copilot for Security Promptbooks Library](https://github.com/Azure/Copilot-For-Security/tree/main/Promptbook%20samples)** and the also **[newly-released Copilot for Security Sample Prompts Library](https://github.com/Azure/Copilot-For-Security/tree/main/Sample%20Prompts)** for Promptbooks and prompting templates.🎉
+The Microsoft Copilot for Security Technical Journey will teach you how to learn, extend, and drive customer adoption for Microsoft Copilot for Security, the first security product to enable defenders to move at the speed and scale of AI by leveraging the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
 
 ## Table of Contents
 
@@ -41,7 +27,7 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 </tr>
 <tr>
 <td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#learn-copilot-for-security">Learn Copilot for Security</a></b></td>
-<td>Learn Copilot for Security, including Overview, Onboarding, Getting Started, Features, Use Cases, Demos, Videos, Roles, Announcements and Whitepapers, Community Resources, and more. </td>
+<td> Learn Copilot for Security, including [Overview](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#overview), Onboarding, Getting Started, Features, Use Cases, Demos, Videos, Roles, Announcements and Whitepapers, Community Resources, and more. </td>
 </tr>
 <tr>
 <td><b><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#extend-copilot-for-security">Extend Copilot for Security</a></b></td>
@@ -59,6 +45,13 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 Several colleagues have created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).** They're well worth your time and cater specifically to security professionals, administrators, and all others interested in leveraging the power of AI to bolster security infrastructure.
 
+## April 16th, 2024 Update📰
+
+Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all of the recent developments, my colleague Sameh Younis and I created this Copilot for Security Technical Learning Path. We will update the Journey weekly.
+
+
+<div>&nbsp;</div>
+
 
 ## Learn Copilot for Security
 
@@ -70,6 +63,7 @@ Are you ready to get started? Dive into onboarding guidance, prompt engineering 
 * [Microsoft Copilot for Security experiences](https://learn.microsoft.com/en-us/security-copilot/experiences-security-copilot?view=o365-worldwide)
 * [Navigate Copilot for Security](https://learn.microsoft.com/en-us/security-copilot/navigating-security-copilot?view=o365-worldwide)
 * [Create effective prompts](https://learn.microsoft.com/en-us/security-copilot/prompting-tips?view=o365-worldwide)
+* [What is a compound AI system?](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) -- Through orchestration, Copilot for Security reasons across our Security Stack and responds with real-time, relevant, and accurate insights
 
 ### Onboarding
 
@@ -172,6 +166,7 @@ We recommend watching the following videos created by Microsoft Security and the
 
 * [Join the Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)
 * [Microsoft Copilot for Security Tech Community Blog](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog)
+* [Partner Landing Page](https://securitypartners.transform.microsoft.com/security-copilot)
 * [OpenAI's GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [Introduction to red teaming large language models (LLMs)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming?utm_source=substack&utm_medium=email)
 * [Why AI Will Save the World](https://a16z.com/2023/06/06/ai-will-save-the-world/?utm_source=substack&amp;utm_medium=email)
@@ -182,6 +177,14 @@ We recommend watching the following videos created by Microsoft Security and the
 * **[MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/?utm_source=substack&utm_medium=email)**
 * [Must Learn AI Security](https://github.com/rod-trent/OpenAISecurity/tree/main/Must_Learn)
 * [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
+
+
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents).
+
+**Are you ready to extend Copilot for Security?**
+
+
+<div>&nbsp;</div>
 
 
 ## Extend Copilot for Security
@@ -236,27 +239,17 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 * [VirusTotal](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/VirusTotal) -- VirusTotal analyzes files and URLs for malware and malicious content
 
 
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents)
+
+**Are you ready to drive customer adoption?**
+
+
+<div>&nbsp;</div>
+
+
 ## Driving Customer Adoption
 
 Microsoft Copilot for Security enables customers and partners to proactively defend against cyber threats, streamline security workflows, and protect critical assets. Learn how to drive customer adoption below.
-
-### Pricing📌
-
-Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU per hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a Copilot workload. The amount of SCUs needed depends on the complexity of the given workload. The pricing is consistent across the standalone experience and the embedded experiences as well as regions.
-
-Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing; the more telemetry ingested = the more coverage and insights, so long as it's not *too* much noise). There are no prerequisites, but for the best experience, we recommend that customers have MDE P2 and/or Microsoft Sentinel.
-
-To use Copilot for Security, you will need to provision ***at least* one SCU per hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr per day * 365day per yr). Your ***monthly*** bill is calculated as (SCUs per hr) x $4 x 730/month or you can leverage the [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.** Once an analyst is nearing the capacity limit, they will receive a warning and the option to increase the capacity.
-
-If you delete Copilot for Security (zero SCUs per hr), we will retain your data for 90 days. **Tenant-level MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
-
-Since computing capacity and token usage is **variable (quantifying a specific # of tokens or SCUs/workflows needed per prompt/Promptbook is difficult)**, it's important for partners to know what they can do *now:*
-
-* Measure SCU usage between different use cases (SOC analysts, Purview admins, identity/access admins, etc.)
-* Measure SCU usage between different levels of expertise (Junior analysts vs Senior analysts)
-* Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
-
-I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage patterns and what ***is and isn't a SCU/workflow.***
 
 ### Integrations
 
@@ -286,3 +279,24 @@ I'm assuming beyond the EAP, we're also collecting this data and in good time, w
 * [Granular Delegated Admin Privileges (GDAP)](https://learn.microsoft.com/en-us/partner-center/gdap-introduction) — ***Coming soon to Copilot for Security***
 * [Azure Lighthouse](https://learn.microsoft.com/en-us/azure/lighthouse/) — ***Coming soon to Copilot for Security***
 * [Microsoft 365 Lighthouse](https://learn.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-overview?view=o365-worldwide) ***Coming soon to Copilot for Security***
+
+### Pricing📌
+
+Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU per hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a Copilot workload. The amount of SCUs needed depends on the complexity of the given workload. The pricing is consistent across the standalone experience and the embedded experiences as well as regions.
+
+Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you may use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing; the more telemetry ingested = the more coverage and insights, so long as it's not *too* much noise). There are no prerequisites, but for the best experience, we recommend that customers have MDE P2 and/or Microsoft Sentinel.
+
+To use Copilot for Security, you will need to provision ***at least* one SCU per hr 24x7.** Therefore, the **minimum annual price is $35,040 USD** ($4 * 24hr per day * 365day per yr). Your ***monthly*** bill is calculated as (SCUs per hr) x $4 x 730/month or you can leverage the [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* one SCU/hr.** Once an analyst is nearing the capacity limit, they will receive a warning and the option to increase the capacity.
+
+If you delete Copilot for Security (zero SCUs per hr), we will retain your data for 90 days. **Tenant-level MDTI workbench is included** and while it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
+
+Since computing capacity and token usage is **variable (quantifying a specific # of tokens or SCUs/workflows needed per prompt/Promptbook is difficult)**, it's important for partners to know what they can do *now:*
+
+* Measure SCU usage between different use cases (SOC analysts, Purview admins, identity/access admins, etc.)
+* Measure SCU usage between different levels of expertise (Junior analysts vs Senior analysts)
+* Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
+
+I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage patterns and what ***is and isn't a SCU/workflow.***
+
+
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents)
