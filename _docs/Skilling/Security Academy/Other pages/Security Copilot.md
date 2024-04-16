@@ -11,7 +11,7 @@ tags:
 - security copilot
 ---
 
-# Copilot for Security Technical Journey
+# Copilot for Security Technical Journey <img src="https://raw.githubusercontent.com/Azure/Copilot-For-Security/main/Images/ic_fluent_copilot_64_64%402x.png" alt="CfS Logo" style="width: 200px; height: auto;">
 
 ## What is the Copilot for Security Technical Journey?
 
@@ -20,8 +20,6 @@ The Microsoft Copilot for Security Technical Journey will teach you how to learn
 ## Table of Contents
 
 This page is organized into three parts -- Learn Copilot for Security, Extend Copilot for Security, and Driving Customer Adoption.
-
-<td colspan="2" style="text-align: center;"><b>Table of Contents</b></td>
 
 
 <table>
