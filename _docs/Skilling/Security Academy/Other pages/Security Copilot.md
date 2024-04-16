@@ -11,9 +11,9 @@ tags:
 - security copilot
 ---
 
-# Copilot for Security Technical Journey <img src="https://raw.githubusercontent.com/Azure/Copilot-For-Security/main/Images/ic_fluent_copilot_64_64%402x.png" alt="CfS Logo" style="width: 200px; height: auto;">
+# Copilot for Security Technical Journey
 
-## What is the Copilot for Security Technical Journey?
+## What is the Copilot for Security Technical Journey? <img src="https://raw.githubusercontent.com/Azure/Copilot-For-Security/main/Images/ic_fluent_copilot_64_64%402x.png" alt="CfS Logo" style="width: 25px; height: auto;">
 
 The Microsoft Copilot for Security Technical Journey will teach you how to learn, extend, and drive customer adoption for Microsoft Copilot for Security, the first security product to enable defenders to move at the speed and scale of AI by leveraging the most advanced large language models (LLMs) from OpenAI with large-scale data and threat intelligence, including more than 78 trillion daily security signals.
 
