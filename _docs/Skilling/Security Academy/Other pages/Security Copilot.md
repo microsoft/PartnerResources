@@ -61,7 +61,7 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
         <td>
             <ul>      
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#integrations">Integrations</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#microsoft-security-integration-reference-architecture">Copilot for Security Reference Architecture</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#microsoft-security-integration-reference-architecture">Microsoft Security Integration Reference Architecture</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#address-concerns">Address Concerns</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#technical-considerations">Technical Considerations</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#multi-tenant--delegation-models">Multi-tenant & Delegation Models</a></li>
@@ -201,6 +201,7 @@ We recommend watching the following videos created by Microsoft Security and the
 * [Partner Landing Page](https://securitypartners.transform.microsoft.com/security-copilot)
 * [OpenAI's GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [Introduction to red teaming large language models (LLMs)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming?utm_source=substack&utm_medium=email)
+* [Applied Generative AI (GAI) in Security Blog](https://applied-gai-in-security.ghost.io/)
 * [Why AI Will Save the World](https://a16z.com/2023/06/06/ai-will-save-the-world/?utm_source=substack&amp;utm_medium=email)
 
 ### AI Security
