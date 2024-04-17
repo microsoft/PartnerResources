@@ -61,6 +61,10 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
         <td>
             <ul>      
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#integrations">Integrations</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#microsoft-security-integration-reference-architecture">Copilot for Security Reference Architecture</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#address-concerns">Address Concerns</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#technical-considerations">Technical Considerations</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#multi-tenant--delegation-models">Multi-tenant & Delegation Models</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing">Pricing</a></li>
             </ul> 
         </td>
