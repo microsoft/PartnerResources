@@ -308,6 +308,10 @@ Microsoft Copilot for Security enables customers and partners to proactively def
 * [Azure Lighthouse](https://learn.microsoft.com/en-us/azure/lighthouse/) — ***Coming soon to Copilot for Security***
 * [Microsoft 365 Lighthouse](https://learn.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-overview?view=o365-worldwide) ***Coming soon to Copilot for Security***
 
+#### Copilot for Security Reference Architecture
+
+![CfS Reference Architecture]({{ site.baseurl }}/assets/msa/CfS Reference Arch.jpg)
+
 ### Pricing📌
 
 Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU per hr.** A **Security Compute Unit (SCU)** is Copilot for Security's unit of measurement of computing capacity to run a Copilot workload. The amount of SCUs needed depends on the complexity of the given workload. The pricing is consistent across the standalone experience and the embedded experiences as well as regions.
@@ -326,8 +330,5 @@ Since computing capacity and token usage is **variable (quantifying a specific #
 
 I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage patterns and what ***is and isn't a SCU/workflow.***
 
-#### Copilot for Security Reference Architecture
-
-<img src="https://media.licdn.com/dms/image/D5622AQGBC6bT95XbSA/feedshare-shrink_800/0/1712746180316?e=1716422400&v=beta&t=2NFCktSQ4Z3O4Cl_U1-kInEJKtSr-qauM8gRfKYVup8" alt="CfS Logo" style="width: 1000px; height: auto;">
 
 #### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents).
