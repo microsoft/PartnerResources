@@ -326,5 +326,8 @@ Since computing capacity and token usage is **variable (quantifying a specific #
 
 I'm assuming beyond the EAP, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage patterns and what ***is and isn't a SCU/workflow.***
 
+#### Copilot for Security Reference Architecture
+
+<img src="https://media.licdn.com/dms/image/D5622AQGBC6bT95XbSA/feedshare-shrink_800/0/1712746180316?e=1716422400&v=beta&t=2NFCktSQ4Z3O4Cl_U1-kInEJKtSr-qauM8gRfKYVup8" alt="CfS Logo" style="width: 50px; height: auto;">
 
 #### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents).
