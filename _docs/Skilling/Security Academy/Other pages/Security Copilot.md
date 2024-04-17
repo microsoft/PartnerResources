@@ -288,6 +288,10 @@ Microsoft Copilot for Security enables customers and partners to proactively def
 * [Microsoft Copilot for Security and Microsoft Defender Threat Intelligence](https://learn.microsoft.com/en-us/defender/threat-intelligence/security-copilot-and-defender-threat-intelligence?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Copilot for Security in Microsoft Purview](https://learn.microsoft.com/en-us/purview/copilot-in-purview-overview?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 
+#### Copilot for Security Reference Architecture
+
+![CfS Reference Architecture]({{ site.baseurl }}/assets/msa/CfS Reference Arch.jpg)
+
 #### Address Concerns
 
 * [OAuth 2.0 On-Behalf-Of flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow)
@@ -307,10 +311,6 @@ Microsoft Copilot for Security enables customers and partners to proactively def
 * [Granular Delegated Admin Privileges (GDAP)](https://learn.microsoft.com/en-us/partner-center/gdap-introduction) — ***Coming soon to Copilot for Security***
 * [Azure Lighthouse](https://learn.microsoft.com/en-us/azure/lighthouse/) — ***Coming soon to Copilot for Security***
 * [Microsoft 365 Lighthouse](https://learn.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-overview?view=o365-worldwide) ***Coming soon to Copilot for Security***
-
-#### Copilot for Security Reference Architecture
-
-![CfS Reference Architecture]({{ site.baseurl }}/assets/msa/CfS Reference Arch.jpg)
 
 ### Pricing📌
 
