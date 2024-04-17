@@ -328,6 +328,6 @@ I'm assuming beyond the EAP, we're also collecting this data and in good time, w
 
 #### Copilot for Security Reference Architecture
 
-<img src="https://media.licdn.com/dms/image/D5622AQGBC6bT95XbSA/feedshare-shrink_800/0/1712746180316?e=1716422400&v=beta&t=2NFCktSQ4Z3O4Cl_U1-kInEJKtSr-qauM8gRfKYVup8" alt="CfS Logo" style="width: 50px; height: auto;">
+<img src="https://media.licdn.com/dms/image/D5622AQGBC6bT95XbSA/feedshare-shrink_800/0/1712746180316?e=1716422400&v=beta&t=2NFCktSQ4Z3O4Cl_U1-kInEJKtSr-qauM8gRfKYVup8" alt="CfS Logo" style="width: 500px; height: auto;">
 
 #### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents).
