@@ -101,7 +101,7 @@ Are you ready to get started? Dive into onboarding guidance, prompt engineering 
 
 You can provision Copilot for Security within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during deployment. When provisioning Copilot for Security, you can purchase capacity in these **four regions:** East US, West Europe, UK South, and Australia East.
 
-While there are technically no prerequisites, you'll need an Azure subscription and Microsoft Entra ID (Entra ID is required to authenticate your users). We also recommend allowing prompt evaluation anywhere with available GPU capacity for optimal results. By default, ***all users are contributors*** (this may vary according to existing user permissions) and ***the provisioning user is the owner.*** Contributors cannot update data sharing options, manage SCUs, view the usage dashboard, and may only manage and publish custom plugins or upload files when allowed. Also by default, ***all security administrators and global administrators inherit Copilot for Security access.*** 
+While there are technically no prerequisites, you'll need an Azure subscription and Microsoft Entra ID (Entra ID is required to authenticate your users). We also recommend allowing prompt evaluation anywhere with available GPU capacity for optimal results. By default, ***all users are "Copilot contributors"*** (this may vary according to existing user permissions) and ***the provisioning user is the "Copilot owner."*** Contributors cannot update data sharing options, manage SCUs, view the usage dashboard, and may only manage and publish custom plugins or upload files when allowed. Also by default, ***all security administrators and global administrators inherit Copilot for Security access.***
 
 Copilot for Security will **not** elevate your level of access (e.g., to use the Microsoft Sentinel plugin, you will need the Microsoft Sentinel Reader role). However, plugin settings are managed at the ***user level***, requiring each user to enable/disable plugins and configure authentication methods. Unfortunately, there is no existing option to set plugin configurations at the ***Tenant level.***
 
@@ -242,7 +242,7 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 
 * [Overview](https://learn.microsoft.com/en-us/connectors/securitycopilot/)
 * [Logic Apps](https://learn.microsoft.com/en-us/security-copilot/connector-logicapp?view=o365-worldwide)
-* [Microsoft Copilot for Security Logic Apps Templates](https://github.com/Azure/Copilot-For-Security/tree/main/Logic%20Apps)
+* [**NEW:** Microsoft Copilot for Security Logic Apps Templates](https://github.com/Azure/Copilot-For-Security/tree/main/Logic%20Apps)
 
 ### 3P Plugins
 
@@ -251,7 +251,7 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 * [Cyware Respond](https://learn.microsoft.com/en-us/copilot/security/plugin-cyware) -- Cyware is an end-to-end incident management and threat response platform
 * [GreyNoise](https://learn.microsoft.com/en-us/copilot/security/plugin-greynoise) -- GreyNoise collects and analyzes Internet-wide scan and attack data
 * [Netskope](https://learn.microsoft.com/en-us/copilot/security/plugin-netskope) -- Netskope combines security and networking services, enabling Secure Access Services Edge (SASE) and Zero Trust
-* [Tanium](https://learn.microsoft.com/en-us/copilot/security/plugin-tanium) -- Tanium is a converged endpoint management (XEM) platform
+* [Tanium](https://learn.microsoft.com/en-us/copilot/security/plugin-tanium) -- Tanium is a converged endpoint management (XEM) reference platform
 * [UrlScan](https://learn.microsoft.com/en-us/copilot/security/plugin-urlscan) -- UrlScan allows users to scan and analyze potentially malicious URLs
 * [Valence Security](https://learn.microsoft.com/en-us/copilot/security/plugin-valence) -- Valence combines SaaS security posture management (SSPM) and advanced remediation
 
