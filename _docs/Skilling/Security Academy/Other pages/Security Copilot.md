@@ -288,6 +288,10 @@ Microsoft Copilot for Security enables customers and partners to proactively def
 * [Microsoft Copilot for Security and Microsoft Defender Threat Intelligence](https://learn.microsoft.com/en-us/defender/threat-intelligence/security-copilot-and-defender-threat-intelligence?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Copilot for Security in Microsoft Purview](https://learn.microsoft.com/en-us/purview/copilot-in-purview-overview?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 
+#### Copilot for Security Reference Architecture
+
+![CfS Reference Architecture]({{ site.baseurl }}/assets/msa/CfS Reference Arch.jpg)
+
 #### Address Concerns
 
 * [OAuth 2.0 On-Behalf-Of flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow)
