@@ -32,12 +32,6 @@ Reach out to your Microsoft partner team to learn more about how we have helped 
 
 ## Core Sessions
 
-<style>
-img {
-  width: 150px; /* Set the width to your desired size */
-  height: auto; /* This will keep the aspect ratio intact */
-}
-</style>
 
 | Build Hybrid Cloud Apps | Hybrid Cloud Management | Cloud Native at the Edge | Modernize On-prem | Security in Azure Arc |
 |----------------------------|--------------------------------------------||-------------------------|--------------------------------|
@@ -47,7 +41,7 @@ img {
 <style>
     .video-thumbnail {
         width: 200px;
-        height: 200px;
+        height: auto;
         object-fit: cover;
     }
     .video-title {
