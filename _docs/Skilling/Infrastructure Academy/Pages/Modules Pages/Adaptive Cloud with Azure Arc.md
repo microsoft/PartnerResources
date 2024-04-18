@@ -36,7 +36,7 @@ Reach out to your Microsoft partner team to learn more about how we have helped 
 <style>
     .video-thumbnail {
         width: 200px;
-        height: auto;
+        height: 200px;
         object-fit: cover;
     }
     .video-title {
