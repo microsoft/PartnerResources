@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Azure Infrastructure Academy — Adaptive Cloud with Azure Arc and Azure Stack HCI
 description: Microsoft Azure Infrastructure Academy for Adaptive Cloud with Azure Arc and Azure Stack HCI.
 permalink: /skilling/microsoft-infrastructure-academy/adaptive-cloud
-updated: 2024-04-08
+updated: 2024-04-18
 showbreadcrumb: true
 Tags:
 - academy content
@@ -36,6 +36,24 @@ Reach out to your Microsoft partner team to learn more about how we have helped 
 | Build Hybrid Cloud Apps | Hybrid Cloud Management | Cloud Native at the Edge | Modernize On-prem Environments |
 |----------------------------|--------------------------------------------||-------------------------|--------------------------------|
 | [![ARC VIDEO 1](https://img.youtube.com/vi/A-eUkKjmSzs/mqdefault.jpg)](https://www.youtube.com/watch?v=A-eUkKjmSzs) | [![ARC VIDEO 2](https://img.youtube.com/vi/B5Cyl8cj2e8/mqdefault.jpg)](https://www.youtube.com/watch?v=B5Cyl8cj2e8) | [![ARC VIDEO 3](https://img.youtube.com/vi/9BjGj2iSkIo/mqdefault.jpg)](https://www.youtube.com/watch?v=9BjGj2iSkIo) | [![ARC VIDEO 4](https://img.youtube.com/vi/mCcLUSOqVIo/mqdefault.jpg)](https://www.youtube.com/watch?v=mCcLUSOqVIo) |
+
+<style>
+    .video-thumbnail {
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+    }
+</style>
+
+<table>
+    <tr>
+        <td><a href="https://www.youtube.com/watch?v=A-eUkKjmSzs"><img class="video-thumbnail" src="https://img.youtube.com/vi/A-eUkKjmSzs/mqdefault.jpg" alt="ARC VIDEO 1"></a></td>
+        <td><a href="https://www.youtube.com/watch?v=B5Cyl8cj2e8"><img class="video-thumbnail" src="https://img.youtube.com/vi/B5Cyl8cj2e8/mqdefault.jpg" alt="ARC VIDEO 2"></a></td>
+        <td><a href="https://www.youtube.com/watch?v=9BjGj2iSkIo"><img class="video-thumbnail" src="https://img.youtube.com/vi/9BjGj2iSkIo/mqdefault.jpg" alt="ARC VIDEO 3"></a></td>
+        <td><a href="https://www.youtube.com/watch?v=mCcLUSOqVIo"><img class="video-thumbnail" src="https://img.youtube.com/vi/mCcLUSOqVIo/mqdefault.jpg" alt="ARC VIDEO 4"></a></td>
+        <td><a href="https://www.youtube.com/watch?v=BwkrV1M85D0"><img class="video-thumbnail" src="https://img.youtube.com/vi/BwkrV1M85D0/mqdefault.jpg" alt="ARC VIDEO 5"></a></td>
+    </tr>
+</table>
 
 
 ![Azure Platform with Azure Arc]({{ site.baseurl }}/assets/infrapics/AzureArcDiagram.png)
