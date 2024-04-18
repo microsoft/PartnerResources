@@ -56,6 +56,54 @@ Reach out to your Microsoft partner team to learn more about how we have helped 
 </table>
 
 
+<style>
+    .video-thumbnail {
+        width: 300px;
+        height: 300px;
+        object-fit: cover;
+    }
+    .video-title {
+        font-weight: bold;
+        text-align: center;
+    }
+</style>
+
+<table>
+    <tr>
+        <td>
+            <div class="video-title">Build Hybrid Cloud Apps</div>
+            <a href="https://www.youtube.com/watch?v=A-eUkKjmSzs" title="Build Hybrid Cloud Apps">
+                <img class="video-thumbnail" src="https://img.youtube.com/vi/A-eUkKjmSzs/mqdefault.jpg" alt="ARC VIDEO 1">
+            </a>
+        </td>
+        <td>
+            <div class="video-title">Hybrid Cloud Management</div>
+            <a href="https://www.youtube.com/watch?v=B5Cyl8cj2e8" title="Hybrid Cloud Management">
+                <img class="video-thumbnail" src="https://img.youtube.com/vi/B5Cyl8cj2e8/mqdefault.jpg" alt="ARC VIDEO 2">
+            </a>
+        </td>
+        <td>
+            <div class="video-title">Cloud Native at the Edge</div>
+            <a href="https://www.youtube.com/watch?v=9BjGj2iSkIo" title="Cloud Native at the Edge">
+                <img class="video-thumbnail" src="https://img.youtube.com/vi/9BjGj2iSkIo/mqdefault.jpg" alt="ARC VIDEO 3">
+            </a>
+        </td>
+        <td>
+            <div class="video-title">Modernize On-prem</div>
+            <a href="https://www.youtube.com/watch?v=mCcLUSOqVIo" title="Modernize On-prem">
+                <img class="video-thumbnail" src="https://img.youtube.com/vi/mCcLUSOqVIo/mqdefault.jpg" alt="ARC VIDEO 4">
+            </a>
+        </td>
+        <td>
+            <div class="video-title">Security in Azure Arc</div>
+            <a href="https://www.youtube.com/watch?v=BwkrV1M85D0" title="Security in Azure Arc">
+                <img class="video-thumbnail" src="https://img.youtube.com/vi/BwkrV1M85D0/mqdefault.jpg" alt="ARC VIDEO 5">
+            </a>
+        </td>
+    </tr>
+</table>
+
+
 ![Azure Platform with Azure Arc]({{ site.baseurl }}/assets/infrapics/AzureArcDiagram.png)
 
 
