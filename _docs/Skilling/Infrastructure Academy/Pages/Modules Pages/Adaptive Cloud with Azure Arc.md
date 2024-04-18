@@ -77,6 +77,12 @@ Reach out to your Microsoft partner team to learn more about how we have helped 
                 <img class="video-thumbnail" src="https://img.youtube.com/vi/BwkrV1M85D0/mqdefault.jpg" alt="ARC VIDEO 5">
             </a>
         </td>
+        <td>
+            <div class="video-title">Azure Arc Overview</div>
+            <a href="https://www.youtube.com/watch?v=WZuyemrVWps" title="Security in Azure Arc">
+                <img class="video-thumbnail" src="https://img.youtube.com/vi/WZuyemrVWps/mqdefault.jpg" alt="ARC VIDEO 6">
+            </a>
+        </td>
     </tr>
 </table>
 
