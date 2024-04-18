@@ -35,8 +35,8 @@ Reach out to your Microsoft partner team to learn more about how we have helped 
 
 <style>
     .video-thumbnail {
-        width: auto;
-        height: auto;
+        width: 200px;
+        height: 200px;
         object-fit: cover;
     }
     .video-title {
@@ -71,6 +71,27 @@ Reach out to your Microsoft partner team to learn more about how we have helped 
                 <img class="video-thumbnail" src="https://img.youtube.com/vi/mCcLUSOqVIo/mqdefault.jpg" alt="ARC VIDEO 4">
             </a>
         </td>
+    </tr>
+</table>
+
+
+## Security Sessions
+
+
+<style>
+    .video-thumbnail {
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+    }
+    .video-title {
+        font-weight: bold;
+        text-align: center;
+    }
+</style>
+
+<table>
+    <tr>
         <td>
             <div class="video-title">Security in Azure Arc</div>
             <a href="https://www.youtube.com/watch?v=BwkrV1M85D0" title="Security in Azure Arc">
