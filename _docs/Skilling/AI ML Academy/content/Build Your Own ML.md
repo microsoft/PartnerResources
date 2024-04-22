@@ -52,18 +52,18 @@ To understand how Azure ML helps users, let's compare two cases of implementing 
 ### Without Azure ML
 1. Computer. This is usually your laptop with limited capacity.
 
-2. Python environment. Best practice is to create a virtual environment per project, and install all necessary packages. It takes some time and configuring some packages with each other (e.g., tensorflow, pytorch) may be difficult. Some packages may not work on some operating systems. 
+2. Python environment. Best practice is to create a virtual environment per project and install all necessary packages. It takes some time and configuring some packages with each other (e.g., tensorflow, pytorch) may be difficult. Some packages may not work on some operating systems. 
 
 3. Data. During the development, we usually use CSV sample files. Sometimes, we need to reconfigure the code to accept data in a different format in production.
 
 4. Modeling. During modeling, we experiment with different parameters and models. In each experiment, we may change some of the previous parameters. We usually lose track of the parameters after several iterations. 
 
-5. Deployment. Once your model is developed, we store it as a file (`pkl`, `json`, etc.) and create a container. This requires creating or re-using a `dockerfile` and customizing it to fit our usecase. Once the image is built, we push it to a container repository and deploy it on a cluster (Kubernetes, On-prem, Azure, other clouds).
+5. Deployment. Once your model is developed, we store it as a file (`pkl`, `json`, etc.) and create a container. This requires creating or re-using a `dockerfile` and customizing it to fit your use case. Once the image is built, we push it to a container repository and deploy it on a cluster (Kubernetes, On-prem, Azure, other clouds).
 
 ### With Azure ML
 1. You create a compute instance, which belongs to you only. It can have as much CPU, GPU, memory as you need. If you have for example two use cases, where the first one requires a high-end and expensive setting and the second one requires only a low-end config, you can provision two compute instances. You will be charged only for the amount of time each machine is on. Azure ML also provides compute clusters, consisting of a pool of compute nodes that automatically scale up and down to speed up your compute-heavy tasks. You can, for example, develop your notebook and prepare the data on your compute instance, and then submit your training as a job to a compute cluster. Clusters can be set to automatically turn off if there are no jobs. 
-    - To create a compute resource from GUI, in your Azure ML workspace, select __Compute__ from the left sidebar. Conviniently, create a __Compute instance__, __Compute cluster__, or __Attached cluster__ by following the prompts.
-    - To create a compute resource using Azure ML Python SDK, you can use the sample code below. You may need to a create compute resource using Python code in the following situations: 1) in automated ML pipelines it is preferred to create resources and then dispose of them, your code can perform all in one file; 2) automated resource provisioning, more suitable for administration, to ensure resources are generated with standard configurations across the enterprise.
+    - To create a compute resource from GUI, in your Azure ML workspace, select __Compute__ from the left sidebar. Conveniently, create a __Compute instance__, __Compute cluster__, or __Attached cluster__ by following the prompts.
+    - To create a compute resource using Azure ML Python SDK, you can use the sample code below. You may need to create a compute resource using Python code in the following situations: 1) in automated ML pipelines it is preferred to create resources and then dispose of them, your code can perform all in one file; 2) automated resource provisioning, more suitable for administration, to ensure resources are generated with standard configurations across the enterprise.
 
     ```py
     from azureml.core import Workspace 
@@ -117,14 +117,14 @@ To understand how Azure ML helps users, let's compare two cases of implementing 
   <!-- ```py
   ```  -->
 
-3. Data. Azure ML introduces concept of datasets. A dataset is an abstraction of data. It can be tabular data or file data (e.g., images, audio files, ...). A tabular dataset can be constructed from a local CSV file. However, with Azure ML, you have many more efficient options, such as executing an SQL query against an Azure SQL database, Azure MySQL database, Azure PostgreSQL, or reading CSV or parquet from Azure Storage or ADLS gen 2. You can also read from web files. File datasets can be uploaded locally or connecting to Azure Storage. Since Azure ML datasets act as an interface, your code does not need to change when you switch from a sample csv file to a large cloud-hosted file or SQL query in production. 
+3. Data. Azure ML introduces concept of datasets. A dataset is an abstraction of data. It can be tabular data or file data (e.g., images, audio files, ...). A tabular dataset can be constructed from a local CSV file. However, with Azure ML, you have many more efficient options, such as executing an SQL query against an Azure SQL database, Azure MySQL database, Azure PostgreSQL, or reading CSV or parquet from Azure Storage or ADLS gen 2. You can also read from web files. File datasets can be uploaded locally or connected to Azure Storage. Since Azure ML datasets act as an interface, your code does not need to change when you switch from a sample csv file to a large cloud-hosted file or SQL query in production.
     ```py
     from azureml.core import Workspace, Dataset
 
     def get_dataset_by_name(ws: Workspace, dataset_name: str, version='latest'):
         dataset_object = Dataset.get_by_name(ws, dataset_name, version)
         df = dataset_object.to_pandas_dataframe() # if you need a pandas df
-        df = dataset_object.to_dask_dataframe()   # if you nedd a dask df
+        df = dataset_object.to_dask_dataframe()   # if you need a dask df
         df = dataset_object.to_spark_dataframe()  # if you need a spark df, requires spark to be installed in your env
         return df 
 
@@ -132,10 +132,10 @@ To understand how Azure ML helps users, let's compare two cases of implementing 
 
     Closely related to Datasets in Azure ML are _Datastores_. While Dataset is an interface to the data, Datastore is the interface to the  physical location of the data. For example, to access files in an Azure Data Lake (ADLS), you must first create a Datastore that provides the required connection parameters. You can then use this datastore to create datasets that read data from this storage account. By default, Azure ML creates `workspaceblobstore` and `workspacefilestore` that link to the Storage account that was created with this Azure ML workspace. 
 
-4. Modeling. Azure ML introduces experiment and model abstractions similar to Datasets. An experiment keeps track of all of the code changes, input parameters, output metrics (e.g., accuracy, percision, recall), and custom parameters and metrics unique to your use case. Azure ML experiments dashboard shows you all of your experiments and their associated information as well as the model files. So, when you find the best model, you won't need to run it again to generate the binaries. This is achieved through AML Model abstraction.
+4. Modeling. Azure ML introduces experiment and model abstractions similar to Datasets. An experiment keeps track of all of the code changes, input parameters, output metrics (e.g., accuracy, precision, recall), and custom parameters and metrics unique to your use case. Azure ML experiments dashboard shows you all of your experiments and their associated information as well as the model files. So, when you find the best model, you won't need to run it again to generate the binaries. This is achieved through AML Model abstraction.
 
     ```py
-    # Here is an example of using Logistic Regression in a classification project, evaluating and registering the model
+    # Here is an example of using Logistic Regression in a classification project, evaluating, and registering the model
     from azureml.core import Workspace, Experiment, Model, Run, Dataset
 
     import joblib
@@ -266,7 +266,7 @@ To understand how Azure ML helps users, let's compare two cases of implementing 
     ```
     d) A deployment config. 
     ```py
-    # if deploying to an Azure Container Instance (ACI), specify # of cpu cores, RAM, ... in the config
+    # if deploying to an Azure Container Instance (ACI), specify # of CPU cores, RAM, ... in the config
     from azureml.core.webservice import AciWebservice
     deployment_config = AciWebservice.deploy_configuration(cpu_cores=1, memory_gb=1, enable_app_insights=True)
 
@@ -305,7 +305,7 @@ Explore these repositories for examples of development and deployment on Azure M
 #### Supportive features of AML
 There are additional benefits with Azure ML that you may not have in traditional ML lifecycles.
 1. __AutoML:__
-    AutoML is a smart tool that accepts a dataset (tabular or file) and produces your desired model. It can perform classification, clustering, regression tasks on datasets. AutoML tries tens or even hundreds of models from the literature, performs data cleaning, normalization, preprocessing, and trains all of them. It then reports to you the metrics for all of the calculated models, with recommendations. You can choose which model(s) to deploy with one click.
+    AutoML is a smart tool that accepts a dataset (tabular or file) and produces your desired model. It can perform classification, clustering, and regression tasks on datasets. AutoML tries tens or even hundreds of models from the literature, performs data cleaning, normalization, preprocessing, and trains all of them. It then reports to you the metrics for all of the calculated models, with recommendations. You can choose which model(s) to deploy with one click.
 **[Use automated machine learning in Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/)**
 
 2. __Designer__ and __Pipelines:__
@@ -319,7 +319,7 @@ There are additional benefits with Azure ML that you may not have in traditional
     - Publish a batch inference pipeline to make predictions on new data by using a previously trained model.
     - Deploy a real-time inference pipeline to an online endpoint to make predictions on new data in real-time.
 
-    A pipeline consists of data assets and analytical components, which you connect. Pipelines have many uses: you can make a pipeline that trains a single model, or one that trains multiple models. You can create a pipeline that makes predictions in real-time or in batch, or make a pipeline that only cleans data. Pipelines let you reuse your work and organize your projects.
+    A pipeline consists of data assets and analytical components, which you connect. Pipelines have many uses: you can make a pipeline that trains a single model, or one that trains multiple models. You can create a pipeline that makes predictions in real-time or in batch, and/or make a pipeline that only cleans data. Pipelines let you reuse your work and organize your projects.
 
     As you edit a pipeline in the designer, your progress is saved as a pipeline draft. You can edit a pipeline draft at any point by adding or removing components, configuring compute targets, creating parameters, and so on. Each time you run a pipeline, the configuration of the pipeline and its results are stored in your workspace as a pipeline job. You can go back to any pipeline job to inspect it for troubleshooting or auditing. Clone a pipeline job to create a new pipeline draft for you to edit. 
 
