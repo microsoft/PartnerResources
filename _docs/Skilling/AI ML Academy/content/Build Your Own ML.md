@@ -34,10 +34,10 @@ Machine learning professionals, data scientists, and ML engineers can use it in 
 ## Who is Azure ML for?
 Azure ML is for individuals and teams implementing MLOps within their organization to bring machine learning models into production in a secure and auditable production environment. With AML:
 
-1. Data scientists and ML engineers will find tools to accelerate and automate their day-to-day workflows. 
-2. Application developers will find tools for integrating models into applications or services. 
-3. Platform developers will find a robust set of tools, backed by durable Azure Resource Manager APIs, for building advanced ML tooling. 
-4. Enterprises working in the Microsoft Azure cloud will find familiar security and role-based access controls (RBAC) for infrastructure. You can set up the security to deny access to protected data and select operations.
+1. **Data scientists** and **ML engineers** will find tools to accelerate and automate their day-to-day workflows. 
+2. **Application developers** will find tools for integrating models into applications or services. 
+3. **Platform developers** will find a robust set of tools, backed by durable Azure Resource Manager APIs, for building advanced ML tooling. 
+4. **Enterprises** working in the Microsoft Azure cloud will find familiar security and role-based access controls (RBAC) for infrastructure. You can set up the security to deny access to protected data and select operations.
 
 Machine learning projects often require a team with varied skillsets to build and maintain. Azure ML has tools that help enable collaboration, such as:
 
@@ -50,15 +50,15 @@ Machine learning projects often require a team with varied skillsets to build an
 To understand how Azure ML helps users, let's compare two cases of implementing an end-to-end ML project without and with Azure ML.
 
 ### Without Azure ML
-1. Computer. This is usually your laptop with limited capacity.
+1. **Computer.** This is usually your laptop with limited capacity.
 
-2. Python environment. Best practice is to create a virtual environment per project and install all necessary packages. It takes some time and configuring some packages with each other (e.g., tensorflow, pytorch) may be difficult. Some packages may not work on some operating systems. 
+2. **Python environment.** Best practice is to create a virtual environment per project and install all necessary packages. It takes some time and configuring some packages with each other (e.g., tensorflow, pytorch) may be difficult. Some packages may not work on some operating systems. 
 
-3. Data. During the development, we usually use CSV sample files. Sometimes, we need to reconfigure the code to accept data in a different format in production.
+3. **Data.** During the development, we usually use CSV sample files. Sometimes, we need to reconfigure the code to accept data in a different format in production.
 
-4. Modeling. During modeling, we experiment with different parameters and models. In each experiment, we may change some of the previous parameters. We usually lose track of the parameters after several iterations. 
+4. **Modeling.** During modeling, we experiment with different parameters and models. In each experiment, we may change some of the previous parameters. We usually lose track of the parameters after several iterations. 
 
-5. Deployment. Once your model is developed, we store it as a file (`pkl`, `json`, etc.) and create a container. This requires creating or re-using a `dockerfile` and customizing it to fit your use case. Once the image is built, we push it to a container repository and deploy it on a cluster (Kubernetes, On-prem, Azure, other clouds).
+5. **Deployment.** Once your model is developed, we store it as a file (`pkl`, `json`, etc.) and create a container. This requires creating or re-using a `dockerfile` and customizing it to fit your use case. Once the image is built, we push it to a container repository and deploy it on a cluster (Kubernetes, On-prem, Azure, other clouds).
 
 ### With Azure ML
 1. You create a compute instance, which belongs to you only. It can have as much CPU, GPU, memory as you need. If you have for example two use cases, where the first one requires a high-end and expensive setting and the second one requires only a low-end config, you can provision two compute instances. You will be charged only for the amount of time each machine is on. Azure ML also provides compute clusters, consisting of a pool of compute nodes that automatically scale up and down to speed up your compute-heavy tasks. You can, for example, develop your notebook and prepare the data on your compute instance, and then submit your training as a job to a compute cluster. Clusters can be set to automatically turn off if there are no jobs. 
