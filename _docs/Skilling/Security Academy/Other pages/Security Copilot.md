@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-04-18
+updated: 2024-04-24
 showbreadcrumb: true
 tags: 
 - academy content
@@ -11,7 +11,7 @@ tags:
 - security copilot
 ---
 
-# Copilot for Security Technical Journey
+# Copilot for Security Technical Journey & Resources
 
 ## What is the Copilot for Security Technical Journey? <img src="https://raw.githubusercontent.com/Azure/Copilot-For-Security/main/Images/ic_fluent_copilot_64_64%402x.png" alt="CfS Logo" style="width: 35px; height: auto;">
 
@@ -122,6 +122,7 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [What does good prompt engineering look like?](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)
 * [How to build a Copilot for Security API Plugin – Part 1](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-build-a-copilot-for-security-api-plugin-part-1/ba-p/4107604)
 * [Apply principles of Zero Trust to Microsoft Copilot for Security](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
+* [**NEW:** Copilot for Security provides immediate impact for the Microsoft Defender Experts team](https://www.microsoft.com/en-us/security/blog/2024/02/08/microsoft-copilot-for-security-provides-immediate-impact-for-the-microsoft-defender-experts-team/)
 
 ### Features
 
