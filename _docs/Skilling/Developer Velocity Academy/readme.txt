@@ -1,0 +1,1 @@
+Each page in the academy folder represents a module or section. Ideally, each piece of content should be placed in the content folder (using subfolders as needed for organization) and then included on these module pages.

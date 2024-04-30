@@ -3,7 +3,14 @@ layout: page
 title: Azure Data Academy
 description: The Azure Data Academy is a series of presentations and hands-on material designed to upskill partners on data modernization in Microsoft Azure.
 permalink: /skilling/azure-data-academy/cosmosdb
-showbreadcrumb: false
+showbreadcrumb: true
+updated: 2023-09-22
+tags: 
+- azure
+- data, analytics, and ai
+- azure data academy
+- academy page
+- cosmos db
 ---
 
 # {{ page.title }}
@@ -11,7 +18,7 @@ showbreadcrumb: false
 Welcome to the Azure Data Academy content on Cosmos DB. Because Cosmos DB covers many APIs and usage scenarios, some content here is also visible on other academies, in particular the Modern Analytics Academy.
 
 {% include series.md 
-    includetags="azure data academy|cosmos db" includemethod="all" 
+    includetags="azure data academy|academy content|cosmos db" includemethod="all" 
     includesecondtags="academy content|cosmos db" 
     sortfield="updated" sortorder="desc" showtags="true" 
     visualstyle="normal"

@@ -1,11 +1,11 @@
 ---
 nav_exclude: true
 layout: page
-title: D365 Copilot Academy - Power Virtual Agent
-sorttitle: 01 - D365 Copilot Academy - Power Virtual Agent
-description: D365 Copilot Academy - Power Virtual Agent and Copilot and AI 
-permalink: /skilling/d365-academy/d365-copilot-academy/pva
-updated: 2023-05-15
+title: D365 Copilot Academy - Copilot Studio
+sorttitle: 01 - D365 Copilot Academy - Copilot Studio
+description: D365 Copilot Academy - Copilot Studio (formerly Power Virtual Agent)
+permalink: /skilling/d365-academy/d365-copilot-academy/copilotstudio
+updated: 2024-01-04
 showbreadcrumb: true
 tags: 
  - d365 academy
@@ -19,7 +19,7 @@ tags:
 
 # D365 Copilot Academy
 
-## Power Virtual Agent and Copilot and AI
+## Copilot Studio
 
 {% include series.md 
     includetags="d365 copilot academy|academy content|pva|copilot" 

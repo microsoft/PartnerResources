@@ -3,7 +3,14 @@ layout: page
 title: Azure Data Academy
 description: The Azure Data Academy is a series of presentations and hands-on material designed to upskill partners on data modernization in Microsoft Azure.
 permalink: /skilling/azure-data-academy/ossdb
-showbreadcrumb: false
+showbreadcrumb: true
+updated: 2023-09-22
+tags: 
+- azure
+- data, analytics, and ai
+- azure data academy
+- academy page
+- oss db
 ---
 
 # {{ page.title }}
@@ -11,10 +18,10 @@ showbreadcrumb: false
 Welcome to the Azure Data Academy content on MySQL, PostgreSQL, MariaDB, and other similar database platforms running in Azure.
 
 {% include series.md 
-    includetags="azure data academy|oss db" includemethod="all" 
-    includesecondtags="azure data academy|postgresql" 
-    includethirdtags="azure data academy|mysql" 
-    includefourthtags="azure data academy|mariadb"
+    includetags="azure data academy|academy content|oss db" includemethod="all" 
+    includesecondtags="azure data academy|academy content|postgresql" 
+    includethirdtags="azure data academy|academy content|mysql" 
+    includefourthtags="azure data academy|academy content|mariadb"
     sortfield="updated" sortorder="desc" showtags="true" 
     visualstyle="normal"
 %}

@@ -1,11 +1,11 @@
 ---
 nav_exclude: true
 layout: page
-title: D365 Copilot Academy - Marketing
-sorttitle: 02 - D365 Copilot Academy - Marketing
-description: D365 Copilot Academy - Dynamics 365 Marketing and Dynamics 365 Copilot
+title: D365 Copilot Academy - Journeys
+sorttitle: 02 - D365 Copilot Academy - JOurneys
+description: D365 Copilot Academy - Copilot and Customer Insights - Journeys
 permalink: /skilling/d365-academy/d365-copilot-academy/marketing
-updated: 2023-05-15
+updated: 2024-01-05
 showbreadcrumb: true
 tags: 
  - d365 academy
@@ -15,6 +15,7 @@ tags:
  - d365
  - marketing
  - copilot
+ - journeys
 ---
 
 # D365 Copilot Academy

@@ -6,8 +6,61 @@
 <script>
 $(document).ready(function() {
 
+    var contribs = $('#contribs');
+    var contribs_header = $('#contribs');
+    const githubAPI = "https://api.github.com"
+    const commitsEndpoint = "/repos/{{ site.github_user }}/{{ site.github_repo }}/commits"
+    const commitsURL = githubAPI + commitsEndpoint
+    const filepath = "{{ page.path }}"
+    $(contribs).append("<!-- " + commitsURL + "?path=" + filepath + " -->");
+    fetch(commitsURL + "?path=" + filepath)
+    .then(response => response.json())
+    .then(commits => {
+        const names = [];   
+        for (var i = 0; i < commits.length; i++) {
+            if (!names.includes(commits[i].commit.author.name)) {
+                names.push(commits[i].commit.author.name);
+                var content = "<a href='" + commits[i].author.html_url + "'><img style='padding: 0px 5px 0px 0px;' src='" + commits[i].author.avatar_url + "' size='32' height='32' width='32' /></a>";
+                $(contribs).append(content);
+            }
+        }
+        if (names.length > 0) {
+            $('#contribs').css("visibility","visible");
+            $('#contribs_header').css("visibility","visible");
+
+            {% if page.hidedate == true %}
+                $('h1').first().append('<div id="maindate" class="docupdated"></div>')
+            {% else %}
+                $('#maindate').append(" • "); 
+            {% endif %}
+        
+            if (names.length == 1) {
+                $('#maindate').append(names.length + " contributor");
+            } else {
+                $('#maindate').append(names.length + " contributors");
+            }
+         }
+    })
+
     var toc = $('#TOC');
     var otherNav = '';
+    var removetoctext = '';
+    var replacetoctext = '';
+
+    {% if page.removetoctext.size > 0 %}
+    var cleantoctext = true;
+    removetoctext = '{{ page.removetoctext }}';
+    replacetoctext = '{{ page.replacetoctext }}';
+    {% else %}
+    var cleantoctext = false;
+    {% endif %}
+
+    function cleanTitle(title){
+        if (cleantoctext){
+            title = title.replace(removetoctext, replacetoctext);
+        }
+        return title;
+    }
 
     // Select each header
     sections = $('.td-content h1');
@@ -30,7 +83,7 @@ $(document).ready(function() {
                {     
                    var contender_id = $(contender).attr('id');
                    var contender_text = $(contender).text().split('¶')[0];
-                   var content = '<li class="md-nav__item"><a class="md-nav__link" href="#' + contender_id + '" title="' + contender_text +'">' + contender_text +'</a></li>';
+                   var content = '<li class="md-nav__item"><a class="md-nav__link" href="#' + contender_id + '" title="' + contender_text +'">' + cleanTitle(contender_text) +'</a></li>';
                    children.append(content);
                 }
                 {% if page.navheadersonly != true %}
@@ -38,7 +91,7 @@ $(document).ready(function() {
                 {
                    var contender_id = $(contender).attr('id');
                    var contender_text = $(contender).attr('id').split('¶')[0];
-                   var content = '<li class="md-nav__item"><a class="md-nav__link" href="#' + contender_id + '" title="' + contender_text +'">' + contender_text +'</a></li>';
+                   var content = '<li class="md-nav__item"><a class="md-nav__link" href="#' + contender_id + '" title="' + contender_text +'">' + cleanTitle(contender_text) +'</a></li>';
                    children.append(content);
                 }
                 {% endif %}

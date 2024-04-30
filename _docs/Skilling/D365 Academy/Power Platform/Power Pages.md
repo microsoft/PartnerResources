@@ -2,7 +2,7 @@
 layout: page
 title: Power Pages
 description: Resources for Power Pages formerly known as Power Apps Portals
-updated: 2023-01-11
+updated: 2023-08-19
 permalink: /skilling/d365-academy/business-applications/power-platform/power-apps-portals
 tags:
 - learning plan
@@ -15,6 +15,13 @@ tags:
 # Learning Plan Resources for Power Pages
 
 You can find important resources and learning paths for successfully ramping up on Power Pages (formerly Power Apps Portal)
+
+## Keeping Up
+
+Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners.  Release wave 1 covers features releasing from April through September.  Release wave 2 covers features releasing from October through March.
+
+* <a href="https://docs.microsoft.com/en-us/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans </a>
+* <a href="https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/" target="_blank">Power Apps with Copilot </a>
 
 ## Power Pages - Fundamentals
 
@@ -29,10 +36,6 @@ You can find important resources and learning paths for successfully ramping up 
 * [best practices, tips & tricks for successfully deploying a Power Apps Portal](https://msuspartners.eventbuilder.com/event/4374/recording)
 * [Power Apps Portal administration document](https://docs.microsoft.com/en-us/powerapps/maker/portals/admin/admin-overview)
 * [Portal Application Life-cycle management](https://docs.microsoft.com/en-us/powerapps/maker/portals/admin/portal-lifecycle)
-
-## Keeping Up
-
-* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
 ## Community Resources
 

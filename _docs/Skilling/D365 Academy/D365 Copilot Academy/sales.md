@@ -2,9 +2,9 @@
 layout: page
 title: D365 Copilot Academy - Sales
 sorttitle: 01 - D365 Copilot Academy - Sales
-description: D365 Copilot Academy - Dynamics 365 Sales and Dynamcis 365 Copilot
+description: D365 Copilot Academy - Microsoft Sales Copilot and Dynamcis 365 Sales
 permalink: /skilling/d365-academy/d365-copilot-academy/sales
-updated: 2023-05-15
+updated: 2024-01-04
 showbreadcrumb: true
 tags: 
  - d365 academy
@@ -18,7 +18,7 @@ tags:
 
 # D365 Copilot Academy
 
-## Dynamics 365 Sales and Dynamics 365 Copilot
+## Microsoft Sales Copilot and Dynamics 365 Sales
 
 {% include series.md 
     includetags="d365 copilot academy|academy content|sales|copilot" 

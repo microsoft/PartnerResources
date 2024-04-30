@@ -2,7 +2,7 @@
 layout: page
 title: Modern Analytics Power BI
 description: Resources for Modern Analytics with Power BI
-updated: 2023-02-14
+updated: 2023-08-20
 permalink: /skilling/d365-academy/business-applications/power-platform/power-bi
 tags:
 - learning plan
@@ -33,7 +33,10 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 ## Keeping Up
 
-* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
+Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners.  Release wave 1 covers features releasing from April through September.  Release wave 2 covers features releasing from October through March.
+
+* <a href="https://docs.microsoft.com/en-us/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans </a>
+* <a href="https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/" target="_blank">Power Apps with Copilot </a>
 * [Power BI release plans](https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Release-Plan/m-p/930557) (Self-Paced) (On-going)
 
 ## Fundamentals

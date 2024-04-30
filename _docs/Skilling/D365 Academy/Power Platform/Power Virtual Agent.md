@@ -2,7 +2,7 @@
 layout: page
 title: Power Virtual Agents
 description: Resources for Power Virtual Agents
-updated: 2023-03-28
+updated: 2023-08-23
 permalink: /skilling/d365-academy/business-applications/power-platform/power-virtual-agents
 tags:
 - learning plan
@@ -17,20 +17,12 @@ Dynamics 365 Power Virtual Agents...
 
 Below you will find content to assist in upskilling on Power Virtual Agents  Content is broken down as follows:
 
-* Fundamentals, Associate, Expert, Specialist: content categorized in increase levels of complexity
-* Certifications:  relevant Microsoft exams or certifications
-* Community resources:  user groups, events, blogs
-
-Additionally, some content may be mared with one or more icons:
-
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
-
-TIP:  Open resources below in a separate browser tab to remain on this Learning Plan page - Right-Click on link and open in new tab.
-
 ## Keeping Up
 
-* [Upcoming release](https://learn.microsoft.com/en-us/power-platform/release-plan/2023wave1/power-virtual-agents/planned-features)
+Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners.  Release wave 1 covers features releasing from April through September.  Release wave 2 covers features releasing from October through March.
+
+* <a href="https://docs.microsoft.com/en-us/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans </a>
+* <a href="https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/" target="_blank">Power Apps with Copilot </a>
 * [Unified BOT Building Experience](https://powervirtualagents.microsoft.com/en-us/blog/whats-new-the-evolution-of-power-virtual-agents/) (Self-Paced)
 * [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 * [Power Virtual Agent with Copilot](https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/)

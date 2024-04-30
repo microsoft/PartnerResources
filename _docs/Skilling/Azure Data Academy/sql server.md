@@ -3,7 +3,14 @@ layout: page
 title: Azure Data Academy
 description: The Azure Data Academy is a series of presentations and hands-on material designed to upskill partners on data modernization in Microsoft Azure.
 permalink: /skilling/azure-data-academy/sql
-showbreadcrumb: false
+showbreadcrumb: true
+updated: 2023-09-22
+tags: 
+- azure
+- data, analytics, and ai
+- azure data academy
+- academy page
+- sql server
 ---
 
 # {{ page.title }}
@@ -11,7 +18,7 @@ showbreadcrumb: false
 Welcome to the Azure Data Academy content on Azure SQL and data integration. This section houses our content related to migration strategies, best practices, developer scenarios and operations topics related to Azure SQL Database, Azure SQL Managed Instance, and SQL Server running in an Azure Virtual Machine. We'll also include data integration related content.
 
 {% include series.md 
-    includetags="azure data academy|sql server" 
+    includetags="azure data academy|academy content|sql server" 
     includesecondtags="academy content|data integration" 
     includemethod="all" 
     sortfield="updated" sortorder="desc" showtags="true"

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Microsoft Partner Showcase - Fivetran
-sorttitle: Microsoft Partner Showcase - Fivetran
+title: Microsoft Partner Showcase — Fivetran
+sorttitle: Microsoft Partner Showcase — Fivetran
 description: Data estates have exploded in complexity with data residing in multiple regions and clouds, with endless combinations of data sources, schemas, and formats. Data integration is a complicated task. Fivetran has built a complete SaaS solution for easily orchestrating data movement - small or large databases, near real-time or periodic batching - Kelly Kohlleffel from Fivetran takes us on a tour.
 updated: 2023-06-14
 permalink: /skilling/microsoft-partner-showcase/fivetran
@@ -11,6 +11,7 @@ tags:
  - microsoft partner showcase
  - azure data academy
  - academy content
+ - data, analytics, and ai
  - data integration
  - fivetran
 ---

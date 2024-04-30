@@ -2,7 +2,7 @@
 layout: page
 title: Robotic Process Automation
 description: Resources for Robotic Process Automation
-updated: 2022-12-19
+updated: 2023-08-20
 permalink: /skilling/d365-academy/business-applications/power-platform/robotic-process-automation
 tags:
 - learning plan
@@ -15,17 +15,12 @@ tags:
 
 Robotic process automation (RPA) is the process of automating business procedures through mimicking and automatically executing rule-based tasks. Through RPA, a machine copies and records the set of actions that a user takes to complete a task.
 
-Content is broken down as follows:
-* Fundamentals, Associate, and Expert: content categorized in increasing level of complexity
-* Certifications: relevant Microsoft exams or certifications
-
-Additionally, some content may be marked with one or more icons:
-* '$' to indicate paid content
-* '3rd Party' to indicate 3rd party content (not created by Microsoft)
-
 ## Keeping Up
 
-* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
+Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners.  Release wave 1 covers features releasing from April through September.  Release wave 2 covers features releasing from October through March.
+
+* <a href="https://docs.microsoft.com/en-us/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans </a>
+* <a href="https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/" target="_blank">Power Apps with Copilot </a>
 
 ## Fundamentals & Associate
 

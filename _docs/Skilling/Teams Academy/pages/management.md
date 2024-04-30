@@ -1,11 +1,11 @@
 ---
 nav_exclude: true
 layout: page
-title: Microsoft Teams Academy - Management
-sorttitle: Microsoft Teams Academy - Management
-description: Microsoft Teams Academy - Management
+title: Microsoft Teams Academy — Management
+sorttitle: Microsoft Teams Academy — Management
+description: Microsoft Teams Academy — Management
 permalink: /skilling/microsoft-teams-academy/management
-updated: 2022-07-31
+updated: 2023-09-22
 showbreadcrumb: false
 tags: 
  - academy page
@@ -13,7 +13,7 @@ tags:
  - management
 ---
 
-## Microsoft Teams Academy - Management
+## Management
 
 Welcome to Management in the Microsoft Teams Academy. Explore Teams foundations, administration, and operations, including Exchange/SharePoint/Azure integration, provisioning, policies, group assignments, RBAC, Call Quality Dashboard, analytics, Admin tools, and more!
 

@@ -6,27 +6,15 @@
       url: "azure"
       tag: azure
       children:
-        - title: App Dev
-          url: "azure/appdev"
-          tag: appdev
-        - title: Data, Analytics, and AI
-          url: "azure/data-analytics-ai"
-          tag: data, analytics, and ai
-        - title: Infrastructure
-          url: "azure/infrastructure"
-          tag: infrastructure
         - title: IoT
           url: "azure/iot"
           tag: iot
-        - title: Azure Marketplace
-          url: "azure/azure-marketplace"
-          tag: marketplace
     - title: Industry
       url: "industry"
       tag: industry
       children:
         - title: Financial Services
-          url: "/industry/financial-services"
+          url: "industry/financial-services"
           tag: financial services
         - title: Healthcare
           url: "industry/healthcare"
@@ -52,13 +40,16 @@
       url: "skilling/ai-ml-academy"
       tag: ai ml academy
       children:
-        - title: Prebuilt AI
+        - title: Resources
+          url: "skilling/ai-ml-academy/resources"
+          tag: aiml resources
+        - title: Customizeable AI Models
           url: "skilling/ai-ml-academy/prebuilt-ai"
           tag: aiml prebuilt
         - title: Azure OpenAI
           url: "skilling/ai-ml-academy/openai"
           tag: aiml openai
-        - title: Applied AI
+        - title: Scenario-based Services
           url: "skilling/ai-ml-academy/applied-ai"
           tag: aiml applied
         - title: Build Your Own AI
@@ -86,9 +77,25 @@
         - title: Cosmos DB
           url: "skilling/azure-data-academy/cosmosdb"
           tag: ada cosmos db
-    - title: "Data Governance Academy"
-      url: "skilling/data-governance-academy"
-      tag: dga
+        - title: Resources
+          url: "skilling/azure-data-academy/resources"
+          tag: ada resources
+    - title: "Developer Velocity Academy"
+      url: "skilling/developer-velocity-academy"
+      tag: data velocity academy
+      children:
+        - title: Monitoring
+          url: "skilling/developer-velocity-academy/monitoring"
+          tag: dva monitoring
+        - title: DevOps
+          url: "skilling/developer-velocity-academy/devops"
+          tag: dva devops
+        - title: GitHub Copilot
+          url: "skilling/developer-velocity-academy/github-copilot"
+          tag: dva github copilot
+        - title: Resources
+          url: "skilling/developer-velocity-academy/resources"
+          tag: dva resources
     - title: "Dynamics 365"
       url: "skilling/d365-academy"
       tag: d365 academy
@@ -160,43 +167,43 @@
             - title: Business Central
               url: "skilling/d365-academy/d365-copilot-academy/business-central"
               tag: d365 copilot business central
-            - title: Power Virtual Agent
-              url: "skilling/d365-academy/d365-copilot-academy/pva"
+            - title: Copilot Studio
+              url: "skilling/d365-academy/d365-copilot-academy/copilotstudio"
               tag: d365 copilot pva
-        - title: "Marketing Academy"
-          url: "skilling/d365-academy/d365-marketing-academy"
-          tag: d365 marketing academy
+        - title: "Journeys"
+          url: "skilling/d365-academy/d365-ci-journeys"
+          tag: customer insights
           children:
             - title: Create Trial
-              url: "skilling/d365-academy/d365-marketing-academy/create-trial"
-              tag: d365 marketing academy createtrial
+              url: "skilling/d365-academy/d365-ci-journeys/create-trial"
+              tag: customer insights
             - title: Optimize Trial
-              url: "skilling/d365-academy/d365-marketing-academy/optimizetrial"
-              tag: d365 marketing academy optimizetrial
+              url: "skilling/d365-academy/d365-ci-journeys/optimizetrial"
+              tag: customer insights
             - title: Segments
-              url: "skilling/d365-academy/d365-marketing-academy/segments"
-              tag: d365 marketing academy segments
+              url: "skilling/d365-academy/d365-ci-journeys/segments"
+              tag: customer insights
             - title: E-mail
-              url: "skilling/d365-academy/d365-marketing-academy/email"
-              tag: d365 marketing academy email
+              url: "skilling/d365-academy/d365-ci-journeys/email"
+              tag: customer insights
             - title: SMS
-              url: "skilling/d365-academy/d365-marketing-academy/sms"
-              tag: d365 marketing academy sms
+              url: "skilling/d365-academy/d365-ci-journeys/sms"
+              tag: customer insights
             - title: Push Notification
-              url: "skilling/d365-academy/d365-marketing-academy/pushnotification"
-              tag: d365 marketing academy push
+              url: "skilling/d365-academy/d365-ci-journeys/pushnotification"
+              tag: customer insights
             - title: Forms
-              url: "skilling/d365-academy/d365-marketing-academy/forms"
-              tag: d365 marketing academy forms
+              url: "skilling/d365-academy/d365-ci-journeys/forms"
+              tag: customer insights
             - title: Triggers
-              url: "skilling/d365-academy/d365-marketing-academy/triggers"
-              tag: d365 marketing academy triggers
+              url: "skilling/d365-academy/d365-ci-journeys/triggers"
+              tag: customer insights
             - title: Journeys
-              url: "skilling/d365-academy/d365-marketing-academy/journeys"
-              tag: d365 marketing academy journeys
+              url: "skilling/d365-academy/d365-ci-journeys/journeys"
+              tag: customer insights
             - title: Lead Scoring
-              url: "skilling/d365-academy/d365-marketing-academy/leadscoring"
-              tag: d365 marketing academy leadscoring
+              url: "skilling/d365-academy/d365-ci-journeys/leadscoring"
+              tag: customer insights
         - title: "Sales Academy"
           url: "skilling/d365-academy/d365-sales-academy"
           tag: d365 sales academy
@@ -204,64 +211,174 @@
             - title: Viva Sales
               url: "skilling/d365-academy/d365-sales-academy/vivasales"
               tag: d365 sales academy viva sales
+    - title: "Azure Infrastructure Academy"
+      url: "skilling/microsoft-infrastructure-academy"
+      tag: IA
+      children:
+        - title: Resources
+          url: "skilling/microsoft-infrastructure-academy/resources"
+          tag: IA
+        - title: Video Modules
+          url: "skilling/microsoft-infrastructure-academy/modules"
+          tag: IA
+          children:
+            - title: Migrate & Secure
+              url: "skilling/microsoft-infrastructure-academy/windows-sql-servers"
+              tag: IA
+              children:
+                - title: Azure VMware Solution
+                  url: "/skilling/microsoft-infrastructure-academy/avs"
+                  tag: IA
+                - title: Azure Arc
+                  url: "/skilling/microsoft-infrastructure-academy/adaptive-cloud"
+                  tag: IA
+                - title: Azure Virtual Desktop
+                  url: "/skilling/microsoft-infrastructure-academy/avd"
+                  tag: IA
+                - title: Networking
+                  url: "/skilling/microsoft-infrastructure-academy/networking"
+                  tag: IA
+            - title: SAP on Azure
+              url: "skilling/microsoft-infrastructure-academy/sap-on-azure"
+              tag: IA
+            - title: Customer Success
+              url: "skilling/microsoft-infrastructure-academy/enable-customer-success"
+              tag: IA
+              children:
+                - title: Well Architected Framework
+                  url: "/skilling/microsoft-infrastructure-academy/waf"
+                  tag: IA
+                - title: Cloud Adoption Framework
+                  url: "/skilling/microsoft-infrastructure-academy/cloud-adoption-framework"
+                  tag: IA
+            - title: AI Infrastructure
+              url: "skilling/microsoft-infrastructure-academy/ai-infrastructure"
+              tag: IA
+    - title: "Modern Analytics Academy"
+      url: "skilling/modern-analytics-academy"
+      tag: maa
+      children:
+        - title: Overview
+          url: "skilling/modern-analytics-academy/"
+          tag: maa
+        - title: Modules
+          url: "skilling/modern-analytics-academy/modules"
+          tag: maa 
+          children:
+          - title: Acquisition & Storage
+            url: "skilling/modern-analytics-academy/modules/acquisition"
+            tag: maa        
+          - title: Data Engineering
+            url: "skilling/modern-analytics-academy/modules/engineering"
+            tag: maa
+          - title: Data Science
+            url: "skilling/modern-analytics-academy/modules/datascience"
+            tag: maa
+          - title: Security & Governance
+            url: "skilling/modern-analytics-academy/modules/governance"
+            tag: maa
+          - title: Visualization
+            url: "skilling/modern-analytics-academy/modules/visualization"
+            tag: maa
+        - title: Certs & Specialization
+          url: "skilling/modern-analytics-academy/certs-and-specialization"
+          tag: maa
+        - title: Hands-on
+          url: "skilling/modern-analytics-academy/hands-on"
+          tag: maa
+        - title: Vignettes
+          url: "skilling/modern-analytics-academy/vignettes"
+          tag: maa
+        - title: Resources
+          url: "skilling/modern-analytics-academy/resources"
+          tag: maa
+    - title: "Partner Onboarding Academy"
+      url: "skilling/partner-onboarding-academy"
+      tag: partner onboarding academy
+      children:
+        - title: Onboard
+          url: "skilling/partner-onboarding-academy/onboard"
+          tag: partner center
+        - title: Build
+          url: "skilling/partner-onboarding-academy/build"
+          tag: partner center
+        - title: Market
+          url: "skilling/partner-onboarding-academy/market"
+          tag: market
+          children:
+          - title: Create Offer
+            url: "skilling/partner-onboarding-academy/create-offer"
+            tag: create offer
+        - title: Grow
+          url: "skilling/partner-onboarding-academy/grow"
+          tag: grow
+          children:
+          - title: Create Transactable Offer
+            url: "skilling/partner-onboarding-academy/transactable-offer"
+            tag: transactable offer
+          - title: Co-Sell & IP Co-Sell Ready
+            url: "skilling/partner-onboarding-academy/cosell"
+            tag: transactable offer
+          - title: Create MACC Offer
+            url: "skilling/partner-onboarding-academy/macc-offer"
+            tag: macc offer
+        - title: Accelerate
+          url: "skilling/partner-onboarding-academy/accelerate"
+          tag: accelerate
+        - title: FAQ
+          url: "skilling/partner-onboarding-academy/faq"
+          tag: faq
+        - title: Acronyms
+          url: "skilling/partner-onboarding-academy/acronyms"
+          tag: acronyms
     - title: "Security Academy"
       url: "skilling/microsoft-security-academy"
-      tag: microsoft security academy
+      tag: msa
       children:
         - title: Getting Started
           url: "skilling/microsoft-security-academy/start"
-          tag: getting started
+          tag: msa
+        - title: Copilot for Security
+          url: "skilling/microsoft-security-academy/microsoft-copilot-for-security"
+          tag: msa
+          children:
+            - title: Q&A
+              url: "skilling/microsoft-security-academy/microsoft-copilot-for-security-qa"
+              tag: msa
+            - title: Learning Path
+              url: "skilling/microsoft-security-academy/microsoft-copilot-for-security-learning-path"
+              tag: msa
         - title: Modules
           url: "skilling/microsoft-security-academy/modules"
-          tag: modules
+          tag: msa
           children:
-            - title: SIEM + XDR
-              url: "skilling/microsoft-security-academy/siem-xdr"
-              tag: siem & xdr
-              children:
-                - title: Microsoft Sentinel Academy
-                  url: "skilling/microsoft-security-academy/sentinel-academy"
-                  tag: sentinel
-                - title: Microsoft 365 Defender Academy
-                  url: "skilling/microsoft-security-academy/365d-academy"
-                  tag: 365d-academy
-            - title: Cloud Security
-              url: "skilling/microsoft-security-academy/cloud-security"
-              tag: cloud security
-              children:
-                - title: Microsoft Defender for Cloud Academy
-                  url: "skilling/microsoft-security-academy/defender-academy"
-                  tag: defender for cloud
-                - title: Azure Network Security Academy
-                  url: "skilling/microsoft-security-academy/network-academy"
-                  tag: network security
-            - title: Identity and Access
-              url: "skilling/microsoft-security-academy/identity-access"
-              tag: identity & access
-              children:
-                - title: Microsoft Entra Academy
-                  url: "skilling/microsoft-security-academy/entra-academy"
-                  tag: entra
+            - title: Microsoft Sentinel
+              url: "skilling/microsoft-security-academy/sentinel-academy"
+              tag: msa
+            - title: Microsoft Defender XDR
+              url: "skilling/microsoft-security-academy/dxdr-academy"
+              tag: msa
+            - title: Microsoft Defender for Cloud
+              url: "skilling/microsoft-security-academy/defender-academy"
+              tag: msa
+            - title: Microsoft Entra
+              url: "skilling/microsoft-security-academy/entra-academy"
+              tag: msa
+            - title: Network Security
+              url: "skilling/microsoft-security-academy/network-academy"
+              tag: msa
             - title: Endpoint Security
-              url: "skilling/microsoft-security-academy/endpoint-security"
-              tag: endpoint security
-              children: 
-                - title: Endpoint Security Academy
-                  url: "skilling/microsoft-security-academy/endpoint-academy"
-                  tag: endpoint security academy
-            - title: Data Security and Governance
-              url: "skilling/microsoft-security-academy/data-sec"
-              tag: data security and governance
-              children:
-                - title: Microsoft Purview Academy
-                  url: "skilling/microsoft-security-academy/purview-academy"
-                  tag: purview
+              url: "skilling/microsoft-security-academy/endpoint-academy"
+              tag: msa
+            - title: Microsoft Purview
+              url: "skilling/microsoft-security-academy/purview-academy"
+              tag: msa
         - title: Resources
           url: "skilling/microsoft-security-academy/resources"
-          tag: resources
+          tag: msa
         - title: Specializations
           url: "skilling/microsoft-security-academy/specializations"
-          tag: specializations
+          tag: msa
     - title: "Teams Academy"
       url: "skilling/microsoft-teams-academy"
       tag: mta
@@ -285,32 +402,25 @@
             - title: Platform
               url: "skilling/microsoft-teams-academy/platform"
               tag: mta platform
-            - title: Security & Governance
-              url: "skilling/microsoft-teams-academy/security"
-              tag: mta security
         - title: Resources
           url: "modern-workplace"
           tag: modern workplace
           children:
-            - title: Management
-              url: "modern-workplace/management"
-              tag: modern workplace management
             - title: Microsoft Teams
               url: "modern-workplace/microsoft-teams"
               tag: microsoft teams
-    - title: "Modern Analytics Academy"
-      url: "skilling/modern-analytics-academy"
-      tag: modern analytics academy
-      children:
-        - title: Core Sessions
-          url: "skilling/modern-analytics-academy/core-sessions"
-          tag: maa core
-        - title: Hands-on
-          url: "skilling/modern-analytics-academy/hands-on"
-          tag: maa hands on
-        - title: Vignettes
-          url: "skilling/modern-analytics-academy/vignettes"
-          tag: vignettes
-    - title: "Partner Showcase"
-      url: "skilling/microsoft-partner-showcase"
+- title: "Partner Showcase"
+  url: "skilling/microsoft-partner-showcase"
+  tag: partnershowcase
+  links:
+    - title: Data & Analytics 
+      url: "skilling/microsoft-partner-showcase/data-and-analytics"
       tag: partnershowcase
+    - title: Embedded Analytics Accelerators
+      url: "skilling/microsoft-partner-showcase/embedded-analytics"
+      tag: partnershowcase
+    - title: Security
+      url: "skilling/microsoft-partner-showcase/security"
+      tag: partnershowcase
+       
+       

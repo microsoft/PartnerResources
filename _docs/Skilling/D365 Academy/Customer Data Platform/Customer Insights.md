@@ -2,7 +2,7 @@
 layout: page
 title: Customer Insights
 description: Resources for Customer Insights
-updated: 2023-08-18
+updated: 2024-04-16
 permalink: /skilling/d365-academy/business-applications/customer-data-platform/customer-insights
 tags:
 - learning plan
@@ -57,7 +57,7 @@ _**Note:** An on-demand video version will be available shortly_
 
 ## Certifications
 
-* [Exam MB-260: Microsoft Customer Data Platform Specialist](https://learn.microsoft.com/en-us/certifications/exams/mb-230)
+* [Exam MB-260: Microsoft Customer Data Platform Specialist](https://learn.microsoft.com/en-us/credentials/certifications/d365-customer-insights-data-specialty/?practice-assessment-type=certification)
 * [Exam MB-220: Dynamics Marketing](https://learn.microsoft.com/en-us/certifications/exams/mb-220)
 
 
