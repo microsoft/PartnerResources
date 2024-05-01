@@ -4,12 +4,13 @@ title: Copilot and AI in Supply Chain Management & Commerce
 description: Copilot and AI capabilities in Supply Chain Management & Commerce
 updated: 2024-04-30
 permalink: /skilling/d365-academy/business-applications/copilot/SCMandCommerce
+includerelated: false
 tags:
 - learning plan
 - business applications
 - finance and operations
 - connected commerce
-- Copilot
+- copilot
 ---
 
 # Learning Plan Resources for Dynamics 365 Finance & Supply Chain Management (ERP) Copilot
