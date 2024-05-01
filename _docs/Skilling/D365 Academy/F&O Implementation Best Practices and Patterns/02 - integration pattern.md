@@ -5,6 +5,7 @@ description: 02 D365 F&O Integration Best Practices, Patterns and Anti-Patterns
 updated: 2024-04-30
 permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/intscenario-02
 tags:
+- d365 academy
 - business applications
 - finance and operations
 - integration patterns

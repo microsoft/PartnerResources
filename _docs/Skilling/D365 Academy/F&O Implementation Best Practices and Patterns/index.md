@@ -1,7 +1,7 @@
 ---
 layout: page
 title: F&O Implementation Best Practices, Patterns and Anti-Patterns
-sorttitle: 02
+sorttitle: 01
 description: F&O Implementation Best Practices, Patterns and Anti-Patterns
 permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns
 updated: 2024-04-30
@@ -11,6 +11,8 @@ tags:
 - d365
 - dynamics
 - finops implementations
+- academy page
+- main page
 ---
 
 
