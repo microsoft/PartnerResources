@@ -3,7 +3,7 @@ layout: page
 title: Scenario 01 - Loading large volume of data using Data Management Framework
 description: 01 D365 F&O Data Migration Best Practices, Patterns and Anti-Patterns
 updated: 2024-04-30
-permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/dmscenario-01
+permalink: /skilling/d365-academy/business-applications/finops-implementation-bestpractices-and-patterns/dmscenario-01
 tags:
 - d365 academy
 - business applications
