@@ -155,7 +155,7 @@
               url: "skilling/d365-academy/d365-commerce-academy/commerce-hq"
               tag: d365 commerce hq
         - title: "F&O Implementation Best Practices"
-          url: "skilling/d365-academy/finops-implementation-best-practices-and-patterns"
+          url: "skilling/d365-academy/business-applications/finops-implementation-best-practices-and-patterns"
           tag: finops implementation
         - title: "Copilot Academy"
           url: "skilling/d365-academy/d365-copilot-academy"
