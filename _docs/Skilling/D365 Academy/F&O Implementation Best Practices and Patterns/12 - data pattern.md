@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Core
-description: 02 D365 F&O Integration Best Practices, Patterns and Anti-Patterns
+title: Scenario 2 - Loading large volume of data in batch mode (Import in batch)
+description: 02 D365 F&O Data Migration Best Practices, Patterns and Anti-Patterns
 updated: 2024-04-30
-permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/intscenario-02
+permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/dmscenario-02
 tags:
 - business applications
 - finance and operations
-- integration patterns
+- data patterns
 - finops implementations
 ---
 
-# D365 F&O Integration Best Practices, Patterns and Anti-Patterns
+# D365 F&O Data Migration Best Practices, Patterns and Anti-Patterns
 
-## Scenario # 1 - Loading large volume of data in batch mode (Import in batch)
+## Scenario # 2 - Loading large volume of data in batch mode (Import in batch)
 Loading large volume of data in batch mode (Import in batch) is taking same amount of time as it takes in asynch import (Import now). It is not possible for the business to complete data loading within the defined cut-over time.
 
 ## Patterns
