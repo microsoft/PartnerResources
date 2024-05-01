@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scenario 2 - Loading large volume of data in batch mode (Import in batch)
+title: Data Migration scenario 02 - Loading large volume of data in batch mode (Import in batch)
 description: 02 D365 F&O Data Migration Best Practices, Patterns and Anti-Patterns
 updated: 2024-04-30
 permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/dmscenario-02

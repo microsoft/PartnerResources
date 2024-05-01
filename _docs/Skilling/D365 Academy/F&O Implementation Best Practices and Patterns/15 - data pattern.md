@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scenario 5 - Customer plans to use ‘Dual Write (DW)’ infrastructure to integrate data
+title: Data Migration scenario 05 - Customer plans to use ‘Dual Write (DW)’ infrastructure to integrate data
 description: 05 D365 F&O Data Migration Best Practices, Patterns and Anti-Patterns
 updated: 2024-04-30
 permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/dmscenario-05
