@@ -10,7 +10,6 @@ tags:
 - d365 academy
 - d365
 - dynamics
-- finops implementations
 - academy page
 - main page
 ---
@@ -20,9 +19,17 @@ tags:
 
  Welcome to the **Dynamics 365 F&O Implementation Best Practices, Patterns and Anti-Patterns**
 
-# All Content
+# Integration Best Practices and Patterns
 {% include series.md 
-    includetags="finops implementations" 
+    includetags="finops implementations|integration patterns" 
+    includemethod="all" 
+    sortfield="updated" sortorder="asc" showdate="false" 
+    showtags="true" visualstyle="tiny" 
+%}
+
+# Data Migration Best Practices and Patterns
+{% include series.md 
+    includetags="finops implementations|data patterns" 
     includemethod="all" 
     sortfield="updated" sortorder="asc" showdate="false" 
     showtags="true" visualstyle="tiny" 

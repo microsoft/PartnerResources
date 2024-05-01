@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scenario 4 - The business has high volume of data
+title: Data Migration scenario 04 - The business has high volume of data
 description: 04 D365 F&O Data Migration Best Practices, Patterns and Anti-Patterns
 updated: 2024-04-30
 permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/dmscenario-04
