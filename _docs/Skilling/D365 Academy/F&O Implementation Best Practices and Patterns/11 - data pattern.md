@@ -5,6 +5,7 @@ description: 01 D365 F&O Data Migration Best Practices, Patterns and Anti-Patter
 updated: 2024-04-30
 permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/dmscenario-01
 tags:
+- d365 academy
 - business applications
 - finance and operations
 - data patterns
