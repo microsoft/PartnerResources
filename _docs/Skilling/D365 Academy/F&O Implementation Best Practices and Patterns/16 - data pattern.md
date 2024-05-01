@@ -3,7 +3,7 @@ layout: page
 title: Scenario 06 - customer needs to have as much historical sales data as possible
 description: 05 D365 F&O Data Migration Best Practices, Patterns and Anti-Patterns
 updated: 2024-04-30
-permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/dmscenario-06
+permalink: /skilling/d365-academy/business-applications/finops-implementation-bestpractices-and-patterns/dmscenario-06
 tags:
 - d365 academy
 - business applications
