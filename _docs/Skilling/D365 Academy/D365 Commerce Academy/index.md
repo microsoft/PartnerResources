@@ -4,7 +4,7 @@ title: D365 Commerce Academy - Academy Home
 sorttitle: 01
 description: D365 Commerce Academy - Academy Home
 permalink: /skilling/d365-academy/d365-commerce-academy/
-updated: 2023-08-03
+updated: 2024-04-30
 showbreadcrumb: true
 tags:
 - d365 academy
@@ -16,8 +16,6 @@ tags:
 ---
 
 # {{ page.title }}
-
-> More coming soon! The D365 Commerce Academy is undergoing improvements. Please check regularly for updates.
 
 Welcome to the **Dynamics 365 Commerce Academy.**
 
