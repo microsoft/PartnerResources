@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Integration scenario 04 - credit check / limit assignment is done with external service call
+title: Scenario 04 - credit check / limit assignment is done with external service call
 description: 04 D365 F&O Integration Best Practices, Patterns and Anti-Patterns
 updated: 2024-04-30
 permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/intscenario-04
