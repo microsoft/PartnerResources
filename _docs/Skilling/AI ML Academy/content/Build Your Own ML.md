@@ -4,7 +4,7 @@ title: AI & ML Academy - Build Your Own ML
 sorttitle: 04
 description: Build Your Own ML
 permalink: /skilling/ai-ml-academy/build-your-own-ml
-updated: 2024-04-22
+updated: 2024-05-1
 showbreadcrumb: true
 tags: 
 - azure
