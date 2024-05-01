@@ -17,20 +17,20 @@ tags:
 
 #  {{ page.title }}
 
- Welcome to the **Dynamics 365 F&O Implementation Best Practices, Patterns and Anti-Patterns** We currently have Integration and Data Migration best practices that could be critical in making your implementation project a success.
+ Welcome to the **Dynamics 365 F&O Implementation Best Practices, Patterns and Anti-Patterns** We currently have Data Migration and Integration best practices that could be critical in making your implementation project a success.
 
-# Integration Best Practices and Patterns
+# Data Migration Best Practices and Patterns
 {% include series.md 
-    includetags="finops implementations|integration patterns" 
+    includetags="finops implementations|data patterns" 
     includemethod="all" 
     sortfield="updated" sortorder="asc" showdate="false" 
     showtags="true" visualstyle="tiny" 
 %}
 
 
-# Data Migration Best Practices and Patterns
+# Integration Best Practices and Patterns
 {% include series.md 
-    includetags="finops implementations|data patterns" 
+    includetags="finops implementations|integration patterns" 
     includemethod="all" 
     sortfield="updated" sortorder="asc" showdate="false" 
     showtags="true" visualstyle="tiny" 
