@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Migration scenario 07 - Master data lying in multiple disparate systems partly due to M&A
+title: Scenario 07 - Master data lying in multiple disparate systems partly due to M&A
 description: 05 D365 F&O Data Migration Best Practices, Patterns and Anti-Patterns
 updated: 2024-04-30
 permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/dmscenario-07
