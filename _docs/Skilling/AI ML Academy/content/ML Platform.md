@@ -4,7 +4,7 @@ title: AI & ML Academy - Azure Machine Learning Platform
 sorttitle: 05
 description: Azure Machine Learning Platform
 permalink: /skilling/ai-ml-academy/aml-plat
-updated: 2023-04-13
+updated: 2024-05-1
 showbreadcrumb: true
 tags: 
 - azure
@@ -188,7 +188,7 @@ The learning resources will not be a deep dive into how to support and develop i
 | AML Inference Compute| 100|[Model Deployment and Inferencing in AML](https://www.youtube.com/watch?v=WZ7vS10KPAw&ab_channel=MicrosoftAzure)|
 || 200|[Compute Targets for Inference](https://learn.microsoft.com/en-us/azure/machine-learning/concept-compute-target#compute-targets-for-inference)|
 || 300 |[Attach AKS to Azure ML Workspace](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-attach-kubernetes-to-workspace?source=recommendations&tabs=cli)|
-| AML Managed Endpoint| 100|[AML Endpoint Overview](https://learn.microsoft.com/en-us/azure/machine-learning/concept-endpoint)|
+| AML Managed Endpoint| 100|[AML Endpoint Overview](https://learn.microsoft.com/en-us/azure/machine-learning/concept-endpoints-online?view=azureml-api-2)|
 || 200|[Score model with online endpoint](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-managed-online-endpoints?tabs=azure-cli)|
 || 300 |[AML in a Day Tutorial](https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day)|
 | SQL Edge| 100|[What is Azure SQL Edge](https://www.youtube.com/watch?v=QkuJs7S8e6w&ab_channel=MicrosoftDeveloper)|
