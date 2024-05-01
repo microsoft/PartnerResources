@@ -3,7 +3,7 @@ layout: page
 title: F&O Implementation Best Practices, Patterns and Anti-Patterns
 sorttitle: 01
 description: F&O Implementation Best Practices, Patterns and Anti-Patterns
-permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns
+permalink: /skilling/d365-academy/business-applications/finops-implementation-bestpractices-and-patterns
 updated: 2024-04-30
 showbreadcrumb: true
 tags:
