@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Core
+title: Scenario 4 - credit check / limit assignment is done with external service call
 description: 04 D365 F&O Integration Best Practices, Patterns and Anti-Patterns
 updated: 2024-04-30
 permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/intscenario-04
@@ -13,26 +13,18 @@ tags:
 
 # D365 F&O Integration Best Practices, Patterns and Anti-Patterns
 
-## Scenario # 1 - Loading large volume of data in batch mode (Import in batch)
-Loading large volume of data in batch mode (Import in batch) is taking same amount of time as it takes in asynch import (Import now). It is not possible for the business to complete data loading within the defined cut-over time.
+## Scenario # 4 - credit check / limit assignment is done with external service call
+Customer credit check / limit assignment is done with external service call. Credit process is run for new customer during order capture.Credit process can take 1-2 minutes to complete.This process is used in a high-volume call center
+
 
 ## Patterns
-Optimize data migration performance through bundling and iterative performance testing
+Interactive asynchronous service invocation
 
-* Use Import in batch to leverage multi-threading capabilities
+* Create order with active hold. Create batch task with pop-up alert, to call external service and then clear hold upon successful credit processing.
 
-* Use Import threshold record count and Import task count to utilize batch bundling
+In the pattern recommended, the end user experience (e.g. response time) does not take a dependency on the latency of the external service call, while still allowing the process to quickly alert the user via the message center.
 
-* Determine appropriate value of threads, threshold record count, import task count etc. based on data size & number of available batch threads.
-
-* Data migration performance testing is an iterative process; thus it is suggested that information regarding each test is collected and compared, to determine the optimal configuration for a specific entity
 
 
 ## Anti-Patterns
-* DO NOT import large data interactively
-
-* NO plan for data migration performance testing and tuning
-
-* DO NOT use production for data migration testing.
-
-* DO NOT plan single iteration data migration.
+* Synchronous, blocking call to external service while the end user session waits on the results.

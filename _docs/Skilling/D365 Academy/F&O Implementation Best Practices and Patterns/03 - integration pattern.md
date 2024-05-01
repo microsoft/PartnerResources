@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Core
+title: Scenario 3 - propagate information about order confirmations to multiple outbound systems
 description: 03 D365 F&O Integration Best Practices, Patterns and Anti-Patterns
 updated: 2024-04-30
 permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/intscenario-03
@@ -13,26 +13,34 @@ tags:
 
 # D365 F&O Integration Best Practices, Patterns and Anti-Patterns
 
-## Scenario # 1 - Loading large volume of data in batch mode (Import in batch)
-Loading large volume of data in batch mode (Import in batch) is taking same amount of time as it takes in asynch import (Import now). It is not possible for the business to complete data loading within the defined cut-over time.
+## Scenario # 3 - propagate information about order confirmations to multiple outbound systems
+Customer has the need to propagate information about order confirmations to multiple systems:
+* Immediately notify a department head (via email) 
+* Add confirmed order to a SharePoint list.
+* Record the Id of the confirmed order in an external system (SQL DB).
+
 
 ## Patterns
-Optimize data migration performance through bundling and iterative performance testing
+Publish-subscribe messaging
 
-* Use Import in batch to leverage multi-threading capabilities
+* Standard or custom Business Event, to a Service Bus Topic, 3 subscriptions
 
-* Use Import threshold record count and Import task count to utilize batch bundling
+* Use Logic App/Power Automate flows and built-in connectors
+    * For sending e-mail notification
+    * Inserting into SharePoint list
+    * Inserting record into SQL server
 
-* Determine appropriate value of threads, threshold record count, import task count etc. based on data size & number of available batch threads.
+* Create your own Business Event when the integration requirements are right (small and nimble messages, no bulk data, business process driven context). Custom business events are quite straightforward.
 
-* Data migration performance testing is an iterative process; thus it is suggested that information regarding each test is collected and compared, to determine the optimal configuration for a specific entity
+* Consider out of the box tools in Azure to minimize point-to-point integrations and support pub-sub or multiplexing/demultiplexing. Standard connectors are much easier than writing your own client for an API.
+
+* For pub-sub, consider the consumer with the shortest required latency (e.g. notifications could be needed closer to real-time than the other end-points)
 
 
 ## Anti-Patterns
-* DO NOT import large data interactively
+* DO NOT Use custom code to call all three consumers directly.
 
-* NO plan for data migration performance testing and tuning
+* Build different triggers for the three consumers.
 
-* DO NOT use production for data migration testing.
+* Ignore latency requirements in the scenarios (for example, timely notifications).
 
-* DO NOT plan single iteration data migration.

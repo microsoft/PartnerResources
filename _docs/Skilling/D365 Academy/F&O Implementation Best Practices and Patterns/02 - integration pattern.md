@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Core
+title: Scenario 2 - sales orders from 3rd party system(s)e
 description: 02 D365 F&O Integration Best Practices, Patterns and Anti-Patterns
 updated: 2024-04-30
 permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/intscenario-02
@@ -13,26 +13,25 @@ tags:
 
 # D365 F&O Integration Best Practices, Patterns and Anti-Patterns
 
-## Scenario # 1 - Loading large volume of data in batch mode (Import in batch)
-Loading large volume of data in batch mode (Import in batch) is taking same amount of time as it takes in asynch import (Import now). It is not possible for the business to complete data loading within the defined cut-over time.
+## Scenario # 2 - sales orders from 3rd party system(s)
+Customer needs to create sales orders that are coming from 3rd party system(s) (for example, Salesforce, B2B web shop, Amazon, …)
+* Up to 20k Sales Lines per hour in high season from B2B web shops
+* 500 Sales Lines per hour peak from Salesforce
+
 
 ## Patterns
-Optimize data migration performance through bundling and iterative performance testing
+Sales order entry - Inbound
 
-* Use Import in batch to leverage multi-threading capabilities
+* Low volume: OData
+    * Benefit: Simpler error handling and multi-system transactionality.
 
-* Use Import threshold record count and Import task count to utilize batch bundling
-
-* Determine appropriate value of threads, threshold record count, import task count etc. based on data size & number of available batch threads.
-
-* Data migration performance testing is an iterative process; thus it is suggested that information regarding each test is collected and compared, to determine the optimal configuration for a specific entity
-
+* High volume: Batched integration through 
+    * Data Management API
+    * Or Custom Services
 
 ## Anti-Patterns
-* DO NOT import large data interactively
+* Complex entity through OData batch for high volume inbound
 
-* NO plan for data migration performance testing and tuning
+* Expensive subsequent logic on entity (ex: intercompany, Available to Promise (ATP) / Capable to Promise (CTP) checks, etc.)
 
-* DO NOT use production for data migration testing.
 
-* DO NOT plan single iteration data migration.

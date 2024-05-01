@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Core
+title: Scenario 5 - High volume/availability e-Commerce pricing
 description: 05 D365 F&O Integration Best Practices, Patterns and Anti-Patterns
 updated: 2024-04-30
 permalink: /skilling/d365-academy/business-applications/finops implementation best practices and patterns/intscenario-05
@@ -13,26 +13,28 @@ tags:
 
 # D365 F&O Integration Best Practices, Patterns and Anti-Patterns
 
-## Scenario # 1 - Loading large volume of data in batch mode (Import in batch)
-Loading large volume of data in batch mode (Import in batch) is taking same amount of time as it takes in asynch import (Import now). It is not possible for the business to complete data loading within the defined cut-over time.
+## Scenario # 5 - High volume/availability e-Commerce pricing
+High volume/availability e-Commerce pricing
+* Third party e-Commerce framework
+* Millions of customers
+* Hundred thousand products
+* Complex pricing / trade agreements
+
 
 ## Patterns
-Optimize data migration performance through bundling and iterative performance testing
+High volume/availability e-Commerce pricing
 
-* Use Import in batch to leverage multi-threading capabilities
+* Caching of price and discount data in a middle tier outside F&O
+    * Variant 1: Middleware -> Example: Dynamics 365 for Commerce RCSU
+    * Variant 2: Middleware -> Example: 3rd party pricing service
 
-* Use Import threshold record count and Import task count to utilize batch bundling
-
-* Determine appropriate value of threads, threshold record count, import task count etc. based on data size & number of available batch threads.
-
-* Data migration performance testing is an iterative process; thus it is suggested that information regarding each test is collected and compared, to determine the optimal configuration for a specific entity
-
+* You must either duplicate the pricing logic or cache all permutations. This may be impractical if very complex.If pricing is too complex or volatile, then consider a near real-time pattern which does not block the UI.
 
 ## Anti-Patterns
-* DO NOT import large data interactively
+* Real-time (synchronous) price lookups for all search results
 
-* NO plan for data migration performance testing and tuning
+* High degree of coupling between ERP and e-commerce systems.
 
-* DO NOT use production for data migration testing.
+* Routing of service calls to pricing service through F&O
 
-* DO NOT plan single iteration data migration.
+* Over-loading the ERP with item price OData queries. These could get throttled as well.Under load, blocking price lookups would make the e-commerce site seem slow. 
