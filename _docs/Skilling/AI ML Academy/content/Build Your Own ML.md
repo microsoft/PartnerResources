@@ -4,7 +4,7 @@ title: AI & ML Academy - Build Your Own ML
 sorttitle: 04
 description: Build Your Own ML
 permalink: /skilling/ai-ml-academy/build-your-own-ml
-updated: 2024-04-22
+updated: 2024-05-01
 showbreadcrumb: true
 tags: 
 - azure
@@ -52,7 +52,7 @@ To understand how Azure ML helps users, let's compare two cases of implementing 
 ### Without Azure ML
 1. **Computer.** This is usually your laptop with limited capacity.
 
-2. **Python environment.** Best practice is to create a virtual environment per project and install all necessary packages. It takes some time and configuring some packages with each other (e.g., tensorflow, pytorch) may be difficult. Some packages may not work on some operating systems. 
+2. **Python environment.** Best practice is to create a virtual environment per project and install all necessary packages. It takes some time and configuring some packages with each other (e.g., TensorFlow, Pytorch) may be difficult. Some packages may not work on some operating systems. 
 
 3. **Data.** During the development, we usually use CSV sample files. Sometimes, we need to reconfigure the code to accept data in a different format in production.
 
