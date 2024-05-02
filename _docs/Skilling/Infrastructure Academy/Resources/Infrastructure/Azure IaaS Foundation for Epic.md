@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Azure IaaS Foundation Services for Epic
-description: Azure IaaS Foundation Services for Epic
+title: Azure IaaS Foundation Services for Epic on Azure
+description: Azure IaaS Foundation Services for Epic on Azure
 updated: 2024-05-03
 permalink: /skilling/microsoft-infrastructure-academy/resources/epic-on-azure-foundation-services
 tags: 
@@ -11,7 +11,7 @@ tags:
 - epic on azure resources
 ---
 
-# Azure IaaS Foundation Services for Epic
+# Azure IaaS Foundation Services for Epic on Azure
 
 ## Compute
 

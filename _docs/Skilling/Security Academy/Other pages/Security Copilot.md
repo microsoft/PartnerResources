@@ -82,7 +82,7 @@ Several colleagues have created comprehensive on-demand **[Technical Workshops f
 
 Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all of the recent developments, my colleague Sameh Younis and I created this Copilot for Security Technical Journey. We will update the Journey weekly.
 
-Recent Update (May 3rd, 2024): [3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins) |
+**Most Recent Update** (May 3rd, 2024): [3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins) |
 
 
 ## Learn Copilot for Security
