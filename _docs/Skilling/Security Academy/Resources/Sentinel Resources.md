@@ -39,7 +39,7 @@ Below you will find content to assist in skilling on Microsoft Sentinel. Content
 #### Building a Demo. Instance🚀
 Use these steps to build a demo instance; free for one month
 
-1. **[Microsoft Sentinel All In One](https://aka.ms/SentinelAllInOne)** -> Speed up Microsoft Sentinel deployment and initial configuration tasks in just a few clicks.
+1. **[Microsoft Sentinel All In One](https://aka.ms/SentinelAllInOne)** -> Accelerate Microsoft Sentinel deployment and configuration with just a few clicks.
 2. [**GitHub:** Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
 3. [Connect Microsoft Entra to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
 4. [**GitHub:** Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)
