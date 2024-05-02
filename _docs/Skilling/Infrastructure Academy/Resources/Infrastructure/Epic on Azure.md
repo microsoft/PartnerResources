@@ -13,7 +13,7 @@ tags:
 
 # Resources for Epic on Azure
 
-#### Also explore our [Azure IaaS Foundation Services for Epic resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/epic-on-azure-foundation-services)!
+#### Also explore our [Azure IaaS Foundation Services for Epic resources!](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/epic-on-azure-foundation-services)🔎
 
 ## Microsoft & Healthcare
 * [Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare)
