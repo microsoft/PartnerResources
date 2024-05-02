@@ -74,7 +74,7 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 ### Events
 
-* [**Copilot for Security “Codebreakers” Workshop: Decoding AI-powered Security Basics** (Tuesday, May 21st at 9:00 AM - 1:00 PM – Wednesday, May 22, 2024 at 9:00 AM - 1:15 PM GMT-08:00)](https://msevents.microsoft.com/event?id=2452250535)
+* [**Copilot for Security “Codebreakers” Workshop: Decoding AI-powered Security Basics** (Tuesday, May 21st at 9:00 AM - 1:00 PM – Wednesday, May 22nd, 2024 at 9:00 AM - 1:00 PM GMT-08:00)](https://msevents.microsoft.com/event?id=2452250535)
 
 Several colleagues have created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).** They're well worth your time and cater specifically to security professionals, administrators, and all others interested in leveraging the power of AI to bolster security infrastructure.
 
