@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Azure Infrastructure Academy
 description: Microsoft Azure Infrastructure Academy
-updated: 2024-04-18
+updated: 2024-05-03
 permalink: /skilling/microsoft-infrastructure-academy
 redirect_from:
   - /skilling/microsoft-infrastructure-academy/
@@ -22,7 +22,7 @@ Ready to elevate your organization's cloud infrastructure? Managing Azure infras
 
 Keep your organization resilient against evolving challenges with continuous learning through our **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)**. Our **[Resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources)** complement the **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** and empower you to dive deeper into key Azure infrastructure concepts.
 
-Explore our new resources for **[Epic on Azure](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/epic-on-azure-resources)!🎉**
+Explore our new resources for **[Epic on Azure](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/epic-on-azure-resources)** and **[Foundation Services for Epic on Azure](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/epic-on-azure-foundation-services).!🎉**
 
 
 ![IA Organizational Chart]({{ site.baseurl }}/assets/msa/IA Thumbnail.png)
@@ -46,7 +46,7 @@ Watch **[Satya Nadella talk to NVIDIA's Jensen Huang](https://youtu.be/QsWtiop4I
 * [Azure Networking Blog](https://techcommunity.microsoft.com/t5/azure-networking-blog/bg-p/AzureNetworkingBlog)
 * [Azure Virtual Desktop Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog)
 * [Core Infrastructure and Security Blog](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bg-p/CoreInfrastructureandSecurityBlog)
-* [Linux and Open Source Blog](https://techcommunity.microsoft.com/t5/linux-and-open-source-blog/bg-p/LinuxandOpenSourceBlog)
+* [Linux and Open-Source Blog](https://techcommunity.microsoft.com/t5/linux-and-open-source-blog/bg-p/LinuxandOpenSourceBlog)
 * [Running SAP Applications on the Microsoft Platform Blog](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications)
 
 ## Meet our Team🎉

@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2024-04-04
+updated: 2024-05-02
 permalink: /security/microsoft-security-academy/microsoft-sentinel
 tags:
 - security
@@ -15,7 +15,7 @@ tags:
 # Microsoft Sentinel Resources
 Below you will find content to assist in skilling on Microsoft Sentinel. Content is organized by increasing levels of complexity (Fundamentals, Associate) followed by other associated critical resources.
 
-## April 2024 Update📰
+## May 2024 Update📰
 
 * **NEW:** [SOAR Capabilities in Microsoft Sentinel](https://mccybersec.github.io/microsoft%20sentinel/SOAR-Capabilities-with-Microsoft-Sentinel/?utm_source=substack&utm_medium=email)
 * **NEW:** [Continuously import Threat Intelligence (TI) Indicators in Microsoft Sentinel](https://mccybersec.github.io/microsoft%20sentinel/threat-intelligence-upload/?utm_source=substack&utm_medium=email)
@@ -39,7 +39,7 @@ Below you will find content to assist in skilling on Microsoft Sentinel. Content
 #### Building a Demo. Instance🚀
 Use these steps to build a demo instance; free for one month
 
-1. **[Microsoft Sentinel All In One](https://aka.ms/SentinelAllInOne)** -> Speed up Microsoft Sentinel deployment and initial configuration tasks in a few clicks.
+1. **[Microsoft Sentinel All In One](https://aka.ms/SentinelAllInOne)** -> Accelerate Microsoft Sentinel deployment and configuration with just a few clicks.
 2. [**GitHub:** Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
 3. [Connect Microsoft Entra to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
 4. [**GitHub:** Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)

@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-04-24
+updated: 2024-05-03
 showbreadcrumb: true
 tags: 
 - academy content
@@ -74,15 +74,15 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 ### Events
 
-* [**Microsoft Copilot for Security Partner Boot Camp** (April 16-17, 9:00 AM - 1:00 PM PDT)](https://vshow.on24.com/vshow/FY24_SDepth/registration/23173)
+* [**Copilot for Security “Codebreakers” Workshop: Decoding AI-powered Security Basics** (Tuesday, May 21st at 9:00 AM - 1:00 PM – Wednesday, May 22nd, 2024 at 9:00 AM - 1:00 PM GMT-08:00)](https://msevents.microsoft.com/event?id=2452250535)
 
 Several colleagues have created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).** They're well worth your time and cater specifically to security professionals, administrators, and all others interested in leveraging the power of AI to bolster security infrastructure.
 
-## April 17th, 2024 Update📰
+## May 3rd, 2024 Update📰
 
 Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all of the recent developments, my colleague Sameh Younis and I created this Copilot for Security Technical Journey. We will update the Journey weekly.
 
-___
+**Recent Update** (May 3rd): [Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events) and [3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins) |
 
 
 ## Learn Copilot for Security
@@ -247,6 +247,8 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 
 ### 3P Plugins
 
+* [**NEW:** Red Canary](https://learn.microsoft.com/en-us/copilot/security/plugin-red-canary) -- Red Canary provides managed detection and response (MDR) services
+* [**NEW:** SGNL](https://learn.microsoft.com/en-us/copilot/security/plugin-sgnl) -- SGNL provides Zero Standing Privilege (ZSP) initiatives to protect user sessions and credentials
 * [Computer Incident Response Center Luxembourg (CIRCL)](https://learn.microsoft.com/en-us/copilot/security/plugin-circl) -- CIRCL is a government initiative that provides systematic responses to incidents
 * [CrowdSec Threat Intelligence](https://learn.microsoft.com/en-us/copilot/security/plugin-crowdsec) -- CrowdSec provides information about IPs and identification and verification of potentially malicious IPs
 * [Cyware Respond](https://learn.microsoft.com/en-us/copilot/security/plugin-cyware) -- Cyware is an end-to-end incident management and threat response platform
