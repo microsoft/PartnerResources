@@ -82,6 +82,7 @@ Several colleagues have created comprehensive on-demand **[Technical Workshops f
 
 Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all of the recent developments, my colleague Sameh Younis and I created this Copilot for Security Technical Journey. We will update the Journey weekly.
 
+Recent Update: May 3rd, 2024 | [#P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#plugins)
 ___
 
 
@@ -248,7 +249,7 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 ### 3P Plugins
 
 * [**NEW:** Red Canary](https://learn.microsoft.com/en-us/copilot/security/plugin-red-canary) -- Red Canary provides managed detection and response (MDR) services
-* [**NEW:** SGNL](https://learn.microsoft.com/en-us/copilot/security/plugin-red-canary) -- SGNL provides Zero Standing Privilege (ZSP) initiatives to protect user sessions and credentials
+* [**NEW:** SGNL](https://learn.microsoft.com/en-us/copilot/security/plugin-sgnl) -- SGNL provides Zero Standing Privilege (ZSP) initiatives to protect user sessions and credentials
 * [Computer Incident Response Center Luxembourg (CIRCL)](https://learn.microsoft.com/en-us/copilot/security/plugin-circl) -- CIRCL is a government initiative that provides systematic responses to incidents
 * [CrowdSec Threat Intelligence](https://learn.microsoft.com/en-us/copilot/security/plugin-crowdsec) -- CrowdSec provides information about IPs and identification and verification of potentially malicious IPs
 * [Cyware Respond](https://learn.microsoft.com/en-us/copilot/security/plugin-cyware) -- Cyware is an end-to-end incident management and threat response platform
