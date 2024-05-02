@@ -22,7 +22,7 @@ Ready to elevate your organization's cloud infrastructure? Managing Azure infras
 
 Keep your organization resilient against evolving challenges with continuous learning through our **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)**. Our **[Resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources)** complement the **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** and empower you to dive deeper into key Azure infrastructure concepts.
 
-Explore our new resources for **[Epic on Azure](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/epic-on-azure-resources) and [Foundation Services for Epic on Azure](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/epic-on-azure-foundation-services).!🎉**
+Explore our new resources for **[Epic on Azure](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/epic-on-azure-resources)** and **[Foundation Services for Epic on Azure](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/epic-on-azure-foundation-services).!🎉**
 
 
 ![IA Organizational Chart]({{ site.baseurl }}/assets/msa/IA Thumbnail.png)
