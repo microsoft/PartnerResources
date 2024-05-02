@@ -46,7 +46,7 @@ Watch **[Satya Nadella talk to NVIDIA's Jensen Huang](https://youtu.be/QsWtiop4I
 * [Azure Networking Blog](https://techcommunity.microsoft.com/t5/azure-networking-blog/bg-p/AzureNetworkingBlog)
 * [Azure Virtual Desktop Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog)
 * [Core Infrastructure and Security Blog](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bg-p/CoreInfrastructureandSecurityBlog)
-* [Linux and Open Source Blog](https://techcommunity.microsoft.com/t5/linux-and-open-source-blog/bg-p/LinuxandOpenSourceBlog)
+* [Linux and Open-Source Blog](https://techcommunity.microsoft.com/t5/linux-and-open-source-blog/bg-p/LinuxandOpenSourceBlog)
 * [Running SAP Applications on the Microsoft Platform Blog](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications)
 
 ## Meet our Team🎉
