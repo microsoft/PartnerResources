@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-05-03
+updated: 2024-05-04
 showbreadcrumb: true
 tags: 
 - academy content
