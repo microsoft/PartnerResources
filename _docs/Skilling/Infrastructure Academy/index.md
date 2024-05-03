@@ -30,7 +30,7 @@ Explore our new resources for **[Epic on Azure](/PartnerResources/skilling/micro
 
 ### Noteworthy News📰
 
-Watch **[Satya Nadella talk to NVIDIA's Jensen Huang](https://youtu.be/QsWtiop4IJA?si=QgschuA-oRRiLMTP)** about Microsoft's expanding partnership with Nvidia, learn more about **[Microsoft's recent innovation in AI Infrastructure](https://youtu.be/AHSboyXhjyw?si=4gke11Oj1RN1qJuc)**, and explore **[​what's new and what's next with Azure IaaS](https://ignite.microsoft.com/en-US/sessions/67c69220-d1f8-4241-8519-bfc3e73d08e3?source=sessions).**
+In international news, **[Microsoft announces significant committments to enable a cloud and AI-powered future for Thailand](https://www.msn.com/en-sg/news/other/microsoft-announces-significant-commitments-to-enable-a-cloud-and-ai-powered-future-for-thailand/ar-AA1nXxfJ?ocid=BingNewsSerp)**. In Microsoft's expanding partnership with Nvidia, learn more about **[Microsoft and NVIDIA announce major integrations to accelerate generative AI for enterprises everywhere](https://news.microsoft.com/2024/03/18/microsoft-and-nvidia-announce-major-integrations-to-accelerate-generative-ai-for-enterprises-everywhere/)**, and explore **[​How Cloud-Based AI Infrastructure is Shaping Tomorrow’s Businesses](https://hbr.org/sponsored/2024/04/how-cloud-based-ai-infrastructure-is-shaping-tomorrows-businesses).**
 
 
 ## Start Your Journey and Stay Connected🔗
