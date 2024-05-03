@@ -117,7 +117,7 @@ To understand how Azure ML helps users, let's compare two cases of implementing 
   <!-- ```py
   ```  -->
 
-3. **Data.** Azure ML introduces the concept of datasets. A dataset is an abstraction of data. It can be tabular data or file data (e.g., images, audio files, ...). A tabular dataset can be constructed from a local CSV file. However, with Azure ML, you have more efficient options, such as executing an SQL query against an Azure SQL database, Azure MySQL database, Azure PostgreSQL, or reading CSV or parquet from Azure Storage or ADLS gen 2. You can also read from web files. File datasets can be uploaded locally or connected to Azure Storage. Since Azure ML datasets act as an interface, your code doesn't need to change when you switch from a sample CSV file to a large cloud-hosted file or SQL query in production.
+3. **Data.** Azure ML introduces the concept of datasets. A dataset is an abstraction of data. It can be tabular data or file data (e.g., images, audio files, ...). A tabular dataset can be constructed from a local CSV file. However, with Azure ML, you have more efficient options, such as executing an SQL query against an Azure SQL database, Azure MySQL database, Azure PostgreSQL, or reading CSV or parquet from Azure Storage or ADLS gen 2. You can also read from web files. File datasets can be uploaded locally or connected to Azure Storage. Since Azure ML datasets function as an interface, your code doesn't need to change when you switch from a sample CSV file to a large cloud-hosted file or SQL query in production.
     ```py
     from azureml.core import Workspace, Dataset
 
