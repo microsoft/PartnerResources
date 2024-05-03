@@ -22,7 +22,7 @@ Stay ahead of evolving threats and protect your organization with continuous lea
 
 Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
 
-A new era of security is here. Read **[Charlie Bell's Security above all else—expanding Microsoft’s Secure Future Initiative announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/).**
+A new era of security is here. Read **[Charlie Bell's Security above all else—expanding Microsoft’s Secure Future Initiative announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/).**🔎
 
 #### The Basics
 1. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)**
