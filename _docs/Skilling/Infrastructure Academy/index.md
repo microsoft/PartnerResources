@@ -30,7 +30,7 @@ Explore our new resources for **[Epic on Azure](/PartnerResources/skilling/micro
 
 ### Noteworthy News📰
 
-In international news, **[Microsoft announced significant committments to enable a cloud and AI-powered future for Thailand](https://www.msn.com/en-sg/news/other/microsoft-announces-significant-commitments-to-enable-a-cloud-and-ai-powered-future-for-thailand/ar-AA1nXxfJ?ocid=BingNewsSerp)**. In Microsoft's expanding partnership with Nvidia, learn more about **[recent integrations to accelerate generative AI for enterprises everywhere](https://news.microsoft.com/2024/03/18/microsoft-and-nvidia-announce-major-integrations-to-accelerate-generative-ai-for-enterprises-everywhere/)**, and explore **[​how AI infrastructure is shaping tomorrow’s businesses](https://hbr.org/sponsored/2024/04/how-cloud-based-ai-infrastructure-is-shaping-tomorrows-businesses).**
+In international news, **[Microsoft announced significant commitments to enable a cloud and AI-powered future for Thailand](https://www.msn.com/en-sg/news/other/microsoft-announces-significant-commitments-to-enable-a-cloud-and-ai-powered-future-for-thailand/ar-AA1nXxfJ?ocid=BingNewsSerp)**. In Microsoft's expanding partnership with Nvidia, learn more about **[recent integrations to accelerate generative AI for enterprises everywhere](https://news.microsoft.com/2024/03/18/microsoft-and-nvidia-announce-major-integrations-to-accelerate-generative-ai-for-enterprises-everywhere/)**, and explore **[​how AI infrastructure is shaping tomorrow’s businesses](https://hbr.org/sponsored/2024/04/how-cloud-based-ai-infrastructure-is-shaping-tomorrows-businesses).**
 
 
 ## Start Your Journey and Stay Connected🔗
