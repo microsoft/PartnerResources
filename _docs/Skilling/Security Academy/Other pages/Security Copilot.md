@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-05-03
+updated: 2024-05-04
 showbreadcrumb: true
 tags: 
 - academy content
@@ -78,11 +78,11 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 Several colleagues have created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).** They're well worth your time and cater specifically to security professionals, administrators, and all others interested in leveraging the power of AI to bolster security infrastructure.
 
-## May 3rd, 2024 Update📰
+## May 4th, 2024 Update📰
 
 Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all of the recent developments, my colleague Sameh Younis and I created this Copilot for Security Technical Journey. We will update the Journey weekly.
 
-**Recent Update** (May 3rd): [Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events) and [3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins) |
+**Recent Update** (May 4th): [Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events), [3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins), and [Community Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-plugins) |
 
 
 ## Learn Copilot for Security
@@ -262,6 +262,8 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 
 **Disclaimer:** ***Some of these plugins were developed and are maintained by the community and are not owned or managed by Microsoft.***
 
+* [**NEW:** MSFTCopilot4Security](https://github.com/hesaad/MSFTCopilot4Security/tree/main?utm_source=substack&utm_medium=email) -- Morten Knudsen is a Microsoft MVP and has developed and released custom Copilot for Security plugins worth review
+* [**NEW:** Track SCU changes](https://rodtrent.substack.com/p/copilot-for-security-custom-plugin?utm_source=substack&utm_medium=email)
 * [Gather reputation and abuse reports for an IP Address](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/AbuseIPDB)
 * [Censys](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Censys) -- Censys regularly probes public IPs and domains
 * [Send Copilot for Security outputs to a designated email address](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Copilot%20For%20Security%20Output%20To%20Email)
