@@ -307,7 +307,9 @@ There are additional benefits with Azure ML that you may not have in traditional
 1. __AutoML:__
     AutoML is a smart tool that accepts a dataset (tabular or file) and produces your desired model. It can perform classification, clustering, and regression tasks on datasets. AutoML tries tens or even hundreds of models from the literature, performs data cleaning, normalization, preprocessing, and trains all of them. It then reports to you the metrics for all of the calculated models, with recommendations. You can choose which model(s) to deploy with one click.
 
-    * **[Use automated machine learning in Azure ML](https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/)**
+
+    * **[Fundamentals of machine learning](https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/)**
+
 
 2. __Designer__ and __Pipelines:__
     Azure ML Designer is a low-code/no-code drag-and-drop interface used to train and deploy models in Azure ML. Use a visual canvas to build an end-to-end machine learning workflow. Train, test, and deploy models all in Designer:
