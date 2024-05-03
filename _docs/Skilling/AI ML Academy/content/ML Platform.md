@@ -120,7 +120,7 @@ Here are the Azure Services that support AI & ML workloads
 |                              |                              |                              |
 |------------------------------|------------------------------|------------------------------|
 | **Resource**	| **Level** | **Training Assets URL**|
-| DSVM| 100|[Data Science VM Overview (DSVM)](https://learn.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview)|
+| DSVM| 100|[Data Science VM overview (DSVM)](https://learn.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview)|
 || 200|[Data Science Tools on DSVM](https://learn.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/tools-included)||
 || 300|[Samples on DSVM](https://learn.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-samples-and-walkthroughs)||
 | Synapse Analytics Workspace| 100|[Machine Learning Experiences in Azure Synapse](https://www.youtube.com/watch?v=xf3Lej-MWCk&ab_channel=MicrosoftDeveloper)|
@@ -167,8 +167,8 @@ Here are the Azure Services that support AI & ML workloads
 | Azure SQL Managed Instance| 100|[Machine Learning Services in Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/machine-learning-services-overview?view=azuresql)|
 || 200|[Key Differences between Managed Instance and SQL Server](https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/machine-learning-services-differences?view=azuresql)|
 || 300 |[Linear Regression tutorial for Managed Instance](https://learn.microsoft.com/en-us/sql/machine-learning/tutorials/python-ski-rental-linear-regression?view=azuresqldb-mi-current)|
-| Azure ML Inference Compute| 100|[Model Deployment and Inferencing](https://www.youtube.com/watch?v=WZ7vS10KPAw&ab_channel=MicrosoftAzure)|
-|| 200|[Compute Targets for Inference](https://learn.microsoft.com/en-us/azure/machine-learning/concept-compute-target#compute-targets-for-inference)|
+| Azure ML Inference Compute| 100|[Model deployment and inferencing](https://www.youtube.com/watch?v=WZ7vS10KPAw&ab_channel=MicrosoftAzure)|
+|| 200|[Compute targets for inferencing](https://learn.microsoft.com/en-us/azure/machine-learning/concept-compute-target#compute-targets-for-inference)|
 || 300 |[Attach AKS to Azure ML workspace](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-attach-kubernetes-to-workspace?source=recommendations&tabs=cli)|
 | Azure ML Managed Endpoint| 100|[Online endpoints and deployments for real-time inference](https://learn.microsoft.com/en-us/azure/machine-learning/concept-endpoints-online?view=azureml-api-2)|
 || 200|[Deploy and score model with online endpoint](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-managed-online-endpoints?tabs=azure-cli)|
