@@ -256,7 +256,7 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 * [**NEW:** Jamf](https://learn.microsoft.com/en-us/copilot/security/plugin-jamf) -- Jamf Pro provides comprehensive MDM data
 * [Netskope](https://learn.microsoft.com/en-us/copilot/security/plugin-netskope) -- Netskope combines security and networking services, enabling Secure Access Services Edge (SASE) and Zero Trust
 * [**NEW:** Red Canary](https://learn.microsoft.com/en-us/copilot/security/plugin-red-canary) -- Red Canary provides managed detection and response (MDR) services
-* [**NEW:** ReversingLabs](https://learn.microsoft.com/en-us/copilot/security/plugin-reversinglabs) -- ReversingLabs empowers SOC teams to understand the file-based threats
+* [**NEW:** ReversingLabs](https://learn.microsoft.com/en-us/copilot/security/plugin-reversinglabs) -- ReversingLabs helps SOC teams understand file-based threats
 * [**NEW:** SGNL](https://learn.microsoft.com/en-us/copilot/security/plugin-sgnl) -- SGNL provides Zero Standing Privilege (ZSP) initiatives to protect user sessions and credentials
 * [**NEW:** Shodan](https://learn.microsoft.com/en-us/copilot/security/plugin-shodan) -- Shodan is a search engine that allows users to find specific types of devices connected to the internet
 * [Tanium](https://learn.microsoft.com/en-us/copilot/security/plugin-tanium) -- Tanium is a converged endpoint management (XEM) reference platform
