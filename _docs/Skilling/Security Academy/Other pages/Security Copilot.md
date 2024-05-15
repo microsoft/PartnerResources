@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-05-04
+updated: 2024-05-15
 showbreadcrumb: true
 tags: 
 - academy content
@@ -52,6 +52,7 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#plugins">Plugins</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#connectors">Connectors</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins">3P Plugins</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#extensibility-features">Extensibility Features</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-plugins">Community Plugins</a></li>
             </ul>
         </td>
@@ -78,11 +79,11 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 Several colleagues have created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).** They're well worth your time and cater specifically to security professionals, administrators, and all others interested in leveraging the power of AI to bolster security infrastructure.
 
-## May 4th, 2024 Update📰
+## May 15th, 2024 Update📰
 
 Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all of the recent developments, my colleague Sameh Younis and I created this Copilot for Security Technical Journey. We will update the Journey weekly.
 
-**Recent Update** (May 4th): [Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events), [3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins), and [Community Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-plugins) |
+**Recent Update** (May 15th): [Extensibility Features](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#extensibility-features), [Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events), and [3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins) |
 
 
 ## Learn Copilot for Security
@@ -116,13 +117,12 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Best practices for Microsoft Entra roles](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/best-practices#1-apply-principle-of-least-privilege)
 * [Prompting](https://learn.microsoft.com/en-us/security-copilot/prompting-security-copilot?view=o365-worldwide)
 * [Promptbooks](https://learn.microsoft.com/en-us/security-copilot/using-promptbooks?view=o365-worldwide)
-* [**NEW:** Sample Prompts Library](https://github.com/Azure/Copilot-For-Security/tree/main/Sample%20Prompts)
-* [**NEW:** Promptbooks Library](https://github.com/Azure/Copilot-For-Security/tree/main/Promptbook%20samples)
+* [Sample Prompts Library](https://github.com/Azure/Copilot-For-Security/tree/main/Sample%20Prompts)
+* [Promptbooks Library](https://github.com/Azure/Copilot-For-Security/tree/main/Promptbook%20samples)
 * [Leveraging Generative AI for Efficient Security Investigation Summaries](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/leveraging-generative-ai-for-efficient-security-investigation/ba-p/4049630)
 * [What does good prompt engineering look like?](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)
 * [How to build a Copilot for Security API Plugin – Part 1](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-build-a-copilot-for-security-api-plugin-part-1/ba-p/4107604)
 * [Apply principles of Zero Trust to Microsoft Copilot for Security](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
-* [**NEW:** Copilot for Security provides immediate impact for the Microsoft Defender Experts team](https://www.microsoft.com/en-us/security/blog/2024/02/08/microsoft-copilot-for-security-provides-immediate-impact-for-the-microsoft-defender-experts-team/)
 
 ### Features
 
@@ -243,27 +243,36 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 
 * [Overview](https://learn.microsoft.com/en-us/connectors/securitycopilot/)
 * [Logic Apps](https://learn.microsoft.com/en-us/security-copilot/connector-logicapp?view=o365-worldwide)
-* [**NEW:** Microsoft Copilot for Security Logic Apps Templates](https://github.com/Azure/Copilot-For-Security/tree/main/Logic%20Apps)
+* [Microsoft Copilot for Security Logic Apps Templates](https://github.com/Azure/Copilot-For-Security/tree/main/Logic%20Apps)
 
 ### 3P Plugins
 
-* [**NEW:** Red Canary](https://learn.microsoft.com/en-us/copilot/security/plugin-red-canary) -- Red Canary provides managed detection and response (MDR) services
-* [**NEW:** SGNL](https://learn.microsoft.com/en-us/copilot/security/plugin-sgnl) -- SGNL provides Zero Standing Privilege (ZSP) initiatives to protect user sessions and credentials
 * [Computer Incident Response Center Luxembourg (CIRCL)](https://learn.microsoft.com/en-us/copilot/security/plugin-circl) -- CIRCL is a government initiative that provides systematic responses to incidents
 * [CrowdSec Threat Intelligence](https://learn.microsoft.com/en-us/copilot/security/plugin-crowdsec) -- CrowdSec provides information about IPs and identification and verification of potentially malicious IPs
+* [**NEW:** CyberArk](https://learn.microsoft.com/en-us/copilot/security/plugin-cyberark) -- CyberArk Privilege Cloud is a SaaS solution that helps to securely store, rotate, and isolate credentials
 * [Cyware Respond](https://learn.microsoft.com/en-us/copilot/security/plugin-cyware) -- Cyware is an end-to-end incident management and threat response platform
+* [**NEW:** Darktrace](https://learn.microsoft.com/en-us/copilot/security/plugin-darktrace) -- Darktrace offers cybersecurity AI services
 * [GreyNoise](https://learn.microsoft.com/en-us/copilot/security/plugin-greynoise) -- GreyNoise collects and analyzes Internet-wide scan and attack data
+* [**NEW:** Jamf](https://learn.microsoft.com/en-us/copilot/security/plugin-jamf) -- Jamf Pro provides comprehensive MDM data
 * [Netskope](https://learn.microsoft.com/en-us/copilot/security/plugin-netskope) -- Netskope combines security and networking services, enabling Secure Access Services Edge (SASE) and Zero Trust
+* [**NEW:** Red Canary](https://learn.microsoft.com/en-us/copilot/security/plugin-red-canary) -- Red Canary provides managed detection and response (MDR) services
+* [**NEW:** ReversingLabs](https://learn.microsoft.com/en-us/copilot/security/plugin-reversinglabs) -- ReversingLabs helps SOC teams understand file-based threats
+* [**NEW:** SGNL](https://learn.microsoft.com/en-us/copilot/security/plugin-sgnl) -- SGNL provides Zero Standing Privilege (ZSP) initiatives to protect user sessions and credentials
+* [**NEW:** Shodan](https://learn.microsoft.com/en-us/copilot/security/plugin-shodan) -- Shodan is a search engine that allows users to find specific types of devices connected to the internet
 * [Tanium](https://learn.microsoft.com/en-us/copilot/security/plugin-tanium) -- Tanium is a converged endpoint management (XEM) reference platform
 * [UrlScan](https://learn.microsoft.com/en-us/copilot/security/plugin-urlscan) -- UrlScan allows users to scan and analyze potentially malicious URLs
 * [Valence Security](https://learn.microsoft.com/en-us/copilot/security/plugin-valence) -- Valence combines SaaS security posture management (SSPM) and advanced remediation
+
+### Extensibility Features
+
+![CfS Reference Architecture]({{ site.baseurl }}/assets/msa/CfS Extensibility.jpg)
 
 ### Community Plugins
 
 **Disclaimer:** ***Some of these plugins were developed and are maintained by the community and are not owned or managed by Microsoft.***
 
-* [**NEW:** MSFTCopilot4Security](https://github.com/hesaad/MSFTCopilot4Security/tree/main?utm_source=substack&utm_medium=email) -- Morten Knudsen is a Microsoft MVP and has developed and released custom Copilot for Security plugins worth review
-* [**NEW:** Track SCU changes](https://rodtrent.substack.com/p/copilot-for-security-custom-plugin?utm_source=substack&utm_medium=email)
+* [MSFTCopilot4Security](https://github.com/hesaad/MSFTCopilot4Security/tree/main?utm_source=substack&utm_medium=email) -- Morten Knudsen is a Microsoft MVP and has developed and released custom Copilot for Security plugins worth review
+* [Track SCU changes](https://rodtrent.substack.com/p/copilot-for-security-custom-plugin?utm_source=substack&utm_medium=email)
 * [Gather reputation and abuse reports for an IP Address](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/AbuseIPDB)
 * [Censys](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Censys) -- Censys regularly probes public IPs and domains
 * [Send Copilot for Security outputs to a designated email address](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Copilot%20For%20Security%20Output%20To%20Email)
