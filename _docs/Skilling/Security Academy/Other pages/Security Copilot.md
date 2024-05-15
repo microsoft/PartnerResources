@@ -52,8 +52,8 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#plugins">Plugins</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#connectors">Connectors</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins">3P Plugins</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-plugins">Community Plugins</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#extensibility-features">Extensibility Features</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-plugins">Community Plugins</a></li>
             </ul>
         </td>
     </tr>
