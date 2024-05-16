@@ -13,7 +13,7 @@ Tags:
 ## Microsoft Sentinel Academy
 Welcome to the **Microsoft Sentinel Academy.** Explore Microsoft Sentinel video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
-### Explore our Microsoft Sentinel Skill-up Training Plan​[Sentinel Skill-up]({{ site.baseurl }}/assets/msa/Microsoft Sentinel skill-up training plan.pdf)
+### Explore our new [Microsoft Sentinel Skill-up Training Plan]({{ site.baseurl }}/assets/msa/Microsoft Sentinel skill-up training plan.pdf)🎉
 
 #### Stay connected with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog).
 
