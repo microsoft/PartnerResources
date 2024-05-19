@@ -28,7 +28,7 @@ There are multiple types of partnerships with Microsoft:
   - **[For every $1 of Microsoft revenue, ISV's make $10](https://blogs.partner.microsoft.com/partner/microsoft-ecosystem-value-new-data-reveals-partner-paths-to-profitability-and-growth/)**
   - [Many benefits](https://learn.microsoft.com/en-us/partner-center/manage-your-partner-network-benefits)
   - [Many incentives](https://partner.microsoft.com/en-us/partnership/partner-incentives)
-  - [Many programs resources](https://partner.microsoft.com/en-US/resources)
+  - [Many program resources](https://partner.microsoft.com/en-US/resources)
 
 ### The Microsoft Partner Onboarding Academy's **Modules** are organized into sections which reflect the typical partner journey:
 
@@ -72,6 +72,6 @@ Have questions not addressed here? See our **[FAQ](/PartnerResources/skilling/pa
 * [Six easy steps to becoming a Microsoft Partner](https://www.microsoft.com/en-us/americas-partner-blog/2023/06/15/six-easy-steps-to-becoming-a-microsoft-partner/)
 * [Carve Partners: Partner Center Guide for ISVs](https://www.linkedin.com/posts/reis-barrie-13414656_carve-partner-center-guide-for-isvs-activity-7118183761975889920-xAII/)
 * [Mastering the Marketplace](https://aka.ms/masteringthemarketplace)
-* [Journey maps](https://partner.microsoft.com/en-us/resources/collection/microsoft-transformational-changes#/) – provides the vision, critical milestones and details about each milestone for key initiatives
-* [Operational readiness](https://partner.microsoft.com/en-US/resources) – provides the “how to”, playbooks, detailed components
-* [Community calls](https://globalpbocomm.eventbuilder.com/PartnerBusinessOperationsWebinars?source=JM) – gives partners an opportunity to connect with the SMEs and to ask questions
+* [Journey Maps](https://partner.microsoft.com/en-us/resources/collection/microsoft-transformational-changes#/): Provides the vision, critical milestones, and details about each milestone for key initiatives
+* [Operational Readiness](https://partner.microsoft.com/en-US/resources): Provides the “how to”, playbooks, and detailed components
+* [Community Calls](https://globalpbocomm.eventbuilder.com/PartnerBusinessOperationsWebinars?source=JM): Provides partners an opportunity to connect with the SMEs and to ask questions
