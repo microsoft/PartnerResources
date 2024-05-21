@@ -26,8 +26,9 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
 
 ## Keeping Up (May 2024 Update📰)
 
-- Microsoft Build 2024 - Offers technical learning, community connection, and insights into cutting-edge technologies. With about 200,000 registered attendees and over 300 sessions, it’s a great opportunity to explore the latest developments in AI, data, security, and more.
-- Outline of all Azure AI Sessions at [Build 2024 May 21st - 23rd](https://build.microsoft.com/en-US/home). Session titles that are bold have been recommended by Microsoft's AI PG.
+- Microsoft Build 2024 - Explore technical learning, community connection, and insights into cutting-edge technologies. With 200,000+ registered attendees and 300+ sessions, it’s a great opportunity to explore the latest developments in AI, data, security, and more.
+
+#### Outline of all Azure AI Sessions at [Build 2024 (May 21st-23rd)](https://build.microsoft.com/en-US/home). Session titles that are bold have been recommended by Microsoft's AI PG.
 
 | Title                                                      | Time             | Speaker(s)                               |
 |------------------------------------------------------------|------------------|------------------------------------------|
