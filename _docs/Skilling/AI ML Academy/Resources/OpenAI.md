@@ -26,9 +26,9 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
 
 ## Keeping Up (May 2024 Update📰)
 
-- Microsoft Build 2024 - Explore technical learning, community connection, and insights into cutting-edge technologies. With 200,000+ registered attendees and 300+ sessions, it’s a great opportunity to explore the latest developments in AI, data, security, and more.
+- Microsoft Build 2024 – Explore technical learning, community connection, and insights into cutting-edge technologies. With 200,000+ registered attendees and 300+ sessions, it’s a great opportunity to explore the latest developments in AI, data, security, and more.
 
-#### Outline of all Azure AI Sessions at [Build 2024 (May 21st-23rd)](https://build.microsoft.com/en-US/home). Session titles that are bold have been recommended by Microsoft's AI PG.
+#### Outline of all Azure AI Sessions at [Build 2024 (May 21st – 23rd)](https://build.microsoft.com/en-US/home). Session titles that are bold have been recommended by Microsoft's AI PG.
 
 | Title                                                      | Time             | Speaker(s)                               |
 |------------------------------------------------------------|------------------|------------------------------------------|
@@ -127,7 +127,7 @@ Tooling:
 - [LLMOps](https://github.com/microsoft/LMOps) - Operational capabilities and infrastructure required to fine-tune existing foundational models
 - [JARVIS](https://github.com/microsoft/JARVIS) - Collaborative system that uses an LLM as the controller
 - [Can ChatGPT work with your enterprise data?](https://www.youtube.com/watch?v=tW2EA4aZ_YQ&t=27s) - Bring OpenAI’s ChatGPT model in Azure to your own enterprise-grade app experiences with precise control over the knowledge base, for in-context and relevant responses. Interact with your organization’s private internal data, while respecting the information protection controls put in place.
-- [DALL-E 3](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Fai-services%2Fopenai%2Fdall-e-quickstart%3Ftabs%3Ddalle3%252Ccommand-line%26pivots%3Dprogramming-language-studio&data=05%7C02%7Calexisjoseph%40microsoft.com%7C7155df02a55f46db98a508dc43828a14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638459475296392483%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=N%2FkPxB9rLelmmjVBLUFS6Ko1FYb%2FpGA5afv8bAu9IMQ%3D&reserved=0) is now generally available, available in East US, Sweden Central, and Australia East -- providing service reliability for production scenarios, annotations for content filtering, and continuing to deliver high-quality generated images.
+- **[DALL-E 3](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Fai-services%2Fopenai%2Fdall-e-quickstart%3Ftabs%3Ddalle3%252Ccommand-line%26pivots%3Dprogramming-language-studio&data=05%7C02%7Calexisjoseph%40microsoft.com%7C7155df02a55f46db98a508dc43828a14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638459475296392483%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=N%2FkPxB9rLelmmjVBLUFS6Ko1FYb%2FpGA5afv8bAu9IMQ%3D&reserved=0)** is now generally available (available in East US, Sweden Central, and Australia East) -- providing service reliability for production scenarios, annotations for content filtering, and continuing to deliver high-quality generated images.
 - [Speech to text with the Azure OpenAI Whisper model](https://learn.microsoft.com/en-us/azure/ai-services/openai/whisper-quickstart?tabs=command-line%2Cpython-new&pivots=rest-api)
 
 
