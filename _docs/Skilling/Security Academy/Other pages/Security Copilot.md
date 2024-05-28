@@ -269,7 +269,7 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 
 ### Community Plugins
 
-**Disclaimer:** ***Some of these plugins were developed and are maintained by the community and are not owned or managed by Microsoft.***
+**Disclaimer:** ***Some of these plugins were developed and are maintained by the community and are not owned and/or managed by Microsoft.***
 
 * [MSFTCopilot4Security](https://github.com/hesaad/MSFTCopilot4Security/tree/main?utm_source=substack&utm_medium=email) -- Morten Knudsen is a Microsoft MVP and has developed and released custom Copilot for Security plugins worth review
 * [Track SCU changes](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/SCU%20Changes)
