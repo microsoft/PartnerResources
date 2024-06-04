@@ -13,11 +13,9 @@ showbreadcrumb: true
     <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="max-width: 100px; height: auto; margin-bottom: 20px;">
 </div>
 
-<div style="margin: 20px 0;">
-    <blockquote>
-        The Microsoft Security Academy will undergo an overhaul in June, 2024. Stay tuned.
-    </blockquote>
-</div>
+
+  > The Microsoft Security Academy will undergo an overhaul in June, 2024. Stay tuned.
+
 
 <h4>Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources.</h4>
 
@@ -66,13 +64,6 @@ showbreadcrumb: true
 <p>A new era of security is here. Read <strong><a href="https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/">Charlie Bell's Security above all else—expanding Microsoft’s Secure Future Initiative announcement</a></strong>.🔎</p>
 
 <p>Read Microsoft's analysis of the global security landscape through <strong><a href="https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783">10 essential insights from the Microsoft Digital Defense Report 2023</a></strong>.</p>
-
-<h3>Start Your Journey</h3>
-
-<ol>
-    <li><strong><a href="/PartnerResources/skilling/microsoft-security-academy/start">Get started</a></strong></li>
-    <li><strong><a href="https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856">Basic cyber hygiene prevents 98% of attacks</a></strong></li>
-</ol>
 
 ### Start Your Journey
 
