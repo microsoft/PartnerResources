@@ -6,10 +6,10 @@ baseurl: "/PartnerResources"
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2024 Microsoft"
+footer_content: "Copyright &copy; 2022 Microsoft"
 
 # Social (First three Required)
-repo: "https://github.com/microsoft/PartnerResources"
+repo: "[1](https://github.com/microsoft/PartnerResources)"
 github_user: "microsoft"
 github_repo: "PartnerResources"
 github_branch: "main"
@@ -17,7 +17,7 @@ twitter: microsoft
 linkedin: microsoft
 
 logo_pixels: 34
-color: "#0078D4" # Azure Blue
+color: "#0078D4" # Lighter blue
 
 # show related plans on learning plans
 showrelatedplans: true
@@ -25,8 +25,8 @@ showrelatedplans: true
 # include app insights
 includeappinsights: true
 
-accentColor: "#0078D4" # Azure Blue
-themeColor: "#0078D4" # Azure Blue
+accentColor: "#0078D4" # Lighter blue
+themeColor: "#0078D4" # Lighter blue
 fixedNav: 'true' # true or false
 
 last_edit_timestamp: true
