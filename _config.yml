@@ -1,4 +1,3 @@
-
 title: "Partner Resources"
 author: Microsoft
 description: Resources created by Microsoft's GPS (Global Partner Solutions) team
@@ -7,18 +6,18 @@ baseurl: "/PartnerResources"
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2022 Microsoft"
+footer_content: "Copyright &copy; 2024 Microsoft"
 
 # Social (First three Required)
-repo: "https://github.com/microsoft/PartnerResources"
-github_user: "microsoft"
-github_repo: "PartnerResources"
+repo: "https://github.com/Azure/arc_jumpstart_docs"
+github_user: "Azure"
+github_repo: "arc_jumpstart_docs"
 github_branch: "main"
-twitter: microsoft
-linkedin: microsoft
+twitter: Azure
+linkedin: Azure
 
-logo_pixels: 34
-color: "#FFFFFF"
+logo_pixels: 50
+color: "#0078D4"
 
 # show related plans on learning plans
 showrelatedplans: true
@@ -29,15 +28,15 @@ includeappinsights: true
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
-# logo: "assets/img/logo/SRCC-square-red.png"
+# logo: "assets/img/logo/AzureArcJumpstart-square-blue.png"
 
 # If you add tags to pages, define this variable to link them to some external search
 # If you want to link to tags locally on the site, leave this commented out
-# tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
+# tag_search_endpoint: https://azurearcjumpstart.io/search?q=
 # tag_color: primary # danger, success, warning, primary, info, secondary
 
-accentColor: blue
-themeColor: blue
+accentColor: "#0078D4"
+themeColor: "#0078D4"
 fixedNav: 'true' # true or false
 
 last_edit_timestamp: true
