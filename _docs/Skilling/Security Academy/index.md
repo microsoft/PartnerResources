@@ -51,7 +51,7 @@ A new era of security is here. Read **[Charlie Bell's Security above all else—
         </td>
     </tr>
     <tr>
-        <td><b><a href=>Other Pages</a></b></td>
+        <td><b><a href="/PartnerResources/skilling/microsoft-security-academy">Other Pages</a></b></td>
         <td>
             <ul>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/start">Getting Started</a></li>
