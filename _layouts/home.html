@@ -1,74 +1,71 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
-  <head>
-    <!-- Head content with Visual Studio styling -->
-    {% include head-vs.html %} 
-    <!-- Application Insights for monitoring -->
-    {% include appinsights.html %}
-  </head>
+  {% include head-vs.html %} 
+  {% include appinsights.html %}
   <body>
-    <!-- Header with Visual Studio styling -->
     {% include header-vs.html %}
 
-    <!-- Home banner section -->
-    <section id="home-banner">
-      <div class="wrapper">
-        <article class="intro">
-          <h1>Microsoft Partner Resources</h1>
-          <p>The Microsoft Partners Resources repository offers documents, learning materials, and assets to support partners in their development journey. It's a collaborative effort by the Microsoft Americas Global Partner Solutions team to empower partners and drive digital transformation.</p>
-        </article>
+    <div id="home-banner">
+
+        <div class="wrapper">
+
+            <div class="copy">
+                <h1>Microsoft Partner Resources</h1>
+                <p>The Microsoft Partners Resources repository consists of documents, learning resources 
+                    and other assets designed to aid partners in practice development, upskilling, certifications, 
+                    and bringing their solutions to market.</p>
+                <p>Brought to you by the Microsoft Americas Global Partner Solutions (GPS) team, empowering partners 
+                    and driving digital transformation.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+
+        <div id="segments">
+            <div class="wrapper">
+                <div class="segment" style="width:50%">
+                    <div class="inner">
+                        <a href="{{ site.url }}{{ site.baseurl }}/readiness-resources/" class="segment"><h2>Readiness Resources</h2></a>
+                        <p>Enhance your readiness with a curated collection of resources for Azure and Industry. Latest updates:</p>
+                        {% include resources.md 
+                            includetags="learning plan" 
+                            includemethod="all" 
+                            showtags="false" 
+                            showdate="true" 
+                            visualstyle="homepage" 
+                            showdescription="true" 
+                            sortfield="updated" 
+                            sortorder="desc" 
+                            showdate="true" 
+                            limit="5" 
+                        %}
+                        <a href="{{ site.url }}{{ site.baseurl }}/readiness-resources/" class="segment"><span class="homepagelink">View Readiness Resources &#187;</span></a> 
+                    </div>
+                </div>
+
+                <div class="segment" style="width:50%">
+                    <div class="inner">
+                        <a href="{{ site.url }}{{ site.baseurl }}/skilling/academies" class="segment"><h2>Academies</h2></a>
+                        <p>Our solution-focused Academies, such as AI/ML, security, and analytics, feature a collection of
+                            expert-level sessions, demonstrations, and other critical resources centered on the chosen topic. Latest updates:</p>
+                        {% include series.md 
+                            includetags="academy content|showcase content" 
+                            includemethod="any" 
+                            sortfield="updated" sortorder="desc" showdate="true" 
+                            showtags="true" visualstyle="homepage" limit="5" 
+                        %}
+                        <a href="{{ site.url }}{{ site.baseurl }}/skilling/academies" class="segment"><span class="homepagelink">View Academies &#187;</span></a> 
+                    </div>
+                </div>
+            </div>     
+        </div><!-- #segments -->
+
       </div>
-    </section>
+    </div>
 
-    <!-- Segments section -->
-    <section id="segments">
-      <div class="wrapper">
-        <!-- Readiness Resources segment -->
-        <div class="segment">
-          <a href="{{ site.url }}{{ site.baseurl }}/readiness-resources/" class="segment-title">
-            <h2>Readiness Resources</h2>
-          </a>
-          <p>Discover a curated collection of Azure and Industry resources to enhance your readiness. Check out the latest updates:</p>
-          <!-- Dynamic inclusion of resources -->
-          {% include resources.md 
-              includetags="learning plan" 
-              includemethod="all" 
-              showtags="false" 
-              showdate="true" 
-              visualstyle="homepage" 
-              showdescription="true" 
-              sortfield="updated" 
-              sortorder="desc" 
-              limit="5" 
-          %}
-          <a href="{{ site.url }}{{ site.baseurl }}/readiness-resources/" class="view-more">View Readiness Resources »</a> 
-        </div>
-
-        <!-- Academies segment -->
-        <div class="segment">
-          <a href="{{ site.url }}{{ site.baseurl }}/skilling/academies" class="segment-title">
-            <h2>Academies</h2>
-          </a>
-          <p>Join our solution-focused Academies to access expert-level sessions, demos, and resources on AI/ML, security, analytics, and more. Discover the latest content:</p>
-          <!-- Dynamic inclusion of series -->
-          {% include series.md 
-              includetags="academy content|showcase content" 
-              includemethod="any" 
-              sortfield="updated" 
-              sortorder="desc" 
-              showdate="true" 
-              showtags="true" 
-              visualstyle="homepage" 
-              limit="5" 
-          %}
-          <a href="{{ site.url }}{{ site.baseurl }}/skilling/academies" class="view-more">View Academies »</a> 
-        </div>
-      </div>     
-    </section><!-- #segments -->
-
-    <!-- Footer with Visual Studio styling -->
-    {% include footer-vs.html %} 
-    <!-- Scripts for functionality -->
-    {% include scripts.html %}
+    {% include footer-vs.html %} {% include scripts.html %}
+    
   </body>
 </html>
