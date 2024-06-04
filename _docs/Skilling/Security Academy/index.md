@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-05-28
+updated: 2024-06-05
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -31,6 +31,40 @@ A new era of security is here. Read **[Charlie Bell's Security above all else—
 4. **[CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)**
 5. **[Secure Cloud Business Applications (SCuBA) Project -- CISA](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)**
 
+
+<table>
+    <tr>
+        <td colspan="2" style="text-align: center;"><b>Table of Contents</b></td>
+    </tr>
+    <tr>
+        <td><b><a href="/PartnerResources/skilling/microsoft-security-academy/modules">Modules</a></b></td>
+        <td>
+            <ul>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/sentinel-academy">Microsoft Sentinel</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/dxdr-academy">Microsoft Defender XDR</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/defender-academy">Microsoft Defender for Cloud</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/entra-academy">Microsoft Entra</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/network-academy">Network Security</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/endpoint-academy">Endpoint Security</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/purview-academy">Microsoft Purview</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b><a href=>Other Pages</a></b></td>
+        <td>
+            <ul>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/start">Getting Started</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security">Copilot for Security Technical Journey & Resources</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa">Copilot for Security Q&A</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-learning-path">Copilot for Security Learning Path</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/specializations">Security Specializations</a></li>
+                <li><a href="/PartnerResources/skilling/Security Academy/Resources/Sentinel Resources.md">Microsoft Sentinel Resources</a></li>
+                <li><a href="/PartnerResources/skilling/security/microsoft-security-academy/certifications">Security Certifications</a></li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 ![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)
 
