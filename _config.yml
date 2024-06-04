@@ -16,8 +16,8 @@ github_branch: "main"
 twitter: microsoft
 linkedin: microsoft
 
-logo_pixels: 50
-color: "#0078D4"
+logo_pixels: 34
+color: "#0078D4" # Azure Blue
 
 # show related plans on learning plans
 showrelatedplans: true
@@ -25,18 +25,8 @@ showrelatedplans: true
 # include app insights
 includeappinsights: true
 
-# google-analytics: UA-XXXXXXXXXX
-# Image and (square) dimension for logo (don't start with /)
-# If commented, will use material hat theme
-# logo: "assets/img/logo/AzureArcJumpstart-square-blue.png"
-
-# If you add tags to pages, define this variable to link them to some external search
-# If you want to link to tags locally on the site, leave this commented out
-# tag_search_endpoint: https://azurearcjumpstart.io/search?q=
-# tag_color: primary # danger, success, warning, primary, info, secondary
-
-accentColor: "#0078D4"
-themeColor: "#0078D4"
+accentColor: "#0078D4" # Azure Blue
+themeColor: "#0078D4" # Azure Blue
 fixedNav: 'true' # true or false
 
 last_edit_timestamp: true
