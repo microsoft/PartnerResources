@@ -8,57 +8,77 @@ redirect_from:
   - /skilling/microsoft-security-academy/
 showbreadcrumb: true
 ---
-{% include_relative header.md %} <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="width: 100px; height: auto;">
+{% include_relative header.md %}
+<div style="text-align: center;">
+    <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="max-width: 100px; height: auto; margin-bottom: 20px;">
+</div>
 
-> The Microsoft Security Academy will undergo an overhaul in June, 2024. Stay tuned.
+<div style="margin: 20px 0;">
+    <blockquote>
+        The Microsoft Security Academy will undergo an overhaul in June, 2024. Stay tuned.
+    </blockquote>
+</div>
 
-#### Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources.
+<h4>Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources.</h4>
 
-<table>
-    <tr>
-        <td colspan="2" style="text-align: center;"><b>Table of Contents</b></td>
-    </tr>
-    <tr>
-        <td><b><a href="/PartnerResources/skilling/microsoft-security-academy/modules">Modules</a></b></td>
-        <td>
-            <ul>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/sentinel-academy">Microsoft Sentinel</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/dxdr-academy">Microsoft Defender XDR</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/defender-academy">Microsoft Defender for Cloud</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/entra-academy">Microsoft Entra</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/network-academy">Network Security</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/endpoint-academy">Endpoint Security</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/purview-academy">Microsoft Purview</a></li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td><b><a>Other Pages</a></b></td>
-        <td>
-            <ul>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/start">Getting Started</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security">Copilot for Security Technical Journey & Resources</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa">Copilot for Security Q&A</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-learning-path">Copilot for Security Learning Path</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/specializations">Security Specializations</a></li>
-                <li><a href="/PartnerResources/skilling/Security Academy/Resources/Sentinel Resources.md">Microsoft Sentinel Resources</a></li>
-                <li><a href="/PartnerResources/skilling/security/microsoft-security-academy/certifications">Security Certifications</a></li>
-            </ul>
-        </td>
-    </tr>
-</table>
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th colspan="2" style="text-align: center;">Table of Contents</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Modules</strong></td>
+                <td>
+                    <ul>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/sentinel-academy">Microsoft Sentinel</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/dxdr-academy">Microsoft Defender XDR</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/defender-academy">Microsoft Defender for Cloud</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/entra-academy">Microsoft Entra</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/network-academy">Network Security</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/endpoint-academy">Endpoint Security</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/purview-academy">Microsoft Purview</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>Other Pages</strong></td>
+                <td>
+                    <ul>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/start">Getting Started</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security">Copilot for Security Technical Journey & Resources</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa">Copilot for Security Q&A</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-learning-path">Copilot for Security Learning Path</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/specializations">Security Specializations</a></li>
+                        <li><a href="/PartnerResources/skilling/Security Academy/Resources/Sentinel Resources.md">Microsoft Sentinel Resources</a></li>
+                        <li><a href="/PartnerResources/skilling/security/microsoft-security-academy/certifications">Security Certifications</a></li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-### News📰
+<h3>News📰</h3>
 
-A new era of security is here. Read **[Charlie Bell's Security above all else—expanding Microsoft’s Secure Future Initiative announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/).**🔎
+<p>A new era of security is here. Read <strong><a href="https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/">Charlie Bell's Security above all else—expanding Microsoft’s Secure Future Initiative announcement</a></strong>.🔎</p>
 
-Read Microsoft's analysis of the global security landscape through **[10 essential insights from the Microsoft Digital Defense Report 2023](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783).**
+<p>Read Microsoft's analysis of the global security landscape through <strong><a href="https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783">10 essential insights from the Microsoft Digital Defense Report 2023</a></strong>.</p>
+
+<h3>Start Your Journey</h3>
+
+<ol>
+    <li><strong><a href="/PartnerResources/skilling/microsoft-security-academy/start">Get started</a></strong></li>
+    <li><strong><a href="https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856">Basic cyber hygiene prevents 98% of attacks</a></strong></li>
+</ol>
 
 ### Start Your Journey
 
 1. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)**
 2. **[Basic cyber hygiene prevents 98% of attacks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856)**
-3. **[Microsoft's New Incident Response Guide](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/IR-Guidebook-Final.pdf)**
+3. **[Microsoft's new Incident Response Guide](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/IR-Guidebook-Final.pdf)**
 4. **[CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)**
 5. **[Secure Cloud Business Applications (SCuBA) Project -- CISA](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)**
 
