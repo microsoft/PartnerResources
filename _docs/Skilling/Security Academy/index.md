@@ -10,27 +10,9 @@ showbreadcrumb: true
 ---
 {% include_relative header.md %}
 
-#### Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources. 📚
+#### Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources. <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="width: 35px; height: auto;">
 
 > The Microsoft Security Academy will undergo an overhaul in June, 2024. Stay tuned.
-
-Want to help defend the world against threats? Cybersecurity is not just an individual effort — it's a shared responsibility. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)** and take action today.
-
-**Explore our resources for [Microsoft Copilot for Security](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security) and common [Microsoft Copilot for Security Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa).**
-
-Stay ahead of evolving threats and protect your organization with continuous learning through our **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules).** The Microsoft Security Academy's **[Resources](/PartnerResources/skilling/microsoft-security-academy/resources)** complement the **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)** and enable you to explore cybersecurity concepts in greater detail.
-
-Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
-
-A new era of security is here. Read **[Charlie Bell's Security above all else—expanding Microsoft’s Secure Future Initiative announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/).**🔎
-
-#### The Basics
-1. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)**
-2. **[Basic cyber hygiene prevents 98% of attacks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856)**
-3. **[Microsoft's New Incident Response Guide](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/IR-Guidebook-Final.pdf)**
-4. **[CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)**
-5. **[Secure Cloud Business Applications (SCuBA) Project -- CISA](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)**
-
 
 <table>
     <tr>
@@ -66,16 +48,21 @@ A new era of security is here. Read **[Charlie Bell's Security above all else—
     </tr>
 </table>
 
-![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)
+### News📰
 
-
-### Noteworthy News📰
-
-Learn about Microsoft's new **[Secure Future Initiative](https://blogs.microsoft.com/on-the-issues/2023/11/02/secure-future-initiative-sfi-cybersecurity-cyberattacks/)** to address "sophisticated, patient, stealthy, well-resourced, and government-backed techniques to infect and undermine the integrity of computer networks on a long-term basis."
+A new era of security is here. Read **[Charlie Bell's Security above all else—expanding Microsoft’s Secure Future Initiative announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/).**🔎
 
 Read Microsoft's analysis of the global security landscape through **[10 essential insights from the Microsoft Digital Defense Report 2023](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783).**
 
-## Start Your Journey and Stay Connected🔗
+### Start Your Journey
+
+1. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)**
+2. **[Basic cyber hygiene prevents 98% of attacks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856)**
+3. **[Microsoft's New Incident Response Guide](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/IR-Guidebook-Final.pdf)**
+4. **[CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)**
+5. **[Secure Cloud Business Applications (SCuBA) Project -- CISA](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)**
+
+## Stay Connected🔗
  
 **Join our private [Security Connection Program](https://aka.ms/PrSecCom) where you can have influence in helping us shape our products together.**
 
