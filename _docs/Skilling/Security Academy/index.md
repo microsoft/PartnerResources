@@ -8,11 +8,11 @@ redirect_from:
   - /skilling/microsoft-security-academy/
 showbreadcrumb: true
 ---
-{% include_relative header.md %}
+{% include_relative header.md %} <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="width: 100px; height: auto;">
 
 > The Microsoft Security Academy will undergo an overhaul in June, 2024. Stay tuned.
 
-#### Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources. <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="width: 100px; height: auto;">
+#### Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources.
 
 <table>
     <tr>
@@ -33,7 +33,7 @@ showbreadcrumb: true
         </td>
     </tr>
     <tr>
-        <td><b><a href="/PartnerResources/skilling/microsoft-security-academy">Other Pages</a></b></td>
+        <td><b><a>Other Pages</a></b></td>
         <td>
             <ul>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/start">Getting Started</a></li>
