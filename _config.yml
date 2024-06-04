@@ -9,12 +9,12 @@ back_to_top_text: "Back to top"
 footer_content: "Copyright &copy; 2024 Microsoft"
 
 # Social (First three Required)
-repo: "https://github.com/Azure/arc_jumpstart_docs"
-github_user: "Azure"
-github_repo: "arc_jumpstart_docs"
+repo: "https://github.com/microsoft/PartnerResources"
+github_user: "microsoft"
+github_repo: "PartnerResources"
 github_branch: "main"
-twitter: Azure
-linkedin: Azure
+twitter: microsoft
+linkedin: microsoft
 
 logo_pixels: 50
 color: "#0078D4"
