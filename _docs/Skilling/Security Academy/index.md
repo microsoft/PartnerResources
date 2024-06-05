@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-06-05
+updated: 2024-06-06
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -60,11 +60,21 @@ showbreadcrumb: true
     </table>
 </div>
 
-<h3>News📰</h3>
+## June 6th, 2024 Update📰
+
+The Microsoft Security Academy will undergo an overhaul throughout June and July. More content is under development. With all of the recent Microsoft Security announcements, we will update this Academy weekly starting July 1st.
+
+**Recent Update** (June 6th): [Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security) |
 
 <p>A new era of security is here. Read <strong><a href="https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/">Charlie Bell's Security above all else—expanding Microsoft’s Secure Future Initiative announcement</a></strong>.🔎</p>
 
 <p>Read Microsoft's analysis of the global security landscape through <strong><a href="https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783">10 essential insights from the Microsoft Digital Defense Report 2023</a></strong>.</p>
+
+
+<div>&nbsp;</div>
+
+___
+
 
 ### Start Your Journey
 
@@ -88,6 +98,12 @@ showbreadcrumb: true
 * [Microsoft Defender for Endpoint Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog)
 * [Microsoft Defender for IoT Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog)
 * [Security, Compliance, and Identity Blog](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance)
+
+
+<div>&nbsp;</div>
+
+___
+
 
 ### Want to be a Ninja?
 
