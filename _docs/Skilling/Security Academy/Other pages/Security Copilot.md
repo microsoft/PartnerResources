@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-05-28
+updated: 2024-06-06
 showbreadcrumb: true
 tags: 
 - academy content
@@ -72,18 +72,27 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
     </tr>
 </table>
 
+___
 
 ### Events
 
-* [**Copilot for Security “Codebreakers” Workshop: Decoding AI-powered Security Basics** (Tuesday, May 21st at 9:00 AM - 1:00 PM – Wednesday, May 22nd, 2024 at 9:00 AM - 1:00 PM GMT-08:00)](https://msevents.microsoft.com/event?id=2452250535) -- ***Recordings coming soon***
+* [Copilot for Security “Codebreakers” Workshop: Decoding AI-powered Security Basics (Tuesday, May 21st at 9:00 AM - 1:00 PM – Wednesday, May 22nd, 2024 at 9:00 AM - 1:00 PM GMT-08:00)](https://msevents.microsoft.com/event?id=2452250535) -- ***Recordings coming soon***
 
 Several colleagues have also created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).**
 
-## May 28th, 2024 Update📰
+___
+
+## June 6th, 2024 Update📰
 
 Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all of the recent developments, my colleague Sameh Younis and I created this Copilot for Security Technical Journey. We will update the Journey weekly.
 
-**Recent Update** (May 28th): [Community Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-plugins) |
+**Recent Update** (June 6th): **[Community Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-plugins)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
+
+
+<div>&nbsp;</div>
+
+
+___
 
 
 ## Learn Copilot for Security
@@ -123,6 +132,7 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [What does good prompt engineering look like?](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)
 * [How to build a Copilot for Security API Plugin – Part 1](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-build-a-copilot-for-security-api-plugin-part-1/ba-p/4107604)
 * [Apply principles of Zero Trust to Microsoft Copilot for Security](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
+* [**NEW:** Exploring Copilot for Security to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
 
 ### Features
 

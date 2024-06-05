@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-05-28
+updated: 2024-06-06
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -10,38 +10,83 @@ showbreadcrumb: true
 ---
 {% include_relative header.md %}
 
-#### Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources. 📚
+<div style="text-align: center;">
+    <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="max-width: 100px; height: auto; margin-bottom: 20px;">
+</div>
 
-> The Microsoft Security Academy will undergo an overhaul in June, 2024. Stay tuned.
 
-Want to help defend the world against threats? Cybersecurity is not just an individual effort — it's a shared responsibility. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)** and take action today.
+  > The Microsoft Security Academy will undergo an overhaul in June, 2024. Stay tuned.
 
-**Explore our resources for [Microsoft Copilot for Security](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security) and common [Microsoft Copilot for Security Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa).**
 
-Stay ahead of evolving threats and protect your organization with continuous learning through our **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules).** The Microsoft Security Academy's **[Resources](/PartnerResources/skilling/microsoft-security-academy/resources)** complement the **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)** and enable you to explore cybersecurity concepts in greater detail.
+<h4>Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources.</h4>
 
-Explore our **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** to help demonstrate your technical expertise.
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th colspan="2" style="text-align: center;">Table of Contents</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Modules</strong></td>
+                <td>
+                    <ul>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/sentinel-academy">Microsoft Sentinel</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/dxdr-academy">Microsoft Defender XDR</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/defender-academy">Microsoft Defender for Cloud</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/entra-academy">Microsoft Entra</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/network-academy">Network Security</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/endpoint-academy">Endpoint Security</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/purview-academy">Microsoft Purview</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>Other Pages</strong></td>
+                <td>
+                    <ul>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/start">Getting Started</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security">Copilot for Security Technical Journey & Resources</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa">Copilot for Security Q&A</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-learning-path">Copilot for Security Learning Path</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/specializations">Security Specializations</a></li>
+                        <li><a href="/PartnerResources/skilling/Security Academy/Resources/Sentinel Resources.md">Microsoft Sentinel Resources</a></li>
+                        <li><a href="/PartnerResources/skilling/security/microsoft-security-academy/certifications">Security Certifications</a></li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-A new era of security is here. Read **[Charlie Bell's Security above all else—expanding Microsoft’s Secure Future Initiative announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/).**🔎
+___
 
-#### The Basics
+
+## June 6th, 2024 Update📰
+
+The Microsoft Security Academy will undergo an overhaul throughout June and July. More content is under development. With all of the recent Microsoft Security announcements, we will update this Academy weekly starting July 1st, 2024.
+
+A new era of security is here. Read [Charlie Bell's Security above all else—expanding Microsoft’s Secure Future Initiative announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/) and Microsoft's analysis of the global security landscape through [10 essential insights from the Microsoft Digital Defense Report 2023](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783).🔎
+
+
+**Recent Update** (June 6th): **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
+
+
+<div>&nbsp;</div>
+
+___
+
+
+### Start Your Journey
+
 1. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)**
 2. **[Basic cyber hygiene prevents 98% of attacks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856)**
-3. **[Microsoft's New Incident Response Guide](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/IR-Guidebook-Final.pdf)**
+3. **[Microsoft's new Incident Response Guide](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/IR-Guidebook-Final.pdf)**
 4. **[CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)**
 5. **[Secure Cloud Business Applications (SCuBA) Project -- CISA](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)**
 
-
-![MSA Organizational Chart]({{ site.baseurl }}/assets/msa/MSA Organization Chart.png)
-
-
-### Noteworthy News📰
-
-Learn about Microsoft's new **[Secure Future Initiative](https://blogs.microsoft.com/on-the-issues/2023/11/02/secure-future-initiative-sfi-cybersecurity-cyberattacks/)** to address "sophisticated, patient, stealthy, well-resourced, and government-backed techniques to infect and undermine the integrity of computer networks on a long-term basis."
-
-Read Microsoft's analysis of the global security landscape through **[10 essential insights from the Microsoft Digital Defense Report 2023](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783).**
-
-## Start Your Journey and Stay Connected🔗
+## Stay Connected🔗
  
 **Join our private [Security Connection Program](https://aka.ms/PrSecCom) where you can have influence in helping us shape our products together.**
 
@@ -55,6 +100,12 @@ Read Microsoft's analysis of the global security landscape through **[10 essenti
 * [Microsoft Defender for Endpoint Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog)
 * [Microsoft Defender for IoT Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog)
 * [Security, Compliance, and Identity Blog](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance)
+
+
+<div>&nbsp;</div>
+
+___
+
 
 ### Want to be a Ninja?
 
@@ -78,6 +129,12 @@ Microsoft Ninja trainings are sets of organized learning modules that guide you 
 * [Microsoft Purview Information Protection Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-information-protection-ninja-training-is/ba-p/2887478?WT.mc_id=m365-0000-rotrent)
 * [Microsoft Purview Data Loss Prevention (DLP) Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-data-loss-prevention-ninja-training-is/ba-p/3659015)
 * [Insider Risk Management Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-an-insider-risk-management-ninja/ba-p/3282306)
+
+
+<div>&nbsp;</div>
+
+___
+
 
 ### Microsoft Cybersecurity Reference Architecture (MCRA)🔒
 
