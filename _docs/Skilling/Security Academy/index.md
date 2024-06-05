@@ -60,15 +60,17 @@ showbreadcrumb: true
     </table>
 </div>
 
+
+<div>&nbsp;</div>
+
+___
+
+
 ## June 6th, 2024 Update📰
 
-The Microsoft Security Academy will undergo an overhaul throughout June and July. More content is under development. With all of the recent Microsoft Security announcements, we will update this Academy weekly starting July 1st.
+The Microsoft Security Academy will undergo an overhaul throughout June and July. More content is under development. With all of the recent Microsoft Security announcements, we will update this Academy weekly starting July 1st. <p>A new era of security is here. Read <strong><a href="https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/">Charlie Bell's Security above all else—expanding Microsoft’s Secure Future Initiative announcement</a></strong>.🔎</p> <p>Read Microsoft's analysis of the global security landscape through <strong><a href="https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783">10 essential insights from the Microsoft Digital Defense Report 2023</a></strong>.</p>
 
 **Recent Update** (June 6th): [Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security) |
-
-<p>A new era of security is here. Read <strong><a href="https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/">Charlie Bell's Security above all else—expanding Microsoft’s Secure Future Initiative announcement</a></strong>.🔎</p>
-
-<p>Read Microsoft's analysis of the global security landscape through <strong><a href="https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783">10 essential insights from the Microsoft Digital Defense Report 2023</a></strong>.</p>
 
 
 <div>&nbsp;</div>
@@ -127,6 +129,12 @@ Microsoft Ninja trainings are sets of organized learning modules that guide you 
 * [Microsoft Purview Information Protection Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-information-protection-ninja-training-is/ba-p/2887478?WT.mc_id=m365-0000-rotrent)
 * [Microsoft Purview Data Loss Prevention (DLP) Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-data-loss-prevention-ninja-training-is/ba-p/3659015)
 * [Insider Risk Management Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-an-insider-risk-management-ninja/ba-p/3282306)
+
+
+<div>&nbsp;</div>
+
+___
+
 
 ### Microsoft Cybersecurity Reference Architecture (MCRA)🔒
 
