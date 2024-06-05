@@ -60,9 +60,6 @@ showbreadcrumb: true
     </table>
 </div>
 
-
-<div>&nbsp;</div>
-
 ___
 
 
