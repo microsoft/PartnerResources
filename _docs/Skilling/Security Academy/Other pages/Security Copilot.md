@@ -88,6 +88,10 @@ Copilot for Security is globally available as of April-1! Despite the April Fool
 
 **Recent Update** (June 6th): **[Community Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-plugins)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
 
+
+<div>&nbsp;</div>
+
+
 ___
 
 
