@@ -8,8 +8,7 @@ redirect_from:
   - /skilling/microsoft-security-academy/
 showbreadcrumb: true
 ---
-{% include_relative header.md %} <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="max-width: 100px; height: auto; margin-bottom: 20px;">
-
+{% include_relative header.md %}
 
 <div style="text-align: center;">
     <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="max-width: 100px; height: auto; margin-bottom: 20px;">
