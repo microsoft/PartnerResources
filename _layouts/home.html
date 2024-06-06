@@ -29,17 +29,11 @@
                     <div class="inner">
                         <a href="{{ site.url }}{{ site.baseurl }}/skilling/microsoft-partner-showcase" class="segment"><h2>Partner Showcase</h2></a>
                         <p>The Microsoft Partner Showcase features technical conversations with Microsoft Partners and their solutions. Latest episodes:</p>
-                        {% include resources.md 
+                        {% include series.md
                             includetags="microsoft partner showcase" 
-                            includemethod="all" 
-                            showtags="false" 
-                            showdate="true" 
-                            visualstyle="homepage" 
-                            showdescription="true" 
-                            sortfield="updated" 
-                            sortorder="desc" 
-                            showdate="true" 
-                            limit="5" 
+                            includemethod="any" 
+                            sortfield="updated" sortorder="desc" showdate="true" 
+                            showtags="true" visualstyle="homepage" limit="5"
                         %}
                         <a href="{{ site.url }}{{ site.baseurl }}/skilling/microsoft-partner-showcase" class="segment"><span class="homepagelink">View Microsoft Partner Showcase &#187;</span></a> 
                     </div>
