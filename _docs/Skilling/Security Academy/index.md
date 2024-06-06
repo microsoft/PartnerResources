@@ -72,9 +72,6 @@ A new era of security is here. Read [Charlie Bell's Security above all else—ex
 
 **Recent Update** (June 7th): **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
 
-
-<div>&nbsp;</div>
-
 ___
 
 

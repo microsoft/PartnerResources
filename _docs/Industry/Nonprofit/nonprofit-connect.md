@@ -12,6 +12,9 @@ tags:
 ---
 
 # Stay connected and share success
+
+#### ***This page was retired on 06/06/2024***
+
 The best way to stay informed is to [sign up for partner communications](https://nonprofits.tsi.microsoft.com/EN-US/Microsoft-Cloud-for-Nonprofit-Sign-to-stay-Informed/).
 
 ## Make your opportunities visible to us

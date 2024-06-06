@@ -12,6 +12,8 @@ tags:
 
 # Learning Plan Resources for Azure IoT Hub
 
+#### ***This page was retired on 06/06/2024***
+
 Use IoT Hub to build your IoT application with two-way communication, enabling highly secure and reliable communication between your Internet of Things (IoT) application and the devices it manages. Azure IoT Hub provides a cloud-hosted solution back end to connect virtually any device. Extend your solution from the cloud to the edge with per-device authentication, built-in device management, and scaled provisioning.
 * Security-enhanced communication channel for sending and receiving data from IoT devices
 * Device Update for IoT Hub enables over-the-air deployment of updates to help keep IoT devices up to date and secure

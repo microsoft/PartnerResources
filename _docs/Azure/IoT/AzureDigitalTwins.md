@@ -12,6 +12,8 @@ tags:
 
 # Learning Plan Resources for Azure Digital Twins
 
+#### ***This page was retired on 06/06/2024***
+
 Companies are exploring Digital Twins as a mechanism to control and monitor connected environments. A digital twin is a virtual model of a real-world environment that is driven with data from business systems and IoT devices. It is used to enable insights and actions for a business or organization. Developers and architects are looking to digital twins as the solution that enables intelligent and connected environments such as the following:
 * Predictive maintenance in manufacturing
 * Supply chain visibility

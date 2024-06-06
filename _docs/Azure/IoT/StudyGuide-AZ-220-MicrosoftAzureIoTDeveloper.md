@@ -13,6 +13,8 @@ tags:
 
 # AZ-220: Microsoft Azure IoT Developer
 
+#### ***This page was retired on 06/06/2024***
+
 The Microsoft Global Partner Solutions (GPS) Technical Team, IoT Product Group, IoT Advocates, and Microsoft Worldwide Learning have collaborated to create this guide to help you prepare for the Microsoft Azure IoT Developer exam!
 
 <span style="color:red"> *NOTE: This exam retired on July 31, 2023.* </span>
