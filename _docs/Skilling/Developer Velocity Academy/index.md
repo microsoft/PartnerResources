@@ -26,9 +26,6 @@ Countless factors go into increasing DV. Hiring and retaining high-quality peopl
 
 **You can read more [here](https://davidgiard.com/increasing-developer-velocity).**
 
-
-<div>&nbsp;</div>
-
 ___
 
 
