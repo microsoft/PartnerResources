@@ -3,7 +3,7 @@ layout: page
 title: Developer Velocity Academy
 description: Developer Velocity Academy
 permalink: /skilling/developer-velocity-academy
-updated: 2024-02-02
+updated: 2024-06-07
 showbreadcrumb: true
 navheadersonly: true
 tags:
@@ -25,6 +25,12 @@ The term is a bit misleading, as "Developer Velocity" success depends on many pe
 Countless factors go into increasing DV. Hiring and retaining high-quality people, using the right tools, and fostering the right team culture are just a few. When we consider each of these, we need to focus on removing barriers, allowing the team to focus on moving forward without getting bogged down by needless friction.
 
 **You can read more [here](https://davidgiard.com/increasing-developer-velocity).**
+
+
+<div>&nbsp;</div>
+
+___
+
 
 ## Modules
 
