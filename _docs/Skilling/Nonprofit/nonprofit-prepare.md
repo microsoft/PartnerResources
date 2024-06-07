@@ -7,7 +7,7 @@ updated: 2023-03-03
 permalink: /skilling/nonprofit/nonprofit-prepare
 tags:
 - industry
-- nonprofit
+- nonprofit resources
 ---
 
 # Prepare to grow your business with Microsoft Cloud for Nonprofit

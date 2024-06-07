@@ -7,7 +7,7 @@ updated: 2023-03-06
 permalink: /skilling/nonprofit/nonprofit-grow
 tags:
 - industry
-- nonprofit
+- nonprofit resources
 ---
 
 # Grow your Microsoft Cloud for Nonprofit business

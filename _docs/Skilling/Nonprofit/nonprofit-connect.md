@@ -7,7 +7,7 @@ updated: 2023-02-09
 permalink: /skilling/nonprofit/nonprofit-connect
 tags:
 - industry
-- nonprofit
+- nonprofit resources
 ---
 
 # Stay connected and share success

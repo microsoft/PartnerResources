@@ -7,7 +7,7 @@ updated: 2023-02-08
 permalink: /skilling/nonprofit/nonprofit-build
 tags:
 - industry
-- nonprofit
+- nonprofit resources
 ---
 
 # Building your first solution to extend or connect with Microsoft Cloud for Nonprofit

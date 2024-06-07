@@ -7,7 +7,7 @@ updated: 2023-02-08
 permalink: /skilling/nonprofit/nonprofit-implement
 tags:
 - industry
-- nonprofit
+- nonprofit resources
 ---
 
 # Your first customer implementation of Microsoft Cloud for Nonprofit

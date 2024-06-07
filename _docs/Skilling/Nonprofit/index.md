@@ -8,5 +8,5 @@ redirect_from:
 updated: 2024-06-07
 includemethod: all
 includeplans:
-- nonprofit
+- nonprofit resources
 ---
