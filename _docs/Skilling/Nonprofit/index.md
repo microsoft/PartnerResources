@@ -1,18 +1,11 @@
 ---
-layout: page
-title: Microsoft Cloud for Nonprofit Partner Readiness📃
-description: Microsoft Cloud for Nonprofit Partner Readiness📃
-updated: 2024-06-07
+layout: planlist
+title: Microsoft Cloud for Nonprofit Partner Readiness
+description: Microsoft Cloud for Nonprofit Partner Readiness
 permalink: /skilling/nonprofit
 redirect_from:
   - /skilling/nonprofit/
-showbreadcrumb: true
+includemethod: all
+includeplans:
+  - nonprofit resources
 ---
-{% include_relative header.md %}
-
-{% include series.md 
-    includetags="nonprofit resources"
-    includemethod="all" 
-    sortfield="sorttitle" sortorder="desc" showdate="false" showtags="false" 
-    visualstyle="navlist" showdescrip="false" 
-%}
