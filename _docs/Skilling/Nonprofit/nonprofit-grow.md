@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Grow your Microsoft Cloud for Nonprofit business
+title: Grow your Microsoft Cloud for Nonprofit Business
 sorttitle: 04
-description: See resources available to reach more customers quickly.
+description: Explore resources available to reach more customers quickly.
 updated: 2023-03-06
 permalink: /skilling/nonprofit/nonprofit-grow
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stay connected and share success
+title: Stay Connected and Share Success
 sorttitle: 05
 description: Make your wins visible to us and your customers.
 updated: 2023-02-09
