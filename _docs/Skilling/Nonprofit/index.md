@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Cloud for Nonprofit Partner Readiness Guide
 description: Microsoft Cloud for Nonprofit Partner Readiness Guide
-permalink:  /industry/nonprofit/
+permalink: /skilling/nonprofit/
 showbreadcrumb: true
 tags:
  - industry

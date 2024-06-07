@@ -4,7 +4,7 @@ title: Prepare to grow your business with Microsoft Cloud for Nonprofit
 sorttitle: 01
 description: Microsoft Cloud for Nonprofit aligns the capabilities of Microsoft 365, Power Platform, Dynamics 365, Azure, and LinkedIn.
 updated: 2023-03-03
-permalink: /industry/nonprofit/nonprofit-prepare
+permalink: /skilling/nonprofit/nonprofit-prepare
 tags:
 - learning plan
 - industry
