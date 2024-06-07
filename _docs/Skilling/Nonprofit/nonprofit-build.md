@@ -6,6 +6,8 @@ description: Decide whether the Build, Extend, or Connect pattern is the best fi
 updated: 2023-02-08
 permalink: /skilling/nonprofit/nonprofit-build
 tags:
+- learning plan
+- azure
 - nonprofit resources
 ---
 

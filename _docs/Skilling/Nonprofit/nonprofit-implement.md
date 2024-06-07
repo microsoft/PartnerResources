@@ -6,6 +6,8 @@ description: Nonprofits need trusted services partners with Microsoft Cloud expe
 updated: 2023-02-08
 permalink: /skilling/nonprofit/nonprofit-implement
 tags:
+- learning plan
+- azure
 - nonprofit resources
 ---
 

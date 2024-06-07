@@ -6,6 +6,8 @@ description: Make your wins visible to us and your customers.
 updated: 2023-02-09
 permalink: /skilling/nonprofit/nonprofit-connect
 tags:
+- learning plan
+- azure
 - nonprofit resources
 ---
 
