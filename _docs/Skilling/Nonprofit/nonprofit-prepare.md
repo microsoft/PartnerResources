@@ -4,16 +4,14 @@ title: Prepare to grow your business with Microsoft Cloud for Nonprofit
 sorttitle: 01
 description: Microsoft Cloud for Nonprofit aligns the capabilities of Microsoft 365, Power Platform, Dynamics 365, Azure, and LinkedIn.
 updated: 2023-03-03
-permalink: /industry/nonprofit/nonprofit-prepare
+permalink: /skilling/nonprofit/nonprofit-prepare
 tags:
 - learning plan
-- industry
-- nonprofit
+- azure
+- nonprofit resources
 ---
 
 # Prepare to grow your business with Microsoft Cloud for Nonprofit
-
-#### ***This page was retired on 06/06/2024***
 
 Microsoft Tech for Social Impact integrates philanthropy and affordable commercial sales to accelerate impact through technology. This includes providing grants and discounts across cloud products including Azure, Dynamics 365, and Microsoft 365, as well as for industry-specific solutions included in Microsoft Cloud for Nonprofit. This partner readiness material is designed for new and existing partners as they build and grow a business with Microsoft Cloud for Nonprofit - our premier solution for the nonprofit sector.
 
