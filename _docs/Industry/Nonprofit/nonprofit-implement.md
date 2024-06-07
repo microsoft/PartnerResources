@@ -13,8 +13,6 @@ tags:
 
 # Your first customer implementation of Microsoft Cloud for Nonprofit
 
-#### ***This page was retired on 06/06/2024***
-
 Nonprofits need trusted services partners with Microsoft Cloud expertise and industry focus to advise, build, deliver, and support their digital transformation journey.
 
 In addition to a standard deployment and configuration of Fundraising and Engagement or Volunteer Management we encourage you to review this section to ensure successful delivery and identify other opportunities to add value or speed up your customer’s time to value.

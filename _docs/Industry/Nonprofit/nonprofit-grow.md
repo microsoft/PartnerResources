@@ -13,8 +13,6 @@ tags:
 
 # Grow your Microsoft Cloud for Nonprofit business
 
-#### ***This page was retired on 06/06/2024***
-
 See resources below to reach more customers quickly.
 
 ## Target customers

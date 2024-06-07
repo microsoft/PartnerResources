@@ -13,8 +13,6 @@ tags:
 
 # Building your first solution to extend or connect with Microsoft Cloud for Nonprofit
 
-#### ***This page was retired on 06/06/2024***
-
 Microsoft Cloud for Nonprofit customers spend most of their time using one of the included business applications – Fundraising and Engagement or Volunteer Management. There are several resources for ISVs looking to add value to one of these solutions including this [infographic](https://assetsprod.microsoft.com/en-us/dyn365-isv-infographic.pdf) to help decide whether the Build, Extend, or Connect pattern is the best fit for you.
 
 Key programs you can join to build ISV business on Microsoft Cloud for Nonprofit:
