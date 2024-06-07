@@ -379,8 +379,8 @@
               url: "modern-workplace/microsoft-teams"
               tag: microsoft teams
       - title: "Nonprofit Resources"
-          url: "skilling/nonprofit"
-          tag: industry
+        url: "skilling/nonprofit"
+        tag: industry
 - title: "Partner Showcase"
   url: "skilling/microsoft-partner-showcase"
   tag: partnershowcase
