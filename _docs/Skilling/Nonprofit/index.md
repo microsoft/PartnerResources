@@ -1,13 +1,12 @@
 ---
-layout: page
+layout: planlist
 title: Microsoft Cloud for Nonprofit Partner Readiness
 description: Microsoft Cloud for Nonprofit Partner Readiness
 permalink: /skilling/nonprofit
 redirect_from:
   - /skilling/nonprofit/
 updated: 2024-06-07
+includemethod: all
+includeplans:
+- nonprofit
 ---
-
-{% include sectionlist.md 
-    includeSection="nonprofit" 
-%}
