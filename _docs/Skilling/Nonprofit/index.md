@@ -9,3 +9,7 @@ includemethod: all
 includeplans:
   - nonprofit resources
 ---
+
+{% include sectionlist.md 
+    includeSection="nonprofit resources" 
+%}
