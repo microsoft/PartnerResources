@@ -6,7 +6,6 @@ description: Microsoft Cloud for Nonprofit aligns the capabilities of Microsoft 
 updated: 2023-03-03
 permalink: /skilling/nonprofit/nonprofit-prepare
 tags:
-- industry
 - nonprofit resources
 ---
 

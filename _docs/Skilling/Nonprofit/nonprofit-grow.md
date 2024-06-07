@@ -6,7 +6,6 @@ description: See resources available to reach more customers quickly.
 updated: 2023-03-06
 permalink: /skilling/nonprofit/nonprofit-grow
 tags:
-- industry
 - nonprofit resources
 ---
 
