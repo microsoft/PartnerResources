@@ -52,7 +52,7 @@ showbreadcrumb: true
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-learning-path">Copilot for Security Learning Path</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/specializations">Security Specializations</a></li>
                         <li><a href="/PartnerResources/security/microsoft-security-academy/microsoft-sentinel">Microsoft Sentinel Resources</a></li>
-                        <li><a href="/PartnerResources/skilling/security/microsoft-security-academy/certifications">Security Certifications</a></li>
+                        <li><a href="/PartnerResources/security/microsoft-security-academy/certifications">Security Certifications</a></li>
                     </ul>
                 </td>
             </tr>
