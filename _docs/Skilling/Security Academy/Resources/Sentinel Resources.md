@@ -49,7 +49,7 @@ Use these steps to build a demo instance; free for one month
 #### Ingestion
 * [**Microsoft Sentinel Migration:** Select Target Azure Platform for Exported Data](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
 * [**Microsoft Sentinel Migration:** Select Data Ingestion Tool](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
-* **Community: [Refactoring Data Ingestion Costs](https://craigclouditpro.wordpress.com/2023/09/19/refactoring-data-ingestion-costs/?utm_source=substack&utm_medium=email)**
+* **Community:** [Refactoring Data Ingestion Costs](https://craigclouditpro.wordpress.com/2023/09/19/refactoring-data-ingestion-costs/?utm_source=substack&utm_medium=email)
 * [Find your Microsoft Sentinel Data Connector](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
 * [Resources for creating Microsoft Sentinel Custom Connectors](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector)
 
@@ -58,15 +58,16 @@ Use these steps to build a demo instance; free for one month
 
 Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some* data at no cost, including:
    * Azure Activity Logs
+   * Microsoft Sentinel Health
    * Office 365 Audit Logs (e.g., SharePoint activity, Exchange activity, Teams)
-   * Alerts from Microsoft Defender products
+   * Alerts from Microsoft Defender products (e.g., Microsoft Defender XDR, Microsoft Defender for Cloud, etc.)
    * Azure Information Protection Alerts
    * Microsoft Defender for IoT Alerts
 
 ## Associate
 * [Design your Microsoft Sentinel Workspace Architecture](https://learn.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture)
+* **Community:** [Quality Assurance in Microsoft Sentinel: How to ensure accurate threat detections?](https://secopslab.substack.com/p/quality-assurance-in-microsoft-sentinel?utm_source=profile&utm_medium=reader2)
 * [**MSFT Blog:** Elevating Cybersecurity Intelligence with Microsoft Sentinel's New Enrichment Widgets](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/elevating-cybersecurity-intelligence-with-microsoft-sentinel-s/ba-p/3985255?utm_source=substack&utm_medium=email)
-* [Quality Assurance in Microsoft Sentinel: How to ensure accurate threat detections?](https://secopslab.substack.com/p/quality-assurance-in-microsoft-sentinel?utm_source=profile&utm_medium=reader2)
 
 #### Azure Lighthouse
 * [Delegate Access using Azure Lighthouse for a Sentinel POC](https://myfabersecurity.com/2022/07/15/delegate-access-using-azure-lighthouse-for-a-sentinel-poc/)
@@ -78,12 +79,11 @@ Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some
 
 #### KQL
 * **[MustLearnKQL Blog Series](https://github.com/rod-trent/MustLearnKQL)**
-* [KQL Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet)
 * [KQL Search](https://www.kqlsearch.com)
 * [SQL to KQL Cheat Sheet](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet)
 
 #### SOAR
-* [SOAR Capabilities in Microsoft Sentinel](https://mccybersec.github.io/microsoft%20sentinel/SOAR-Capabilities-with-Microsoft-Sentinel/?utm_source=substack&utm_medium=email)
+* **Community:** [SOAR Capabilities in Microsoft Sentinel](https://mccybersec.github.io/microsoft%20sentinel/SOAR-Capabilities-with-Microsoft-Sentinel/?utm_source=substack&utm_medium=email)
 * [**MSFT Blog:** New Playbooks with tasks for BEC, Ransomware, and Phishing investigations](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-tasks-management-to-protect-your-organization-against/ba-p/3884516?utm_source=substack&utm_medium=email)
 * **[STAT](https://aka.ms/mstat)** -- The Microsoft Sentinel Triage Assistant (STAT) uses modular playbooks and a Logic App Custom Connector to simplify the process through reusable content
 * [Sample Integrations with Azure OpenAI](https://myfabersecurity.com/2023/07/29/initial-assessment-connecting-the-dots-with-aoai/)
@@ -92,7 +92,7 @@ Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some
 * [Updated Workbook for User and Entity Behavior Analytics (UEBA)](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unleash-the-full-potential-of-user-and-entity-behavior-analytics/ba-p/4031570)
 
 #### MDTI
-* [Continuously import Threat Intelligence (TI) Indicators in Microsoft Sentinel](https://mccybersec.github.io/microsoft%20sentinel/threat-intelligence-upload/?utm_source=substack&utm_medium=email)
+* **Community:** [Continuously import Threat Intelligence (TI) Indicators in Microsoft Sentinel](https://mccybersec.github.io/microsoft%20sentinel/threat-intelligence-upload/?utm_source=substack&utm_medium=email)
 * [**MSFT Blog:** Performing a Successful Proof of Concept (PoC)](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/performing-a-successful-proof-of-concept-poc/ba-p/3742412)
 
 #### Notebooks
