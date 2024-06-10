@@ -13,14 +13,7 @@ tags:
 
 # Learning Plan Resources for Copilot Studio
 
-You can find important resources and learning paths for successfully ramping up on Power Pages (formerly Power Apps Portal)
-
-## Keeping Up
-
-Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners.  Release wave 1 covers features releasing from April through September.  Release wave 2 covers features releasing from October through March.
-
-* <a href="https://docs.microsoft.com/en-us/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans </a>
-* <a href="https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/" target="_blank">Power Apps with Copilot </a>
+You can find important resources and learning paths for your learning journey with Copilot Studio
 
 ## Copilot Studio - Fundamentals
 
@@ -39,3 +32,8 @@ Dynamics 365 and the Power Platform deploys two release waves per year to all cu
 * <a href="(https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1" target="_blank">Monitor Power Apps Community Group
 * <a href="(https://powerusers.microsoft.com" target="_blank">Power Platform Community
 
+## Keeping Up 
+Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners. Release wave 1 covers features releasing from April through September.  Release wave 2 covers features releasing from October through March.
+
+* <a href="https://docs.microsoft.com/en-us/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans </a>
+* <a href="https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/" target="_blank">Power Apps with Copilot </a>
