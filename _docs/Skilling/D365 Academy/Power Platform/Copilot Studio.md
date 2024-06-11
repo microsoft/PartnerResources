@@ -28,10 +28,11 @@ You can find important resources and learning paths for your learning journey wi
 * <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio#FAQ" target="_blank">Copilot Studio in a Day - Lab 05
 
 ## Community Resources
-* <a href="https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg" target="_blank">Subscribe to Microsoft Power Apps YouTube channel
-* <a href="(https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1" target="_blank">Monitor Power Apps Community Group
-* <a href="(https://powerusers.microsoft.com" target="_blank">Power Platform Community
-
+* <a href="https://www.youtube.com/@MicrosoftDynamics365/playlists" target="_blank">Subscribe to Microsoft Dynamics 365 YouTube channel
+* <a href="https://powerusers.microsoft.com/t5/Copilot-Studio-Community/ct-p/PVACommunity" target="_blank">Monitor Copilot Studio Community Group
+* <a href="https://communitypowerplatformprod.powerappsportals.com/blogs/" target="_blank">Power Platform Community Blogs
+* <a href="https://powerusers.microsoft.com/t5/Copilot-Studio-Cookbook/bd-p/cs_cookbooks" target="_blank">Copilot Studio Cookbook
+  
 ## Keeping Up 
 Dynamics 365 and the Power Platform deploys two release waves per year to all customers and partners. Release wave 1 covers features releasing from April through September.  Release wave 2 covers features releasing from October through March.
 
