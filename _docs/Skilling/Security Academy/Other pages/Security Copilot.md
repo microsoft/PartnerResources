@@ -74,6 +74,8 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 ___
 
+#### [The Partner Playbook for Copilot for Security is now live](http://aka.ms/CfSpartnerPlaybook)🎉
+
 ### Events
 
 * [Copilot for Security “Codebreakers” Workshop: Decoding AI-powered Security Basics (Tuesday, May 21st at 9:00 AM - 1:00 PM – Wednesday, May 22nd, 2024 at 9:00 AM - 1:00 PM GMT-08:00)](https://msevents.microsoft.com/event?id=2452250535) -- ***Recordings coming soon***
@@ -89,11 +91,7 @@ Copilot for Security is globally available as of April-1! Despite the April Fool
 **Recent Update** (June 11th): **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
 
 
-#### [The Partner Playbook for Copilot for Security is now live](http://aka.ms/CfSpartnerPlaybook)🎉
-
-
 <div>&nbsp;</div>
-
 
 ___
 
