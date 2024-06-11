@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-06-07
+updated: 2024-06-11
 showbreadcrumb: true
 tags: 
 - academy content
@@ -82,11 +82,14 @@ Several colleagues have also created comprehensive on-demand **[Technical Worksh
 
 ___
 
-## June 7th, 2024 Update📰
+## June 11th, 2024 Update📰
 
 Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all of the recent developments, my colleague Sameh Younis and I created this Copilot for Security Technical Journey. We will update the Journey weekly.
 
-**Recent Update** (June 7th): **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
+**Recent Update** (June 11th): **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
+
+
+#### [The Partner Playbook for Copilot for Security is now live](http://aka.ms/CfSpartnerPlaybook)🎉
 
 
 <div>&nbsp;</div>
