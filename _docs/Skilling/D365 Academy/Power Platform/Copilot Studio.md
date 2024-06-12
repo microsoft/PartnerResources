@@ -22,11 +22,10 @@ You can find important resources and learning paths for your learning journey wi
 * <a href="https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FTraining%20Videos%2FModern%20Work%2FThe-Partner-Opportunity-with-Microsoft-Copilot-Studio.mp4" target="_blank">The Partner Opportunity with Copilot Studio
 
 ## Copilot Studio in a Day Workshop
-
-#Resources
+#**Resources**
 * <a href="https://onedrive.live.com/?authkey=%21APx001IEOgY7Sao&id=158B31507335E9B8%2140181&cid=158B31507335E9B8" target="_blank">Lab Resources
   
-#Labs
+#**Labs**
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140171&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 01 - Building your first Copilot
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140169&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 02 - Creating and editing topics
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140170&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 03 - Configure and create multilingual Copilots
