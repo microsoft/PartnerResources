@@ -2,7 +2,7 @@
 layout: page
 title: Copilot Studio
 description: Resources for Copilot Studio
-updated: 2024-06-10
+updated: 2024-06-11
 permalink: /skilling/d365-academy/business-applications/power-platform/copilot-studio
 tags:
 - learning plan
