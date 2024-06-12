@@ -20,19 +20,29 @@ You can find important resources and learning paths for your learning journey wi
 * <a href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio" target="_blank">Getting Started with Copilot Studio on MS Learn
 * <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio#FAQ" target="_blank">Copilot Studio FAQ
 * <a href="https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FTraining%20Videos%2FModern%20Work%2FThe-Partner-Opportunity-with-Microsoft-Copilot-Studio.mp4" target="_blank">The Partner Opportunity with Copilot Studio
-* 
+
 ## Copilot Studio in a Day Workshop
+
+#Resources
+* <a href="https://onedrive.live.com/?authkey=%21APx001IEOgY7Sao&id=158B31507335E9B8%2140181&cid=158B31507335E9B8" target="_blank">Lab Resources
+  
+#Labs
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140171&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 01 - Building your first Copilot
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140169&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 02 - Creating and editing topics
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140170&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 03 - Configure and create multilingual Copilots
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140172&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 04 - Creating and deploying a Microsoft Copilot Studio copilot from Teams
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140174&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 05 - Creating and using entities in conversations
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140173&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 06 - - Building copilots with generative AI
-* <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio#FAQ" target="_blank">Copilot Studio in a Day - Lab 05
-* <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio#FAQ" target="_blank">Copilot Studio in a Day - Lab 05
-* <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio#FAQ" target="_blank">Copilot Studio in a Day - Lab 05
-* <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio#FAQ" target="_blank">Copilot Studio in a Day - Lab 05
-* <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio#FAQ" target="_blank">Copilot Studio in a Day - Lab 05
+* <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140175&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 07 - Using a Bing Custom Search for generative answers
+* <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140176&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 08 - Using uploaded documents for generative answers (currently in preview)
+* <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140177&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 09 --Using data from Dataverse for generative answers (currently in preview)
+* <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140178&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 10 - Calling a Power Automate flow as an action 
+* <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140179&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 11 - Returning a list of results using the Dataverse connector
+* <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140180&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 12 - Using adaptive card todisplay alist of results for user selection 
+* <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140166&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 13 - Using AI to trigger topics in Microsoft Copilot Studio 
+* <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140168&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 14 - Creating AI plugin Actions for Microsoft Copilot (currently in preview) 
+* <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140167&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 15 - Using OOB connections in plugin actions to interact with 3rd party data
+#Resources
 
 
 ## Community Resources
