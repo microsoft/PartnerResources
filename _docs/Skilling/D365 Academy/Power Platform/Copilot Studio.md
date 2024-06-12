@@ -41,8 +41,6 @@ You can find important resources and learning paths for your learning journey wi
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140166&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 13 - Using AI to trigger topics in Microsoft Copilot Studio 
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140168&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 14 - Creating AI plugin Actions for Microsoft Copilot (currently in preview) 
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140167&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 15 - Using OOB connections in plugin actions to interact with 3rd party data
-#Resources
-
 
 ## Community Resources
 * <a href="https://www.youtube.com/@MicrosoftDynamics365/playlists" target="_blank">Subscribe to Microsoft Dynamics 365 YouTube channel
