@@ -27,8 +27,8 @@ You can find important resources and learning paths for your learning journey wi
 * Copilot Studio in a Day - PowerPoint Slides **(coming soon)**
 
 **Labs**
-* <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140171&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 01 - Building your first Copilot
-* <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140169&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 02 - Creating and editing topics
+* <a href="https://www.dropbox.com/scl/fi/xsdb45oubjeuct0dhnwwz/1-Lab_Building-your-first-copilot-Copy.docx?rlkey=904otrdzkno49h1s4vyuv8px4&st=28pvsltn&dl=0" target="_blank">Copilot Studio in a Day - Lab 01 - Building your first Copilot
+* <a href="https://www.dropbox.com/scl/fi/sxi4iifvfl5gnu26xwa61/2-Lab_Creating-and-editing-a-topic-with-Copilot-Copy.docx?rlkey=tmpz0tv94i5r5nbxixxhhv192&st=jc8ylg03&dl=0" target="_blank">Copilot Studio in a Day - Lab 02 - Creating and editing topics
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140170&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 03 - Configure and create multilingual Copilots
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140172&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 04 - Creating and deploying a Microsoft Copilot Studio copilot from Teams
 * <a href="https://onedrive.live.com/?authkey=%21ALXpGA%2DZ5xsab8U&cid=158B31507335E9B8&id=158B31507335E9B8%2140174&parId=158B31507335E9B8%2140153&o=OneUp" target="_blank">Copilot Studio in a Day - Lab 05 - Creating and using entities in conversations
