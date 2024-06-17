@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-06-10
+updated: 2024-06-18
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -15,7 +15,7 @@ showbreadcrumb: true
 </div>
 
 
-  > The Microsoft Security Academy will undergo an overhaul in June, 2024. Stay tuned.
+  > The Microsoft Security Academy will undergo an overhaul throughout June and July, 2024. Stay tuned.
 
 
 <h4>Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources.</h4>
@@ -63,14 +63,14 @@ showbreadcrumb: true
 ___
 
 
-## June 10th, 2024 Update📰
+## June 18th, 2024 Update📰
 
 The Microsoft Security Academy will undergo an overhaul throughout June and July. More content is under development. With all of the recent Microsoft Security announcements, we will update this Academy weekly starting July 1st, 2024.
 
 A new era of security is here. Read [Charlie Bell's Security above all else—expanding Microsoft’s Secure Future Initiative announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/) and Microsoft's analysis of the global security landscape through [10 essential insights from the Microsoft Digital Defense Report 2023](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/10-essential-insights-from-the-microsoft-digital-defense-report/ba-p/4022783).🔎
 
 
-**Recent Update** (June 10th): **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** and **[Microsoft Sentinel Resources](/PartnerResources/security/microsoft-security-academy/microsoft-sentinel)** |
+**Recent Update** (June 18th): **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
 
 ___
 

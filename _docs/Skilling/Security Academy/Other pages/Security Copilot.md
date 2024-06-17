@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-06-11
+updated: 2024-06-18
 showbreadcrumb: true
 tags: 
 - academy content
@@ -82,11 +82,11 @@ Several colleagues have also created comprehensive on-demand **[Technical Worksh
 
 ___
 
-## June 11th, 2024 Update📰
+## June 18th, 2024 Update📰
 
 Copilot for Security is globally available as of April-1! Despite the April Fools' Day launch, we're serious about Copilot for Security's GA and transformative power. With all of the recent developments, my colleague Sameh Younis and I created this Copilot for Security Technical Journey. We will update the Journey weekly.
 
-**Recent Update** (June 11th): **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
+**Recent Update** (June 18th): **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)**, **[Use Cases](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#use-cases)**, and **[Community Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-plugins)** |
 
 #### [The Partner Playbook for Copilot for Security is now live](http://aka.ms/CfSpartnerPlaybook)🎉
 
@@ -165,6 +165,11 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Analyze files in Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/copilot-in-defender-file-analysis?view=o365-worldwide)
 * [Respond to identity threats in Entra](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-entra-risky-user-summarization)
 * [Summarize the latest threats in MDTI](https://learn.microsoft.com/en-us/defender/threat-intelligence/using-copilot-threat-intelligence-defender-xdr#prioritize-which-threats-to-focus-on)
+* [**NEW:** Analyze recommendations in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/analyze-with-copilot)
+* [**NEW:** Summarize recommendations in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/summarize-with-copilot)
+* [**NEW:** Remediate recommendations in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/remediate-with-copilot)
+* [**NEW:** Delegate recommendations in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/delegate-with-copilot)
+* [**NEW:** Remediate code in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/remediate-code-with-copilot)
 
 ### Demos
 
@@ -258,14 +263,14 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 
 ### 3P Plugins
 
-* [**NEW:** AbuseIPDB](https://learn.microsoft.com/en-us/copilot/security/plugin-abuseipdb) -- AbuseIPDB is a central repository to report and identify IPs that are associated with malicious activity online
+* [AbuseIPDB](https://learn.microsoft.com/en-us/copilot/security/plugin-abuseipdb) -- AbuseIPDB is a central repository to report and identify IPs that are associated with malicious activity online
 * [Computer Incident Response Center Luxembourg (CIRCL)](https://learn.microsoft.com/en-us/copilot/security/plugin-circl) -- CIRCL is a government initiative that provides systematic responses to incidents
 * [CrowdSec Threat Intelligence](https://learn.microsoft.com/en-us/copilot/security/plugin-crowdsec) -- CrowdSec provides information about IPs and identification and verification of potentially malicious IPs
 * [CyberArk](https://learn.microsoft.com/en-us/copilot/security/plugin-cyberark) -- CyberArk Privilege Cloud is a SaaS solution that helps to securely store, rotate, and isolate credentials
 * [Cyware Respond](https://learn.microsoft.com/en-us/copilot/security/plugin-cyware) -- Cyware is an end-to-end incident management and threat response platform
 * [Darktrace](https://learn.microsoft.com/en-us/copilot/security/plugin-darktrace) -- Darktrace offers cybersecurity AI services
 * [GreyNoise](https://learn.microsoft.com/en-us/copilot/security/plugin-greynoise) -- GreyNoise collects and analyzes Internet-wide scan and attack data
-* [**NEW:** Intel 471 Threat Intelligence](https://learn.microsoft.com/en-us/copilot/security/plugin-intel471) -- Intel 471 provides cybercrime intelligence
+* [Intel 471 Threat Intelligence](https://learn.microsoft.com/en-us/copilot/security/plugin-intel471) -- Intel 471 provides cybercrime intelligence
 * [Jamf](https://learn.microsoft.com/en-us/copilot/security/plugin-jamf) -- Jamf Pro provides comprehensive MDM data
 * [Netskope](https://learn.microsoft.com/en-us/copilot/security/plugin-netskope) -- Netskope combines security and networking services, enabling Secure Access Services Edge (SASE) and Zero Trust
 * [Red Canary](https://learn.microsoft.com/en-us/copilot/security/plugin-red-canary) -- Red Canary provides managed detection and response (MDR) services
@@ -292,6 +297,7 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 * [Microsoft Defender XDR Custom Plugin Scenarios](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Microsoft%20Defender%20XDR%20Custom%20Plugin%20Scenarios)
 * [Microsoft Sentinel Custom Plugin Scenarios](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Microsoft%20Sentinel%20Custom%20Plugin%20Scenarios)
 * [QR Code AiTM Phishing Detection](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/QR%20Code%20AiTM%20Phishing%20Detection%20Plugin)
+* [**NEW:** Have I Been Pwned](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/HaveIBeenPwned) -- Have I Been Pwned allows users to verify whether their personal data has been compromised by data breaches
 * [IBM X-Force Threat Intelligence](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/IBM) -- IBM X-Force is a cloud-based threat intelligence solution
 * [Censys](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Censys) -- Censys regularly probes public IPs and domains
 * [SentinelOne](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/SentinelOneEDR) -- SentinelOne is an Enterprise security AI Platform
