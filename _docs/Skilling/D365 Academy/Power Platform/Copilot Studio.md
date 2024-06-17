@@ -43,6 +43,23 @@ You can find important resources and learning paths for your learning journey wi
 * <a href="https://www.dropbox.com/scl/fi/h3nknij9q0va80984f84u/14-Lab_Creating-AI-plugins-to-extend-Microsoft-Copilot.pdf?rlkey=q750swhmgjjd1hprv1g4rwbl7&st=u6x22gww&dl=1" target="_blank">Copilot Studio in a Day - Lab 14 - Creating AI plugin Actions for Microsoft Copilot (currently in preview) 
 * <a href="https://www.dropbox.com/scl/fi/b9azwlqqw3kgb9vbinm2x/15-Lab_Using-OOB-connectors-in-plugin-actions-to-interact-with-3rd-party-data.pdf?rlkey=gtnoxc7znfgvj46swv0ntbptk&st=ifcxt2u4&dl=1" target="_blank">Copilot Studio in a Day - Lab 15 - Using OOB connections in plugin actions to interact with 3rd party data
 
+**Videos** (coming soon, by June 30, 2024)
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 01 - Building your first Copilot
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 02 - Creating and editing topics
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 03 - Configure and create multilingual Copilots
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 04 - Creating and deploying a Microsoft Copilot Studio copilot from Teams
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 05 - Creating and using entities in conversations
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 06 - Building copilots with generative AI
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 07 - Using a Bing Custom Search for generative answers
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 08 - Using uploaded documents for generative answers (currently in preview)
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 09 - Using data from Dataverse for generative answers (currently in preview)
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 10 - Calling a Power Automate flow as an action 
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 11 - Returning a list of results using the Dataverse connector
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 12 - Using adaptive card to display a list of results for user selection 
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 13 - Using AI to trigger topics in Microsoft Copilot Studio
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 14 - Creating AI plugin Actions for Microsoft Copilot (currently in preview) 
+* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 15 - Using OOB connections in plugin actions to interact with 3rd party data
+
 ## Community Resources
 * <a href="https://www.youtube.com/@MicrosoftDynamics365/playlists" target="_blank">Subscribe to Microsoft Dynamics 365 YouTube channel
 * <a href="https://powerusers.microsoft.com/t5/Copilot-Studio-Community/ct-p/PVACommunity" target="_blank">Monitor Copilot Studio Community Group
