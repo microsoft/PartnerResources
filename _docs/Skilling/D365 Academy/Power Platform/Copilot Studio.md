@@ -23,7 +23,7 @@ You can find important resources and learning paths for your learning journey wi
 
 ## Copilot Studio in a Day Workshop
 **Resources**
-* <a href="https://onedrive.live.com/?authkey=%21APx001IEOgY7Sao&id=158B31507335E9B8%2140181&cid=158B31507335E9B8" target="_blank">Copilot Studio in a Day - Lab 00 - Lab Resources
+* <a href="https://www.dropbox.com/scl/fo/semb7hwx2i8woe675azr5/APCSQj2kCxrAF9Yx2rdp1vs?rlkey=tcu80pa1dn2qatpcrk70lsp7u&st=7o2j7c6j&dl=1" target="_blank">Copilot Studio in a Day - Lab 00 - Lab Resources
 * Copilot Studio in a Day - PowerPoint Slides **(coming soon)**
 
 **Labs**
