@@ -17,6 +17,8 @@ tags:
 
 Welcome to the Azure Data Academy content on MySQL, PostgreSQL, MariaDB, and other similar database platforms running in Azure.
 
+Welcome to the Azure Database for PostgreSQL 
+
 {% include series.md 
     includetags="azure data academy|academy content|oss db" includemethod="all" 
     includesecondtags="azure data academy|academy content|postgresql" 
