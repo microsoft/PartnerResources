@@ -1,12 +1,30 @@
-AI and Machine Learning in Microsoft\
-Azure Specialization
+---
+layout: page
+title: Azure Partner Specialization Prep - AI and Machine Learning in Microsoft
+sorttitle: 04
+description: Specialization Prep - AI and Machine Learning in Microsoft
+permalink: /skilling/ai-ml-academy/specpartnerprep-aiml
+updated: 2024-06-17
+showbreadcrumb: true
+tags: 
+- azure
+- data, analytics, and ai
+- artificial intelligence
+- machine learning
+- academy content
+- ai & ml academy module
+- ai & ml academy
+- specialization prep
+---
+
+# Azure Specialization: AI and Machine Learning in Microsoft\
 
 Program Overview: [**AI and Machine Learning in Microsoft Azure
 specialization**](https://partner.microsoft.com/en-us/partnership/specialization/ai-and-machine-learning)
 
-Last update: 4/22/2024 1:37:00 PM
+Last update: 6/17/2024
 
-**How do I apply?**
+## How do I apply?
 
 Only a Partner Administrator of an organization\'s Microsoft account can
 apply for the AI and Machine Learning in Microsoft Azure specialization
@@ -20,14 +38,14 @@ To learn more, see: [Apply for specializations - Partner Center \|
 Microsoft
 Learn](https://learn.microsoft.com/en-us/partner-center/specializations-apply#how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization)
 
-**What are the requirements?**
+## What are the requirements?
 
 Eligible partners must meet the highest standards for service delivery
 and support. All requirements will be verified by Microsoft and/or a
 third-party vendor, either automatically or by manual review, and are
 subject to change.
 
-1.  **Solution Partner Designation**
+### 1.  Solution Partner Designation
 
 > Your organization must have an active Solutions Partner for Data & AI
 > (Azure) or Digital & App Innovation (Azure) designation.
@@ -54,7 +72,7 @@ subject to change.
 > how your organization is progressing towards a Solutions Partner
 > designation.
 >
-> ![](media/image1.png){width="6.19375in" height="5.175in"}
+> ![]({{ site.baseurl }}/assets/aiml/SolutionPartnerDesignation.png){width="6.19375in" height="5.175in"}
 >
 > Make sure your organization is receiving the points you've earned by
 > having the right associations in place. Associations are the sole
@@ -88,8 +106,7 @@ subject to change.
 -   Enabling customer adoption of Al and implementing Azure solutions
     for Alpowered apps and machine learning life cycles.
 
-> If these activities describe the work that you do, consider
-> **Solutions Partner for Digital & App Innovation (Azure)**:
+> If these activities describe the work that you do, consider **Solutions Partner for Digital & App Innovation (Azure)**:
 
 -   Migrating and deploying production web application workloads,
     applying DevOps, and managing app services in Azure
@@ -126,10 +143,8 @@ subject to change.
 -   Ensure your partner associations are connected as you prep to attain
     Solutions Partner designations.
 
-**\
-**
 
-2.  **Performance**
+### 2.  Performance
 
 > USD2,000 monthly average Al Azure consumed revenue (ACR) from the last
 > three (3) months aggregated from three (3) or more customers.
@@ -163,7 +178,7 @@ subject to change.
     Enterprise Agreement (EA). **\
     **
 
-3.  **Knowledge**
+### 3.  Knowledge
 
 > Your company must have at least three (3) individuals who have passed
 > the following certifications (each certification listed below must be
@@ -173,14 +188,14 @@ subject to change.
     Microsoft
     Docs](https://docs.microsoft.com/learn/certifications/azure-data-scientist/)\
     ]{.underline}![A screenshot of a computer Description automatically
-    generated](media/image2.png){width="6.533899825021872in"
+    generated]({{ site.baseurl }}/assets/aiml/DataScienceAssociate.png){width="6.533899825021872in"
     height="1.2292727471566054in"}[\
     ]{.underline}
 
 -   [[Microsoft Certified: Azure Al Engineer
     Associate](https://docs.microsoft.com/learn/certifications/azure-ai-engineer/)\
     ]{.underline}![A screenshot of a computer Description automatically
-    generated](media/image3.png){width="6.592237532808399in"
+    generated]({{ site.baseurl }}/assets/aiml/AIEngineerAssociate.png){width="6.592237532808399in"
     height="1.3376159230096238in"}
 
 > **How to Prepare**
@@ -223,10 +238,8 @@ subject to change.
     expert-level technical training encompassing design and
     implementation, complementary to Depth Workshops.
 
-**\
-**
 
-4.  **Audit**
+### 4.  Audit
 
 Your company must pass a third-party audit. The [AI and Machine Learning
 on Microsoft Azure specialization
@@ -313,18 +326,12 @@ information**.
     on Microsoft
     Azure](https://partner.microsoft.com/en-mt/training/assets/detail/ai-and-machine-learning-on-microsoft-azure-mp4)
 
-```{=html}
-<!-- -->
-```
 -   Two **optional** audit preparation offers from the auditing firm
     (*Please note that there is a cost associated with the consulting
     and audit preparations services. See Payment Terms and Conditions in
     the links below.*)
 
-```{=html}
-<!-- -->
-```
--   Partners can participate in an optional, one (1)-hour, live Audit
+--   Partners can participate in an optional, one (1)-hour, live Audit
     Process & Controls Overview session provided by ISSI. This session
     provides a high-level overview of key aspects of the Azure
     specialization audit process. The session includes a discussion of
@@ -335,7 +342,7 @@ information**.
     Process and Controls
     Overview](https://issi-inc.com/az-advspecoverview/)
 
--   ISSI also provides optional extensive, in-depth consulting
+--   ISSI also provides optional extensive, in-depth consulting
     engagements to help partners prepare for their Azure specialization
     audit. Partners work directly with ISSI to schedule this remote
     session (via online web conference). For more information about this
