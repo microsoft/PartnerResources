@@ -55,10 +55,10 @@ You can find important resources and learning paths for your learning journey wi
 * <a href="https://youtu.be/n98XZ8gWVNo" target="_blank">Copilot Studio in a Day - Lab 09 - Using data from Dataverse for generative answers (currently in preview)
 * <a href="https://youtu.be/FDZ2ITV9zN8" target="_blank">Copilot Studio in a Day - Lab 10 - Calling a Power Automate flow as an action 
 * <a href="https://youtu.be/gjhdnxB84ns" target="_blank">Copilot Studio in a Day - Lab 11 - Returning a list of results using the Dataverse connector
-* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 12 - Using adaptive card to display a list of results for user selection 
-* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 13 - Using AI to trigger topics in Microsoft Copilot Studio
-* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 14 - Creating AI plugin Actions for Microsoft Copilot (currently in preview) 
-* <a href="https://www.microsoft.com" target="_blank">Copilot Studio in a Day - Lab 15 - Using OOB connections in plugin actions to interact with 3rd party data
+* Copilot Studio in a Day - Lab 12 - Using adaptive card to display a list of results for user selection (coming soon)
+* Copilot Studio in a Day - Lab 13 - Using AI to trigger topics in Microsoft Copilot Studio (coming soon)
+* Copilot Studio in a Day - Lab 14 - Creating AI plugin Actions for Microsoft Copilot (currently in preview) (coming soon)
+* Copilot Studio in a Day - Lab 15 - Using OOB connections in plugin actions to interact with 3rd party data (coming soon)
 
 ## Community Resources
 * <a href="https://www.youtube.com/@MicrosoftDynamics365/playlists" target="_blank">Subscribe to Microsoft Dynamics 365 YouTube channel
