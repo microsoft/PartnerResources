@@ -27,7 +27,7 @@ You can find important resources and learning paths for your learning journey wi
 * Copilot Studio in a Day - PowerPoint Slides **(coming soon)**
 
 **Labs**
-* <a href="https://www.dropbox.com/scl/fo/semb7hwx2i8woe675azr5/APCSQj2kCxrAF9Yx2rdp1vs?rlkey=tcu80pa1dn2qatpcrk70lsp7u&st=7o2j7c6j&dl=1" target="_blank">Copilot Studio in a Day - Lab 00 - Lab Resources and Prerequisites.
+* <a href="https://www.dropbox.com/scl/fo/semb7hwx2i8woe675azr5/APCSQj2kCxrAF9Yx2rdp1vs?rlkey=tcu80pa1dn2qatpcrk70lsp7u&st=7o2j7c6j&dl=1" target="_blank">Copilot Studio in a Day - Lab 00 - Lab Resources and Prerequisites
 * <a href="https://www.dropbox.com/scl/fi/xsdb45oubjeuct0dhnwwz/1-Lab_Building-your-first-copilot-Copy.docx?rlkey=904otrdzkno49h1s4vyuv8px4&st=28pvsltn&dl=1" target="_blank">Copilot Studio in a Day - Lab 01 - Building your first Copilot
 * <a href="https://www.dropbox.com/scl/fi/sxi4iifvfl5gnu26xwa61/2-Lab_Creating-and-editing-a-topic-with-Copilot-Copy.docx?rlkey=tmpz0tv94i5r5nbxixxhhv192&st=jc8ylg03&dl=1" target="_blank">Copilot Studio in a Day - Lab 02 - Creating and editing topics
 * <a href="https://www.dropbox.com/scl/fi/7ezbthutx8qf659ryxywk/3-Lab_Configuring-and-creating-multilingual-copilots.docx?rlkey=a3tcqpivt0cz9l8ullhisbwur&st=4ylcmq5b&dl=1" target="_blank">Copilot Studio in a Day - Lab 03 - Configure and create multilingual Copilots
