@@ -19,7 +19,7 @@ You can find important resources and learning paths for your learning journey wi
 
 * <a href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio" target="_blank">Getting Started with Copilot Studio on MS Learn
 * <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio#FAQ" target="_blank">Copilot Studio FAQ
-* <a href="https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FTraining%20Videos%2FModern%20Work%2FThe-Partner-Opportunity-with-Microsoft-Copilot-Studio.mp4" target="_blank">The Partner Opportunity with Copilot Studio
+* <a href="https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FTraining%20Videos%2FModern%20Work%2FThe-Partner-Opportunity-with-Microsoft-Copilot-Studio.mp4" target="_blank">The Partner Opportunity with Copilot Studio (1hr, 29 min)
 
 ## Copilot Studio in a Day Workshop
 **Resources**
