@@ -2,7 +2,7 @@
 layout: page
 title: Power Apps with SAP on Azure
 description: Resources for Power Apps with SAP
-updated: 2023-08-04
+updated: 2024-03-24
 permalink: /skilling/d365-academy/business-applications/power-platform/power-apps-sap-azure
 tags:
 - learning plan
