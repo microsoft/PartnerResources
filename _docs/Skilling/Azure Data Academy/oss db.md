@@ -17,7 +17,12 @@ tags:
 
 Welcome to the Azure Data Academy content on MySQL, PostgreSQL, MariaDB, and other similar database platforms running in Azure.
 
-Welcome to the Azure Database for PostgreSQL 
+Welcome to the content section for Azure Database for PostgreSQL. Here will be information to assist with building AI applications with Azure Database for PostgreSQL and migrating to Azure Database for PostgreSQL.   
+
+Azure Database for PostgreSQL Flexible Server provides native vector search through [pgvector](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/how-to-use-pgvector) and built-in Azure OpenAI integration through [Azure AI extension](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/generative-ai-azure-overview).   This short Microsoft [Mechanics video](https://www.youtube.com/watch?v=zlUX4FlHX20)  highlights the product capabilities to help build and modernize AI apps using Azure Database for PostgreSQL. 
+
+Migrating existing PostgreSQL implementations can be simplified by using the [Migration Service](https://learn.microsoft.com/en-us/azure/postgresql/migrate/migration-service/overview-migration-service-postgresql).  
+One way to stay current on advancements and information for Azure Database for PostgreSQL is through the [blog](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/bg-p/ADforPostgreSQL)
 
 {% include series.md 
     includetags="azure data academy|academy content|oss db" includemethod="all" 
