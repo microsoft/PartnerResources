@@ -21,7 +21,12 @@ Welcome to the content section for Azure Database for PostgreSQL. Here will be i
 
 Azure Database for PostgreSQL Flexible Server provides native vector search through [pgvector](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/how-to-use-pgvector) and built-in Azure OpenAI integration through [Azure AI extension](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/generative-ai-azure-overview).   This short Microsoft [Mechanics video](https://www.youtube.com/watch?v=zlUX4FlHX20)  highlights the product capabilities to help build and modernize AI apps using Azure Database for PostgreSQL. 
 
-Migrating existing PostgreSQL implementations can be simplified by using the [Migration Service](https://learn.microsoft.com/en-us/azure/postgresql/migrate/migration-service/overview-migration-service-postgresql).  
+Here is a Microsoft Learn [learning path](https://learn.microsoft.com/en-us/training/paths/build-ai-apps-azure-database-postgresql/) covering building AP applications with Azure Database for PostgreSQL. 
+
+Migrating existing PostgreSQL implementations can be simplified by using the [Migration Service](https://learn.microsoft.com/en-us/azure/postgresql/migrate/migration-service/overview-migration-service-postgresql). 
+
+Here is a Microsoft Learn [learning path](https://learn.microsoft.com/en-us/training/paths/microsoft-learn-azure-database-for-postgresql/) covering the configuration and migration to Azure Database fro PostgreSQL. 
+
 One way to stay current on advancements and information for Azure Database for PostgreSQL is through the [blog](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/bg-p/ADforPostgreSQL)
 
 {% include series.md 
