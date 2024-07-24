@@ -258,6 +258,9 @@
         - title: Vignettes
           url: "skilling/modern-analytics-academy/vignettes"
           tag: maa
+        - title: ISV's
+          url: "skilling/modern-analytics-academy/isv"
+          tag: maa
         - title: Resources
           url: "skilling/modern-analytics-academy/resources"
           tag: maa
