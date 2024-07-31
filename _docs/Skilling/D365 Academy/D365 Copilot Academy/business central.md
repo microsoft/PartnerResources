@@ -22,8 +22,7 @@ tags:
 ## Dynamics 365 Business Central and Dynamics 365 Copilot
 
 {% include series.md 
-    includetags="d365 copilot academy|academy content|business central|copilot" 
-    includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="false" showtags="true" 
-    visualstyle="normal"
+    includetags="business central academy|copilot" includemethod="all"  
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
+    visualstyle="normal" target="_blank" showlink="false"
 %}
