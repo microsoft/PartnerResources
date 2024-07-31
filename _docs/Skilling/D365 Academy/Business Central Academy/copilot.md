@@ -13,7 +13,7 @@ showbreadcrumb: true
 These two videos provide presales engineers guidance on how to **demonstrate** and **configure** the integrated experience between Dynamics 365 Sales and Business Central to connect and synchronize the data between apps.
 
 {% include series.md 
-    includetags="business central academy|d365 sales" includemethod="all" 
+    includetags="business central academy|copilot" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
 %}
