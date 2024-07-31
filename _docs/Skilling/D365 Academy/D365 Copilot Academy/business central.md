@@ -10,6 +10,7 @@ showbreadcrumb: true
 tags: 
  - d365 academy
  - d365 copilot academy
+ - academy page
  - dynamics
  - d365
  - business central
@@ -22,7 +23,8 @@ tags:
 ## Dynamics 365 Business Central and Dynamics 365 Copilot
 
 {% include series.md 
-    includetags="business central academy|copilot" includemethod="all"  
+    includetags="business central academy|academy content|copilot" includemethod="all"  
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
 %}
+
