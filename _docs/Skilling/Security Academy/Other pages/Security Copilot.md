@@ -64,9 +64,9 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing">Pricing</a></li>     
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#integrations">Integrations</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#microsoft-security-integration-reference-architecture">Microsoft Security Integration Reference Architecture</a></li>
+                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#multi-tenant--delegation-models">Multi-tenant & Delegation Models</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#address-concerns">Address Concerns</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#technical-considerations">Technical Considerations</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#multi-tenant--delegation-models">Multi-tenant & Delegation Models</a></li>
             </ul> 
         </td>
     </tr>
@@ -356,6 +356,16 @@ Beyond GA, we're also collecting this data and in good time, will provide more g
 
 ![CfS Reference Architecture]({{ site.baseurl }}/assets/msa/CfS Reference Arch.jpg)
 
+### Multi-tenant & Delegation Models
+
+As of today, customers pay for their MSSP’s SCUs/usage. MSSPs can access the customer's Copilot for Security environment (limited to the standalone portal) if the customer elects to provide access (referred to as Bring your Own MSSP), which is managed via Guest Access (B2B) and GDAP. Currently, there isn't a CSP or reseller multitenant model for MSSPs.
+
+* [Grant partners access](https://learn.microsoft.com/en-us/security-copilot/grant-access-external-users?view=o365-worldwide)
+* [B2B collaboration](https://learn.microsoft.com/en-us/entra/external-id/what-is-b2b)
+* [Granular Delegated Admin Privileges (GDAP)](https://learn.microsoft.com/en-us/partner-center/gdap-introduction)
+* [Azure Lighthouse](https://learn.microsoft.com/en-us/azure/lighthouse/) — ***Coming soon to Copilot for Security***
+* [Microsoft 365 Lighthouse](https://learn.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-overview?view=o365-worldwide) ***Coming soon to Copilot for Security***
+
 ### Address Concerns
 
 * [OAuth 2.0 On-Behalf-Of flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow)
@@ -367,14 +377,6 @@ Beyond GA, we're also collecting this data and in good time, will provide more g
 * **Assist a Human in Completing Work** – It's a Copilot, integrations are driven by/drive human engagement, not background runtime processing of substantial amounts of data.
 * **Have High Customer Value** — The cost of Generative AI is orders of magnitude higher per transaction than your average feature today and depends on a constrained hardware supply (GPUs).
 * **Will be Regularly Used** — The best integrations will be used regularly so it is ongoing value, not a one-time value (like a configuration assistant).
-
-### Multi-tenant & Delegation Models
-
-* [Grant MSSP access](https://learn.microsoft.com/en-us/security-copilot/grant-access-external-users?view=o365-worldwide)
-* [B2B collaboration](https://learn.microsoft.com/en-us/entra/external-id/what-is-b2b)
-* [Granular Delegated Admin Privileges (GDAP)](https://learn.microsoft.com/en-us/partner-center/gdap-introduction) — ***Coming soon to Copilot for Security***
-* [Azure Lighthouse](https://learn.microsoft.com/en-us/azure/lighthouse/) — ***Coming soon to Copilot for Security***
-* [Microsoft 365 Lighthouse](https://learn.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-overview?view=o365-worldwide) ***Coming soon to Copilot for Security***
 
 
 #### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents).
