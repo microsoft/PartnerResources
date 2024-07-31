@@ -11,7 +11,7 @@ showbreadcrumb: true
 Explore the power of Copilot in Business Central, the world’s first AI-powered assistant across all lines of business. Copilot sparks creativity, boosts productivity, and eliminates tedious tasks for small and medium-sized organizations. Dive into AI-generated product descriptions, conversational chat, sales line suggestions, cash flow forecasting, and late payment prediction, all within Dynamics 365 Business Central. Watch our videos to discover how Copilot empowers your workforce with intuitive AI tools, saving time and driving sales
 
 {% include series.md 
-    includetags="business central academy|copilot" includemethod="all" 
+    includetags="business central academy|copilot" includemethod="all"  
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal" target="_blank" showlink="false"
 %}
