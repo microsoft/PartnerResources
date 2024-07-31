@@ -10,10 +10,11 @@ showbreadcrumb: true
 tags: 
  - d365 academy
  - d365 copilot academy
- - academy page
+ - academy content
  - dynamics
  - d365
  - business central
+ - business central academy
  - copilot
 ---
 
