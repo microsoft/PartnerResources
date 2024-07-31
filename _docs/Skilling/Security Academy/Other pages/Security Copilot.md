@@ -86,6 +86,9 @@ If you're a member of the **[Microsoft Copilot for Security Customer Connection 
 
 Several colleagues have also created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).**
 
+
+<div>&nbsp;</div>
+
 ___
 
 ## August 2nd, 2024 Update📰
