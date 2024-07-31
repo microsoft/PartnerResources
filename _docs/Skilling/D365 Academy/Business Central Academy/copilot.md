@@ -10,7 +10,7 @@ showbreadcrumb: true
 
 **Connect Dynamics 365 Sales** in your Business Central demo environment to highlight demos such as Lead-to-Cash.
 
-These two videos provide presales engineers guidance on how to **demonstrate** and **configure** the integrated experience between Dynamics 365 Sales and Business Central to connect and synchronize the data between apps.
+These videos provide presales engineers guidance on how to **demonstrate** and **configure** the Copilot experiences in Business Central.
 
 {% include series.md 
     includetags="business central academy|copilot" includemethod="all" 
@@ -18,7 +18,7 @@ These two videos provide presales engineers guidance on how to **demonstrate** a
     visualstyle="normal" target="_blank" showlink="false"
 %}
 
-Integrating Business Central and Dynamics 365 Sales gives salespeople insights they need to perform their job in their preferred app. The integration allows users to view information in Business Central while working in Dynamics 365 Sales. In turn, Business Central processes the backend tasks such as processing orders and managing inventory. 
+Explore the power of Copilot in Business Central, the world’s first AI-powered assistant across all lines of business. Copilot sparks creativity, boosts productivity, and eliminates tedious tasks for small and medium-sized organizations. Dive into AI-generated product descriptions, cash flow forecasting, and late payment prediction, all within Dynamics 365 Business Central. Watch our videos to discover how Copilot empowers your workforce with intuitive AI tools, saving time and driving sales
 
 ### Supporting Resources for these videos
 
