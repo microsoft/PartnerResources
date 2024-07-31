@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-06-18
+updated: 2024-08-02
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -15,7 +15,7 @@ showbreadcrumb: true
 </div>
 
 
-  > The Microsoft Security Academy will undergo an overhaul throughout June and July, 2024. Stay tuned.
+  > The Microsoft Security Academy will undergo an overhaul throughout July and August, 2024. Stay tuned.
 
 
 <h4>Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources.</h4>
