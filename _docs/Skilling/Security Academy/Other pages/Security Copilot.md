@@ -76,7 +76,7 @@ ___
 
 ### Events
 
-If you're a member of the **[Microsoft Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Copilot for Security Skilling and Readiness webinars
+If you're a member of the **[Microsoft Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Copilot for Security Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
 | Plugin spotlight – Microsoft Entra | Thursday, August 8th @  8:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/973a71fa-12f9-449f-bcf9-d3779053608f@72f988bf-86f1-41af-91ab-2d7cd011db47)
@@ -134,7 +134,6 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Sample Prompts Library](https://github.com/Azure/Copilot-For-Security/tree/main/Sample%20Prompts)
 * [Promptbooks](https://learn.microsoft.com/en-us/security-copilot/using-promptbooks?view=o365-worldwide)
 * [Promptbooks Library](https://github.com/Azure/Copilot-For-Security/tree/main/Promptbook%20samples)
-* [Leveraging Generative AI for Efficient Security Investigation Summaries](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/leveraging-generative-ai-for-efficient-security-investigation/ba-p/4049630)
 * [What does good prompt engineering look like?](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)
 * [Apply principles of Zero Trust to Microsoft Copilot for Security](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
 * [Exploring Copilot for Security to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
@@ -208,7 +207,7 @@ We recommend watching the following videos created by Microsoft Security and the
 
 ### Roles beyond SOC Analysts​
 
-* **IT​ Admins:** Create device configuration profiles in Intune and leverage data-driven troubleshooting and remediation​.
+* **IT​ Admins:** Create device configuration profiles in Intune and leverage data-driven configuration troubleshooting and remediation​.
 * **DLP​ Analysts:​** Summarize DLP alerts and analyze DLP policy configurations.
 * **Insider​ Risk Analysts:​** Summarize Insider Risk Management (IRM) alerts and gain context around users with risky behavior​.
 * **eDiscovery​ Analysts​:** Generate Keyword Query Language from NL in eDiscovery and summarize evidence collected.
@@ -272,7 +271,7 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 ### 3P Plugins
 
 * [AbuseIPDB](https://learn.microsoft.com/en-us/copilot/security/plugin-abuseipdb) -- AbuseIPDB is a central repository to report and identify IPs that are associated with malicious activity online
-* [Computer Incident Response Center Luxembourg (CIRCL)](https://learn.microsoft.com/en-us/copilot/security/plugin-circl) -- CIRCL is a government initiative that provides systematic responses to incidents
+* [Computer Incident Response Center Luxembourg (CIRCL)](https://learn.microsoft.com/en-us/copilot/security/plugin-circl) -- CIRCL is a government initiative that enables users to validate suspicious files in the form of hashes
 * [CrowdSec](https://learn.microsoft.com/en-us/copilot/security/plugin-crowdsec) -- CrowdSec provides identification and verification of potentially malicious IPs
 * [CyberArk](https://learn.microsoft.com/en-us/copilot/security/plugin-cyberark) -- CyberArk Privilege Cloud helps to securely store, rotate, and isolate credentials
 * [Cyware](https://learn.microsoft.com/en-us/copilot/security/plugin-cyware) -- Cyware is an end-to-end incident management and response platform
@@ -370,7 +369,7 @@ As of today, customers pay for their MSSP’s SCUs/usage. MSSPs can access the c
 
 * [OAuth 2.0 On-Behalf-Of flow](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow)
 * [Privileged Identity Management (PIM)](https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/)
-* [Microsoft Defender for Endpoint (MDE) Device Scope Groups](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/machine-groups?view=o365-worldwide)
+* [Microsoft Defender for Endpoint (MDE) Device Groups](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/machine-groups?view=o365-worldwide)
 
 ### Technical Considerations
 
