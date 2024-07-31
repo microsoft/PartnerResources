@@ -65,11 +65,12 @@ ___
 
 ## August 2nd, 2024 Update📰
 
- > With all of the recent announcements, the Microsoft Security Academy will undergo an overhaul throughout July and August, 2024.
-
-A new era of security is here. Read [Charlie Bell's Security above all else announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/).
-
 **Recent Update** (August 2nd): **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
+
+**A new era of security is here. Read [Charlie Bell's Security above all else announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/).🔍**
+
+
+<div>&nbsp;</div>
 
 ___
 
