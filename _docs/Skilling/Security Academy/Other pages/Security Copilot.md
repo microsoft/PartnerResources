@@ -326,7 +326,7 @@ Microsoft Copilot for Security enables customers and partners to proactively def
 
 ### Pricing📌
 
-Copilot for Security pricing is consumption-based and costs approximately ***$4 per SCU per hr.*** A Security Compute Unit (SCU) is Copilot for Security's unit of measurement of computing capacity to run a Copilot workload (i.e., prompt/Promptbook). The amount of SCUs needed depends on the complexity of the given workload. The pricing is consistent across the standalone experience and the embedded experiences as well as regions.
+Copilot for Security pricing is consumption-based and costs approximately **$4 per SCU per hr.** A Security Compute Unit (SCU) is Copilot for Security's unit of measurement of computing capacity to run a Copilot workload (i.e., prompt/Promptbook). The amount of SCUs needed depends on the complexity of the given workload. The pricing is consistent across the standalone experience and the embedded experiences as well as regions.
 
 Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing; the more telemetry ingested = the more coverage and insights, so long as it's not *too* much noise). There are no prerequisites, but for the optimal user experience, we recommend that customers have MDE P2 and/or Microsoft Sentinel.
 
