@@ -334,7 +334,7 @@ To use Copilot for Security, you will need to provision ***at least* 1 SCU per h
 
 If you delete Copilot for Security (zero SCUs per hr), we will retain your data for 90 days. ***Tenant-level MDTI workbench is included with Copilot for Security*** and although it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
 
-Since computing capacity and token usage is ***variable (quantifying a specific # of tokens or SCUs/workflows needed per prompt/Promptbook is difficult)***, it's important for partners to know what they can do now:
+Since computing capacity and token usage is ***variable*** **(quantifying a specific # of tokens or SCUs/workflows needed per prompt/Promptbook is difficult)**, it's important for partners to know what they can do now:
 
 * Measure SCU usage between different use cases (SOC analysts, Purview admins, identity/access admins, etc.)
 * Measure SCU usage between different levels of expertise (Junior analysts vs Senior analysts)
