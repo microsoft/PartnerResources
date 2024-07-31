@@ -8,9 +8,7 @@ showbreadcrumb: true
 
 # {{ page.title }}
 
-**Connect Dynamics 365 Sales** in your Business Central demo environment to highlight demos such as Lead-to-Cash.
-
-These videos provide presales engineers guidance on how to **demonstrate** and **configure** the Copilot experiences in Business Central.
+Explore the power of Copilot in Business Central, the world’s first AI-powered assistant across all lines of business. Copilot sparks creativity, boosts productivity, and eliminates tedious tasks for small and medium-sized organizations. Dive into AI-generated product descriptions, conversational chat, sales line suggestions, cash flow forecasting, and late payment prediction, all within Dynamics 365 Business Central. Watch our videos to discover how Copilot empowers your workforce with intuitive AI tools, saving time and driving sales
 
 {% include series.md 
     includetags="business central academy|copilot" includemethod="all" 
@@ -18,10 +16,9 @@ These videos provide presales engineers guidance on how to **demonstrate** and *
     visualstyle="normal" target="_blank" showlink="false"
 %}
 
-Explore the power of Copilot in Business Central, the world’s first AI-powered assistant across all lines of business. Copilot sparks creativity, boosts productivity, and eliminates tedious tasks for small and medium-sized organizations. Dive into AI-generated product descriptions, cash flow forecasting, and late payment prediction, all within Dynamics 365 Business Central. Watch our videos to discover how Copilot empowers your workforce with intuitive AI tools, saving time and driving sales
 
 ### Supporting Resources for these videos
 
-* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/marketing-integrate-dynamicscrm?tabs=current-experience" target="_blank">Using Dynamics 365 with Business Central  
-* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/admin-prepare-dynamics-365-for-sales-for-integration" target="_blank"> Integrating Dynamics 365 with Business Central
-* <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/admin-common-data-service" target="_blank">Integrating Dataverse with Business Central
+* <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/chat-with-copilot" target="_blank">Chat with Copilot  
+* <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/faq-sales-suggest-sales-lines-with-copilot" target="_blank">Sales Line Suggestions FAQ
+* <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/faqs-analysis-assist" target="_blank">Analysis Assist FAQ
