@@ -65,7 +65,7 @@ ___
 
 ## August 2nd, 2024 Update📰
 
-**Recent Update** (August 2nd): **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
+**Recent Update** (August 2nd): **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Getting Started](/PartnerResources/skilling/microsoft-security-academy/start)** |
 
 **A new era of security is here. Read [Charlie Bell's Security above all else announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/).🔍**
 

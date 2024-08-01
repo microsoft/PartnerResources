@@ -3,7 +3,7 @@ layout: page
 title: Getting Started with the Microsoft Security Academy
 description: Want to begin or continue your security journey?
 permalink: /skilling/microsoft-security-academy/start
-updated: 2024-05-03
+updated: 2024-08-02
 showbreadcrumb: true
 tags: 
 - academy content
@@ -14,19 +14,16 @@ tags:
 ## Microsoft Security Academy
 
 ### Are you ready to get started?⏩ 
-Welcome to cybersecurity! Browse our curated collection of resources to help you kickstart your journey. These resources specifically cater to those who are new to the field seeking to gain expertise.
+Welcome to cybersecurity! Explore our curated resources to help you start your journey. These resources specifically cater to those who are new to the industry.
 
-#### Explore [Microsoft's Security-101](https://github.com/microsoft/Security-101?tab=readme-ov-file) for 7 cybersecurity lessons for Beginners.
-
-### Microsoft Zero Trust Architecture
-
-![Microsoft Zero Trust Architectur]({{ site.baseurl }}/assets/msa/zero-trust-diagram.png)
+#### Start by mastering the basics with [Microsoft's Security 101](https://github.com/microsoft/Security-101?tab=readme-ov-file).
 
 ## Definition Cookbook
 
 
-| **Concept** | **Definition** |
+| **Concept** | **Description** |
 | [Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility) | A security and compliance framework that outlines the responsibilities of cloud service providers (CSPs) and customers for securing every aspect of the cloud environment. |
+| [AI Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility) | An AI framework that outlines the security responsibilities between you and the AI provider, ensuring safe and effective use of AI. |
 | Logging or Auditing | ‘Logging’ or ‘Auditing’ means that information systems are recording important events such as system-level events, and the creation, modification, or deletion of objects within the system. |
 | [Ransomware](https://learn.microsoft.com/en-us/security/ransomware/human-operated-ransomware) | A type of attack that destroys or encrypts files and folders, preventing the owner of the effected device from accessing their data. |
 | [Incident Response](https://learn.microsoft.com/en-us/security/operations/incident-response-overview) | The practice of investigating and remediating active attack campaigns against your organization. |
@@ -37,6 +34,45 @@ Welcome to cybersecurity! Browse our curated collection of resources to help you
 | [Data Retention](https://learn.microsoft.com/en-us/purview/retention) | Refers to minimum and maximum timelines for keeping corporate data, including sensitive data, before such data is permanently deleted. |
 | [Records Management](https://learn.microsoft.com/en-us/purview/records-management) | A solution for organizations to manage regulatory, legal, and business-critical records. |
 
+
+
+## Feature Cookbook
+
+
+| **Feature**                     | **Description**                                                                 |
+|---------------------------------|---------------------------------------------------------------------------------|
+| **Microsoft Sentinel**          | Scalable SIEM and SOAR solution for attack detection and threat response.       |[^1^][1]
+| **Microsoft Defender for Cloud**| Integrated security monitoring and policy management across Azure resources.    |[^2^][2]
+| **Azure Resource Manager**      | Manages resources as a group with security, auditing, and tagging features.     |[^3^][3]
+| **Application Insights**        | Monitors live web applications and detects performance anomalies.               |[^4^][4]
+| **Azure Monitor**               | Provides visualization, query, alerting, and automation on Azure data.          |[^5^][5]
+| **Azure Advisor**               | Personalized cloud consultant offering security recommendations.                |
+| **Web Application Firewall**    | Protects web applications from common web-based attacks.                        |[^6^][6]
+| **Azure Key Vault**             | Manages and secures cryptographic keys and secrets.                             |[^7^][7]
+| **Azure Backup**                | Protects application data with minimal operating costs.                         |[^8^][8]
+| **Azure Site Recovery**         | Orchestrates replication, failover, and recovery of workloads and apps.         |[^9^][9]
+
+
+
+## Concept Cookbook
+
+
+| **Concept**                     | **Description**                                                                 |
+|---------------------------------|---------------------------------------------------------------------------------|
+| **Hardware Security Modules**   | Physical devices that manage digital keys for strong authentication.            |
+| **Zero Trust Architecture**     | Security model that assumes breaches and verifies each request as though it originates from an open network. |
+| **Encryption**                  | Process of converting data into a code to prevent unauthorized access.          |
+| **Multi-Factor Authentication** | Security system that requires more than one method of authentication.           |
+| **Identity and Access Management** | Framework for managing digital identities and access to resources.           |
+| **Threat Intelligence**         | Information about threats and threat actors to help mitigate cyber attacks.     |
+| **Incident Response**           | Procedures and actions taken to respond to and recover from security incidents. |
+| **Vulnerability Management**    | Process of identifying, evaluating, treating, and reporting on security vulnerabilities. |
+| **Security Information and Event Management (SIEM)** | Solution that provides real-time analysis of security alerts generated by applications and network hardware. |
+| **Data Loss Prevention**        | Strategies and tools to prevent data breaches and ensure data security.         |
+
+### Microsoft Zero Trust Architecture
+
+![Microsoft Zero Trust Architectur]({{ site.baseurl }}/assets/msa/zero-trust-diagram.png)
 
 ## Security Strategy
 * [Define a Security Strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/define-security-strategy)
