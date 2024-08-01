@@ -98,6 +98,9 @@
           url: "skilling/d365-academy/business-central-academy"
           tag: business central academy
           children:
+            - title: Copilot
+              url: "skilling/d365-academy/business-central-academy/copilot"
+              tag: bca copilot
             - title: Sales
               url: "skilling/d365-academy/business-central-academy/d365sales"
               tag: bca d365
