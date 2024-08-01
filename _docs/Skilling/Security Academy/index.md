@@ -69,9 +69,6 @@ ___
 
 **A new era of security is here. Read [Charlie Bell's Security above all else announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/).🔍**
 
-
-<div>&nbsp;</div>
-
 ___
 
 

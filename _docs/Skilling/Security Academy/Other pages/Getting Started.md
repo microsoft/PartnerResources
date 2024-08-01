@@ -16,59 +16,42 @@ tags:
 ### Are you ready to get started?⏩ 
 Welcome to cybersecurity! Explore our curated resources to help you start your journey. These resources specifically cater to those who are new to the industry.
 
-#### Start by mastering the basics with [Microsoft's Security 101](https://github.com/microsoft/Security-101?tab=readme-ov-file).
+### Start by mastering the basics with [Microsoft's Security 101](https://github.com/microsoft/Security-101?tab=readme-ov-file)
 
-## Definition Cookbook
+## Concept Cookbook
 
-
-| **Concept** | **Description** |
-| [Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility) | A security and compliance framework that outlines the responsibilities of cloud service providers (CSPs) and customers for securing every aspect of the cloud environment. |
-| [AI Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility) | An AI framework that outlines the security responsibilities between you and the AI provider, ensuring safe and effective use of AI. |
-| Logging or Auditing | ‘Logging’ or ‘Auditing’ means that information systems are recording important events such as system-level events, and the creation, modification, or deletion of objects within the system. |
-| [Ransomware](https://learn.microsoft.com/en-us/security/ransomware/human-operated-ransomware) | A type of attack that destroys or encrypts files and folders, preventing the owner of the effected device from accessing their data. |
-| [Incident Response](https://learn.microsoft.com/en-us/security/operations/incident-response-overview) | The practice of investigating and remediating active attack campaigns against your organization. |
-| Secure Configuration | ‘Secure’ means that a system has been configured or managed in a manner that reduces common risks associated with security incidents. |
-| [Identity Protection](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection) | The detection, investigation, and remediation of identity-based risks. |
-| [Privileged Access](https://learn.microsoft.com/en-us/security/privileged-access-workstations/privileged-access-strategy) | Individuals or cloud service providers (CSPs) with ‘Privileged Roles’ have administrative access including the ability to manage information systems and change permissions. Also known as Privileged Access or Administrator Access. |
-| [Data Loss Prevention](https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp) | Preventing users from inappropriately sharing  sensitive information with people who shouldn't have it. |
-| [Data Retention](https://learn.microsoft.com/en-us/purview/retention) | Refers to minimum and maximum timelines for keeping corporate data, including sensitive data, before such data is permanently deleted. |
-| [Records Management](https://learn.microsoft.com/en-us/purview/records-management) | A solution for organizations to manage regulatory, legal, and business-critical records. |
-
+| **Concept**                     | **Description**                                                                 |
+|---------------------------------|---------------------------------------------------------------------------------|
+| **[Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)** | Division of security responsibilities between cloud service providers and the customer. |
+| **[AI Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai)** | Division of AI security responsibilities between cloud service providers and the customer. |
+| **[Zero Trust Architecture](https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust)** | Security model that assumes breaches and verifies each request as though it originates from an open network. |
+| **[Incident Response](https://learn.microsoft.com/en-us/security/operations/incident-response-overview)** | Procedures and actions taken to respond to and recover from security incidents. |
+| **[Identity and Access Management (IAM)](https://www.microsoft.com/en-us/security/business/solutions/identity-access)** | Framework for managing digital identities and access to resources. |
+| **[Identity Protection](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-protection)** | The detection, investigation, and remediation of identity-based risks. |
+| **[Multi-Factor Authentication](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-protection)** | Security system that requires more than one method of authentication. |
+| **[Privileged Access](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-privileged-identity-management-pim)** | Manages and monitors access to critical resources to prevent unauthorized access |
+| **[Encryption](https://learn.microsoft.com/en-us/purview/office-365-encryption-in-the-microsoft-cloud-overview)** | Process of converting data into a code to prevent unauthorized access. |
+| **[Logging or Auditing](https://learn.microsoft.com/en-us/compliance/assurance/assurance-audit-logging)** | Configurable options to generate, collect, and analyze security logs from services. |
+| [Data Loss Prevention](https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp) | Preventing users from inappropriately sharing sensitive information with people who shouldn't have it. |
+| **[Data Retention](https://learn.microsoft.com/en-us/compliance/assurance/assurance-data-retention-deletion-and-destruction-overview)** | Refers to minimum and maximum timelines for keeping corporate data, including sensitive data, before such data is permanently deleted. |
+| **[Records Management](https://learn.microsoft.com/en-us/purview/get-started-with-records-management)** | A solution for organizations to manage regulatory, legal, and business-critical records. |
+| **[Hardware Security Modules (HSMs0](https://learn.microsoft.com/en-us/azure/key-vault/managed-hsm/overview)** | Physical devices that manage digital keys for strong authentication. |
 
 
 ## Feature Cookbook
 
-
-| **Feature**                     | **Description**                                                                 |
-|---------------------------------|---------------------------------------------------------------------------------|
-| **Microsoft Sentinel**          | Scalable SIEM and SOAR solution for attack detection and threat response.       |[^1^][1]
-| **Microsoft Defender for Cloud**| Integrated security monitoring and policy management across Azure resources.    |[^2^][2]
-| **Azure Resource Manager**      | Manages resources as a group with security, auditing, and tagging features.     |[^3^][3]
-| **Application Insights**        | Monitors live web applications and detects performance anomalies.               |[^4^][4]
-| **Azure Monitor**               | Provides visualization, query, alerting, and automation on Azure data.          |[^5^][5]
-| **Azure Advisor**               | Personalized cloud consultant offering security recommendations.                |
-| **Web Application Firewall**    | Protects web applications from common web-based attacks.                        |[^6^][6]
-| **Azure Key Vault**             | Manages and secures cryptographic keys and secrets.                             |[^7^][7]
-| **Azure Backup**                | Protects application data with minimal operating costs.                         |[^8^][8]
-| **Azure Site Recovery**         | Orchestrates replication, failover, and recovery of workloads and apps.         |[^9^][9]
-
-
-
-## Concept Cookbook
-
-
-| **Concept**                     | **Description**                                                                 |
-|---------------------------------|---------------------------------------------------------------------------------|
-| **Hardware Security Modules**   | Physical devices that manage digital keys for strong authentication.            |
-| **Zero Trust Architecture**     | Security model that assumes breaches and verifies each request as though it originates from an open network. |
-| **Encryption**                  | Process of converting data into a code to prevent unauthorized access.          |
-| **Multi-Factor Authentication** | Security system that requires more than one method of authentication.           |
-| **Identity and Access Management** | Framework for managing digital identities and access to resources.           |
-| **Threat Intelligence**         | Information about threats and threat actors to help mitigate cyber attacks.     |
-| **Incident Response**           | Procedures and actions taken to respond to and recover from security incidents. |
-| **Vulnerability Management**    | Process of identifying, evaluating, treating, and reporting on security vulnerabilities. |
-| **Security Information and Event Management (SIEM)** | Solution that provides real-time analysis of security alerts generated by applications and network hardware. |
-| **Data Loss Prevention**        | Strategies and tools to prevent data breaches and ensure data security.         |
+| **Feature**                     | **Description**                                                                 | **Product Page** |
+|---------------------------------|---------------------------------------------------------------------------------|------------------|
+| **Microsoft Sentinel**          | Scalable SIEM and SOAR solution for attack detection and threat response.       | [Microsoft Sentinel](https://azure.microsoft.com/en-us/products/microsoft-sentinel/) |
+| **Microsoft Defender for Cloud**| Integrated security monitoring and policy management across Azure resources.    | [Microsoft Defender for Cloud](https://azure.microsoft.com/en-us/products/defender-for-cloud/) |
+| **Azure Resource Manager**      | Manages resources as a group with security, auditing, and tagging features.     | [Azure Resource Manager](https://azure.microsoft.com/en-us/get-started/azure-portal/resource-manager/) |
+| **Application Insights**        | Monitors live web applications and detects performance anomalies.               | [Application Insights](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/Microsoft.AppInsights?tab=Overview) |
+| **Azure Monitor**               | Provides visualization, query, alerting, and automation on Azure data.          | [Azure Monitor](https://azure.microsoft.com/en-us/products/monitor/) |
+| **Azure Advisor**               | Personalized cloud consultant offering security recommendations.                | [Azure Advisor](https://azure.microsoft.com/en-us/products/advisor) |
+| **Web Application Firewall**    | Protects web applications from common web-based attacks.                        | [Web Application Firewall](https://azure.microsoft.com/en-us/products/web-application-firewall/) |
+| **Azure Key Vault**             | Manages and secures cryptographic keys and secrets.                             | [Azure Key Vault](https://azure.microsoft.com/en-us/products/advisor) |
+| **Azure Backup**                | Protects application data with minimal operating costs.                         | [Azure Backup](https://azure.microsoft.com/en-us/products/backup/) |
+| **Azure Site Recovery**         | Orchestrates replication, failover, and recovery of workloads and apps.         | [Azure Site Recovery](https://azure.microsoft.com/en-us/products/site-recovery/) |
 
 ### Microsoft Zero Trust Architecture
 
