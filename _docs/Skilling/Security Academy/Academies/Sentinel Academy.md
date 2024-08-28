@@ -17,17 +17,6 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
 
 #### Stay connected with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog).
 
-### Additional Resources
-
-{% include resources.md 
-    includetags="sentinel resources"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
 <table>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/xMj7a4Ns_cU"><img src="https://img.youtube.com/vi/xMj7a4Ns_cU/maxresdefault.jpg" alt="Microsoft Sentinel in just 30 minutes" width="400" height="400"></a></td>
