@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Microsoft Sentinel Academy
-description: Microsoft Sentinel Academy.
+title: Microsoft Sentinel
+description: Microsoft Sentinel.
 permalink: /skilling/microsoft-security-academy/sentinel-academy
 updated: 2024-08-30
 showbreadcrumb: true
@@ -10,8 +10,8 @@ Tags:
 - microsoft security academy
 ---
 
-## Microsoft Sentinel Academy
-Welcome to the **Microsoft Sentinel Academy.** Explore Microsoft Sentinel video sessions with demos delivered directly to partners, relevant certifications, and further resources.
+## Microsoft Sentinel
+Explore Microsoft Sentinel videos with demos delivered directly to partners, relevant certifications, and further resources.
 
 ### Explore our new [Microsoft Sentinel Skill-up Training Plan]({{ site.baseurl }}/assets/msa/Microsoft Sentinel skill-up training plan.pdf)🎉
 
@@ -65,10 +65,3 @@ Welcome to the **Microsoft Sentinel Academy.** Explore Microsoft Sentinel video 
     <td><a href="https://youtu.be/QYpTHOUCQ7o"><b>Automating Responses in Microsoft Sentinel</b></a><br><br>Learn about Microsoft Sentinel’s SOAR capabilities, including Automation Rules and Playbooks. Explore several OOB Playbooks, Community Playbooks, as well as Custom Playbooks, including one utilizing the OpenAI Logic App Connector.</td>
   </tr>
 </table>
-
-### Sessions
-{% include series.md 
-    includetags="academy content|sentinel" includemethod="all" 
-    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
-    visualstyle="normal" 
-%}

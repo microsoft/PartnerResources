@@ -38,6 +38,10 @@ Welcome to cybersecurity! Explore our curated resources to help you start your j
 | **[Data Loss Prevention](https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp)** | Preventing users from inappropriately sharing sensitive information. |
 
 
+<div>&nbsp;</div>
+
+___
+
 ## Product Cookbook
 
 | **Feature**                     | **Description**                                                                 | **Product Page** |
@@ -54,6 +58,11 @@ Welcome to cybersecurity! Explore our curated resources to help you start your j
 | **Azure Key Vault**             | Manages and secures cryptographic keys and secrets.                             | [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/) |
 | **Azure Backup**                | Protects application data with minimal operating costs.                         | [Azure Backup](https://azure.microsoft.com/en-us/products/backup/) |
 | **Azure Site Recovery**         | Orchestrates replication, failover, and recovery of workloads and apps.         | [Azure Site Recovery](https://azure.microsoft.com/en-us/products/site-recovery/) |
+
+
+<div>&nbsp;</div>
+
+___
 
 ### Microsoft Zero Trust Architecture
 
