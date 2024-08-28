@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-08-02
+updated: 2024-08-30
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -15,7 +15,7 @@ showbreadcrumb: true
 </div>
 
 
-  > The Microsoft Security Academy will undergo an overhaul throughout July and August, 2024. Stay tuned.
+  > The Microsoft Security Academy will undergo an overhaul throughout August, 2024. Stay tuned.
 
 
 <h4>Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources.</h4>
@@ -36,9 +36,9 @@ showbreadcrumb: true
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/dxdr-academy">Microsoft Defender XDR</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/defender-academy">Microsoft Defender for Cloud</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/entra-academy">Microsoft Entra</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/purview-academy">Microsoft Purview</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/network-academy">Network Security</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/endpoint-academy">Endpoint Security</a></li>
-                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/purview-academy">Microsoft Purview</a></li>
                     </ul>
                 </td>
             </tr>
@@ -49,10 +49,9 @@ showbreadcrumb: true
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/start">Getting Started</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security">Copilot for Security Technical Journey & Resources</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa">Copilot for Security Q&A</a></li>
-                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-learning-path">Copilot for Security Learning Path</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/specializations">Security Specializations</a></li>
-                        <li><a href="/PartnerResources/security/microsoft-security-academy/microsoft-sentinel">Microsoft Sentinel Resources</a></li>
                         <li><a href="/PartnerResources/security/microsoft-security-academy/certifications">Security Certifications</a></li>
+                        <li><a href="/PartnerResources/security/microsoft-security-academy/microsoft-sentinel">Microsoft Sentinel Resources</a></li>
                     </ul>
                 </td>
             </tr>
@@ -63,26 +62,58 @@ showbreadcrumb: true
 ___
 
 
-## August 2nd, 2024 Update📰
+## August 30th, 2024 Update📰
 
-**Recent Update** (August 2nd): **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Getting Started](/PartnerResources/skilling/microsoft-security-academy/start)** |
+**Recent Update** (August 6th): **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Getting Started](/PartnerResources/skilling/microsoft-security-academy/start)** |
 
 **A new era of security is here. Read [Charlie Bell's Security above all else announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/).🔍**
 
+We're excited to announce **[Auxiliary Logs](https://azure.microsoft.com/en-us/updates/v2/Azure-Monitor-Auxiliary-Logs)**, a cost-effective solution for verbose logs. Azure Monitor now offers three plans: Analytics, Basic, and Auxiliary.
+
+Auxiliary Logs = Basic Logs + Archive Tier |
+
+We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/auxiliary-logs-summary-rules-debac-manikandan-s147c/)**, which aggregate data at ingestion. You can apply detection rule logic to Summary Rules, improving your security and monitoring capabilities.
+
+![Summary Rules]({{ site.baseurl }}/assets/msa/Aux Logs.png)
+
+*Red represents Auxiliary Logs ingested*
+*Green represents Analytic or Basic Logs*
+
 ___
 
+### Events
+
+| **Topic**                                                             | **Date**           | **Register**                                                             |
+|-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
+| Microsoft Sentinel | What's New in Microsoft Sentinel                 | AUG 29 (9:00 AM)   | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Purview | Copilot for Security in Purview                   | SEP 4              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender for Cloud | Prepare for Upcoming Transitions       | SEP 10             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender XDR | New ways for security teams to protect OT    | SEP 11             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Azure Network Security | Introducing DDoS Vulnerability Management    | SEP 17             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Purview | Microsoft Purview eDiscovery Modern UX            | SEP 18             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender for Cloud | Defender for Servers - New FIM Version | SEP 25             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+|  Microsoft Defender for Cloud Apps |  | How to protect Oauth apps     | SEP 26 (9:00 AM)   | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Sentinel | Building Microsoft Sentinel integrations         | OCT 1 (9:00 AM)    | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Sentinel | Moving to Azure Monitor Agent                    | OCT 9 (9:00 AM)    | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Purview | Navigating the Future of AI                       | OCT 15             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Purview | Introduction to Data Lifecycle Management (DLM)   | OCT 16             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender for Cloud | Securing containers in the cloud       | OCT 30             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+
+
+<div>&nbsp;</div>
+
+___
 
 ### Start Your Journey
 
 1. **[Get started](/PartnerResources/skilling/microsoft-security-academy/start)**
 2. **[Basic cyber hygiene prevents 98% of attacks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/basic-cyber-hygiene-prevents-98-of-attacks/ba-p/3926856)**
 3. **[Microsoft's new Incident Response Guide](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/IR-Guidebook-Final.pdf)**
-4. **[CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)**
-5. **[Secure Cloud Business Applications (SCuBA) Project -- CISA](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)**
+4. **[Secure Cloud Business Applications (SCuBA) Project -- CISA](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)**
 
 ## Stay Connected🔗
  
-**Join our private [Security Connection Program](https://aka.ms/PrSecCom) where you can have influence in helping us shape our products together.**
+**Join our [Security Connection Program](https://aka.ms/PrSecCom) where you can have influence in helping us shape our products together.**
 
  Stay connected with our **[Security Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888)**, your peers, find guidance and resources, view technical and roadmap related questions, and more.
 
@@ -105,6 +136,7 @@ ___
 
 Microsoft Ninja trainings are sets of organized learning modules that guide you through the advanced features and functions of our products.
 
+* [Microsoft Copilot for Security Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-become-a-microsoft-copilot-for-security-ninja-the/ba-p/4106928)
 * [Microsoft Unified SOC Platform Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-unified-soc-platform-ninja/ba-p/4014565)
 * [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
 * [Microsoft Sentinel Automation Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377)

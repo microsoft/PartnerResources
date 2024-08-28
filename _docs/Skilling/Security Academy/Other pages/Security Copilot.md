@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-08-02
+updated: 2024-08-30
 showbreadcrumb: true
 tags: 
 - academy content
@@ -79,10 +79,9 @@ ___
 If you're a member of the **[Microsoft Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Copilot for Security Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-| Plugin spotlight – Microsoft Entra | Thursday, August 8th @  8:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/973a71fa-12f9-449f-bcf9-d3779053608f@72f988bf-86f1-41af-91ab-2d7cd011db47)
-| Plugin spotlight – Intune | Thursday, August 15th @  8:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/312d1be9-194f-4f5a-ba3e-51a53ed1f705@72f988bf-86f1-41af-91ab-2d7cd011db47)
-| Plugin spotlight – Microsoft Defender Threat Intelligence (MDTI) | Thursday, August 22nd @  8:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/e2782d77-b020-4155-86b8-35dae0ac3192@72f988bf-86f1-41af-91ab-2d7cd011db47)
 | Copilot for Security Roadmap Update | Thursday, September 5th @  8:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/792345d8-a0e8-4eee-b350-71cfa101912e@72f988bf-86f1-41af-91ab-2d7cd011db47)
+| Plugin spotlight – Purview | Thursday, September 12th @  8:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/4185be89-7eda-4e0e-8eb1-fd9acb3c0f70@72f988bf-86f1-41af-91ab-2d7cd011db47)
+| Plugin spotlight – Defender for Cloud | Thursday, September 12th @  8:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/11dd74d4-5584-46b2-828b-c69886fe6e98@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 Several colleagues have also created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).**
 
@@ -91,11 +90,13 @@ Several colleagues have also created comprehensive on-demand **[Technical Worksh
 
 ___
 
-## August 2nd, 2024 Update📰
+## August 30th, 2024 Update📰
 
-**Recent Update** (August 2nd): **[Overview](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#overview)**, **[Onboarding](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)**, **[Features](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#features)**, **[Videos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos)**, **[Community Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-resources)**, and **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)** |
+**Recent Update** (August 6th): **[Overview](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#overview)**, **[Onboarding](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)**,  **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)**, **[Features](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#features)**, **[Videos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos)**, **[Community Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-resources)**, **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)**, **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)**, and **[Integrations](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#integrations)** |
 
 **[The Partner Playbook for Copilot for Security is now live](http://aka.ms/CfSpartnerPlaybook)🎉**
+
+**Copilot for Security is now [covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174?utm_source=substack&utm_medium=email)🎉**
 
 
 <div>&nbsp;</div>
@@ -140,10 +141,13 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [What does good prompt engineering look like?](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)
 * [Apply principles of Zero Trust to Microsoft Copilot for Security](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
 * [Exploring Copilot for Security to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
+* [**NEW:** Extending Microsoft Copilot for Security Capabilities with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267?utm_source=substack&utm_medium=email)
+* [**NEW:** Harnessing the power of KQL Plugins for enhanced security insights with Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/harnessing-the-power-of-kql-plugins-for-enhanced-security/ba-p/4221891?utm_source=substack&utm_medium=email)
+* [**NEW:** Learn how to customize and optimize Copilot for Security with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
 
 ### Features
 
-* Incident Summarization — Summarize incidents, investigations, vulnerabilities, or threats in minutes and prepare the information in ready-to-share reports.
+* Incident Summarization — Summarize incidents, vulnerabilities, and threats in minutes and prepare the information in ready-to-share reports.
 * Impact Analysis — Assess impact and receive insights into your affected systems.
 * Reverse Script Engineering — Analyze complex command line scripts and translate them into natural language with clear explanations of actions.
 * Guided Response — Receive actionable step-by-step guidance, including for triage, investigation, and remediation.
@@ -277,21 +281,24 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 * [Computer Incident Response Center Luxembourg (CIRCL)](https://learn.microsoft.com/en-us/copilot/security/plugin-circl) -- CIRCL is a government initiative that enables users to validate suspicious files in the form of hashes
 * [CrowdSec](https://learn.microsoft.com/en-us/copilot/security/plugin-crowdsec) -- CrowdSec provides identification and verification of potentially malicious IPs
 * [CyberArk](https://learn.microsoft.com/en-us/copilot/security/plugin-cyberark) -- CyberArk Privilege Cloud helps to securely store, rotate, and isolate credentials
+* [**NEW:** Cybersixgill](https://learn.microsoft.com/en-us/copilot/security/plugin-cybersixgill) -- Cybersixgill offers real-time TI solutions, including from the dark web
 * [Cyware](https://learn.microsoft.com/en-us/copilot/security/plugin-cyware) -- Cyware is an end-to-end incident management and response platform
 * [Darktrace](https://learn.microsoft.com/en-us/copilot/security/plugin-darktrace) -- Darktrace offers cybersecurity AI services
-* [**NEW:** Forescout Vedere Labs](https://learn.microsoft.com/en-us/copilot/security/plugin-forescout-vedere-labs) -- Forescout research teams provide a TI feed containing IP, URL, and File hash indicators for potentially malicious activity
+* [Forescout Vedere Labs](https://learn.microsoft.com/en-us/copilot/security/plugin-forescout-vedere-labs) -- Forescout research teams provide a TI feed containing IP, URL, and File hash indicators for potentially malicious activity
 * [GreyNoise](https://learn.microsoft.com/en-us/copilot/security/plugin-greynoise) -- GreyNoise collects and analyzes Internet-wide scan and attack data
 * [Intel 471](https://learn.microsoft.com/en-us/copilot/security/plugin-intel471) -- Intel 471 provides cybercrime intelligence
 * [Jamf](https://learn.microsoft.com/en-us/copilot/security/plugin-jamf) -- Jamf Pro provides enterprise-level Mobile Device Management (MDM)
 * [Netskope](https://learn.microsoft.com/en-us/copilot/security/plugin-netskope) -- Netskope combines security and networking services, enabling Secure Access Services Edge (SASE) and Zero Trust
 * [Red Canary](https://learn.microsoft.com/en-us/copilot/security/plugin-red-canary) -- Red Canary provides managed detection and response (MDR) services
 * [ReversingLabs](https://learn.microsoft.com/en-us/copilot/security/plugin-reversinglabs) -- ReversingLabs helps SOC teams understand file-based threats
-* [**NEW:** Saviynt](https://learn.microsoft.com/en-us/copilot/security/plugin-saviynt) -- Saviynt provides insights into identity-related risks
+* [Saviynt](https://learn.microsoft.com/en-us/copilot/security/plugin-saviynt) -- Saviynt provides insights into identity-related risks
 * [SGNL](https://learn.microsoft.com/en-us/copilot/security/plugin-sgnl) -- SGNL provides Zero Standing Privilege (ZSP) initiatives to protect user sessions and credentials
 * [Shodan](https://learn.microsoft.com/en-us/copilot/security/plugin-shodan) -- Shodan is a search engine that allows users to find specific types of devices connected to the Internet
+* [**NEW:** Silverfort](https://learn.microsoft.com/en-us/copilot/security/plugin-silverfort) -- Silverfort provides advanced CEF data from Microsoft Sentinel
 * [Tanium](https://learn.microsoft.com/en-us/copilot/security/plugin-tanium) -- Tanium is a Converged Endpoint Management (XEM) reference platform
 * [UrlScan](https://learn.microsoft.com/en-us/copilot/security/plugin-urlscan) -- UrlScan allows users to scan and analyze potentially malicious URLs
 * [Valence Security](https://learn.microsoft.com/en-us/copilot/security/plugin-valence) -- Valence combines SaaS Security Posture Management (SSPM) and advanced remediation
+* [**NEW:** Whoisfreaks](https://learn.microsoft.com/en-us/copilot/security/plugin-whoisfreaks) -- Whoisfreaks provides domain and IP intelligence services
 
 ### Extensibility Features
 
@@ -335,15 +342,17 @@ Why is it consumption-based and not per user? The idea is that the flexibility w
 
 To use Copilot for Security, you will need to provision ***at least* 1 SCU per hr 24x7.** Therefore, the ***minimum annual price is $35,040 USD*** ($4 * 24hr per day * 365day per yr). Your ***monthly*** bill is calculated as (SCUs per hr) x $4 x 730/month or you can leverage the [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* 1 SCU/hr.** Once an analyst is nearing the capacity limit (90%), they will receive a warning and the option to increase the capacity.
 
-If you delete Copilot for Security (zero SCUs per hr), we will retain your data for 90 days. ***Tenant-level MDTI workbench is included with Copilot for Security*** and although it's not the standalone API, the TI information is easy to read and in the context of your investigations. From a licensing perspective, this is also **significant cost savings.**
+If you delete Copilot for Security (zero SCUs per hr), we will retain your data for 90 days. ***Tenant-level MDTI workbench is included with Copilot for Security*** and although it's not the standalone API, the TI information is easy to read and in the context of your investigations (e.g., activity groups, tooling, and vulnerabilities). From a licensing perspective, this is also **significant cost savings.**
 
 Since computing capacity and token usage is ***variable*** **(quantifying a specific # of tokens or SCUs/workflows needed per prompt/Promptbook is difficult)**, it's important for partners to know what they can do now:
 
-* Measure SCU usage between different use cases (SOC analysts, Purview admins, identity/access admins, etc.)
+* Calculate your average SCU utilization over a standard 7 days
+* Provision ≈1 SCU per Embedded Experience, ≈4 SCU per Standalone Experience, and ≈5 SCU per Automation and/or Promptbooks
+* Measure SCU usage between different use cases (SOC analysts, Purview admins, Identity/access admins, etc.)
 * Measure SCU usage between different levels of expertise (Junior analysts vs Senior analysts)
 * Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
 
-Beyond GA, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage patterns.
+Beyond GA, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage and patterns.
 
 ### Integrations
 
@@ -353,6 +362,8 @@ Beyond GA, we're also collecting this data and in good time, will provide more g
 * [Microsoft Copilot for Security and Defender EASM](https://learn.microsoft.com/en-us/azure/external-attack-surface-management/easm-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Copilot for Security and Microsoft Defender Threat Intelligence (MDTI)](https://learn.microsoft.com/en-us/defender/threat-intelligence/security-copilot-and-defender-threat-intelligence?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Copilot for Security in Microsoft Purview](https://learn.microsoft.com/en-us/purview/copilot-in-purview-overview?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [**NEW:** Copilot for Security in Defender for Cloud (Preview)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/copilot-security-in-defender-for-cloud?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json&view=o365-worldwiden)
+
 
 ### Microsoft Security Integration Reference Architecture
 

@@ -3,7 +3,7 @@ layout: page
 title: Getting Started with the Microsoft Security Academy
 description: Want to begin or continue your security journey?
 permalink: /skilling/microsoft-security-academy/start
-updated: 2024-08-02
+updated: 2024-08-30
 showbreadcrumb: true
 tags: 
 - academy content
@@ -16,40 +16,42 @@ tags:
 ### Are you ready to get started?⏩ 
 Welcome to cybersecurity! Explore our curated resources to help you start your journey. These resources specifically cater to those who are new to the industry.
 
-### Start by mastering the basics with [Microsoft's Security 101](https://github.com/microsoft/Security-101?tab=readme-ov-file)
+### Start by mastering the basics with [Microsoft's Security 101](https://github.com/microsoft/Security-101?tab=readme-ov-file)🎯
+
 
 ## Concept Cookbook
 
 | **Concept**                     | **Description**                                                                 |
 |---------------------------------|---------------------------------------------------------------------------------|
-| **[Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)** | Division of security responsibilities between cloud service providers and the customer. |
-| **[AI Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai)** | Division of AI security responsibilities between cloud service providers and the customer. |
-| **[Zero Trust Architecture](https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust)** | Security model that assumes breaches and verifies each request as though it originates from an open network. |
+| **[Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)** | Division of security responsibilities between cloud service providers (CSPs) and the customer. |
+| **[AI Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai)** | Division of AI security responsibilities between cloud service providers (CSPs) and the customer. |
+| **[Zero Trust](https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust)** | Security model that assumes breaches and verifies each request as though it originates from an open network. |
 | **[Incident Response](https://learn.microsoft.com/en-us/security/operations/incident-response-overview)** | Procedures and actions taken to respond to and recover from security incidents. |
-| **[Identity and Access Management (IAM)](https://www.microsoft.com/en-us/security/business/solutions/identity-access)** | Framework for managing digital identities and access to resources. |
-| **[Identity Protection](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-protection)** | The detection, investigation, and remediation of identity-based risks. |
-| **[Multi-Factor Authentication](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-protection)** | Security system that requires more than one method of authentication. |
-| **[Privileged Access](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-privileged-identity-management-pim)** | Manages and monitors access to critical resources to prevent unauthorized access |
-| **[Encryption](https://learn.microsoft.com/en-us/purview/office-365-encryption-in-the-microsoft-cloud-overview)** | Process of converting data into a code to prevent unauthorized access. |
+| **[Identity and Access Management (IAM)](https://learn.microsoft.com/en-us/entra/fundamentals/introduction-identity-access-management)** | Framework for managing identities and access to resources. |
+| **[Identity Protection](https://learn.microsoft.com/en-us/entra/id-protection/overview-identity-protection)** | The detection, investigation, and remediation of identity-based risks. |
+| **[Multi-Factor Authentication](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-methods)** | Authentication method that requires more than one method of authentication. |
+| **[Privileged Access](https://learn.microsoft.com/en-us/security/privileged-access-workstations/overview)** | Manages and monitors access to critical resources to prevent unauthorized access. |
+| **[Hardware Security Modules (HSMs)](https://learn.microsoft.com/en-us/azure/key-vault/managed-hsm/overview)** | Physical devices that manage digital keys for strong authentication. |
+| **[Encryption](https://learn.microsoft.com/en-us/purview/office-365-encryption-in-the-microsoft-cloud-overview)** | Process of converting data into code to prevent unauthorized access. |
 | **[Logging or Auditing](https://learn.microsoft.com/en-us/compliance/assurance/assurance-audit-logging)** | Configurable options to generate, collect, and analyze security logs from services. |
-| [Data Loss Prevention](https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp) | Preventing users from inappropriately sharing sensitive information with people who shouldn't have it. |
-| **[Data Retention](https://learn.microsoft.com/en-us/compliance/assurance/assurance-data-retention-deletion-and-destruction-overview)** | Refers to minimum and maximum timelines for keeping corporate data, including sensitive data, before such data is permanently deleted. |
-| **[Records Management](https://learn.microsoft.com/en-us/purview/get-started-with-records-management)** | A solution for organizations to manage regulatory, legal, and business-critical records. |
-| **[Hardware Security Modules (HSMs0](https://learn.microsoft.com/en-us/azure/key-vault/managed-hsm/overview)** | Physical devices that manage digital keys for strong authentication. |
+| **[Data Retention](https://learn.microsoft.com/en-us/compliance/assurance/assurance-data-retention-deletion-and-destruction-overview)** | Refers to minimum and maximum timelines for keeping data, including sensitive data, before such data is permanently deleted. |
+| **[Data Loss Prevention](https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp)** | Preventing users from inappropriately sharing sensitive information. |
 
 
-## Feature Cookbook
+## Product Cookbook
 
 | **Feature**                     | **Description**                                                                 | **Product Page** |
 |---------------------------------|---------------------------------------------------------------------------------|------------------|
-| **Microsoft Sentinel**          | Scalable SIEM and SOAR solution for attack detection and threat response.       | [Microsoft Sentinel](https://azure.microsoft.com/en-us/products/microsoft-sentinel/) |
+| **Microsoft Sentinel**          | Scalable SIEM and SOAR for attack detection and incident response.              | [Microsoft Sentinel](https://azure.microsoft.com/en-us/products/microsoft-sentinel/) |
+| **Microsoft Defender XDR**      | Unified pre- and post-breach enterprise defense suite.                          | [Microsoft Defender XDR](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-xdr) |
 | **Microsoft Defender for Cloud**| Integrated security monitoring and policy management across Azure resources.    | [Microsoft Defender for Cloud](https://azure.microsoft.com/en-us/products/defender-for-cloud/) |
+| **Microsoft Entra**             | Secure access for any identity, from anywhere, to any resource.                 | [Microsoft Entra](https://www.microsoft.com/en-us/security/business/microsoft-entra) |
+| **Microsoft Purview**           | Unified data security, data governance, and risk and compliance management.     | [Microsoft Purview](https://www.microsoft.com/en-us/security/business/microsoft-purview) |
 | **Azure Resource Manager**      | Manages resources as a group with security, auditing, and tagging features.     | [Azure Resource Manager](https://azure.microsoft.com/en-us/get-started/azure-portal/resource-manager/) |
-| **Application Insights**        | Monitors live web applications and detects performance anomalies.               | [Application Insights](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/Microsoft.AppInsights?tab=Overview) |
 | **Azure Monitor**               | Provides visualization, query, alerting, and automation on Azure data.          | [Azure Monitor](https://azure.microsoft.com/en-us/products/monitor/) |
 | **Azure Advisor**               | Personalized cloud consultant offering security recommendations.                | [Azure Advisor](https://azure.microsoft.com/en-us/products/advisor) |
 | **Web Application Firewall**    | Protects web applications from common web-based attacks.                        | [Web Application Firewall](https://azure.microsoft.com/en-us/products/web-application-firewall/) |
-| **Azure Key Vault**             | Manages and secures cryptographic keys and secrets.                             | [Azure Key Vault](https://azure.microsoft.com/en-us/products/advisor) |
+| **Azure Key Vault**             | Manages and secures cryptographic keys and secrets.                             | [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/) |
 | **Azure Backup**                | Protects application data with minimal operating costs.                         | [Azure Backup](https://azure.microsoft.com/en-us/products/backup/) |
 | **Azure Site Recovery**         | Orchestrates replication, failover, and recovery of workloads and apps.         | [Azure Site Recovery](https://azure.microsoft.com/en-us/products/site-recovery/) |
 
@@ -64,7 +66,6 @@ Welcome to cybersecurity! Explore our curated resources to help you start your j
 ## Zero Trust
 * [What is Zero Trust?](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview)
 * [Zero Trust Adoption Framework](https://learn.microsoft.com/en-us/security/zero-trust/adopt/zero-trust-adoption-overview)
-* [Zero Trust: New Era of Security Microsoft eBook](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3YnRL)
 * [Zero Trust Maturity Model](https://aka.ms/Zero-Trust-Vision)
 
 ## Security Operations Analyst
