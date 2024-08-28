@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Security Academy Modules
 description: Want to dive deep into learning?
 permalink: /skilling/microsoft-security-academy/modules
-updated: 2024-30-08
+updated: 2024-08-30
 showbreadcrumb: true
 tags: 
 - academy content
