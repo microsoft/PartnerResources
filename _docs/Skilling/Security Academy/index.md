@@ -72,7 +72,9 @@ We're excited to announce **[Auxiliary Logs](https://azure.microsoft.com/en-us/u
 
 We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/auxiliary-logs-summary-rules-debac-manikandan-s147c/)**, which aggregate data at ingestion. You can apply detection rule logic to Summary Rules, improving your security and monitoring capabilities.
 
-___
+
+<div>&nbsp;</div>
+
 
 ## Events🎯
 

@@ -19,6 +19,9 @@ Welcome to cybersecurity! Explore our curated resources to help you start your j
 ### Start by mastering the basics with [Microsoft's Security 101](https://github.com/microsoft/Security-101?tab=readme-ov-file)🎯
 
 
+<div>&nbsp;</div>
+
+
 ## Concept Cookbook
 
 | **Concept**                     | **Description**                                                                 |

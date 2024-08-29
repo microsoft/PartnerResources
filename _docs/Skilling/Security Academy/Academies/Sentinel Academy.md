@@ -53,4 +53,3 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
     <td><a href="https://youtu.be/QYpTHOUCQ7o"><img src="https://img.youtube.com/vi/QYpTHOUCQ7o/maxresdefault.jpg" alt="Automating Responses in Microsoft Sentinel" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/QYpTHOUCQ7o"><b>Automating Responses in Microsoft Sentinel</b></a><br><br>Learn about Microsoft Sentinel’s SOAR capabilities, including Automation Rules and Playbooks. Explore several OOB Playbooks, Community Playbooks, as well as Custom Playbooks, including one utilizing the OpenAI Logic App Connector.</td>
   </tr>
-</table>
