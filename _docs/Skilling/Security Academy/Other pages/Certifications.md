@@ -15,6 +15,9 @@ tags:
 Welcome to certifications! Explore our **[Security Certifications](https://learn.microsoft.com/en-us/credentials/browse/?terms=security)** to learn new skills and demonstrate your technical expertise.
 
 
+<div>&nbsp;</div>
+
+
 ## Security Certifications
 
 
