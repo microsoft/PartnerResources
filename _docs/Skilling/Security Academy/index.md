@@ -93,9 +93,6 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 | Microsoft Purview | Introduction to Data Lifecycle Management (DLM)   | OCT 16             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Securing containers in the cloud       | OCT 30             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 
-
-<div>&nbsp;</div>
-
 ___
 
 ### Start Your Journey

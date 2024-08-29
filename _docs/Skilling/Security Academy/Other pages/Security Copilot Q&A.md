@@ -63,4 +63,4 @@ As of now, Copilot for Security does not support US Government clouds, including
 Copilot for Security does support US customers who are subject to regulations under HIPAA.
 
 #### Does Copilot for Security support any other compliance standards?
-Copilot for Security supports ISO27001, 27018, 27017, 27701, 20000-1, 9000-1and 22301.
+Copilot for Security supports ISO27001, 27018, 27017, 27701, 20000-1, 9000-1 and 22301.
