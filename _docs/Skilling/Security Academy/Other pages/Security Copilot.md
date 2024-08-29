@@ -88,15 +88,14 @@ Several colleagues have also created comprehensive on-demand **[Technical Worksh
 
 <div>&nbsp;</div>
 
-___
 
 ## August 30th, 2024 Update📰
 
-**Recent Update** (August 6th): **[Overview](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#overview)**, **[Onboarding](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)**,  **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)**, **[Features](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#features)**, **[Videos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos)**, **[Community Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-resources)**, **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)**, **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)**, and **[Integrations](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#integrations)** |
+**Recent Update** (August 30th): **[Overview](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#overview)**, **[Onboarding](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)**,  **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)**, **[Features](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#features)**, **[Videos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos)**, **[Community Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-resources)**, **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)**, **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)**, and **[Integrations](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#integrations)** |
 
-**[The Partner Playbook for Copilot for Security is now live](http://aka.ms/CfSpartnerPlaybook)🎉**
+The **[Partner Playbook for Copilot for Security](http://aka.ms/CfSpartnerPlaybook)** is now live🎉**
 
-**Copilot for Security is now [covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174?utm_source=substack&utm_medium=email)🎉**
+Copilot for Security is now **[covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174?utm_source=substack&utm_medium=email)🎉**
 
 
 <div>&nbsp;</div>
@@ -141,9 +140,9 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [What does good prompt engineering look like?](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)
 * [Apply principles of Zero Trust to Microsoft Copilot for Security](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
 * [Exploring Copilot for Security to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
-* [**NEW:** Extending Microsoft Copilot for Security Capabilities with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267?utm_source=substack&utm_medium=email)
-* [**NEW:** Harnessing the power of KQL Plugins for enhanced security insights with Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/harnessing-the-power-of-kql-plugins-for-enhanced-security/ba-p/4221891?utm_source=substack&utm_medium=email)
-* [**NEW:** Learn how to customize and optimize Copilot for Security with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
+* [**NEW:** Extending Copilot for Security with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267?utm_source=substack&utm_medium=email)
+* [**NEW:** Harnessing the power of KQL Plugins with Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/harnessing-the-power-of-kql-plugins-for-enhanced-security/ba-p/4221891?utm_source=substack&utm_medium=email)
+* [**NEW:** Customize and Optimize Copilot for Security with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
 
 ### Features
 
