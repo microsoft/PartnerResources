@@ -21,15 +21,15 @@ Explore Microsoft Defender XDR videos with demos delivered directly to partners,
 
 <table>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/BIJ5BPiFhYQ?si=Eyk43Lht2chDfY7-"><img src="https://img.youtube.com/vi/BIJ5BPiFhYQ/maxresdefault.jpg" alt="ITDR Introduction and Prevention Capabilities" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/BIJ5BPiFhYQ?si=Eyk43Lht2chDfY7-"><img src="https://img.youtube.com/vi/9kmiKoau-Ek/maxresdefault.jpg" alt="ITDR Introduction and Prevention Capabilities" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/BIJ5BPiFhYQ?si=Eyk43Lht2chDfY7-"><b>ITDR Introduction and Prevention Capabilities</b></a><br><br>"Learn about Microsoft's vision for ITDR and its importance in today's threat landscape. We'll cover the prevention pillar, focusing on adaptive controls and security posture as the critical foundation.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/pvT2ndzCik8"><img src="https://img.youtube.com/vi/pvT2ndzCik8/maxresdefault.jpg" alt="ITDR Detection" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/pvT2ndzCik8"><img src="https://img.youtube.com/vi/9kmiKoau-Ek/maxresdefault.jpg" alt="ITDR Detection" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/pvT2ndzCik8"><b>ITDR Detection</b></a><br><br>Learn how Microsoft can protect your identity estate with holistic detection capabilities for advanced identity attacks, whether on-prem, hybrid, or in the cloud.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/DnQ_nrVT7FM"><img src="https://img.youtube.com/vi/DnQ_nrVT7FM/maxresdefault.jpg" alt="ITDR Investigation and Hunting" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/DnQ_nrVT7FM"><img src="https://img.youtube.com/vi/9kmiKoau-Ek/maxresdefault.jpg" alt="ITDR Investigation and Hunting" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/DnQ_nrVT7FM"><b>ITDR Investigation and Hunting</b></a><br><br>SOCs need deep visibility into identities, context, and telemetry that are crucial for investigations, allowing Security Analysts to efficiently triage incidents and understand the scope of any compromise.</td>
   </tr>
   <tr style="vertical-align:top">

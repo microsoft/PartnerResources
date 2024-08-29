@@ -32,7 +32,7 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/v2EC33ILC-A"><img src="https://img.youtube.com/vi/v2EC33ILC-A/maxresdefault.jpg" alt="Splunk to Microsoft Sentinel Migration Experience" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/v2EC33ILC-A"><b>Splunk to Microsoft Sentinel Migration Experience</b></a><br><br>Learn about the new Microsoft Sentinel feature that helps Splunk migrations, including migrating Splunk detections to Sentinel Analytic Rules</td>
+    <td><a href="https://youtu.be/v2EC33ILC-A"><b>Splunk to Microsoft Sentinel Migration Experience</b></a><br><br>Learn about the new Microsoft Sentinel feature that helps Splunk migrations, including migrating Splunk detections to Sentinel Analytic Rules.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/hs7aoCBlRtY"><img src="https://img.youtube.com/vi/hs7aoCBlRtY/maxresdefault.jpg" alt="Microsoft Sentinel Deep Dive SEPT. 2023 Update" width="400" height="400"></a></td>
