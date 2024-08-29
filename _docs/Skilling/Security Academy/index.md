@@ -48,7 +48,7 @@ showbreadcrumb: true
                     <ul>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/start">Getting Started</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/specializations">Security Specializations</a></li>
-                        <li><a href="/PartnerResources/security/microsoft-security-academy/certifications">Security Certifications</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/certifications">Security Certifications</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security">Copilot for Security Technical Journey & Resources</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa">Copilot for Security Q&A</a></li>
                         <li><a href="/PartnerResources/security/microsoft-security-academy/microsoft-sentinel">Microsoft Sentinel Resources</a></li>
@@ -60,7 +60,6 @@ showbreadcrumb: true
 </div>
 
 ___
-
 
 ## August 30th, 2024 Update📰
 
