@@ -16,11 +16,6 @@ tags:
 ### Are you pursuing a specialization?
 Welcome to specializations! Explore our **[Security Specializations](https://partner.microsoft.com/en-us/partnership/specialization#tab-6)** to demonstrate your technical expertise. These resources specifically cater to those who are wanting to meet specialization requirements or apply.
 
-## Requirements
-
-1. [Microsoft Certifications](https://learn.microsoft.com/en-us/certifications/certification-process-overview) are a requirement for specializations. Learn more about our [Security Certifications](/PartnerResources/security/microsoft-security-academy/certifications).
-2. [Solution Partner Designations](https://partner.microsoft.com/en-us/partnership/solutions-partner) are a requirement for specializations. Solution Partner Designations highlight your expert technical capabilities to customers and align with Microsoft solution areas. To attain a Solutions Partner designation, you must meet performance, skilling, and customer success criteria.
-
 ## MAICPP Specializations or Certified Software Designations
 
 | **Specialization**                | **Definition**                                                                 | **Performance Required**                                                                                       | **Knowledge Required**                  | **Customer References (Guidelines)**                                                                 |
