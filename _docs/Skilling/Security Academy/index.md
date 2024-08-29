@@ -47,10 +47,10 @@ showbreadcrumb: true
                 <td>
                     <ul>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/start">Getting Started</a></li>
-                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security">Copilot for Security Technical Journey & Resources</a></li>
-                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa">Copilot for Security Q&A</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/specializations">Security Specializations</a></li>
                         <li><a href="/PartnerResources/security/microsoft-security-academy/certifications">Security Certifications</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security">Copilot for Security Technical Journey & Resources</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa">Copilot for Security Q&A</a></li>
                         <li><a href="/PartnerResources/security/microsoft-security-academy/microsoft-sentinel">Microsoft Sentinel Resources</a></li>
                     </ul>
                 </td>
@@ -64,7 +64,7 @@ ___
 
 ## August 30th, 2024 Update📰
 
-**Recent Update** (August 30th): **[Getting Started](/PartnerResources/skilling/microsoft-security-academy/start)**, **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Copilot for Security Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa)**, **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** |
+**Recent Update** (August 30th): **[Getting Started](/PartnerResources/skilling/microsoft-security-academy/start)**, **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Copilot for Security Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa)**, **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)**, **[Certifications](/PartnerResources/skilling/microsoft-security-academy/certifications)** |
 
 A new era of security is here. Read **[Charlie Bell's Security above all else announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/)**.🔍
 

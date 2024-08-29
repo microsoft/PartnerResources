@@ -313,6 +313,12 @@
         - title: Getting Started
           url: "skilling/microsoft-security-academy/start"
           tag: msa
+        - title: Specializations
+          url: "skilling/microsoft-security-academy/specializations"
+          tag: msa
+        - title: Certifications
+          url: "skilling/microsoft-security-academy/certifications"
+          tag: msa
         - title: Copilot for Security
           url: "skilling/microsoft-security-academy/microsoft-copilot-for-security"
           tag: msa
@@ -320,9 +326,6 @@
             - title: Q&A
               url: "skilling/microsoft-security-academy/microsoft-copilot-for-security-qa"
               tag: msa
-        - title: Specializations
-          url: "skilling/microsoft-security-academy/specializations"
-          tag: msa
         - title: Modules
           url: "skilling/microsoft-security-academy/modules"
           tag: msa
