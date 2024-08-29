@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Security Certifications
-description: Resources for Security Certifications
+description: Certifications
 updated: 2024-08-30
 permalink: skilling/microsoft-security-academy/certifications
 tags:
@@ -12,7 +12,7 @@ tags:
 
 ## Microsoft Security Academy
 
-### Are you pursuing a certifications?
+### Are you pursuing a certification?
 Welcome to certifications! Explore our **[Security Certifications](https://learn.microsoft.com/en-us/credentials/browse/?terms=security)** to learn new skills and demonstrate your technical expertise.
 
 
