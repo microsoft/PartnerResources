@@ -31,6 +31,10 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
     <td><a href="https://youtu.be/ryqjtFvXf44"><b>Microsoft Sentinel Sizing, Pricing, and Planning</b></a><br><br>Learn about what influences Microsoft Sentinel's costs, different pricing models, archive and long-term retention options, logs, and a demo of how to estimate and measure spend.</td>
   </tr>
   <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/v2EC33ILC-A"><img src="https://img.youtube.com/vi/v2EC33ILC-A/maxresdefault.jpg" alt="Splunk to Microsoft Sentinel Migration Experience" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/v2EC33ILC-A"><b>Splunk to Microsoft Sentinel Migration Experience</b></a><br><br>Learn about the new Microsoft Sentinel feature that helps Splunk migrations, including migrating Splunk detections to Sentinel Analytic Rules</td>
+  </tr>
+  <tr style="vertical-align:top">
     <td><a href="https://youtu.be/hs7aoCBlRtY"><img src="https://img.youtube.com/vi/hs7aoCBlRtY/maxresdefault.jpg" alt="Microsoft Sentinel Deep Dive SEPT. 2023 Update" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/hs7aoCBlRtY"><b>Microsoft Sentinel Deep Dive SEPT. 2023 Update</b></a><br><br>Explore the latest updates in Microsoft Sentinel, including new features and improvements, with a focus on enhancing security operations and threat detection capabilities.</td>
   </tr>
