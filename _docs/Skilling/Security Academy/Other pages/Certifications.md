@@ -10,8 +10,9 @@ tags:
 - security certifications
 ---
 
-# Certifications
+## Microsoft Security Academy
 
+### Are you pursuing a certifications?
 Welcome to certifications! Explore our **[Security Certifications](https://learn.microsoft.com/en-us/credentials/browse/?terms=security)** to learn new skills and demonstrate your technical expertise.
 
 
