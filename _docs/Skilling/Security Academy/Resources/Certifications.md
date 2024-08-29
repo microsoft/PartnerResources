@@ -2,7 +2,7 @@
 layout: page
 title: Security Certifications
 description: Resources for Security Certifications
-updated: 2024-05-28
+updated: 2024-08-30
 permalink: /security/microsoft-security-academy/certifications
 tags:
 - security
@@ -12,10 +12,12 @@ tags:
 ---
 
 # Security Certifications
-**Explore security certifications critical for learning and our [Security Specializations](https://partner.microsoft.com/en-us/partnership/specialization#tab-6).**
+
+## Security Certifications Cheat Sheet
 
 
 | **Exam** | **Overview** | **Learning Path** | **Study Cram** | **Labs** |
+|----------|---------------|-------------------|----------------|----------|
 | Microsoft Cybersecurity Architect (SC-100) | [SC-100 Overview](https://learn.microsoft.com/en-us/certifications/exams/sc-100/) | [SC-100 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/sc-100) | [John Savill Study Cram](https://www.youtube.com/watch?v=2Qu5gQjNQh4) | [SC-100 Labs](https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect) |
 | Microsoft Security Operations Analyst (SC-200) | [SC-200 Overview](https://learn.microsoft.com/en-us/certifications/exams/sc-200/) | [SC-200 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/sc-200) | N/A | [SC-200 Labs](https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst) |
 | Microsoft Identity and Access Administrator (SC-300) | [SC-300 Overview](https://learn.microsoft.com/en-us/certifications/exams/sc-300/) | [SC-300 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/sc-300) | [John Savill Study Cram](https://www.youtube.com/watch?v=LGpgqRVG65g) | [SC-300 Labs](https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator) |
