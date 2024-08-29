@@ -85,7 +85,6 @@ Copilot for Security is now **[covered by HIPAA Business Associate Agreement (BA
 
 <div>&nbsp;</div>
 
-___
 
 ### Events
 

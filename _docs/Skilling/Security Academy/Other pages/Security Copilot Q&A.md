@@ -17,7 +17,7 @@ tags:
 MSSPs can access customer tenants through both Guest Access (B2B) and Granular Delegated Admin Permissions (GDAP). Customers are responsible for purchasing their own Security Compute Units (SCUs) and configuring MSSP access in alignment with these permissions.
 
 #### Can I use a single instance of Copilot for Security to manage multiple tenants?
-Currently, Copilot for Security does not support cross-tenant prompting. However, MSSPs can utilize Tenant Switching to focus on ***one customer tenant at a time.*** MSSPs can choose the specific customer tenant from a dropdown menu within the in-product UX. Additionally, they have the option to include the TenantID (GUID) in the Copilot for Security session URL. *Multi-Workspace and Multi-Tenancy (e.g., Azure Lighthouse) support are coming soon.*
+Currently, Copilot for Security does not support cross-tenant prompting. However, MSSPs can utilize Tenant Switching to focus on ***one customer tenant at a time.*** MSSPs can choose the specific customer tenant from a dropdown menu within the in-product UX. Additionally, they have the option to include the TenantID (GUID) in the Copilot for Security session URL. Multi-Workspace and Multi-Tenancy (e.g., Azure Lighthouse) support ***are coming soon.***
 
 #### Does Copilot for Security have a "token limit"?
 LLMs like GPT have a "token limit" that restricts data processing. Copilot for Security uses the latest GPT models to process as much data as possible, but large prompts or long sessions may exceed this limit. When this happens, Copilot tries to provide an output, but if it fails, you may need to try a different prompt or plugin.
@@ -62,5 +62,5 @@ As of now, Copilot for Security does not support US Government clouds, including
 #### Does Copilot for Security support customers under HIPAA regulations?
 Copilot for Security does support US customers who are subject to regulations under HIPAA.
 
-#### Does Copilot for Security support other Compliance Offerings?
+#### Does Copilot for Security support any other Compliance Offerings?
 Copilot for Security supports ISO27001, 27018, 27017, 27701, 20000-1, 9000-1and 22301.
