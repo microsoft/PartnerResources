@@ -66,7 +66,7 @@ ___
 
 **Recent Update** (August 30th): **[Getting Started](/PartnerResources/skilling/microsoft-security-academy/start)**, **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Copilot for Security Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa)**, **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** |
 
-A new era of security is here. Read [Charlie Bell's Security above all else announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/).🔍
+A new era of security is here. Read **[Charlie Bell's Security above all else announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/)**.🔍
 
 We're excited to announce **[Auxiliary Logs](https://azure.microsoft.com/en-us/updates/v2/Azure-Monitor-Auxiliary-Logs)**, a cost-effective solution for verbose logs. Azure Monitor now offers three plans: Analytics, Basic, and Auxiliary (Auxiliary Logs = Basic Logs + Archive Tier).
 
@@ -86,9 +86,9 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 | Azure Network Security | Introducing DDoS Vulnerability Management    | SEP 17             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview | Microsoft Purview eDiscovery Modern UX            | SEP 18             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Defender for Servers - New FIM Version | SEP 25             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-|  Microsoft Defender for Cloud Apps | How to protect Oauth apps        | SEP 26 (9:00 AM)   | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Sentinel | Building Microsoft Sentinel integrations         | OCT 1 (9:00 AM)    | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Sentinel | Moving to Azure Monitor Agent                    | OCT 9 (9:00 AM)    | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+|  Microsoft Defender for Cloud Apps | How to protect Oauth apps        | SEP 26             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Sentinel | Building Microsoft Sentinel integrations         | OCT 1              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Sentinel | Moving to Azure Monitor Agent                    | OCT 9              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview | Navigating the Future of AI                       | OCT 15             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview | Introduction to Data Lifecycle Management (DLM)   | OCT 16             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Securing containers in the cloud       | OCT 30             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
