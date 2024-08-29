@@ -74,6 +74,19 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 ___
 
+## August 30th, 2024 Update📰
+
+**Recent Update** (August 30th): **[Overview](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#overview)**, **[Onboarding](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)**,  **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)**, **[Features](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#features)**, **[Videos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos)**, **[Community Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-resources)**, **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)**, **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)**, and **[Integrations](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#integrations)** |
+
+The **[Partner Playbook for Copilot for Security](http://aka.ms/CfSpartnerPlaybook)** is now live🎉**
+
+Copilot for Security is now **[covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174?utm_source=substack&utm_medium=email)🎉**
+
+
+<div>&nbsp;</div>
+
+___
+
 ### Events
 
 If you're a member of the **[Microsoft Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Copilot for Security Skilling and Readiness events:
@@ -84,18 +97,6 @@ If you're a member of the **[Microsoft Copilot for Security Customer Connection 
 | Plugin spotlight – Defender for Cloud | Thursday, September 12th @  8:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/11dd74d4-5584-46b2-828b-c69886fe6e98@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 Several colleagues have also created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).**
-
-
-<div>&nbsp;</div>
-
-
-## August 30th, 2024 Update📰
-
-**Recent Update** (August 30th): **[Overview](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#overview)**, **[Onboarding](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)**,  **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)**, **[Features](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#features)**, **[Videos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos)**, **[Community Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-resources)**, **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)**, **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)**, and **[Integrations](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#integrations)** |
-
-The **[Partner Playbook for Copilot for Security](http://aka.ms/CfSpartnerPlaybook)** is now live🎉**
-
-Copilot for Security is now **[covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174?utm_source=substack&utm_medium=email)🎉**
 
 
 <div>&nbsp;</div>
