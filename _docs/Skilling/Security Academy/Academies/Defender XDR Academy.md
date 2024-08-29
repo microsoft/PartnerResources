@@ -22,7 +22,7 @@ Explore Microsoft Defender XDR videos with demos delivered directly to partners,
 <table>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/BIJ5BPiFhYQ?si=Eyk43Lht2chDfY7-"><img src="https://img.youtube.com/vi/9kmiKoau-Ek/maxresdefault.jpg" alt="ITDR Introduction and Prevention Capabilities" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/BIJ5BPiFhYQ?si=Eyk43Lht2chDfY7-"><b>ITDR Introduction and Prevention Capabilities</b></a><br><br>"Learn about Microsoft's vision for ITDR and its importance in today's threat landscape. We'll cover the prevention pillar, focusing on adaptive controls and security posture as the critical foundation.</td>
+    <td><a href="https://youtu.be/BIJ5BPiFhYQ?si=Eyk43Lht2chDfY7-"><b>ITDR Introduction and Prevention Capabilities</b></a><br><br>Learn about Microsoft's vision for ITDR and its importance in today's threat landscape. We'll cover the prevention pillar, focusing on adaptive controls and security posture as the critical foundation.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/pvT2ndzCik8"><img src="https://img.youtube.com/vi/9kmiKoau-Ek/maxresdefault.jpg" alt="ITDR Detection" width="400" height="400"></a></td>
