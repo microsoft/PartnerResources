@@ -58,7 +58,7 @@ Welcome to cybersecurity! Explore our curated resources to help you start your j
 | **Azure Advisor**               | Personalized cloud consultant offering security recommendations.                | [Azure Advisor](https://azure.microsoft.com/en-us/products/advisor) |
 | **Web Application Firewall**    | Protects apps and APIs from common web-based attacks.                           | [Web Application Firewall](https://azure.microsoft.com/en-us/products/web-application-firewall/) |
 | **Azure Key Vault**             | Manages and secures cryptographic keys and secrets.                             | [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/) |
-| **Azure Backup**                | Protects assets against ransomware with a centralized backup service            | [Azure Backup](https://azure.microsoft.com/en-us/products/backup/) |
+| **Azure Backup**                | Protects assets against ransomware with a centralized backup service.           | [Azure Backup](https://azure.microsoft.com/en-us/products/backup/) |
 | **Azure Site Recovery**         | Orchestrates replication, failover, and recovery of workloads and apps.         | [Azure Site Recovery](https://azure.microsoft.com/en-us/products/site-recovery/) |
 
 
