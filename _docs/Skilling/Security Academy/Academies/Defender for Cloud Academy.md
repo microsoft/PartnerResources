@@ -11,7 +11,7 @@ tags:
 ---
 
 ## Microsoft Defender for Cloud
-Explore Microsoft Defender Defender for Cloud videos with demos delivered directly to partners, relevant certifications, and further resources.
+Explore Microsoft Defender for Cloud videos with demos delivered directly to partners, relevant certifications, and further resources.
 
 #### Stay connected with the [Microsoft Defender for Cloud Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog).🔗
 
