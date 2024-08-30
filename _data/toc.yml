@@ -313,15 +313,18 @@
         - title: Getting Started
           url: "skilling/microsoft-security-academy/start"
           tag: msa
+        - title: Specializations
+          url: "skilling/microsoft-security-academy/specializations"
+          tag: msa
+        - title: Certifications
+          url: "skilling/microsoft-security-academy/certifications"
+          tag: msa
         - title: Copilot for Security
           url: "skilling/microsoft-security-academy/microsoft-copilot-for-security"
           tag: msa
           children:
             - title: Q&A
               url: "skilling/microsoft-security-academy/microsoft-copilot-for-security-qa"
-              tag: msa
-            - title: Learning Path
-              url: "skilling/microsoft-security-academy/microsoft-copilot-for-security-learning-path"
               tag: msa
         - title: Modules
           url: "skilling/microsoft-security-academy/modules"
@@ -339,20 +342,17 @@
             - title: Microsoft Entra
               url: "skilling/microsoft-security-academy/entra-academy"
               tag: msa
+            - title: Microsoft Purview
+              url: "skilling/microsoft-security-academy/purview-academy"
+              tag: msa
             - title: Network Security
               url: "skilling/microsoft-security-academy/network-academy"
               tag: msa
             - title: Endpoint Security
               url: "skilling/microsoft-security-academy/endpoint-academy"
               tag: msa
-            - title: Microsoft Purview
-              url: "skilling/microsoft-security-academy/purview-academy"
-              tag: msa
-        - title: Resources
+        - title: Other Resources
           url: "skilling/microsoft-security-academy/resources"
-          tag: msa
-        - title: Specializations
-          url: "skilling/microsoft-security-academy/specializations"
           tag: msa
     - title: "Teams Academy"
       url: "skilling/microsoft-teams-academy"

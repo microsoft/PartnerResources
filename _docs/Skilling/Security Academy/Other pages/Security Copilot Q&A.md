@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security Q&A
 description: Common Copilot for Security Q&A.
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security-qa
-updated: 2024-04-04
+updated: 2024-08-30
 showbreadcrumb: true
 tags: 
 - academy content
@@ -17,7 +17,10 @@ tags:
 MSSPs can access customer tenants through both Guest Access (B2B) and Granular Delegated Admin Permissions (GDAP). Customers are responsible for purchasing their own Security Compute Units (SCUs) and configuring MSSP access in alignment with these permissions.
 
 #### Can I use a single instance of Copilot for Security to manage multiple tenants?
-Currently, Copilot for Security does not support cross-tenant prompting. However, MSSPs can utilize Tenant Switching to focus on ***one customer tenant at a time.*** MSSPs can choose the specific customer tenant from a dropdown menu within the in-product UX. Additionally, they have the option to include the TenantID (GUID) in the Copilot for Security session URL.
+Currently, Copilot for Security does not support cross-tenant prompting. However, MSSPs can utilize Tenant Switching to focus on ***one customer tenant at a time.*** MSSPs can choose the specific customer tenant from a dropdown menu within the in-product UX. Additionally, they have the option to include the TenantID (GUID) in the Copilot for Security session URL. Multi-Workspace and Multi-Tenancy (e.g., Azure Lighthouse) support ***are coming soon.***
+
+#### Does Copilot for Security have a "token limit"?
+LLMs like GPT have a "token limit" that restricts data processing. Copilot for Security uses the latest GPT models to process as much data as possible, but large prompts or long sessions may exceed this limit. When this happens, Copilot tries to provide an output, but if it fails, you may need to try a different prompt or plugin.
 
 #### What is the Microsoft Copilot Copyright Commitment?
 The Microsoft Customer Copyright Commitment extends intellectual property indemnity support to specific commercial Copilot services, including Copilot for Security. If a 3rd-party sues a commercial customer for copyright infringement related to the use of Microsoft’s Copilots or their generated output, Microsoft will defend the customer and cover any adverse judgments or settlements resulting from the lawsuit, provided that the customer adhered to the guardrails and content filters within the products.
@@ -55,3 +58,9 @@ Learn how to develop your own custom plugins **[here](https://learn.microsoft.co
 
 #### Does Copilot for Security work in US Government Cloud (GCC)?
 As of now, Copilot for Security does not support US Government clouds, including but not limited to GCC, GCC High, DoD, and Microsoft Azure Government.
+
+#### Does Copilot for Security support customers under HIPAA regulations?
+Copilot for Security does support US customers who are subject to regulations under HIPAA.
+
+#### Does Copilot for Security support any other compliance standards?
+Copilot for Security supports ISO27001, 27018, 27017, 27701, 20000-1, 9000-1 and 22301.

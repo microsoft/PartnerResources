@@ -13,6 +13,8 @@ tags:
 ## Microsoft Endpoint Security Academy
 Welcome to the **Microsoft Endpoint Security Academy.** Explore Microsoft endpoint security video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
+  > This page will be updated in early September, 2024. Stay tuned.
+
 #### Stay connected with the [Microsoft Defender for Endpoint Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog) and the [Microsoft Defender for IoT Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog).
 
 ### Sessions
