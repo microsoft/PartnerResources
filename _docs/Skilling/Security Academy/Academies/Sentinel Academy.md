@@ -44,7 +44,7 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/j8mhviNFfSI"><img src="https://img.youtube.com/vi/j8mhviNFfSI/maxresdefault.jpg" alt="All About Microsoft Sentinel UEBA" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/j8mhviNFfSI"><b>All About Microsoft Sentinel UEBA</b></a><br><br>Attackers often disguise their actions as normal activities, creating a grey area that may pose threats to your organization. Learn how UEBA builds comprehensive profiles of the user and entity across time and peer group horizons to best find anomalies and suspicious activity.</td>
+    <td><a href="https://youtu.be/j8mhviNFfSI"><b>All About Microsoft Sentinel UEBA</b></a><br><br>Attackers often disguise their actions as normal activities, creating a grey area that may pose risks to your organization. Learn how UEBA builds comprehensive profiles of the user and entity across time and peer group horizons to find anomalies and suspicious activity.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/wPVNYeZCws8"><img src="https://img.youtube.com/vi/wPVNYeZCws8/maxresdefault.jpg" alt="All About Jupyter Notebooks and Hunting in Microsoft Sentinel" width="400" height="400"></a></td>
