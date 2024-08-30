@@ -50,14 +50,14 @@ Explore Microsoft Defender Defender for Cloud videos with demos delivered direct
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/iezuhWWNJGA"><img src="https://img.youtube.com/vi/iezuhWWNJGA/maxresdefault.jpg" alt="Shift Left with Microsoft Defender for Cloud" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/iezuhWWNJGA"><b>Shift Left with Microsoft Defender for Cloud</b></a><br><br>Learn about the latest upgrades in Microsoft Defender for Cloud, including improved multi-tenant and device security management. Discover how these improvements can help secure your cloud infrastructure and improve your organization's security posture.</td>
+    <td><a href="https://youtu.be/iezuhWWNJGA"><b>Shift Left with Microsoft Defender for Cloud</b></a><br><br>Learn about the latest upgrades in Microsoft Defender for Cloud, including improved multi-tenant and device security management. Discover how these improvements can help secure your infrastructure and improve your security posture.</td>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/fxb_4be7TAU"><img src="https://img.youtube.com/vi/fxb_4be7TAU/maxresdefault.jpg" alt="Simplifying Servers Security in Microsoft Defender for Cloud" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/fxb_4be7TAU"><b>Simplifying Servers Security in Microsoft Defender for Cloud</b></a><br><br>Learn about recommendations for server security in Microsoft Defender for Cloud, including for CNAPP and server protection, simplified security strategies, the transition from MMA to MDC, and more.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/nCEuDNfPKtk"><img src="https://img.youtube.com/vi/nCEuDNfPKtk/maxresdefault.jpg" alt="Upgrade to Microsoft Defender Vulnerability Management" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/nCEuDNfPKtk"><b>Upgrade to Microsoft Defender Vulnerability Management</b></a><br><br>"Learn about the upgrade to Microsoft Defender Vulnerability Management for detecting vulnerabilities in container images and servers.</td>
+    <td><a href="https://youtu.be/nCEuDNfPKtk"><b>Upgrade to Microsoft Defender Vulnerability Management</b></a><br><br>Learn about the upgrade to Microsoft Defender Vulnerability Management for detecting vulnerabilities in container images and servers.</td>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/gJ3G9ysFDCs"><img src="https://img.youtube.com/vi/gJ3G9ysFDCs/maxresdefault.jpg" alt="Discover and Protect Sensitive Data with Defender for Cloud" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/gJ3G9ysFDCs"><b>Discover and Protect Sensitive Data with Defender for Cloud</b></a><br><br>Explore the data-aware security posture of the Cloud Security Posture Management (CSPM) plan, which enables you to proactively identify and prioritize critical data risks.</td>
