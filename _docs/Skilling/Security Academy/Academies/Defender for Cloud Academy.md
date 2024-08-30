@@ -54,7 +54,7 @@ Explore Microsoft Defender Defender for Cloud videos with demos delivered direct
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/iezuhWWNJGA"><img src="https://img.youtube.com/vi/iezuhWWNJGA/maxresdefault.jpg" alt="Shift Left with Microsoft Defender for Cloud" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/iezuhWWNJGA"><b>Shift Left with Microsoft Defender for Cloud</b></a><br><br>Enhancements in Microsoft Defender for Cloud for multi-tenant and device security management.</td>
+    <td><a href="https://youtu.be/iezuhWWNJGA"><b>Shift Left with Microsoft Defender for Cloud</b></a><br><br>Learn about the latest upgrades in Microsoft Defender for Cloud, including improved multi-tenant and device security management. Discover how these improvements can help secure your cloud infrastructure and improve your organization's security posture.</td>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/fxb_4be7TAU"><img src="https://img.youtube.com/vi/fxb_4be7TAU/maxresdefault.jpg" alt="Simplifying Servers Security in Microsoft Defender for Cloud" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/fxb_4be7TAU"><b>Simplifying Servers Security in Microsoft Defender for Cloud</b></a><br><br>Learn about recommendations for server security in Microsoft Defender for Cloud.</td>
