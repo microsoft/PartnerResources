@@ -13,6 +13,8 @@ tags:
 ## Microsoft Network Security Academy
 Welcome to the **Microsoft Network Security Academy.** Explore network security video sessions with demos delivered directly to partners, relevant certifications, and further resources.
 
+  > This page will be updated in early September, 2024. Stay tuned.
+
 #### Stay connected with the [Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog).
 
 ### Sessions
