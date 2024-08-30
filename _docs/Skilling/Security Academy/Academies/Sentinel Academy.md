@@ -36,7 +36,7 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/hs7aoCBlRtY"><img src="https://img.youtube.com/vi/hs7aoCBlRtY/maxresdefault.jpg" alt="Microsoft Sentinel Deep Dive SEPT. 2023 Update" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/hs7aoCBlRtY"><b>Microsoft Sentinel Deep Dive SEPT. 2023 Update</b></a><br><br>The odds are against us. Bad actors and nation-states threaten our critical infrastructure, businesses, etc. Attacks are growing in complexity, as seen with STORM-0558’s 2023 attack. If you’re a Microsoft partner or MSSP wanting to protect against threats, learn how to fight back with our comprehensive deep dive into Microsoft Sentinel.</td>
+    <td><a href="https://youtu.be/hs7aoCBlRtY"><b>Microsoft Sentinel Deep Dive SEPT. 2023 Update</b></a><br><br>The odds are against us. Bad actors and nation-states threaten our critical infrastructure, businesses, etc. Attacks are also growing in size and complexity, as seen with STORM-0558’s 2023 attack. If you’re a Microsoft partner or MSSP wanting to protect against threats, learn how to fight back with our comprehensive deep dive into Microsoft Sentinel.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/0W78s_5A_2A"><img src="https://img.youtube.com/vi/0W78s_5A_2A/maxresdefault.jpg" alt="Configuring Your Microsoft Sentinel Environment" width="400" height="400"></a></td>
@@ -44,11 +44,11 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/j8mhviNFfSI"><img src="https://img.youtube.com/vi/j8mhviNFfSI/maxresdefault.jpg" alt="All About Microsoft Sentinel UEBA" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/j8mhviNFfSI"><b>All About Microsoft Sentinel UEBA</b></a><br><br>Attackers frequently try to display their actions as normal activities and in the balance between ordinary user activity and obvious attacker doings – there is a grey area. This grey area may pose imminent threats to your organization but could be overlooked. Learn how UEBA builds comprehensive profiles of the user and entity across time and peer group horizons to best find anomalies and suspicious activity.</td>
+    <td><a href="https://youtu.be/j8mhviNFfSI"><b>All About Microsoft Sentinel UEBA</b></a><br><br>Attackers often disguise their actions as normal activities, creating a grey area that may pose threats to your organization. Learn how UEBA builds comprehensive profiles of the user and entity across time and peer group horizons to best find anomalies and suspicious activity.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/wPVNYeZCws8"><img src="https://img.youtube.com/vi/wPVNYeZCws8/maxresdefault.jpg" alt="All About Jupyter Notebooks and Hunting in Microsoft Sentinel" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/wPVNYeZCws8"><b>All About Jupyter Notebooks and Hunting in Microsoft Sentinel</b></a><br><br>Defending a multicloud, multi-SaaS environment against modern threats requires seeing your environment as your enemy does, understanding the threat landscape, and responding quickly with a consistent approach. Explore External Attack Surface Management (EASM), Microsoft Defender Threat Intelligence (MDTI), and threat hunting with Jupyter Notebooks.</td>
+    <td><a href="https://youtu.be/wPVNYeZCws8"><b>All About Jupyter Notebooks and Hunting in Microsoft Sentinel</b></a><br><br>Learn how to defend a multicloud, multi-SaaS environment with External Attack Surface Management (EASM), Microsoft Defender Threat Intelligence (MDTI), and threat hunting with Jupyter Notebooks.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/LBOt6JF-MIo"><img src="https://img.youtube.com/vi/LBOt6JF-MIo/maxresdefault.jpg" alt="All About Microsoft Sentinel Threat Intelligence and Investigation" width="400" height="400"></a></td>
