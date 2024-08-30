@@ -52,7 +52,7 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/LBOt6JF-MIo"><img src="https://img.youtube.com/vi/LBOt6JF-MIo/maxresdefault.jpg" alt="All About Microsoft Sentinel Threat Intelligence and Investigation" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/LBOt6JF-MIo"><b>All About Microsoft Sentinel Threat Intelligence and Investigation</b></a><br><br>Explore various TI features within Microsoft Sentinel and learn about Sentinel’s advanced multistage attack detection with Fusion. Additionally, analyze basic incident investigations, including investigations across workspaces for MSSPs scenarios.</td>
+    <td><a href="https://youtu.be/LBOt6JF-MIo"><b>All About Microsoft Sentinel Threat Intelligence and Investigation</b></a><br><br>Explore various Threat Intelligence (TI) features within Microsoft Sentinel and learn about Sentinel’s advanced multistage attack detection with Fusion. Additionally, analyze basic incident investigations, including investigations across workspaces for MSSPs scenarios.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/sgUSjfA2eSU"><img src="https://img.youtube.com/vi/sgUSjfA2eSU/maxresdefault.jpg" alt="All About Microsoft Sentinel Repositories and Workbooks" width="400" height="400"></a></td>
