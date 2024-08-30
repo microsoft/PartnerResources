@@ -34,7 +34,7 @@ Explore Microsoft Defender Defender for Cloud videos with demos delivered direct
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/u6N5PwQy61w"><img src="https://img.youtube.com/vi/u6N5PwQy61w/maxresdefault.jpg" alt="Automating Security with Microsoft Defender for Cloud & Logic Apps" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/u6N5PwQy61w"><b>Automating Security with Microsoft Defender for Cloud & Logic Apps</b></a><br><br>Develop necessary skills to automate security with Defender for Cloud and Logic Apps. Explore hybrid integration, triggers, actions, error handling, concurrency control, and scheduling, followed by a demo in Microsoft Defender for Cloud.</td>
+    <td><a href="https://youtu.be/u6N5PwQy61w"><b>Automating Security with Microsoft Defender for Cloud & Logic Apps</b></a><br><br>Develop skills necessary to automate security with Defender for Cloud and Logic Apps. Explore hybrid integration, triggers, actions, error handling, concurrency control, and scheduling, followed by a demo in Microsoft Defender for Cloud.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/p8sc8NaSe8U"><img src="https://img.youtube.com/vi/p8sc8NaSe8U/maxresdefault.jpg" alt="Cloud Workload Protection Capabilities" width="400" height="400"></a></td>
@@ -57,12 +57,12 @@ Explore Microsoft Defender Defender for Cloud videos with demos delivered direct
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/nCEuDNfPKtk"><img src="https://img.youtube.com/vi/nCEuDNfPKtk/maxresdefault.jpg" alt="Upgrade to Microsoft Defender Vulnerability Management" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/nCEuDNfPKtk"><b>Upgrade to Microsoft Defender Vulnerability Management</b></a><br><br>Learn about the upgrade to Microsoft Defender Vulnerability Management for detecting vulnerabilities in container images and servers.</td>
+    <td><a href="https://youtu.be/nCEuDNfPKtk"><b>Upgrade to Microsoft Defender Vulnerability Management</b></a><br><br>Learn about the upgrade to Microsoft Defender Vulnerability Management (MDVM) for detecting vulnerabilities in container images and servers.</td>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/gJ3G9ysFDCs"><img src="https://img.youtube.com/vi/gJ3G9ysFDCs/maxresdefault.jpg" alt="Discover and Protect Sensitive Data with Defender for Cloud" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/gJ3G9ysFDCs"><b>Discover and Protect Sensitive Data with Defender for Cloud</b></a><br><br>Explore the data-aware security posture of the Cloud Security Posture Management (CSPM) plan, which enables you to proactively identify and prioritize critical data risks.</td>
   </tr>
     <tr style="vertical-align:top">
     <td><a href="https://youtu.be/pZ5BbkCwMwI"><img src="https://img.youtube.com/vi/pZ5BbkCwMwI/maxresdefault.jpg" alt="Demystifying Defender CSPM" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/pZ5BbkCwMwI"><b>Demystifying Defender CSPM</b></a><br><br>Learn how Microsoft Defender for Cloud's holistic approach to multicloud management, including governance, compliance, attack path analysis, and agentless scanning, can help you identify and reduce risks in your environment.</td>
+    <td><a href="https://youtu.be/pZ5BbkCwMwI"><b>Demystifying Defender CSPM</b></a><br><br>Learn how Microsoft Defender for Cloud's holistic approach to multicloud management, including governance, compliance, attack path analysis, and agentless scanning can help you identify and reduce risks in your environment.</td>
   </tr>
