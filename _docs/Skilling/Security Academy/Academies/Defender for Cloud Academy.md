@@ -15,6 +15,10 @@ Explore Microsoft Defender Defender for Cloud videos with demos delivered direct
 
 #### Stay connected with the [Microsoft Defender for Cloud Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog).🔗
 
+
+<div>&nbsp;</div>
+
+
 <table>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/v3OLaoLr8tM"><img src="https://img.youtube.com/vi/v3OLaoLr8tM/maxresdefault.jpg" alt="Want to get started with Microsoft Defender for Cloud?" width="400" height="400"></a></td>
