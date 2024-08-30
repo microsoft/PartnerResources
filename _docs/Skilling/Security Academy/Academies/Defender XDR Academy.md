@@ -13,7 +13,7 @@ Tags:
 ## Microsoft Defender XDR
 Explore Microsoft Defender XDR videos with demos delivered directly to partners, relevant certifications, and further resources.
 
-#### Stay connected with the [Microsoft Defender XDR Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/bg-p/MicrosoftThreatProtectionBlog).
+#### Stay connected with the [Microsoft Defender XDR Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/bg-p/MicrosoftThreatProtectionBlog).🔗
 
 
 <div>&nbsp;</div>

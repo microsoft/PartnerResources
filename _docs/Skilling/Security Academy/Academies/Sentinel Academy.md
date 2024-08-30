@@ -15,7 +15,7 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
 
 ### Explore our new [Microsoft Sentinel Skill-up Training Plan]({{ site.baseurl }}/assets/msa/Microsoft Sentinel skill-up training plan.pdf)🎉
 
-#### Stay connected with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog).
+#### Stay connected with the [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog).🔗
 
 
 <div>&nbsp;</div>
