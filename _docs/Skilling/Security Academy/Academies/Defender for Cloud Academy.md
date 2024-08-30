@@ -38,7 +38,7 @@ Explore Microsoft Defender Defender for Cloud videos with demos delivered direct
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/p8sc8NaSe8U"><img src="https://img.youtube.com/vi/p8sc8NaSe8U/maxresdefault.jpg" alt="Cloud Workload Protection Capabilities" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/p8sc8NaSe8U"><b>Cloud Workload Protection Capabilities</b></a><br><br>Discover the importance of CWP capabilities with Microsoft Defenders for DNS, Key Vault, Servers, Storage, SQL Servers, and more. Explore vulnerability assessments, adaptive application controls, network hardening, Just-in-Time (JIT) access, File Integrity, and Azure Lighthouse.</td>
+    <td><a href="https://youtu.be/p8sc8NaSe8U"><b>Cloud Workload Protection Capabilities</b></a><br><br>Discover the importance of CWP capabilities with Microsoft Defenders for DNS, Key Vault, Servers, Storage, and SQL Servers, while exploring vulnerability assessments, adaptive application controls, network hardening, Just-in-Time (JIT) access, file integrity, and Azure Lighthouse.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/BwkrV1M85D0"><img src="https://img.youtube.com/vi/BwkrV1M85D0/maxresdefault.jpg" alt="Security in Azure Arc" width="400" height="400"></a></td>
