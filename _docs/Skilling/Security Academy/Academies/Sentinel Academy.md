@@ -36,7 +36,7 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/hs7aoCBlRtY"><img src="https://img.youtube.com/vi/hs7aoCBlRtY/maxresdefault.jpg" alt="Microsoft Sentinel Deep Dive SEPT. 2023 Update" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/hs7aoCBlRtY"><b>Microsoft Sentinel Deep Dive SEPT. 2023 Update</b></a><br><br>The odds are against us. Bad actors and nation-states threaten our critical infrastructure, businesses, etc. Attacks are also growing in size and complexity, as seen with STORM-0558’s 2023 attack. If you’re a Microsoft partner or MSSP wanting to protect against threats, learn how to fight back with our comprehensive deep dive into Microsoft Sentinel.</td>
+    <td><a href="https://youtu.be/hs7aoCBlRtY"><b>Microsoft Sentinel Deep Dive SEPT. 2023 Update</b></a><br><br>Bad actors and nation-states threaten critical infrastructure and industries with increasingly complex attacks. If you’re a Microsoft partner or MSSP, learn how to fight back with our comprehensive deep dive into Microsoft Sentinel.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/0W78s_5A_2A"><img src="https://img.youtube.com/vi/0W78s_5A_2A/maxresdefault.jpg" alt="Configuring Your Microsoft Sentinel Environment" width="400" height="400"></a></td>
