@@ -41,7 +41,7 @@ Explore Azure Network Security videos with demos delivered directly to partners,
     <td><a href="https://youtu.be/kf8O3_yqvcs"><b>Azure Web Application Firewall (WAF) Policies</b></a><br><br>Learn how to protect your applications from common OWASP attacks with Azure Web Application Firewall (WAF). Explore how to deploy the service in minutes to get complete visibility into your environment.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/PkdFIBvMVlw"><img src="https://img.youtube.com/PkdFIBvMVlw/maxresdefault.jpg" alt="Azure Web Application Firewall (WAF) Integration in Microsoft Copilot for Security" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/PkdFIBvMVlw"><img src="https://img.youtube.com/vi/nXduz5YPLFc/maxresdefault.jpg" alt="Azure Web Application Firewall (WAF) Integration in Microsoft Copilot for Security" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/PkdFIBvMVlw"><b>Azure Web Application Firewall (WAF) Integration in Microsoft Copilot for Security</b></a><br><br>The Azure Web Application Firewall (WAF) integration in Microsoft Copilot for Security provides comprehensive insights into Azure WAF detections, empowering Network Security analysts to ask questions about the top rules triggered, top malicious IPs, and more!</td>
   </tr>
   <tr style="vertical-align:top">
@@ -57,10 +57,10 @@ Explore Azure Network Security videos with demos delivered directly to partners,
     <td><a href="https://youtu.be/EIvFECzyAkU"><b>Azure DDoS Protection for SecOps Deep Dive</b></a><br><br>Explore Azure DDoS Protection for Security Operations (SecOps) and how you can leverage Azure DDoS Protection telemetry and logs to identify the DDoS attacks. Through simulated attack scenarios, you'll learn how to view attack details, recognize malicious traffic, and use queries to enhance your organization's resilience against DDoS threats.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/xLWuLGi52Lg"><img src="https://img.youtube.com/vi/xLWuLGi52Lg/maxresdefault.jpg" alt="Azure Firewall Monitoring, Management, and Troubleshooting" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/xLWuLGi52Lg"><img src="https://img.youtube.com/vi/xLWuLGi52Lg/maxresdefault.jpg" alt="Azure Firewall Monitoring, Management, & Troubleshooting" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/xLWuLGi52Lg"><b>Azure Firewall Monitoring, Management, and Troubleshooting</b></a><br><br>Dive into the Azure Firewall tools, features, and techniques that will empower you to effectively monitor, manage, and troubleshoot your Azure Firewall deployment.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/tLdr-dfXsP4"><img src="https://img.youtube.com/vi/tLdr-dfXsP4/maxresdefault.jpg" alt="Azure Firewall Premium’s Intrusion Detection & Prevention System (IDPS)" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/tLdr-dfXsP4"><b>VAzure Firewall Premium’s Intrusion Detection & Prevention System (IDPS)</b></a><br><br>Explore Azure Firewall Premium’s powerful capabilities, such as TLS Inspection, URL Filtering, Web Categories. Learn about Azure Firewall’s Intrusion Detection & Prevention System (IDPS), policies, insights, and analytics, followed by a comprehensive demo.</td>
+    <td><a href="https://youtu.be/tLdr-dfXsP4"><b>Azure Firewall Premium’s Intrusion Detection & Prevention System (IDPS)</b></a><br><br>Explore Azure Firewall Premium’s powerful capabilities, such as TLS Inspection, URL Filtering, Web Categories. Learn about Azure Firewall’s Intrusion Detection & Prevention System (IDPS), policies, insights, and analytics, followed by a comprehensive demo.</td>
   </tr>
