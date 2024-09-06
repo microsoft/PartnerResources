@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-08-30
+updated: 2024-09-10
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -15,8 +15,7 @@ showbreadcrumb: true
 </div>
 
 
-  > The Microsoft Security Academy will undergo an overhaul throughout August, 2024. Stay tuned.
-
+  > The Security Academy was recently updated!🎉
 
 <h4>Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources.</h4>
 
@@ -37,7 +36,7 @@ showbreadcrumb: true
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/defender-academy">Microsoft Defender for Cloud</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/entra-academy">Microsoft Entra</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/purview-academy">Microsoft Purview</a></li>
-                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/network-academy">Network Security</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/network-academy">Azure Network Security</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/endpoint-academy">Endpoint Security</a></li>
                     </ul>
                 </td>
@@ -61,9 +60,9 @@ showbreadcrumb: true
 
 ___
 
-## August 30th, 2024 Update📰
+## September 10th, 2024 Update📰
 
-**Recent Update** (August 30th): **[Getting Started](/PartnerResources/skilling/microsoft-security-academy/start)**, **[Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)**, **[Certifications](/PartnerResources/skilling/microsoft-security-academy/certifications)**, **[Copilot for Security Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Copilot for Security Q&A](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa)** |
+**Recent Update** (September 10th): **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)** |
 
 A new era of security is here. Read **[Charlie Bell's Security above all else announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/)**.🔍
 
@@ -79,8 +78,7 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Microsoft Purview | Copilot for Security in Purview                   | SEP 4              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Defender for Cloud | Prepare for Upcoming Transitions       | SEP 10             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender for Cloud | Defender for Servers                   | SEP 10             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender XDR | New ways for security teams to protect OT    | SEP 11             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Azure Network Security | Introducing DDoS Vulnerability Management    | SEP 17             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview | Microsoft Purview eDiscovery Modern UX            | SEP 18             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |

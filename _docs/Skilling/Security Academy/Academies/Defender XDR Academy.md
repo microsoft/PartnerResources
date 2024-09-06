@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microsoft Defender XDR
-description: Microsoft Defender XDR.
+description: Microsoft Defender XDR
 permalink: /skilling/microsoft-security-academy/dxdr-academy
 updated: 2024-08-30
 showbreadcrumb: true

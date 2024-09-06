@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microsoft Defender for Cloud
-description: Microsoft Defender for Cloud.
+description: Microsoft Defender for Cloud
 permalink: /skilling/microsoft-security-academy/defender-academy
 updated: 2024-08-30
 showbreadcrumb: true
@@ -59,8 +59,8 @@ Explore Microsoft Defender for Cloud videos with demos delivered directly to par
     <td><a href="https://youtu.be/nCEuDNfPKtk"><img src="https://img.youtube.com/vi/nCEuDNfPKtk/maxresdefault.jpg" alt="Upgrade to Microsoft Defender Vulnerability Management" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/nCEuDNfPKtk"><b>Upgrade to Microsoft Defender Vulnerability Management</b></a><br><br>Learn about the upgrade to Microsoft Defender Vulnerability Management (MDVM) for detecting vulnerabilities in container images and servers.</td>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/gJ3G9ysFDCs"><img src="https://img.youtube.com/vi/gJ3G9ysFDCs/maxresdefault.jpg" alt="Discover and Protect Sensitive Data with Defender for Cloud" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/gJ3G9ysFDCs"><b>Discover and Protect Sensitive Data with Defender for Cloud</b></a><br><br>Explore the data-aware security posture of the Cloud Security Posture Management (CSPM) plan, which enables you to proactively identify and prioritize critical data risks.</td>
+    <td><a href="https://youtu.be/gJ3G9ysFDCs"><img src="https://img.youtube.com/vi/gJ3G9ysFDCs/maxresdefault.jpg" alt="Discover and Protect Sensitive Data with Microsoft Defender for Cloud" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/gJ3G9ysFDCs"><b>Discover and Protect Sensitive Data with Microsoft Defender for Cloud</b></a><br><br>Explore the data-aware security posture of the Cloud Security Posture Management (CSPM) plan, which enables you to proactively identify and prioritize critical data risks.</td>
   </tr>
     <tr style="vertical-align:top">
     <td><a href="https://youtu.be/pZ5BbkCwMwI"><img src="https://img.youtube.com/vi/pZ5BbkCwMwI/maxresdefault.jpg" alt="Demystifying Defender CSPM" width="400" height="400"></a></td>

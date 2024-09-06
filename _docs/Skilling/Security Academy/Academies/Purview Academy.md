@@ -1,52 +1,54 @@
 ---
 layout: page
-title: Microsoft Purview Academy
-description: Microsoft Purview Academy.
+title: Microsoft Purview
+description: Microsoft Purview
 permalink: /skilling/microsoft-security-academy/purview-academy
-updated: 2023-11-17
+updated: 2024-09-10
 showbreadcrumb: true
 Tags:
 - academy content
 - microsoft security academy
 ---
 
-## Microsoft Purview Academy
-Welcome to the **Microsoft Purview Academy.** Explore Microsoft Purview video sessions with demos delivered directly to partners, relevant certifications, and further resources.
+## Microsoft Purview
+Explore Microsoft Purview videos with demos delivered directly to partners, relevant certifications, and further resources.
 
-  > This page will be updated in early September, 2024. Stay tuned.
+#### Stay connected with the [Security, Compliance, and Identity Blog](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance).🔗
 
-### Sessions
-[Microsoft Purview End-to-End eDiscovery Workflow Implementation](https://msuspartners.eventbuilder.com/event/62424?source=EnablePurview) --- Learn how to detect, preserve, collect, process, cull, and analyze data in place and do an end-to-end eDiscovery workflow. Discover how you can find and collect data, streamline your eDiscovery process with an end-to-end workflow, and get insights quickly with built-in capabilities.
 
-[Conquer Risk Management and Subject Rights Request with Microsoft Priva](https://msuspartners.eventbuilder.com/event/62426?source=EnablePurview) --- In this session, explore how to use Microsoft Priva to meet regulatory requirements, build customer trust, and help organizations take a "privacy by default" approach. Dive into Priva's capabilities including Priva Privacy Risk Management, which provides visibility into your organization's data and policy templates; and Priva Subject Rights Requests, which provides automation and workflow tools for fulfilling data requests.
+<div>&nbsp;</div>
 
-[Understand, Discover, Classify, and Protect Data with Microsoft Purview Information Protection](https://msuspartners.eventbuilder.com/event/62417?source=EnablePurview) --- Examine data discovery and built-in labeling and protection. Understand how accurate classification works with machine learning-based trainable classifiers and exact data match. Lastly, learn how to monitor what's being done with labeled content.
 
-[Unified Data Governance with Microsoft Purview](https://msuspartners.eventbuilder.com/event/62418?source=EnablePurview) --- Discover how to create an up-to-date map of your data landscape with automated data discovery, sensitive data classification, and end-to-end data lineage. Learn how to get insights into the location and movement of sensitive data and enable data consumers to access valuable, trustworthy data management.
-
-[Understanding and Maximizing Microsoft Purview Data Loss Prevention (DLP)](https://msuspartners.eventbuilder.com/event/62419?source=EnablePurview) --- Learn how to prevent data loss by identifying the inappropriate sharing, transfer, or use of sensitive data on endpoints, apps, and services. Leverage native, built-in protection for Windows 10, Office apps, and Edge. Lastly, utilize best practices for ensuring successful Microsoft Purview DLP deployment.
-
-[Leverage an Integrated Approach to Identifying Insider Risks with Microsoft Purview IRM](https://msuspartners.eventbuilder.com/event/62420?source=EnablePurview) --- Analyze integrated approaches for insider risk policies that can define the types of risks to identify and detect, along with quickly taking appropriate actions to ensure users are compliant with compliance standards.
-
-[Manage Regulatory Compliance Privacy and Risk with Microsoft Purview Communications Compliance](https://msuspartners.eventbuilder.com/event/62421?source=EnablePurview) --- Discover how to identify and investigate communication risks while maintaining end-user privacy. Learn how to meet regulatory compliance obligations and address corporate code-of-conduct violations and be able to rapidly take action by remediation workflows.
-
-[Get Compliant, Stay Compliant, and Meet Compliance Requirements with Microsoft Purview Compliance Manager](https://msuspartners.eventbuilder.com/event/62422?source=EnablePurview) --- Learn how to utilize compliance manager to reduce compliance risks with in-product capabilities such as compliance score, control mapping, versioning etc. Analyze end-to-end compliance management capabilities such as easy onboarding, workflow management and also take advantage of ready-to-use regulatory assessment templates.
-
-### Additional Resources
-{% include resources.md 
-    includetags="purview resources"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
-
-{% include resources.md 
-    includetags="security certifications"
-    includemethod="all" 
-    showtags="false" 
-    showdate="true" 
-    visualstyle="normal" 
-    showdescription="true"
-%}
+<table>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/5WlLz7Q1pIY"><img src="https://img.youtube.com/vi/5WlLz7Q1pIY/maxresdefault.jpg" alt="Copilot for Security in Purview" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/5WlLz7Q1pIY"><b>Copilot for Security in Purview</b></a><br><br>Learn about Copilot for Security in Purview, how it works, and see demos of how it can be used to address business challenges, simplify data, and accelerate investigations.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/KZN8cxc2fR0"><img src="https://img.youtube.com/vi/KZN8cxc2fR0/maxresdefault.jpg" alt="Audit Services" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/KZN8cxc2fR0"><b>Audit Services</b></a><br><br>Audit services in Purview Compliance Manager provide a robust framework for managing compliance requirements efficiently. By leveraging its features, organizations can ensure they remain compliant with various regulations, minimize risks, and streamline the audit process.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/lHGaAJTdCF8"><img src="https://img.youtube.com/vi/lHGaAJTdCF8/maxresdefault.jpg" alt="Data Lifecycle Management & Records Management" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/lHGaAJTdCF8"><b>Data Lifecycle Management & Records Management</b></a><br><br>Data Lifecycle Management (DLM) and Records Management (RM) are key to information management. DLM governs data from creation to disposal, ensuring efficiency and compliance. RM systematically controls records, maintaining them as evidence of business activities.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/LZZphUPvYr4"><img src="https://img.youtube.com/vi/LZZphUPvYr4/maxresdefault.jpg" alt="Collecting Copilot Interactions using Purview eDiscovery" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/LZZphUPvYr4"><b>Collecting Copilot Interactions using Purview eDiscovery</b></a><br><br>Use Microsoft Purview eDiscovery to accelerate your organization's adoption of Microsoft Copilot. Learn how to provide additional data security and compliance controls by preserving, identifying, collecting, and exporting Copilot for Microsoft 365 interactions.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/TmJIialc2e8"><img src="https://img.youtube.com/vi/TmJIialc2e8/maxresdefault.jpg" alt="Implementing the NIST AI RMF: A Roadmap to Responsible AI" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/TmJIialc2e8"><b>Implementing the NIST AI RMF: A Roadmap to Responsible AI</b></a><br><br>Learn about the NIST AI Risk Management Framework (AI RMF) for professionals in AI implementation. Explore key aspects of the framework, actionable insights for aligning AI strategies with NIST guidelines, and practical steps for mitigating risks using Microsoft Purview Compliance Manager.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/6AN8S1jBA0g"><img src="https://img.youtube.com/vi/6AN8S1jBA0g/maxresdefault.jpg" alt="Getting Started with Deploying Microsoft Purview Data Lifecycle and Records Management" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/6AN8S1jBA0g"><b>Getting Started with Deploying Microsoft Purview Data Lifecycle and Records Management</b></a><br><br>Learn how to get started with Microsoft Purview Data Lifecycle and Records Management, including you how to apply its features to your scenarios. By the end, you'll have the foundation and confidence to elevate your Microsoft 365 Data Lifecycle and Records Management deployment.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/cSgK09cC-b4"><img src="https://img.youtube.com/vi/cSgK09cC-b4/maxresdefault.jpg" alt="Microsoft Purview Data Loss Prevention (DLP)" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/cSgK09cC-b4"><b>Microsoft Purview Data Loss Prevention (DLP)</b></a><br><br>Discover how to maintain your Endpoint DLP setup using the device onboarding page.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/hsrkWR_tp2M"><img src="https://img.youtube.com/vi/hsrkWR_tp2M/maxresdefault.jpg" alt="Microsoft Purview Advanced Classification Scanning and Protection for Endpoints Running on macOS" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/hsrkWR_tp2M"><b>Microsoft Purview Advanced Classification Scanning and Protection for Endpoints Running on macOS</b></a><br><br>Explore the latest advancements in Endpoint DLP, including support for network file shares and virtualized environments. Additionally,learn about advanced classification support for macOS endpoints and the implementation of the most restrictive rules for enhanced endpoint security.</td>
+  </tr>

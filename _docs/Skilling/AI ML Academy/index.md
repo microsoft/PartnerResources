@@ -16,8 +16,6 @@ tags:
 
 # AI & ML Academy
 
-> The AI & ML Academy was recently updated!🎉
-
 ## Content
 
 Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of which are built on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you move faster and build effective solutions. The modules are:

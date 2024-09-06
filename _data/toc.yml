@@ -345,7 +345,7 @@
             - title: Microsoft Purview
               url: "skilling/microsoft-security-academy/purview-academy"
               tag: msa
-            - title: Network Security
+            - title: Azure Network Security
               url: "skilling/microsoft-security-academy/network-academy"
               tag: msa
             - title: Endpoint Security

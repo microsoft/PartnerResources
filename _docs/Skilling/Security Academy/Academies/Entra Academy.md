@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microsoft Entra
-description: Microsoft Entra.
+description: Microsoft Entra
 permalink: /skilling/microsoft-security-academy/entra-academy
 updated: 2024-08-30
 showbreadcrumb: true
