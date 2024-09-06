@@ -3,7 +3,7 @@ layout: page
 title: Create a Partner Center Account
 description: Want to begin your partner journey?
 permalink: /skilling/partner-onboarding-academy/acct
-updated: 2023-11-14
+updated: 2024-09-06
 showbreadcrumb: true
 tags: 
 - academy content
@@ -21,7 +21,7 @@ Partner Center serves as the central hub for partners to manage their relationsh
 
 Key Features & Functionalities:
 
-- __Account Management__: Partners can use Partner Center to manage their Microsoft Partner Network (MPN) accounts. This includes updating company information, managing user access, and maintaining a record of their Microsoft certifications and competencies.
+- __Account Management__: Partners can use Partner Center to manage their Microsoft AI Cloud Partner Program (MAICPP) accounts. This includes updating company information, managing user access, and maintaining a record of their Microsoft certifications and competencies.
 
 - __Business Profile__: Partners can create and maintain a business profile within Partner Center, which allows them to showcase their expertise, certifications, and competencies to potential customers.
 
@@ -35,7 +35,7 @@ Key Features & Functionalities:
 
 - __Incentives and Rebates__: Partner Center provides information on incentive programs and rebates that partners may be eligible for based on their sales and performance.
 
-- __Competencies and Certifications__: Partners can track their progress in achieving Microsoft competencies and certifications, which can help them demonstrate expertise in specific Microsoft technologies.
+- __Designations, Specializations, and Certifications__: Partners can track their progress in achieving Microsoft Solution Designations, Specializations, and certifications, which can help them demonstrate expertise in specific Microsoft technologies.
 
 - __Analytics and Reporting__: Partners can access analytics and reporting tools to monitor their business performance, customer usage, and sales trends.
 
@@ -56,7 +56,7 @@ You will need to provide:
 
 Once submitted, Microsoft will **[validate the account](https://learn.microsoft.com/en-us/partner-center/verification-responses).**  Once complete, you will have:
 
-   - MPN ID
+   - Partner ID
    - Verified Account
 
 #### Additional Resources
