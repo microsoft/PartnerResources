@@ -3,7 +3,7 @@ layout: page
 title: Create an Offer
 description: Are you ready to create an offer?
 permalink: /skilling/partner-onboarding-academy/create-offer
-updated: 2023-11-14
+updated: 2024-09-06
 showbreadcrumb: true
 tags: 
 - academy content
@@ -37,7 +37,7 @@ To Create an Offer, you must select the following:
     - [Subscription](https://learn.microsoft.com/en-us/partner-center/marketplace/determine-your-listing-type#subscription): Charge a flat fee for monthly or annual subscriptions
     - [Usage Based Pricing](https://learn.microsoft.com/en-us/partner-center/marketplace/determine-your-listing-type#usage-based-pricing): Used to define custom or pre-defined billing metrics and rates (e.g., per vCPU, per seat, usage billing, etc.)
  
-__PRO TIP__: Most partners start with the "Contact Me" offer when getting started.
+> 💡 **TIP**: Most partners start with the "Contact Me" offer when getting started.
 
 ### Offer Types
 
@@ -49,7 +49,7 @@ __PRO TIP__: Most partners start with the "Contact Me" offer when getting starte
 - [Azure Applications](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-azure-application-offer)
 - [Dynamics 365](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-dynamics-365)
 - [Managed Service](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-managed-service-offer)
-- [Consulting Service](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-consulting-service-offer)
+- [Professional Service](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/plan-professional-service-offer)
 - [And more!](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type#list-of-offer-types)
 
 #### [Offer Type — SaaS](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-saas-offer)
@@ -75,4 +75,4 @@ When creating an offer, you may want to offer different pricing models for custo
 
 A guide that compares the two options can be found **[here](https://learn.microsoft.com/en-us/partner-center/marketplace/isv-customer-faq).**
 
-__PRO TIP__: When possible, use a Private Offer. Creating a Private Plan requires your offer to go through certification again and takes more time.
+> 💡 **TIP**: When possible, use a Private Offer. Creating a Private Plan requires your offer to go through certification again and takes more time.

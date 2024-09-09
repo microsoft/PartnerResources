@@ -2,7 +2,7 @@
 layout: page
 title: Build
 description: Build your solution on top of Azure
-updated: 2024-02-22
+updated: 2024-09-06
 permalink: /skilling/partner-onboarding-academy/build
 showbreadcrumb: true
 ---
@@ -26,17 +26,17 @@ For more information on Technical Presales and Deployment Benefits for Microsoft
 
 ### Technical Benefits
 
-Microsoft Partners can receive several benefits from their partnership, including Azure Credits, Visual Studio, other Microsoft software, and GitHub Enterprise licenses.
+Microsoft Partners may receive additional benefits from their partnership, including Azure Credits, Visual Studio and GitHub subscriptions, or other Microsoft software.
 
 #### Azure Credits
 
-As a Microsoft Partner, you may be eligible for Azure credits issued each month or for the current year. You can view your credits at the **[Partner Center Azure Credits Page](https://partner.microsoft.com/dashboard/v2/benefits/azure).** Assign these credits to a user in your organization.
+As a Microsoft Partner, you may be eligible for monthly or one-time Azure credits. You can view your credits at the **[Partner Center Azure Credits Page](https://partner.microsoft.com/dashboard/v2/benefits/azure).** Assign these credits to a user in your organization.
 
 For more information on Azure Credits for Microsoft Partners, see **[this article](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-azure-cloud).**
 
 #### Software
 
-Microsoft Partners receive licenses for free Microsoft software. These benefits are listed in the "Software Benefits" section of **[Partner Center](https://partner.microsoft.com/dashboard/home)**, along with license keys, the last date you may activate the software, and instructions on activating your software.
+Microsoft Partners may receive Internal Use Rights (IUR) licenses Microsoft software. These benefits are listed in the "Software Benefits" section of **[Partner Center](https://partner.microsoft.com/dashboard/home)**, along with license keys, the last date you may activate the software, and instructions on activating your software.
 
 For more information on Software Benefits for Microsoft Partners, see **[this article](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-software).**
 
@@ -48,6 +48,16 @@ To access these benefits, select "Visual Studio subscriptions benefits" on the "
 
 See **[this article](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-visual-studio)** for more information on Visual Studio and GitHub benefits for Microsoft Partners.
 
+### Build Skills
+
+- Review the [Partner Skilling events calendar](https://assetsprod.microsoft.com/mpn/microsoft-partner-training-calendar.pdf)
+- Subscribe to the [Partner Skilling newsletter](https://aka.ms/PartnerSkillingNewsletter)
+- Bookmark the [Microsoft Partner Training resources](https://partner.microsoft.com/training)
+- Join an upcoming **[Sales & Pre-Sales Skilling Bootcamp](https://vshow.on24.com/vshow/FY24_SBcamp/registration/23189?partnerref=SEBTCP_ALL_ORG_OTH_PNSKP)** or watch a past bootcamp
+- Build advanced technical skills to be **Project Ready** in [Azure](https://vshow.on24.com/vshow/FY24_AZDepth/registration/23172?partnerref=DP_AZ_ORG_OTH_PN), [Security](https://vshow.on24.com/vshow/FY24_SDepth/registration/23173?partnerref=DP_SCI_ORG_OTH_PN), [Modern Work](https://vshow.on24.com/vshow/FY24_MWCWeek/registration/23378?partnerref=DP_MW_ORG_OTH_PNSKP), or [Business Applications](https://vshow.on24.com/vshow/FY24_BADepth/registration/23174?partnerref=DP_BA_ORG_OTH_PN)
+- Attend an upcoming **Certification Week** for [Azure](https://vshow.on24.com/vshow/FY24_ACWeek/registration/23191?partnerref=CW_AZ_ORG_OTH_PN), [Security](https://vshow.on24.com/vshow/FY24_SCWeek/registration/23187?partnerref=CW_SCI_ORG_OTH_PN), [Modern Work](https://vshow.on24.com/vshow/FY24_MWCWeek/registration/23184?partnerref=CW_MW_ORG_OTH_PN), or [Business Applications](https://vshow.on24.com/vshow/FY24_BACWeek/registration/23188?partnerref=CW_BA_ORG_OTH_PN)
+- Explore additional [Partner Skilling Academies](/PartnerResources/skilling/academies) on this site
+
 ### Useful Links
 
 - [Use Technical Presales & Deployment Services Consulting (TDP)](https://learn.microsoft.com/en-us/partner-center/technical-benefits)
@@ -57,9 +67,9 @@ See **[this article](https://learn.microsoft.com/en-us/partner-center/mpn-benefi
   - [Visual Studio & GitHub](https://learn.microsoft.com/en-us/partner-center/mpn-benefits-visual-studio)
 - Build Skills
   - [Use Skills Navigator](https://learn.microsoft.com/en-us/collections/mjdcwo2gzmz43)
-  - [Find a Solution Partner](https://partner.microsoft.com/en-rs/partnership/solutions-partner) **(OPTIONAL)**
+  - [Earn a Solution Partner Designation](https://partner.microsoft.com/en-us/partnership/solutions-partner) **(OPTIONAL)**
 - Build on Azure
-  - [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/)
+  - [Mastering the Marketplace](https://aka.ms/MasteringTheMarketplace)
 - [Technical Journeys](https://partner.microsoft.com/en-US/partnership/technical-journeys) — Webinars and technical consultations to help you grow
 
 ### Next Steps

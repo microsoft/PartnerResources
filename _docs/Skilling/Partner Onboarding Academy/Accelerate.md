@@ -2,7 +2,7 @@
 layout: page
 title: Accelerate
 description: Accelerate your business
-updated: 2024-02-22
+updated: 2024-09-06
 permalink: /skilling/partner-onboarding-academy/accelerate
 showbreadcrumb: true
 ---
@@ -16,8 +16,13 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 
 **Accelerating your Co-Sell journey with Microsoft involves a strategic approach to collaborating with Microsoft's sales teams to drive joint revenue.**
 
-Here are several steps to accelerate your Co-Sell journey:
+To accelerate your Co-sell journey, focus on the following actions.
 
-* [Access Partner Incentives](https://partner.microsoft.com/en-US/partnership/partner-incentives)
-* [Improve your Partner Capability Score](https://learn.microsoft.com/en-us/partner-center/partner-capability-score)
-* [Microsoft Partner Blog](https://blogs.partner.microsoft.com/partner/)
+1. Create and maintain a current business profile on AppSource
+1. Earn Solution Partner Designations and Specializations
+  - [Improve your Partner Capability Score](https://learn.microsoft.com/en-us/partner-center/membership/partner-capability-score)
+1. Accept and send customer referrals in Partner Center
+1. Utilize Microsoft incentive programs to win opportunities and accelerate consumption
+  - [Access Partner Incentives](https://aka.ms/partnerincentives)
+
+To view the latest partner information, check out the [Microsoft Partner Blog](https://blogs.partner.microsoft.com/partner/).
