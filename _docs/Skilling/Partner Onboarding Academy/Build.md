@@ -26,7 +26,7 @@ For more information on Technical Presales and Deployment Benefits for Microsoft
 
 ### Technical Benefits
 
-Microsoft Partners may receive additional benefits from their partnership, including Azure Credits, Visual Studio and GitHub subscripttions, or other Microsoft software.
+Microsoft Partners may receive additional benefits from their partnership, including Azure Credits, Visual Studio and GitHub subscriptions, or other Microsoft software.
 
 #### Azure Credits
 
