@@ -34,7 +34,7 @@ Explore Azure Network Security videos with demos delivered directly to partners,
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/nXduz5YPLFc"><img src="https://img.youtube.com/vi/nXduz5YPLFc/maxresdefault.jpg" alt="Azure Firewall Integration in Microsoft Copilot for Security" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/nXduz5YPLFc"><b>Azure Firewall Integration in Microsoft Copilot for Security</b></a><br><br>With Azure Firewall integration in Microsoft Copilot for Security, analysts can thoroughly investigate malicious traffic intercepted by the IDPS feature across their entire fleet, all while using natural language queries in the Microsoft Copilot for Security standalone experience.</td>
+    <td><a href="https://youtu.be/nXduz5YPLFc"><b>Azure Firewall Integration in Microsoft Copilot for Security</b></a><br><br>With Azure Firewall integration in Microsoft Copilot for Security, analysts can thoroughly investigate malicious traffic intercepted by IDPS across their environment, all while using natural language queries in the Microsoft Copilot for Security standalone experience.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/kf8O3_yqvcs"><img src="https://img.youtube.com/vi/kf8O3_yqvcs/maxresdefault.jpg" alt="Azure Web Application Firewall (WAF) Policies" width="400" height="400"></a></td>
@@ -50,7 +50,7 @@ Explore Azure Network Security videos with demos delivered directly to partners,
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/kDteBLXL6kk"><img src="https://img.youtube.com/vi/kDteBLXL6kk/maxresdefault.jpg" alt="Building a DDoS Response Plan" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/kDteBLXL6kk"><b>Building a DDoS Response Plan</b></a><br><br>Learn the essential steps for creating a comprehensive response plan to mitigate the impact of DDoS attacks. This includes incident detection, communication, and post-incident communication.</td>
+    <td><a href="https://youtu.be/kDteBLXL6kk"><b>Building a DDoS Response Plan</b></a><br><br>Learn the essential steps for creating a comprehensive DDoS incident response plan. This includes incident detection, communication, and post-incident communication.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/EIvFECzyAkU"><img src="https://img.youtube.com/vi/EIvFECzyAkU/maxresdefault.jpg" alt="Azure DDoS Protection for SecOps Deep Dive" width="400" height="400"></a></td>
@@ -62,5 +62,5 @@ Explore Azure Network Security videos with demos delivered directly to partners,
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/tLdr-dfXsP4"><img src="https://img.youtube.com/vi/tLdr-dfXsP4/maxresdefault.jpg" alt="Azure Firewall Premium’s Intrusion Detection & Prevention System (IDPS)" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/tLdr-dfXsP4"><b>Azure Firewall Premium’s Intrusion Detection & Prevention System (IDPS)</b></a><br><br>Explore Azure Firewall Premium’s powerful capabilities, such as TLS Inspection, URL Filtering, Web Categories. Learn about Azure Firewall’s Intrusion Detection & Prevention System (IDPS), policies, insights, and analytics, followed by a comprehensive demo.</td>
+    <td><a href="https://youtu.be/tLdr-dfXsP4"><b>Azure Firewall Premium’s Intrusion Detection & Prevention System (IDPS)</b></a><br><br>Explore Azure Firewall Premium’s powerful capabilities, such as TLS Inspection, URL Filtering, and Web Categories. Learn about Azure Firewall’s Intrusion Detection & Prevention System (IDPS), policies, insights, and analytics, followed by a comprehensive demo.</td>
   </tr>
