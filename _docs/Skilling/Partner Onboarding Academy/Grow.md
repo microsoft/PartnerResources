@@ -2,7 +2,7 @@
 layout: page
 title: Grow
 description: Grow your Marketplace Offers
-updated: 2024-02-22
+updated: 2024-09-06
 permalink: /skilling/partner-onboarding-academy/grow
 showbreadcrumb: true
 ---
@@ -14,7 +14,7 @@ The Microsoft Partner Onboarding Academy's **Modules** are organized into sectio
 
 ![](../../../assets/partner-onboarding/partner-journey-grow.png)
 
-**After publishing an offer to the Marketplace, your next step will be to grow adoption and Co-Selling. These three steps will make your offer attractive to potential customers:**
+**After publishing an offer to the Marketplace, your next step will be to grow adoption and Co-Selling. These three steps for ISV partners will make your offer attractive to potential customers:**
 
 - **[Create A Transactable Offer](/PartnerResources/skilling/partner-onboarding-academy/transactable-offer):** Transactable Offers are the first step towards Co-Selling with Microsoft.
 - **[Update Offer to be IP Co-Sell Eligible](/PartnerResources/skilling/partner-onboarding-academy/cosell):** Make your offer more attractive to customers and Microsoft field-sellers by making your offer **[IP Co-Sell Eligible](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#requirements-for-azure-ip-co-sell-eligible-status).**
