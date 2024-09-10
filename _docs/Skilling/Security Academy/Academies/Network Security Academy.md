@@ -26,7 +26,7 @@ Explore Azure Network Security videos with demos delivered directly to partners,
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/WAkOkuaonBI"><img src="https://img.youtube.com/vi/WAkOkuaonBI/maxresdefault.jpg" alt="Manage Network Security with Azure Firewall" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/WAkOkuaonBI"><b>Manage Network Security with Azure Firewall</b></a><br><br>Explore Azure Firewall's key features, use cases, and learn how to manage and configure it easily with an extensive demo. Additionally, dive into Azure Firewall Premium's core features like IDPS, TLS inspection, and Azure Firewall Workbooks for traffic insights.</td>
+    <td><a href="https://youtu.be/WAkOkuaonBI"><b>Manage Network Security with Azure Firewall</b></a><br><br>Explore Azure Firewall's key features, use cases, and learn how to configure and manage it easily with an extensive demo. Additionally, dive into Azure Firewall Premium's core features like IDPS, TLS inspection, and Azure Firewall Workbooks for traffic insights.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/TcQOe0u5yD4"><img src="https://img.youtube.com/vi/TcQOe0u5yD4/maxresdefault.jpg" alt="Unlock the Power of Azure Firewall Governance with Azure Policies" width="400" height="400"></a></td>

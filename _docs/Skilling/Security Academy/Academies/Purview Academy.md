@@ -42,7 +42,7 @@ Explore Microsoft Purview videos with demos delivered directly to partners, rele
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/6AN8S1jBA0g"><img src="https://img.youtube.com/vi/6AN8S1jBA0g/maxresdefault.jpg" alt="Getting Started with Deploying Microsoft Purview Data Lifecycle and Records Management" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/6AN8S1jBA0g"><b>Getting Started with Deploying Microsoft Purview Data Lifecycle and Records Management</b></a><br><br>Learn how to get started with Microsoft Purview Data Lifecycle and Records Management, which enables you to manage your data from creation to disposal. By the end, you'll have the confidence to elevate your Microsoft 365 Data Lifecycle and Records Management deployment.</td>
+    <td><a href="https://youtu.be/6AN8S1jBA0g"><b>Getting Started with Deploying Microsoft Purview Data Lifecycle and Records Management</b></a><br><br>Learn how to get started with Microsoft Purview Data Lifecycle and Records Management, which enables you to manage your data from creation to disposal.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/cSgK09cC-b4"><img src="https://img.youtube.com/vi/cSgK09cC-b4/maxresdefault.jpg" alt="Microsoft Purview Data Loss Prevention (DLP)" width="400" height="400"></a></td>
@@ -51,4 +51,4 @@ Explore Microsoft Purview videos with demos delivered directly to partners, rele
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/hsrkWR_tp2M"><img src="https://img.youtube.com/vi/hsrkWR_tp2M/maxresdefault.jpg" alt="Microsoft Purview Advanced Classification Scanning & Protection for Endpoints Running on macOS" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/hsrkWR_tp2M"><b>Microsoft Purview Advanced Classification Scanning & Protection for Endpoints Running on macOS</b></a><br><br>Explore the latest advancements in Endpoint Data Loss Prevention (DLP), including support for network file shares and virtualized environments. Additionally, learn about advanced classification support for macOS endpoints.</td>
-  </tr
+  </tr>
