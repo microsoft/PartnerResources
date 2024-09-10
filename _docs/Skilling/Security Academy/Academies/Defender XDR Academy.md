@@ -38,5 +38,5 @@ Explore Microsoft Defender XDR videos with demos delivered directly to partners,
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/vruwkrJt3Nw"><img src="https://img.youtube.com/vi/vruwkrJt3Nw/maxresdefault.jpg" alt="Microsoft Defender for Cloud Apps: A 1-hour Overview" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/vruwkrJt3Nw"><b>Microsoft Defender for Cloud Apps: A 1-hour Overview</b></a><br><br>Microsoft Defender for Cloud Apps, a Cloud Access Security Broker (CASB), uses AI/ML to continuously monitor and protect your cloud apps data. In one hour, learn how to discover Shadow IT, gain visibility into your cloud app usage, and more.</td>
+    <td><a href="https://youtu.be/vruwkrJt3Nw"><b>Microsoft Defender for Cloud Apps: A 1-hour Overview</b></a><br><br>Every organization worries about detecting malicious activity too late. Microsoft Defender for Cloud Apps, a Cloud Access Security Broker (CASB), uses AI/ML to continuously monitor and protect your cloud apps data. In one hour, learn how to discover Shadow IT, gain visibility into your cloud app usage, and more.</td>
   </tr>
