@@ -15,8 +15,8 @@ showbreadcrumb: true
 </div>
 
 
-  > The Security Academy was recently updated!🎉
-  
+> The Security Academy was recently updated!🎉
+
 
 <h4>Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources.</h4>
 
