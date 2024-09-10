@@ -89,8 +89,8 @@ ___
 If you're a member of the **[Microsoft Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Copilot for Security Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-| Plugin spotlight – Purview | Thursday, September 12th @  8:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/4185be89-7eda-4e0e-8eb1-fd9acb3c0f70@72f988bf-86f1-41af-91ab-2d7cd011db47)
-| Plugin spotlight – Defender for Cloud | Thursday, September 19th @  8:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/11dd74d4-5584-46b2-828b-c69886fe6e98@72f988bf-86f1-41af-91ab-2d7cd011db47)
+| Plugin spotlight – Purview | Thursday, September 12th @  7:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/4185be89-7eda-4e0e-8eb1-fd9acb3c0f70@72f988bf-86f1-41af-91ab-2d7cd011db47)
+| Plugin spotlight – Defender for Cloud | Thursday, September 19th @  7:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/11dd74d4-5584-46b2-828b-c69886fe6e98@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 Several colleagues have also created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).**
 
