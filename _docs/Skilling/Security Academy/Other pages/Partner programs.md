@@ -12,7 +12,7 @@ tags:
 
 ## Microsoft Security Academy
 
-### Are you interested in our Partner Programs?
+### Are you interested in partner programs?
 
 ### Cybersecurity Investment (CSI)
 
@@ -26,7 +26,7 @@ The Cybersecurity Investment is a partner investment initiative that is designed
 | **Grow** | Pre-sales activities, Technical advisory, etc. |
 | **Differentiate** | Win deals and proactively influence Microsoft Security sales, deliver impact on sales and managed services |
 
-#### Cybersecurity Investment (CSI) | Initiative Benefits
+#### Benefits
 
 - Pre-sales incentives
 - Sales advisory incentives
@@ -35,7 +35,7 @@ The Cybersecurity Investment is a partner investment initiative that is designed
 - Fast Track Security Engagement (e.g., receive referrals for accounts needing security deployment and usage)
 - Dedicated readiness support (e.g., materials to facilitate pre-sales)
 
-#### Cybersecurity Investment (CSI) | Partner Eligibility
+#### Eligibility
 
 Partners must be nominated for CSI through the Global Partner Solutions team.
 
@@ -62,7 +62,7 @@ The verified MXDR solution status is the first engineering verification of its k
 
 #### Partner Journey
 
-![MXDR Verified Solution Journey]({{ site.baseurl }}/assets/msa/Screenshot 2024-09-10 160531.png)
+<img src="{{ site.baseurl }}/assets/msa/Screenshot 2024-09-10 160531.png" alt="MXDR Verified Solution Journey" width="300">
 
 <div> </div>
 
@@ -74,10 +74,10 @@ The Microsoft Intelligent Security Association (MISA) is Microsoft’s premiere 
 
 | **Category** | **Benefits** |
 |--------------|--------------|
-| **Business benefits** | - Teams channel for members only<br>- Monthly office hours for updates, insights & Q&A<br>- Opportunity to participate in member-to-member networking<br>- Opportunity to nominate and vote for the winners of the annual Microsoft Security Excellence awards<br>- Access to the MISA LinkedIn Security Group |
-| **Technical benefits** | - Invitation to technical workshops led by product team(s)<br>- Consideration for invitation to product roadmap<br>- Ability to request solution support for building integrations<br>- Ability to request a Microsoft technical expert to present at member events, workshops, and webinars<br>- Microsoft Security Certification exam vouchers |
-| **Marketing benefits** | - Designated MISA badge for member marketing material and event signage<br>- Placement in the MISA member catalog linked to solution(s) in Microsoft Commercial Marketplace<br>- Co-branded marketing templates<br>- Access to Marketplace Rewards benefits<br>- Win wires to help us promote your solution and consideration for further MISA opportunities<br>- Inclusion in field educational materials to Microsoft sales teams & reseller partners<br>- Consideration for speaking/demo opportunities at events<br>- Consideration for dedicated co-marketing investments |
+| **Business** | Teams channel<br>Monthly office hours<br>Member networking<br>Vote for Security Excellence awards<br>MISA LinkedIn Group |
+| **Technical** | Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers |
+| **Marketing** | MISA badge<br>Member catalog placement<br>Co-branded templates<br>Marketplace Rewards<br>Win wires<br>Field educational materials<br>Speaking/demo opportunities<br>Co-marketing investments |
 
 #### Partner Journey
 
-![Cybersecurity Reference Architecture]({{ site.baseurl }}/assets/msa/MISA Partner Journey.png)
+<img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="300">
