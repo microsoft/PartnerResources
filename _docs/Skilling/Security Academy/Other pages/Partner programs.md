@@ -10,28 +10,28 @@ tags:
 - microsoft security academy
 ---
 
-## Partner Programs
+## Microsoft Security Academy
 
-<div> </div>
+### Are you interested in our Partner Programs?
 
 ### Cybersecurity Investment (CSI)
 
 The Cybersecurity Investment is a partner investment initiative that is designed to accelerate M365 security sales and Security ACR consumption through go-to market motions with customers. The goal is to provide partners with pre-sales assets, resources, and incentives to drive Microsoft Security products first while continuing to build and position their own managed and deployment services on top of the Microsoft portfolio.
 
-#### Cybersecurity Investment (CSI) | Overview
+#### Overview
 
-| **Program** | **Description** |
+| **Steps** | **Details** |
 |-------------|------------------|
-| **Reward & Accelerate** | **Build Pipeline**: Pre-sales efforts that drive joint customers to Microsoft Security adoption |
-| **Grow** | **Deliver**: Pre-sales activities, Technical advisory, Enhanced profitability |
-| **Differentiate** | **Win deals**: Proactively influence Microsoft Security sales, Deliver impact on sales and managed services |
+| **Reward & Accelerate** | Pre-sales efforts that build pipeline and drive joint customers to Microsoft Security adoption |
+| **Grow** | Pre-sales activities, Technical advisory, etc. |
+| **Differentiate** | Win deals and proactively influence Microsoft Security sales, deliver impact on sales and managed services |
 
 #### Cybersecurity Investment (CSI) | Initiative Benefits
 
 - Pre-sales incentives
 - Sales advisory incentives
-- Access to additional GTM motions (e.g., qualification for MISA and MXDR verification)
-- Regular Updates
+- Access to additional GTM motions (e.g., qualification for MXDR verification and MISA)
+- Regular updates
 - Fast Track Security Engagement (e.g., receive referrals for accounts needing security deployment and usage)
 - Dedicated readiness support (e.g., materials to facilitate pre-sales)
 
@@ -44,16 +44,15 @@ The following specializations are required for eligibility to participate in Cyb
 - Threat Protection Specialization OR
 - Information Protection Specialization OR
 - Identity and Access Management Specialization + Any other Security Specialization OR
-- Hybrid Cloud Security Specialization + Any other Security Specialization
+- Hybrid Cloud Security Specialization + any other Security Specialization
 
 ##### Partner MUST:
 
 - Execute at least 12 pre-sales activities throughout Microsoft FY25 (July 1, 2024 – June 30, 2025)
-  - *6 completed pre-sales engagements are required in the first 6 months*
+  > *6 completed pre-sales engagements are required in the first 6 months*
 - Achieve a Milestone 1 to Milestone 2 conversion ratio of 15% or higher for Microsoft FY25
-  - *The conversion ratio will reflect total number of M1’s completed compared to total number of M2’s*
+  > *The conversion ratio will reflect total number of M1’s completed compared to total number of M2’s*
 
-<div> </div>
 
 ### Microsoft MXDR Verified Solution
 
