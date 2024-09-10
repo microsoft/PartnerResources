@@ -2,7 +2,7 @@
 layout: page
 title: Onboard 
 description: How to Onboard onto your Partner Journey
-updated: 2024-09-06
+updated: 2024-09-10
 permalink: /skilling/partner-onboarding-academy/onboard
 showbreadcrumb: true
 ---
@@ -28,6 +28,7 @@ The following steps will help you onboard your Partner Onboarding journey:
 1. **[Complete Business Profile](https://learn.microsoft.com/en-us/partner-center/create-a-marketing-profile)**
 1. **[Add Publishers in the Commercial Marketplace](https://learn.microsoft.com/en-us/partner-center/add-publishers)** if you enrolled in the Commercial Marketplace program
 1. Active Resources to Grow Business **(OPTIONAL)** - While this can be done later in your partner journey, enrolling in these programs will help you in the future.
+
 - **[Partner Success Core](https://learn.microsoft.com/en-us/partner-center/membership/partner-success-core-benefits)** or **[Partner Success Expanded](https://learn.microsoft.com/en-us/partner-center/membership/partner-success-expanded-benefits)** benefits for **Services** and **Channel** partners: Software, support, and benefits for businesses that want to start, build, and grow their Microsoft practice.
   - Follow the steps to [purchase Partner Success Core](https://learn.microsoft.com/en-us/partner-center/membership/partner-success-core-benefits#purchase-partner-success-core-benefits) or [purchase Partner Success Expanded](https://learn.microsoft.com/en-us/partner-center/membership/partner-success-expanded-benefits#purchase-partner-success-expanded-benefits) benefits.
   - **[Meet Criteria for Solutions Partner Designation](https://learn.microsoft.com/en-us/partner-center/membership/introduction-to-pcs)**
@@ -37,7 +38,7 @@ The following steps will help you onboard your Partner Onboarding journey:
   - Follow the steps to [purchase ISV Success Build and Publish](https://learn.microsoft.com/en-us/partner-center/membership/isv-success#enrollment) benefits
   - **[Meet Criteria for Solutions Partner with Certified Software](https://learn.microsoft.com/en-us/partner-center/referrals/solutions-partner-certified-software-designations-benefits)**
     - Certified Software validates the capability of your solution, increases discoverability with Microsoft customers and sellers, and unlocks go-to-market, sales, and marketing benefits.
-    
+
 - **[Learn about other benefits in Partner Center](https://learn.microsoft.com/en-us/partner-center/benefits/manage-your-partner-network-benefits):** Azure Credits, Cloud Services, Software Keys, Technical consultations, Developer Tools, Marketing Benefits & Logo Builder.
 
 ### Next Steps
