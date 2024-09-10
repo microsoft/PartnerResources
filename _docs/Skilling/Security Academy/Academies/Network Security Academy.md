@@ -54,7 +54,7 @@ Explore Azure Network Security videos with demos delivered directly to partners,
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/EIvFECzyAkU"><img src="https://img.youtube.com/vi/EIvFECzyAkU/maxresdefault.jpg" alt="Azure DDoS Protection for SecOps Deep Dive" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/EIvFECzyAkU"><b>Azure DDoS Protection for SecOps Deep Dive</b></a><br><br>Explore Azure DDoS Protection for Security Operations (SecOps) and how you can leverage Azure DDoS Protection telemetry and logs to identify the DDoS attacks. Through simulated attack scenarios, you'll learn how to view attack details, recognize malicious traffic, and use queries to enhance your organization's resilience against DDoS threats.</td>
+    <td><a href="https://youtu.be/EIvFECzyAkU"><b>Azure DDoS Protection for SecOps Deep Dive</b></a><br><br>Discover how Azure DDoS Protection can help SecOps teams identify DDoS attacks using telemetry and logs. Through simulated attack scenarios, you'll learn how to view attack details, recognize malicious traffic, and leverage queries.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/xLWuLGi52Lg"><img src="https://img.youtube.com/vi/xLWuLGi52Lg/maxresdefault.jpg" alt="Azure Firewall Monitoring, Management, & Troubleshooting" width="400" height="400"></a></td>
