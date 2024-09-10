@@ -78,7 +78,6 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Microsoft Defender for Cloud | Defender for Servers                   | SEP 10             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender XDR | New ways for security teams to protect OT    | SEP 11             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Azure Network Security | Introducing DDoS Vulnerability Management    | SEP 17             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview | Microsoft Purview eDiscovery Modern UX            | SEP 18             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
