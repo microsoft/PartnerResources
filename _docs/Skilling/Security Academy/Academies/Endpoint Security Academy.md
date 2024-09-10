@@ -22,7 +22,7 @@ Explore Microsoft Defender for Endpoint and Microsoft Defender for IoT videos w
 <table>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/PfLww62IeyE"><img src="https://img.youtube.com/vi/PfLww62IeyE/maxresdefault.jpg" alt="Dive into Industry-leading EDR with Microsoft Defender for Endpoint" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/PfLww62IeyE"><b>Dive into Industry-leading EDR with Microsoft Defender for Endpoint</b></a><br><br>Want to prevent ransomware and nation-state attacks? In under two hours, learn how to stop these threats with industry-leading antimalware, vulnerability management, attack surface reduction, device-based conditional access, and more.</td>
+    <td><a href="https://youtu.be/PfLww62IeyE"><b>Dive into Industry-leading EDR with Microsoft Defender for Endpoint</b></a><br><br>Want to prevent ransomware and nation-state attacks? In under two hours, learn how to stop these threats with industry-leading antimalware, vulnerability management, attack surface reduction, device-based conditional access, and more!</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/iwEAHiN6BOI"><img src="https://img.youtube.com/vi/iwEAHiN6BOI/maxresdefault.jpg" alt="Successful Deployment of Microsoft Defender for IoT" width="400" height="400"></a></td>
@@ -30,7 +30,7 @@ Explore Microsoft Defender for Endpoint and Microsoft Defender for IoT videos w
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/1wBIO2g7vcM"><img src="https://img.youtube.com/vi/1wBIO2g7vcM/maxresdefault.jpg" alt="OT/IoT Enabled SOC with Microsoft Sentinel and Microsoft Defender for IoT" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/1wBIO2g7vcM"><b>OT/IoT Enabled SOC with Microsoft Sentinel and Microsoft Defender for IoT</b></a><br><br>Cyberattacks on OT/IoT are rising. Explore the security challenges of IoT/OT attacks and how it impacts managing SecOps in today’s modern SOC.</td>
+    <td><a href="https://youtu.be/1wBIO2g7vcM"><b>OT/IoT Enabled SOC with Microsoft Sentinel and Microsoft Defender for IoT</b></a><br><br>Cyberattacks against OT/IoT are rising. Explore the security challenges of IoT/OT attacks and how it impacts SecOps in today’s modern SOC.</td>
  </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/-j9qj-JfN98"><img src="https://img.youtube.com/vi/-j9qj-JfN98/maxresdefault.jpg" alt="All About Microsoft Defender for IoT" width="400" height="400"></a></td>
