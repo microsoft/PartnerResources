@@ -15,6 +15,10 @@ tags:
 # Microsoft Sentinel Resources
 Below you will find content to assist in skilling on Microsoft Sentinel. Content is organized by increasing levels of complexity (Fundamentals, Associate) followed by other associated critical resources.
 
+
+<div>&nbsp;</div>
+
+
 ## September 2024 Update📰
 
 * **NEW:** [Hunting with Microsoft Graph activity logs](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-with-microsoft-graph-activity-logs/ba-p/4234632) -- Microsoft Graph is a unified REST API endpoint that  provides access to a suite of services including Microsoft 365, Enterprise Mobility + Security, and Windows
