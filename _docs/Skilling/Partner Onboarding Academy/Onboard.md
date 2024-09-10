@@ -29,6 +29,7 @@ The following steps will help you onboard your Partner Onboarding journey:
 1. **[Add Publishers in the Commercial Marketplace](https://learn.microsoft.com/en-us/partner-center/add-publishers)** if you enrolled in the Commercial Marketplace program
 1. Active Resources to Grow Business **(OPTIONAL)** - While this can be done later in your partner journey, enrolling in these programs will help you in the future.
 
+
 - **[Partner Success Core](https://learn.microsoft.com/en-us/partner-center/membership/partner-success-core-benefits)** or **[Partner Success Expanded](https://learn.microsoft.com/en-us/partner-center/membership/partner-success-expanded-benefits)** benefits for **Services** and **Channel** partners: Software, support, and benefits for businesses that want to start, build, and grow their Microsoft practice.
   - Follow the steps to [purchase Partner Success Core](https://learn.microsoft.com/en-us/partner-center/membership/partner-success-core-benefits#purchase-partner-success-core-benefits) or [purchase Partner Success Expanded](https://learn.microsoft.com/en-us/partner-center/membership/partner-success-expanded-benefits#purchase-partner-success-expanded-benefits) benefits.
   - **[Meet Criteria for Solutions Partner Designation](https://learn.microsoft.com/en-us/partner-center/membership/introduction-to-pcs)**
