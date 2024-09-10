@@ -62,7 +62,7 @@ The verified MXDR solution status is the first engineering verification of its k
 
 #### Partner Journey
 
-<img src="{{ site.baseurl }}/assets/msa/Screenshot 2024-09-10 160531.png" alt="MXDR Verified Solution Journey" width="300">
+<img src="{{ site.baseurl }}/assets/msa/Screenshot 2024-09-10 160531.png" alt="MXDR Verified Solution Journey" width="600">
 
 <div> </div>
 
@@ -74,10 +74,10 @@ The Microsoft Intelligent Security Association (MISA) is Microsoft’s premiere 
 
 | **Category** | **Benefits** |
 |--------------|--------------|
-| **Business** | Teams channel<br>Monthly office hours<br>Member networking<br>Vote for Security Excellence awards<br>MISA LinkedIn Group |
-| **Technical** | Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers |
-| **Marketing** | MISA badge<br>Member catalog placement<br>Co-branded templates<br>Marketplace Rewards<br>Win wires<br>Field educational materials<br>Speaking/demo opportunities<br>Co-marketing investments |
+| **Business** | <span style="font-size: 1.2em;">Teams channel<br>Monthly office hours<br>Member networking<br>Vote for Security Excellence awards<br>MISA LinkedIn Group</span> |
+| **Technical** | <span style="font-size: 1.2em;">Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers</span> |
+| **Marketing** | <span style="font-size: 1.2em;">MISA badge<br>Member catalog placement<br>Co-branded templates<br>Marketplace Rewards<br>Win wires<br>Field educational materials<br>Speaking/demo opportunities<br>Co-marketing investments</span> |
 
 #### Partner Journey
 
-<img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="300">
+<img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="600">
