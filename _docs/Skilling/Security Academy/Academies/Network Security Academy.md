@@ -62,5 +62,5 @@ Explore Azure Network Security videos with demos delivered directly to partners,
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/tLdr-dfXsP4"><img src="https://img.youtube.com/vi/tLdr-dfXsP4/maxresdefault.jpg" alt="Azure Firewall Premium’s Intrusion Detection & Prevention System (IDPS)" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/tLdr-dfXsP4"><b>Azure Firewall Premium’s Intrusion Detection & Prevention System (IDPS)</b></a><br><br>Explore Azure Firewall Premium’s powerful capabilities, such as TLS Inspection, URL Filtering, and Web Categories. Learn about Azure Firewall’s Intrusion Detection & Prevention System (IDPS), policies, insights, and analytics, followed by a comprehensive demo.</td>
+    <td><a href="https://youtu.be/tLdr-dfXsP4"><b>Azure Firewall Premium’s Intrusion Detection & Prevention System (IDPS)</b></a><br><br>Explore Azure Firewall Premium’s powerful capabilities, such as TLS Inspection, URL Filtering, and Web Categories. Learn about Azure Firewall’s Intrusion Detection & Prevention System (IDPS), policies, insights, and analytics, with a comprehensive demo.</td>
   </tr>
