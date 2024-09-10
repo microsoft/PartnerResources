@@ -14,9 +14,9 @@ showbreadcrumb: true
     <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="max-width: 100px; height: auto; margin-bottom: 20px;">
 </div>
 
-
-> The Security Academy was recently updated!🎉
-
+<div style="font-size: 1.5em; font-weight: bold;">
+    > The Security Academy was recently updated!🎉
+</div>
 
 <h4>Welcome to the Microsoft Security Academy, your gateway to comprehensive cybersecurity training and resources.</h4>
 
