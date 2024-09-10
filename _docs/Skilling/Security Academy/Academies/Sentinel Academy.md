@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microsoft Sentinel
-description: Microsoft Sentinel.
+description: Microsoft Sentinel
 permalink: /skilling/microsoft-security-academy/sentinel-academy
 updated: 2024-08-30
 showbreadcrumb: true

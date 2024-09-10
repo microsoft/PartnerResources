@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microsoft Defender XDR
-description: Microsoft Defender XDR.
+description: Microsoft Defender XDR
 permalink: /skilling/microsoft-security-academy/dxdr-academy
 updated: 2024-08-30
 showbreadcrumb: true
@@ -26,7 +26,7 @@ Explore Microsoft Defender XDR videos with demos delivered directly to partners,
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/pvT2ndzCik8"><img src="https://img.youtube.com/vi/9kmiKoau-Ek/maxresdefault.jpg" alt="ITDR Detection" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/pvT2ndzCik8"><b>ITDR Detection</b></a><br><br>Learn how Microsoft can protect your identity estate with holistic detection capabilities for advanced identity attacks, whether on-prem, hybrid, or in the cloud.</td>
+    <td><a href="https://youtu.be/pvT2ndzCik8"><b>ITDR Detection</b></a><br><br>Learn how Microsoft can protect your identity environments with holistic detection capabilities for advanced identity attacks, whether on-prem, hybrid, or in the cloud.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/DnQ_nrVT7FM"><img src="https://img.youtube.com/vi/9kmiKoau-Ek/maxresdefault.jpg" alt="ITDR Investigation and Hunting" width="400" height="400"></a></td>

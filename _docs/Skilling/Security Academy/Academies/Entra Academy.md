@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Microsoft Entra
-description: Microsoft Entra.
+description: Microsoft Entra
 permalink: /skilling/microsoft-security-academy/entra-academy
-updated: 2024-08-30
+updated: 2024-09-10
 showbreadcrumb: true
 Tags:
 - academy content
@@ -34,5 +34,5 @@ Explore Microsoft Entra videos with demos delivered directly to partners, releva
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/YifVDr-ARRQ"><img src="https://img.youtube.com/vi/YifVDr-ARRQ/maxresdefault.jpg" alt="All Things Microsoft Entra Verified ID" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/YifVDr-ARRQ"><b>All Things Microsoft Entra Verified ID</b></a><br><br>Discover the benefits of using Entra Verified ID and learn how to setup and configure the platform, including how to customize verification workflows, manage user profiles, and monitor verification activities.</td>
+    <td><a href="https://youtu.be/YifVDr-ARRQ"><b>All Things Microsoft Entra Verified ID</b></a><br><br>Discover the benefits of using Entra Verified ID and learn how to set up and configure the platform, including how to customize verification workflows, manage user profiles, and monitor verification activities.</td>
   </tr>
