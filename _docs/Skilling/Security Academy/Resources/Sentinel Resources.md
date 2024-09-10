@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2024-06-10
+updated: 2024-09-10
 permalink: /security/microsoft-security-academy/microsoft-sentinel
 tags:
 - security
@@ -15,10 +15,16 @@ tags:
 # Microsoft Sentinel Resources
 Below you will find content to assist in skilling on Microsoft Sentinel. Content is organized by increasing levels of complexity (Fundamentals, Associate) followed by other associated critical resources.
 
-## June 2024 Update📰
 
-* **NEW:** [Hunting for MFA manipulations in Entra ID tenants using KQL)](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-for-mfa-manipulations-in-entra-id-tenants-using-kql/ba-p/4154039?s=09&utm_source=substack&utm_medium=email) -- Unrelated to Sentinel, but learn how to use KQL to detect and investigate modifications to MFA properties in Microsoft Entra audit logs
-* **NEW:** [Migrate to Microsoft Sentinel with the new SIEM Migration Experience (Preview)](https://learn.microsoft.com/en-us/azure/sentinel/siem-migration)
+<div>&nbsp;</div>
+
+
+## September 2024 Update📰
+
+* **NEW:** [Hunting with Microsoft Graph activity logs](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-with-microsoft-graph-activity-logs/ba-p/4234632) -- Microsoft Graph is a unified REST API endpoint that  provides access to a suite of services including Microsoft 365, Enterprise Mobility + Security, and Windows
+* **NEW:** [Announcing Microsoft Sentinel All-in-One v2](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-microsoft-sentinel-all-in-one-v2/ba-p/3800037) -- Microsoft Sentinel All-in-One helps customers and partners quickly deploy a ready-to-use Microsoft Sentinel environment
+* [Hunting for MFA manipulations in Entra ID tenants using KQL)](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-for-mfa-manipulations-in-entra-id-tenants-using-kql/ba-p/4154039?s=09&utm_source=substack&utm_medium=email) -- Unrelated to Sentinel, but learn how to use KQL to detect and investigate modifications to MFA properties in Microsoft Entra audit logs
+* [Migrate to Microsoft Sentinel with the new SIEM Migration Experience (Preview)](https://learn.microsoft.com/en-us/azure/sentinel/siem-migration)
 * [Data Connectors: MMA vs AMA](https://www.linkedin.com/pulse/cef-data-connector-mma-vs-ama-debac-manikandan-fo36c/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 * [Data Connectors: AWS vs AWS S3](https://www.linkedin.com/pulse/data-connector-aws-vs-s3-debac-manikandan-vfhcc%3FtrackingId=CUG5RbZTglInWcBaHIvgYA%253D%253D/?trackingId=CUG5RbZTglInWcBaHIvgYA%3D%3D&utm_source=substack&utm_medium=email)
 * [Before and After Archive Tier](https://www.linkedin.com/pulse/before-after-archive-tier-debac-manikandan-zxwuc/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
@@ -37,8 +43,6 @@ Use these steps to build a demo instance; free for one month
 1. **[Microsoft Sentinel All In One](https://aka.ms/SentinelAllInOne)** -> Accelerate Microsoft Sentinel deployment and configuration with just a few clicks.
 2. [**GitHub:** Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
 3. [Connect Microsoft Entra to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
-4. [**GitHub:** Possible Additional Data](https://github.com/OTRF/Microsoft-Sentinel2Go)
-   * Microsoft Sentinel 2-Go is an open-source project developed to expedite the deployment of a Microsoft Sentinel lab along with resources
 
 #### Ninja Trainings
 * [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
@@ -84,7 +88,6 @@ Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some
 
 #### SOAR
 * **Community:** [SOAR Capabilities in Microsoft Sentinel](https://mccybersec.github.io/microsoft%20sentinel/SOAR-Capabilities-with-Microsoft-Sentinel/?utm_source=substack&utm_medium=email)
-* [**MSFT Blog:** New Playbooks with tasks for BEC, Ransomware, and Phishing investigations](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-tasks-management-to-protect-your-organization-against/ba-p/3884516?utm_source=substack&utm_medium=email)
 * **[STAT](https://aka.ms/mstat)** -- The Microsoft Sentinel Triage Assistant (STAT) uses modular playbooks and a Logic App Custom Connector to simplify the process through reusable content
 * [Sample Integrations with Azure OpenAI](https://myfabersecurity.com/2023/07/29/initial-assessment-connecting-the-dots-with-aoai/)
 
@@ -93,7 +96,6 @@ Microsoft Sentinel and Log Analytics offer ingestion & 90-day retention of *some
 
 #### MDTI
 * **Community:** [Continuously import Threat Intelligence (TI) Indicators in Microsoft Sentinel](https://mccybersec.github.io/microsoft%20sentinel/threat-intelligence-upload/?utm_source=substack&utm_medium=email)
-* [**MSFT Blog:** Performing a Successful Proof of Concept (PoC)](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/performing-a-successful-proof-of-concept-poc/ba-p/3742412)
 
 #### Notebooks
 * [Get Started with Jupyter Notebooks & MSTICPy in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/notebook-get-started)
