@@ -12,7 +12,7 @@ tags:
 
 ## Microsoft Security Academy
 
-### Are you interested in partner programs?🤝
+### Are you interested in [partner programs](https://www.microsoft.com/en-us/security/business/partnerships)?🤝
 
 
 <div>&nbsp;</div>
@@ -71,27 +71,8 @@ The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.
 |--------------|--------------|
 | **Business** | Teams channel<br>Monthly office hours<br>Member networking<br>Vote for Security Excellence awards<br>MISA LinkedIn Group |
 | **Technical** | Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers |
-| **Marketing** | MISA badge<br>Member catalog placement<br>Co-branded templates<br>Marketplace Rewards<br>Win wires<br>Field educational materials<br>Speaking/demo opportunities<br>Co-marketing investments |
+| **Marketing** | MISA badge<br>**[Member catalog](https://www.microsoft.com/misapartnercatalog)**<br>Co-branded templates<br>Marketplace Rewards<br>Win Wires<br>Field materials<br>Speaking/demo opportunities<br>Co-marketing investments |
 
 #### Partner Journey
 
-<img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="700">
-
-#### Benefits and Partner Journey
-
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    #### Benefits
-
-    | **Category** | **Benefits** |
-    |--------------|--------------|
-    | **Business** | Teams channel<br>Monthly office hours<br>Member networking<br>Vote for Security Excellence awards<br>MISA LinkedIn Group |
-    | **Technical** | Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers |
-    | **Marketing** | MISA badge<br>Member catalog placement<br>Co-branded templates<br>Marketplace Rewards<br>Win wires<br>Field educational materials<br>Speaking/demo opportunities<br>Co-marketing investments |
-  </div>
-  <div style="flex: 1; padding-left: 20px;">
-    #### Partner Journey
-
-    <img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="700">
-  </div>
-</div>
+<img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="900">
