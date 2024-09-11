@@ -76,11 +76,15 @@ The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.
 
 #### Benefits
 
+<div style="width: 100%;">
+
 | **Category** | **Benefits** |
 |--------------|--------------|
-| **Business** | !Teams Teams channel<br>!Clock Monthly office hours<br>!Networking Member networking<br>!Award Vote for Security Excellence awards<br>!LinkedIn MISA LinkedIn Group |
-| **Technical** | !Workshop Technical workshops<br>!Roadmap Product roadmap invitations<br>!Support Integration support<br>!Expert Microsoft expert presentations<br>!Certification Certification exam vouchers |
-| **Marketing** | !Badge MISA badge<br>!Catalog Member catalog<br>!Template Co-branded templates<br>!Rewards Marketplace Rewards<br>!Win Win Wires<br>!Materials Field materials<br>!Speaking Speaking/demo opportunities<br>!Marketing Co-marketing investments |
+| **Business** | Teams channel<br>Monthly office hours<br>Member networking<br>Vote for Security Excellence awards<br>MISA LinkedIn Group |
+| **Technical** | Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers |
+| **Marketing** | MISA badge<br>**Member catalog**<br>Co-branded templates<br>Marketplace Rewards<br>Win Wires<br>Field materials<br>Speaking/demo opportunities<br>Co-marketing investments |
+
+</div>
 
 #### Partner Journey
 
