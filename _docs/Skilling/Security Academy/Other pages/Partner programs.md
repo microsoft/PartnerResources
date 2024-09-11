@@ -20,14 +20,14 @@ tags:
 
 ## Cybersecurity Investment (CSI)
 
-The **Cybersecurity Investment** is a partner investment initiative that is designed to accelerate M365 security sales and Security ACR consumption through go-to-market motions with customers. The goal is to provide partners with pre-sales assets, resources, and incentives to drive Microsoft Security products first while continuing to build and position their own managed and deployment services on top of the Microsoft portfolio.
+The Cybersecurity Investment (CSI) is a partner investment initiative that is designed to accelerate M365 security sales and Security ACR consumption through go-to-market motions with customers. The goal is to provide partners with pre-sales assets, resources, and incentives to drive Microsoft Security products first while continuing to build and position their own managed and deployment services on top of the Microsoft portfolio.
 
 #### Benefits
 
 - Pre-sales incentives
 - Sales advisory incentives
 - Access to additional GTM motions ***(qualification for MXDR verification and MISA)***
-- Fast Track Security Engagement (receive referrals for accounts needing security deployment and usage)
+- Fast Track Security Engagement (receive account referrals)
 - Dedicated readiness support (materials to facilitate pre-sales)
 
 #### Eligibility
@@ -38,8 +38,8 @@ The following **[Security Specializations](/PartnerResources/skilling/microsoft-
 
 - Threat Protection Specialization OR
 - Information Protection Specialization OR
-- Cloud Security Specialization + any other Security Specialization
-- Identity and Access Management Specialization + any other Security Specialization OR
+- Cloud Security Specialization + any other Security Specialization OR
+- Identity and Access Management Specialization + any other Security Specialization
 
 ##### Partners must:
 
