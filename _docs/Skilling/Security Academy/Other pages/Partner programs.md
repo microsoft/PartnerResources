@@ -78,6 +78,14 @@ The Microsoft Intelligent Security Association (MISA) is Microsoft’s premiere 
 | **Technical** | <span style="font-size: 1.2em;">Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers</span> |
 | **Marketing** | <span style="font-size: 1.2em;">MISA badge<br>Member catalog placement<br>Co-branded templates<br>Marketplace Rewards<br>Win wires<br>Field educational materials<br>Speaking/demo opportunities<br>Co-marketing investments</span> |
 
+#### Member Benefits
+
+| **Category** | **Benefits** |
+|--------------|--------------|
+| **Business benefits** | Teams channel for members only<br>Monthly office hours for updates, insights & Q&A<br>Opportunity to participate in member-to-member networking<br>Opportunity to nominate and vote for the winners of the annual Microsoft Security Excellence awards<br>Access to the MISA LinkedIn Security Group |
+| **Technical benefits** | Invitation to technical workshops led by product team(s)<br>Consideration for invitation to product roadmap<br>Ability to request solution support for building integrations<br>Ability to request a Microsoft technical expert to present at member events, workshops, and webinars<br>Microsoft Security Certification exam vouchers |
+| **Marketing benefits** | Designated MISA badge for member marketing material and event signage<br>Placement in the MISA member catalog linked to solution(s) in Microsoft Commercial Marketplace<br>Co-branded marketing templates<br>Access to Marketplace Rewards benefits<br>Win wires to help us promote your solution and consideration for further MISA opportunities<br>Inclusion in field educational materials to Microsoft sales teams & reseller partners<br>Consideration for speaking/demo opportunities at events<br>Consideration for dedicated co-marketing investments |
+
 #### Partner Journey
 
 <img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="600">
