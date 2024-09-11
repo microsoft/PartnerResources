@@ -12,7 +12,11 @@ tags:
 
 ## Microsoft Security Academy
 
-### Are you interested in partner programs?
+### Are you interested in partner programs?🤝
+
+
+<div>&nbsp;</div>
+
 
 ## Cybersecurity Investment (CSI)
 
@@ -22,28 +26,27 @@ The Cybersecurity Investment is a partner investment initiative that is designed
 
 - Pre-sales incentives
 - Sales advisory incentives
-- Access to additional GTM motions (e.g., qualification for MXDR verification and MISA)
-- Regular updates
+- Access to additional GTM motions ***(e.g., qualification for MXDR verification and MISA)***
 - Fast Track Security Engagement (e.g., receive referrals for accounts needing security deployment and usage)
 - Dedicated readiness support (e.g., materials to facilitate pre-sales)
 
 #### Eligibility
 
-Partners must be nominated for CSI through the Global Partner Solutions team.
+***Partners must be nominated for CSI through the Global Partner Solutions team.**
 
-The following specializations are required for eligibility to participate in Cybersecurity Investment (CSI):
+The following specializations are **required** for eligibility to participate in Cybersecurity Investment (CSI):
 
 - Threat Protection Specialization OR
 - Information Protection Specialization OR
-- Identity and Access Management Specialization + Any other Security Specialization OR
-- Hybrid Cloud Security Specialization + any other Security Specialization
+- Identity and Access Management Specialization + any other Security Specialization OR
+- Cloud Security Specialization + any other Security Specialization
 
 ##### Partner MUST:
 
-- Execute at least 12 pre-sales activities throughout Microsoft FY25 (July 1, 2024 – June 30, 2025)
-  > *6 completed pre-sales engagements are required in the first 6 months*
+- Execute at least 12 pre-sales activities throughout Microsoft FY25 *(July 1, 2024 – June 30, 2025)*
+  - *6 completed pre-sales engagements are required in the first 6 months*
 - Achieve a Milestone 1 to Milestone 2 conversion ratio of 15% or higher for Microsoft FY25
-  > *The conversion ratio will reflect total number of M1’s completed compared to total number of M2’s*
+  - *The conversion ratio will reflect total number of M1’s completed compared to total number of M2’s*
 
 
 ## Microsoft MXDR Verified Solution
@@ -54,13 +57,13 @@ The verified MXDR solution status is the first engineering verification of its k
 
 #### Partner Journey
 
-<img src="{{ site.baseurl }}/assets/msa/Screenshot 2024-09-10 160531.png" alt="MXDR Verified Solution Journey" width="700">
+<img src="{{ site.baseurl }}/assets/msa/Screenshot 2024-09-10 160531.png" alt="MXDR Verified Solution Journey" width="800">
 
 <div> </div>
 
 ## Microsoft Intelligent Security Association (MISA)
 
-The Microsoft Intelligent Security Association (MISA) is Microsoft’s premiere Security Partner association comprised of independent software vendors (ISV) and managed security service providers (MSSP) that have integrated their solutions with Microsoft’s security products.
+The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.com/en-us/security/business/intelligent-security-association)** is Microsoft’s premiere Security Partner association comprised of independent software vendors (ISV) and managed security service providers (MSSP) that have integrated their solutions with Microsoft’s security products.
 
 #### Benefits
 
@@ -73,3 +76,22 @@ The Microsoft Intelligent Security Association (MISA) is Microsoft’s premiere 
 #### Partner Journey
 
 <img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="700">
+
+#### Benefits and Partner Journey
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    #### Benefits
+
+    | **Category** | **Benefits** |
+    |--------------|--------------|
+    | **Business** | Teams channel<br>Monthly office hours<br>Member networking<br>Vote for Security Excellence awards<br>MISA LinkedIn Group |
+    | **Technical** | Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers |
+    | **Marketing** | MISA badge<br>Member catalog placement<br>Co-branded templates<br>Marketplace Rewards<br>Win wires<br>Field educational materials<br>Speaking/demo opportunities<br>Co-marketing investments |
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    #### Partner Journey
+
+    <img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="700">
+  </div>
+</div>
