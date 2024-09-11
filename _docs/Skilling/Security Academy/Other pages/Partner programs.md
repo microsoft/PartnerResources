@@ -47,6 +47,9 @@ The following **[Security Specializations](/PartnerResources/skilling/microsoft-
 2. Achieve a Milestone 1 to Milestone 2 conversion ratio *(total # of M1’s completed compared to total # of M2’s)* of 15% or higher for Microsoft FY25
 
 
+<div>&nbsp;</div>
+
+
 ## MXDR Verified Solution
 
 Managed Extended Detection and Response (MXDR) extends beyond traditional Managed Detection and Response (MDR) to include Identity Protection, Cloud Apps, email, and SIEM/SOAR.
@@ -57,7 +60,9 @@ The verified MXDR solution status is the first engineering verification of its k
 
 <img src="{{ site.baseurl }}/assets/msa/Screenshot 2024-09-10 160531.png" alt="MXDR Verified Solution Journey" width="800">
 
-<div> </div>
+
+<div>&nbsp;</div>
+
 
 ## Microsoft Intelligent Security Association (MISA)
 
