@@ -74,6 +74,11 @@ The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.
 | **Technical** | Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers |
 | **Marketing** | MISA badge<br>**[Member catalog](https://www.microsoft.com/misapartnercatalog)**<br>Co-branded templates<br>Marketplace Rewards<br>Win Wires<br>Field materials<br>Speaking/demo opportunities<br>Co-marketing investments |
 
+#### Partner Journey
+
+<img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="900">
+
+
 #### Benefits
 
 <div style="width: 100%;">
@@ -85,7 +90,3 @@ The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.
 | **Marketing** | MISA badge<br>**Member catalog**<br>Co-branded templates<br>Marketplace Rewards<br>Win Wires<br>Field materials<br>Speaking/demo opportunities<br>Co-marketing investments |
 
 </div>
-
-#### Partner Journey
-
-<img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="900">
