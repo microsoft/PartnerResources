@@ -76,15 +76,11 @@ The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.
 
 #### Benefits
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    | **Category** | **Benefits** |
-    |--------------|--------------|
-    | **Business** | !Teams Teams channel<br>!Clock Monthly office hours<br>!Networking Member networking<br>!Award Vote for Security Excellence awards<br>!LinkedIn MISA LinkedIn Group |
-    | **Technical** | !Workshop Technical workshops<br>!Roadmap Product roadmap invitations<br>!Support Integration support<br>!Expert Microsoft expert presentations<br>!Certification Certification exam vouchers |
-    | **Marketing** | !Badge MISA badge<br>!Catalog Member catalog<br>!Template Co-branded templates<br>!Rewards Marketplace Rewards<br>!Win Win Wires<br>!Materials Field materials<br>!Speaking Speaking/demo opportunities<br>!Marketing Co-marketing investments |
-  </div>
-</div>
+| **Category** | **Benefits** |
+|--------------|--------------|
+| **Business** | !Teams Teams channel<br>!Clock Monthly office hours<br>!Networking Member networking<br>!Award Vote for Security Excellence awards<br>!LinkedIn MISA LinkedIn Group |
+| **Technical** | !Workshop Technical workshops<br>!Roadmap Product roadmap invitations<br>!Support Integration support<br>!Expert Microsoft expert presentations<br>!Certification Certification exam vouchers |
+| **Marketing** | !Badge MISA badge<br>!Catalog Member catalog<br>!Template Co-branded templates<br>!Rewards Marketplace Rewards<br>!Win Win Wires<br>!Materials Field materials<br>!Speaking Speaking/demo opportunities<br>!Marketing Co-marketing investments |
 
 #### Partner Journey
 
