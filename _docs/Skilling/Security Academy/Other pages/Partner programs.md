@@ -74,9 +74,9 @@ The Microsoft Intelligent Security Association (MISA) is Microsoft’s premiere 
 
 | **Category** | **Benefits** |
 |--------------|--------------|
-| **Business** | <span style="font-size: 1.2em;">Teams channel<br>Monthly office hours<br>Member networking<br>Vote for Security Excellence awards<br>MISA LinkedIn Group</span> |
-| **Technical** | <span style="font-size: 1.2em;">Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers</span> |
-| **Marketing** | <span style="font-size: 1.2em;">MISA badge<br>Member catalog placement<br>Co-branded templates<br>Marketplace Rewards<br>Win wires<br>Field educational materials<br>Speaking/demo opportunities<br>Co-marketing investments</span> |
+| **Business** | Teams channel<br>Monthly office hours<br>Member networking<br>Vote for Security Excellence awards<br>MISA LinkedIn Group |
+| **Technical** | Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers |
+| **Marketing** | MISA badge<br>Member catalog placement<br>Co-branded templates<br>Marketplace Rewards<br>Win wires<br>Field educational materials<br>Speaking/demo opportunities<br>Co-marketing investments |
 
 #### Member Benefits
 
