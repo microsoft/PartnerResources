@@ -43,11 +43,8 @@ The following **[Security Specializations](/PartnerResources/skilling/microsoft-
 
 ##### Partners must:
 
-1. Execute at least 12 pre-sales activities throughout Microsoft FY25 *(July 1, 2024 – June 30, 2025)*
-  - *6 completed pre-sales engagements are required in the first 6 months*
-
-2. Achieve a Milestone 1 to Milestone 2 conversion ratio of 15% or higher for Microsoft FY25
-  - *The conversion ratio will reflect total number of M1’s completed compared to total number of M2’s*
+1. Execute at least 12 pre-sales activities throughout Microsoft FY25 *(July 1, 2024 – June 30, 2025)* w/ 6 completed pre-sales engagements in the first 6 months
+2. Achieve a Milestone 1 to Milestone 2 conversion ratio *(total # of M1’s completed compared to total # of M2’s)* of 15% or higher for Microsoft FY25
 
 
 ## MXDR Verified Solution
@@ -76,17 +73,4 @@ The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.
 
 #### Partner Journey
 
-<img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="900">
-
-
-#### Benefits
-
-<div style="width: 100%;">
-
-| **Category** | **Benefits** |
-|--------------|--------------|
-| **Business** | Teams channel<br>Monthly office hours<br>Member networking<br>Vote for Security Excellence awards<br>MISA LinkedIn Group |
-| **Technical** | Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers |
-| **Marketing** | MISA badge<br>**Member catalog**<br>Co-branded templates<br>Marketplace Rewards<br>Win Wires<br>Field materials<br>Speaking/demo opportunities<br>Co-marketing investments |
-
-</div>
+<img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="800">
