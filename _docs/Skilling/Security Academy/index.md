@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-09-10
+updated: 2024-09-12
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -46,6 +46,7 @@ showbreadcrumb: true
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/start">Getting Started</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/specializations">Security Specializations</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/certifications">Security Certifications</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/programs">Partner Programs</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security">Copilot for Security Technical Journey & Resources</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa">Copilot for Security Q&A</a></li>
                         <li><a href="/PartnerResources/security/microsoft-security-academy/microsoft-sentinel">Microsoft Sentinel Resources</a></li>
@@ -58,9 +59,9 @@ showbreadcrumb: true
 
 ___
 
-## September 10th, 2024 Update📰
+## September 12th, 2024 Update📰
 
-**Recent Update** (September 10th): **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)** |
+**Recent Update** (September 12th): **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)** & **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**|
 
 A new era of security is here. Read **[Charlie Bell's Security above all else announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/)**.🔍
 
@@ -76,7 +77,6 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Microsoft Defender XDR | New ways for security teams to protect OT    | SEP 11             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Azure Network Security | Introducing DDoS Vulnerability Management    | SEP 17             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview | Microsoft Purview eDiscovery Modern UX            | SEP 18             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Defender for Servers - New FIM Version | SEP 25             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |

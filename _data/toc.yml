@@ -319,6 +319,9 @@
         - title: Certifications
           url: "skilling/microsoft-security-academy/certifications"
           tag: msa
+        - title: Partner Programs
+          url: "skilling/microsoft-security-academy/programs"
+          tag: msa
         - title: Copilot for Security
           url: "skilling/microsoft-security-academy/microsoft-copilot-for-security"
           tag: msa
