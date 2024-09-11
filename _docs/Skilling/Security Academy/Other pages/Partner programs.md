@@ -34,24 +34,25 @@ The **Cybersecurity Investment** is a partner investment initiative that is desi
 
 ***Partners must be nominated for CSI through the Global Partner Solutions team.***
 
-The following specializations are **required** for eligibility to participate in Cybersecurity Investment (CSI):
+The following **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** are **required** for eligibility to participate in Cybersecurity Investment (CSI):
 
 - Threat Protection Specialization OR
 - Information Protection Specialization OR
 - Identity and Access Management Specialization + any other Security Specialization OR
 - Cloud Security Specialization + any other Security Specialization
 
-##### Partner MUST:
+##### Partners must:
 
-- Execute at least 12 pre-sales activities throughout Microsoft FY25 *(July 1, 2024 – June 30, 2025)*
+1. Execute at least 12 pre-sales activities throughout Microsoft FY25 *(July 1, 2024 – June 30, 2025)*
   - *6 completed pre-sales engagements are required in the first 6 months*
-- Achieve a Milestone 1 to Milestone 2 conversion ratio of 15% or higher for Microsoft FY25
+
+2. Achieve a Milestone 1 to Milestone 2 conversion ratio of 15% or higher for Microsoft FY25
   - *The conversion ratio will reflect total number of M1’s completed compared to total number of M2’s*
 
 
-## Microsoft MXDR Verified Solution
+## MXDR Verified Solution
 
-Managed Extended Detection and Response (MXDR) extends beyond traditional Managed Detection and Response (MDR) to include Identity Protection, Cloud Apps, email & collaboration, and SIEM/SOAR.
+Managed Extended Detection and Response (MXDR) extends beyond traditional Managed Detection and Response (MDR) to include Identity Protection, Cloud Apps, email, and SIEM/SOAR.
 
 The verified MXDR solution status is the first engineering verification of its kind for our MSSP partner community. Partners with this elite status have an MXDR solution that meets a high bar of criteria of security managed services across XDR technology, providing 24x7x365 continuous SOC monitoring, incident response, proactive threat hunting, configuration management, and managed SIEM/SOAR offerings.
 
@@ -72,6 +73,18 @@ The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.
 | **Business** | Teams channel<br>Monthly office hours<br>Member networking<br>Vote for Security Excellence awards<br>MISA LinkedIn Group |
 | **Technical** | Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers |
 | **Marketing** | MISA badge<br>**[Member catalog](https://www.microsoft.com/misapartnercatalog)**<br>Co-branded templates<br>Marketplace Rewards<br>Win Wires<br>Field materials<br>Speaking/demo opportunities<br>Co-marketing investments |
+
+#### Benefits
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    | **Category** | **Benefits** |
+    |--------------|--------------|
+    | **Business** | !Teams Teams channel<br>!Clock Monthly office hours<br>!Networking Member networking<br>!Award Vote for Security Excellence awards<br>!LinkedIn MISA LinkedIn Group |
+    | **Technical** | !Workshop Technical workshops<br>!Roadmap Product roadmap invitations<br>!Support Integration support<br>!Expert Microsoft expert presentations<br>!Certification Certification exam vouchers |
+    | **Marketing** | !Badge MISA badge<br>!Catalog Member catalog<br>!Template Co-branded templates<br>!Rewards Marketplace Rewards<br>!Win Win Wires<br>!Materials Field materials<br>!Speaking Speaking/demo opportunities<br>!Marketing Co-marketing investments |
+  </div>
+</div>
 
 #### Partner Journey
 
