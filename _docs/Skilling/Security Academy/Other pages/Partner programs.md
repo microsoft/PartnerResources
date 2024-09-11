@@ -14,17 +14,9 @@ tags:
 
 ### Are you interested in partner programs?
 
-### Cybersecurity Investment (CSI)
+## Cybersecurity Investment (CSI)
 
 The Cybersecurity Investment is a partner investment initiative that is designed to accelerate M365 security sales and Security ACR consumption through go-to market motions with customers. The goal is to provide partners with pre-sales assets, resources, and incentives to drive Microsoft Security products first while continuing to build and position their own managed and deployment services on top of the Microsoft portfolio.
-
-#### Overview
-
-| **Steps** | **Details** |
-|-------------|------------------|
-| **Reward & Accelerate** | Pre-sales efforts that build pipeline and drive joint customers to Microsoft Security adoption |
-| **Grow** | Pre-sales activities, Technical advisory, etc. |
-| **Differentiate** | Win deals and proactively influence Microsoft Security sales, deliver impact on sales and managed services |
 
 #### Benefits
 
@@ -54,7 +46,7 @@ The following specializations are required for eligibility to participate in Cyb
   > *The conversion ratio will reflect total number of M1’s completed compared to total number of M2’s*
 
 
-### Microsoft MXDR Verified Solution
+## Microsoft MXDR Verified Solution
 
 Managed Extended Detection and Response (MXDR) extends beyond traditional Managed Detection and Response (MDR) to include Identity Protection, Cloud Apps, email & collaboration, and SIEM/SOAR.
 
@@ -62,15 +54,15 @@ The verified MXDR solution status is the first engineering verification of its k
 
 #### Partner Journey
 
-<img src="{{ site.baseurl }}/assets/msa/Screenshot 2024-09-10 160531.png" alt="MXDR Verified Solution Journey" width="600">
+<img src="{{ site.baseurl }}/assets/msa/Screenshot 2024-09-10 160531.png" alt="MXDR Verified Solution Journey" width="700">
 
 <div> </div>
 
-### Microsoft Intelligent Security Association (MISA)
+## Microsoft Intelligent Security Association (MISA)
 
 The Microsoft Intelligent Security Association (MISA) is Microsoft’s premiere Security Partner association comprised of independent software vendors (ISV) and managed security service providers (MSSP) that have integrated their solutions with Microsoft’s security products.
 
-#### Member Benefits
+#### Benefits
 
 | **Category** | **Benefits** |
 |--------------|--------------|
@@ -78,14 +70,6 @@ The Microsoft Intelligent Security Association (MISA) is Microsoft’s premiere 
 | **Technical** | Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers |
 | **Marketing** | MISA badge<br>Member catalog placement<br>Co-branded templates<br>Marketplace Rewards<br>Win wires<br>Field educational materials<br>Speaking/demo opportunities<br>Co-marketing investments |
 
-#### Member Benefits
-
-| **Category** | **Benefits** |
-|--------------|--------------|
-| **Business benefits** | Teams channel for members only<br>Monthly office hours for updates, insights & Q&A<br>Opportunity to participate in member-to-member networking<br>Opportunity to nominate and vote for the winners of the annual Microsoft Security Excellence awards<br>Access to the MISA LinkedIn Security Group |
-| **Technical benefits** | Invitation to technical workshops led by product team(s)<br>Consideration for invitation to product roadmap<br>Ability to request solution support for building integrations<br>Ability to request a Microsoft technical expert to present at member events, workshops, and webinars<br>Microsoft Security Certification exam vouchers |
-| **Marketing benefits** | Designated MISA badge for member marketing material and event signage<br>Placement in the MISA member catalog linked to solution(s) in Microsoft Commercial Marketplace<br>Co-branded marketing templates<br>Access to Marketplace Rewards benefits<br>Win wires to help us promote your solution and consideration for further MISA opportunities<br>Inclusion in field educational materials to Microsoft sales teams & reseller partners<br>Consideration for speaking/demo opportunities at events<br>Consideration for dedicated co-marketing investments |
-
 #### Partner Journey
 
-<img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="600">
+<img src="{{ site.baseurl }}/assets/msa/MISA Partner Journey.png" alt="MXDR Verified Solution Journey" width="700">
