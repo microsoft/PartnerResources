@@ -75,7 +75,7 @@ The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.
 |--------------|--------------|
 | **Business** | Teams channel, monthly office hours, member networking, vote for Security Excellence awards, **[MISA LinkedIn Group](https://www.linkedin.com/groups/13707284/)** |
 | **Technical** | Technical workshops, product roadmap invitations, integration support, Microsoft SME presentations, certification exam vouchers |
-| **Marketing** | MISA badge, **[Member catalog](https://www.microsoft.com/misapartnercatalog)**, co-branded templates, Marketplace rewards, Win Wires, Field materials, speaking opportunities, co-marketing investments |
+| **Marketing** | MISA badge, **[Member Catalog](https://www.microsoft.com/misapartnercatalog)**, co-branded templates, Marketplace rewards, Win Wires, Field materials, speaking opportunities, co-marketing investments |
 
 #### Partner Journey
 
