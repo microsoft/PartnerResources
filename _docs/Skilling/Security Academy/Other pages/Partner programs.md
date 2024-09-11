@@ -18,6 +18,20 @@ tags:
 <div>&nbsp;</div>
 
 
+## MXDR Verified Solution
+
+Managed Extended Detection and Response (MXDR) extends beyond traditional Managed Detection and Response (MDR) to include Identity Protection, Cloud Apps, email, and SIEM/SOAR.
+
+The verified MXDR solution status is the first engineering verification of its kind for our MSSP partner community. Partners with this elite status have an MXDR solution that meets a high bar of criteria of security managed services across XDR technology, providing 24x7x365 continuous SOC monitoring, incident response, proactive threat hunting, configuration management, and managed SIEM/SOAR offerings.
+
+#### Partner Journey
+
+<img src="{{ site.baseurl }}/assets/msa/Screenshot 2024-09-10 160531.png" alt="MXDR Verified Solution Journey" width="800">
+
+
+<div>&nbsp;</div>
+
+
 ## Cybersecurity Investment (CSI)
 
 The Cybersecurity Investment (CSI) is a partner investment initiative that is designed to accelerate M365 security sales and Security ACR consumption through go-to-market motions with customers. The goal is to provide partners with pre-sales assets, resources, and incentives to drive Microsoft Security products first while continuing to build and position their own managed and deployment services on top of the Microsoft portfolio.
@@ -50,20 +64,6 @@ The following **[Security Specializations](/PartnerResources/skilling/microsoft-
 <div>&nbsp;</div>
 
 
-## MXDR Verified Solution
-
-Managed Extended Detection and Response (MXDR) extends beyond traditional Managed Detection and Response (MDR) to include Identity Protection, Cloud Apps, email, and SIEM/SOAR.
-
-The verified MXDR solution status is the first engineering verification of its kind for our MSSP partner community. Partners with this elite status have an MXDR solution that meets a high bar of criteria of security managed services across XDR technology, providing 24x7x365 continuous SOC monitoring, incident response, proactive threat hunting, configuration management, and managed SIEM/SOAR offerings.
-
-#### Partner Journey
-
-<img src="{{ site.baseurl }}/assets/msa/Screenshot 2024-09-10 160531.png" alt="MXDR Verified Solution Journey" width="800">
-
-
-<div>&nbsp;</div>
-
-
 ## Microsoft Intelligent Security Association (MISA)
 
 The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.com/en-us/security/business/intelligent-security-association)** is Microsoft’s premiere Security Partner association comprised of independent software vendors (ISV) and managed security service providers (MSSP) that have integrated their solutions with Microsoft’s security products.
@@ -73,7 +73,7 @@ The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.
 | **Category** | **Benefits** |
 |--------------|--------------|
 | **Business** | Teams channel<br>Monthly office hours<br>Member networking<br>Vote for Security Excellence awards<br>MISA LinkedIn Group |
-| **Technical** | Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft expert presentations<br>Certification exam vouchers |
+| **Technical** | Technical workshops<br>Product roadmap invitations<br>Integration support<br>Microsoft SME presentations<br>Certification exam vouchers |
 | **Marketing** | MISA badge<br>**[Member catalog](https://www.microsoft.com/misapartnercatalog)**<br>Co-branded templates<br>Marketplace Rewards<br>Win Wires<br>Field materials<br>Speaking/demo opportunities<br>Co-marketing investments |
 
 #### Partner Journey
