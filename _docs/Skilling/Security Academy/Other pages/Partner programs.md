@@ -20,7 +20,7 @@ tags:
 
 ## Cybersecurity Investment (CSI)
 
-The **Cybersecurity Investment** is a partner investment initiative that is designed to accelerate M365 security sales and Security ACR consumption through go-to market motions with customers. The goal is to provide partners with pre-sales assets, resources, and incentives to drive Microsoft Security products first while continuing to build and position their own managed and deployment services on top of the Microsoft portfolio.
+The **Cybersecurity Investment** is a partner investment initiative that is designed to accelerate M365 security sales and Security ACR consumption through go-to-market motions with customers. The goal is to provide partners with pre-sales assets, resources, and incentives to drive Microsoft Security products first while continuing to build and position their own managed and deployment services on top of the Microsoft portfolio.
 
 #### Benefits
 
@@ -32,19 +32,19 @@ The **Cybersecurity Investment** is a partner investment initiative that is desi
 
 #### Eligibility
 
-***Partners must be nominated for CSI through the Global Partner Solutions team.***
+Partners **must be nominated** for CSI by the Global Partner Solutions team.
 
 The following **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)** are **required** for eligibility to participate in Cybersecurity Investment (CSI):
 
 - Threat Protection Specialization OR
 - Information Protection Specialization OR
-- Identity and Access Management Specialization + any other Security Specialization OR
 - Cloud Security Specialization + any other Security Specialization
+- Identity and Access Management Specialization + any other Security Specialization OR
 
 ##### Partners must:
 
-1. Execute at least 12 pre-sales activities throughout Microsoft FY25 *(July 1, 2024 – June 30, 2025)* w/ 6 completed pre-sales engagements in the first 6 months
-2. Achieve a Milestone 1 to Milestone 2 conversion ratio *(total # of M1’s completed compared to total # of M2’s)* of 15% or higher for Microsoft FY25
+- Execute at least 12 pre-sales activities throughout Microsoft FY25 with 6 completed pre-sales engagements within the first 6 months
+- Achieve a Milestone 1 to Milestone 2 conversion ratio *(total # of M1’s completed compared to total # of M2’s)* of 15% or higher for Microsoft FY25
 
 
 <div>&nbsp;</div>
