@@ -12,7 +12,8 @@ tags:
 
 ## Microsoft Security Academy
 
-### Are you interested in [partner programs](https://www.microsoft.com/en-us/security/business/partnerships)?🤝
+### Are you interested in partner programs?🤝
+Explore our **[partner programs](https://www.microsoft.com/en-us/security/business/partnerships)** and together we'll provide comprehensive security solutions, combat global cybercrime and nation-state threat actors, and establish cybersecurity standards for people, industries, and data.
 
 
 <div>&nbsp;</div>
@@ -72,9 +73,9 @@ The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.
 
 | **Category** | **Benefits** |
 |--------------|--------------|
-| **Business** | Teams channel, Monthly office hours, Member networking, Vote for Security Excellence awards, MISA LinkedIn Group |
-| **Technical** | Technical workshops, Product roadmap invitations, Integration support, Microsoft SME presentations, Certification exam vouchers |
-| **Marketing** | MISA badge, **Member catalog**, Co-branded templates, Marketplace Rewards, Win Wires, Field materials, Speaking/demo opportunities, Co-marketing investments |
+| **Business** | Teams channel, monthly office hours, member networking, vote for Security Excellence awards, MISA LinkedIn Group |
+| **Technical** | Technical workshops, product roadmap invitations, integration support, Microsoft SME presentations, certification exam vouchers |
+| **Marketing** | MISA badge, **[Member catalog](https://www.microsoft.com/misapartnercatalog)**<, co-branded templates, Marketplace Rewards, Win Wires, Field materials, speaking/demo opportunities, co-marketing investments |
 
 #### Partner Journey
 
