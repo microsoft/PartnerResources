@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Security Partner Programs
 description: Microsoft Security Partner Programs
 permalink: /skilling/microsoft-security-academy/programs
-updated: 2024-09-11
+updated: 2024-09-12
 showbreadcrumb: true
 tags: 
 - academy content
@@ -13,7 +13,7 @@ tags:
 ## Microsoft Security Academy
 
 ### Are you interested in partner programs?🤝
-Explore our **[partner programs](https://www.microsoft.com/en-us/security/business/partnerships)** and together we'll provide comprehensive security solutions, combat global cybercrime and nation-state threat actors, and establish cybersecurity standards for people, industries, and data.
+Explore our **[partner programs](https://www.microsoft.com/en-us/security/business/partnerships)** and together we'll provide comprehensive security solutions, combat global cybercrime, and establish cybersecurity standards for people, industries, and data.
 
 
 <div>&nbsp;</div>
@@ -73,9 +73,9 @@ The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.
 
 | **Category** | **Benefits** |
 |--------------|--------------|
-| **Business** | Teams channel, monthly office hours, member networking, vote for Security Excellence awards, MISA LinkedIn Group |
+| **Business** | Teams channel, monthly office hours, member networking, vote for Security Excellence awards, **[MISA LinkedIn Group](https://www.linkedin.com/groups/13707284/)** |
 | **Technical** | Technical workshops, product roadmap invitations, integration support, Microsoft SME presentations, certification exam vouchers |
-| **Marketing** | MISA badge, **[Member catalog](https://www.microsoft.com/misapartnercatalog)**<, co-branded templates, Marketplace Rewards, Win Wires, Field materials, speaking/demo opportunities, co-marketing investments |
+| **Marketing** | MISA badge, **[Member catalog](https://www.microsoft.com/misapartnercatalog)**, co-branded templates, Marketplace rewards, Win Wires, Field materials, speaking opportunities, co-marketing investments |
 
 #### Partner Journey
 
