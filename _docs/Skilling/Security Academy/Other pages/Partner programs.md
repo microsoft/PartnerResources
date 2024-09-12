@@ -13,7 +13,7 @@ tags:
 ## Microsoft Security Academy
 
 ### Are you interested in partner programs?🤝
-Explore our **[partner programs](https://www.microsoft.com/en-us/security/business/partnerships)** and together we'll provide comprehensive security solutions, establish cybersecurity standards, and combat global cybercrime and nation-state threat actors.
+Explore our **[partner programs](https://www.microsoft.com/en-us/security/business/partnerships)** and together we'll provide comprehensive security solutions, establish cybersecurity standards, and combat global cybercrime and nation-state threats.
 
 
 <div>&nbsp;</div>
