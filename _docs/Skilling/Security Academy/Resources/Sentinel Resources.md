@@ -32,6 +32,7 @@ Below you will find content to assist in skilling on Microsoft Sentinel. Content
 
 ## Fundamentals
 * [Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
+* [Microsoft Sentinel Pricing Calculator v2](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FAzure_Sentinel_Calculator-v2.xlsx)
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
 * [**GitHub:** Microsoft Sentinel Repository](https://github.com/Azure/Azure-Sentinel/wiki)
 * [**GitHub:** KQL for Microsoft Sentinel Lab & Queries](https://github.com/reprise99/Sentinel-Queries)
