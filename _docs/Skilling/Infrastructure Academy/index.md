@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Azure Infrastructure Academy
 description: Microsoft Azure Infrastructure Academy
-updated: 2024-04-18
+updated: 2024-05-15
 permalink: /skilling/microsoft-infrastructure-academy
 redirect_from:
   - /skilling/microsoft-infrastructure-academy/
@@ -22,7 +22,7 @@ Ready to elevate your organization's cloud infrastructure? Managing Azure infras
 
 Keep your organization resilient against evolving challenges with continuous learning through our **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)**. Our **[Resources](/PartnerResources/skilling/microsoft-infrastructure-academy/resources)** complement the **[Video Modules](/PartnerResources/skilling/microsoft-infrastructure-academy/modules)** and empower you to dive deeper into key Azure infrastructure concepts.
 
-Explore our new resources for **[Epic on Azure](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/epic-on-azure-resources)!🎉**
+Explore our new resources for **[Epic on Azure](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/epic-on-azure-resources)** and **[Foundation Services for Epic on Azure](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/epic-on-azure-foundation-services).!🎉**
 
 
 ![IA Organizational Chart]({{ site.baseurl }}/assets/msa/IA Thumbnail.png)
@@ -30,7 +30,7 @@ Explore our new resources for **[Epic on Azure](/PartnerResources/skilling/micro
 
 ### Noteworthy News📰
 
-Watch **[Satya Nadella talk to NVIDIA's Jensen Huang](https://youtu.be/QsWtiop4IJA?si=QgschuA-oRRiLMTP)** about Microsoft's expanding partnership with Nvidia, learn more about **[Microsoft's recent innovation in AI Infrastructure](https://youtu.be/AHSboyXhjyw?si=4gke11Oj1RN1qJuc)**, and explore **[​what's new and what's next with Azure IaaS](https://ignite.microsoft.com/en-US/sessions/67c69220-d1f8-4241-8519-bfc3e73d08e3?source=sessions).**
+In international news, **[Microsoft announced significant commitments to enable a cloud and AI-powered future for Thailand](https://www.msn.com/en-sg/news/other/microsoft-announces-significant-commitments-to-enable-a-cloud-and-ai-powered-future-for-thailand/ar-AA1nXxfJ?ocid=BingNewsSerp)**. In Microsoft's expanding partnership with Nvidia, learn more about **[recent integrations to accelerate generative AI for enterprises everywhere](https://news.microsoft.com/2024/03/18/microsoft-and-nvidia-announce-major-integrations-to-accelerate-generative-ai-for-enterprises-everywhere/)**, and explore **[​how AI infrastructure is shaping tomorrow’s businesses](https://hbr.org/sponsored/2024/04/how-cloud-based-ai-infrastructure-is-shaping-tomorrows-businesses).**
 
 
 ## Start Your Journey and Stay Connected🔗
@@ -46,7 +46,7 @@ Watch **[Satya Nadella talk to NVIDIA's Jensen Huang](https://youtu.be/QsWtiop4I
 * [Azure Networking Blog](https://techcommunity.microsoft.com/t5/azure-networking-blog/bg-p/AzureNetworkingBlog)
 * [Azure Virtual Desktop Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog)
 * [Core Infrastructure and Security Blog](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bg-p/CoreInfrastructureandSecurityBlog)
-* [Linux and Open Source Blog](https://techcommunity.microsoft.com/t5/linux-and-open-source-blog/bg-p/LinuxandOpenSourceBlog)
+* [Linux and Open-Source Blog](https://techcommunity.microsoft.com/t5/linux-and-open-source-blog/bg-p/LinuxandOpenSourceBlog)
 * [Running SAP Applications on the Microsoft Platform Blog](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications)
 
 ## Meet our Team🎉

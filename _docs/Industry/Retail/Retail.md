@@ -12,6 +12,8 @@ tags:
 
 # Resources for Microsoft Cloud for Retail
 
+#### ***This page was retired on 06/06/2024***
+
 **Microsoft Cloud for Retail brings together different data sources across the retail value chain and uniquely connects experiences across the shopper's journey through a set of capabilities that deliver more relevant personalized experiences and operational excellence for sustained profitability.**
 
 Content is broken down as follows:

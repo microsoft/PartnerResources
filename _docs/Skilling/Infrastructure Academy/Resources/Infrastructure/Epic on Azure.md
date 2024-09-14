@@ -2,7 +2,7 @@
 layout: page
 title: Epic on Azure Resources
 description: Resources for Epic on Azure
-updated: 2024-01-19
+updated: 2024-05-03
 permalink: /skilling/microsoft-infrastructure-academy/resources/epic-on-azure-resources
 tags: 
 - learning plan
@@ -12,6 +12,8 @@ tags:
 ---
 
 # Resources for Epic on Azure
+
+#### Also explore our resources for [Azure IaaS Foundation Services for Epic!](/PartnerResources/skilling/microsoft-infrastructure-academy/resources/epic-on-azure-foundation-services)🔎
 
 ## Microsoft & Healthcare
 * [Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare)

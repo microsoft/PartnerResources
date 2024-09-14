@@ -12,6 +12,8 @@ tags:
 
 # Resources for Microsoft Cloud for Financial Services
 
+#### ***This page was retired on 06/06/2024***
+
 **Microsoft Cloud for Financial Services provides capabilities to manage data to deliver differentiated experiences, empower employees, and combat financial crime while facilitating security, compliance, and interoperability.**
 
 Content is broken down as follows:

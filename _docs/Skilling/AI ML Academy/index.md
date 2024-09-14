@@ -5,7 +5,7 @@ description: The AI & ML Academy is focused on Artificial Intelligence and Machi
 permalink: /skilling/ai-ml-academy
 redirect_from:
   - /skilling/ai-ml-academy/
-updated: 2024-04-29
+updated: 2024-05-03
 showbreadcrumb: true
 tags:
 - azure
@@ -15,8 +15,6 @@ tags:
 ---
 
 # AI & ML Academy
-
-> More coming soon! The AI & ML Academy is undergoing improvements.
 
 ## Content
 

@@ -14,6 +14,8 @@ tags:
 
 # Resources for Azure AI Services for Health
 
+#### ***This page was retired on 06/06/2024***
+
 ## Azure AI Services for Health
 
 * [Azure Health Bot Integration with Azure OpenAI Service](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/extending-azure-health-bot-with-azure-openai-service/ba-p/3792560)

@@ -12,6 +12,8 @@ tags:
 
 # Learning Plan Resources for Azure IoT Edge
 
+#### ***This page was retired on 06/06/2024***
+
 ## Keeping Up
 
 * Refer to the [IoT Blog site](https://azure.microsoft.com/blog/topics/internet-of-things/)
