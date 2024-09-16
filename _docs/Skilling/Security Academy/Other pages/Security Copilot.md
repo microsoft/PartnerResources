@@ -346,7 +346,7 @@ Since computing capacity and token usage is ***variable*** **(quantifying a spec
 * Measure SCU usage between different use cases (SOC analysts, Purview admins, Identity/access admins, etc.)
 * Measure SCU usage between different levels of expertise (Junior analysts vs Senior analysts)
 * Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
-* Explore the **[Copilot for Security SCU Optimizer Solution](https://locktalk.substack.com/p/introducing-the-copilot-for-security?r=3eb8k1&utm_campaign=post&utm_medium=web&triedRedirect=true)** to to simplify CfS cost management
+* Explore the **[Copilot for Security SCU Optimizer Solution](https://locktalk.substack.com/p/introducing-the-copilot-for-security?r=3eb8k1&utm_campaign=post&utm_medium=web&triedRedirect=true)** to simplify CfS cost management
 
 Beyond GA, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage and patterns.
 
