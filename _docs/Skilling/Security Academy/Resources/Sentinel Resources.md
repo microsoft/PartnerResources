@@ -13,7 +13,7 @@ tags:
 ---
 
 # Microsoft Sentinel Resources
-Below you will find content to assist in skilling on Microsoft Sentinel. Content is organized by increasing levels of complexity (Fundamentals, Associate) followed by other associated critical resources.
+Below, you'll find resources to help you upskill on Microsoft Sentinel. Content is arranged by increasing levels of complexity (Fundamentals, Associate) followed by other associated essential resources.
 
 
 <div>&nbsp;</div>
