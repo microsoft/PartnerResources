@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-09-12
+updated: 2024-09-17
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -59,11 +59,11 @@ showbreadcrumb: true
 
 ___
 
-## September 12th, 2024 Update📰
+## September 17th, 2024 Update📰
 
-**Recent Update** (September 12th): **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)** & **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**|
+**Recent Update** (September 17th): **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** & **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**|
 
-A new era of security is here. Read **[Charlie Bell's Security above all else announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/)**.🔍
+The Microsoft Incident Response team recently created a compilation of incident response/TTP guides, best practices, and threat-hunting strategies, known as the **[Microsoft Incident Response Ninja Hub](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-incident-response-ninja-hub/ba-p/4243594?utm_source=substack&utm_medium=email).**
 
 We're excited to announce **[Auxiliary Logs](https://azure.microsoft.com/en-us/updates/v2/Azure-Monitor-Auxiliary-Logs)**, a cost-effective solution for verbose logs. Azure Monitor now offers three plans: Analytics, Basic, and Auxiliary. *(Auxiliary Logs = Basic Logs + Archive Tier)*
 
@@ -80,7 +80,7 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 | Azure Network Security | Introducing DDoS Vulnerability Management    | SEP 17             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview | Microsoft Purview eDiscovery Modern UX            | SEP 18             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Defender for Servers - New FIM Version | SEP 25             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-|  Microsoft Defender for Cloud Apps | How to protect Oauth apps        | SEP 26             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+|  Microsoft Defender for Cloud Apps | How to protect OAuth apps        | SEP 26             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Sentinel | Building Microsoft Sentinel integrations         | OCT 1              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Sentinel | Moving to Azure Monitor Agent                    | OCT 9              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview | Navigating the Future of AI                       | OCT 15             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
