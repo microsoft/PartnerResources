@@ -61,9 +61,9 @@ ___
 
 ## September 17th, 2024 Update📰
 
-**Recent Update** (September 17th): **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** & **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**|
+**Recent Update** (September 17th): **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** & **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**|
 
-Explore our new **[Microsoft Incident Response Ninja Hub](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/)**, which offers with the latest incident response/TTP guides, best practices, and threat-hunting strategies.🔍
+The Microsoft Incident Response team created a compilation of incident response/TTP guides, best practices, and threat-hunting strategies, titled the **[Microsoft Incident Response Ninja Hub](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-incident-response-ninja-hub/ba-p/4243594?utm_source=substack&utm_medium=email).**
 
 We're excited to announce **[Auxiliary Logs](https://azure.microsoft.com/en-us/updates/v2/Azure-Monitor-Auxiliary-Logs)**, a cost-effective solution for verbose logs. Azure Monitor now offers three plans: Analytics, Basic, and Auxiliary. *(Auxiliary Logs = Basic Logs + Archive Tier)*
 
