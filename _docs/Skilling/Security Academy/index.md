@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-09-12
+updated: 2024-09-17
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -59,11 +59,11 @@ showbreadcrumb: true
 
 ___
 
-## September 12th, 2024 Update📰
+## September 17th, 2024 Update📰
 
-**Recent Update** (September 12th): **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)** & **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**|
+**Recent Update** (September 17th): **[Copilot for Security Technical Journey & Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** & **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**|
 
-A new era of security is here. Read **[Charlie Bell's Security above all else announcement](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/)**.🔍
+Explore our new **[Microsoft Incident Response Ninja Hub](https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/)**, which offers with the latest incident response/TTP guides, best practices, and threat-hunting strategies.🔍
 
 We're excited to announce **[Auxiliary Logs](https://azure.microsoft.com/en-us/updates/v2/Azure-Monitor-Auxiliary-Logs)**, a cost-effective solution for verbose logs. Azure Monitor now offers three plans: Analytics, Basic, and Auxiliary. *(Auxiliary Logs = Basic Logs + Archive Tier)*
 

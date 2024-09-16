@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-08-30
+updated: 2024-09-17
 showbreadcrumb: true
 tags: 
 - academy content
@@ -74,9 +74,9 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 ___
 
-## August 30th, 2024 Update📰
+## September 17th, 2024 Update📰
 
-**Recent Update** (August 30th): **[Overview](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#overview)**, **[Onboarding](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)**,  **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)**, **[Features](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#features)**, **[Videos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos)**, **[Community Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-resources)**, **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)**, **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)**, and **[Integrations](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#integrations)** |
+**Recent Update** (September 17th): **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)** |
 
 The **[Partner Playbook for Copilot for Security](http://aka.ms/CfSpartnerPlaybook)** is now live🎉
 
@@ -89,7 +89,6 @@ ___
 If you're a member of the **[Microsoft Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Copilot for Security Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-| Plugin spotlight – Purview | Thursday, September 12th @  7:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/4185be89-7eda-4e0e-8eb1-fd9acb3c0f70@72f988bf-86f1-41af-91ab-2d7cd011db47)
 | Plugin spotlight – Defender for Cloud | Thursday, September 19th @  7:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/11dd74d4-5584-46b2-828b-c69886fe6e98@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 Several colleagues have also created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).**
@@ -347,6 +346,7 @@ Since computing capacity and token usage is ***variable*** **(quantifying a spec
 * Measure SCU usage between different use cases (SOC analysts, Purview admins, Identity/access admins, etc.)
 * Measure SCU usage between different levels of expertise (Junior analysts vs Senior analysts)
 * Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
+* Explore the **[Copilot for Security SCU Optimizer Solution](https://locktalk.substack.com/p/introducing-the-copilot-for-security?r=3eb8k1&utm_campaign=post&utm_medium=web&triedRedirect=true)** to to simplify CfS cost management
 
 Beyond GA, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage and patterns.
 
@@ -372,7 +372,7 @@ As of today, customers pay for their MSSP’s SCUs/usage. MSSPs can access the c
 * [Grant partners access](https://learn.microsoft.com/en-us/security-copilot/grant-access-external-users?view=o365-worldwide)
 * [B2B collaboration](https://learn.microsoft.com/en-us/entra/external-id/what-is-b2b)
 * [Granular Delegated Admin Privileges (GDAP)](https://learn.microsoft.com/en-us/partner-center/gdap-introduction)
-* [Azure Lighthouse](https://learn.microsoft.com/en-us/azure/lighthouse/) — ***Coming soon to Copilot for Security***
+* [Azure Lighthouse](https://learn.microsoft.com/en-us/azure/lighthouse/) ***Coming soon to Copilot for Security***
 * [Microsoft 365 Lighthouse](https://learn.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-overview?view=o365-worldwide) ***Coming soon to Copilot for Security***
 
 ### Address Concerns
