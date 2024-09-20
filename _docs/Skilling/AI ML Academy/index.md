@@ -44,7 +44,7 @@ Our **[ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)** 
 
 <div>&nbsp;</div>
 
-## [GPS Partner Skilling Playbook August FY25]({{ site.baseurl }}/assets/misc/GPS-Enablement_partner-skilling-playbook_Aug_FY25%20%5BPARTNER%20READY%5D.pdf)
+## [GPS Partner Skilling Playbook August FY25]({{ site.baseurl }}/assets/misc/GPS-Enablement_partner-skilling-playbook_Aug_FY25-PARTNER%20READY.pdf)
 
 ## Events
 
