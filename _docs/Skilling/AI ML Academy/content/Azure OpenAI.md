@@ -183,6 +183,14 @@ Accelerators and Demo Assets repository](https://github.com/Azure/ai-solution-ac
             <th>Name</th>
             <th>Description</th>
         </tr>
+	<tr>
+		<td>
+			<a href="https://aka.ms/OpenAICookbook">OpenAI Cookbook - Examples</a>
+		</td>
+		<td>
+			Example code and guides for accomplishing common tasks with the OpenAI API. See the README for information on running the examples. Most code examples are written in Python, though the concepts can be applied in any language.
+		</td>
+	</tr>
         <tr>
             <td>
                 <a href="https://github.com/Azure/azure-openai-samples">Azure OpenAI Samples</a>
