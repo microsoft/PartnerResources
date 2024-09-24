@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-09-17
+updated: 2024-09-25
 showbreadcrumb: true
 tags: 
 - academy content
@@ -74,9 +74,9 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 ___
 
-## September 17th, 2024 Update📰
+## September 25th, 2024 Update📰
 
-**Recent Update** (September 17th): **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)** |
+**Recent Update** (September 25th): **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)** |
 
 The **[Partner Playbook for Copilot for Security](http://aka.ms/CfSpartnerPlaybook)** is now live🎉
 
@@ -90,6 +90,7 @@ If you're a member of the **[Microsoft Copilot for Security Customer Connection 
 
 | **Topic** | **Date & Time** | **Register!** |
 | Plugin spotlight – Defender for Cloud | Thursday, September 19th @  7:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/11dd74d4-5584-46b2-828b-c69886fe6e98@72f988bf-86f1-41af-91ab-2d7cd011db47)
+*Recording available, more events coming soon*
 
 Several colleagues have also created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).**
 

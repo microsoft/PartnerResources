@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2024-09-17
+updated: 2024-09-25
 permalink: /security/microsoft-security-academy/microsoft-sentinel
 tags:
 - security
@@ -21,6 +21,7 @@ Below, you'll find resources to help you upskill on Microsoft Sentinel. Content 
 
 ## September 2024 Update📰
 
+* **NEW:** [Optimize Costs using Auxiliary Logs for Verbose Logging](https://mortenknudsen.net/?p=3308&utm_source=substack&utm_medium=email) -- *Auxiliary Logs = Basic Logs + Archive Tier*
 * **NEW:** [SIEM Migration Update: Now Migrate with Contextual Depth in translations with Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/siem-migration-update-now-migrate-with-contextual-depth-in/ba-p/4241234?utm_source=substack&utm_medium=email) -- The SIEM Migration Experience now supports Schema Mapping, Splunk Macros in translation, and Splunk Lookups in translation
 * **NEW:** [Hunting with Microsoft Graph activity logs](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-with-microsoft-graph-activity-logs/ba-p/4234632) -- Microsoft Graph is a unified REST API endpoint that  provides access to a suite of services including Microsoft 365, Enterprise Mobility + Security, and Windows
 * **NEW:** [Announcing Microsoft Sentinel All-in-One v2](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-microsoft-sentinel-all-in-one-v2/ba-p/3800037) -- Microsoft Sentinel All-in-One helps customers and partners quickly deploy a ready-to-use Microsoft Sentinel environment
