@@ -84,15 +84,13 @@ Copilot for Security is also now **[covered by HIPAA Business Associate Agreemen
 
 ___
 
-### Events
+### Events *More coming soon*
 
 If you're a member of the **[Microsoft Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Copilot for Security Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
 | Plugin spotlight – Defender for Cloud | Thursday, September 19th @  7:00 AM PDT | [Register](https://msit.events.teams.microsoft.com/event/11dd74d4-5584-46b2-828b-c69886fe6e98@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
-
-*More events coming soon*
 
 Several colleagues have also created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).**
 
