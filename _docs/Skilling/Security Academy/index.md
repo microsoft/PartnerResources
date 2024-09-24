@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-09-17
+updated: 2024-09-25
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -59,15 +59,21 @@ showbreadcrumb: true
 
 ___
 
-## September 17th, 2024 Update📰
+## September 25th, 2024 Update📰
 
-**Recent Update** (September 17th): **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** & **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**|
+**Recent Update** (September 25th): **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
+
+Read about our progress improving our security culture, governance, standards, and principles from the **[newly released SFI Progress Report](https://www.microsoft.com/en-us/security/blog/2024/09/23/securing-our-future-september-2024-progress-update-on-microsofts-secure-future-initiative-sfi/).**
+
+Also, register for our upcoming **[Build Security Culture and Governance with Microsoft’s Secure Future Initiative](https://gateway.on24.com/wcc/eh/4557503/lp/4708537/build-security-culture-and-governance-with-microsofts-secure-future-initiative-october-22-23-2024-pdt-ist-bst?partnerref=DP_SCI_ORG_OTH_PN)**📢
+
+### Other News
 
 The Microsoft Incident Response team recently created a compilation of incident response/TTP guides, best practices, and threat-hunting strategies, known as the **[Microsoft Incident Response Ninja Hub](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-incident-response-ninja-hub/ba-p/4243594?utm_source=substack&utm_medium=email).**
 
 We're excited to announce **[Auxiliary Logs](https://azure.microsoft.com/en-us/updates/v2/Azure-Monitor-Auxiliary-Logs)**, a cost-effective solution for verbose logs. Azure Monitor now offers three plans: Analytics, Basic, and Auxiliary. *(Auxiliary Logs = Basic Logs + Archive Tier)*
 
-We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/auxiliary-logs-summary-rules-debac-manikandan-s147c/)**, which aggregate data at ingestion. You can apply detection rule logic to Summary Rules, improving your security and monitoring capabilities.
+We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/auxiliary-logs-summary-rules-debac-manikandan-s147c/)**, which aggregate data at ingestion. You can even apply detection rule logic to Summary Rules!
 
 
 <div>&nbsp;</div>
@@ -77,8 +83,6 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Azure Network Security | Introducing DDoS Vulnerability Management    | SEP 17             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Purview | Microsoft Purview eDiscovery Modern UX            | SEP 18             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Defender for Servers - New FIM Version | SEP 25             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 |  Microsoft Defender for Cloud Apps | How to protect OAuth apps        | SEP 26             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Sentinel | Building Microsoft Sentinel integrations         | OCT 1              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
