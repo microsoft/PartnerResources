@@ -20,7 +20,7 @@ tags:
 
 
 ### Learn about Microsoft's Secure Future Initiative
-The **[Microsoft Secure Future Initiative (SFI)](https://www.microsoft.com/en-us/trust-center/security/secure-future-initiative#:~:text=What%20is%20the%20Secure%20Future%20Initiative%20%28SFI%29%3F%20The,solutions%20meet%20the%20highest%20possible%20standards%20for%20security.?msockid=330c4da567d667543ffd5c5666b966cf)** is a multiyear initiative to evolve the way we design, build, test, and operate our products and services, to achieve the highest possible standards for security.
+The **[Secure Future Initiative (SFI)](https://www.microsoft.com/en-us/trust-center/security/secure-future-initiative#:~:text=What%20is%20the%20Secure%20Future%20Initiative%20%28SFI%29%3F%20The,solutions%20meet%20the%20highest%20possible%20standards%20for%20security.?msockid=330c4da567d667543ffd5c5666b966cf)** is a multiyear initiative to evolve the way we design, build, test, and operate our products and services, to achieve the highest possible standards for security.
 
 Read about our progress improving our security culture, governance, standards, and principles from the **[newly released SFI Progress Report](https://www.microsoft.com/en-us/security/blog/2024/09/23/securing-our-future-september-2024-progress-update-on-microsofts-secure-future-initiative-sfi/).**📢
 
@@ -58,7 +58,7 @@ This page is organized by SFI's six key pillars, each representing a critical ar
                 <td></td>
             </tr>
             <tr>
-                <td><strong><a href="#response-and-remediation">Response and remediation</a></strong></td>
+                <td><strong><a href="#response-and-remediation">Accelerate response and remediation</a></strong></td>
                 <td></td>
             </tr>
         </tbody>
@@ -255,7 +255,7 @@ ___
 ___
 
 
-### Response and remediation
+### Accelerate response and remediation
 
 ##### Reduce the Time to Mitigate for high-severity cloud security vulnerabilities with accelerated response
 
