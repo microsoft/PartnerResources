@@ -201,7 +201,7 @@ ___
 |-------------------------|
 | [Secure access for workload identities](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/6-secure-access-workload-identities) |
 
-##### 100% of source code that deploys to Microsoft production environments is protected through security best practices
+##### 100% of source code that deploys to production environments is protected through security best practices
 
 | **Associated Training** |
 |-------------------------|
@@ -211,9 +211,9 @@ ___
 
 | **Associated Training** |
 |-------------------------|
-| [Describe DevOps security management](https://learn.microsoft.com/en-us/training/modules/describe-security-management-capabilities-of-azure/6-describe-dev-ops-security-management) |
-| [Connect Azure DevOps environments to Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-devops) |
 | [Introduction to Secure DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-secure-devops/) |
+| [Describe DevOps Security Management](https://learn.microsoft.com/en-us/training/modules/describe-security-management-capabilities-of-azure/6-describe-dev-ops-security-management) |
+| [Connect Azure DevOps environments to Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-devops) |
 
 #### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)
 
@@ -225,7 +225,7 @@ ___
 
 ### Monitor and detect threats
 
-##### Maintain a current inventory across 100% of Microsoft production infrastructure and services
+##### Maintain a current inventory across 100% of production infrastructure and services
 
 | **Associated Training** |
 |-------------------------|
