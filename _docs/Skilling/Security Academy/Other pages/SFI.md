@@ -127,7 +127,7 @@ ___
 |-------------------------|
 | [Secure tenant administration](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-privileged-access/4-design-solution-secure-tenant-administration) |
 
-##### 100% of application and users have continuous least-privilege access enforcement
+##### 100% of applications and users have continuous least-privilege access enforcement
 
 | **Associated Training** |
 |-------------------------|
@@ -137,7 +137,7 @@ ___
 
 | **Associated Training** |
 |-------------------------|
-| [Identity and access management](https://learn.microsoft.com/en-us/training/modules/design-solutions-identity-access-management/) |
+| [Identity and Access management](https://learn.microsoft.com/en-us/training/modules/design-solutions-identity-access-management/) |
 
 #### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)
 
@@ -149,7 +149,7 @@ ___
 
 ### Protect networks
 
-##### Secure 100% of Microsoft production networks and systems connected to the networks by improving isolation, monitoring, inventory, and secure operations
+##### Secure 100% of production networks and systems connected to the networks by improving isolation, monitoring, inventory, and secure operations
 
 | **Associated Training** |
 |-------------------------|
@@ -164,8 +164,8 @@ ___
 | **Associated Training** |
 |-------------------------|
 | [Secure and govern workloads with network-level segmentation](https://learn.microsoft.com/en-us/azure/architecture/networking/guide/network-level-segmentation) |
-| [What is Azure Firewall?](https://learn.microsoft.com/en-us/azure/firewall/overview) |
 | [Azure guidance for secure isolation](https://learn.microsoft.com/en-us/azure/azure-government/azure-secure-isolation-guidance) |
+| [What is Azure Firewall?](https://learn.microsoft.com/en-us/azure/firewall/overview) |
 | [Advanced Azure Kubernetes Service (AKS) microservices architecture](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced) |
 | [Secure networks with Zero Trust](https://learn.microsoft.com/en-us/security/zero-trust/deploy/networks) |
 
