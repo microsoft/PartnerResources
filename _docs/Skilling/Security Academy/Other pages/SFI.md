@@ -20,9 +20,9 @@ The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve
 <div>&nbsp;</div>
 
 
-## Protect identities and secrets
+### Protect identities and secrets
 
-### Protect identity infrastructure signing and platform keys with rapid and automatic rotation (e.g., HSMs)
+#### Protect identity infrastructure signing and platform keys with rapid and automatic rotation (e.g., HSMs)
 
 | **Module** | **Link** |
 |------------|----------|
@@ -31,7 +31,7 @@ The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve
 | Advance your security posture with Microsoft Intune from chip to cloud | [Advance your security posture with Microsoft Intune](https://learn.microsoft.com/en-us/training/modules/m365-advance-organization-security-posture/) |
 | Protect infrastructure with Zero Trust | [Protect infrastructure with Zero Trust](https://learn.microsoft.com/en-us/training/modules/zero-trust-infrastructure/) |
 
-### Ensure 100% of user accounts are protected with securely managed, phishing-resistant MFA
+#### Ensure 100% of user accounts are protected with securely managed, phishing-resistant MFA
 
 | **Module** | **Link** |
 |------------|----------|
@@ -39,56 +39,67 @@ The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve
 | Understand Microsoft 365 identity and access management | [Understand Microsoft 365 identity and access management](https://learn.microsoft.com/en-us/training/modules/audit-identity-access-management/) |
 | Securing you: Basics and beyond | [Securing you: Basics and beyond](https://learn.microsoft.com/en-us/training/modules/securing-you-basics-beyond/) |
 
-### Ensure 100% of apps are protected with system-managed credentials (e.g., Managed Identity, Managed Certificates)
+#### Ensure 100% of apps are protected with system-managed credentials (e.g., Managed Identity, Managed Certificates)
 
 | **Module** | **Link** |
 |------------|----------|
 | Manage application access with Microsoft Entra ID | [Manage application access in Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/manage-application-access-microsoft-entra-id/) |
 | Design solution for secure applications | [Design solutions for securing applications](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/) |
 
-### Adopt more fine-grained partitioning of identity signing keys and platform keys
+#### Adopt more fine-grained partitioning of identity signing keys and platform keys
 
 | **Module** | **Link** |
 |------------|----------|
 | Encrypt public sector data in Azure | [Key management in Azure](https://learn.microsoft.com/en-us/azure/security/fundamentals/key-management) |
 
-### Ensure identity and public key infrastructure (PKI) systems are ready for post-quantum cryptography
+#### Ensure identity and public key infrastructure (PKI) systems are ready for post-quantum cryptography
 
 | **Module** | **Link** |
 |------------|----------|
 | NIST standards for post-quantum encryption | [NIST Releases First 3 Finalized Post-Quantum Encryption Standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards#:~:text=NIST%20has%20released%20a%20final%20set%20of%20encryption,to%20e-commerce%20transactions%20that%20propel%20the%20modern%20economy.) |
 
-## Protect tenants
 
-### Maintain the security posture and commercial relationships of tenants by removing all unused, aged, or legacy systems
+<div>&nbsp;</div>
+
+___
+
+
+### Protect tenants
+
+#### Maintain the security posture and commercial relationships of tenants by removing all unused, aged, or legacy systems
 
 | **Module** | **Link** |
 |------------|----------|
 | Design solutions for CSPM | [Design solutions for security posture management in hybrid and multicloud environments](https://learn.microsoft.com/en-us/training/modules/design-solutions-security-posture-management-hybrid-multicloud-environments/) |
 | Evaluate security posture | [Evaluate security posture of existing app portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
 
-### Protect 100% of Microsoft, acquired, and employee-created tenants, commerce accounts, and tenant resources
+#### Protect 100% of Microsoft, acquired, and employee-created tenants, commerce accounts, and tenant resources
 
 | **Module** | **Link** |
 |------------|----------|
 | Design a solution to secure tenant administration | [Secure tenant administration](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-privileged-access/4-design-solution-secure-tenant-administration) |
 
-### 100% of apps and users have continuous least-privilege access enforcement
+#### 100% of apps and users have continuous least-privilege access enforcement
 
 | **Module** | **Link** |
 |------------|----------|
 | Design solutions for securing privileged access | [Securing privileged access](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-privileged-access/) |
 
-### Manage 100% of Microsoft Entra ID applications to a high, consistent security bar
+#### Manage 100% of Microsoft Entra ID applications to a high, consistent security bar
 
 | **Module** | **Link** |
 |------------|----------|
 | Design solutions for identity and access management | [Design solutions for identity and access management](https://learn.microsoft.com/en-us/training/modules/design-solutions-identity-access-management/) |
 
 
-## Protect networks
+<div>&nbsp;</div>
 
-### Secure 100% of Microsoft production networks and systems connected to the networks by improving isolation, monitoring, inventory, and secure operations
+___
+
+
+### Protect networks
+
+#### Secure 100% of Microsoft production networks and systems connected to the networks by improving isolation, monitoring, inventory, and secure operations
 
 | **Module** | **Link** |
 |------------|----------|
@@ -98,7 +109,7 @@ The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve
 | Cloud security posture management (CSPM) | [Cloud security posture management (CSPM)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-cloud-security-posture-management) |
 | Understanding just-in-time (JIT) VM access | [Understanding just-in-time (JIT) VM access](https://learn.microsoft.com/en-us/azure/defender-for-cloud/just-in-time-access-overview?tabs=defender-for-container-arch-aks) |
 
-## Apply network isolation and microsegmentation to 100% of the Microsoft production environments, creating additional layers of defense against attackers
+#### Apply network isolation and microsegmentation to 100% of the Microsoft production environments, creating additional layers of defense against attackers
 
 | **Module** | **Link** |
 |------------|----------|
@@ -108,7 +119,7 @@ The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve
 | Advanced Azure Kubernetes Service (AKS) microservices architecture | [Advanced Azure Kubernetes Service (AKS) microservices architecture](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced) |
 | Secure networks with Zero Trust | [Secure networks with Zero Trust](https://learn.microsoft.com/en-us/security/zero-trust/deploy/networks) |
 
-### Enable customers to easily secure their networks and network isolate resources in the cloud
+#### Enable customers to easily secure their networks and network isolate resources in the cloud
 
 | **Module** | **Link** |
 |------------|----------|
@@ -118,27 +129,33 @@ The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve
 | Tutorial: Filter network traffic with a network security group using the Azure portal | [Tutorial: Filter network traffic with a network security group using the Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic?tabs=portal) |
 | Deploy and configure Azure Firewall using the Azure portal | [Deploy and configure Azure Firewall using the Azure portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal) |
 
-## Protect engineering systems
 
-### Build and maintain inventory for 100% of the software assets used to deploy and operate Microsoft products and services
+<div>&nbsp;</div>
+
+___
+
+
+### Protect engineering systems
+
+#### Build and maintain inventory for 100% of the software assets used to deploy and operate Microsoft products and services
 
 | **Module** | **Link** |
 |------------|----------|
 | Evaluate security posture of existing application portfolios | [Evaluate security posture of existing application portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
 
-### 100% of access to source code and engineering systems infrastructure is secured through Zero Trust and least-privilege access policies
+#### 100% of access to source code and engineering systems infrastructure is secured through Zero Trust and least-privilege access policies
 
 | **Module** | **Link** |
 |------------|----------|
 | Secure access for workload identities | [Secure access for workload identities](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/6-secure-access-workload-identities) |
 
-### 100% of source code that deploys to Microsoft production environments is protected through security best practices
+#### 100% of source code that deploys to Microsoft production environments is protected through security best practices
 
 | **Module** | **Link** |
 |------------|----------|
 | Design and implement standards to secure application development | [Design and implement standards to secure application development](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/2-design-implement-standards-secure-application-development) |
 
-### Secure development, build, test, and release environments with 100% standardized, governed pipelines and infrastructure isolation.
+#### Secure development, build, test, and release environments with 100% standardized, governed pipelines and infrastructure isolation.
 
 | **Module** | **Link** |
 |------------|----------|
@@ -146,9 +163,15 @@ The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve
 | Connect Azure DevOps environments to Defender for Cloud | [Connect Azure DevOps environments to Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-devops) |
 | Introduction to Secure DevOps | [Introduction to Secure DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-secure-devops/) |
 
-## Monitor and detect threats
 
-### Maintain a current inventory across 100% of Microsoft production infrastructure and services
+<div>&nbsp;</div>
+
+___
+
+
+### Monitor and detect threats
+
+#### Maintain a current inventory across 100% of Microsoft production infrastructure and services
 
 | **Module** | **Link** |
 |------------|----------|
@@ -156,23 +179,29 @@ The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve
 | What is Microsoft Defender Vulnerability Management | [What is Microsoft Defender Vulnerability Management (MDVM)](https://learn.microsoft.com/en-us/defender-vulnerability-management/defender-vulnerability-management) |
 | Describe threat protection with Microsoft Defender XDR | [Describe threat protection with Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/) |
 
-### Retain 100% of security logs for at least two years and make six months of appropriate logs available to customers.
+#### Retain 100% of security logs for at least two years and make six months of appropriate logs available to customers.
 
 | **Module** | **Link** |
 |------------|----------|
 | Manage audit log retention policies | [Manage audit log retention policies](https://learn.microsoft.com/en-us/purview/audit-log-retention-policies?tabs=microsoft-purview-portal#default-audit-log-retention-policy) |
 | Describe the audit solutions in Microsoft Purview | [Describe the audit solutions in Microsoft Purview](https://learn.microsoft.com/en-us/training/modules/describe-purview-risk-compliance-governance/2-describe-audit) |
 
-### Automatically detect and respond rapidly to anomalous access, behaviors, and configurations across 100% of Microsoft production infrastructure and services.
+#### Automatically detect and respond rapidly to anomalous access, behaviors, and configurations across 100% of Microsoft production infrastructure and services.
 
 | **Module** | **Link** |
 |------------|----------|
 | Describe threat protection with Microsoft Defender XDR | [Describe threat protection with Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/) |
 | Describe the embedded experiences of Microsoft Copilot for Security | [Describe the embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) |
 
-## Response and remediation
 
-### Reduce the Time to Mitigate for high-severity cloud security vulnerabilities with accelerated response
+<div>&nbsp;</div>
+
+___
+
+
+### Response and remediation
+
+#### Reduce the Time to Mitigate for high-severity cloud security vulnerabilities with accelerated response
 
 | **Module** | **Link** |
 |------------|----------|
@@ -183,7 +212,7 @@ The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve
 | Ingest Microsoft Defender for Cloud alerts to Microsoft Sentinel | [Ingest Microsoft Defender for Cloud alerts to Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud) |
 | Describe the embedded experiences of Microsoft Copilot for Security | [Describe the embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) |
 
-### Increase transparency of mitigated cloud vulnerabilities through the adoption and release of Common Weakness Enumeration™ (CWE™), and Common Platform Enumeration™ (CPE™) industry standards
+#### Increase transparency of mitigated cloud vulnerabilities through the adoption and release of Common Weakness Enumeration™ (CWE™), and Common Platform Enumeration™ (CPE™) industry standards
 
 | **Module** | **Link** |
 |------------|----------|
@@ -192,7 +221,7 @@ The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve
 | Automatically configure vulnerability assessment for your machines | [Automatically configure vulnerability assessment for your machines](https://learn.microsoft.com/en-us/azure/defender-for-cloud/auto-deploy-vulnerability-assessment) |
 | Track and respond to emerging threats through threat analytics | [Track and respond to emerging threats through threat analytics](https://learn.microsoft.com/en-us/defender-endpoint/threat-analytics) |
 
-### Improve the accuracy, effectiveness, transparency, and velocity of public messaging and customer engagement
+#### Improve the accuracy, effectiveness, transparency, and velocity of public messaging and customer engagement
 
 | **Module** | **Link** |
 |------------|----------|
@@ -201,3 +230,8 @@ The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve
 | Automate remediation responses | [Automate remediation responses](https://learn.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation) |
 | Set up continuous export in the Azure portal | [Set up continuous export in the Azure portal](https://learn.microsoft.com/en-us/azure/defender-for-cloud/continuous-export) |
 | Security alerts and incidents | [Security alerts and incidents](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) |
+
+
+<div>&nbsp;</div>
+
+___
