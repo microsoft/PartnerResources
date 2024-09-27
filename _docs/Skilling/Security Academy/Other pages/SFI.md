@@ -13,6 +13,10 @@ tags:
 
 ## Microsoft Security Academy
 
+<div style="text-align: center;">
+    <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="max-width: 100px; height: auto; margin-bottom: 20px;">
+</div>
+
 ### Learn about Microsoft's Secure Future Initiative
 The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve the way we design, build, test, and operate our products and services, to achieve the highest possible standards for security. 
 
