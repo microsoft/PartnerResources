@@ -11,11 +11,16 @@ tags:
 - getting started
 ---
 
-## Microsoft Security Academy <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="max-width: 100px; height: auto; margin-left: 20px; vertical-align: middle;">
+## Microsoft Security Academy
+
+
+<div style="text-align: center;">
+    <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="max-width: 100px; height: auto; margin-bottom: 20px;">
+</div>
 
 
 ### Learn about Microsoft's Secure Future Initiative
-The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve the way we design, build, test, and operate our products and services, to achieve the highest possible standards for security.
+The **[Microsoft Secure Future Initiative (SFI)](https://www.microsoft.com/en-us/trust-center/security/secure-future-initiative#:~:text=What%20is%20the%20Secure%20Future%20Initiative%20%28SFI%29%3F%20The,solutions%20meet%20the%20highest%20possible%20standards%20for%20security.?msockid=330c4da567d667543ffd5c5666b966cf)** is a multiyear initiative to evolve the way we design, build, test, and operate our products and services, to achieve the highest possible standards for security.
 
 Read about our progress improving our security culture, governance, standards, and principles from the **[newly released SFI Progress Report](https://www.microsoft.com/en-us/security/blog/2024/09/23/securing-our-future-september-2024-progress-update-on-microsofts-secure-future-initiative-sfi/).**📢
 
@@ -24,38 +29,41 @@ Read about our progress improving our security culture, governance, standards, a
 This page is organized by SFI's six key pillars, each representing a critical area of cybersecurity focus.
 
 
-<table>
-    <tr>
-        <td colspan="2" style="text-align: center;"><b>Table of Contents</b></td>
-    </tr>
-    <tr>
-        <td><b><a href="#protect-identities-and-secrets">Protect identities and secrets</a></b></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><b><a href="#protect-tenants">Protect tenants</a></b></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><b><a href="#protect-networks">Protect networks</a></b></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><b><a href="#protect-engineering-systems">Protect engineering systems</a></b></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><b><a href="#monitor-and-detect-threats">Monitor and detect threats</a></b></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><b><a href="#response-and-remediation">Response and remediation</a></b></td>
-        <td></td>
-    </tr>
-</table>
-
-
-<div>&nbsp;</div>
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th colspan="2" style="text-align: center;">Table of Contents</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong><a href="#protect-identities-and-secrets">Protect identities and secrets</a></strong></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong><a href="#protect-tenants">Protect tenants</a></strong></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong><a href="#protect-networks">Protect networks</a></strong></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong><a href="#protect-engineering-systems">Protect engineering systems</a></strong></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong><a href="#monitor-and-detect-threats">Monitor and detect threats</a></strong></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong><a href="#response-and-remediation">Response and remediation</a></strong></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 
 ### Protect identities and secrets
