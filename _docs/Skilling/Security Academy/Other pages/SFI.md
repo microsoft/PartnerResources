@@ -70,8 +70,8 @@ This page is organized by SFI's six key pillars, each representing a critical ar
 
 ##### Protect identity infrastructure signing and platform keys with rapid and automatic rotation (e.g., HSMs)
 
-| **Link** |
-|------------|----------|
+| **Associated Training** |
+|-------------------------|
 | [Configure and manage secrets in Azure Key Vault](https://learn.microsoft.com/en-us/training/modules/configure-and-manage-azure-key-vault/) |
 | [Plan, implement, and manage governance for security](https://learn.microsoft.com/en-us/training/modules/governance-security/?source=recommendations) |
 | [Advance your security posture with Microsoft Intune](https://learn.microsoft.com/en-us/training/modules/m365-advance-organization-security-posture/) |
@@ -79,30 +79,30 @@ This page is organized by SFI's six key pillars, each representing a critical ar
 
 ##### Ensure 100% of user accounts are protected with securely managed, phishing-resistant MFA
 
-| **Module** | **Link** |
-|------------|----------|
+| **Associated Training** |
+|-------------------------|
 | [Secure Microsoft Entra users with MFA](https://learn.microsoft.com/en-us/training/modules/secure-aad-users-with-mfa/) |
 | [Understand Microsoft 365 identity and access management](https://learn.microsoft.com/en-us/training/modules/audit-identity-access-management/) |
 | [Securing you: Basics and beyond](https://learn.microsoft.com/en-us/training/modules/securing-you-basics-beyond/) |
 
 ##### Ensure 100% of apps are protected with system-managed credentials (e.g., Managed Identity, Managed Certificates)
 
-| **Module** | **Link** |
-|------------|----------|
-| Manage application access with Microsoft Entra ID | [Manage application access in Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/manage-application-access-microsoft-entra-id/) |
-| Design solution for secure applications | [Design solutions for securing applications](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/) |
+| **Associated Training** |
+|-------------------------|
+| [Manage application access in Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/manage-application-access-microsoft-entra-id/) |
+| [Design solutions for securing applications](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/) |
 
 ##### Adopt more fine-grained partitioning of identity signing keys and platform keys
 
-| **Module** | **Link** |
-|------------|----------|
-| Encrypt public sector data in Azure | [Key management in Azure](https://learn.microsoft.com/en-us/azure/security/fundamentals/key-management) |
+| **Associated Training** |
+|-------------------------|
+| [Encrypt public sector data in Azure](https://learn.microsoft.com/en-us/azure/security/fundamentals/key-management) |
 
 ##### Ensure identity and public key infrastructure (PKI) systems are ready for post-quantum cryptography
 
-| **Module** | **Link** |
-|------------|----------|
-| NIST standards for post-quantum encryption | [NIST Releases First 3 Finalized Post-Quantum Encryption Standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards#:~:text=NIST%20has%20released%20a%20final%20set%20of%20encryption,to%20e-commerce%20transactions%20that%20propel%20the%20modern%20economy.) |
+| **Associated Training** |
+|-------------------------|
+| [NIST Releases First 3 Finalized Post-Quantum Encryption Standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards#:~:text=NIST%20has%20released%20a%20final%20set%20of%20encryption,to%20e-commerce%20transactions%20that%20propel%20the%20modern%20economy.) |
 
 
 <div>&nbsp;</div>
@@ -112,30 +112,30 @@ ___
 
 ### Protect tenants
 
-#### Maintain the security posture and commercial relationships of tenants by removing all unused, aged, or legacy systems
+##### Maintain the security posture and commercial relationships of tenants by removing all unused, aged, or legacy systems
 
-| **Module** | **Link** |
-|------------|----------|
-| Design solutions for CSPM | [Design solutions for security posture management in hybrid and multicloud environments](https://learn.microsoft.com/en-us/training/modules/design-solutions-security-posture-management-hybrid-multicloud-environments/) |
-| Evaluate security posture | [Evaluate security posture of existing app portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
+| **Associated Training** |
+|-------------------------|
+| [Design solutions for security posture management in hybrid and multicloud environments](https://learn.microsoft.com/en-us/training/modules/design-solutions-security-posture-management-hybrid-multicloud-environments/) |
+| [Evaluate security posture of existing app portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
 
-#### Protect 100% of Microsoft, acquired, and employee-created tenants, commerce accounts, and tenant resources
+##### Protect 100% of Microsoft, acquired, and employee-created tenants, commerce accounts, and tenant resources
 
-| **Module** | **Link** |
-|------------|----------|
-| Design a solution to secure tenant administration | [Secure tenant administration](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-privileged-access/4-design-solution-secure-tenant-administration) |
+| **Associated Training** |
+|-------------------------|
+| [Secure tenant administration](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-privileged-access/4-design-solution-secure-tenant-administration) |
 
-#### 100% of apps and users have continuous least-privilege access enforcement
+##### 100% of apps and users have continuous least-privilege access enforcement
 
-| **Module** | **Link** |
-|------------|----------|
-| Design solutions for securing privileged access | [Securing privileged access](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-privileged-access/) |
+| **Associated Training** |
+|-------------------------|
+| [Securing privileged access](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-privileged-access/) |
 
-#### Manage 100% of Microsoft Entra ID applications to a high, consistent security bar
+##### Manage 100% of Microsoft Entra ID applications to a high, consistent security bar
 
-| **Module** | **Link** |
-|------------|----------|
-| Design solutions for identity and access management | [Design solutions for identity and access management](https://learn.microsoft.com/en-us/training/modules/design-solutions-identity-access-management/) |
+| **Associated Training** |
+|-------------------------|
+| [Identity and access management](https://learn.microsoft.com/en-us/training/modules/design-solutions-identity-access-management/) |
 
 
 <div>&nbsp;</div>
@@ -145,35 +145,35 @@ ___
 
 ### Protect networks
 
-#### Secure 100% of Microsoft production networks and systems connected to the networks by improving isolation, monitoring, inventory, and secure operations
+##### Secure 100% of Microsoft production networks and systems connected to the networks by improving isolation, monitoring, inventory, and secure operations
 
-| **Module** | **Link** |
-|------------|----------|
-| Protect network resources | [Protect network resources](https://learn.microsoft.com/en-us/azure/defender-for-cloud/protect-network-resources) |
-| Other threat protections in Microsoft Defender for Cloud | [Other threat protections in Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/other-threat-protections) |
-| Use asset inventory to manage your resources' security posture | [Use asset inventory to manage your resources' security posture](https://learn.microsoft.com/en-us/azure/defender-for-cloud/asset-inventory) |
-| Cloud security posture management (CSPM) | [Cloud security posture management (CSPM)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-cloud-security-posture-management) |
-| Understanding just-in-time (JIT) VM access | [Understanding just-in-time (JIT) VM access](https://learn.microsoft.com/en-us/azure/defender-for-cloud/just-in-time-access-overview?tabs=defender-for-container-arch-aks) |
+| **Associated Training** |
+|-------------------------|
+| [Protect network resources](https://learn.microsoft.com/en-us/azure/defender-for-cloud/protect-network-resources) |
+| [Other threat protections in Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/other-threat-protections) |
+| [Use asset inventory to manage your resources' security posture](https://learn.microsoft.com/en-us/azure/defender-for-cloud/asset-inventory) |
+| [Cloud security posture management (CSPM)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-cloud-security-posture-management) |
+| [Understanding just-in-time (JIT) VM access](https://learn.microsoft.com/en-us/azure/defender-for-cloud/just-in-time-access-overview?tabs=defender-for-container-arch-aks) |
 
-#### Apply network isolation and microsegmentation to 100% of the Microsoft production environments, creating additional layers of defense against attackers
+##### Apply network isolation and microsegmentation to 100% of production environments, creating additional layers of defense against attackers
 
-| **Module** | **Link** |
-|------------|----------|
-| Secure and govern workloads with network-level segmentation | [Secure and govern workloads with network-level segmentation](https://learn.microsoft.com/en-us/azure/architecture/networking/guide/network-level-segmentation) |
-| What is Azure Firewall? | [What is Azure Firewall?](https://learn.microsoft.com/en-us/azure/firewall/overview) |
-| Azure guidance for secure isolation | [Azure guidance for secure isolation](https://learn.microsoft.com/en-us/azure/azure-government/azure-secure-isolation-guidance) |
-| Advanced Azure Kubernetes Service (AKS) microservices architecture | [Advanced Azure Kubernetes Service (AKS) microservices architecture](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced) |
-| Secure networks with Zero Trust | [Secure networks with Zero Trust](https://learn.microsoft.com/en-us/security/zero-trust/deploy/networks) |
+| **Associated Training** |
+|-------------------------|
+| [Secure and govern workloads with network-level segmentation](https://learn.microsoft.com/en-us/azure/architecture/networking/guide/network-level-segmentation) |
+| [What is Azure Firewall?](https://learn.microsoft.com/en-us/azure/firewall/overview) |
+| [Azure guidance for secure isolation](https://learn.microsoft.com/en-us/azure/azure-government/azure-secure-isolation-guidance) |
+| [Advanced Azure Kubernetes Service (AKS) microservices architecture](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced) |
+| [Secure networks with Zero Trust](https://learn.microsoft.com/en-us/security/zero-trust/deploy/networks) |
 
-#### Enable customers to easily secure their networks and network isolate resources in the cloud
+##### Enable customers to easily secure their networks and network isolate resources in the cloud
 
-| **Module** | **Link** |
-|------------|----------|
-| Azure network security overview | [Azure network security overview](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-overview) |
-| Isolation in the Azure Public Cloud | [Isolation in the Azure Public Cloud](https://learn.microsoft.com/en-us/azure/security/fundamentals/isolation-choices) |
-| Azure best practices for network security | [Azure best practices for network security](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-best-practices) |
-| Tutorial: Filter network traffic with a network security group using the Azure portal | [Tutorial: Filter network traffic with a network security group using the Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic?tabs=portal) |
-| Deploy and configure Azure Firewall using the Azure portal | [Deploy and configure Azure Firewall using the Azure portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal) |
+| **Associated Training** |
+|-------------------------|
+| [Azure network security overview](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-overview) |
+| [Isolation in the Azure Public Cloud](https://learn.microsoft.com/en-us/azure/security/fundamentals/isolation-choices) |
+| [Azure best practices for network security](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-best-practices) |
+| [Tutorial: Filter network traffic with a network security group using the Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic?tabs=portal) |
+| [Deploy and configure Azure Firewall using the Azure portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal) |
 
 
 <div>&nbsp;</div>
@@ -183,31 +183,31 @@ ___
 
 ### Protect engineering systems
 
-#### Build and maintain inventory for 100% of the software assets used to deploy and operate Microsoft products and services
+##### Build and maintain inventory for 100% of the software assets used to deploy and operate Microsoft products and services
 
-| **Module** | **Link** |
-|------------|----------|
-| Evaluate security posture of existing application portfolios | [Evaluate security posture of existing application portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
+| **Associated Training** |
+|-------------------------|
+| [Evaluate security posture of existing application portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
 
-#### 100% of access to source code and engineering systems infrastructure is secured through Zero Trust and least-privilege access policies
+##### 100% of access to source code and engineering systems infrastructure is secured through Zero Trust and least-privilege access policies
 
-| **Module** | **Link** |
-|------------|----------|
-| Secure access for workload identities | [Secure access for workload identities](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/6-secure-access-workload-identities) |
+| **Associated Training** |
+|-------------------------|
+| [Secure access for workload identities](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/6-secure-access-workload-identities) |
 
-#### 100% of source code that deploys to Microsoft production environments is protected through security best practices
+##### 100% of source code that deploys to Microsoft production environments is protected through security best practices
 
-| **Module** | **Link** |
-|------------|----------|
-| Design and implement standards to secure application development | [Design and implement standards to secure application development](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/2-design-implement-standards-secure-application-development) |
+| **Associated Training** |
+|-------------------------|
+| [Design and implement standards to secure application development](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/2-design-implement-standards-secure-application-development) |
 
-#### Secure development, build, test, and release environments with 100% standardized, governed pipelines and infrastructure isolation.
+##### Secure development, build, test, and release environments with 100% standardized, governed pipelines and infrastructure isolation.
 
-| **Module** | **Link** |
-|------------|----------|
-| Describe DevOps security management | [Describe DevOps security management](https://learn.microsoft.com/en-us/training/modules/describe-security-management-capabilities-of-azure/6-describe-dev-ops-security-management) |
-| Connect Azure DevOps environments to Defender for Cloud | [Connect Azure DevOps environments to Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-devops) |
-| Introduction to Secure DevOps | [Introduction to Secure DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-secure-devops/) |
+| **Associated Training** |
+|-------------------------|
+| [Describe DevOps security management](https://learn.microsoft.com/en-us/training/modules/describe-security-management-capabilities-of-azure/6-describe-dev-ops-security-management) |
+| [Connect Azure DevOps environments to Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-devops) |
+| [Introduction to Secure DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-secure-devops/) |
 
 
 <div>&nbsp;</div>
@@ -217,27 +217,27 @@ ___
 
 ### Monitor and detect threats
 
-#### Maintain a current inventory across 100% of Microsoft production infrastructure and services
+##### Maintain a current inventory across 100% of Microsoft production infrastructure and services
 
-| **Module** | **Link** |
-|------------|----------|
-| Evaluate security posture of existing application portfolios | [Evaluate security posture of existing app portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
-| What is Microsoft Defender Vulnerability Management | [What is Microsoft Defender Vulnerability Management (MDVM)](https://learn.microsoft.com/en-us/defender-vulnerability-management/defender-vulnerability-management) |
-| Describe threat protection with Microsoft Defender XDR | [Describe threat protection with Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/) |
+| **Associated Training** |
+|-------------------------|
+| [Evaluate security posture of existing app portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
+| [What is Microsoft Defender Vulnerability Management (MDVM)](https://learn.microsoft.com/en-us/defender-vulnerability-management/defender-vulnerability-management) |
+| [Describe threat protection with Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/) |
 
-#### Retain 100% of security logs for at least two years and make six months of appropriate logs available to customers.
+##### Retain 100% of security logs for at least two years and make six months of appropriate logs available to customers.
 
-| **Module** | **Link** |
-|------------|----------|
-| Manage audit log retention policies | [Manage audit log retention policies](https://learn.microsoft.com/en-us/purview/audit-log-retention-policies?tabs=microsoft-purview-portal#default-audit-log-retention-policy) |
-| Describe the audit solutions in Microsoft Purview | [Describe the audit solutions in Microsoft Purview](https://learn.microsoft.com/en-us/training/modules/describe-purview-risk-compliance-governance/2-describe-audit) |
+| **Associated Training** |
+|-------------------------|
+| [Manage audit log retention policies](https://learn.microsoft.com/en-us/purview/audit-log-retention-policies?tabs=microsoft-purview-portal#default-audit-log-retention-policy) |
+| [Describe the audit solutions in Microsoft Purview](https://learn.microsoft.com/en-us/training/modules/describe-purview-risk-compliance-governance/2-describe-audit) |
 
-#### Automatically detect and respond rapidly to anomalous access, behaviors, and configurations across 100% of Microsoft production infrastructure and services.
+##### Automatically detect and respond rapidly to anomalous access, behaviors, and configurations across 100% of Microsoft production infrastructure and services.
 
-| **Module** | **Link** |
-|------------|----------|
-| Describe threat protection with Microsoft Defender XDR | [Describe threat protection with Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/) |
-| Describe the embedded experiences of Microsoft Copilot for Security | [Describe the embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) |
+| **Associated Training** |
+|-------------------------|
+| [Describe threat protection with Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/) |
+| [Describe the embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) |
 
 
 <div>&nbsp;</div>
@@ -247,35 +247,35 @@ ___
 
 ### Response and remediation
 
-#### Reduce the Time to Mitigate for high-severity cloud security vulnerabilities with accelerated response
+##### Reduce the Time to Mitigate for high-severity cloud security vulnerabilities with accelerated response
 
-| **Module** | **Link** |
-|------------|----------|
-| Manage and respond to security alerts | [Manage and respond to security alerts](https://learn.microsoft.com/en-us/azure/defender-for-cloud/managing-and-responding-alerts) |
-| View and remediate findings from vulnerability assessment solutions on your VMs | [View and remediate findings from vulnerability assessment solutions on your VMs](https://learn.microsoft.com/en-us/azure/defender-for-cloud/remediate-vulnerability-findings-vm) |
-| Automate remediation responses | [Automate remediation responses](https://learn.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation) |
-| Security Control: Incident response | [Security Control: Incident response](https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response) |
-| Ingest Microsoft Defender for Cloud alerts to Microsoft Sentinel | [Ingest Microsoft Defender for Cloud alerts to Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud) |
-| Describe the embedded experiences of Microsoft Copilot for Security | [Describe the embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) |
+| **Associated Training** |
+|-------------------------|
+| [Manage and respond to security alerts](https://learn.microsoft.com/en-us/azure/defender-for-cloud/managing-and-responding-alerts) |
+| [View and remediate findings from vulnerability assessment solutions on your VMs](https://learn.microsoft.com/en-us/azure/defender-for-cloud/remediate-vulnerability-findings-vm) |
+| [Automate remediation responses](https://learn.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation) |
+| [Security Control: Incident response](https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response) |
+| [Ingest Microsoft Defender for Cloud alerts to Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud) |
+| [Describe the embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) |
 
-#### Increase transparency of mitigated cloud vulnerabilities through the adoption and release of Common Weakness Enumeration™ (CWE™), and Common Platform Enumeration™ (CPE™) industry standards
+##### Increase transparency of mitigated cloud vulnerabilities through the adoption and release of Common Weakness Enumeration™ (CWE™), and Common Platform Enumeration™ (CPE™) industry standards
 
-| **Module** | **Link** |
-|------------|----------|
-| Enable vulnerability scanning with Microsoft Defender Vulnerability Management | [Enable vulnerability scanning with Microsoft Defender Vulnerability Management](https://learn.microsoft.com/en-us/azure/defender-for-cloud/deploy-vulnerability-assessment-defender-vulnerability-management) |
-| Security alerts | [Security alerts -- Reference Guide](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference) |
-| Automatically configure vulnerability assessment for your machines | [Automatically configure vulnerability assessment for your machines](https://learn.microsoft.com/en-us/azure/defender-for-cloud/auto-deploy-vulnerability-assessment) |
-| Track and respond to emerging threats through threat analytics | [Track and respond to emerging threats through threat analytics](https://learn.microsoft.com/en-us/defender-endpoint/threat-analytics) |
+| **Associated Training** |
+|-------------------------|
+| [Enable vulnerability scanning with Microsoft Defender Vulnerability Management](https://learn.microsoft.com/en-us/azure/defender-for-cloud/deploy-vulnerability-assessment-defender-vulnerability-management) |
+| [Security alerts -- Reference Guide](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference) |
+| [Automatically configure vulnerability assessment for your machines](https://learn.microsoft.com/en-us/azure/defender-for-cloud/auto-deploy-vulnerability-assessment) |
+| [Track and respond to emerging threats through threat analytics](https://learn.microsoft.com/en-us/defender-endpoint/threat-analytics) |
 
-#### Improve the accuracy, effectiveness, transparency, and velocity of public messaging and customer engagement
+##### Improve the accuracy, effectiveness, transparency, and velocity of public messaging and customer engagement
 
-| **Module** | **Link** |
-|------------|----------|
-| Secure score in Defender for Cloud | [Secure score in Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) |
-| Improve regulatory compliance | [Improve regulatory compliance](https://learn.microsoft.com/en-us/azure/defender-for-cloud/regulatory-compliance-dashboard) |
-| Automate remediation responses | [Automate remediation responses](https://learn.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation) |
-| Set up continuous export in the Azure portal | [Set up continuous export in the Azure portal](https://learn.microsoft.com/en-us/azure/defender-for-cloud/continuous-export) |
-| Security alerts and incidents | [Security alerts and incidents](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) |
+| **Associated Training** |
+|-------------------------|
+| [Secure score in Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) |
+| [Improve regulatory compliance](https://learn.microsoft.com/en-us/azure/defender-for-cloud/regulatory-compliance-dashboard) |
+| [Automate remediation responses](https://learn.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation) |
+| [Set up continuous export in the Azure portal](https://learn.microsoft.com/en-us/azure/defender-for-cloud/continuous-export) |
+| [Security alerts and incidents](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) |
 
 
 <div>&nbsp;</div>
