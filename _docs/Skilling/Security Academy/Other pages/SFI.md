@@ -212,7 +212,7 @@ ___
 | **Associated Training** |
 |-------------------------|
 | [Introduction to Secure DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-secure-devops/) |
-| [Describe DevOps Security Management](https://learn.microsoft.com/en-us/training/modules/describe-security-management-capabilities-of-azure/6-describe-dev-ops-security-management) |
+| [DevOps Security Management](https://learn.microsoft.com/en-us/training/modules/describe-security-management-capabilities-of-azure/6-describe-dev-ops-security-management) |
 | [Connect Azure DevOps environments to Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-devops) |
 
 #### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)
@@ -229,23 +229,21 @@ ___
 
 | **Associated Training** |
 |-------------------------|
-| [Evaluate security posture of existing application portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
 | [What is Microsoft Defender Vulnerability Management (MDVM)](https://learn.microsoft.com/en-us/defender-vulnerability-management/defender-vulnerability-management) |
-| [Describe threat protection with Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/) |
 
-##### Retain 100% of security logs for at least two years and make six months of appropriate logs available to customers.
+##### Retain 100% of security logs for at least two years and make six months of appropriate logs available to customers
 
 | **Associated Training** |
 |-------------------------|
 | [Manage audit log retention policies](https://learn.microsoft.com/en-us/purview/audit-log-retention-policies?tabs=microsoft-purview-portal#default-audit-log-retention-policy) |
-| [Describe the audit solutions in Microsoft Purview](https://learn.microsoft.com/en-us/training/modules/describe-purview-risk-compliance-governance/2-describe-audit) |
+| [Audit in Microsoft Purview](https://learn.microsoft.com/en-us/training/modules/describe-purview-risk-compliance-governance/2-describe-audit) |
 
-##### Automatically detect and respond rapidly to anomalous access, behaviors, and configurations across 100% of Microsoft production infrastructure and services.
+##### Automatically detect and respond to anomalous access, behaviors, and configurations across 100% of Microsoft production infrastructure and services
 
 | **Associated Training** |
 |-------------------------|
-| [Describe threat protection with Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/) |
-| [Describe the embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) |
+| [Threat protection with Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/) |
+| [Embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) |
 
 #### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)
 
