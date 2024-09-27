@@ -169,14 +169,14 @@ ___
 | [Advanced Azure Kubernetes Service (AKS) microservices architecture](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced) |
 | [Secure networks with Zero Trust](https://learn.microsoft.com/en-us/security/zero-trust/deploy/networks) |
 
-##### Enable customers to easily secure their networks and network isolate resources in the cloud
+##### Enable customers to easily secure their networks and isolate resources in the cloud
 
 | **Associated Training** |
 |-------------------------|
-| [Azure network security overview](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-overview) |
 | [Isolation in the Azure Public Cloud](https://learn.microsoft.com/en-us/azure/security/fundamentals/isolation-choices) |
+| [Azure Network Security](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-overview) |
 | [Azure best practices for network security](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-best-practices) |
-| [Tutorial: Filter network traffic with a network security group using the Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic?tabs=portal) |
+| [Tutorial: Filter network traffic with a network security group (NSG) using the Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic?tabs=portal) |
 | [Deploy and configure Azure Firewall using the Azure portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal) |
 
 #### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)
