@@ -11,11 +11,8 @@ tags:
 - getting started
 ---
 
-## Microsoft Security Academy
+## Microsoft Security Academy <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="max-width: 100px; height: auto; margin-left: 20px; vertical-align: middle;">
 
-<div style="text-align: center;">
-    <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="max-width: 100px; height: auto; margin-bottom: 20px;">
-</div>
 
 ### Learn about Microsoft's Secure Future Initiative
 The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve the way we design, build, test, and operate our products and services, to achieve the highest possible standards for security.
@@ -63,37 +60,37 @@ This page is organized by SFI's six key pillars, each representing a critical ar
 
 ### Protect identities and secrets
 
-#### Protect identity infrastructure signing and platform keys with rapid and automatic rotation (e.g., HSMs)
+##### Protect identity infrastructure signing and platform keys with rapid and automatic rotation (e.g., HSMs)
+
+| **Link** |
+|------------|----------|
+| [Configure and manage secrets in Azure Key Vault](https://learn.microsoft.com/en-us/training/modules/configure-and-manage-azure-key-vault/) |
+| [Plan, implement, and manage governance for security](https://learn.microsoft.com/en-us/training/modules/governance-security/?source=recommendations) |
+| [Advance your security posture with Microsoft Intune](https://learn.microsoft.com/en-us/training/modules/m365-advance-organization-security-posture/) |
+| [Protect infrastructure with Zero Trust](https://learn.microsoft.com/en-us/training/modules/zero-trust-infrastructure/) |
+
+##### Ensure 100% of user accounts are protected with securely managed, phishing-resistant MFA
 
 | **Module** | **Link** |
 |------------|----------|
-| Configure and manage secrets in Azure Key Vault | [Configure and manage secrets in Azure Key Vault](https://learn.microsoft.com/en-us/training/modules/configure-and-manage-azure-key-vault/) |
-| Plan, implement, and manage governance for security | [Plan, implement, and manage governance for security](https://learn.microsoft.com/en-us/training/modules/governance-security/?source=recommendations) |
-| Advance your security posture with Microsoft Intune from chip to cloud | [Advance your security posture with Microsoft Intune](https://learn.microsoft.com/en-us/training/modules/m365-advance-organization-security-posture/) |
-| Protect infrastructure with Zero Trust | [Protect infrastructure with Zero Trust](https://learn.microsoft.com/en-us/training/modules/zero-trust-infrastructure/) |
+| [Secure Microsoft Entra users with MFA](https://learn.microsoft.com/en-us/training/modules/secure-aad-users-with-mfa/) |
+| [Understand Microsoft 365 identity and access management](https://learn.microsoft.com/en-us/training/modules/audit-identity-access-management/) |
+| [Securing you: Basics and beyond](https://learn.microsoft.com/en-us/training/modules/securing-you-basics-beyond/) |
 
-#### Ensure 100% of user accounts are protected with securely managed, phishing-resistant MFA
-
-| **Module** | **Link** |
-|------------|----------|
-| Secure Microsoft Entra users with multifactor authentication | [Secure Microsoft Entra users with MFA](https://learn.microsoft.com/en-us/training/modules/secure-aad-users-with-mfa/) |
-| Understand Microsoft 365 identity and access management | [Understand Microsoft 365 identity and access management](https://learn.microsoft.com/en-us/training/modules/audit-identity-access-management/) |
-| Securing you: Basics and beyond | [Securing you: Basics and beyond](https://learn.microsoft.com/en-us/training/modules/securing-you-basics-beyond/) |
-
-#### Ensure 100% of apps are protected with system-managed credentials (e.g., Managed Identity, Managed Certificates)
+##### Ensure 100% of apps are protected with system-managed credentials (e.g., Managed Identity, Managed Certificates)
 
 | **Module** | **Link** |
 |------------|----------|
 | Manage application access with Microsoft Entra ID | [Manage application access in Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/manage-application-access-microsoft-entra-id/) |
 | Design solution for secure applications | [Design solutions for securing applications](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/) |
 
-#### Adopt more fine-grained partitioning of identity signing keys and platform keys
+##### Adopt more fine-grained partitioning of identity signing keys and platform keys
 
 | **Module** | **Link** |
 |------------|----------|
 | Encrypt public sector data in Azure | [Key management in Azure](https://learn.microsoft.com/en-us/azure/security/fundamentals/key-management) |
 
-#### Ensure identity and public key infrastructure (PKI) systems are ready for post-quantum cryptography
+##### Ensure identity and public key infrastructure (PKI) systems are ready for post-quantum cryptography
 
 | **Module** | **Link** |
 |------------|----------|
