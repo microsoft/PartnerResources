@@ -70,7 +70,7 @@ This page is organized by SFI's six key pillars, each representing a critical ar
 
 ##### Protect identity infrastructure signing and platform keys with rapid and automatic rotation (e.g., HSMs)
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Configure and manage secrets in Azure Key Vault](https://learn.microsoft.com/en-us/training/modules/configure-and-manage-azure-key-vault/) |
 | [Plan, implement, and manage governance for security](https://learn.microsoft.com/en-us/training/modules/governance-security/?source=recommendations) |
@@ -79,7 +79,7 @@ This page is organized by SFI's six key pillars, each representing a critical ar
 
 ##### Ensure 100% of user accounts are protected with securely managed, phishing-resistant MFA
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Secure Microsoft Entra users with MFA](https://learn.microsoft.com/en-us/training/modules/secure-aad-users-with-mfa/) |
 | [Understand Microsoft 365 Identity and Access management](https://learn.microsoft.com/en-us/training/modules/audit-identity-access-management/) |
@@ -87,7 +87,7 @@ This page is organized by SFI's six key pillars, each representing a critical ar
 
 ##### Ensure 100% of applications are protected with system-managed credentials (e.g., Managed Identity, Managed Certificates)
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Manage application access in Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/manage-application-access-microsoft-entra-id/) |
 | [Design solutions for securing applications](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/) |
