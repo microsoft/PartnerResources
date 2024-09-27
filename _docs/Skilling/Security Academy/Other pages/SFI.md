@@ -18,7 +18,44 @@ tags:
 </div>
 
 ### Learn about Microsoft's Secure Future Initiative
-The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve the way we design, build, test, and operate our products and services, to achieve the highest possible standards for security. 
+The Microsoft Secure Future Initiative (SFI) is a multiyear initiative to evolve the way we design, build, test, and operate our products and services, to achieve the highest possible standards for security.
+
+Read about our progress improving our security culture, governance, standards, and principles from the **[newly released SFI Progress Report](https://www.microsoft.com/en-us/security/blog/2024/09/23/securing-our-future-september-2024-progress-update-on-microsofts-secure-future-initiative-sfi/).**📢
+
+## Table of Contents
+
+This page is organized by SFI's six key pillars, each representing a critical area of cybersecurity focus.
+
+
+<table>
+    <tr>
+        <td colspan="2" style="text-align: center;"><b>Table of Contents</b></td>
+    </tr>
+    <tr>
+        <td><b><a href="#protect-identities-and-secrets">Protect identities and secrets</a></b></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><b><a href="#protect-tenants">Protect tenants</a></b></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><b><a href="#protect-networks">Protect networks</a></b></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><b><a href="#protect-engineering-systems">Protect engineering systems</a></b></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><b><a href="#monitor-and-detect-threats">Monitor and detect threats</a></b></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><b><a href="#response-and-remediation">Response and remediation</a></b></td>
+        <td></td>
+    </tr>
+</table>
 
 
 <div>&nbsp;</div>
