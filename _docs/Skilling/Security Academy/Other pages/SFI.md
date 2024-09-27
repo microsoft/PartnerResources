@@ -118,10 +118,10 @@ ___
 
 | **Associated Training** |
 |-------------------------|
-| [Design solutions for security posture management in hybrid and multicloud environments](https://learn.microsoft.com/en-us/training/modules/design-solutions-security-posture-management-hybrid-multicloud-environments/) |
+| [Security posture management in hybrid and multicloud environments](https://learn.microsoft.com/en-us/training/modules/design-solutions-security-posture-management-hybrid-multicloud-environments/) |
 | [Evaluate security posture of existing application portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
 
-##### Protect 100% of Microsoft, acquired, and employee-created tenants, commerce accounts, and tenant resources
+##### Protect 100% of acquired and employee-created tenants, commerce accounts, and tenant resources
 
 | **Associated Training** |
 |-------------------------|
