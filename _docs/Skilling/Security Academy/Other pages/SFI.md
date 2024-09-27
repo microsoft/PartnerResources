@@ -260,30 +260,29 @@ ___
 | **Associated Training** |
 |-------------------------|
 | [Manage and respond to security alerts](https://learn.microsoft.com/en-us/azure/defender-for-cloud/managing-and-responding-alerts) |
-| [View and remediate findings from vulnerability assessment solutions on your VMs](https://learn.microsoft.com/en-us/azure/defender-for-cloud/remediate-vulnerability-findings-vm) |
 | [Automate remediation responses](https://learn.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation) |
+| [View and remediate findings from vulnerability assessments on your VMs](https://learn.microsoft.com/en-us/azure/defender-for-cloud/remediate-vulnerability-findings-vm) |
 | [Security Control: Incident response](https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response) |
 | [Ingest Microsoft Defender for Cloud alerts to Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud) |
-| [Describe the embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) |
+| [Embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) |
 
-##### Increase transparency of mitigated cloud vulnerabilities through the adoption and release of Common Weakness Enumeration™ (CWE™), and Common Platform Enumeration™ (CPE™) industry standards
+##### Increase transparency through the adoption and release of Common Weakness Enumeration™ (CWE™), and Common Platform Enumeration™ (CPE™)
 
 | **Associated Training** |
 |-------------------------|
 | [Enable vulnerability scanning with Microsoft Defender Vulnerability Management](https://learn.microsoft.com/en-us/azure/defender-for-cloud/deploy-vulnerability-assessment-defender-vulnerability-management) |
-| [Security alerts -- Reference Guide](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference) |
 | [Automatically configure vulnerability assessment for your machines](https://learn.microsoft.com/en-us/azure/defender-for-cloud/auto-deploy-vulnerability-assessment) |
+| [Security alerts -- Reference Guide](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference) |
 | [Track and respond to emerging threats through threat analytics](https://learn.microsoft.com/en-us/defender-endpoint/threat-analytics) |
 
 ##### Improve the accuracy, effectiveness, transparency, and velocity of public messaging and customer engagement
 
 | **Associated Training** |
 |-------------------------|
-| [Secure score in Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) |
+| [Secure score in Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) |
 | [Improve regulatory compliance](https://learn.microsoft.com/en-us/azure/defender-for-cloud/regulatory-compliance-dashboard) |
 | [Automate remediation responses](https://learn.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation) |
 | [Set up continuous export in the Azure portal](https://learn.microsoft.com/en-us/azure/defender-for-cloud/continuous-export) |
-| [Security alerts and incidents](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) |
 
 #### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)
 
