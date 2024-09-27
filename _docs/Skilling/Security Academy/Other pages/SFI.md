@@ -58,7 +58,7 @@ This page is organized by SFI's six key pillars, each representing a critical ar
                 <td></td>
             </tr>
             <tr>
-                <td><strong><a href="#response-and-remediation">Accelerate response and remediation</a></strong></td>
+                <td><strong><a href="#accelerate-response-and-remediation">Accelerate response and remediation</a></strong></td>
                 <td></td>
             </tr>
         </tbody>
@@ -82,10 +82,10 @@ This page is organized by SFI's six key pillars, each representing a critical ar
 | **Associated Training** |
 |-------------------------|
 | [Secure Microsoft Entra users with MFA](https://learn.microsoft.com/en-us/training/modules/secure-aad-users-with-mfa/) |
-| [Understand Microsoft 365 identity and access management](https://learn.microsoft.com/en-us/training/modules/audit-identity-access-management/) |
+| [Understand Microsoft 365 Identity and Access management](https://learn.microsoft.com/en-us/training/modules/audit-identity-access-management/) |
 | [Securing you: Basics and beyond](https://learn.microsoft.com/en-us/training/modules/securing-you-basics-beyond/) |
 
-##### Ensure 100% of apps are protected with system-managed credentials (e.g., Managed Identity, Managed Certificates)
+##### Ensure 100% of applications are protected with system-managed credentials (e.g., Managed Identity, Managed Certificates)
 
 | **Associated Training** |
 |-------------------------|
@@ -96,7 +96,7 @@ This page is organized by SFI's six key pillars, each representing a critical ar
 
 | **Associated Training** |
 |-------------------------|
-| [Encrypt public sector data in Azure](https://learn.microsoft.com/en-us/azure/security/fundamentals/key-management) |
+| [Key management in Azure](https://learn.microsoft.com/en-us/azure/security/fundamentals/key-management) |
 
 ##### Ensure identity and public key infrastructure (PKI) systems are ready for post-quantum cryptography
 
@@ -104,7 +104,7 @@ This page is organized by SFI's six key pillars, each representing a critical ar
 |-------------------------|
 | [NIST Releases First 3 Finalized Post-Quantum Encryption Standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards#:~:text=NIST%20has%20released%20a%20final%20set%20of%20encryption,to%20e-commerce%20transactions%20that%20propel%20the%20modern%20economy.) |
 
-#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)?
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)
 
 
 <div>&nbsp;</div>
@@ -119,7 +119,7 @@ ___
 | **Associated Training** |
 |-------------------------|
 | [Design solutions for security posture management in hybrid and multicloud environments](https://learn.microsoft.com/en-us/training/modules/design-solutions-security-posture-management-hybrid-multicloud-environments/) |
-| [Evaluate security posture of existing app portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
+| [Evaluate security posture of existing application portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
 
 ##### Protect 100% of Microsoft, acquired, and employee-created tenants, commerce accounts, and tenant resources
 
@@ -127,7 +127,7 @@ ___
 |-------------------------|
 | [Secure tenant administration](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-privileged-access/4-design-solution-secure-tenant-administration) |
 
-##### 100% of apps and users have continuous least-privilege access enforcement
+##### 100% of application and users have continuous least-privilege access enforcement
 
 | **Associated Training** |
 |-------------------------|
@@ -139,7 +139,7 @@ ___
 |-------------------------|
 | [Identity and access management](https://learn.microsoft.com/en-us/training/modules/design-solutions-identity-access-management/) |
 
-#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)?
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)
 
 
 <div>&nbsp;</div>
@@ -179,7 +179,7 @@ ___
 | [Tutorial: Filter network traffic with a network security group using the Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic?tabs=portal) |
 | [Deploy and configure Azure Firewall using the Azure portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal) |
 
-#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)?
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)
 
 
 <div>&nbsp;</div>
@@ -215,7 +215,7 @@ ___
 | [Connect Azure DevOps environments to Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-devops) |
 | [Introduction to Secure DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-secure-devops/) |
 
-#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)?
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)
 
 
 <div>&nbsp;</div>
@@ -229,7 +229,7 @@ ___
 
 | **Associated Training** |
 |-------------------------|
-| [Evaluate security posture of existing app portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
+| [Evaluate security posture of existing application portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
 | [What is Microsoft Defender Vulnerability Management (MDVM)](https://learn.microsoft.com/en-us/defender-vulnerability-management/defender-vulnerability-management) |
 | [Describe threat protection with Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/) |
 
@@ -247,7 +247,7 @@ ___
 | [Describe threat protection with Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/) |
 | [Describe the embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) |
 
-#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)?
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)
 
 
 <div>&nbsp;</div>
@@ -287,7 +287,7 @@ ___
 | [Set up continuous export in the Azure portal](https://learn.microsoft.com/en-us/azure/defender-for-cloud/continuous-export) |
 | [Security alerts and incidents](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) |
 
-#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)?
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)
 
 
 <div>&nbsp;</div>
