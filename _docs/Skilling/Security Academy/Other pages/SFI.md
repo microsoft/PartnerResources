@@ -94,13 +94,13 @@ This page is organized by SFI's six key pillars, each representing a critical ar
 
 ##### Adopt more fine-grained partitioning of identity signing keys and platform keys
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Key management in Azure](https://learn.microsoft.com/en-us/azure/security/fundamentals/key-management) |
 
 ##### Ensure identity and public key infrastructure (PKI) systems are ready for post-quantum cryptography
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [NIST Releases First 3 Finalized Post-Quantum Encryption Standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards#:~:text=NIST%20has%20released%20a%20final%20set%20of%20encryption,to%20e-commerce%20transactions%20that%20propel%20the%20modern%20economy.) |
 
@@ -116,26 +116,26 @@ ___
 
 ##### Maintain the security posture and commercial relationships of tenants by removing all unused, aged, or legacy systems
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Security posture management in hybrid and multicloud environments](https://learn.microsoft.com/en-us/training/modules/design-solutions-security-posture-management-hybrid-multicloud-environments/) |
 | [Evaluate security posture of existing application portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
 
 ##### Protect 100% of acquired and employee-created tenants, commerce accounts, and tenant resources
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Secure tenant administration](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-privileged-access/4-design-solution-secure-tenant-administration) |
 
 ##### 100% of applications and users have continuous least-privilege access enforcement
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Securing privileged access](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-privileged-access/) |
 
 ##### Manage 100% of Microsoft Entra ID applications to a high, consistent security bar
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Identity and Access management](https://learn.microsoft.com/en-us/training/modules/design-solutions-identity-access-management/) |
 
@@ -151,7 +151,7 @@ ___
 
 ##### Secure 100% of production networks and systems connected to the networks by improving isolation, monitoring, inventory, and secure operations
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Protect network resources](https://learn.microsoft.com/en-us/azure/defender-for-cloud/protect-network-resources) |
 | [Other threat protections in Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/other-threat-protections) |
@@ -161,7 +161,7 @@ ___
 
 ##### Apply network isolation and microsegmentation to 100% of production environments, creating additional layers of defense against attackers
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Secure and govern workloads with network-level segmentation](https://learn.microsoft.com/en-us/azure/architecture/networking/guide/network-level-segmentation) |
 | [Azure guidance for secure isolation](https://learn.microsoft.com/en-us/azure/azure-government/azure-secure-isolation-guidance) |
@@ -171,7 +171,7 @@ ___
 
 ##### Enable customers to easily secure their networks and isolate resources in the cloud
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Isolation in the Azure Public Cloud](https://learn.microsoft.com/en-us/azure/security/fundamentals/isolation-choices) |
 | [Azure Network Security](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-overview) |
@@ -191,25 +191,25 @@ ___
 
 ##### Build and maintain inventory for 100% of the software assets used to deploy and operate Microsoft products and services
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Evaluate security posture of existing application portfolios](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/3-evaluate-security-posture-existing-application-portfolios) |
 
 ##### 100% of access to source code and engineering systems infrastructure is secured through Zero Trust and least-privilege access policies
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Secure access for workload identities](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/6-secure-access-workload-identities) |
 
 ##### 100% of source code that deploys to production environments is protected through security best practices
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Design and implement standards to secure application development](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/2-design-implement-standards-secure-application-development) |
 
 ##### Secure development, build, test, and release environments with 100% standardized, governed pipelines and infrastructure isolation.
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Introduction to Secure DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-secure-devops/) |
 | [DevOps Security Management](https://learn.microsoft.com/en-us/training/modules/describe-security-management-capabilities-of-azure/6-describe-dev-ops-security-management) |
@@ -227,20 +227,20 @@ ___
 
 ##### Maintain a current inventory across 100% of production infrastructure and services
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [What is Microsoft Defender Vulnerability Management (MDVM)](https://learn.microsoft.com/en-us/defender-vulnerability-management/defender-vulnerability-management) |
 
 ##### Retain 100% of security logs for at least two years and make six months of appropriate logs available to customers
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Manage audit log retention policies](https://learn.microsoft.com/en-us/purview/audit-log-retention-policies?tabs=microsoft-purview-portal#default-audit-log-retention-policy) |
 | [Audit in Microsoft Purview](https://learn.microsoft.com/en-us/training/modules/describe-purview-risk-compliance-governance/2-describe-audit) |
 
-##### Automatically detect and respond to anomalous access, behaviors, and configurations across 100% of Microsoft production infrastructure and services
+##### Automatically detect and respond to anomalous access, behaviors, and configurations across 100% of production infrastructure and services
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Threat protection with Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/) |
 | [Embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) |
@@ -257,7 +257,7 @@ ___
 
 ##### Reduce the Time to Mitigate for high-severity cloud security vulnerabilities with accelerated response
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Manage and respond to security alerts](https://learn.microsoft.com/en-us/azure/defender-for-cloud/managing-and-responding-alerts) |
 | [Automate remediation responses](https://learn.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation) |
@@ -268,7 +268,7 @@ ___
 
 ##### Increase transparency through the adoption and release of Common Weakness Enumeration™ (CWE™), and Common Platform Enumeration™ (CPE™)
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Enable vulnerability scanning with Microsoft Defender Vulnerability Management](https://learn.microsoft.com/en-us/azure/defender-for-cloud/deploy-vulnerability-assessment-defender-vulnerability-management) |
 | [Automatically configure vulnerability assessment for your machines](https://learn.microsoft.com/en-us/azure/defender-for-cloud/auto-deploy-vulnerability-assessment) |
@@ -277,7 +277,7 @@ ___
 
 ##### Improve the accuracy, effectiveness, transparency, and velocity of public messaging and customer engagement
 
-| **Associated Training** |
+| **Training** |
 |-------------------------|
 | [Secure score in Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) |
 | [Improve regulatory compliance](https://learn.microsoft.com/en-us/azure/defender-for-cloud/regulatory-compliance-dashboard) |

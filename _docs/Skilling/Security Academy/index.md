@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-09-27
+updated: 2024-09-30
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -47,6 +47,7 @@ showbreadcrumb: true
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/specializations">Security Specializations</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/certifications">Security Certifications</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/programs">Partner Programs</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/sfi">Secure Future Initiative</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security">Copilot for Security Technical Journey & Resources</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa">Copilot for Security Q&A</a></li>
                         <li><a href="/PartnerResources/security/microsoft-security-academy/microsoft-sentinel">Microsoft Sentinel Resources</a></li>
@@ -59,9 +60,9 @@ showbreadcrumb: true
 
 ___
 
-## September 27th, 2024 Update📰
+## September 30th, 2024 Update📰
 
-**Recent Update** (September 27th): **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
+**Recent Update** (September 30th): **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/sfi)** |
 
 Read about our progress improving our security culture, governance, standards, and principles from the **[newly released SFI Progress Report](https://www.microsoft.com/en-us/security/blog/2024/09/23/securing-our-future-september-2024-progress-update-on-microsofts-secure-future-initiative-sfi/).**
 
