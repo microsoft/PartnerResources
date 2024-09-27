@@ -104,6 +104,8 @@ This page is organized by SFI's six key pillars, each representing a critical ar
 |-------------------------|
 | [NIST Releases First 3 Finalized Post-Quantum Encryption Standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards#:~:text=NIST%20has%20released%20a%20final%20set%20of%20encryption,to%20e-commerce%20transactions%20that%20propel%20the%20modern%20economy.) |
 
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)?
+
 
 <div>&nbsp;</div>
 
@@ -136,6 +138,8 @@ ___
 | **Associated Training** |
 |-------------------------|
 | [Identity and access management](https://learn.microsoft.com/en-us/training/modules/design-solutions-identity-access-management/) |
+
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)?
 
 
 <div>&nbsp;</div>
@@ -175,6 +179,8 @@ ___
 | [Tutorial: Filter network traffic with a network security group using the Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic?tabs=portal) |
 | [Deploy and configure Azure Firewall using the Azure portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal) |
 
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)?
+
 
 <div>&nbsp;</div>
 
@@ -209,6 +215,8 @@ ___
 | [Connect Azure DevOps environments to Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-devops) |
 | [Introduction to Secure DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-secure-devops/) |
 
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)?
+
 
 <div>&nbsp;</div>
 
@@ -238,6 +246,8 @@ ___
 |-------------------------|
 | [Describe threat protection with Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/) |
 | [Describe the embedded experiences of Microsoft Copilot for Security](https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/) |
+
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)?
 
 
 <div>&nbsp;</div>
@@ -276,6 +286,8 @@ ___
 | [Automate remediation responses](https://learn.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation) |
 | [Set up continuous export in the Azure portal](https://learn.microsoft.com/en-us/azure/defender-for-cloud/continuous-export) |
 | [Security alerts and incidents](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) |
+
+#### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/sfi#table-of-contents)?
 
 
 <div>&nbsp;</div>
