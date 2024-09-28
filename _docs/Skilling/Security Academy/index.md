@@ -62,7 +62,7 @@ ___
 
 ## September 30th, 2024 Update📰
 
-**Recent Update** (September 30th): **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/sfi)** |
+**Recent Update** (September 30th): **[Secure Future Initiative](/PartnerResources/skilling/microsoft-security-academy/sfi)** |
 
 Read about our progress improving our security culture, governance, standards, and principles from the **[newly released SFI Progress Report](https://www.microsoft.com/en-us/security/blog/2024/09/23/securing-our-future-september-2024-progress-update-on-microsofts-secure-future-initiative-sfi/).**
 
