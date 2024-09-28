@@ -329,6 +329,9 @@
             - title: Q&A
               url: "skilling/microsoft-security-academy/microsoft-copilot-for-security-qa"
               tag: msa
+        - title: Secure Future Initiative 
+          url: "skilling/microsoft-security-academy/sfi"
+          tag: msa
         - title: Modules
           url: "skilling/microsoft-security-academy/modules"
           tag: msa
