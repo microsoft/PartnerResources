@@ -201,8 +201,8 @@ We recommend watching the following videos created by Microsoft Security and the
     <td><a href="https://youtu.be/DSL-nPWUXlY?si=NSQvyGyhMakPGLZX"><b>Copilot for Security Responsible AI</b></a><br><br>Learn how Copilot for Security mitigates Responsible AI issues and explore Generative AI threats, including prompt injection attacks, disinformation campaigns, spear phishing, etc., and how we at Microsoft defeat them.</td>
   </tr>
   <tr style="vertical-align:top">
-   <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><img src="https://img.youtube.com/vi/0lg_derTkaM/maxresdefault.jpg" alt="How Microsoft Copilot for Security works" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/0lg_derTkaM?si=qrp0F_GcPwFPoI7i"><b>How Microsoft Copilot for Security works</b></a><br><br>Ryan Munsch, from the Copilot for Security team, joins host Jeremy Chapman to share how Copilot for Security is an enterprise-grade natural language interface for your organization's security data.</td>
+   <td><a href="https://youtu.be/0lg_derTkaM"><img src="https://img.youtube.com/vi/0lg_derTkaM/maxresdefault.jpg" alt="How Microsoft Copilot for Security works" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/0lg_derTkaM"><b>How Microsoft Copilot for Security works</b></a><br><br>Ryan Munsch, from the Copilot for Security team, joins host Jeremy Chapman to share how Copilot for Security is an enterprise-grade natural language interface for your organization's security data.</td>
   </tr>
 </table>
 
