@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting Started with the Microsoft Security Academy
+title: Getting Started with Microsoft Security
 description: Want to begin or continue your security journey?
 permalink: /skilling/microsoft-security-academy/start
 updated: 2024-08-30
