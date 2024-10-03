@@ -80,7 +80,6 @@ ___
 
 Copilot for Security is also now **[covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174?utm_source=substack&utm_medium=email)🎉**
 
-<div>&nbsp;</div>
 
 ### Events
 
