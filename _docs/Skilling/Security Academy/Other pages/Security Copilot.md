@@ -108,7 +108,7 @@ Are you ready to get started? Dive into onboarding guidance, prompt engineering 
 * [Navigate Copilot for Security](https://learn.microsoft.com/en-us/security-copilot/navigating-security-copilot?view=o365-worldwide)
 * [Create effective prompts](https://learn.microsoft.com/en-us/security-copilot/prompting-tips?view=o365-worldwide)
 * [What is a compound AI system?](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
-* [**NEW:** Using Microsoft Graph as a Microsoft Copilot for Security Plugin with Delegated Access](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/using-microsoft-graph-as-a-microsoft-copilot-for-security-plugin/ba-p/4198148)
+* [Using Microsoft Graph as a Microsoft Copilot for Security Plugin with Delegated Access](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/using-microsoft-graph-as-a-microsoft-copilot-for-security-plugin/ba-p/4198148)
 
 ### Onboarding
 
@@ -173,7 +173,7 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Cloud compromise](https://securitypartners.transform.microsoft.com/copilot-for-security-demo-05)
 * [Troubleshooting](https://securitypartners.transform.microsoft.com/copilot-for-security-demo-06)
 
-#### Also explore our new [Microsoft Copilot for Security Instructional Demo Videos](https://youtube.com/playlist?list=PLmAptfqzxVEW6hqgkKT_a4LNnBQm4omQq&si=ESe0reET31um8dfc)📹
+#### Also explore our [Microsoft Copilot for Security Instructional Demo Videos](https://youtube.com/playlist?list=PLmAptfqzxVEW6hqgkKT_a4LNnBQm4omQq&si=ESe0reET31um8dfc)📹
 
 ### Videos
 
@@ -274,7 +274,7 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 * [Computer Incident Response Center Luxembourg (CIRCL)](https://learn.microsoft.com/en-us/copilot/security/plugin-circl) -- CIRCL is a government initiative that enables users to validate suspicious files in the form of hashes
 * [CrowdSec](https://learn.microsoft.com/en-us/copilot/security/plugin-crowdsec) -- CrowdSec provides identification and verification of potentially malicious IPs
 * [CyberArk](https://learn.microsoft.com/en-us/copilot/security/plugin-cyberark) -- CyberArk Privilege Cloud helps to securely store, rotate, and isolate credentials
-* [**NEW:** Cybersixgill](https://learn.microsoft.com/en-us/copilot/security/plugin-cybersixgill) -- Cybersixgill offers real-time TI solutions, including from the dark web
+* [Cybersixgill](https://learn.microsoft.com/en-us/copilot/security/plugin-cybersixgill) -- Cybersixgill offers real-time TI solutions, including from the dark web
 * [Cyware](https://learn.microsoft.com/en-us/copilot/security/plugin-cyware) -- Cyware is an end-to-end incident management and response platform
 * [Darktrace](https://learn.microsoft.com/en-us/copilot/security/plugin-darktrace) -- Darktrace offers cybersecurity AI services
 * [Forescout Vedere Labs](https://learn.microsoft.com/en-us/copilot/security/plugin-forescout-vedere-labs) -- Forescout research teams provide a TI feed containing IP, URL, and File hash indicators for potentially malicious activity
@@ -287,11 +287,11 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 * [Saviynt](https://learn.microsoft.com/en-us/copilot/security/plugin-saviynt) -- Saviynt provides insights into identity-related risks
 * [SGNL](https://learn.microsoft.com/en-us/copilot/security/plugin-sgnl) -- SGNL provides Zero Standing Privilege (ZSP) initiatives to protect user sessions and credentials
 * [Shodan](https://learn.microsoft.com/en-us/copilot/security/plugin-shodan) -- Shodan is a search engine that allows users to find specific types of devices connected to the Internet
-* [**NEW:** Silverfort](https://learn.microsoft.com/en-us/copilot/security/plugin-silverfort) -- Silverfort provides advanced CEF data from Microsoft Sentinel
+* [Silverfort](https://learn.microsoft.com/en-us/copilot/security/plugin-silverfort) -- Silverfort provides advanced CEF data from Microsoft Sentinel
 * [Tanium](https://learn.microsoft.com/en-us/copilot/security/plugin-tanium) -- Tanium is a Converged Endpoint Management (XEM) reference platform
 * [UrlScan](https://learn.microsoft.com/en-us/copilot/security/plugin-urlscan) -- UrlScan allows users to scan and analyze potentially malicious URLs
 * [Valence Security](https://learn.microsoft.com/en-us/copilot/security/plugin-valence) -- Valence combines SaaS Security Posture Management (SSPM) and advanced remediation
-* [**NEW:** Whoisfreaks](https://learn.microsoft.com/en-us/copilot/security/plugin-whoisfreaks) -- Whoisfreaks provides domain and IP intelligence services
+* [Whoisfreaks](https://learn.microsoft.com/en-us/copilot/security/plugin-whoisfreaks) -- Whoisfreaks provides domain and IP intelligence services
 
 ### Extensibility Features
 
