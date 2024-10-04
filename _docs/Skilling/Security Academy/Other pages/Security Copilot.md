@@ -74,7 +74,7 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 ___
 
-## October 4th, 2024, 2024 Update📰
+## October 4th, 2024 Update📰
 
 **Recent Update** (October 4th, 2024): **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)** |
 
