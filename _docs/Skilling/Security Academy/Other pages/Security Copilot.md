@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-09-27
+updated: 2024-10-04
 showbreadcrumb: true
 tags: 
 - academy content
@@ -74,9 +74,9 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 ___
 
-## September 27th, 2024 Update📰
+## October 4th, 2024, 2024 Update📰
 
-**Recent Update** (September 27th): **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)** |
+**Recent Update** (October 4th, 2024): **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)** |
 
 Copilot for Security is also now **[covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174?utm_source=substack&utm_medium=email)🎉**
 
@@ -354,7 +354,7 @@ Beyond GA, we're also collecting this data and in good time, will provide more g
 * [Microsoft Copilot for Security in Microsoft Entra](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-security-entra?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Copilot for Security and Intune](https://learn.microsoft.com/en-us/mem/intune/fundamentals/security-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Copilot for Security and Defender EASM](https://learn.microsoft.com/en-us/azure/external-attack-surface-management/easm-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
-* [Microsoft Copilot for Security and Microsoft Defender Threat Intelligence (MDTI)](https://learn.microsoft.com/en-us/defender/threat-intelligence/security-copilot-and-defender-threat-intelligence?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Microsoft Copilot for Security and Microsoft Threat Intelligence](https://learn.microsoft.com/en-us/defender/threat-intelligence/security-copilot-and-defender-threat-intelligence?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Copilot for Security in Microsoft Purview](https://learn.microsoft.com/en-us/purview/copilot-in-purview-overview?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [**NEW:** Copilot for Security in Defender for Cloud (Preview)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/copilot-security-in-defender-for-cloud?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json&view=o365-worldwiden)
 
