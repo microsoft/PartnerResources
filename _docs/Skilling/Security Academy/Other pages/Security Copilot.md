@@ -135,8 +135,10 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Apply principles of Zero Trust to Microsoft Copilot for Security](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
 * [Exploring Copilot for Security to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
 * [Extending Copilot for Security with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267?utm_source=substack&utm_medium=email)
-* [**Harnessing the power of KQL Plugins with Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/harnessing-the-power-of-kql-plugins-for-enhanced-security/ba-p/4221891?utm_source=substack&utm_medium=email)
+* [Harnessing the power of KQL Plugins with Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/harnessing-the-power-of-kql-plugins-for-enhanced-security/ba-p/4221891?utm_source=substack&utm_medium=email)
 * [**NEW:** Customize and Optimize Copilot for Security with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
+
+##### Also explore the [Copilot for Security Partner Playbook](http://aka.ms/CfSpartnerPlaybook)
 
 ### Features
 
