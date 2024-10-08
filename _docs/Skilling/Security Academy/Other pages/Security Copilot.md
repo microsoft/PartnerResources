@@ -78,7 +78,7 @@ ___
 
 **Recent Update** (October 4th, 2024): **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)** |
 
-Copilot for Security is also now **[covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174?utm_source=substack&utm_medium=email)🎉**
+Copilot for Security is now **[covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174?utm_source=substack&utm_medium=email)🎉**
 
 
 ### Events
