@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-10-04
+updated: 2024-10-11
 showbreadcrumb: true
 tags: 
 - academy content
@@ -74,9 +74,9 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 ___
 
-## October 4th, 2024 Update📰
+## October 11th, 2024 Update📰
 
-**Recent Update** (October 4th, 2024): **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)** |
+**Recent Update** (October 11th, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** |
 
 Copilot for Security is now **[covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174?utm_source=substack&utm_medium=email)🎉**
 
@@ -86,7 +86,7 @@ Copilot for Security is now **[covered by HIPAA Business Associate Agreement (BA
 If you're a member of the **[Microsoft Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Copilot for Security Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-| Gain DLP policy insights | Thursday, October 3rd @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/c40f973f-0102-455b-83f0-d9cdffd07c6a@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  Sandbox Analysis Skill for SOC analysts | Thursday, October 17th @  8:00 AM MT | [Register](https://msit.events.teams.microsoft.com/event/d2c136ee-1533-44da-8fcb-dbe42b754919@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 
 Several colleagues have also created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).**

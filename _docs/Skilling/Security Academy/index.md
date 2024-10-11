@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-10-04
+updated: 2024-10-11
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -60,9 +60,9 @@ showbreadcrumb: true
 
 ___
 
-## October 4th, 2024 Update📰
+## October 11th, 2024 Update📰
 
-**Recent Update** (October 4th): **[Secure Future Initiative](/PartnerResources/skilling/microsoft-security-academy/sfi)** & **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
+**Recent Update** (October 11th): **[Secure Future Initiative](/PartnerResources/skilling/microsoft-security-academy/sfi)** & **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
 
 Read about our progress improving our security culture, governance, standards, and principles from the **[newly released SFI Progress Report](https://www.microsoft.com/en-us/security/blog/2024/09/23/securing-our-future-september-2024-progress-update-on-microsofts-secure-future-initiative-sfi/).**
 
@@ -84,7 +84,6 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Microsoft Sentinel | Moving to Azure Monitor Agent                    | OCT 9              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview | Navigating the Future of AI                       | OCT 15             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview | Introduction to Data Lifecycle Management (DLM)   | OCT 16             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Secure Future Initiative | Build Security Culture and Governance      | OCT 22             | [Register](https://gateway.on24.com/wcc/eh/4557503/lp/4708537/build-security-culture-and-governance-with-microsofts-secure-future-initiative-october-22-23-2024-pdt-ist-bst?partnerref=DP_SCI_ORG_OTH_PN) |
