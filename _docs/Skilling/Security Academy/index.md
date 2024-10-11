@@ -84,7 +84,6 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Microsoft Sentinel | Moving to Azure Monitor Agent                    | OCT 9              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview | Navigating the Future of AI                       | OCT 15             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview | Introduction to Data Lifecycle Management (DLM)   | OCT 16             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Secure Future Initiative | Build Security Culture and Governance      | OCT 22             | [Register](https://gateway.on24.com/wcc/eh/4557503/lp/4708537/build-security-culture-and-governance-with-microsofts-secure-future-initiative-october-22-23-2024-pdt-ist-bst?partnerref=DP_SCI_ORG_OTH_PN) |
