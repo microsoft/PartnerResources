@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-10-04
+updated: 2024-10-11
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -60,9 +60,9 @@ showbreadcrumb: true
 
 ___
 
-## October 4th, 2024 Update📰
+## October 11th, 2024 Update📰
 
-**Recent Update** (October 4th): **[Secure Future Initiative](/PartnerResources/skilling/microsoft-security-academy/sfi)** & **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
+**Recent Update** (October 11th): **[Secure Future Initiative](/PartnerResources/skilling/microsoft-security-academy/sfi)** & **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
 
 Read about our progress improving our security culture, governance, standards, and principles from the **[newly released SFI Progress Report](https://www.microsoft.com/en-us/security/blog/2024/09/23/securing-our-future-september-2024-progress-update-on-microsofts-secure-future-initiative-sfi/).**
 
