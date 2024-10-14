@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-10-11
+updated: 2024-10-15
 showbreadcrumb: true
 tags: 
 - academy content
@@ -74,9 +74,9 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 ___
 
-## October 11th, 2024 Update📰
+## October 15th, 2024 Update📰
 
-**Recent Update** (October 11th, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** |
+**Recent Update** (October 15th, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** & **[Videos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos)** |
 
 Copilot for Security is now **[covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174?utm_source=substack&utm_medium=email)🎉**
 
@@ -185,6 +185,10 @@ We recommend watching the following videos created by Microsoft Security and the
   <tr style="vertical-align:top">
    <td><a href="https://youtu.be/7hNbYOjh-1k?si=hTiYUf628nR4aC4A"><img src="https://img.youtube.com/vi/7hNbYOjh-1k/maxresdefault.jpg" alt="Microsoft Copilot for Security" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/7hNbYOjh-1k?si=hTiYUf628nR4aC4A"><b>Microsoft Copilot for Security</b></a><br><br>John Savill dives into the powerful features and capabilities of Microsoft Copilot for Security.</td>
+  </tr>
+  <tr style="vertical-align:top">
+   <td><a href="https://youtu.be/rm2-C49fXBM"><img src="https://img.youtube.com/vi/rm2-C49fXBM/maxresdefault.jpg" alt="Threat Intelligence in Copilot for Security with Volt/Silk Typhoon demo" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/rm2-C49fXBM"><b>Threat Intelligence in Copilot for Security with Volt/Silk Typhoon demo</b></a><br><br>Have you ever opened your phone, browser, or favorite news app to see an article about U.S. critical infrastructure under attack by nation-state actors like China or Russia? Learn about Microsoft Threat Intelligence in Copilot for Security, including what it is, how you can use it, and learn from a comprehensive demo featuring Volt/Silk Typhoon, prolific state-sponsored espionage actors from China.</td>
   </tr>
   <tr style="vertical-align:top">
    <td><a href="https://youtu.be/EZrKUtxFnGU?si=dWxf3UePboDB8tKU"><img src="https://img.youtube.com/vi/EZrKUtxFnGU/maxresdefault.jpg" alt="Copilot for Security Pricing" width="400" height="400"></a></td>
