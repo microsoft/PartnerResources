@@ -188,7 +188,7 @@ We recommend watching the following videos created by Microsoft Security and the
   </tr>
   <tr style="vertical-align:top">
    <td><a href="https://youtu.be/rm2-C49fXBM"><img src="https://img.youtube.com/vi/rm2-C49fXBM/maxresdefault.jpg" alt="Threat Intelligence in Copilot for Security with Volt/Silk Typhoon demo" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/rm2-C49fXBM"><b>Threat Intelligence in Copilot for Security with Volt/Silk Typhoon demo</b></a><br><br>Have you ever opened your phone, browser, or favorite news app to see an article about U.S. critical infrastructure under attack by nation-state actors like China or Russia? Learn about Microsoft Threat Intelligence in Copilot for Security, including what it is, how you can use it, and learn from a comprehensive demo featuring Volt/Silk Typhoon, prolific state-sponsored espionage actors from China.</td>
+    <td><a href="https://youtu.be/rm2-C49fXBM"><b>Threat Intelligence in Copilot for Security with Volt/Silk Typhoon demo</b></a><br><br>Learn about Microsoft Threat Intelligence in Copilot for Security, including what it is, how you can use it, and learn from a comprehensive demo featuring Volt/Silk Typhoon, prolific state-sponsored espionage actors from China.</td>
   </tr>
   <tr style="vertical-align:top">
    <td><a href="https://youtu.be/EZrKUtxFnGU?si=dWxf3UePboDB8tKU"><img src="https://img.youtube.com/vi/EZrKUtxFnGU/maxresdefault.jpg" alt="Copilot for Security Pricing" width="400" height="400"></a></td>
