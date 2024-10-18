@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Purview
 description: Microsoft Purview
 permalink: /skilling/microsoft-security-academy/purview-academy
-updated: 2024-09-10
+updated: 2024-10-19
 showbreadcrumb: true
 Tags:
 - academy content
@@ -14,6 +14,8 @@ Tags:
 Explore Microsoft Purview videos with demos delivered directly to partners, relevant certifications, and further resources.
 
 #### Stay connected with the [Security, Compliance, and Identity Blog](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance).🔗
+
+#### Get started with our [Crash Course in Microsoft Purview](https://clouddamcdnprodep.azureedge.net/gdc/gdcieULMS/original)⏩
 
 
 <div>&nbsp;</div>
