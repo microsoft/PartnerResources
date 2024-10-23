@@ -10542,6 +10542,19 @@ button.bg-dark:focus {
     color: #fff!important
 }
 
+.text-privacy {
+    color: #fff!important
+}
+
+a.text-privacy:hover, a.text-privacy:active, a.text-privacy:visited {
+    color: #fff!important;
+}
+
+a.text-privacy:hover {
+    color: #fff!important;
+    text-decoration: underline;
+}
+
 .text-primary {
     color: {{ site.color }}!important
 }

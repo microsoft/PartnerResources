@@ -23,6 +23,20 @@ body {
     }
 }
 
+.text-privacy {
+    color: #fff!important
+}
+
+a.text-privacy:hover, a.text-privacy:active, a.text-privacy:visited {
+    color: #fff!important;
+    text-decoration: none;
+}
+
+a.text-privacy:hover {
+    color: #fff!important;
+    text-decoration: underline;
+}
+
 #home-banner {
     background-image: url('../img/home-banner@2x.jpg');
     background-repeat: no-repeat;
