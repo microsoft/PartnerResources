@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-10-19
+updated: 2024-10-24
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -60,9 +60,9 @@ showbreadcrumb: true
 
 ___
 
-## October 19th, 2024 Update📰
+## October 24th, 2024 Update📰
 
-**Recent Update** (October 19th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)** & **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
+**Recent Update** (October 24th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)** & **[SFI series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)** |
 
 Our 2024 **[ Digital Defense Report](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024?msockid=330c4da567d667543ffd5c5666b966cf)** is now live📢
 
@@ -84,7 +84,6 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Secure Future Initiative | Build Security Culture and Governance      | OCT 22             | [Register](https://gateway.on24.com/wcc/eh/4557503/lp/4708537/build-security-culture-and-governance-with-microsofts-secure-future-initiative-october-22-23-2024-pdt-ist-bst?partnerref=DP_SCI_ORG_OTH_PN) |
 | Microsoft Defender for Cloud | Enhancing CSPM                         | OCT 24             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Sentinel | Data Tiering Best Practices                      | OCT 29             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Securing containers in the cloud       | OCT 30             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
