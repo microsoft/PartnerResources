@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-10-24
+updated: 2024-10-31
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -60,9 +60,9 @@ showbreadcrumb: true
 
 ___
 
-## October 24th, 2024 Update📰
+## October 31st, 2024 Update📰
 
-**Recent Update** (October 24th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)** & **[SFI series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)** |
+**Recent Update** (October 31st): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[SFI series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)**, and **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
 
 Our 2024 **[ Digital Defense Report](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024?msockid=330c4da567d667543ffd5c5666b966cf)** is now live📢
 
@@ -84,14 +84,15 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Microsoft Defender for Cloud | Enhancing CSPM                         | OCT 24             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Sentinel | Data Tiering Best Practices                      | OCT 29             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Defender for Cloud | Securing containers in the cloud       | OCT 30             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview            | Audit Services 2.0                     | NOV 13             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Operationalizing CSPM                  | NOV 14             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Sentinel | API Integration with Sentinel & Unified SecOps   | DEC 5              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Purview            | Data Lifecycle Management (DLM)        | DEC 10             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Container Updates from Microsoft Ignite| DEC 11             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Future-Proofing Security with CSPM     | DEC 12             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Azure Network Security       |  Azure Firewall Private IP DNAT        | JAN 15             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Azure Network Security       |  Azure WAF Bot Protection              | JAN 28             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+
 
 ___
 
