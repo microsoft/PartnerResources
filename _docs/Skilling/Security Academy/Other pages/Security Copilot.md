@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-10-15
+updated: 2024-10-31
 showbreadcrumb: true
 tags: 
 - academy content
@@ -74,9 +74,9 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 ___
 
-## October 15th, 2024 Update📰
+## October 31st, 2024 Update📰
 
-**Recent Update** (October 15th, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** & **[Videos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos)** |
+**Recent Update** (October 31st, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** & **[Videos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos)** |
 
 Copilot for Security is now **[covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174?utm_source=substack&utm_medium=email)🎉**
 
@@ -86,7 +86,8 @@ Copilot for Security is now **[covered by HIPAA Business Associate Agreement (BA
 If you're a member of the **[Microsoft Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Copilot for Security Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-|  Sandbox Analysis Skill for SOC analysts | Thursday, October 17th @  8:00 AM MT | [Register](https://msit.events.teams.microsoft.com/event/d2c136ee-1533-44da-8fcb-dbe42b754919@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  Network Security integrations in Copilot for Security | Thursday, November 14th @  9:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/9a7cd545-968b-4a49-8ee1-89daf32d8fdf@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  Copilot for Security in Defender EASM | Thursday, November 21st @  9:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/9e240d56-7b82-412a-ae1d-85d058b04e1b@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 
 Several colleagues have also created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).**

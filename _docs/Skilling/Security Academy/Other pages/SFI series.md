@@ -3,7 +3,7 @@ layout: page
 title: Secure Future Initiative series
 description: Secure Future Initiative series
 permalink: /skilling/microsoft-security-academy/sfiseries
-updated: 2024-10-29
+updated: 2024-10-31
 showbreadcrumb: true
 tags: 
 - academy content
