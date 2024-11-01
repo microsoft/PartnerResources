@@ -29,11 +29,11 @@ Building on our October 24th event, which you can watch on-demand **[here](https
 
 | Session | Date | Time (PT) | Register |
 |---------|------|-----------|-------------------|
-| SFI – Digital Apps and Innovation Partners | Nov. 5th | 9:00 AM | [Register](https://msit.events.teams.microsoft.com/event/7738d7a0-1c7f-4026-adeb-c09cdfca5a1e@72f988bf-86f1-41af-91ab-2d7cd011db47) |
-| SFI – Infrastructure Partners | Nov. 7th | 9:00 AM | [Register](https://msit.events.teams.microsoft.com/event/8c90b939-f935-44a6-b398-b430d5826822@72f988bf-86f1-41af-91ab-2d7cd011db47) |
-| SFI – Data & AI Partners | Nov. 12th | 9:00 AM | [Register](https://msit.events.teams.microsoft.com/event/4b3cc386-f9c2-469c-bb47-13516f60b0d1@72f988bf-86f1-41af-91ab-2d7cd011db47) |
-| SFI – Business Applications Partners | Nov. 13th | 9:00 AM | [Register](https://msit.events.teams.microsoft.com/event/a226d8d9-2419-40c5-91c9-eb0bf0ba8b2e@72f988bf-86f1-41af-91ab-2d7cd011db47) |
-| SFI – Modern Work Partners | Nov. 14th | 9:00 AM | [Register](https://msit.events.teams.microsoft.com/event/80eb9846-4789-4963-9959-e3b11d21e72a@72f988bf-86f1-41af-91ab-2d7cd011db47) |
+| SFI – Digital Apps and Innovation Partners | Dec. 3rd | 9:00 AM | [Register](https://msit.events.teams.microsoft.com/event/7738d7a0-1c7f-4026-adeb-c09cdfca5a1e@72f988bf-86f1-41af-91ab-2d7cd011db47) |
+| SFI – Infrastructure Partners | Dec. 5th | 9:00 AM | [Register](https://msit.events.teams.microsoft.com/event/8c90b939-f935-44a6-b398-b430d5826822@72f988bf-86f1-41af-91ab-2d7cd011db47) |
+| SFI – Data & AI Partners | Dec. 10th | 9:00 AM | [Register](https://msit.events.teams.microsoft.com/event/4b3cc386-f9c2-469c-bb47-13516f60b0d1@72f988bf-86f1-41af-91ab-2d7cd011db47) |
+| SFI – Business Applications Partners | Dec. 11th | 9:00 AM | [Register](https://msit.events.teams.microsoft.com/event/a226d8d9-2419-40c5-91c9-eb0bf0ba8b2e@72f988bf-86f1-41af-91ab-2d7cd011db47) |
+| SFI – Modern Work Partners | Dec. 12th | 9:00 AM | [Register](https://msit.events.teams.microsoft.com/event/80eb9846-4789-4963-9959-e3b11d21e72a@72f988bf-86f1-41af-91ab-2d7cd011db47) |
 
 Live audio translation will be available for all deliveries in the languages spoken throughout the Americas (English, Spanish, Portuguese, French).
 
