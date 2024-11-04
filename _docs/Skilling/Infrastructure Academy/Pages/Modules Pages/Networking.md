@@ -43,7 +43,7 @@ The repository includes tips and tools for effective storytelling that explains 
 2. [AVS Networking Webinar](https://youtu.be/qhbYAbL_fPc)
 3. [Azure AI Studio Enterprise RAG with Managed VNET](https://youtu.be/wdHcJKTwSYs)
 4. [AKS Networking series](https://www.youtube.com/playlist?list=PLb4hYfatvJJiIzPftv85zYFq7PXnUY2Zg)
-5. [ISV Series: Security and SDWAN Partners in vWAN)(https://www.youtube.com/playlist?list=PLb4hYfatvJJhNyUpS9LX4RtllDYXhtZ75)
+5. [ISV Series: Security and SDWAN Partners in vWAN](https://www.youtube.com/playlist?list=PLb4hYfatvJJhNyUpS9LX4RtllDYXhtZ75)
 6. [Azure ML Studio Networking](https://www.youtube.com/playlist?list=PLb4hYfatvJJjn9x8hiy6qzzO1snMb613G)
 
    
