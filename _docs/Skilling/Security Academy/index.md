@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-10-31
+updated: 2024-11-19
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -60,15 +60,19 @@ showbreadcrumb: true
 
 ___
 
-## October 31st, 2024 Update📰
+## November 19th, 2024 Update📰
 
-**Recent Update** (October 31st): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[SFI series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)**, and **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
+**Recent Update** (November 19th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Getting Started](/PartnerResources/skilling/microsoft-security-academy/start)**, and **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
+
+**[Microsoft Ignite](https://ignite.microsoft.com/en-US/home)** is this week, and with it will come a LOT of new announcements. Stay tuned.
+
+Remember how the U.S. State Department caught Chinese hackers snooping around Microsoft’s email systems? They used the now infamous “Big Yellow Taxi” KQL detections, which you can find **[here](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Office%20365/BigYellowTaxi%20-%20SignIn.md)**🚕
 
 Our 2024 **[ Digital Defense Report](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024?msockid=330c4da567d667543ffd5c5666b966cf)** is now live📢
 
-Read about our progress improving our security culture, governance, standards, and principles from the **[newly released SFI Progress Report](https://www.microsoft.com/en-us/security/blog/2024/09/23/securing-our-future-september-2024-progress-update-on-microsofts-secure-future-initiative-sfi/).**
-
 ### Other News
+
+We recently launched a **[Zero Trust partner kit](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-partner-kit?utm_source=substack&utm_medium=email)** which includes pre-packaged and co-branded resources for you to use with customers. Just add your own branding!
 
 The Microsoft Incident Response team recently created a compilation of incident response/TTP guides, best practices, and threat-hunting strategies, known as the **[Microsoft Incident Response Ninja Hub](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-incident-response-ninja-hub/ba-p/4243594?utm_source=substack&utm_medium=email).**
 
@@ -84,14 +88,13 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Microsoft Purview            | Audit Services 2.0                     | NOV 13             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Defender for Cloud | Operationalizing CSPM                  | NOV 14             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Sentinel | API Integration with Sentinel & Unified SecOps   | DEC 5              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview            | Data Lifecycle Management (DLM)        | DEC 10             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Container Updates from Microsoft Ignite| DEC 11             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Future-Proofing Security with CSPM     | DEC 12             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender XDR       | Get the most out of MDVM               | JAN 14             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Azure Network Security       |  Azure Firewall Private IP DNAT        | JAN 15             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Azure Network Security       |  Azure WAF Bot Protection              | JAN 28             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Sentinel | API Integration with Sentinel & Unified SecOps   | FEB 20             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 
 
 ___
