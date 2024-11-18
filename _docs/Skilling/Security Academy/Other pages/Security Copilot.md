@@ -3,7 +3,7 @@ layout: page
 title: Copilot for Security
 description: Copilot for Security Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-10-31
+updated: 2024-11-19
 showbreadcrumb: true
 tags: 
 - academy content
@@ -74,11 +74,17 @@ This page is organized into three parts -- Learn Copilot for Security, Extend Co
 
 ___
 
-## October 31st, 2024 Update📰
+## November 19th, 2024 Update📰
 
-**Recent Update** (October 31st, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** & **[Videos](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos)** |
+**Recent Update** (November 19th, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** & **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
 
-Copilot for Security is now **[covered by HIPAA Business Associate Agreement (BAA)](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/microsoft-copilot-for-security-now-covered-by-hipaa-business/ba-p/4220174?utm_source=substack&utm_medium=email)🎉**
+Copilot for Security is now **[SOC 2 certified](https://techcommunity.microsoft.com/blog/securitycopilotblog/microsoft-security-copilot-achieves-soc-2-certification/4295363?utm_source=substack&utm_medium=email)🎉**
+
+My colleague and friend Rick created easy-to-use KQL templates for custom Defender and Sentinel custom plugins, which you can find **[here](https://github.com/Azure/Security-Copilot/blob/main/Plugins/MSFT_Plugin_Samples/KQL/KQL_Combined_Defender_and_Sentinel_Example.yaml).**
+
+It's also worth exploring **[this solution](https://github.com/Azure/Security-Copilot/tree/main/Logic%20Apps/SecCopilot-UserReportedPhishing-FuncApp_parsing)** which automates the analysis of user-submitted phishing emails using Copilot for Security.🔎 
+
+Also, ingest your Copilot for Security audit logs using **[this Azure Function App and PowerShell script](https://github.com/Azure/Security-Copilot/tree/main/Monitoring/IngestSecurityCopilotAuditlogs).**
 
 
 ### Events
@@ -86,11 +92,8 @@ Copilot for Security is now **[covered by HIPAA Business Associate Agreement (BA
 If you're a member of the **[Microsoft Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Copilot for Security Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-|  Network Security integrations in Copilot for Security | Thursday, November 14th @  9:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/9a7cd545-968b-4a49-8ee1-89daf32d8fdf@72f988bf-86f1-41af-91ab-2d7cd011db47)
 |  Copilot for Security in Defender EASM | Thursday, November 21st @  9:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/9e240d56-7b82-412a-ae1d-85d058b04e1b@72f988bf-86f1-41af-91ab-2d7cd011db47)
-
-
-Several colleagues have also created comprehensive on-demand **[Technical Workshops for Microsoft Copilot for Security](https://github.com/Azure/Copilot-For-Security/tree/main/Technical%20Workshops).**
+|  Automating Workflows with Logic Apps in Copilot for Security | Thursday, December 5th @  9:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/43550221-edc6-4eb7-a556-9c9b2b9a18e0@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 
 <div>&nbsp;</div>
@@ -137,7 +140,9 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Exploring Copilot for Security to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
 * [Extending Copilot for Security with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267?utm_source=substack&utm_medium=email)
 * [Harnessing the power of KQL Plugins with Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/harnessing-the-power-of-kql-plugins-for-enhanced-security/ba-p/4221891?utm_source=substack&utm_medium=email)
-* [**NEW:** Customize and Optimize Copilot for Security with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
+* [Customize and Optimize Copilot for Security with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
+* [**NEW:** Identity forensics with Copilot for Security Identity Analyst Plugin](https://techcommunity.microsoft.com/blog/securitycopilotblog/identity-forensics-with-copilot-for-security-identity-analyst-plugin/4278180)
+* [**NEW:** Enhancing Threat Hunting with Microsoft Defender Experts Plugin](https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/enhancing-threat-hunting-with-microsoft-defender-experts-plugin/4296085?utm_source=substack&utm_medium=email)
 
 ##### Also explore the [Copilot for Security Partner Playbook](http://aka.ms/CfSpartnerPlaybook)
 
@@ -230,7 +235,7 @@ We recommend watching the following videos created by Microsoft Security and the
 
 * [Join the Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)
 * [Microsoft Copilot for Security Tech Community Blog](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog)
-* [**NEW:** Copilot in Azure Technical Deep Dive](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/copilot-in-azure-technical-deep-dive/ba-p/4146546)
+* [Copilot in Azure Technical Deep Dive](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/copilot-in-azure-technical-deep-dive/ba-p/4146546)
 * [Introduction to red teaming large language models (LLMs)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming?utm_source=substack&utm_medium=email)
 * [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [Applied Generative AI (GAI) in Security Blog](https://applied-gai-in-security.ghost.io/)
@@ -319,7 +324,6 @@ Learn how to grant an MSSP access to your Copilot for Security environment and h
 * [IBM X-Force Threat Intelligence](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/IBM) -- IBM X-Force is a cloud-based TI solution
 * [Censys](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Censys) -- Censys regularly probes public IPs and domains
 * [SentinelOne](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/SentinelOneEDR) -- SentinelOne is an Enterprise Security AI Platform
-* [VirusTotal](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/VirusTotal) -- VirusTotal analyzes files and URLs for malware and malicious content
 
 
 #### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents). Are you ready to drive customer adoption?
@@ -363,7 +367,7 @@ Beyond GA, we're also collecting this data and in good time, will provide more g
 * [Microsoft Copilot for Security and Defender EASM](https://learn.microsoft.com/en-us/azure/external-attack-surface-management/easm-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Copilot for Security and Microsoft Threat Intelligence](https://learn.microsoft.com/en-us/defender/threat-intelligence/security-copilot-and-defender-threat-intelligence?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
 * [Microsoft Copilot for Security in Microsoft Purview](https://learn.microsoft.com/en-us/purview/copilot-in-purview-overview?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
-* [**NEW:** Copilot for Security in Defender for Cloud (Preview)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/copilot-security-in-defender-for-cloud?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json&view=o365-worldwiden)
+* [Copilot for Security in Defender for Cloud (Preview)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/copilot-security-in-defender-for-cloud?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json&view=o365-worldwiden)
 
 
 ### Microsoft Security Integration Reference Architecture
