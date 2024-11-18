@@ -66,7 +66,7 @@ ___
 
 **[Microsoft Ignite](https://ignite.microsoft.com/en-US/home)** is this week and with it will come a LOT of new announcements. Stay tuned.
 
-Remember how the U.S. State Department caught Chinese hackers snooping around Microsoft's email systems? Well they did it using KQL detections, which you can now find **[here](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Office%20365/BigYellowTaxi%20-%20SignIn.md)!**
+Remember how the U.S. State Department caught Chinese hackers snooping around Microsoft's email systems? Well they did it using the now infamous "Big Yellow Taxi" KQL detections, which you can now find **[here](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Office%20365/BigYellowTaxi%20-%20SignIn.md)!**🚕
 
 Our 2024 **[ Digital Defense Report](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024?msockid=330c4da567d667543ffd5c5666b966cf)** is now live📢
 
