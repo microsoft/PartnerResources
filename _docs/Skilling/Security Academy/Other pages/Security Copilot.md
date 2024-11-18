@@ -80,11 +80,11 @@ ___
 
 Copilot for Security is now **[SOC 2 certified](https://techcommunity.microsoft.com/blog/securitycopilotblog/microsoft-security-copilot-achieves-soc-2-certification/4295363?utm_source=substack&utm_medium=email)🎉**
 
-My colleague and friend Rick created easy-to-use KQL templates for custom Defender and Sentinel custom plugins, which you can find **[here](https://github.com/Azure/Security-Copilot/blob/main/Plugins/MSFT_Plugin_Samples/KQL/KQL_Combined_Defender_and_Sentinel_Example.yaml).**
+You can ingest your Copilot for Security audit logs using **[this Azure Function App and PowerShell script](https://github.com/Azure/Security-Copilot/tree/main/Monitoring/IngestSecurityCopilotAuditlogs).**
 
-It's also worth exploring **[this solution](https://github.com/Azure/Security-Copilot/tree/main/Logic%20Apps/SecCopilot-UserReportedPhishing-FuncApp_parsing)** which automates the analysis of user-submitted phishing emails using Copilot for Security.🔎 
+It's also worth exploring **[this solution](https://github.com/Azure/Security-Copilot/tree/main/Logic%20Apps/SecCopilot-UserReportedPhishing-FuncApp_parsing)**  that automates the analysis of user-submitted phishing emails using Copilot for Security🎣
 
-Also, ingest your Copilot for Security audit logs using **[this Azure Function App and PowerShell script](https://github.com/Azure/Security-Copilot/tree/main/Monitoring/IngestSecurityCopilotAuditlogs).**
+Lastly, my colleague and friend Rick created **[these easy-to-use KQL templates](https://github.com/Azure/Security-Copilot/blob/main/Plugins/MSFT_Plugin_Samples/KQL/KQL_Combined_Defender_and_Sentinel_Example.yaml)** for custom Defender and Sentinel plugins. Give them a try!
 
 
 ### Events
