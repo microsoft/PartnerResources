@@ -18,8 +18,6 @@ Welcome to cybersecurity! Explore our curated resources to help you start your j
 
 ### Start by mastering the basics with [Microsoft's Security 101](https://github.com/microsoft/Security-101?tab=readme-ov-file)🎯
 
-Need to find all available Microsoft Security portals? Go **[here](https://msportals.io/)!**
-
 
 <div>&nbsp;</div>
 

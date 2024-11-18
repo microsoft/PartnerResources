@@ -141,8 +141,8 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Extending Copilot for Security with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267?utm_source=substack&utm_medium=email)
 * [Harnessing the power of KQL Plugins with Copilot for Security](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/harnessing-the-power-of-kql-plugins-for-enhanced-security/ba-p/4221891?utm_source=substack&utm_medium=email)
 * [Customize and Optimize Copilot for Security with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
-* [**NEW:** Identity forensics with Copilot for Security Identity Analyst Plugin](https://techcommunity.microsoft.com/blog/securitycopilotblog/identity-forensics-with-copilot-for-security-identity-analyst-plugin/4278180)
-* [**NEW:** Enhancing Threat Hunting with Microsoft Defender Experts Plugin](https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/enhancing-threat-hunting-with-microsoft-defender-experts-plugin/4296085?utm_source=substack&utm_medium=email)
+* **NEW:** [Identity forensics with Copilot for Security Identity Analyst Plugin](https://techcommunity.microsoft.com/blog/securitycopilotblog/identity-forensics-with-copilot-for-security-identity-analyst-plugin/4278180)
+* **NEW:** [Enhancing Threat Hunting with Microsoft Defender Experts Plugin](https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/enhancing-threat-hunting-with-microsoft-defender-experts-plugin/4296085?utm_source=substack&utm_medium=email)
 
 ##### Also explore the [Copilot for Security Partner Playbook](http://aka.ms/CfSpartnerPlaybook)
 
