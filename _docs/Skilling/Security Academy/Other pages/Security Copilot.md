@@ -144,7 +144,6 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * **NEW:** [Identity forensics with Copilot for Security Identity Analyst Plugin](https://techcommunity.microsoft.com/blog/securitycopilotblog/identity-forensics-with-copilot-for-security-identity-analyst-plugin/4278180)
 * **NEW:** [Enhancing Threat Hunting with Microsoft Defender Experts Plugin](https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/enhancing-threat-hunting-with-microsoft-defender-experts-plugin/4296085?utm_source=substack&utm_medium=email)
 
-##### Also explore the [Copilot for Security Partner Playbook](http://aka.ms/CfSpartnerPlaybook)
 
 ### Features
 
@@ -229,13 +228,13 @@ We recommend watching the following videos created by Microsoft Security and the
 
 * [Whitepaper -- Microsoft Copilot for Security -- Working with the Microsoft Security stack and 3Ps](https://go.microsoft.com/fwlink/?linkid=2262593)
 * [Randomized Controlled Trial for Copilot for Security](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us)
-* [Vasu Jakkal's Copilot for Security April-1 global availability announcement](https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/)
 
 ### Community Resources
 
 * [Join the Copilot for Security Customer Connection Program (CCP)](http://www.aka.ms/prseccom)
 * [Microsoft Copilot for Security Tech Community Blog](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog)
 * [Copilot in Azure Technical Deep Dive](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/copilot-in-azure-technical-deep-dive/ba-p/4146546)
+* [Copilot for Security Partner Playbook](http://aka.ms/CfSpartnerPlaybook)
 * [Introduction to red teaming large language models (LLMs)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming?utm_source=substack&utm_medium=email)
 * [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [Applied Generative AI (GAI) in Security Blog](https://applied-gai-in-security.ghost.io/)
