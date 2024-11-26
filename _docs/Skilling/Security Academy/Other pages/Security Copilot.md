@@ -92,7 +92,6 @@ Lastly, my colleague and friend Rick created **[these easy-to-use KQL templates]
 If you're a member of the **[Microsoft Security Copilot Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Security Copilot Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-|  Security Copilot in Defender EASM | Thursday, November 21st @  9:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/9e240d56-7b82-412a-ae1d-85d058b04e1b@72f988bf-86f1-41af-91ab-2d7cd011db47)
 |  Automating Workflows with Logic Apps in Security Copilot | Thursday, December 5th @  9:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/43550221-edc6-4eb7-a556-9c9b2b9a18e0@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 
@@ -297,7 +296,7 @@ Learn how to grant an MSSP access to your Security Copilot environment and how t
 * [GreyNoise](https://learn.microsoft.com/en-us/copilot/security/plugin-greynoise) -- GreyNoise collects and analyzes Internet-wide scan and attack data
 * [Intel 471](https://learn.microsoft.com/en-us/copilot/security/plugin-intel471) -- Intel 471 provides cybercrime intelligence
 * **NEW:** [IPGeolocation](https://learn.microsoft.com/en-us/copilot/security/plugin-ipgeolocation) -- IPGeolocation provides geolocation data, time zone details, security insights (VPN, proxy, bot detection), etc.
-* **NEW:** [IPinfo](https://learn.microsoft.com/en-us/copilot/security/plugin-ipinfo) -- IPinfo provides IP geolocation, IP to Privacy Detection (VPN, Tor, Proxy), ASN data, company data, carrier metadatadata, and WHOIS data
+* **NEW:** [IPinfo](https://learn.microsoft.com/en-us/copilot/security/plugin-ipinfo) -- IPinfo provides IP geolocation, IP to Privacy Detection (VPN, Tor, Proxy), ASN data, company data, carrier metadata, and WHOIS data
 * [Jamf](https://learn.microsoft.com/en-us/copilot/security/plugin-jamf) -- Jamf Pro provides enterprise-level Mobile Device Management (MDM)
 * [Netskope](https://learn.microsoft.com/en-us/copilot/security/plugin-netskope) -- Netskope combines security and networking services, enabling Secure Access Services Edge (SASE) and Zero Trust
 * **NEW:** [Quest Security Guardian](https://learn.microsoft.com/en-us/copilot/security/plugin-quest-security-guardian) -- Quest Security Guardian is an Active Directory tool that reduces your attack surface

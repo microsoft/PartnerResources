@@ -68,7 +68,7 @@ Microsoft Ignite was last week, and if you missed it, you can catch up on all th
 
 Remember how the U.S. State Department caught Chinese hackers snooping around Microsoft’s email systems? They used the now infamous “Big Yellow Taxi” KQL detections, which you can find **[here](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Office%20365/BigYellowTaxi%20-%20SignIn.md)**🚕
 
-In response to the Exchange breach and others like it, we're continuing to strengthen our defenses. Read more about our recent progres **[here](https://www.microsoft.com/en-us/trust-center/security/secure-future-initiative).**
+In response to the Exchange breach and others like it, we're continuing to strengthen our defenses. Read more about our recent progress **[here](https://www.microsoft.com/en-us/trust-center/security/secure-future-initiative).**
 
 Our 2024 **[ Digital Defense Report](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024?msockid=330c4da567d667543ffd5c5666b966cf)** is live📢
 
