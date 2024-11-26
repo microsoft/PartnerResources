@@ -76,7 +76,7 @@ ___
 
 ## November 27th, 2024 Update📰
 
-**Recent Update** (November 27th, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)**,**[Announcements & Whitepapers](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#announcements--whitepapers)**, and **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)** |
+**Recent Update** (November 27th, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)**, **[Whitepapers](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#announcements--whitepapers)**, and **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)** |
 
 Security Copilot is now **[SOC 2 certified](https://techcommunity.microsoft.com/blog/securitycopilotblog/microsoft-security-copilot-achieves-soc-2-certification/4295363?utm_source=substack&utm_medium=email)🎉**
 
