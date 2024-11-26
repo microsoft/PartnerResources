@@ -80,7 +80,7 @@ ___
 
 Security Copilot is now **[SOC 2 certified](https://techcommunity.microsoft.com/blog/securitycopilotblog/microsoft-security-copilot-achieves-soc-2-certification/4295363?utm_source=substack&utm_medium=email)🎉**
 
-Learn how to access the Security Copilot audit log **[here](https://learn.microsoft.com/en-us/copilot/security/audit-log)** or how you can ingest your Security Copilot audit logs using **[this Azure Function App and PowerShell script](https://github.com/Azure/Security-Copilot/tree/main/Monitoring/IngestSecurityCopilotAuditlogs).**
+You can learn how to access the Security Copilot audit log **[here](https://learn.microsoft.com/en-us/copilot/security/audit-log)** or how you can ingest your Security Copilot audit logs using **[this Azure Function App and PowerShell script](https://github.com/Azure/Security-Copilot/tree/main/Monitoring/IngestSecurityCopilotAuditlogs).**
 
 It's also worth exploring **[this solution](https://github.com/Azure/Security-Copilot/tree/main/Logic%20Apps/SecCopilot-UserReportedPhishing-FuncApp_parsing)**  that automates the analysis of user-submitted phishing emails using Security Copilot🎣
 
@@ -283,21 +283,21 @@ Learn how to grant an MSSP access to your Security Copilot environment and how t
 ### 3P Plugins
 
 * [AbuseIPDB](https://learn.microsoft.com/en-us/copilot/security/plugin-abuseipdb) -- AbuseIPDB is a central repository to report and identify IPs that are associated with malicious activity online
-* **NEW:** [Aviatrix](https://learn.microsoft.com/en-us/copilot/security/plugin-aviatrix) -- Aviatrix provides insights into cloud networking and firewall policy enforcement
+* **NEW:** [Aviatrix](https://learn.microsoft.com/en-us/copilot/security/plugin-aviatrix) -- Aviatrix provides insights into cloud networking and firewall policy enforcement
 * **NEW:** [CheckPhish](https://learn.microsoft.com/en-us/copilot/security/plugin-checkphish) --  CheckPhish AI analyzes URLs for phishing threats, tech support scams, cryptojacking, and other risks
-* [Computer Incident Response Center Luxembourg (CIRCL)](https://learn.microsoft.com/en-us/copilot/security/plugin-circl) -- CIRCL is a government initiative that enables users to validate suspicious files in the form of hashes
+* [Computer Incident Response Center Luxembourg (CIRCL)](https://learn.microsoft.com/en-us/copilot/security/plugin-circl) -- CIRCL is a government initiative to validate suspicious files in the form of hashes
 * [CrowdSec](https://learn.microsoft.com/en-us/copilot/security/plugin-crowdsec) -- CrowdSec provides identification and verification of potentially malicious IPs
 * [CyberArk](https://learn.microsoft.com/en-us/copilot/security/plugin-cyberark) -- CyberArk Privilege Cloud helps to securely store, rotate, and isolate credentials
 * [Cybersixgill](https://learn.microsoft.com/en-us/copilot/security/plugin-cybersixgill) -- Cybersixgill offers real-time TI solutions, including from the dark web
-* [Cyware Intel Exchange](https://learn.microsoft.com/en-us/copilot/security/plugin-cyware-intel-exchange) -- Cyware Intel is an automated TI Platform for ingestion, enrichment, analysis, prioritization, actioning, and sharing of threat data
+* [Cyware Intel Exchange](https://learn.microsoft.com/en-us/copilot/security/plugin-cyware-intel-exchange) -- Cyware Intel is a TI Platform for ingestion, enrichment, analysis, prioritization, actioning, and sharing of threat data
 * [Cyware Respond](https://learn.microsoft.com/en-us/copilot/security/plugin-cyware) -- Cyware Respond is an end-to-end incident management and response platform
 * [Darktrace](https://learn.microsoft.com/en-us/copilot/security/plugin-darktrace) -- Darktrace offers cybersecurity AI services
-* [Forescout Risk and Exposure Management](https://learn.microsoft.com/en-us/copilot/security/plugin-forescout-rem) -- Forescout REM platform provides a view of device risks and vulnerabilities
+* [Forescout Risk and Exposure Management](https://learn.microsoft.com/en-us/copilot/security/plugin-forescout-rem) -- Forescout REM provides a view of device risks and vulnerabilities
 * [Forescout Vedere Labs](https://learn.microsoft.com/en-us/copilot/security/plugin-forescout-vedere-labs) -- Forescout research teams provide a TI feed containing IP, URL, and File hash indicators for potentially malicious activity
 * [GreyNoise](https://learn.microsoft.com/en-us/copilot/security/plugin-greynoise) -- GreyNoise collects and analyzes Internet-wide scan and attack data
 * [Intel 471](https://learn.microsoft.com/en-us/copilot/security/plugin-intel471) -- Intel 471 provides cybercrime intelligence
-* **NEW:** [IPGeolocation](https://learn.microsoft.com/en-us/copilot/security/plugin-ipgeolocation) -- IPGeolocation provides geolocation data, time zone and currency details, security insights (VPN, proxy, bot detection), and hostname resolution
-* **NEW:** [IPinfo](https://learn.microsoft.com/en-us/copilot/security/plugin-ipinfo) -- IPinfo specializes in IP geolocation, IP to Privacy Detection (VPN, Tor, Proxy), ASN data, company data, carrier metadatadata, WHOIS data, etc.
+* **NEW:** [IPGeolocation](https://learn.microsoft.com/en-us/copilot/security/plugin-ipgeolocation) -- IPGeolocation provides geolocation data, time zone details, security insights (VPN, proxy, bot detection), etc.
+* **NEW:** [IPinfo](https://learn.microsoft.com/en-us/copilot/security/plugin-ipinfo) -- IPinfo provides IP geolocation, IP to Privacy Detection (VPN, Tor, Proxy), ASN data, company data, carrier metadatadata, and WHOIS data
 * [Jamf](https://learn.microsoft.com/en-us/copilot/security/plugin-jamf) -- Jamf Pro provides enterprise-level Mobile Device Management (MDM)
 * [Netskope](https://learn.microsoft.com/en-us/copilot/security/plugin-netskope) -- Netskope combines security and networking services, enabling Secure Access Services Edge (SASE) and Zero Trust
 * **NEW:** [Quest Security Guardian](https://learn.microsoft.com/en-us/copilot/security/plugin-quest-security-guardian) -- Quest Security Guardian is an Active Directory tool that reduces your attack surface
