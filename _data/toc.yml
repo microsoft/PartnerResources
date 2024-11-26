@@ -322,7 +322,7 @@
         - title: Partner Programs
           url: "skilling/microsoft-security-academy/programs"
           tag: msa
-        - title: Copilot for Security
+        - title: Security Copilot
           url: "skilling/microsoft-security-academy/microsoft-copilot-for-security"
           tag: msa
           children:

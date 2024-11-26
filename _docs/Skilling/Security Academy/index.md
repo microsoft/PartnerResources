@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-11-19
+updated: 2024-11-27
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -48,8 +48,8 @@ showbreadcrumb: true
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/certifications">Security Certifications</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/programs">Partner Programs</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/sfi">Secure Future Initiative</a></li>
-                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security">Copilot for Security Technical Journey & Resources</a></li>
-                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa">Copilot for Security Q&A</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security">Security Copilot Technical Journey & Resources</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa">Security Copilot Q&A</a></li>
                         <li><a href="/PartnerResources/security/microsoft-security-academy/microsoft-sentinel">Microsoft Sentinel Resources</a></li>
                     </ul>
                 </td>
@@ -60,15 +60,17 @@ showbreadcrumb: true
 
 ___
 
-## November 19th, 2024 Update📰
+## November 27th, 2024 Update📰
 
-**Recent Update** (November 19th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Getting Started](/PartnerResources/skilling/microsoft-security-academy/start)**, and **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
+**Recent Update** (November 27th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Security Copilot Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, and **[Security Certifications](/PartnerResources/skilling/microsoft-security-academy/certifications)** |
 
-**[Microsoft Ignite](https://ignite.microsoft.com/en-US/home)** is this week, and with it will come a LOT of new announcements. Stay tuned.
+Microsoft Ignite was last week, and if you missed it, you can catch up on all the announcements with the **[Ignite 2024 Book of News](https://news.microsoft.com/ignite-2024-book-of-news/)**
 
 Remember how the U.S. State Department caught Chinese hackers snooping around Microsoft’s email systems? They used the now infamous “Big Yellow Taxi” KQL detections, which you can find **[here](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Office%20365/BigYellowTaxi%20-%20SignIn.md)**🚕
 
-Our 2024 **[ Digital Defense Report](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024?msockid=330c4da567d667543ffd5c5666b966cf)** is now live📢
+In response to the Exchange breach and others like it, we're continuing to strengthen our defenses. Read more about our recent progress **[here](https://www.microsoft.com/en-us/trust-center/security/secure-future-initiative).**
+
+Our 2024 **[ Digital Defense Report](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024?msockid=330c4da567d667543ffd5c5666b966cf)** is live📢
 
 ### Other News
 
@@ -131,7 +133,7 @@ ___
 
 Microsoft Ninja trainings are sets of organized learning modules that guide you through the advanced features and functions of our products.
 
-* [Microsoft Copilot for Security Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-become-a-microsoft-copilot-for-security-ninja-the/ba-p/4106928)
+* [Microsoft Security Copilot Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-become-a-microsoft-copilot-for-security-ninja-the/ba-p/4106928)
 * [Microsoft Unified SOC Platform Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-unified-soc-platform-ninja/ba-p/4014565)
 * [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310) -- *Recently updated*
 * [Microsoft Sentinel Automation Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377)
