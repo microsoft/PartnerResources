@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-11-19
+updated: 2024-11-27
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -60,15 +60,17 @@ showbreadcrumb: true
 
 ___
 
-## November 19th, 2024 Update📰
+## November 27th, 2024 Update📰
 
-**Recent Update** (November 19th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Getting Started](/PartnerResources/skilling/microsoft-security-academy/start)**, and **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
+**Recent Update** (November 27th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Copilot for Security Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, and **[Security Certifications](/PartnerResources/skilling/microsoft-security-academy/certifications)** |
 
-**[Microsoft Ignite](https://ignite.microsoft.com/en-US/home)** is this week, and with it will come a LOT of new announcements. Stay tuned.
+Microsoft Ignite was last week, and if you missed it, you can explore all of the announcements with the **[Microsoft Ignite 2024 Book of News](https://news.microsoft.com/ignite-2024-book-of-news/)**
 
 Remember how the U.S. State Department caught Chinese hackers snooping around Microsoft’s email systems? They used the now infamous “Big Yellow Taxi” KQL detections, which you can find **[here](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Office%20365/BigYellowTaxi%20-%20SignIn.md)**🚕
 
-Our 2024 **[ Digital Defense Report](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024?msockid=330c4da567d667543ffd5c5666b966cf)** is now live📢
+In response to the Chinese breach and others like it, we're continuing our committment to stregnthen our defenses. Read more about our recent progress **[here](https://www.microsoft.com/en-us/trust-center/security/secure-future-initiative).**
+
+Our 2024 **[ Digital Defense Report](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024?msockid=330c4da567d667543ffd5c5666b966cf)** is live📢
 
 ### Other News
 
