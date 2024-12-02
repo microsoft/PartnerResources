@@ -78,7 +78,7 @@ ___
 
 **Recent Update** (December 3rd, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)**, **[Whitepapers](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#announcements--whitepapers)**, and **[Community Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-resources)** |
 
-Although Microsoft lacks the official documentation for now, BlueVoyant and Splunk have published some documentatin about the integration of the Splunk platform with Security Copilot, which you can read **[here](https://lantern.splunk.com/Security/UCE/Foundational_Visibility/Security_monitoring/Monitoring_security_events_with_Enterprise_Security_and_Microsoft_Copilot_for_Security).**
+Although Microsoft lacks the official documentation for now, BlueVoyant and Splunk have published some documentation about the integration of the Splunk platform with Security Copilot, which you can read **[here](https://lantern.splunk.com/Security/UCE/Foundational_Visibility/Security_monitoring/Monitoring_security_events_with_Enterprise_Security_and_Microsoft_Copilot_for_Security).**
 
 Security Copilot is now **[SOC 2 certified](https://techcommunity.microsoft.com/blog/securitycopilotblog/microsoft-security-copilot-achieves-soc-2-certification/4295363?utm_source=substack&utm_medium=email)🎉**
 
