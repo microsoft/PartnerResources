@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-11-27
+updated: 2024-12-03
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -60,11 +60,11 @@ showbreadcrumb: true
 
 ___
 
-## November 27th, 2024 Update📰
+## December 3rd, 2024 Update📰
 
-**Recent Update** (November 27th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Security Copilot Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, and **[Security Certifications](/PartnerResources/skilling/microsoft-security-academy/certifications)** |
+**Recent Update** (December 3rd): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)** and **[Security Copilot Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
 
-Microsoft Ignite was last week, and if you missed it, you can catch up on all the announcements with the **[Ignite 2024 Book of News](https://news.microsoft.com/ignite-2024-book-of-news/)**
+Microsoft Ignite was two weeks ago, and if you missed it, you can catch up on all the announcements with the **[Ignite 2024 Book of News](https://news.microsoft.com/ignite-2024-book-of-news/)**
 
 Remember how the U.S. State Department caught Chinese hackers snooping around Microsoft’s email systems? They used the now infamous “Big Yellow Taxi” KQL detections, which you can find **[here](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Office%20365/BigYellowTaxi%20-%20SignIn.md)**🚕
 
@@ -91,6 +91,7 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
 | Microsoft Purview            | Data Lifecycle Management (DLM)        | DEC 10             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender for Identity | Simplified MDI Deployment           | DEC 10             | [Register](https://msit.events.teams.microsoft.com/event/9ff4f17f-f9c1-4746-ba97-235b9f4b6191@72f988bf-86f1-41af-91ab-2d7cd011db47) |
 | Microsoft Defender for Cloud | Container Updates from Microsoft Ignite| DEC 11             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Future-Proofing Security with CSPM     | DEC 12             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender XDR       | Get the most out of MDVM               | JAN 14             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
