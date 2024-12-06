@@ -87,7 +87,7 @@ Learning resources are broken down as follows:
 
 ## Community
 
-* [FHIR Community Forum](http://community.fhir.org/)
+* [FHIR Community Forum](https://community.fhir.org/)
 * [HL7 Community Events](https://www.hl7.org/events/index.cfm?showallevents&ref=nav)
-* [HL7 FHIR Commmunity Events](http://www.hl7.org/FHIRCommunityEvents/)
+* [HL7 FHIR Commmunity Events](https://www.hl7.org/FHIRCommunityEvents/)
 
