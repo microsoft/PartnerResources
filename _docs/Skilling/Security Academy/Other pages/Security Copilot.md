@@ -3,7 +3,7 @@ layout: page
 title: Security Copilot
 description: Security Copilot Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-12-03
+updated: 2024-12-17
 showbreadcrumb: true
 tags: 
 - academy content
@@ -74,9 +74,11 @@ This page is organized into three parts -- Learn Security Copilot, Extend Securi
 
 ___
 
-## December 3rd, 2024 Update📰
+## December 17th, 2024 Update📰
 
-**Recent Update** (December 3rd, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)**, **[Whitepapers](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#announcements--whitepapers)**, and **[Community Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#community-resources)** |
+**Recent Update** (December 17th, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)**, **[Whitepapers](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#announcements--whitepapers)**, and **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)** |
+
+Christmas is next week, and we at Microsoft wish all who celebrate a joyful holiday surrounded by family and friends.🎄
 
 Although Microsoft lacks the official documentation for now, BlueVoyant and Splunk have published some documentation about the integration of the Splunk platform with Security Copilot, which you can read **[here](https://lantern.splunk.com/Security/UCE/Foundational_Visibility/Security_monitoring/Monitoring_security_events_with_Enterprise_Security_and_Microsoft_Copilot_for_Security).**
 
@@ -94,7 +96,7 @@ Lastly, my colleague and friend Rick created **[these easy-to-use KQL templates]
 If you're a member of the **[Microsoft Security Copilot Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Security Copilot Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-|  Automating Workflows with Logic Apps in Security Copilot | Thursday, December 5th @  9:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/43550221-edc6-4eb7-a556-9c9b2b9a18e0@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  What's coming in Copilot for Purview Data Governance? | Thursday, December 9th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/9c6058e4-00be-4450-9315-16f2d005e671@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 
 <div>&nbsp;</div>
@@ -141,8 +143,8 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Exploring Security Copilot to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
 * [Extending Security Copilot with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267?utm_source=substack&utm_medium=email)
 * [Customize and Optimize Security Copilot with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
-* **NEW:** [Identity forensics with Security Copilot Identity Analyst Plugin](https://techcommunity.microsoft.com/blog/securitycopilotblog/identity-forensics-with-copilot-for-security-identity-analyst-plugin/4278180)
-* **NEW:** [Enhancing Threat Hunting with Microsoft Defender Experts Plugin](https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/enhancing-threat-hunting-with-microsoft-defender-experts-plugin/4296085?utm_source=substack&utm_medium=email)
+* [Identity forensics with Security Copilot Identity Analyst Plugin](https://techcommunity.microsoft.com/blog/securitycopilotblog/identity-forensics-with-copilot-for-security-identity-analyst-plugin/4278180)
+* [Enhancing Threat Hunting with Microsoft Defender Experts Plugin](https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/enhancing-threat-hunting-with-microsoft-defender-experts-plugin/4296085?utm_source=substack&utm_medium=email)
 * **NEW:** [Monitor User Activities and System Events with Security Copilot and Microsoft Sentinel](https://techcommunity.microsoft.com/blog/securitycopilotblog/monitor-user-activities-and-system-events-with-security-copilot-and-microsoft-se/4303368?utm_source=substack&utm_medium=email)
 
 
@@ -227,14 +229,14 @@ We recommend watching the following videos created by Microsoft Security and the
 
 ### Announcements & Whitepapers
 
-* **NEW:** [Randomized Controlled Trials for Security Copilot for IT Administrators](https://arxiv.org/html/2411.01067v1)
-* **NEW:** [Generative AI and Security Operations Center Productivity: Evidence from Live Operations](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Generative-AI-and-Security-Operations-Center-Productivity-Evidence-from-Live-Operations_v2.5-FINAL.pdf)
+* **NEW:** [Generative AI and SOC Productivity: Evidence from Live Operations](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Generative-AI-and-Security-Operations-Center-Productivity-Evidence-from-Live-Operations_v2.5-FINAL.pdf)
+* **NEW:** [Randomized Controlled Trials for Security Copilot for IT Admins](https://arxiv.org/html/2411.01067v1)
 * [Whitepaper -- Microsoft Security Copilot -- Working with the Microsoft Security stack and 3Ps](https://go.microsoft.com/fwlink/?linkid=2262593)
 * [Randomized Controlled Trial for Security Copilot](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us)
 
 ### Community Resources
 
-* **NEW:** [Microsoft Ignite: Redefining email security with LLMs to tackle social engineering](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/microsoft-ignite-redefining-email-security-with-llms-to-tackle-a-new-era-of-soci/4302421)
+* [Microsoft Ignite: Redefining email security with LLMs to tackle social engineering](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/microsoft-ignite-redefining-email-security-with-llms-to-tackle-a-new-era-of-soci/4302421)
 * [Join the Security Copilot Customer Connection Program (CCP)](http://www.aka.ms/prseccom)
 * [Microsoft Security Copilot Tech Community Blog](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog)
 * [Copilot in Azure Technical Deep Dive](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/copilot-in-azure-technical-deep-dive/ba-p/4146546)
