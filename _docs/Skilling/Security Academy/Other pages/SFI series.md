@@ -19,9 +19,9 @@ tags:
 </div>
 
 
-### Build security culture and governance with Microsoft's Secure Future Initiative series
+#### *Recordings and PPTs will be available soon!*
 
-### *Recordings and PPTs will be available soon!*
+### Build security culture and governance with Microsoft's Secure Future Initiative series
 
 Join Microsoft speakers for a partner-focused virtual series on the Secure Future Initiative (SFI); a multiyear commitment to evolve the way we design, build, test, and operate our products and services, to achieve the highest possible standards for security. 
 
