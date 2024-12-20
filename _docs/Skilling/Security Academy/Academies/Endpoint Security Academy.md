@@ -22,7 +22,7 @@ Explore Microsoft Defender for Endpoint and Microsoft Defender for IoT videos w
 <table>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be//CxiCWP9H__U"><img src="https://img.youtube.com/vi/CxiCWP9H__U/maxresdefault.jpg" alt="Defending OT environments discussion" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/CxiCWP9H__U"><b>New Ways for Security Teams to Protect OT Environments with Microsoft Defender XDR</b></a><br><br>Gain valueable insights on leveraging Microsoft Defender XDR to secure IT and OT environments across your entire digital estate.</td>
+    <td><a href="https://youtu.be/CxiCWP9H__U"><b>Defending OT environments discussion</b></a><br><br>Gain valueable insights on leveraging Microsoft Defender XDR to secure IT and OT environments across your entire digital estate.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/D8RUKcimCzE"><img src="https://img.youtube.com/vi/D8RUKcimCzE/maxresdefault.jpg" alt="New Ways for Security Teams to Protect OT Environments with Microsoft Defender XDR" width="400" height="400"></a></td>
