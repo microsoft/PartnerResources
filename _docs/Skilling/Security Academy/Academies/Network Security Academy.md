@@ -3,7 +3,7 @@ layout: page
 title: Azure Network Security
 description: Azure Network Security
 permalink: /skilling/microsoft-security-academy/network-academy
-updated: 2024-09-10
+updated: 2024-12-23
 showbreadcrumb: true
 tags: 
 - academy content
