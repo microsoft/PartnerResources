@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Defender for Cloud
 description: Microsoft Defender for Cloud
 permalink: /skilling/microsoft-security-academy/defender-academy
-updated: 2024-09-10
+updated: 2024-12-23
 showbreadcrumb: true
 tags: 
 - academy content
@@ -23,6 +23,14 @@ Explore Microsoft Defender for Cloud videos with demos delivered directly to par
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/v3OLaoLr8tM"><img src="https://img.youtube.com/vi/v3OLaoLr8tM/maxresdefault.jpg" alt="Want to get started with Microsoft Defender for Cloud?" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/v3OLaoLr8tM"><b>Want to get started with Microsoft Defender for Cloud?</b></a><br><br>We must stay vigilant against ransomware, phishing, zero-days, etc. Microsoft Defender for Cloud protects multicloud and hybrid workloads from development to runtime with security monitoring, compliance, and attack-path analysis. Ready to get started?</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/ufmXO_J9Yag"><img src="https://img.youtube.com/vi/ufmXO_J9Yag/maxresdefault.jpg" alt="Future-Proofing Cloud Security with Defender CSPM" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/ufmXO_J9Yag"><b>Future-Proofing Cloud Security with Defender CSPM</b></a><br><br>Explore emerging trends in cloud security and how Defender CSPM addresses these challenges, covering continuous monitoring, compliance updates, future advancements in unified assessment engines, KQL for dynamic policy management, and more!</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/4jcgyJLTtmo"><img src="https://img.youtube.com/vi/4jcgyJLTtmo/maxresdefault.jpg" alt="Operationalizing Defender CSPM" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/4jcgyJLTtmo"><b>Operationalizing Defender CSPM</b></a><br><br>Learn how to integrate Defender CSPM into strategic security management, covering compliance standards, sub-assessments to full assessments, unified security views, CIEM/ITSM integration, and Secure Score enhancements.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/IPhW3Q-iCGo"><img src="https://img.youtube.com/vi/IPhW3Q-iCGo/maxresdefault.jpg" alt="Microsoft Copilot in Microsoft Defender for Cloud" width="400" height="400"></a></td>
@@ -61,8 +69,4 @@ Explore Microsoft Defender for Cloud videos with demos delivered directly to par
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/gJ3G9ysFDCs"><img src="https://img.youtube.com/vi/gJ3G9ysFDCs/maxresdefault.jpg" alt="Discover and Protect Sensitive Data with Microsoft Defender for Cloud" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/gJ3G9ysFDCs"><b>Discover and Protect Sensitive Data with Microsoft Defender for Cloud</b></a><br><br>Explore the data-aware security posture of the Cloud Security Posture Management (CSPM) plan, which enables you to proactively identify and prioritize critical data risks.</td>
-  </tr>
-    <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/pZ5BbkCwMwI"><img src="https://img.youtube.com/vi/pZ5BbkCwMwI/maxresdefault.jpg" alt="Demystifying Defender CSPM" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/pZ5BbkCwMwI"><b>Demystifying Defender CSPM</b></a><br><br>Learn how Microsoft Defender for Cloud's holistic approach to multicloud management, including governance, compliance, attack path analysis, and agentless scanning can help you identify and reduce risks in your environment.</td>
   </tr>
