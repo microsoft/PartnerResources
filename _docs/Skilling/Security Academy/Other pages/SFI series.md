@@ -18,9 +18,10 @@ tags:
     <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="max-width: 100px; height: auto; margin-bottom: 20px;">
 </div>
 
-> Recordings and PPTs will be available soon!
 
 ### Build security culture and governance with Microsoft's Secure Future Initiative series
+
+### *Recordings and PPTs will be available soon!*
 
 Join Microsoft speakers for a partner-focused virtual series on the Secure Future Initiative (SFI); a multiyear commitment to evolve the way we design, build, test, and operate our products and services, to achieve the highest possible standards for security. 
 
