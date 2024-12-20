@@ -3,7 +3,7 @@ layout: page
 title: Security Copilot
 description: Security Copilot Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-12-17
+updated: 2024-12-23
 showbreadcrumb: true
 tags: 
 - academy content
@@ -74,9 +74,9 @@ This page is organized into three parts -- Learn Security Copilot, Extend Securi
 
 ___
 
-## December 17th, 2024 Update📰
+## December 23rd, 2024 Update📰
 
-**Recent Update** (December 17th, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)**, **[Whitepapers](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#announcements--whitepapers)**, and **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)** |
+**Recent Update** (December 23rd, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)**, **[Whitepapers](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#announcements--whitepapers)**, and **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)** |
 
 Christmas is next week, and we at Microsoft wish all who celebrate a joyful holiday surrounded by family and friends.🎄
 
@@ -96,7 +96,7 @@ Lastly, my colleague and friend Rick created **[these easy-to-use KQL templates]
 If you're a member of the **[Microsoft Security Copilot Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Security Copilot Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-|  What's coming in Copilot for Purview Data Governance? | Thursday, December 9th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/9c6058e4-00be-4450-9315-16f2d005e671@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  What's coming in Copilot for Purview Data Governance? | Thursday, February 13th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/9c6058e4-00be-4450-9315-16f2d005e671@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 
 <div>&nbsp;</div>
@@ -145,7 +145,7 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Customize and Optimize Security Copilot with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
 * [Identity forensics with Security Copilot Identity Analyst Plugin](https://techcommunity.microsoft.com/blog/securitycopilotblog/identity-forensics-with-copilot-for-security-identity-analyst-plugin/4278180)
 * [Enhancing Threat Hunting with Microsoft Defender Experts Plugin](https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/enhancing-threat-hunting-with-microsoft-defender-experts-plugin/4296085?utm_source=substack&utm_medium=email)
-* **NEW:** [Monitor User Activities and System Events with Security Copilot and Microsoft Sentinel](https://techcommunity.microsoft.com/blog/securitycopilotblog/monitor-user-activities-and-system-events-with-security-copilot-and-microsoft-se/4303368?utm_source=substack&utm_medium=email)
+* [Monitor User Activities and System Events with Security Copilot and Microsoft Sentinel](https://techcommunity.microsoft.com/blog/securitycopilotblog/monitor-user-activities-and-system-events-with-security-copilot-and-microsoft-se/4303368?utm_source=substack&utm_medium=email)
 
 
 ### Features

@@ -3,7 +3,7 @@ layout: page
 title: Secure Future Initiative series
 description: Secure Future Initiative series
 permalink: /skilling/microsoft-security-academy/sfiseries
-updated: 2024-10-31
+updated: 2024-12-23
 showbreadcrumb: true
 tags: 
 - academy content
@@ -18,6 +18,7 @@ tags:
     <img src="https://wp.technologyreview.com/wp-content/uploads/2020/03/ms-securitylogostackedc-grayrgb-hero-copy-small_2-3.png" alt="MSA Logo" style="max-width: 100px; height: auto; margin-bottom: 20px;">
 </div>
 
+> Recordings and PPTs will be available soon!
 
 ### Build security culture and governance with Microsoft's Secure Future Initiative series
 

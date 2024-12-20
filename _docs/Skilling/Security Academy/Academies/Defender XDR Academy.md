@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Defender XDR
 description: Microsoft Defender XDR
 permalink: /skilling/microsoft-security-academy/dxdr-academy
-updated: 2024-08-30
+updated: 2024-12-23
 showbreadcrumb: true
 Tags:
 - academy content
@@ -20,6 +20,10 @@ Explore Microsoft Defender XDR videos with demos delivered directly to partners,
 
 
 <table>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/BIJ5BPiFhYQ-"><img src="https://img.youtube.com/vi/D8RUKcimCzE/maxresdefault.jpg" alt="New Ways for Security Teams to Protect OT Environments with Microsoft Defender XDR" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/D8RUKcimCzE"><b>New Ways for Security Teams to Protect OT Environments with Microsoft Defender XDR</b></a><br><br>Learn how digital transformation has created new security challenges, particularly in industrial processes and critical infrastructure, as well as how Microsoft Defender XDR is changing the way we safeguard critical assets.</td>
+  </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/BIJ5BPiFhYQ?si=Eyk43Lht2chDfY7-"><img src="https://img.youtube.com/vi/9kmiKoau-Ek/maxresdefault.jpg" alt="ITDR Introduction and Prevention Capabilities" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/BIJ5BPiFhYQ?si=Eyk43Lht2chDfY7-"><b>ITDR Introduction and Prevention Capabilities</b></a><br><br>Learn about Microsoft's vision for ITDR and its importance in today's threat landscape. We'll cover the prevention pillar, focusing on adaptive controls and security posture as the critical foundation.</td>
