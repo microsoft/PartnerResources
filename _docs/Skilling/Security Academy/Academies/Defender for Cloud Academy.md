@@ -30,7 +30,7 @@ Explore Microsoft Defender for Cloud videos with demos delivered directly to par
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/4jcgyJLTtmo"><img src="https://img.youtube.com/vi/4jcgyJLTtmo/maxresdefault.jpg" alt="Operationalizing Defender CSPM" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/4jcgyJLTtmo"><b>Operationalizing Defender CSPM</b></a><br><br>Learn how to integrate Defender CSPM into strategic security management, covering compliance standards, sub-assessments to full assessments, unified security views, CIEM/ITSM integration, and Secure Score enhancements.</td>
+    <td><a href="https://youtu.be/4jcgyJLTtmo"><b>Operationalizing Defender CSPM</b></a><br><br>Learn how to integrate Defender CSPM into strategic security management, from sub-assessments to full assessments, unified security views, CIEM/ITSM integration, and Secure Score enhancements.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/IPhW3Q-iCGo"><img src="https://img.youtube.com/vi/IPhW3Q-iCGo/maxresdefault.jpg" alt="Microsoft Copilot in Microsoft Defender for Cloud" width="400" height="400"></a></td>
