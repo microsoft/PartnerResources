@@ -62,7 +62,7 @@ ___
 
 ## December 23rd, 2024 Update📰
 
-**Recent Update** (December 23rd): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Security Copilot Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, and **[Secure Future Initiative series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)** |
+**Recent Update** (December 23rd): **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)**, **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Security Copilot Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, and **[Secure Future Initiative series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)** |
 
 Christmas is this week, and we at Microsoft wish all who celebrate a joyful holiday surrounded by family and friends.🎄
 

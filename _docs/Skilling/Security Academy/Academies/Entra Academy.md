@@ -15,6 +15,8 @@ Explore Microsoft Entra videos with demos delivered directly to partners, releva
 
 #### Stay connected with the [Microsoft Entra Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity).🔗
 
+#### *Updates to this page are coming after the Christmas holiday. Stay tuned.*
+
 
 <div>&nbsp;</div>
 
