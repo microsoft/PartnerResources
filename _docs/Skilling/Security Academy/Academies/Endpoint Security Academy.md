@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Endpoint Security
 description: Microsoft Endpoint Security
 permalink: /skilling/microsoft-security-academy/endpoint-academy
-updated: 2024-09-10
+updated: 2024-12-23
 showbreadcrumb: true
 tags: 
 - academy content
@@ -20,6 +20,14 @@ Explore Microsoft Defender for Endpoint and Microsoft Defender for IoT videos w
 
 
 <table>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be//CxiCWP9H__U"><img src="https://img.youtube.com/vi/CxiCWP9H__U/maxresdefault.jpg" alt="Defending OT Environments discussion" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/CxiCWP9H__U"><b>Defending OT Environments discussion</b></a><br><br>Gain valuable insights on leveraging Microsoft Defender XDR to secure IT and OT environments across your entire digital estate.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/D8RUKcimCzE"><img src="https://img.youtube.com/vi/D8RUKcimCzE/maxresdefault.jpg" alt="New Ways for Security Teams to Protect OT Environments with Microsoft Defender XDR" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/D8RUKcimCzE"><b>New Ways for Security Teams to Protect OT Environments with Microsoft Defender XDR</b></a><br><br>Learn how digital transformation has created new security challenges, particularly in industrial processes and critical infrastructure, as well as how Microsoft Defender XDR is changing the way we safeguard critical assets.</td>
+  </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/PfLww62IeyE"><img src="https://img.youtube.com/vi/PfLww62IeyE/maxresdefault.jpg" alt="Dive into Industry-leading EDR with Microsoft Defender for Endpoint" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/PfLww62IeyE"><b>Dive into Industry-leading EDR with Microsoft Defender for Endpoint</b></a><br><br>Want to prevent ransomware and nation-state attacks? In under two hours, learn how to stop these threats with industry-leading antimalware, vulnerability management, attack surface reduction, device-based conditional access, and more!</td>

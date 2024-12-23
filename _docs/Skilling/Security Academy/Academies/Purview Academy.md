@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Purview
 description: Microsoft Purview
 permalink: /skilling/microsoft-security-academy/purview-academy
-updated: 2024-10-19
+updated: 2024-12-23
 showbreadcrumb: true
 Tags:
 - academy content
@@ -23,12 +23,16 @@ Explore Microsoft Purview videos with demos delivered directly to partners, rele
 
 <table>
   <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/yYah1FFACZM"><img src="https://img.youtube.com/vi/yYah1FFACZM/maxresdefault.jpg" alt="Microsoft Purview eDiscovery Modern UX" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/yYah1FFACZM"><b>Microsoft Purview eDiscovery Modern UX</b></a><br><br>Explore the new Purview eDiscovery UI, highlighting its optimized design and enhanced features that simplify and improve the user experience.</td>
+  </tr>
+  <tr style="vertical-align:top">
     <td><a href="https://youtu.be/5WlLz7Q1pIY"><img src="https://img.youtube.com/vi/5WlLz7Q1pIY/maxresdefault.jpg" alt="Copilot for Security in Purview" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/5WlLz7Q1pIY"><b>Copilot for Security in Purview</b></a><br><br>Learn about Copilot for Security in Purview, how it works, and see demos of how it can be used to address business challenges, simplify data, and accelerate investigations.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/KZN8cxc2fR0"><img src="https://img.youtube.com/vi/KZN8cxc2fR0/maxresdefault.jpg" alt="Audit Services" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/KZN8cxc2fR0"><b>Audit Services</b></a><br><br>Audit services in Purview Compliance Manager provide a robust framework for managing compliance requirements. By leveraging its features, organizations can ensure they remain compliant with regulations, minimize risks, and streamline the audit process.</td>
+    <td><a href="https://youtu.be/BnfHch57xjA"><img src="https://img.youtube.com/vi/BnfHch57xjA/maxresdefault.jpg" alt="Audit Services 2.0" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/BnfHch57xjA"><b>Audit Services 2.0</b></a><br><br>Audit services in Purview Compliance Manager provide a robust framework for managing compliance requirements. By leveraging its features, organizations can ensure they remain compliant with regulations, minimize risks, and streamline the audit process.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/lHGaAJTdCF8"><img src="https://img.youtube.com/vi/lHGaAJTdCF8/maxresdefault.jpg" alt="Data Lifecycle Management & Records Management" width="400" height="400"></a></td>
@@ -49,8 +53,4 @@ Explore Microsoft Purview videos with demos delivered directly to partners, rele
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/cSgK09cC-b4"><img src="https://img.youtube.com/vi/cSgK09cC-b4/maxresdefault.jpg" alt="Microsoft Purview Data Loss Prevention (DLP)" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/cSgK09cC-b4"><b>Microsoft Purview Data Loss Prevention (DLP)</b></a><br><br>Learn how to maintain your Endpoint DLP setup using the device onboarding page.</td>
-  </tr>
-  <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/hsrkWR_tp2M"><img src="https://img.youtube.com/vi/hsrkWR_tp2M/maxresdefault.jpg" alt="Microsoft Purview Advanced Classification Scanning & Protection for Endpoints Running on macOS" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/hsrkWR_tp2M"><b>Microsoft Purview Advanced Classification Scanning & Protection for Endpoints Running on macOS</b></a><br><br>Explore the latest advancements in Endpoint Data Loss Prevention (DLP), including support for network file shares and virtualized environments. Additionally, learn about advanced classification support for macOS endpoints.</td>
   </tr>
