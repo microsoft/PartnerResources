@@ -25,6 +25,14 @@ Explore Microsoft Entra videos with demos delivered directly to partners, releva
     <td><a href="https://youtu.be//L78nU6DzdKw"><b>Migrating from AD to Entra ID</b></a><br><br>Learn about key milestones and recommendations for transitioning from Active Directory to Microsoft Entra ID, guided by Microsoft Identity and Network Access Product Managers.</td>
   </tr>
   <tr style="vertical-align:top">
+    <td><a href="https://youtu.be//GO5SSX77YMc"><img src="https://img.youtube.com/vi/GO5SSX77YMc/maxresdefault.jpg" alt="425 Show | Securing Generative AI with Microsoft Entra" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//GO5SSX77YMc"><b>425 Show | Securing Generative AI with Microsoft Entra</b></a><br><br>Explore the security challenges of Generative AI and how Microsoft Entra's capabilities can help address them, as 93% of businesses are adopting or developing an AI strategy.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be//qYJgJf_kTwE"><img src="https://img.youtube.com/vi/qYJgJf_kTwE/maxresdefault.jpg" alt="425 Show | Global Promptbooks in Security Copilot" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//qYJgJf_kTwE"><b>425 Show | Global Promptbooks in Security Copilot</b></a><br><br>Learn how Security Copilot uses GAI and prebuilt promptbooks to boost the efficiency and effectiveness of Admins, across Entra, Intune, Purview, and Defender XDR!</td>
+  </tr>
+  <tr style="vertical-align:top">
     <td><a href="https://youtu.be/ktDVqC30bJ8"><img src="https://img.youtube.com/vi/ktDVqC30bJ8/maxresdefault.jpg" alt="Microsoft Entra Verified ID: Helpdesk Security Verification with Face Check!" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/ktDVqC30bJ8"><b>Microsoft Entra Verified ID: Helpdesk Security Verification with Face Check!</b></a><br><br>Learn how Microsoft Entra Verified ID with Face Check can accelerate helpdesk operations by securely verifying identities in remote work environments.</td>
   </tr>
