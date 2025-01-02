@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2024-12-23
+updated: 2025-01-06
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -60,11 +60,11 @@ showbreadcrumb: true
 
 ___
 
-## December 23rd, 2024 Update📰
+## January 6th, 2025 Update📰
 
-**Recent Update** (December 23rd): **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)**, **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Security Copilot Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, and **[Secure Future Initiative series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)** |
+**Recent Update** (January 6th): **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)**, **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Security Copilot Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, and **[Secure Future Initiative series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)** |
 
-Christmas is this week, and we at Microsoft wish all who celebrate a joyful holiday surrounded by family and friends.🎄
+We at Microsoft wish everyone a great start to the new year!🎉
 
 Remember how the U.S. State Department caught Chinese hackers snooping around Microsoft's email systems? They used the now infamous “Big Yellow Taxi” KQL detections, which you can find **[here](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Office%20365/BigYellowTaxi%20-%20SignIn.md)**🚕
 
@@ -90,10 +90,10 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Microsoft Defender XDR       | Get the most out of MDVM               | JAN 14             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Azure Network Security       |  Azure Firewall Private IP DNAT        | JAN 15             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for O365  | Improved SecOps Efficiency             | JAN 23             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Azure Network Security       |  Azure WAF Bot Protection              | JAN 28             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender XDR       | Get the most out of MDVM               | FEB 12             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Sentinel | API Integration with Sentinel & Unified SecOps   | FEB 20             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 
 
