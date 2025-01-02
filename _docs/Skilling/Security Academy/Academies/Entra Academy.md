@@ -58,7 +58,7 @@ Explore Microsoft Entra videos with demos delivered directly to partners, releva
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/-RFDYX8Qjus"><img src="https://img.youtube.com/vi/-RFDYX8Qjus/maxresdefault.jpg" alt="All Things Microsoft Entra AAD" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/-RFDYX8Qjus"><b>All Things Microsoft Entra AAD</b></a><br><br>Explore Azure AD authentication methods (e.g., password, multi-factor, certificate-based). Learn about Single Sign-On (SSO) and Hybrid Identity, and explore Azure AD Identity Secure Score, Conditional Access, and Identity Protection for securing user identities and cloud resources.</td>
+    <td><a href="https://youtu.be/-RFDYX8Qjus"><b>All Things Microsoft Entra AAD</b></a><br><br>Explore Azure AD authentication methods (e.g., password, multi-factor, certificate-based). Learn about Single Sign-On (SSO) and Hybrid Identity, and explore AAD Secure Score, Conditional Access, and identity protection.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/bm_zgd1DtdQ"><img src="https://img.youtube.com/vi/bm_zgd1DtdQ/maxresdefault.jpg" alt="All Things Microsoft Entra Identity Governance (IGA)" width="400" height="400"></a></td>
