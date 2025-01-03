@@ -3,7 +3,7 @@ layout: page
 title: Azure Network Security
 description: Azure Network Security
 permalink: /skilling/microsoft-security-academy/network-academy
-updated: 2024-12-23
+updated: 2025-01-06
 showbreadcrumb: true
 tags: 
 - academy content
@@ -55,10 +55,6 @@ Explore Azure Network Security videos with demos delivered directly to partners,
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/EIvFECzyAkU"><img src="https://img.youtube.com/vi/EIvFECzyAkU/maxresdefault.jpg" alt="Azure DDoS Protection for SecOps Deep Dive" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/EIvFECzyAkU"><b>Azure DDoS Protection for SecOps Deep Dive</b></a><br><br>Discover how Azure DDoS Protection can help SecOps teams identify DDoS attacks using telemetry and logs. Through simulated attack scenarios, you'll learn how to view attack details, recognize malicious traffic, and leverage queries.</td>
-  </tr>
-  <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/xLWuLGi52Lg"><img src="https://img.youtube.com/vi/xLWuLGi52Lg/maxresdefault.jpg" alt="Azure Firewall Monitoring, Management, & Troubleshooting" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/xLWuLGi52Lg"><b>Azure Firewall Monitoring, Management, and Troubleshooting</b></a><br><br>Dive into the Azure Firewall tools, features, and techniques that will empower you to effectively monitor, manage, and troubleshoot your Azure Firewall deployment.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/tLdr-dfXsP4"><img src="https://img.youtube.com/vi/tLdr-dfXsP4/maxresdefault.jpg" alt="Azure Firewall Premium’s Intrusion Detection & Prevention System (IDPS)" width="400" height="400"></a></td>
