@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Defender for Cloud
 description: Microsoft Defender for Cloud
 permalink: /skilling/microsoft-security-academy/defender-academy
-updated: 2024-12-23
+updated: 2025-01-06
 showbreadcrumb: true
 tags: 
 - academy content
@@ -33,8 +33,8 @@ Explore Microsoft Defender for Cloud videos with demos delivered directly to par
     <td><a href="https://youtu.be/4jcgyJLTtmo"><b>Operationalizing Defender CSPM</b></a><br><br>Learn how to integrate Defender CSPM into strategic security management, from sub-assessments to full assessments, unified security views, CIEM/ITSM integration, and Secure Score enhancements.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/IPhW3Q-iCGo"><img src="https://img.youtube.com/vi/IPhW3Q-iCGo/maxresdefault.jpg" alt="Microsoft Copilot in Microsoft Defender for Cloud" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/IPhW3Q-iCGo"><b>Microsoft Copilot in Microsoft Defender for Cloud</b></a><br><br>Learn about Microsoft Copilot for Security in Microsoft Defender for Cloud.</td>
+    <td><a href="https://youtu.be/IPhW3Q-iCGo"><img src="https://img.youtube.com/vi/IPhW3Q-iCGo/maxresdefault.jpg" alt="Copilot in Microsoft Defender for Cloud" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/IPhW3Q-iCGo"><b>Copilot in Microsoft Defender for Cloud</b></a><br><br>Learn about Microsoft Copilot for Security in Microsoft Defender for Cloud.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/_6U_Aohrf7s"><img src="https://img.youtube.com/vi/_6U_Aohrf7s/maxresdefault.jpg" alt="MSSPs & Identity with Azure Lighthouse" width="400" height="400"></a></td>
