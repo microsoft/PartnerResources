@@ -3,7 +3,7 @@ layout: page
 title: Security Copilot
 description: Security Copilot Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2024-12-23
+updated: 2025-01-06
 showbreadcrumb: true
 tags: 
 - academy content
@@ -74,13 +74,13 @@ This page is organized into three parts -- Learn Security Copilot, Extend Securi
 
 ___
 
-## December 23rd, 2024 Update📰
+## January 6th, 2024 Update📰
 
-**Recent Update** (December 23rd, 2024): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)**, **[Whitepapers](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#announcements--whitepapers)**, and **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)** |
+**Recent Update** (January 6th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)**, **[Whitepapers](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#announcements--whitepapers)**, and **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)** |
 
-Christmas is next week, and we at Microsoft wish all who celebrate a joyful holiday surrounded by family and friends.🎄
+We at Microsoft wish everyone a great start to the new year!🎉
 
-Although Microsoft lacks the official documentation for now, BlueVoyant and Splunk have published some documentation about the integration of the Splunk platform with Security Copilot, which you can read **[here](https://lantern.splunk.com/Security/UCE/Foundational_Visibility/Security_monitoring/Monitoring_security_events_with_Enterprise_Security_and_Microsoft_Copilot_for_Security).**
+Although Microsoft lacks the official documentation for now, BlueVoyant and Splunk have published *some* documentation about the integration of the Splunk platform with Security Copilot, which you can read **[here](https://lantern.splunk.com/Security/UCE/Foundational_Visibility/Security_monitoring/Monitoring_security_events_with_Enterprise_Security_and_Microsoft_Copilot_for_Security).**
 
 Security Copilot is now **[SOC 2 certified](https://techcommunity.microsoft.com/blog/securitycopilotblog/microsoft-security-copilot-achieves-soc-2-certification/4295363?utm_source=substack&utm_medium=email)🎉**
 

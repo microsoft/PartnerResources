@@ -3,7 +3,7 @@ layout: page
 title: Secure Future Initiative series
 description: Secure Future Initiative series
 permalink: /skilling/microsoft-security-academy/sfiseries
-updated: 2024-12-23
+updated: 2025-01-06
 showbreadcrumb: true
 tags: 
 - academy content
@@ -19,7 +19,7 @@ tags:
 </div>
 
 
-#### *Recordings and PPTs will be available soon!*
+#### *Recordings and PPTs will be available in January!*
 
 ### Build security culture and governance with Microsoft's Secure Future Initiative series
 
@@ -39,4 +39,4 @@ Building on our October 24th event, which you can watch on-demand **[here](https
 
 Live audio translation will be available for all deliveries in the languages spoken throughout the Americas (English, Spanish, Portuguese, French).
 
-*When you join this event, your name, email address and/or phone number may be viewable by other session participants in the attendee list. By joining, you’re agreeing to this experience.*
+*When you join this event, your name, email address and/or phone number may be viewable by other session participants in the attendee list. By joining, you agree to this experience.*
