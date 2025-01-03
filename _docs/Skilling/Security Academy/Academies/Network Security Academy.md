@@ -33,16 +33,16 @@ Explore Azure Network Security videos with demos delivered directly to partners,
     <td><a href="https://youtu.be/TcQOe0u5yD4"><b>Unlock the Power of Azure Firewall Governance with Azure Policies</b></a><br><br>Explore Azure Policies for Azure Firewall and learn about networking governance, security, and compliance. Discover Azure Firewall's role, the importance of Azure Policies, and best practices for configuration.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/nXduz5YPLFc"><img src="https://img.youtube.com/vi/nXduz5YPLFc/maxresdefault.jpg" alt="Azure Firewall Integration in Microsoft Copilot for Security" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/nXduz5YPLFc"><b>Azure Firewall Integration in Microsoft Copilot for Security</b></a><br><br>With Azure Firewall integration in Microsoft Copilot for Security, analysts can thoroughly investigate malicious traffic intercepted by IDPS across their environment, all while using natural language queries in the Microsoft Copilot for Security standalone experience.</td>
+    <td><a href="https://youtu.be/nXduz5YPLFc"><img src="https://img.youtube.com/vi/nXduz5YPLFc/maxresdefault.jpg" alt="Azure Firewall Integration in Microsoft Security Copilot" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/nXduz5YPLFc"><b>Azure Firewall Integration in Microsoft Security Copilot</b></a><br><br>With Azure Firewall integration in Microsoft Security Copilot, analysts can thoroughly investigate malicious traffic intercepted by IDPS across their environment, all while using natural language queries in the Microsoft Security Copilot standalone experience.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/kf8O3_yqvcs"><img src="https://img.youtube.com/vi/kf8O3_yqvcs/maxresdefault.jpg" alt="Azure Web Application Firewall (WAF) Policies" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/kf8O3_yqvcs"><b>Azure Web Application Firewall (WAF) Policies</b></a><br><br>Learn how to protect your applications from common OWASP attacks with Azure Web Application Firewall (WAF). Explore how to deploy the service in minutes to get complete visibility into your environment.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/PkdFIBvMVlw"><img src="https://img.youtube.com/vi/nXduz5YPLFc/maxresdefault.jpg" alt="Azure Web Application Firewall (WAF) Integration in Microsoft Copilot for Security" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/PkdFIBvMVlw"><b>Azure Web Application Firewall (WAF) Integration in Microsoft Copilot for Security</b></a><br><br>The Azure Web Application Firewall (WAF) integration in Microsoft Copilot for Security provides comprehensive insights into Azure WAF detections, empowering Network Security analysts to ask questions about the top rules triggered, top malicious IPs, and more!</td>
+    <td><a href="https://youtu.be/PkdFIBvMVlw"><img src="https://img.youtube.com/vi/nXduz5YPLFc/maxresdefault.jpg" alt="Azure Web Application Firewall (WAF) Integration in Microsoft Security Copilot" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/PkdFIBvMVlw"><b>Azure Web Application Firewall (WAF) Integration in Microsoft Security Copilot</b></a><br><br>The Azure Web Application Firewall (WAF) integration in Microsoft Security Copilot provides comprehensive insights into Azure WAF detections, empowering Network Security analysts to ask questions about the top rules triggered, top malicious IPs, and more!</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/pcfPaMZC4iY"><img src="https://img.youtube.com/vi/pcfPaMZC4iY/maxresdefault.jpg" alt="All About Azure DDoS Protection" width="400" height="400"></a></td>

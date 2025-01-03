@@ -63,6 +63,3 @@ Explore Microsoft Defender for Cloud videos with demos delivered directly to par
     <td><a href="https://youtu.be/fxb_4be7TAU"><img src="https://img.youtube.com/vi/fxb_4be7TAU/maxresdefault.jpg" alt="Simplifying Servers Security in Microsoft Defender for Cloud" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/fxb_4be7TAU"><b>Simplifying Servers Security in Microsoft Defender for Cloud</b></a><br><br>Learn about recommendations for server security in Microsoft Defender for Cloud, including for CNAPP and server protection, simplified security strategies, the transition from MMA to MDC, and more.</td>
   </tr>
-  <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/nCEuDNfPKtk"><img src="https://img.youtube.com/vi/nCEuDNfPKtk/maxresdefault.jpg" alt="Upgrade to Microsoft Defender Vulnerability Management" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/nCEuDNfPKtk"><b>Upgrade to Microsoft Defender Vulnerability Management</b></a><br><br>Learn about the upgrade to Microsoft Defender Vulnerability Management (MDVM) for detecting vulnerabilities in container images and servers.</td>
