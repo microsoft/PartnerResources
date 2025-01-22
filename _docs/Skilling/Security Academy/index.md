@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2025-01-06
+updated: 2025-01-23
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -60,11 +60,13 @@ showbreadcrumb: true
 
 ___
 
-## January 6th, 2025 Update📰
+## January 23rd, 2025 Update📰
 
-**Recent Update** (January 6th): **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)**, **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Security Copilot Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, and **[Secure Future Initiative series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)** |
+**Recent Update** (January 23rd): **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)**, **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, and **[Security Copilot Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
 
-We at Microsoft wish everyone a great start to the new year!🎉
+A new administration is in office, and that means many federal employees are moving on to new opportunities -- including Jen Easterly, the former and esteemed Director of CISA. It's notable (and shouldn't come as a surprise to absolutely anyone) that in her final days, she wrote about the increasing threats we face from the PRC and MSS, which you can read about **[here](https://www.cisa.gov/news-events/news/strengthening-americas-resilience-against-prc-cyber-threats).**
+
+Speaking of CISA... we just published an **[Expanded Cloud Log Implementation Playbook](https://www.cisa.gov/news-events/news/cisa-publishes-microsoft-expanded-cloud-log-implementation-playbook?utm_source=substack&utm_medium=email)** in coordination with our federal counterparts, and it's worth a bookmark.
 
 Remember how the U.S. State Department caught Chinese hackers snooping around Microsoft's email systems? They used the now infamous “Big Yellow Taxi” KQL detections, which you can find **[here](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Office%20365/BigYellowTaxi%20-%20SignIn.md)**🚕
 
@@ -74,7 +76,11 @@ Our 2024 **[ Digital Defense Report](https://www.microsoft.com/en-us/security/se
 
 ### Other News
 
-We recently launched a **[Zero Trust partner kit](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-partner-kit?utm_source=substack&utm_medium=email)** which includes pre-packaged and co-branded resources for you to use with customers. Just add your own branding!
+We recently published **[3 takeaways from red teaming 100 generative AI products](https://www.microsoft.com/en-us/security/blog/2025/01/13/3-takeaways-from-red-teaming-100-generative-ai-products/?utm_source=substack&utm_medium=email)**✏️
+
+If you're looking for an easier way to consume Microsoft Sentinel's extensive GitHub repository, **[this](https://analyticsrules.exchange/)** is a helpful catalog.
+
+We also recently launched a **[Zero Trust partner kit](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-partner-kit?utm_source=substack&utm_medium=email)** which includes pre-packaged and co-branded resources for you to use with customers. Just add your own branding!
 
 The Microsoft Incident Response team recently created a compilation of incident response/TTP guides, best practices, and threat-hunting strategies, known as the **[Microsoft Incident Response Ninja Hub](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-incident-response-ninja-hub/ba-p/4243594?utm_source=substack&utm_medium=email).**
 
@@ -90,11 +96,15 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Azure Network Security       |  Azure Firewall Private IP DNAT        | JAN 15             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for O365  | Improved SecOps Efficiency             | JAN 23             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Azure Network Security       |  Azure WAF Bot Protection              | JAN 28             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender XDR       | Get the most out of MDVM               | FEB 12             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender XDR       | Automatic Attack Disruption            | FEB 18             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Sentinel | Managing Repositories                            | FEB 19             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Sentinel | API Integration with Sentinel & Unified SecOps   | FEB 20             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender XDR       | Insider Risk Management Data           | FEB 25             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Sentinel | What's new in Microsoft Sentinel                 | APR 10             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender XDR       | SaaS Security Exposure Reduction       | APR 23             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 
 
 ___
