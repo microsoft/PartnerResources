@@ -20,6 +20,6 @@ On this page, we'll include resources for databases in Microsoft Fabric.
 
 Presentations:
 
-* [Fabric Databases Overview (PDF)]({{ site.baseurl }}/assets/fabricdb/Fabric%Databases%Overview_pdf.zip) 
-* [Fabric Databases Overview (PPTX)]({{ site.baseurl }}/assets/fabricdb/Fabric%Databases%Overview_pptx.zip) 
+* [Fabric Databases Overview (PDF)]({{ site.baseurl }}/assets/fabricdb/Fabric%20Databases%20Overview_pdf.zip) 
+* [Fabric Databases Overview (PPTX)]({{ site.baseurl }}/assets/fabricdb/Fabric%20Databases%20Overview_pptx.zip) 
 
