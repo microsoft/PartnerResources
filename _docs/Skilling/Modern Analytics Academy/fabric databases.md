@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Fabric Databases
 description: Resources for Microsoft Fabric Databases
 permalink: /skilling/modern-analytics-academy/fabric-databases
-updated: 2025-01-25
+updated: 2025-01-30
 showbreadcrumb: true
 tags:
 - azure
