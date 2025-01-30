@@ -23,3 +23,11 @@ Presentations:
 * [Fabric Databases Overview (PDF)]({{ site.baseurl }}/assets/fabricdb/Fabric%20Databases%20Overview_pdf.zip) 
 * [Fabric Databases Overview (PPTX)]({{ site.baseurl }}/assets/fabricdb/Fabric%20Databases%20Overview_pptx.zip) 
 
+Presentations:
+
+{% include series.md 
+    includetags="modern analytics academy|academy content|fabricdb" includemethod="all" 
+    includesecondtags="modern analytics academy|academy content|certification" 
+    sortfield="updated" sortorder="desc" showdate="true" showtags="true"
+    visualstyle="normal"
+%}
