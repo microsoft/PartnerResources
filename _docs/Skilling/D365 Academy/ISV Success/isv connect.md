@@ -33,4 +33,4 @@ and [CE](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/publ
 Ask your Account Manager or contact Microsoft Partner Support for assistance with your account. For general information on ISV Success for Business Applications, see:
 
 - [Business Applications for ISVs](https://partner.microsoft.com/solutions/business-applications/isv-overview)
-- [Benefits datasheet for ISV Success for Business Applications](http://aka.ms/bizappsisvbenefits)
+- [Benefits datasheet for ISV Success for Business Applications](https://aka.ms/bizappsisvbenefits)

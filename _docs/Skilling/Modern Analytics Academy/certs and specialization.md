@@ -15,7 +15,7 @@ tags:
 
 # Modern Analytics Academy - Certifications and Specialization
 
-This section contains material related to analytics certifications and specilizations. 
+This section contains material related to analytics certifications and specializations. 
 
 {% include series.md 
     includetags="modern analytics academy|academy content|specialization" includemethod="all" 

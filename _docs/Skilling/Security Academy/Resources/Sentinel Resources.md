@@ -33,7 +33,7 @@ Below, you'll find resources to help you upskill on Microsoft Sentinel. Content 
 * [Before and After Data Collection Rules (DCRs)](https://www.linkedin.com/pulse/before-after-data-collection-rules-debac-manikandan-gyw5c/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 
 ## Fundamentals
-* [Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
+* [Microsoft Sentinel Technical Playbook for MSSPs](https://aka.ms/azsentinelmssp)
 * [Microsoft Sentinel Pricing Calculator v2](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FAzure_Sentinel_Calculator-v2.xlsx)
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
 * [**GitHub:** Microsoft Sentinel Repository](https://github.com/Azure/Azure-Sentinel/wiki)
