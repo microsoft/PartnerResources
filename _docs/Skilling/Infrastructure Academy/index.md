@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Azure Infrastructure Academy
 description: Microsoft Azure Infrastructure Academy
-updated: 2024-05-15
+updated: 2025-01-05
 permalink: /skilling/microsoft-infrastructure-academy
 redirect_from:
   - /skilling/microsoft-infrastructure-academy/
@@ -49,8 +49,16 @@ In international news, **[Microsoft announced significant commitments to enable 
 * [Linux and Open-Source Blog](https://techcommunity.microsoft.com/t5/linux-and-open-source-blog/bg-p/LinuxandOpenSourceBlog)
 * [Running SAP Applications on the Microsoft Platform Blog](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications)
 
+## Contributions
+
+We welcome contributors to this project. Please use the GitHub links near the upper right and consider submitting pull requests or filing issues as needed. Curious how to contribute? See our [Contribution Cheat Sheet]({{ site.baseurl }}/assets/msa/TODO Contribution Cheat Sheet.pdf).
+
+## Feedback
+
+Have any feedback? We'd love to hear from you! Please submit your feedback **[here](https://github.com/microsoft/PartnerResources/issues/new?labels=question&title=Question:&body=Question%20on:%20https://github.com/microsoft/PartnerResources/tree/master/_docs/Skilling/academies.md)!**
+
 ## Meet our Team🎉
 
 The resources within each academy are created by our team of Azure Infrastructure experts.
 
-![Azure Infra. Team]({{ site.baseurl }}/assets/msa/Azure Infra. Team.png)
+![Azure Infra. Team]({{ site.baseurl }}/assets/msa/Azure Infra. Team (3).png)
