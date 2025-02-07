@@ -15,9 +15,6 @@ tags:
 ### Are you pursuing a certification?
 Welcome to certifications! Explore our **[Security Certifications](https://learn.microsoft.com/en-us/credentials/browse/?terms=security)** to learn new skills and demonstrate your technical expertise.
 
-
-<div>&nbsp;</div>
-
 > The **[SC-400](https://learn.microsoft.com/en-us/certifications/exams/SC-400/)** is retiring on May 31st, 2025. Read about its replacement,  our new **[SC-401: Information Security Administrator Certification](https://techcommunity.microsoft.com/blog/microsoftlearnblog/validate-critical-information-security-skills-with-our-new-certification/3719269?utm_source=substack&utm_medium=email).**
 
 ## Security Certifications
