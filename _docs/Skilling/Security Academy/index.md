@@ -66,11 +66,11 @@ ___
 
 Many of my partners live and breathe by ServiceNow, but did you know that we recently launched a new case management service in the Defender portal? If not, read about it **[here](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/improve-secops-collaboration-with-case-management/4369044?utm_source=substack&utm_medium=email)**!
 
-Most security vendors (including us) pitch Zero Trust and phishing-resistant MFA as the foundations, but are you not sure where to start? Grab a coffee and read through our new **[Zero Trust Deployment Essentials](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-security-in-action-zero-trust-deployment-essentials-for-digital-securi/4372698?utm_source=substack&utm_medium=email)**☕
+Most security vendors pitch Zero Trust and phishing-resistant MFA as the foundations, but are you not sure where to start? Grab a coffee and read through our new **[Zero Trust Deployment Essentials](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-security-in-action-zero-trust-deployment-essentials-for-digital-securi/4372698?utm_source=substack&utm_medium=email)**☕
 
 Product names aren't the only thing known to change at Microsoft, and certifications are no exception. Read about the retirement of the **[SC-400](https://learn.microsoft.com/en-us/certifications/exams/SC-400/)** and our new **[SC-401: Information Security Administrator Certification](https://techcommunity.microsoft.com/blog/microsoftlearnblog/validate-critical-information-security-skills-with-our-new-certification/3719269?utm_source=substack&utm_medium=email).**
 
-In other news, hackers from China, Iran, and other adversaries are increasingly using AI, including Google's Gemini, to bolster their cyberattacks, according to recent Google **[recent threat intelligence research](https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai).**
+In other news, hackers from China, Iran, and other adversaries are increasingly using AI, including Google's Gemini, to bolster their cyberattacks, according to recent Google **[ threat intelligence research](https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai).**
 
 A new administration is in office, and that means many federal employees are moving on to new opportunities -- including Jen Easterly, the former and esteemed Director of CISA. It's notable (and shouldn't come as a surprise to absolutely anyone) that in her final days, she wrote about the increasing threats we face from the PRC and MSS, which you can read about **[here](https://www.cisa.gov/news-events/news/strengthening-americas-resilience-against-prc-cyber-threats).**
 
