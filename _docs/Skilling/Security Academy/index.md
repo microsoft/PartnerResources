@@ -72,8 +72,6 @@ Product names aren't the only thing known to change at Microsoft, and certificat
 
 In other news, hackers from China, Iran, and other adversaries are increasingly using AI, including Google's Gemini, to bolster their cyberattacks, according to recent Google **[recent threat intelligence research](https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai).**
 
---
-
 A new administration is in office, and that means many federal employees are moving on to new opportunities -- including Jen Easterly, the former and esteemed Director of CISA. It's notable (and shouldn't come as a surprise to absolutely anyone) that in her final days, she wrote about the increasing threats we face from the PRC and MSS, which you can read about **[here](https://www.cisa.gov/news-events/news/strengthening-americas-resilience-against-prc-cyber-threats).**
 
 Speaking of CISA... we just published an **[Expanded Cloud Log Implementation Playbook](https://www.cisa.gov/news-events/news/cisa-publishes-microsoft-expanded-cloud-log-implementation-playbook?utm_source=substack&utm_medium=email)** in coordination with our federal counterparts, and it's worth a bookmark.
@@ -84,7 +82,7 @@ In response to the Exchange breach and others like it, we're continuing to impro
 
 ### Other News
 
-Log Analytics can be tricky, but our new **[Simple Mode](https://techcommunity.microsoft.com/blog/azureobservabilityblog/log-analytics-simple-mode-is-now-generally-available/4370749?utm_source=substack&utm_medium=email)** makes it easier than ever before.
+Log Analytics can be tricky, but our new **[Simple Mode](https://techcommunity.microsoft.com/blog/azureobservabilityblog/log-analytics-simple-mode-is-now-generally-available/4370749?utm_source=substack&utm_medium=email)** makes it easier than ever before!
 
 We recently published **[3 takeaways from red teaming 100 generative AI products](https://www.microsoft.com/en-us/security/blog/2025/01/13/3-takeaways-from-red-teaming-100-generative-ai-products/?utm_source=substack&utm_medium=email)**✏️
 
