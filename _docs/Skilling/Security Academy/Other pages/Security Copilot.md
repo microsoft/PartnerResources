@@ -3,7 +3,7 @@ layout: page
 title: Security Copilot
 description: Security Copilot Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2025-01-23
+updated: 2025-02-09
 showbreadcrumb: true
 tags: 
 - academy content
@@ -74,9 +74,9 @@ This page is organized into three parts -- Learn Security Copilot, Extend Securi
 
 ___
 
-## January 23rd, 2024 Update📰
+## February 9th, 2024 Update📰
 
-**Recent Update** (January 23rd): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)**, **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)**, and **[3P Plugins](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#3p-plugins)** |
+**Recent Update** (February 9th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
 
 Although Microsoft lacks the official documentation for now, BlueVoyant and Splunk have published *some* documentation about the integration of the Splunk platform with Security Copilot, which you can read **[here](https://lantern.splunk.com/Security/UCE/Foundational_Visibility/Security_monitoring/Monitoring_security_events_with_Enterprise_Security_and_Microsoft_Copilot_for_Security).**
 
@@ -94,9 +94,11 @@ Lastly, my colleague and friend Rick created **[these easy-to-use KQL templates]
 If you're a member of the **[Microsoft Security Copilot Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Security Copilot Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-|  Copilot in Intune Capabilities                        | Thursday, January 30th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/0cef1319-30b9-47f6-91e7-5413cb57baee@72f988bf-86f1-41af-91ab-2d7cd011db47)
 |  What's coming in Copilot for Purview Data Governance? | Thursday, February 13th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/9c6058e4-00be-4450-9315-16f2d005e671@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  Security Copilot in the Microsoft Defender Portal     | Thursday, February 18th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/a985b1a3-2dee-4b1b-a9ac-917c71b63184@72f988bf-86f1-41af-91ab-2d7cd011db47)
 |  Extending Security Copilot with custom plugins        | Thursday, February 20th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/eedf3946-5361-4b0b-897d-643c14811c82@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  Security Copilot in Microsoft Entra                   | Thursday, February 27th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/891a573a-51a7-4997-a392-7b42620e7680@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  Security Copilot and Microsoft Sentinel integrations  | Thursday, March 20th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/f4651263-7b5e-44c9-a3aa-34ac0b503a5a@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 
 <div>&nbsp;</div>
@@ -141,12 +143,15 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [What does good prompt engineering look like?](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)
 * [Apply principles of Zero Trust to Microsoft Security Copilot](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
 * [Exploring Security Copilot to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
+
+#### Resources for after your first few weeks
+
 * [Extending Security Copilot with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267?utm_source=substack&utm_medium=email)
 * [Customize and Optimize Security Copilot with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
 * [Identity forensics with Security Copilot Identity Analyst Plugin](https://techcommunity.microsoft.com/blog/securitycopilotblog/identity-forensics-with-copilot-for-security-identity-analyst-plugin/4278180)
-* [Enhancing Threat Hunting with Microsoft Defender Experts Plugin](https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/enhancing-threat-hunting-with-microsoft-defender-experts-plugin/4296085?utm_source=substack&utm_medium=email)
 * [Monitor User Activities and System Events with Security Copilot and Microsoft Sentinel](https://techcommunity.microsoft.com/blog/securitycopilotblog/monitor-user-activities-and-system-events-with-security-copilot-and-microsoft-se/4303368?utm_source=substack&utm_medium=email)
-* **NEW:** [Leveraging ASIM-based KQL plugins in Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/leveraging-asim-based-kql-plugins-in-microsoft-security-copilot-for-investigatio/4357680?utm_source=substack&utm_medium=email)
+* [Leveraging ASIM-based KQL plugins in Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/leveraging-asim-based-kql-plugins-in-microsoft-security-copilot-for-investigatio/4357680?utm_source=substack&utm_medium=email)
+* **NEW:** [Accelerating the Anomalous Sign-Ins detection with Microsoft Entra ID and Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/accelerating-the-anomalous-sign-ins-detection-with-microsoft-entra-id-and-securi/4365435?utm_source=substack&utm_medium=email)
 
 
 ### Features
@@ -306,7 +311,7 @@ Learn how to grant an MSSP access to your Security Copilot environment and how t
 * [IPinfo](https://learn.microsoft.com/en-us/copilot/security/plugin-ipinfo) -- IPinfo provides IP geolocation, IP to Privacy Detection (VPN, Tor, Proxy), ASN data, company data, carrier metadata, and WHOIS data
 * [Jamf](https://learn.microsoft.com/en-us/copilot/security/plugin-jamf) -- Jamf Pro provides enterprise-level Mobile Device Management (MDM)
 * [Netskope](https://learn.microsoft.com/en-us/copilot/security/plugin-netskope) -- Netskope combines security and networking services, enabling Secure Access Services Edge (SASE) and Zero Trust
-* **NEW:** [Pure Signal Scout](https://learn.microsoft.com/en-us/copilot/security/plugin-pure-signal-scout) -- Pure Signal Scout is Team Cymru's TI tool
+* [Pure Signal Scout](https://learn.microsoft.com/en-us/copilot/security/plugin-pure-signal-scout) -- Pure Signal Scout is Team Cymru's TI tool
 * [Quest Security Guardian](https://learn.microsoft.com/en-us/copilot/security/plugin-quest-security-guardian) -- Quest Security Guardian is an Active Directory tool that reduces your attack surface
 * [Red Canary](https://learn.microsoft.com/en-us/copilot/security/plugin-red-canary) -- Red Canary provides managed detection and response (MDR) services
 * [ReversingLabs](https://learn.microsoft.com/en-us/copilot/security/plugin-reversinglabs) -- ReversingLabs helps SOC teams understand file-based threats
@@ -315,7 +320,7 @@ Learn how to grant an MSSP access to your Security Copilot environment and how t
 * [Shodan](https://learn.microsoft.com/en-us/copilot/security/plugin-shodan) -- Shodan is a search engine that allows users to find specific types of devices connected to the Internet
 * [Silverfort](https://learn.microsoft.com/en-us/copilot/security/plugin-silverfort) -- Silverfort provides advanced CEF data from Microsoft Sentinel
 * [Tanium](https://learn.microsoft.com/en-us/copilot/security/plugin-tanium) -- Tanium is a Converged Endpoint Management (XEM) reference platform
-* **NEW:** [TufinMate](https://learn.microsoft.com/en-us/copilot/security/plugin-tufinmate) -- Tufin Orchestration Suite is a firewall management platform
+* [TufinMate](https://learn.microsoft.com/en-us/copilot/security/plugin-tufinmate) -- Tufin Orchestration Suite is a firewall management platform
 * [UrlScan](https://learn.microsoft.com/en-us/copilot/security/plugin-urlscan) -- UrlScan allows users to scan and analyze potentially malicious URLs
 * [Valence Security](https://learn.microsoft.com/en-us/copilot/security/plugin-valence) -- Valence combines SaaS Security Posture Management (SSPM) and advanced remediation
 * [Whoisfreaks](https://learn.microsoft.com/en-us/copilot/security/plugin-whoisfreaks) -- Whoisfreaks provides domain and IP intelligence services
