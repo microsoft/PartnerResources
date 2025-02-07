@@ -36,5 +36,3 @@ Building on our October 24th event, which you can watch on-demand **[here](https
 | SFI – Modern Work Partners | Dec. 12th | 9:00 AM | *Recording coming soon* |
 
 Live audio translation will be available for all deliveries in the languages spoken throughout the Americas (English, Spanish, Portuguese, French).
-
-*When you join this event, your name, email address and/or phone number may be viewable by other session participants in the attendee list. By joining, you agree to this experience.*
