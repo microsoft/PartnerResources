@@ -64,13 +64,15 @@ ___
 
 **Recent Update** (February 9th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Certifications](/PartnerResources/skilling/microsoft-security-academy/certifications)**, and **[Security Copilot Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
 
-Many of my partners live and breathe by ServiceNow, but did you know that we recently launched a new case management service in the Defender portal? If not, read about it **[here](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/improve-secops-collaboration-with-case-management/4369044?utm_source=substack&utm_medium=email)!**
+Many of my partners live and breathe by ServiceNow, but did you know that we recently launched a new case management service in the Defender portal? If not, read about it **[here](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/improve-secops-collaboration-with-case-management/4369044?utm_source=substack&utm_medium=email)**!
 
-Most security vendors (including us) pitch Zero Trust and phishing-resistant MFA as the foundations, but are you unsure how to even get started? Grab a coffee and read through our new **[Zero Trust Deployment Essentials](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-security-in-action-zero-trust-deployment-essentials-for-digital-securi/4372698?utm_source=substack&utm_medium=email).**
+Most security vendors (including us) pitch Zero Trust and phishing-resistant MFA as the foundations, but are you not sure where to start? Grab a coffee and read through our new **[Zero Trust Deployment Essentials](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-security-in-action-zero-trust-deployment-essentials-for-digital-securi/4372698?utm_source=substack&utm_medium=email)**☕
 
 Product names aren't the only thing known to change at Microsoft, and certifications are no exception. Read about the retirement of the **[SC-400](https://learn.microsoft.com/en-us/certifications/exams/SC-400/)** and our new **[SC-401: Information Security Administrator Certification](https://techcommunity.microsoft.com/blog/microsoftlearnblog/validate-critical-information-security-skills-with-our-new-certification/3719269?utm_source=substack&utm_medium=email).**
 
-In other news, hackers from China, Iran, and other adversaries are increasingly relying on AI, including Google's Gemini, to bolster their cyberattacks, according to recent Google **[recent threat intelligence research](https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai).**
+In other news, hackers from China, Iran, and other adversaries are increasingly using AI, including Google's Gemini, to bolster their cyberattacks, according to recent Google **[recent threat intelligence research](https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai).**
+
+--
 
 A new administration is in office, and that means many federal employees are moving on to new opportunities -- including Jen Easterly, the former and esteemed Director of CISA. It's notable (and shouldn't come as a surprise to absolutely anyone) that in her final days, she wrote about the increasing threats we face from the PRC and MSS, which you can read about **[here](https://www.cisa.gov/news-events/news/strengthening-americas-resilience-against-prc-cyber-threats).**
 
@@ -104,17 +106,6 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Microsoft Defender for O365  | Improved SecOps Efficiency             | JAN 23             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Azure Network Security       |  Azure WAF Bot Protection              | JAN 28             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-
-| Microsoft Defender XDR       | Get the most out of MDVM               | FEB 12             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Defender XDR       | Automatic Attack Disruption            | FEB 18             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Sentinel           | Managing Repositories                  | FEB 19             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Defender XDR       | Insider Risk Management Data           | FEB 25             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Azure Network Security       |  Azure WAF Bot Protection              | FEB 26             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Sentinel | What's new in Microsoft Sentinel                 | APR 10             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Defender XDR       | SaaS Security Exposure Reduction       | APR 23             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-
 | Microsoft Defender XDR       | Get the most out of MDVM               | FEB 12             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender XDR       | Automatic Attack Disruption            | FEB 18             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Sentinel           | Managing Repositories                  | FEB 19             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
