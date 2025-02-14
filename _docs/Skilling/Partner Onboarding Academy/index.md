@@ -12,7 +12,7 @@ showbreadcrumb: true
 
 **This Academy will walk you through the steps necessary to get started and prosper as a Microsoft Partner.**
 
-> This content has migrated to our new Level Up platform.  Please use [this link](https://skillupwithlevelup.com/course-detail/1671736) and the code `FIWJ-WCUW` to register: .
+> This content has migrated to our new Level Up platform.  To ensure you get the most recent information, please use [this link](https://skillupwithlevelup.com/course-detail/1671736) and the code `FIWJ-WCUW` to register:
 
 ### What is a Partner?
 
