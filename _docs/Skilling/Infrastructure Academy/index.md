@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Azure Infrastructure Academy
 description: Microsoft Azure Infrastructure Academy
-updated: 2024-05-15
+updated: 2025-01-05
 permalink: /skilling/microsoft-infrastructure-academy
 redirect_from:
   - /skilling/microsoft-infrastructure-academy/
@@ -30,8 +30,7 @@ Explore our new resources for **[Epic on Azure](/PartnerResources/skilling/micro
 
 ### Noteworthy News📰
 
-In international news, **[Microsoft announced significant commitments to enable a cloud and AI-powered future for Thailand](https://www.msn.com/en-sg/news/other/microsoft-announces-significant-commitments-to-enable-a-cloud-and-ai-powered-future-for-thailand/ar-AA1nXxfJ?ocid=BingNewsSerp)**. In Microsoft's expanding partnership with Nvidia, learn more about **[recent integrations to accelerate generative AI for enterprises everywhere](https://news.microsoft.com/2024/03/18/microsoft-and-nvidia-announce-major-integrations-to-accelerate-generative-ai-for-enterprises-everywhere/)**, and explore **[​how AI infrastructure is shaping tomorrow’s businesses](https://hbr.org/sponsored/2024/04/how-cloud-based-ai-infrastructure-is-shaping-tomorrows-businesses).**
-
+In recent developments, **[Project Stargate](https://windowsreport.com/project-stargate-gets-a-500-billion-budget-to-develop-ai-infrastructure/)** has been allocated a groundbreaking $500 billion budget to build next-generation AI infrastructure. As enterprises continue to **[scale their AI ambitions](https://azure.microsoft.com/en-us/blog/scale-your-ai-transformation-with-a-powerful-secure-and-adaptive-cloud-infrastructure/)**, Microsoft Azure offers a powerful, secure, and adaptive cloud infrastructure to accelerate AI transformation. For businesses looking to elevate their operations, the **[Global Acceleration Program for RISE with SAP on Microsoft Azure](https://azure.microsoft.com/en-us/blog/announcing-global-acceleration-program-for-rise-with-sap-on-microsoft-azure/)** promises seamless integration and enhanced capabilities. Meanwhile, in the healthcare sector, **[Microsoft is expanding Azure scalability for Healthcare Organizations](https://techcommunity.microsoft.com/blog/healthcareandlifesciencesblog/microsoft-expands-azure-scalability-for-healthcare-organizations/4355670)**, setting the stage for more advanced, efficient, and accessible healthcare solutions worldwide.
 
 ## Start Your Journey and Stay Connected🔗
  
@@ -49,8 +48,16 @@ In international news, **[Microsoft announced significant commitments to enable 
 * [Linux and Open-Source Blog](https://techcommunity.microsoft.com/t5/linux-and-open-source-blog/bg-p/LinuxandOpenSourceBlog)
 * [Running SAP Applications on the Microsoft Platform Blog](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications)
 
+## Contributions
+
+We welcome contributors to this project. Please use the GitHub links near the upper right and consider submitting pull requests or filing issues as needed. Curious how to contribute? See our [Contribution Cheat Sheet]({{ site.baseurl }}/assets/msa/TODO Contribution Cheat Sheet.pdf).
+
+## Feedback
+
+Have any feedback? We'd love to hear from you! Please submit your feedback **[here](https://github.com/microsoft/PartnerResources/issues/new?labels=question&title=Question:&body=Question%20on:%20https://github.com/microsoft/PartnerResources/tree/master/_docs/Skilling/academies.md)!**
+
 ## Meet our Team🎉
 
 The resources within each academy are created by our team of Azure Infrastructure experts.
 
-![Azure Infra. Team]({{ site.baseurl }}/assets/msa/Azure Infra. Team.png)
+![Azure Infra. Team]({{ site.baseurl }}/assets/msa/Azure Infra. Team (3).png)

@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Sentinel
 description: Resources for Microsoft Sentinel
-updated: 2024-09-10
+updated: 2024-09-25
 permalink: /security/microsoft-security-academy/microsoft-sentinel
 tags:
 - security
@@ -13,7 +13,7 @@ tags:
 ---
 
 # Microsoft Sentinel Resources
-Below you will find content to assist in skilling on Microsoft Sentinel. Content is organized by increasing levels of complexity (Fundamentals, Associate) followed by other associated critical resources.
+Below, you'll find resources to help you upskill on Microsoft Sentinel. Content is arranged by increasing levels of complexity (Fundamentals, Associate) followed by other associated essential resources.
 
 
 <div>&nbsp;</div>
@@ -21,6 +21,8 @@ Below you will find content to assist in skilling on Microsoft Sentinel. Content
 
 ## September 2024 Update📰
 
+* **NEW:** [Optimize Costs using Auxiliary Logs for Verbose Logging](https://mortenknudsen.net/?p=3308&utm_source=substack&utm_medium=email) -- *Auxiliary Logs = Basic Logs + Archive Tier*
+* **NEW:** [SIEM Migration Update: Now Migrate with Contextual Depth in translations with Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/siem-migration-update-now-migrate-with-contextual-depth-in/ba-p/4241234?utm_source=substack&utm_medium=email) -- The SIEM Migration Experience now supports Schema Mapping, Splunk Macros in translation, and Splunk Lookups in translation
 * **NEW:** [Hunting with Microsoft Graph activity logs](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-with-microsoft-graph-activity-logs/ba-p/4234632) -- Microsoft Graph is a unified REST API endpoint that  provides access to a suite of services including Microsoft 365, Enterprise Mobility + Security, and Windows
 * **NEW:** [Announcing Microsoft Sentinel All-in-One v2](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-microsoft-sentinel-all-in-one-v2/ba-p/3800037) -- Microsoft Sentinel All-in-One helps customers and partners quickly deploy a ready-to-use Microsoft Sentinel environment
 * [Hunting for MFA manipulations in Entra ID tenants using KQL)](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-for-mfa-manipulations-in-entra-id-tenants-using-kql/ba-p/4154039?s=09&utm_source=substack&utm_medium=email) -- Unrelated to Sentinel, but learn how to use KQL to detect and investigate modifications to MFA properties in Microsoft Entra audit logs
@@ -31,7 +33,7 @@ Below you will find content to assist in skilling on Microsoft Sentinel. Content
 * [Before and After Data Collection Rules (DCRs)](https://www.linkedin.com/pulse/before-after-data-collection-rules-debac-manikandan-gyw5c/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 
 ## Fundamentals
-* [Microsoft Sentinel Technical Playbook for MSSPs](http://aka.ms/azsentinelmssp)
+* [Microsoft Sentinel Technical Playbook for MSSPs](https://aka.ms/azsentinelmssp)
 * [Microsoft Sentinel Pricing Calculator v2](https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FAzure_Sentinel_Calculator-v2.xlsx)
 * [Microsoft Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)
 * [**GitHub:** Microsoft Sentinel Repository](https://github.com/Azure/Azure-Sentinel/wiki)

@@ -23,7 +23,7 @@ color: "#FFFFFF"
 showrelatedplans: true
 
 # include app insights
-includeappinsights: true
+includeappinsights: false
 
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)

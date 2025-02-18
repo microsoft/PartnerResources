@@ -233,6 +233,9 @@
         - title: Overview
           url: "skilling/modern-analytics-academy/"
           tag: maa
+        - title: Fabric Databases
+          url: "skilling/modern-analytics-academy/fabric-databases"
+          tag: maa
         - title: Modules
           url: "skilling/modern-analytics-academy/modules"
           tag: maa 
@@ -322,13 +325,19 @@
         - title: Partner Programs
           url: "skilling/microsoft-security-academy/programs"
           tag: msa
-        - title: Copilot for Security
+        - title: Security Copilot
           url: "skilling/microsoft-security-academy/microsoft-copilot-for-security"
           tag: msa
           children:
             - title: Q&A
               url: "skilling/microsoft-security-academy/microsoft-copilot-for-security-qa"
               tag: msa
+        - title: Secure Future Initiative 
+          url: "skilling/microsoft-security-academy/sfi"
+          tag: msa
+        - title: Secure Future Initiative series
+          url: "skilling/microsoft-security-academy/sfiseries"
+          tag: msa
         - title: Modules
           url: "skilling/microsoft-security-academy/modules"
           tag: msa

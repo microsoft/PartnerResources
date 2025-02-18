@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Getting Started with the Microsoft Security Academy
+title: Getting Started with Microsoft Security
 description: Want to begin or continue your security journey?
 permalink: /skilling/microsoft-security-academy/start
-updated: 2024-08-30
+updated: 2024-11-19
 showbreadcrumb: true
 tags: 
 - academy content
@@ -71,6 +71,7 @@ ___
 ![Microsoft Zero Trust Architectur]({{ site.baseurl }}/assets/msa/zero-trust-diagram.png)
 
 ## Security Strategy
+* **NEW:** [Learning for Microsoft Cybersecurity Architects](https://learn.microsoft.com/en-us/plans/qzxougkn7qn10m?sharingId=1DB7ACD9A156B8F9%3Fwt.mc_id%3Dlfo_plans_webpage_wwl_security)
 * [Define a Security Strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/define-security-strategy)
 * [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra)
 
@@ -80,6 +81,7 @@ ___
 * [Zero Trust Maturity Model](https://aka.ms/Zero-Trust-Vision)
 
 ## Security Operations Analyst
+* **NEW:** [Learning for Microsoft SOC Analysts](https://learn.microsoft.com/en-us/plans/3g5qsokr3zwz12?sharingId=1DB7ACD9A156B8F9%3Fwt.mc_id%3Dlfo_plans_webpage_wwl_security)
 * [Security Operations (SecOps) Functions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-security-operations-center)
 * [What is Microsoft Sentinel?](https://learn.microsoft.com/en-us/azure/sentinel/overview)
 * [What is Microsoft Defender XDR?](https://learn.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender?view=o365-worldwide)
@@ -87,6 +89,7 @@ ___
 * [What is Microsoft Defender for Endpoint?](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint?view=o365-worldwide)
 
 ## Identity and Access Administrator
+* **NEW:** [Learning for Microsoft I&A Admins](https://learn.microsoft.com/en-us/plans/o364ud0ere58j0?sharingId=1DB7ACD9A156B8F9%3Fwt.mc_id%3Dlfo_plans_webpage_wwl_security)
 * [What is Azure Active Directory (Microsoft Entra ID)?](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
 * [What is Entra ID Protection?](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection)
 * [What is Microsoft Entra ID Governance?](https://learn.microsoft.com/en-us/azure/active-directory/governance/identity-governance-overview)
@@ -94,4 +97,5 @@ ___
 * [What's Microsoft Entra Permissions Management?](https://learn.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/overview)
 
 ## Information Protection Administrator
+* **NEW:** [Learning for Microsoft Data Security Admins](https://learn.microsoft.com/en-us/plans/e4youngyxqwnmm?sharingId=1DB7ACD9A156B8F9%3Fwt.mc_id%3Dlfo_plans_webpage_wwl_security)
 * [What is Microsoft Purview?](https://learn.microsoft.com/en-us/purview/purview)

@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Sentinel
 description: Microsoft Sentinel
 permalink: /skilling/microsoft-security-academy/sentinel-academy
-updated: 2024-08-30
+updated: 2024-12-23
 showbreadcrumb: true
 Tags:
 - academy content
@@ -31,8 +31,20 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
     <td><a href="https://youtu.be/ryqjtFvXf44"><b>Microsoft Sentinel Sizing, Pricing, and Planning</b></a><br><br>Learn about what influences Microsoft Sentinel's costs, different pricing models, archive and long-term retention options, logs, and a demo of how to estimate and measure spend.</td>
   </tr>
   <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/Uk9x60grT-o"><img src="https://img.youtube.com/vi/Uk9x60grT-o/maxresdefault.jpg" alt="Optimizing SecOps: Manage Your Data, Costs, and Protections with SOC Optimizations" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/Uk9x60grT-o"><b>Optimizing SecOps: Manage Your Data, Costs, and Protections with SOC Optimizations</b></a><br><br>Learn how data ingestion analysis offers tailored recommendations to optimize costs, maximize data value, and strengthen defenses against emerging threats, with real-world use cases and a live demo!</td>
+  </tr>
+  <tr style="vertical-align:top">
     <td><a href="https://youtu.be/v2EC33ILC-A"><img src="https://img.youtube.com/vi/v2EC33ILC-A/maxresdefault.jpg" alt="Splunk to Microsoft Sentinel Migration Experience" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/v2EC33ILC-A"><b>Splunk to Microsoft Sentinel Migration Experience</b></a><br><br>Learn about the new Microsoft Sentinel feature that helps Splunk migrations, including migrating Splunk detections to Sentinel Analytic Rules.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/eK5bmKhy2iI"><img src="https://img.youtube.com/vi/eK5bmKhy2iI/maxresdefault.jpg" alt="Building Microsoft Sentinel Integrations Part 1: Onboarding" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/eK5bmKhy2iI"><b>Building Microsoft Sentinel Integrations Part 1: Onboarding</b></a><br><br>Learn about creating Microsoft Sentinel integrations with other security products, including scenarios to consider and the steps and components involved.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/wXCh17rgtLU"><img src="https://img.youtube.com/vi/wXCh17rgtLU/maxresdefault.jpg" alt="Building Microsoft Sentinel Integrations Part 2: Creating Data Connectors" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/wXCh17rgtLU"><b>Building Microsoft Sentinel Integrations Part 2: Creating Data Connectors</b></a><br><br>Explore the different connectors available for bringing data into Microsoft Sentinel, with analysis of the codeless connector platform that simplifies data ingestion without writing code.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/hs7aoCBlRtY"><img src="https://img.youtube.com/vi/hs7aoCBlRtY/maxresdefault.jpg" alt="Microsoft Sentinel Deep Dive SEPT. 2023 Update" width="400" height="400"></a></td>

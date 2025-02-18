@@ -30,7 +30,6 @@ Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of 
 
 <div>&nbsp;</div>
 
-
 ## Vignettes (recently updated!)
 
 Our **[ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)** continue the series by looking at the latest AI & ML topics:
@@ -45,11 +44,13 @@ Our **[ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)** 
 
 <div>&nbsp;</div>
 
+## [GPS Partner Skilling Playbook August FY25]({{ site.baseurl }}/assets/misc/GPS-Enablement_partner-skilling-playbook_Aug_FY25-PARTNER%20READY.pdf)
 
-## Events (April 2024 Update📰)
+## Events
 
-- AI Readiness events: **[AI & ML Partner Prep](https://aka.ms/AIMLPartnerPrep)**
-
+- **[Microsoft Partner Skilling Calendar]({{ site.baseurl }}/assets/misc/Microsoft%20partner%20skilling%20calendar%20Q1-FY25%20Sep%203%20%5BPARTNER%20READY%5D.pdf)**
+- Partner-facing Events: **[Microsoft AI Events]([https://events.microsoft.com/allevents/?role=Partners](https://events.microsoft.com/allevents/?role=Partners&clientTimeZone=1&search=AI))**
+- Workshops & Bootcamps:**[Microsoft Partner Skilling Hub](https://gateway.on24.com/wcc/eh/4557503/microsoft-partner-skilling-hub)**
 
 ## Table of Contents
 
@@ -95,8 +96,8 @@ We are not currently offering fully hosted lab environments for the AI & ML Acad
 ## Prepare for AI-Related Specializations
 
 ### Specialization Program Guides
-* [Specialization: AI & Machine Learning in Microsoft Azure](https://partner.microsoft.com/en-us/partnership/specialization/ai-and-machine-learning)
-* [Specialization: Build and Modernize AI Apps with Microsoft Azure](https://partner.microsoft.com/en-us/partnership/specialization/build-and-modernize-ai-apps)
+* [Specialization: AI & Machine Learning in Microsoft Azure](https://partner.microsoft.com/partnership/specialization/ai-and-machine-learning)
+* [Specialization: Build and Modernize AI Apps with Microsoft Azure](https://partner.microsoft.com/partnership/specialization/build-and-modernize-ai-apps)
 
 ### Preparation Guidance
 * [AI and Machine Learning in Microsoft Azure Specialization-Partner Prep-FY24Q2]({{ site.baseurl }}/assets/misc/AI and Machine Learning in Microsoft Azure Specialization-Partner Prep-FY24Q2.pdf)
