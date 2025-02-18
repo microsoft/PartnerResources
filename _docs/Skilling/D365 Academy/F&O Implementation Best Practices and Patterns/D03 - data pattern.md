@@ -2,7 +2,7 @@
 layout: page
 title: Scenario 03 - Data loading slows down after importing large volume of data 
 description: 03 D365 F&O Data Migration Best Practices, Patterns and Anti-Patterns
-updated: 2024-04-30
+updated: 2025-02-10
 permalink: /skilling/d365-academy/business-applications/finops-implementation-bestpractices-and-patterns/dmscenario-03
 tags:
 - d365 academy
@@ -28,7 +28,6 @@ Warm up and statistics management
 
 ## Anti-Patterns
 * Lack of review of performance telemetry – e.g., indexes, query plan etc.
-
 
 * DO NOT use Tier-1 environment for Data Migration.
 

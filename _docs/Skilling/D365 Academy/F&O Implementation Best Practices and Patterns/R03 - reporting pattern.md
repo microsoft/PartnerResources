@@ -2,7 +2,7 @@
 layout: page
 title: Scenario 03 - For Month-end closing Business needs to extract and merge data from multiple reports
 description: 03 D365 F&O Reporting Best Practices, Patterns and Anti-Patterns
-updated: 2024-09-09
+updated: 2025-02-10
 permalink: /skilling/d365-academy/business-applications/finops-implementation-bestpractices-and-patterns/repscenario-03
 tags:
 - d365 academy
