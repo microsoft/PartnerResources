@@ -33,6 +33,6 @@ Videos:
 {% include series.md 
     includetags="modern analytics academy|academy content|fabricdb" includemethod="all" 
     includesecondtags="modern analytics academy|academy content|certification" 
-    sortfield="updated" sortorder="desc" showdate="true" showtags="true"
+    sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true"
     visualstyle="normal"
 %}
