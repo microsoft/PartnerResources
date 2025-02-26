@@ -64,11 +64,11 @@ ___
 
 **Recent Update** (February 27th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Certifications](/PartnerResources/skilling/microsoft-security-academy/certifications)**, **[Security Copilot Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Entra](/PartnerResources/skilling/microsoft-security-academy/entra-academy)**, and **[Azure Network Security](/PartnerResources/skilling/microsoft-security-academy/network-academy)** |
 
-There's been a lot of talk this week about **[this research](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)** looking at the TTPs of an alleged NSA-led hack of a top Chinese university. Although some of it merits skepticism (some of these tools leaked almost 9 yrs ago), it's still a fascinating read🕵️
+There's been a lot of buzz this week about **[this research](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)** on the TTPs of an alleged NSA-led hack of a top Chinese university. Although some of it merits skepticism (since some of these tools leaked almost 9 years ago), it's still a fascinating read🕵️
 
-A Russian group, known as BadPilot, has been breaching networks in the US, UK, Canada, and Australia, focusing on initial access before handing it off to other hackers for further attacks, according to **[recent Microsoft research](https://www.wired.com/story/russia-sandworm-badpilot-cyberattacks-western-countries/)**.
+A Russian group, known as BadPilot, has been breaching networks in the US, UK, Canada, and Australia, focusing on initial access and then handing it off to other hackers for further attacks, according to **[recent Microsoft research](https://www.wired.com/story/russia-sandworm-badpilot-cyberattacks-western-countries/)**.
 
-Speaking of Threat Intel... read about our new **[Threat Intelligence Ingestion Rules](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-threat-intelligence-ingestion-rules/4379019?utm_source=substack&utm_medium=email)** in Defender XDR!
+Speaking of Threat Intel... check out our new **[Threat Intelligence Ingestion Rules](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-threat-intelligence-ingestion-rules/4379019?utm_source=substack&utm_medium=email)** in Defender XDR!
 
 Many of my partners live and breathe by ServiceNow, but did you know that we recently launched a new case management service in the Defender portal? If not, read about it **[here](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/improve-secops-collaboration-with-case-management/4369044?utm_source=substack&utm_medium=email)**!
 

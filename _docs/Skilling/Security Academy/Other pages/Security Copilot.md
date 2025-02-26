@@ -78,7 +78,7 @@ ___
 
 **Recent Update** (February 27th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
 
-More tangible/actionable guidance and updates to both **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)** and **[Onboarding](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)** are ***coming in March!***
+More relevant and actionable guidance and updates for both **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)** and **[Onboarding](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)** are ***coming in March!***
 
 Although Microsoft lacks the official documentation for now, BlueVoyant and Splunk have published *some* documentation about the integration of the Splunk platform with Security Copilot, which you can read **[here](https://lantern.splunk.com/Security/UCE/Foundational_Visibility/Security_monitoring/Monitoring_security_events_with_Enterprise_Security_and_Microsoft_Copilot_for_Security).**
 
