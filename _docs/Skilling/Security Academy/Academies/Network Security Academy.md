@@ -26,7 +26,7 @@ Explore Azure Network Security videos with demos delivered directly to partners,
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/3RGmQZeU98o"><img src="https://img.youtube.com/vi/3RGmQZeU98o/maxresdefault.jpg" alt="Azure Firewall Private IP DNAT and Use Cases" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/3RGmQZeU98o"><b>Manage Network Security with Azure Firewall</b></a><br><br>Explore Azure Firewall's latest enhancement, Private IP DNAT, and learn how Private IP DNAT enables secure communication and seamless integration for enterprises.</td>
+    <td><a href="https://youtu.be/3RGmQZeU98o"><b>Azure Firewall Private IP DNAT and Use Cases</b></a><br><br>Explore Azure Firewall's latest improvement, Private IP DNAT, and learn how it enables secure communication and seamless integration for enterprises.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/TcQOe0u5yD4"><img src="https://img.youtube.com/vi/TcQOe0u5yD4/maxresdefault.jpg" alt="Unlock the Power of Azure Firewall Governance with Azure Policies" width="400" height="400"></a></td>
@@ -38,7 +38,7 @@ Explore Azure Network Security videos with demos delivered directly to partners,
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/3x5J65e4OVY"><img src="https://img.youtube.com/vi/3x5J65e4OVY/maxresdefault.jpg" alt="Azure WAF Bot Protection: Features, Benefits, and Best Practices" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/3x5J65e4OVY"><b>Azure WAF Bot Protection: Features, Benefits, and Best Practices</b></a><br><br>Learn about Azure Web Application Firewall's bot protection capabilities, features, and benefits, focusing on how to defend against malicious bots and best practices for protecting web apps.</td>
+    <td><a href="https://youtu.be/3x5J65e4OVY"><b>Azure WAF Bot Protection: Features, Benefits, and Best Practices</b></a><br><br>Learn about Azure Web Application Firewall's (WAF) bot protection capabilities, features, and benefits, focusing on how to defend against malicious bots and best practices for protecting web apps.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/PkdFIBvMVlw"><img src="https://img.youtube.com/vi/nXduz5YPLFc/maxresdefault.jpg" alt="Azure Web Application Firewall (WAF) Integration in Microsoft Security Copilot" width="400" height="400"></a></td>

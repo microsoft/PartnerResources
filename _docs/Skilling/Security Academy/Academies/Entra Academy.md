@@ -22,7 +22,7 @@ Explore Microsoft Entra videos with demos delivered directly to partners, releva
 <table>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be//Hp_zSuXLv3E"><img src="https://img.youtube.com/vi/Hp_zSuXLv3E/maxresdefault.jpg" alt="425 Show | Onboarding to Intune macOS with Entra" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be//Hp_zSuXLv3E"><b>425 Show | Onboarding to Intune macOS with Entra</b></a><br><br>Learn how to get your macOS devices onboarded and protected with Entra solutions, including Filevault, passwordless management, and Platform SSO.</td>
+    <td><a href="https://youtu.be//Hp_zSuXLv3E"><b>425 Show | Onboarding to Intune macOS with Entra</b></a><br><br>Learn how to get your macOS devices onboarded and protected with Entra solutions, including FileVault, passwordless management, and Platform SSO.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be//L78nU6DzdKw"><img src="https://img.youtube.com/vi/L78nU6DzdKw/maxresdefault.jpg" alt="Migrating from AD to Entra ID" width="400" height="400"></a></td>
