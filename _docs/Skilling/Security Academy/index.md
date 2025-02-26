@@ -64,7 +64,7 @@ ___
 
 **Recent Update** (February 27th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Certifications](/PartnerResources/skilling/microsoft-security-academy/certifications)**, **[Security Copilot Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Entra](/PartnerResources/skilling/microsoft-security-academy/entra-academy)**, and **[Azure Network Security](/PartnerResources/skilling/microsoft-security-academy/network-academy)** |
 
-There's been a lot of talk this week about **[this research](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)** looking at the TTPs of an alleged NSA-led hack of a top Chinese research and defense university. Although some of it merits skepticism (some of these tools leaked almost 9 yrs ago), it's still a fascinating read🕵️
+There's been a lot of talk this week about **[this research](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)** looking at the TTPs of an alleged NSA-led hack of a top Chinese university. Although some of it merits skepticism (some of these tools leaked almost 9 yrs ago), it's still a fascinating read🕵️
 
 A Russian group, known as BadPilot, has been breaching networks in the US, UK, Canada, and Australia, focusing on initial access before handing it off to other hackers for further attacks, according to **[recent Microsoft research](https://www.wired.com/story/russia-sandworm-badpilot-cyberattacks-western-countries/)**.
 
