@@ -66,7 +66,7 @@ ___
 
 There's been a lot of buzz this week about **[this research](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)** on the TTPs of an alleged NSA-led hack of a top Chinese university. Although some of it merits skepticism (since some of these tools leaked almost 9 years ago), it's still an interesting read🕵️
 
-A Russian group, known as BadPilot, has been breaching networks in the US, UK, Canada, and Australia, focusing on initial access and then handing it off to other hackers for further attacks, according to **[recent Microsoft research](https://www.wired.com/story/russia-sandworm-badpilot-cyberattacks-western-countries/)**.
+A Russian group, known as BadPilot, has been breaching networks in the US, UK, Canada, and Australia, focusing on initial access before handing it off to other hackers for further attacks, according to **[recent Microsoft research](https://www.wired.com/story/russia-sandworm-badpilot-cyberattacks-western-countries/)**.
 
 Speaking of Threat Intel... check out our new **[Threat Intelligence Ingestion Rules](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-threat-intelligence-ingestion-rules/4379019?utm_source=substack&utm_medium=email)** in Defender XDR!
 
