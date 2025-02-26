@@ -3,7 +3,7 @@ layout: page
 title: Security Copilot
 description: Security Copilot Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2025-02-09
+updated: 2025-02-27
 showbreadcrumb: true
 tags: 
 - academy content
@@ -74,19 +74,19 @@ This page is organized into three parts -- Learn Security Copilot, Extend Securi
 
 ___
 
-## February 9th, 2024 Update📰
+## February 27th, 2025 Update📰
 
-**Recent Update** (February 9th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
+**Recent Update** (February 27th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
+
+More tangible/actionable guidance and updates to both **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)** and **[Onboarding](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)** are ***coming in March!***
 
 Although Microsoft lacks the official documentation for now, BlueVoyant and Splunk have published *some* documentation about the integration of the Splunk platform with Security Copilot, which you can read **[here](https://lantern.splunk.com/Security/UCE/Foundational_Visibility/Security_monitoring/Monitoring_security_events_with_Enterprise_Security_and_Microsoft_Copilot_for_Security).**
-
-Security Copilot is now **[SOC 2 certified](https://techcommunity.microsoft.com/blog/securitycopilotblog/microsoft-security-copilot-achieves-soc-2-certification/4295363?utm_source=substack&utm_medium=email)🎉**
 
 You can learn how to access the Security Copilot audit log **[here](https://learn.microsoft.com/en-us/copilot/security/audit-log)** or how you can ingest your Security Copilot audit logs using **[this Azure Function App and PowerShell script](https://github.com/Azure/Security-Copilot/tree/main/Monitoring/IngestSecurityCopilotAuditlogs).**
 
 It's also worth exploring **[this solution](https://github.com/Azure/Security-Copilot/tree/main/Logic%20Apps/SecCopilot-UserReportedPhishing-FuncApp_parsing)**  that automates the analysis of user-submitted phishing emails using Security Copilot🎣
 
-Lastly, my colleague and friend Rick created **[these easy-to-use KQL templates](https://github.com/Azure/Security-Copilot/blob/main/Plugins/MSFT_Plugin_Samples/KQL/KQL_Combined_Defender_and_Sentinel_Example.yaml)** for custom Defender and Sentinel plugins. Give them a try!
+Lastly, my colleague Rick created **[these easy-to-use KQL templates](https://github.com/Azure/Security-Copilot/blob/main/Plugins/MSFT_Plugin_Samples/KQL/KQL_Combined_Defender_and_Sentinel_Example.yaml)** for custom Defender and Sentinel plugins. Give them a try!
 
 
 ### Events
@@ -94,11 +94,9 @@ Lastly, my colleague and friend Rick created **[these easy-to-use KQL templates]
 If you're a member of the **[Microsoft Security Copilot Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Security Copilot Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-|  What's coming in Copilot for Purview Data Governance? | Thursday, February 13th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/9c6058e4-00be-4450-9315-16f2d005e671@72f988bf-86f1-41af-91ab-2d7cd011db47)
-|  Security Copilot in the Microsoft Defender Portal     | Thursday, February 18th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/a985b1a3-2dee-4b1b-a9ac-917c71b63184@72f988bf-86f1-41af-91ab-2d7cd011db47)
-|  Extending Security Copilot with custom plugins        | Thursday, February 20th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/eedf3946-5361-4b0b-897d-643c14811c82@72f988bf-86f1-41af-91ab-2d7cd011db47)
-|  Security Copilot in Microsoft Entra                   | Thursday, February 27th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/891a573a-51a7-4997-a392-7b42620e7680@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  Security Copilot in Purview                           | Thursday, March 6th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/b868287a-641e-4412-a201-6d2024bcf3f3@72f988bf-86f1-41af-91ab-2d7cd011db47)
 |  Security Copilot and Microsoft Sentinel integrations  | Thursday, March 20th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/f4651263-7b5e-44c9-a3aa-34ac0b503a5a@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  Security Copilot in Microsoft Entra                   | Thursday, March 27th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/891a573a-51a7-4997-a392-7b42620e7680@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 
 <div>&nbsp;</div>
@@ -144,14 +142,15 @@ Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT 
 * [Apply principles of Zero Trust to Microsoft Security Copilot](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
 * [Exploring Security Copilot to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
 
-#### Resources for after your first few weeks
+#### Resources for after your first few weeks or months
 
 * [Extending Security Copilot with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267?utm_source=substack&utm_medium=email)
 * [Customize and Optimize Security Copilot with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
 * [Identity forensics with Security Copilot Identity Analyst Plugin](https://techcommunity.microsoft.com/blog/securitycopilotblog/identity-forensics-with-copilot-for-security-identity-analyst-plugin/4278180)
 * [Monitor User Activities and System Events with Security Copilot and Microsoft Sentinel](https://techcommunity.microsoft.com/blog/securitycopilotblog/monitor-user-activities-and-system-events-with-security-copilot-and-microsoft-se/4303368?utm_source=substack&utm_medium=email)
 * [Leveraging ASIM-based KQL plugins in Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/leveraging-asim-based-kql-plugins-in-microsoft-security-copilot-for-investigatio/4357680?utm_source=substack&utm_medium=email)
-* **NEW:** [Accelerating the Anomalous Sign-Ins detection with Microsoft Entra ID and Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/accelerating-the-anomalous-sign-ins-detection-with-microsoft-entra-id-and-securi/4365435?utm_source=substack&utm_medium=email)
+* [Accelerating the Anomalous Sign-Ins detection with Microsoft Entra ID and Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/accelerating-the-anomalous-sign-ins-detection-with-microsoft-entra-id-and-securi/4365435?utm_source=substack&utm_medium=email)
+* **NEW:** [Next-Gen Device Incident Investigation & Threat Hunting with Custom Plugins](https://techcommunity.microsoft.com/blog/securitycopilotblog/next-gen-device-incident-investigation--threat-hunting-with-custom-plugins/4374397?utm_source=substack&utm_medium=email)
 
 
 ### Features

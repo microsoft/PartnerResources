@@ -3,7 +3,7 @@ layout: page
 title: Azure Network Security
 description: Azure Network Security
 permalink: /skilling/microsoft-security-academy/network-academy
-updated: 2025-01-06
+updated: 2025-02-27
 showbreadcrumb: true
 tags: 
 - academy content
@@ -25,8 +25,8 @@ Explore Azure Network Security videos with demos delivered directly to partners,
     <td><a href="https://youtu.be/N0CKK4VuECs"><b>Introduction to Azure Network Security</b></a><br><br>Learn the fundamentals of Azure Network Security, including zero trust principles and architecture, NSGs, Azure Private Link, and how to build defense-in-depth to secure your network infrastructure.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/WAkOkuaonBI"><img src="https://img.youtube.com/vi/WAkOkuaonBI/maxresdefault.jpg" alt="Manage Network Security with Azure Firewall" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/WAkOkuaonBI"><b>Manage Network Security with Azure Firewall</b></a><br><br>Explore Azure Firewall's key features, use cases, and learn how to configure and manage it easily with an extensive demo. Additionally, dive into Azure Firewall Premium's core features like IDPS, TLS inspection, and Azure Firewall Workbooks for traffic insights.</td>
+    <td><a href="https://youtu.be/3RGmQZeU98o"><img src="https://img.youtube.com/vi/3RGmQZeU98o/maxresdefault.jpg" alt="Azure Firewall Private IP DNAT and Use Cases" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/3RGmQZeU98o"><b>Manage Network Security with Azure Firewall</b></a><br><br>Explore Azure Firewall's latest enhancement, Private IP DNAT, and learn how Private IP DNAT enables secure communication and seamless integration for enterprises.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/TcQOe0u5yD4"><img src="https://img.youtube.com/vi/TcQOe0u5yD4/maxresdefault.jpg" alt="Unlock the Power of Azure Firewall Governance with Azure Policies" width="400" height="400"></a></td>
@@ -37,8 +37,8 @@ Explore Azure Network Security videos with demos delivered directly to partners,
     <td><a href="https://youtu.be/nXduz5YPLFc"><b>Azure Firewall Integration in Microsoft Security Copilot</b></a><br><br>With Azure Firewall integration in Microsoft Security Copilot, analysts can thoroughly investigate malicious traffic intercepted by IDPS across their environment, all while using natural language queries in the Microsoft Security Copilot standalone experience.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/kf8O3_yqvcs"><img src="https://img.youtube.com/vi/kf8O3_yqvcs/maxresdefault.jpg" alt="Azure Web Application Firewall (WAF) Policies" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/kf8O3_yqvcs"><b>Azure Web Application Firewall (WAF) Policies</b></a><br><br>Learn how to protect your applications from common OWASP attacks with Azure Web Application Firewall (WAF). Explore how to deploy the service in minutes to get complete visibility into your environment.</td>
+    <td><a href="https://youtu.be/3x5J65e4OVY"><img src="https://img.youtube.com/vi/3x5J65e4OVY/maxresdefault.jpg" alt="Azure WAF Bot Protection: Features, Benefits, and Best Practices" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/3x5J65e4OVY"><b>Azure WAF Bot Protection: Features, Benefits, and Best Practices</b></a><br><br>Learn about Azure Web Application Firewall's bot protection capabilities, features, and benefits, focusing on how to defend against malicious bots and best practices for protecting web apps.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/PkdFIBvMVlw"><img src="https://img.youtube.com/vi/nXduz5YPLFc/maxresdefault.jpg" alt="Azure Web Application Firewall (WAF) Integration in Microsoft Security Copilot" width="400" height="400"></a></td>

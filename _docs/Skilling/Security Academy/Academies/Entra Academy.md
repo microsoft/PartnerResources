@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Entra
 description: Microsoft Entra
 permalink: /skilling/microsoft-security-academy/entra-academy
-updated: 2025-01-06
+updated: 2025-02-27
 showbreadcrumb: true
 Tags:
 - academy content
@@ -20,6 +20,10 @@ Explore Microsoft Entra videos with demos delivered directly to partners, releva
 
 
 <table>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be//Hp_zSuXLv3E"><img src="https://img.youtube.com/vi/Hp_zSuXLv3E/maxresdefault.jpg" alt="425 Show | Onboarding to Intune macOS with Entra" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//Hp_zSuXLv3E"><b>425 Show | Onboarding to Intune macOS with Entra</b></a><br><br>Learn how to get your macOS devices onboarded and protected with Entra solutions, including Filevault, passwordless management, and Platform SSO.</td>
+  </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be//L78nU6DzdKw"><img src="https://img.youtube.com/vi/L78nU6DzdKw/maxresdefault.jpg" alt="Migrating from AD to Entra ID" width="400" height="400"></a></td>
     <td><a href="https://youtu.be//L78nU6DzdKw"><b>Migrating from AD to Entra ID</b></a><br><br>Learn about key milestones and recommendations for transitioning from Active Directory to Microsoft Entra ID, guided by Microsoft Identity and Network Access Product Managers.</td>
