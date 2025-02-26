@@ -2,7 +2,7 @@
 layout: page
 title: Scenario 03 - propagate information about order confirmations to multiple outbound systems
 description: 03 D365 F&O Integration Best Practices, Patterns and Anti-Patterns
-updated: 2024-04-30
+updated: 2025-02-10
 permalink: /skilling/d365-academy/business-applications/finops-implementation-bestpractices-and-patterns/intscenario-03
 tags:
 - d365 academy
