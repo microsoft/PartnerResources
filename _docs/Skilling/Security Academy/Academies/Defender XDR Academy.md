@@ -22,11 +22,11 @@ Explore Microsoft Defender XDR videos with demos delivered directly to partners,
 <table>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/ydfGAZEN24U-"><img src="https://img.youtube.com/vi/ydfGAZEN24U/maxresdefault.jpg" alt="Learn About Insider Risk Management Data in Microsoft Defender XDR" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/ydfGAZEN24U"><b>Learn About Insider Risk Management Data in Microsoft Defender XDR</b></a><br><br>Join the MDVM engineering team and  learn about its capabilities, use cases, and best practices for developing and implementing posture and risk management.</td>
+    <td><a href="https://youtu.be/ydfGAZEN24U"><b>Learn About Insider Risk Management Data in Microsoft Defender XDR</b></a><br><br>Microsoft Purview Insider Risk Management data is now avilable in Microsoft Defender XDR, allowing access to IRM alerts, indicators, and events via Graph API, advanced hunting with KQL, custom detections, and more.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/dQL9CRKzVa8-"><img src="https://img.youtube.com/vi/dQL9CRKzVa8/maxresdefault.jpg" alt="Get the Most Out of Microsoft Defender for Vulnerability Management (MDVM)" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/dQL9CRKzVa8"><b>Get the Most Out of Microsoft Defender for Vulnerability Management (MDVM)</b></a><br><br>Microsoft Purview Insider Risk Management data is now avilable in Microsoft Defender XDR, allowing access to IRM alerts, indicators, and events via Graph API, advanced hunting with KQL, custom detections, and more.</td>
+    <td><a href="https://youtu.be/dQL9CRKzVa8"><b>Get the Most Out of Microsoft Defender for Vulnerability Management (MDVM)</b></a><br><br>Join the MDVM engineering team and  learn about its capabilities, use cases, and best practices for developing and implementing posture and risk management.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/BIJ5BPiFhYQ-"><img src="https://img.youtube.com/vi/D8RUKcimCzE/maxresdefault.jpg" alt="New Ways for Security Teams to Protect OT Environments with Microsoft Defender XDR" width="400" height="400"></a></td>
