@@ -2096,7 +2096,7 @@ pre code {
 .table-striped tbody tr:nth-of-type(odd),
 .td-box .row.section>table tbody tr:nth-of-type(odd),
 .td-content>table tbody tr:nth-of-type(odd) {
-    background-color: rgba(0, 0, 0, .001)
+    background-color: rgba(0, 0, 0, .01)
 }
 
 .table-hover tbody tr:hover {
