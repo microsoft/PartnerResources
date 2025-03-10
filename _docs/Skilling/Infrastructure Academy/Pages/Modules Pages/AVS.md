@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Azure Infrastructure Academy — Azure VMware Solution (AVS)
 description: Microsoft Azure Infrastructure Academy Azure VMware Solution (AVS).
 permalink: /skilling/microsoft-infrastructure-academy/avs
-updated: 2024-03-06
+updated: 2025-03-10
 Tags:
 - academy content
 - microsoft infrastructure academy
@@ -41,13 +41,13 @@ Welcome to the Microsoft Azure VMware Solution Academy. Explore Microsoft Azure 
 |       📽️ [00:33:41]       |       📽️ [00:35:15]       |       📽️ [00:27:20]       |
 | [![Introducción Azure VMware Solution](https://img.youtube.com/vi/UkJCqHW2ly0/mqdefault.jpg)](https://www.youtube.com/watch?v=UkJCqHW2ly0) | [![AVS – Azure Migrate Dimensionamiento y precios](https://img.youtube.com/vi/MpKUdOdpqSY/mqdefault.jpg)](https://www.youtube.com/watch?v=MpKUdOdpqSY)  | [![AVS – Opciones de almacenamiento](https://img.youtube.com/vi/WkrM2ioUTVk/mqdefault.jpg)](https://www.youtube.com/watch?v=WkrM2ioUTVk) |
 
+### Click-through Demos 📚
+🧑🏻‍💻 Click here to visit [Click-through demos page](./avs/click-through-demos)
 
 ### Additional Resources 📚
 
-👩‍💻 [AVS Bootcamp 2024](https://aka.ms/AVSBootcamp2023) 🆕
+👩‍💻 [AVS Bootcamp 2025](https://aka.ms/AVSBootcamp2025) 🆕
 
 👩‍💻 [AVS Team (VMware by Broadcom) YouTube Channel](https://www.youtube.com/@avs-team/videos)
-
-👩‍💻 [AVS Academy](https://aka.ms/AVSA) (Previous content)
 
 🧑‍💼 **[Join AVSPros](https://aka.ms/AVSPros) LinkedIn Group to stay up to date with Azure VMware Solution**
