@@ -13,9 +13,6 @@ tags:
 - vignettes
 - data, analytics, and ai
 - artificial intelligence
-- machine learning
-- openai
-- retrieval augmented generation
 ---
 
 # {{ page.title }}

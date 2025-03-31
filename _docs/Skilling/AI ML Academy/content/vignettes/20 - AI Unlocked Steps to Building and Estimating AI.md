@@ -13,9 +13,6 @@ tags:
 - vignettes
 - data, analytics, and ai
 - artificial intelligence
-- machine learning
-- generative ai
-- ai unlocked
 ---
 
 # {{ page.title }}

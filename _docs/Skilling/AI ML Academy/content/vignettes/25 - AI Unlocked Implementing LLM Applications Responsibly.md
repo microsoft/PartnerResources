@@ -13,11 +13,6 @@ tags:
 - vignettes
 - data, analytics, and ai
 - artificial intelligence
-- llm applications
-- openai
-- azure ai
-- data security
-- ai unlocked
 ---
 
 # {{ page.title }}

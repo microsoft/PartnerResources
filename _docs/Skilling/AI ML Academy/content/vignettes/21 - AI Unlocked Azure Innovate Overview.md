@@ -13,9 +13,6 @@ tags:
 - vignettes
 - data, analytics, and ai
 - artificial intelligence
-- azure innovate
-- microsoft offers
-- ai unlocked
 ---
 
 # {{ page.title }}

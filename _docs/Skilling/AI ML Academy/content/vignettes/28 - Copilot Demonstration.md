@@ -8,14 +8,12 @@ updated: 2024-08-20
 showbreadcrumb: true
 youtubeid: azPqKjl5j5M
 tags:
-- generative entrepreneur
-- copilot
-- m365
-- azure ai studio
-- copilot studio
+- ai & ml academy
+- academy content
+- vignettes
+- data, analytics, and ai
 - artificial intelligence
 - microsoft copilots
-- ai journey
 ---
 
 # {{ page.title }}

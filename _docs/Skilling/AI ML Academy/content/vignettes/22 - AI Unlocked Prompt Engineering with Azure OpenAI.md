@@ -13,9 +13,6 @@ tags:
 - vignettes
 - data, analytics, and ai
 - artificial intelligence
-- prompt engineering
-- azure openai
-- ai unlocked
 ---
 
 # {{ page.title }}

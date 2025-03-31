@@ -8,10 +8,11 @@ updated: 2024-08-20
 showbreadcrumb: true
 youtubeid: EkIKp_YzyHA
 tags:
-- generative ai
-- use cases
+- ai & ml academy
+- academy content
+- vignettes
+- data, analytics, and ai
 - artificial intelligence
-- ai applications
 ---
 
 # {{ page.title }}

@@ -8,10 +8,11 @@ updated: 2024-12-03
 showbreadcrumb: true
 youtubeid: cXmybztbvAM
 tags:
-- responsible ai
-- azure
-- ai solutions
-- azure services
+- ai & ml academy
+- academy content
+- vignettes
+- data, analytics, and ai
+- artificial intelligence
 ---
 
 # {{ page.title }}

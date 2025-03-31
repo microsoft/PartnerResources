@@ -8,11 +8,11 @@ updated: 2025-02-18
 showbreadcrumb: true
 youtubeid: PbevkEJMY20
 tags:
-- generative entrepreneur
-- genaiops
-- ai deployment
-- experimentation
-- production
+- ai & ml academy
+- academy content
+- vignettes
+- data, analytics, and ai
+- artificial intelligence
 ---
 
 # {{ page.title }}
