@@ -13,10 +13,6 @@ tags:
 - vignettes
 - data, analytics, and ai
 - artificial intelligence
-- business discovery
-- microsoft partners
-- customer engagement
-- ai unlocked
 ---
 
 # {{ page.title }}

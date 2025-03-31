@@ -8,12 +8,12 @@ updated: 2024-11-26
 showbreadcrumb: true
 youtubeid: 9pAW3dW8awI
 tags:
-- prompt engineering
-- azure
-- ai solutions
-- azure tools
+- ai & ml academy
+- academy content
+- vignettes
+- data, analytics, and ai
 - artificial intelligence
-- machine learning
+
 ---
 
 # {{ page.title }}

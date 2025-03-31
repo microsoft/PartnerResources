@@ -13,9 +13,6 @@ tags:
 - vignettes
 - data, analytics, and ai
 - artificial intelligence
-- azure machine learning
-- prompt flow
-- ai unlocked
 ---
 
 # {{ page.title }}

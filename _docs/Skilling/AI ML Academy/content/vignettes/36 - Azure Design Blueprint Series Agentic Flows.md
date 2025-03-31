@@ -8,10 +8,11 @@ updated: 2025-01-07
 showbreadcrumb: true
 youtubeid: sx0gN-0pJT4
 tags:
-- azure
-- ai agents
-- ai solutions
-- azure services
+- ai & ml academy
+- academy content
+- vignettes
+- data, analytics, and ai
+- artificial intelligence
 ---
 
 # {{ page.title }}

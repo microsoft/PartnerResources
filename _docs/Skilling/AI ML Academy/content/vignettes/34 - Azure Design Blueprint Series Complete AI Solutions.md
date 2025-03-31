@@ -8,10 +8,11 @@ updated: 2024-12-10
 showbreadcrumb: true
 youtubeid: Q3RRmUyv6dU
 tags:
-- azure
-- ai solutions
-- data 
-- apps
+- ai & ml academy
+- academy content
+- vignettes
+- data, analytics, and ai
+- artificial intelligence
 ---
 
 # {{ page.title }}

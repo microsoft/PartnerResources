@@ -8,12 +8,10 @@ updated: 2024-09-23
 showbreadcrumb: true
 youtubeid: s4TuCveh3vQ
 tags:
-- generative entrepreneur
-- generative ai
-- model catalog
-- ai applications
-- benchmarks
-- model evaluation
+- ai & ml academy
+- academy content
+- vignettes
+- data, analytics, and ai
 - artificial intelligence
 ---
 

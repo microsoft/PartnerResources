@@ -13,9 +13,6 @@ tags:
 - vignettes
 - data, analytics, and ai
 - artificial intelligence
-- generative ai
-- azure ai
-- generative entrepreneur
 ---
 
 # {{ page.title }}

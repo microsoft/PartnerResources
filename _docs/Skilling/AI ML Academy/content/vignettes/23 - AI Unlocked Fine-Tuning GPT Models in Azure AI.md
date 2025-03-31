@@ -13,10 +13,6 @@ tags:
 - vignettes
 - data, analytics, and ai
 - artificial intelligence
-- fine-tuning
-- azure ai
-- gpt models
-- ai unlocked
 ---
 
 # {{ page.title }}

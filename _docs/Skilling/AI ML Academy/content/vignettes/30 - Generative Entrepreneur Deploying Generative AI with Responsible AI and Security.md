@@ -8,11 +8,13 @@ updated: 2024-08-22
 showbreadcrumb: true
 youtubeid: -jIZVe28u-0
 tags:
-- generative entrepreneur
+- ai & ml academy
+- academy content
+- vignettes
+- data, analytics, and ai
+- artificial intelligence
 - responsible ai
 - security
-- artificial intelligence
-- generative ai
 ---
 
 # {{ page.title }}

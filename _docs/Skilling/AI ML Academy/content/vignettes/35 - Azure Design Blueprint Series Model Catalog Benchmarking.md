@@ -8,10 +8,11 @@ updated: 2024-12-18
 showbreadcrumb: true
 youtubeid: 0zKNwOV52X4
 tags:
-- azure
-- model catalog
-- azure openai
-- ai solutions
+- ai & ml academy
+- academy content
+- vignettes
+- data, analytics, and ai
+- artificial intelligence
 ---
 
 # {{ page.title }}

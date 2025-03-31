@@ -8,12 +8,11 @@ updated: 2025-03-12
 showbreadcrumb: true
 youtubeid: JrOa32SagdY
 tags:
-- azure
-- rag 2.0
-- retrieval augmented generation
-- responsible ai
-- ai solutions
-- azure services
+- ai & ml academy
+- academy content
+- vignettes
+- data, analytics, and ai
+- artificial intelligence
 ---
 
 # {{ page.title }}
