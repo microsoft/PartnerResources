@@ -19,9 +19,9 @@ Explore our **[partner programs](https://www.microsoft.com/en-us/security/busine
 
 | Step | Program | Description |
 |------|---------|-------------|
-| 1 | **Cybersecurity Investment (CSI)** | The typical starting point. Partners are invited, onboarded, and incentivized to deliver pre-sales engagements and drive Microsoft Security usage. |
-| 2 | **MXDR Verified Solution** | Next, partners with proven success and specializations can qualify for MXDR Verification — Microsoft’s technical validation for MSSPs. |
-| 3 | **Microsoft Intelligent Security Association (MISA)** | An elite community of integrated partners. MISA membership recognizes those with verified solutions and deep alignment with Microsoft Security. |
+| 1️⃣ | **Cybersecurity Investment (CSI)** | The typical starting point. Partners are invited, onboarded, and incentivized to deliver pre-sales engagements and drive Microsoft Security usage. |
+| 2️⃣ | **MXDR Verified Solution** | Next, partners with proven success and specializations can qualify for MXDR Verification — Microsoft’s technical validation for MSSPs. |
+| 3️⃣ | **Microsoft Intelligent Security Association (MISA)** | An elite community of integrated partners. MISA membership recognizes those with verified solutions and deep alignment with Microsoft Security. |
 
 
 <div>&nbsp;</div>
