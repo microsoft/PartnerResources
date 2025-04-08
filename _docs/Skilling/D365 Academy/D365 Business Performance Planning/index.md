@@ -19,27 +19,26 @@ tags:
 
 Welcome to the **Dynamics 365 Business Performance Planning Academy**
 
-# Get Started with Dynamics 365 Business on-demand workshop
-The ability to quickly respond to changing needs efficiently is crucial in the current business landscape. 
+# Dynamics 365 Business Performance Planning Overview
+The ability to quickly respond to changing needs efficiently is crucial in the current business landscape. Business performance planning offers financial and operational planning and analytics that create a connected enterprise experience. It uses the familiar productivity tools of Microsoft Power BI and Excel. By using these tools, you can help plan and create what-if scenarios. Through the power of Dataverse, you can use data flows and Microsoft Power Platform to eliminate manual processes and achieve optimal efficiency for your organization.
 
-Business performance planning offers financial and operational planning and analytics that create a connected enterprise experience. It uses the familiar productivity tools of Microsoft Power BI and Excel. By using these tools, you can help plan and create what-if scenarios. Through the power of Dataverse, you can use data flows and Microsoft Power Platform to eliminate manual processes and achieve optimal efficiency for your organization.
+Microsoft Dynamics 365 Finance offers advanced financial planning and analytics (FP&A) capabilities for enhanced decision-making and strategic planning with Business Performance Planning solution.The business performance planning feature set consists of two main concepts:
+* Modeling data that's required for planning
+* Acting on the data that's provided
 
-The business performance planning feature set consists of two main concepts:
+# Dynamics 365 Business Performance Planning (BPP) on-demand workshop
 
-    Modeling data that's required for planning
-    Acting on the data that's provided
+Deep dive into the solution with following on-demand sessions:
 
-Microsoft Dynamics 365 Finance offers advanced financial planning and analytics (FP&A) capabilities for enhanced decision-making and strategic planning with Business Performance Planning solution. Deep dive into the solution through following on-demand sessions:
-
-Session 1: Financial Planning for Dynamics 365
-Session 2: Install Business Performance Planning
-Session 3: Planning Model: Sales Planning
-Session 4: Planning Model: OPEX Planning
-Session 5: Adding BPP Visuals to Power BI Reports
-Session 6: Changing Power BI Data Source
-Session 7: Multi Currency Concept
-Session 8: Power Automate Approval Workflows
-Session 9: Reporting – how to create a comprehensive PnL statement
+* Session 1: Financial Planning for Dynamics 365
+* Session 2: Install Business Performance Planning
+* Session 3: Planning Model: Sales Planning
+* Session 4: Planning Model: OPEX Planning
+* Session 5: Adding BPP Visuals to Power BI Reports
+* Session 6: Changing Power BI Data Source
+* Session 7: Multi Currency Concept
+* Session 8: Power Automate Approval Workflows
+* Session 9: Reporting – how to create a comprehensive PnL statement
 
 Access on-demand workshop at [Microsoft Partner Skilling Hub](https://vshow.on24.com/vshow/FY24_BADepth/exhibits/FY25_EBPPD365F)
 
