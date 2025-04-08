@@ -62,7 +62,7 @@ ___
 
 ## April 11th, 2025 Update📰
 
-**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Back to basics series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)**, TBD
+**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Back to basics series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)**, **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**, TBD
 
 **[Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Defender XDR](/PartnerResources/skilling/microsoft-security-academy/dxdr-academy)**, **[Entra](/PartnerResources/skilling/microsoft-security-academy/entra-academy)**, and **[Azure Network Security](/PartnerResources/skilling/microsoft-security-academy/network-academy)** |
 
