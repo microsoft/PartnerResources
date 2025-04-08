@@ -66,19 +66,21 @@ ___
 
 **[Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Defender XDR](/PartnerResources/skilling/microsoft-security-academy/dxdr-academy)**, **[Entra](/PartnerResources/skilling/microsoft-security-academy/entra-academy)**, and **[Azure Network Security](/PartnerResources/skilling/microsoft-security-academy/network-academy)** |
 
-Big news for SMBs! E5 Security is now available as an add-on to Business Premium, bringing enterprise-grade protection within reach. Read more about the announcement **[here](https://techcommunity.microsoft.com/blog/microsoft365businessblog/microsoft-365-e5-security-is-now-available-as-an-add-on-to-microsoft-365-busines/4388436)!**
+Big news for SMBs! E5 is now available as an add-on to Business Premium — read about the announcement **[here](https://techcommunity.microsoft.com/blog/microsoft365businessblog/microsoft-365-e5-security-is-now-available-as-an-add-on-to-microsoft-365-busines/4388436)!**
 
-Just last week, we unveiled new **[Security Copilot agents](https://www.microsoft.com/en-us/security/blog/2025/03/24/microsoft-unveils-microsoft-security-copilot-agents-and-new-protections-for-ai/?msockid=330c4da567d667543ffd5c5666b966cf)** designed to autonomously tackle security tasks like user-reported phishing emails, new users and apps not covered by existing conditional access policies, and DLP/IRM alerts. Think of these agents more akin to advanced workflows or Logic Apps — automated, trigger-based sequences tailored for specific tasks.
+Just last week, we announced new **[Security Copilot agents](https://www.microsoft.com/en-us/security/blog/2025/03/24/microsoft-unveils-microsoft-security-copilot-agents-and-new-protections-for-ai/?msockid=330c4da567d667543ffd5c5666b966cf)** that automate noisy, repetitive tasks like user-reported phishing alerts, conditional access gaps for new users/apps, and DLP/IRM alerts.
 
-It's been over a month since I updated this page, but I hope no one missed the North Koreans pulling off the the largest crypto heist in history by exploiting a security lapse through a compromised dev's laptop at Safe (a 3rd-party crypto storage Bybit relies on); read the full breakdown **[here](https://www.chainalysis.com/blog/bybit-exchange-hack-february-2025-crypto-security-dprk/)** for how it all unfolded.
+Think of these agents more like advanced workflows or simplified Logic Apps — automated, trigger-based sequences for specific tasks + you can guide them with feedback/custom intructions in natural language. Most won’t act for you, but they help you prioritize (e.g., classifying phish alerts as true or false positive, one-click fixes for users outside existing MFA policies, etc.)
+
+It's been over a month since I updated this page, but I hope no one missed North Korea pulling off the largest crypto heist in history via a compromised dev's laptop at Safe (a 3rd-party crypto storage Bybit uses); read the full breakdown **[here](https://www.chainalysis.com/blog/bybit-exchange-hack-february-2025-crypto-security-dprk/)** for how it all unfolded.
 
 Some enthusiasts argue you need every tool below to maintain digital hygiene and protect your online life. One thing’s certain: Signal is widely popular across *many* types of users — but it’s not without risk according to recent Google **[threat intelligence](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger).**
 
-![Cybersecurity Reference Architecture]({{ site.baseurl }}/assets/msa/GmVqqZHa8AAe-yI (1).jpg)
+<img src="/assets/msa/GmVqqZHa8AAe-yI%20(1).jpg" alt="Karpathy" width="500"/>
 
 There's was a lot of buzz last month week about **[this research](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)** on the TTPs of an alleged NSA-led hack of a top Chinese university. Although some of it merits skepticism (since some of these tools leaked almost 9 years ago), it's still an interesting read🕵️
 
-Many of my partners live and breathe by ServiceNow for ticketing and tracking investigations, but did you know that we recently launched a new case management service in the Defender portal? If not, read about it **[here](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/case-management-is-now-generally-available/4398558?utm_source=substack&utm_medium=email)**! *Now generally available*
+Many of my partners live and breathe by ServiceNow for ticketing and tracking investigations, but did you know we recently launched case management in Defender? If not, read about it **[here](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/case-management-is-now-generally-available/4398558?utm_source=substack&utm_medium=email)**! *Now generally available*
 
 Most security vendors pitch Zero Trust and phishing-resistant MFA as the foundations, but are you not sure where to start? Grab a coffee and read through our new **[Zero Trust Deployment Essentials](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-security-in-action-zero-trust-deployment-essentials-for-digital-securi/4372698?utm_source=substack&utm_medium=email)**☕
 
