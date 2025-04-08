@@ -2,7 +2,7 @@
 layout: page
 title: Azure OpenAI
 description: Azure OpenAI Resources
-updated: 2024-05-21
+updated: 2025-03-18
 permalink: /skilling/ai-ml-academy/resources/openai
 tags: 
 - azure
@@ -22,60 +22,13 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
 ## Request Access
 
 - Rate Increase: [Azure OpenAI Service: Request for Quota Increase (microsoft.com)](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUMkkzRUlBMFBPT1ZQM01DODJNV1BEVENUTCQlQCN0PWcu)
-- GPT4: GPT-4 and GPT-4-32k are now available to ***all*** Azure OpenAI Service customers. You no longer need to request access to use GPT-4 and GPT-4-32k. Availability is currently limited by region to ensure a smooth rollout. You still need to apply for the AOAI Service if you do not have that already.
+- [GPT-4.5 Preview is now available. Access is granted based on Microsoft's eligibility criteria](https://aka.ms/oai/gptaccess)
 
-## Keeping Up (May 2024 Update📰)
+##  Book of News: Ignite and Build 2024
+- [Microsoft Ignite 2024 (November 19th – 21st)](https://news.microsoft.com/ignite-2024-book-of-news/?msockid=183aeb074e436cbc3f33fea84f546db6) – Ignite 2024 is a premier event where technology enthusiasts and professionals gather to explore cutting-edge innovations, network with peers, and gain valuable insights from industry leaders.
 
-- Microsoft Build 2024 – Explore technical learning, community connection, and insights into cutting-edge technologies. With 200,000+ registered attendees and 300+ sessions, it’s a great opportunity to explore the latest developments in AI, data, security, and more.
+- [Microsoft Build 2024 (May 21st – 23rd)](https://news.microsoft.com/build-2024-book-of-news/?msockid=183aeb074e436cbc3f33fea84f546db6) – Explore technical learning, community connection, and insights into cutting-edge technologies. With 200,000+ registered attendees and 300+ sessions, it’s a great opportunity to explore the latest developments in AI, data, security, and more.
 
-##### Outline of all Azure AI Sessions at [Build 2024 (May 21st – 23rd)](https://build.microsoft.com/home). Session titles that are bold have been recommended by Microsoft's AI PG.
-
-| Title                                                      | Time             | Speaker(s)                               |
-|------------------------------------------------------------|------------------|------------------------------------------|
-| Azure AI Studio - Creating and scaling your custom copilots | 11:30AM - 12:15PM| Asha Sharma, Nabila Babar, Jithendra Veeramachaneni |
-| Build, Evaluate and Deploy a RAG-based retail copilot with Azure AI | 2:15PM - 3:15PM | Nitya Narasimhan |
-| AI Everywhere – Accelerate your development from the edge to cloud | 11:30 AM - 12:15 PM | Lior Kamrat |
-| Build sophisticated custom copilots with Azure OpenAI Assistants | 1:00 PM - 1:45 PM | Salman Quazi, Mona Whalin |
-| Learn how to interact with Large Language Models | 1:00 PM - 2:00 PM | Henk Boelman, Gustavo Cordido |
-| **Multi-model, multimodal, and multi-agent innovations in Azure AI** | 2:15PM - 3:00PM | Marco Casalaina |
-| Build copilot experiences with your data on Azure OpenAI Service | 3:15PM - 3:30PM | Pavan Li, Linda Li |
-| Build and run intelligent apps with AKS and Azure OpenAI Service | 3:30 PM - 4:30 PM | Sachi Desai, Paul Yu |
-| **Operationalize AI responsibly with Azure AI Studio** | 3:30PM - 4:15PM | Mehrnoosh Sameki |
-| Discover, test and deploy models with ease with Azure AI model catalog | 4:00PM - 4:15PM | Kriti Faujdar, Shubhi Raj |
-| **Unlock the potential of foundation models with MaaS** | 4:45PM - 5:30PM | Manoj Bableshwar, Sharmila Chockalingam |
-| Multimodal use cases with GPT and Azure AI Vision | 5:15PM - 5:30PM | Adina Trufinescu, Cenyu Zhang |
-| Build, Evaluate and Deploy a RAG-based retail copilot with Azure AI | 4:45PM - 5:30PM | Nitya Narasimhan |
-| Create Generative AI experiences using Phi | 11:45AM - 12:30PM | Sam Kemp |
-| Next generation AI for developers with the Microsoft Cloud | 8:30 AM - 10:00 AM | Scott Guthrie, Sarah Bird, Seth Juarez, Charles Lamanna |
-| Safeguard user and AI-generated content with Azure AI Content Safety | 10:15AM - 10:30AM | Federico Zarfati, Ken Archer |
-| **RAG at scale: production-ready GenAI apps with Azure AI Search** | 10:15AM - 11:00AM | Pablo Castro |
-| Discover, test and deploy models with ease with Azure AI model catalog | 10:45AM - 11:00AM | Kriti Faujdar, Shubhi Raj |
-| Integrating Azure AI and Microsoft Fabric for Next-Gen AI Solutions | 1:00PM - 1:45PM | Facundo Santiago, Nellie Gustafsson |
-| Learn how to interact with Large Language Models | 1:00 PM - 2:00 PM | Henk Boelman, Gustavo Cordido |
-| Revolutionizing search and retrieval with Azure AI Search | 1:45PM - 2:00PM | Vinod Valloppillil, Matt Gotteiner |
-| Blow past benchmarks using vector search and RAG with Elasticsearch | 2:15PM - 3:00PM | Kim Bryille |
-| Practical applications of multimodal vision AI models | 2:15PM - 3:00PM | Fisayo Feyisetan, Adina Trufanisco |
-| Evaluate, monitor, and optimize LLM app performance in Azure AI Studio | 3:15PM - 3:30PM | Minsoo Thigpen; Alexander Hughes |
-| Build and run intelligent apps with AKS and Azure OpenAI Service | 3:30 PM - 4:30 PM | Sachi Desai, Paul Yu |
-| Optimize productivity by meeting next-level demands of the AI era | 3:30PM - 4:15PM | Nidhi Chappell |
-| Safeguard your copilot with Azure AI | 3:30PM - 4:15PM | Suzana Ilic, Andrew Gully |
-| Code-First LLMOps from prototype to production with GenAI tools | 3:30PM - 4:15PM | Cassie Breviu, Dan Taylor |
-| **Give your GenAI apps a multilingual voice with Azure AI Speech** | 4:45PM - 5:30PM | Heiko Rahmel; Panos Periorellis |
-| Video prompting with Azure AI Vision and GPT-4 Turbo with Vision | 5:15PM - 5:30PM | Joe Filcik |
-| Bridge the chasm between your ML and app devs with Semantic Kernel | 6:00 PM - 6:45 PM | Matthew Bolanos, Evan Chaki, John Maeda |
-| Build, Evaluate and Deploy a RAG-based retail copilot with Azure AI | 3:00PM - 4:00PM | Nitya Narasimhan |
-| Generative AI from your local machine to Azure with LangChain | 8:45AM - 9:00AM | Arun Sekhar, Natalia Venditto |
-| Learn how to interact with Large Language Models | 9:45 AM - 10:45 AM | Henk Boelman, Gustavo Cordido |
-| Bring your copilots to life with a customized visual identity | 11:00AM - 11:15AM | Qinying Liao; Binggong Ding |
-| Revamping the Document Automation Workflow with Generative AI | 11:00AM - 11:45AM | Vinod Kurpad |
-| **End-to-End AI Development: A Practical Approach** | 11:00AM - 11:45AM | Seth Juarez |
-| Power your AI Transformation with Microsoft Learn | 11:30AM - 11:45AM | Julie-Anne Arsenault, Sandra Marin |
-| Build and run intelligent apps with AKS and Azure OpenAI Service | 12:30 PM - 1:30 PM | Sachi Desai, Paul Yu |
-| Advanced RAG with Azure AI Search - top questions answered | 12:30PM - 1:15PM | Vinod Valloppillil |
-| Build AI faster with task-optimized language models in Azure AI | 1:00PM - 1:15PM | Xiaoying Guo; Rena Liu |
-| Revolutionizing search and retrieval with Azure AI Search | 2:00PM - 2:15PM | Vinod Valloppillil, Matt Gotteiner |
-| Practicalities of Fine-Tuning Llama 2 with AI Studio | 3:00PM - 3:45PM | Cedric Vidal; Bala Venkataraman |
-| Transforming the future of startups with Microsoft AI | 4:15PM - 5:00PM | Annie Pearl, Lahini |  
 
 
 - [**Azure OpenAI Service model deprecations and retirements**](https://learn.microsoft.com/azure/ai-services/openai/concepts/model-retirements) -- Learn about models that are currently available, deprecated, and retired.
@@ -86,7 +39,7 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
 - [Azure OpenAI – YouTube](https://www.youtube.com/watch?v=dDDJIemqUp4)
 - [Model Availability](https://learn.microsoft.com/azure/ai-services/openai/concepts/models)
 - Quotas & Limitations: [Azure OpenAI Service Quotas & Limits – Azure Cognitive Services](https://learn.microsoft.com/azure/cognitive-services/openai/quotas-limits?branch=release-azure-openai-preview)
-- Pricing: [Azure OpenAI Service Pricing](https://azure.microsoft.com/pricing/details/cognitive-services/openai-service/)
+- Pricing: [Explore the updated pricing options for Azure OpenAI Service, including Standard, Provisioned, and Batch API pricing](https://azure.microsoft.com/pricing/details/cognitive-services/openai-service/)
 
 ## Fundamentals
 
@@ -99,8 +52,9 @@ Azure OpenAI is designed to accelerate the development of AI applications, allow
 - [ChatGPT Enterprise: Revolutionize your Enterprise Data with ChatGPT: Next-gen Apps w/ Azure OpenAI and Cognitive Search – Microsoft Community Hub](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087)
 - [GPT4 Model: How to work with the GPT-35-Turbo and GPT-4 models — Azure OpenAI Service](https://learn.microsoft.com/azure/cognitive-services/openai/how-to/chatgpt?pivots=programming-language-chat-completions)
 
-Evaluating models:
-
+Evaluating and monitoring models:
+- [Use Azure AI Evaluation SDK to view your model performance](https://learn.microsoft.com/python/api/overview/azure/ai-evaluation-readme?view=azure-python)
+- [Enable Tracing to visualize you agents actions](https://learn.microsoft.com/azure/ai-services/agents/concepts/tracing)
 - [LangChain Lib: Evaluation — 🦜🔗](https://python.langchain.com/docs/guides/evaluation)
 - [Evals framework for evaluating LLMs and LLM systems](https://github.com/openai/evals)
 - [Leverage Prompt Flow to evaluate your model](https://learn.microsoft.com/azure/machine-learning/prompt-flow/how-to-develop-an-evaluation-flow?view=azureml-api-2)
@@ -129,7 +83,7 @@ Tooling:
 - [LLMOps](https://github.com/microsoft/LMOps) - Operational capabilities and infrastructure required to fine-tune existing foundational models
 - [JARVIS](https://github.com/microsoft/JARVIS) - Collaborative system that uses an LLM as the controller
 - [Can ChatGPT work with your enterprise data?](https://www.youtube.com/watch?v=tW2EA4aZ_YQ&t=27s) - Bring OpenAI’s ChatGPT model in Azure to your own enterprise-grade app experiences with precise control over the knowledge base, for in-context and relevant responses. Interact with your organization’s private internal data, while respecting the information protection controls put in place.
-- **[DALL-E 3](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Fai-services%2Fopenai%2Fdall-e-quickstart%3Ftabs%3Ddalle3%252Ccommand-line%26pivots%3Dprogramming-language-studio&data=05%7C02%7Calexisjoseph%40microsoft.com%7C7155df02a55f46db98a508dc43828a14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638459475296392483%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=N%2FkPxB9rLelmmjVBLUFS6Ko1FYb%2FpGA5afv8bAu9IMQ%3D&reserved=0)** is now generally available (available in East US, Sweden Central, and Australia East) -- providing service reliability for production scenarios, annotations for content filtering, and continuing to deliver high-quality generated images.
+- [DALL-E 3](https://learn.microsoft.com/azure/ai-services/openai/how-to/dall-e) - OpenAI's DALL-E models generate images based on user-provided text prompts. This guide demonstrates how to use the DALL-E models and configure their options through REST API calls.
 - [Speech to text with the Azure OpenAI Whisper model](https://learn.microsoft.com/azure/ai-services/openai/whisper-quickstart?tabs=command-line%2Cpython-new&pivots=rest-api)
 
 
@@ -143,8 +97,9 @@ Tooling:
 
 ## Demos & Code Samples
 
+- [Azure AI Samples](https://github.com/Azure-Samples/azureai-samples) - This repository acts as the top-level directory for official Azure AI sample code and examples. It includes notebooks and sample code that contain end-to-end samples as well as smaller code snippets for common developer tasks
+- [Build and Deploy Production-Grade LangGraph Agent(s) on Azure](https://github.com/shivachittamuru/langgraph-agents-on-azure)
 - [Customer Service Conversational Insights with Azure OpenAI — Architecture Example](https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services)
-- [OpenAI End-to-End Code Snippets](https://github.com/Azure/openai-samples)
 - [OpenAI Use Cases & ChatGPT Demo](https://www.microsoft.com/videoplayer/embed/RWZbzn)
 - [AI-powered Call Center Architecture Example](https://github.com/amulchapla/AI-Powered-Call-Center-Intelligence)
 - [Business Process Automation Accelerator](https://github.com/Azure/business-process-automation) - Provides a no-code Studio for users to quickly build complex, multi-stage AI pipelines across multiple Azure AI and ML Services
@@ -156,6 +111,8 @@ Tooling:
 ## Community Resources
 - [AI – Azure Platform Blog – Microsoft Community Hub](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/bg-p/AIPlatformBlog)
 - [AI – Azure AI Services Blog – Microsoft Community Hub](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/bg-p/Azure-AI-Services-blog)
+- [Gen AI Ops Playbook](https://github.com/DataSciNAll/genaiopsplaybook/tree/main) - GenAIOps playbook of crowd-source materials to deploy your Gen AI apps to production
+- [Azure Samples](https://github.com/Azure-Samples) 
 - [Microsoft Q&A](https://learn.microsoft.com/answers/tags/387/azure-openai) - Get answers to your questions using the tag: *azure-openai*
 - [OpenAI Python Library - examples · PyPI](https://pypi.org/project/openai/)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)

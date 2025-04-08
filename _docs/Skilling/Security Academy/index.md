@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2025-02-09
+updated: 2025-02-27
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -60,9 +60,15 @@ showbreadcrumb: true
 
 ___
 
-## February 9th, 2025 Update📰
+## February 27th, 2025 Update📰
 
-**Recent Update** (February 9th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Certifications](/PartnerResources/skilling/microsoft-security-academy/certifications)**, and **[Security Copilot Technical Resources](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)** |
+**Recent Update** (February 27th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Certifications](/PartnerResources/skilling/microsoft-security-academy/certifications)**, **[Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Defender XDR](/PartnerResources/skilling/microsoft-security-academy/dxdr-academy)**, **[Entra](/PartnerResources/skilling/microsoft-security-academy/entra-academy)**, and **[Azure Network Security](/PartnerResources/skilling/microsoft-security-academy/network-academy)** |
+
+There's been a lot of buzz this week about **[this research](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)** on the TTPs of an alleged NSA-led hack of a top Chinese university. Although some of it merits skepticism (since some of these tools leaked almost 9 years ago), it's still an interesting read🕵️
+
+A Russian group, known as BadPilot, has been breaching networks in the US, UK, Canada, and Australia, focusing on initial access before handing it off to other hackers for further attacks, according to **[recent Microsoft research and WIRED](https://www.wired.com/story/russia-sandworm-badpilot-cyberattacks-western-countries/)**
+
+Speaking of Threat Intel... check out our new **[Threat Intelligence Ingestion Rules](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/introducing-threat-intelligence-ingestion-rules/4379019?utm_source=substack&utm_medium=email)** in Defender XDR!
 
 Many of my partners live and breathe by ServiceNow, but did you know that we recently launched a new case management service in the Defender portal? If not, read about it **[here](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/improve-secops-collaboration-with-case-management/4369044?utm_source=substack&utm_medium=email)**!
 
@@ -72,9 +78,7 @@ Product names aren't the only thing known to change at Microsoft, and certificat
 
 In other news, hackers from China, Iran, and other adversaries are increasingly using AI, including Google's Gemini, to bolster their cyberattacks, according to recent Google **[ threat intelligence research](https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai).**
 
-A new administration is in office, and that means many federal employees are moving on to new opportunities -- including Jen Easterly, the former and esteemed Director of CISA. It's notable (and shouldn't come as a surprise to absolutely anyone) that in her final days, she wrote about the increasing threats we face from the PRC and MSS, which you can read about **[here](https://www.cisa.gov/news-events/news/strengthening-americas-resilience-against-prc-cyber-threats).**
-
-Speaking of CISA... we just published an **[Expanded Cloud Log Implementation Playbook](https://www.cisa.gov/news-events/news/cisa-publishes-microsoft-expanded-cloud-log-implementation-playbook?utm_source=substack&utm_medium=email)** in coordination with our federal counterparts, and it's worth a bookmark.
+Last month, we published an **[Expanded Cloud Log Implementation Playbook](https://www.cisa.gov/news-events/news/cisa-publishes-microsoft-expanded-cloud-log-implementation-playbook?utm_source=substack&utm_medium=email)** in coordination with our federal counterparts, and it's worth a bookmark.
 
 Remember how the U.S. State Department caught Chinese hackers snooping around Microsoft's email systems? They used the now infamous “Big Yellow Taxi” KQL detections, which you can find **[here](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Office%20365/BigYellowTaxi%20-%20SignIn.md)**🚕
 
@@ -104,21 +108,23 @@ We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Microsoft Defender XDR       | Get the most out of MDVM               | FEB 12             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Defender XDR       | Automatic Attack Disruption            | FEB 18             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Sentinel           | Managing Repositories                  | FEB 19             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Defender XDR       | Insider Risk Management Data           | FEB 25             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Azure Network Security       |  Azure WAF Rulesets                    | FEB 26             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender XDR       | Licensing & Site Security              | FEB 27             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | API Security Posture                   | MAR 5              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Azure Network Security       | DDoS Protection & Azure WAF          | MAR 6              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Azure Network Security       | DDoS Protection & Azure WAF            | MAR 6              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview            | Microsoft Purview AMA                  | MAR 12             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Purview            |  Inheriting Sensitivity Labels         | MAR 18             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Purview            |  Purview for ChatGPT Enterprise        | MAR 19             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Azure Network Security       | What's new in Azure Firewall           | MAR 20             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Sentinel           | Transition to Unified SOC Platform     | APR 1              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender XDR       | Securing AI Applications               | APR 2              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Sentinel           | What's new in Microsoft Sentinel       | APR 10             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender for Cloud | Securing Custom Built AI Apps          | APR 15             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender XDR       | SaaS Security Exposure Reduction       | APR 23             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender for Cloud | Microsoft Defender CSPM                | APR 30             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Sentinel           | Unified SOC: Advanced Insights         | MAY 14             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-
+| Microsoft Defender for Cloud | XDR Advanced Hunting                   | MAY 15             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender for Cloud | Unified CSPM                           | MAY 28             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Defender for Cloud | Secure Score Revolution                | JUN 4              | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 
 ___
 

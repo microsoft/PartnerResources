@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SQL DB in Fabric Masterclass
+sorttitle: 01
 description: Our SQL Database in Fabric Masterclass is designed for Partners to get the skills and information needed to position SQL Databases in Fabric.
 updated: 2025-01-30
 permalink: /skilling/modern-analytics-academy/fabric-databases/sql-db-masterclass
