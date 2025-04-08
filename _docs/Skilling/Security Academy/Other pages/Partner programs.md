@@ -15,16 +15,13 @@ tags:
 ### Are you interested in partner programs?🤝
 Explore our **[partner programs](https://www.microsoft.com/en-us/security/business/partnerships)** and together we'll provide comprehensive security solutions, establish cybersecurity standards, and combat global cybercrime and nation-state threats.
 
-### Recommended Partner Journey
+#### Recommended Partner Journey
 
-#### 1. Cybersecurity Investment (CSI)
-The typical starting point. Partners are invited, onboarded, and incentivized to deliver pre-sales engagements and drive Microsoft Security usage.
-
-#### 2. MXDR Verified Solution
-Next, partners with proven success and specializations can qualify for MXDR Verification — Microsoft’s technical validation for MSSPs.
-
-#### 3. Microsoft Intelligent Security Association (MISA)
-An elite community of integrated partners. MISA membership recognizes those with verified solutions and deep alignment with Microsoft Security.
+| Step | Program | Description |
+|------|---------|-------------|
+| 1 | **Cybersecurity Investment (CSI)** | The typical starting point. Partners are invited, onboarded, and incentivized to deliver pre-sales engagements and drive Microsoft Security usage. |
+| 2 | **MXDR Verified Solution** | Next, partners with proven success and specializations can qualify for MXDR Verification — Microsoft’s technical validation for MSSPs. |
+| 3 | **Microsoft Intelligent Security Association (MISA)** | An elite community of integrated partners. MISA membership recognizes those with verified solutions and deep alignment with Microsoft Security. |
 
 
 <div>&nbsp;</div>
@@ -32,7 +29,7 @@ An elite community of integrated partners. MISA membership recognizes those with
 
 ## Cybersecurity Investment (CSI)
 
-The Cybersecurity Investment (CSI) Program is an **invite-only** initiative designed to accelerate M365 security sales and Security ACR consumption through go-to-market motions with customers. The goal is to provide partners with pre-sales assets, resources, and incentives to drive Microsoft Security products first while continuing to build and position their own managed and deployment services on top of the Microsoft portfolio.
+The Cybersecurity Investment (CSI) Program is an ***invite-only*** initiative designed to accelerate M365 security sales and security ACR consumption through go-to-market motions with customers. The goal is to provide partners with pre-sales assets, resources, and incentives to drive Microsoft Security products first while continuing to build and position their own managed and deployment services on top of the Microsoft portfolio.
 
 #### Benefits
 
@@ -49,7 +46,7 @@ Partners must be **nominated by the Microsoft Global Partner Solutions** team. N
 
 - Signing the [CSI Agreement](https://aka.ms/CSIAgreement)
 - Completing a valid [payment profile](https://aka.ms/CSI/PaymentOnboarding)
-- Holding *at least one*  of the following **[Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)**
+- Holding ***at least one***  of the following [Security Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations):
 
     - Threat Protection
     - Information Protection
@@ -62,14 +59,11 @@ Partners must be **nominated by the Microsoft Global Partner Solutions** team. N
 - Maintain a **15%+ Milestone 1 to Milestone 2** conversion ratio
 - Submit POEs and invoices within **90 days** of engagement approval
 
-#### Resources
+#### Additional Resources
 
-- [CSI Program Overview PDF](./CSI%20Program%20Overview.pdf)  
-- [FY25 CSI FAQ PDF](./FY25CSIFAQ.pdf)  
-- [CSI Portal](https://aka.ms/PartnerCyberSecurityPortal)  
-- [CSI Guide](https://aka.ms/CSIGuide)  
-- [Nominate a customer!](https://aka.ms/cloudaccelerators/nominate)  
-- [Step-by-Step Guide](https://aka.ms/CSIStepbyStep)  
+- [CSI Portal](https://aka.ms/PartnerCyberSecurityPortal) 
+- [CSI Guide](https://aka.ms/CSIGuide)
+- [Step-by-Step Guide](https://aka.ms/CSIStepbyStep)
 - Questions? Email **[CSIsupport@cloudaccelerator.microsoft.com](mailto:CSIsupport@cloudaccelerator.microsoft.com)**
 
 
