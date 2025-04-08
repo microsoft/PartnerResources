@@ -74,7 +74,7 @@ Partners must be **nominated by the Microsoft Global Partner Solutions** team. N
 
 Managed Extended Detection and Response (MXDR) extends beyond traditional Managed Detection and Response (MDR) to include Identity Protection, Cloud Apps, email, and SIEM/SOAR.
 
-The verified MXDR solution status is the first engineering verification of its kind for our MSSP partner community. Partners with this elite status have an MXDR solution that meets a high bar of criteria of security managed services across XDR technology, providing 24x7x365 continuous SOC monitoring, incident response, proactive threat hunting, configuration management, and managed SIEM/SOAR offerings.
+The verified MXDR solution status is the first engineering verification of its kind for our MSSP partner community. Partners with this elite status have an MXDR solution that meets a high bar of criteria of security managed services across XDR technology, providing 24x7x365 continuous SOC monitoring, incident response, proactive threat hunting, configuration management, and other managed SIEM/SOAR offerings.
 
 #### Partner Journey
 
@@ -86,7 +86,7 @@ The verified MXDR solution status is the first engineering verification of its k
 
 ## Microsoft Intelligent Security Association (MISA)
 
-The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.com/en-us/security/business/intelligent-security-association)** is Microsoft’s premiere Security Partner association comprised of independent software vendors (ISV) and managed security service providers (MSSP) that have integrated their solutions with Microsoft’s security products.
+The **[Microsoft Intelligent Security Association (MISA)](https://www.microsoft.com/en-us/security/business/intelligent-security-association)** is Microsoft’s premiere Security Partner association comprised of ISVs and MSSPs that have integrated their solutions with Microsoft’s security products.
 
 #### Benefits
 
