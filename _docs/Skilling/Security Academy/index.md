@@ -66,18 +66,18 @@ ___
 
 **[Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Defender XDR](/PartnerResources/skilling/microsoft-security-academy/dxdr-academy)**, **[Entra](/PartnerResources/skilling/microsoft-security-academy/entra-academy)**, and **[Azure Network Security](/PartnerResources/skilling/microsoft-security-academy/network-academy)** |
 
-Big news for SMBs! E5 is now available as an add-on to Business Premium — read about the announcement **[here](https://techcommunity.microsoft.com/blog/microsoft365businessblog/microsoft-365-e5-security-is-now-available-as-an-add-on-to-microsoft-365-busines/4388436)!**
+Big news for SMBs! E5 is now available as an add-on to Business Premium — read about the announcement **[here](https://techcommunity.microsoft.com/blog/microsoft365businessblog/microsoft-365-e5-security-is-now-available-as-an-add-on-to-microsoft-365-busines/4388436)**!
 
-Just last week, we announced **[Security Copilot agents](https://www.microsoft.com/en-us/security/blog/2025/03/24/microsoft-unveils-microsoft-security-copilot-agents-and-new-protections-for-ai/?msockid=330c4da567d667543ffd5c5666b966cf)** that automate noisy, repetitive tasks like user-reported phishing alerts, conditional access policy gaps for new users and apps, and DLP/IRM alerts.
+Just last week, we announced **[Security Copilot agents](https://www.microsoft.com/en-us/security/blog/2025/03/24/microsoft-unveils-microsoft-security-copilot-agents-and-new-protections-for-ai/?msockid=330c4da567d667543ffd5c5666b966cf)** that automate repetitive, noisy tasks like user-reported phishing alerts, conditional access policy gaps for new users and apps, and DLP/IRM alerts.
 
-Think of these agents ***more like advanced workflows or simplified Logic Apps — automated, (mostly) trigger-based sequences for specific tasks + you can guide them with feedback/custom intructions in natural language.*** Most won’t take action for you, but they'll help you prioritize (e.g., classifying phish alerts as true or false positive, one-click fixes for users outside existing MFA policies, ...)
+Think of these agents ***more like advanced workflows*** or simplified Logic Apps — automated, *mostly* trigger-based sequences for specific tasks + you can guide them with feedback/custom instructions in natural language. Most won’t take action for you, but they'll help you prioritize (e.g., classifying phish alerts as true or false positive, one-click fixes for users outside existing MFA policies, ...)
 
 It's been over a month since I updated this page, but I hope no one missed North Korea pulling off the largest crypto heist in history via a compromised dev's laptop at Safe (a 3rd-party crypto storage Bybit uses); read the full breakdown **[here](https://www.chainalysis.com/blog/bybit-exchange-hack-february-2025-crypto-security-dprk/)** (another reminder *"attackers don’t break in, they log in...”*)
 
 Some enthusiasts argue you need every tool below to maintain digital hygiene and protect your online life. One thing’s certain: Signal is widely popular across *many* types of users — but it’s not without risk according to recent Google **[threat intelligence](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger).**
 
 
-<img src="{{ site.baseurl }}/assets/msa/GmVqqZHa8AAe-yI%20(1).jpg" alt="Karpathy Reference Architecture" style="width: 500px; height: auto;" />
+<img src="{{ site.baseurl }}/assets/msa/GmVqqZHa8AAe-yI%20(1).jpg" alt="Karpathy Reference Architecture" style="width: 400px; height: auto;" />
 
 
 There's was a lot of buzz last month week about **[this research](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)** on the TTPs of an alleged NSA-led hack of a top Chinese university. Although some of it merits skepticism (since some of these tools leaked almost 9 years ago), it's still an interesting read🕵️
