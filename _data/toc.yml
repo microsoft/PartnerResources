@@ -116,6 +116,9 @@
             - title: Teams
               url: "skilling/d365-academy/business-central-academy/teams"
               tag: bca teams
+        - title: "Business Performance Planning Academy"
+          url: "skilling/d365-academy/d365-bpp-academy"
+          tag: d365 bpp academy
         - title: "Commerce Academy"
           url: "skilling/d365-academy/d365-commerce-academy"
           tag: d365 commerce academy
