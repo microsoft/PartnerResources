@@ -62,7 +62,7 @@ ___
 
 ## April 11th, 2025 Update📰
 
-**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Specializations](/PartnerResources/skilling/microsoft-security-academy/specializations)**,
+**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**,**[Back to basics series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)**, 
 
 **[Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Defender XDR](/PartnerResources/skilling/microsoft-security-academy/dxdr-academy)**, **[Entra](/PartnerResources/skilling/microsoft-security-academy/entra-academy)**, and **[Azure Network Security](/PartnerResources/skilling/microsoft-security-academy/network-academy)** |
 
@@ -165,7 +165,7 @@ Microsoft Ninja trainings are sets of organized learning modules that guide you 
 
 * [Microsoft Security Copilot Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-become-a-microsoft-copilot-for-security-ninja-the/ba-p/4106928)
 * [Microsoft Unified SOC Platform Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-unified-soc-platform-ninja/ba-p/4014565)
-* [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310) -- *Recently updated*
+* [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310) -- 
 * [Microsoft Sentinel Automation Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377)
 * [Microsoft Defender Threat Intelligence Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965)
 * [Microsoft Sentinel Notebooks Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491)
@@ -173,12 +173,14 @@ Microsoft Ninja trainings are sets of organized learning modules that guide you 
 * [Microsoft Defender for Office 365 Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja/ba-p/2187392)
 * [Microsoft Defender for Identity Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-identity-ninja-training/ba-p/2117904?WT.mc_id=m365-0000-rotrent)
 * [Microsoft Defender for Cloud Apps Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-cloud-apps-ninja-training-june-2022/ba-p/2751518)
-* [Microsoft Defender for Cloud Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761)
+* [Microsoft Defender for Cloud Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761) *Recently updated*
 * [Microsoft Defender External Attack Surface Management Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-external/become-a-microsoft-defender-external-attack-surface-management/ba-p/3743985)
 * [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101)
+*Recently updated*
 * [Microsoft Defender for Endpoint Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647)
 * [Microsoft Defender for IoT Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/microsoft-defender-for-iot-ninja-training/ba-p/2428899?WT.mc_id=m365-0000-rotrent)
 * [Microsoft Purview eDiscovery Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-purview-ediscovery-ninja/ba-p/2793108)
+*Recently updated*
 * [Microsoft Purview Information Protection Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-information-protection-ninja-training-is/ba-p/2887478?WT.mc_id=m365-0000-rotrent)
 * [Microsoft Purview Data Loss Prevention (DLP) Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-data-loss-prevention-ninja-training-is/ba-p/3659015)
 * [Insider Risk Management Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-an-insider-risk-management-ninja/ba-p/3282306)
