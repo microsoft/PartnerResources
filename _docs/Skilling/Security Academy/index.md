@@ -77,7 +77,7 @@ It's been over a month since I updated this page, but I hope no one missed North
 Some enthusiasts argue you need every tool below to maintain digital hygiene and protect your online life. One thing’s certain: Signal is widely popular across *many* types of users — but it’s not without risk according to recent Google **[threat intelligence](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger).**
 
 
-![Karpathy Reference Architecture]({{ site.baseurl }}/assets/msa/GmVqqZHa8AAe-yI (1).jpg)
+<img src="{{ site.baseurl }}/assets/msa/GmVqqZHa8AAe-yI%20(1).jpg" alt="Karpathy Reference Architecture" style="width: 500px; height: auto;" />
 
 
 There's was a lot of buzz last month week about **[this research](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)** on the TTPs of an alleged NSA-led hack of a top Chinese university. Although some of it merits skepticism (since some of these tools leaked almost 9 years ago), it's still an interesting read🕵️
