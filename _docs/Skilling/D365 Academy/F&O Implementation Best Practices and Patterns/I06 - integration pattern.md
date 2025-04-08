@@ -21,7 +21,7 @@ Customer wants end-to-end automation of vendor invoices (inbound or outbound)
 AP Automation - Inbound or Outbound
 
 * Basic requirements
-*   Inbound - Build integration using provided OOB packages as per [docs](https://learn.microsoft.com/en-us/dynamics365/finance/accounts-payable/vendor-invoice-automation)
+*   Inbound - Build integration using provided OOB packages as per [vendor invoice automation](https://learn.microsoft.com/en-us/dynamics365/finance/accounts-payable/vendor-invoice-automation)
 *   Outbound – Batched export / BYOD
 * Power Automate + Azure Form Recognizer API + F&O connector
 * Advanced requirements: Evaluate an ISV
