@@ -66,7 +66,7 @@ ___
 
 **[Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Defender XDR](/PartnerResources/skilling/microsoft-security-academy/dxdr-academy)**, **[Entra](/PartnerResources/skilling/microsoft-security-academy/entra-academy)**, and **[Azure Network Security](/PartnerResources/skilling/microsoft-security-academy/network-academy)** |
 
-Big news for SMBs! E5 is now available as an add-on to Business Premium — read about the announcement **[here](https://techcommunity.microsoft.com/blog/microsoft365businessblog/microsoft-365-e5-security-is-now-available-as-an-add-on-to-microsoft-365-busines/4388436)**!
+Big news for SMBs! E5 is now available as an add-on to Business Premium — read about the announcement **[here](https://techcommunity.microsoft.com/blog/microsoft365businessblog/microsoft-365-e5-security-is-now-available-as-an-add-on-to-microsoft-365-busines/4388436)**!🆕
 
 Just last week, we announced **[Security Copilot agents](https://www.microsoft.com/en-us/security/blog/2025/03/24/microsoft-unveils-microsoft-security-copilot-agents-and-new-protections-for-ai/?msockid=330c4da567d667543ffd5c5666b966cf)** that automate repetitive, noisy tasks like user-reported phishing alerts, conditional access policy gaps for new users and apps, and DLP/IRM alerts.
 
@@ -101,10 +101,6 @@ If you're looking for an easier way to consume Microsoft Sentinel's extensive Gi
 We also recently launched a **[Zero Trust partner kit](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-partner-kit?utm_source=substack&utm_medium=email)** which includes pre-packaged and co-branded resources for you to use with customers. Just add your own branding!
 
 The Microsoft Incident Response team recently created a compilation of incident response/TTP guides, best practices, and threat-hunting strategies, known as the **[Microsoft Incident Response Ninja Hub](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-incident-response-ninja-hub/ba-p/4243594?utm_source=substack&utm_medium=email).**
-
-We're excited to announce **[Auxiliary Logs](https://azure.microsoft.com/en-us/updates/v2/Azure-Monitor-Auxiliary-Logs)**, a cost-effective solution for verbose logs. Azure Monitor now offers three plans: Analytics, Basic, and Auxiliary. *(Auxiliary Logs = Basic Logs + Archive Tier)*
-
-We're also excited to announce **[Summary Rules](https://www.linkedin.com/pulse/auxiliary-logs-summary-rules-debac-manikandan-s147c/)**, which aggregate data at ingestion. You can even apply detection rule logic to Summary Rules!
 
 
 <div>&nbsp;</div>
