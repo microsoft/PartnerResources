@@ -27,12 +27,12 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
     <td><a href="https://youtu.be/xMj7a4Ns_cU"><b>Microsoft Sentinel in just 30 minutes</b></a><br><br>Short on time? Learn the fundamentals of Microsoft Sentinel, why it’s a necessity for your Security Operations (SecOps) and threat protection, its unique value, core capabilities, data ingestion methods, and more with a thorough demo and in just 30 minutes.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/WIM6fbJDkK4"><img src="https://img.youtube.com/vi/WIM6fbJDkK4/maxresdefault.jpg" alt="Transition to Unified SOC: Deep Dive and Interactive Q&A for SOC Analysts" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/WIM6fbJDkK4"><b>Transition to Unified SOC: Deep Dive and Interactive Q&A for SOC Analysts</b></a><br><br>Discover how to smoothly transition from Microsoft Sentinel to the new unified SecOps platform!</td>
+    <td><a href="https://youtu.be/WIM6fbJDkK4"><img src="https://img.youtube.com/vi/WIM6fbJDkK4/maxresdefault.jpg" alt="NEW: Transition to Unified SOC: Deep Dive and Interactive Q&A for SOC Analysts" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/WIM6fbJDkK4"><b>NEW: Transition to Unified SOC: Deep Dive and Interactive Q&A for SOC Analysts</b></a><br><br>Discover how to smoothly transition from Microsoft Sentinel to the new unified SecOps platform!</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/ffOg0mMgNLI"><img src="https://img.youtube.com/vi/ffOg0mMgNLI/maxresdefault.jpg" alt="Microsoft Sentinel Repositories: Manage Your SIEM Content Like a Pro" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/ffOg0mMgNLI"><b>Microsoft Sentinel Repositories: Manage Your SIEM Content Like a Pro</b></a><br><br>Explore how Microsoft Sentinel Repositories streamline content management, enable team collaboration, and now support Bicep templates for easier infrastructure-as-code.</td>
+    <td><a href="https://youtu.be/ffOg0mMgNLI"><img src="https://img.youtube.com/vi/ffOg0mMgNLI/maxresdefault.jpg" alt="NEW: Microsoft Sentinel Repositories: Manage Your SIEM Content Like a Pro" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/ffOg0mMgNLI"><b>NEW: Microsoft Sentinel Repositories: Manage Your SIEM Content Like a Pro</b></a><br><br>Explore how Microsoft Sentinel Repositories streamline content management, enable team collaboration, and now support Bicep templates for easier infrastructure-as-code.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/ryqjtFvXf44"><img src="https://img.youtube.com/vi/ryqjtFvXf44/maxresdefault.jpg" alt="Microsoft Sentinel Sizing, Pricing, and Planning" width="400" height="400"></a></td>
