@@ -28,11 +28,11 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/WIM6fbJDkK4"><img src="https://img.youtube.com/vi/WIM6fbJDkK4/maxresdefault.jpg" alt="Transition to Unified SOC: Deep Dive and Interactive Q&A for SOC Analysts" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/WIM6fbJDkK4"><b>Transition to Unified SOC: Deep Dive and Interactive Q&A for SOC Analysts</b></a><br><br>Transition to Unified SOC: Deep Dive and Interactive Q&A for SOC Analysts</b></a><br><br>Learn how to smoothly transition from Microsoft Sentinel to the unified SOC experience in Defender.</td>
+    <td><a href="https://youtu.be/WIM6fbJDkK4"><b>Transition to Unified SOC: Deep Dive and Interactive Q&A for SOC Analysts</b></a><br><br>Discover how to smoothly transition from Microsoft Sentinel to the unified SOC experience in Defender.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/ffOg0mMgNLI"><img src="https://img.youtube.com/vi/ffOg0mMgNLI/maxresdefault.jpg" alt="Microsoft Sentinel Repositories: Manage Your SIEM Content Like a Pro" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/ffOg0mMgNLI"><b>Microsoft Sentinel Repositories: Manage Your SIEM Content Like a Pro</b></a><br><br>Learn how Microsoft Sentinel Repositories streamline content management, enable team collaboration, and now support Bicep templates for easier infrastructure-as-code.</td>
+    <td><a href="https://youtu.be/ffOg0mMgNLI"><b>Microsoft Sentinel Repositories: Manage Your SIEM Content Like a Pro</b></a><br><br>Explore how Microsoft Sentinel Repositories streamline content management, enable team collaboration, and now support Bicep templates for easier infrastructure-as-code.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/ryqjtFvXf44"><img src="https://img.youtube.com/vi/ryqjtFvXf44/maxresdefault.jpg" alt="Microsoft Sentinel Sizing, Pricing, and Planning" width="400" height="400"></a></td>
