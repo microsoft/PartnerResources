@@ -62,7 +62,7 @@ ___
 
 ## April 11th, 2025 Update📰
 
-**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Back to basics series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)**, **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**, TBD
+**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**, **[Back to basics series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)**, TBD
 
 **[Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Defender XDR](/PartnerResources/skilling/microsoft-security-academy/dxdr-academy)**, **[Entra](/PartnerResources/skilling/microsoft-security-academy/entra-academy)**, and **[Azure Network Security](/PartnerResources/skilling/microsoft-security-academy/network-academy)** |
 
@@ -94,7 +94,7 @@ Remember how the U.S. State Department caught Chinese hackers snooping around Mi
 
 ### Other News
 
-There’s a lot coming for Microsoft Sentinel — **[check out the latest updates](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/new-capabilities-coming-to-microsoft-sentinel-this-spring/4390357?utm_source=substack&utm_medium=email)** including multi-tenancy support for unified SecOps, more [Codeless Connectors](https://learn.microsoft.com/en-us/azure/sentinel/create-codeless-connector), and SOC Optimization updates🔥 
+There’s **[a lot coming for Microsoft Sentinel](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/new-capabilities-coming-to-microsoft-sentinel-this-spring/4390357?utm_source=substack&utm_medium=email)**, including multi-tenancy support for unified SecOps, more [Codeless Connectors](https://learn.microsoft.com/en-us/azure/sentinel/create-codeless-connector), and SOC Optimization updates🔥
 
 Log Analytics can be tricky, but our new **[Simple Mode](https://techcommunity.microsoft.com/blog/azureobservabilityblog/log-analytics-simple-mode-is-now-generally-available/4370749?utm_source=substack&utm_medium=email)** makes it easier than ever before!
 
