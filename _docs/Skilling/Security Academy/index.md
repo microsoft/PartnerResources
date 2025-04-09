@@ -44,12 +44,12 @@ showbreadcrumb: true
                 <td>
                     <ul>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/start">Getting Started</a></li>
-                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/specializations">Security Specializations</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/certifications">Security Certifications</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/specializations">Security Specializations</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/programs">Partner Programs</a></li>
-                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/sfi">Secure Future Initiative</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security">Security Copilot Technical Journey & Resources</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security-qa">Security Copilot Q&A</a></li>
+                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/sfi">Secure Future Initiative</a></li>
                         <li><a href="/PartnerResources/security/microsoft-security-academy/microsoft-sentinel">Microsoft Sentinel Resources</a></li>
                     </ul>
                 </td>
@@ -93,6 +93,8 @@ Two months ago, we published an **[Expanded Cloud Log Implementation Playbook](h
 Remember how the U.S. State Department caught Chinese hackers snooping around Microsoft's email systems? They used the now infamous “Big Yellow Taxi” KQL detections, which you can find **[here](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Office%20365/BigYellowTaxi%20-%20SignIn.md)**🚕
 
 ### Other News
+
+**New:** There’s a *lot* coming for Microsoft Sentinel — **[check out the latest updates](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/new-capabilities-coming-to-microsoft-sentinel-this-spring/4390357?utm_source=substack&utm_medium=email)** including multi-tenancy support for the unified SecOps platform, more [Codeless Connectors](https://learn.microsoft.com/en-us/azure/sentinel/create-codeless-connector), and SOC Optimization updates.
 
 Log Analytics can be tricky, but our new **[Simple Mode](https://techcommunity.microsoft.com/blog/azureobservabilityblog/log-analytics-simple-mode-is-now-generally-available/4370749?utm_source=substack&utm_medium=email)** makes it easier than ever before!
 

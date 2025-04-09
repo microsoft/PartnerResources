@@ -316,14 +316,17 @@
         - title: Getting Started
           url: "skilling/microsoft-security-academy/start"
           tag: msa
-        - title: Specializations
-          url: "skilling/microsoft-security-academy/specializations"
-          tag: msa
         - title: Certifications
           url: "skilling/microsoft-security-academy/certifications"
           tag: msa
+        - title: Specializations
+          url: "skilling/microsoft-security-academy/specializations"
+          tag: msa
         - title: Partner Programs
           url: "skilling/microsoft-security-academy/programs"
+          tag: msa
+        - title: Back to basics series
+          url: "skilling/microsoft-security-academy/sfiseries"
           tag: msa
         - title: Security Copilot
           url: "skilling/microsoft-security-academy/microsoft-copilot-for-security"
@@ -332,12 +335,6 @@
             - title: Q&A
               url: "skilling/microsoft-security-academy/microsoft-copilot-for-security-qa"
               tag: msa
-        - title: Secure Future Initiative 
-          url: "skilling/microsoft-security-academy/sfi"
-          tag: msa
-        - title: Back to basics series
-          url: "skilling/microsoft-security-academy/sfiseries"
-          tag: msa
         - title: Modules
           url: "skilling/microsoft-security-academy/modules"
           tag: msa
@@ -363,6 +360,9 @@
             - title: Endpoint Security
               url: "skilling/microsoft-security-academy/endpoint-academy"
               tag: msa
+        - title: Secure Future Initiative 
+          url: "skilling/microsoft-security-academy/sfi"
+          tag: msa
         - title: Other Resources
           url: "skilling/microsoft-security-academy/resources"
           tag: msa
