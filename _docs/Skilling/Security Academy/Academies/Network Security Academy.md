@@ -22,7 +22,7 @@ Explore Azure Network Security videos with demos delivered directly to partners,
 <table>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/qPz5ldEBrk0"><img src="https://img.youtube.com/vi/qPz5ldEBrk0/hqdefault.jpg" alt="NEW: Implementing Multi-Layered Security with Azure DDoS Protection and Azure WAF" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/qPz5ldEBrk0"><b>NEW: Implementing Multi-Layered Security with Azure DDoS Protection and Azure WAF</b></a><br><br>Explore how Azure DDoS Protection and Web Application Firewall (WAF) work together to create a resilient, high-performing, multi-layered security strategy for your apps and network.</td>
+    <td><a href="https://youtu.be/qPz5ldEBrk0"><b>NEW: Implementing Multi-Layered Security with Azure DDoS Protection and Azure WAF</b></a><br><br>Explore how Azure DDoS Protection and Web Application Firewall (WAF) work together to create a resilient, high-performing, and multi-layered security strategy for your apps and network.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/_2C3yQzWLzQ"><img src="https://img.youtube.com/vi/_2C3yQzWLzQ/maxresdefault.jpg" alt="NEW: Updating Your Azure Web Application Firewall (WAF)  Ruleset: Common Pitfalls and How to Avoid Them" width="400" height="400"></a></td>

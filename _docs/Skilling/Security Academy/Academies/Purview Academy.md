@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Purview
 description: Microsoft Purview
 permalink: /skilling/microsoft-security-academy/purview-academy
-updated: 2025-01-06
+updated: 2025-04-11
 showbreadcrumb: true
 Tags:
 - academy content
