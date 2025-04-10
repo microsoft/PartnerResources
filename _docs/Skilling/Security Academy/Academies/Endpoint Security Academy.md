@@ -10,7 +10,7 @@ tags:
 - microsoft security academy
 ---
 
-## Microsoft Endpoint Security ***Retired***
+## Microsoft Endpoint Security ***Page Retired***
 Explore Microsoft Defender for Endpoint and Microsoft Defender for IoT videos with demos delivered directly to partners, relevant certifications, and further resources.
 
 #### Stay connected with the [Microsoft Defender for Endpoint Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog) and the [Microsoft Defender for IoT Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog).🔗
