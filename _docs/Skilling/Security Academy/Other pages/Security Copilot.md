@@ -33,9 +33,7 @@ This page is organized into three parts -- Learn, Extend, and Driving Adoption.
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#overview">Overview</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding">Onboarding</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started">Get Started</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#features">Features</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#use-cases">Use Cases</a></li>
-                <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#demos">Demos</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#videos">Videos</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#roles-beyond-soc-analysts">Roles</a></li>
                 <li><a href="/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#announcements--whitepapers">Announcements & Whitepapers</a></li>
@@ -168,23 +166,23 @@ This is a great step forward for MSSPs looking to bring AI-driven security to th
 * [Apply principles of Zero Trust to Microsoft Security Copilot](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
 * [Exploring Security Copilot to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
 
-#### Optional esources for after your first few weeks or months
+#### Optional resources for after your first few months
+
+##### Useful for analysts
+
+* [Next-Gen device incident investigation and threat hunting with custom plugins](https://techcommunity.microsoft.com/blog/securitycopilotblog/next-gen-device-incident-investigation--threat-hunting-with-custom-plugins/4374397?utm_source=substack&utm_medium=email)
+* [Accelerating anomalous sign-in detection with Security Copilot + Entra ID](https://techcommunity.microsoft.com/blog/securitycopilotblog/accelerating-the-anomalous-sign-ins-detection-with-microsoft-entra-id-and-securi/4365435?utm_source=substack&utm_medium=email)
+* [Monitoring user activities and system events with Security Copilot + Sentinel](https://techcommunity.microsoft.com/blog/securitycopilotblog/monitor-user-activities-and-system-events-with-security-copilot-and-microsoft-se/4303368?utm_source=substack&utm_medium=email)
+
+##### Useful for customization
+
+* [Leveraging ASIM-based KQL plugins in Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/leveraging-asim-based-kql-plugins-in-microsoft-security-copilot-for-investigatio/4357680?utm_source=substack&utm_medium=email)
+* [Custom Identity Analyst plugin](https://techcommunity.microsoft.com/blog/securitycopilotblog/identity-forensics-with-copilot-for-security-identity-analyst-plugin/4278180)
+* [Custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
+
+##### Useful for extension
 
 * [Extending Security Copilot with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267?utm_source=substack&utm_medium=email)
-* [Customize and Optimize Security Copilot with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
-* [Identity forensics with Security Copilot Identity Analyst Plugin](https://techcommunity.microsoft.com/blog/securitycopilotblog/identity-forensics-with-copilot-for-security-identity-analyst-plugin/4278180)
-* [Monitor User Activities and System Events with Security Copilot and Microsoft Sentinel](https://techcommunity.microsoft.com/blog/securitycopilotblog/monitor-user-activities-and-system-events-with-security-copilot-and-microsoft-se/4303368?utm_source=substack&utm_medium=email)
-* [Leveraging ASIM-based KQL plugins in Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/leveraging-asim-based-kql-plugins-in-microsoft-security-copilot-for-investigatio/4357680?utm_source=substack&utm_medium=email)
-* [Accelerating the Anomalous Sign-Ins detection with Microsoft Entra ID and Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/accelerating-the-anomalous-sign-ins-detection-with-microsoft-entra-id-and-securi/4365435?utm_source=substack&utm_medium=email)
-* **NEW:** [Next-Gen Device Incident Investigation & Threat Hunting with Custom Plugins](https://techcommunity.microsoft.com/blog/securitycopilotblog/next-gen-device-incident-investigation--threat-hunting-with-custom-plugins/4374397?utm_source=substack&utm_medium=email)
-
-
-### Features
-
-* Incident Summarization — Summarize incidents, vulnerabilities, and threats in minutes and prepare the information in ready-to-share reports.
-* Impact Analysis — Assess impact and receive insights into your affected systems.
-* Reverse Script Engineering — Analyze complex command line scripts and translate them into natural language with clear explanations of actions.
-* Guided Response — Receive actionable step-by-step guidance, including for triage, investigation, and remediation.
 
 ### Use Cases
 
@@ -204,15 +202,6 @@ This is a great step forward for MSSPs looking to bring AI-driven security to th
 * [Remediate recommendations in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/remediate-with-copilot)
 * [Delegate recommendations in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/delegate-with-copilot)
 * [Remediate code in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/remediate-code-with-copilot)
-
-### Demos
-
-* [Business Email Compromise (BEC)](https://securitypartners.transform.microsoft.com/copilot-for-security-demo-01)
-* [Human-operated ransomware (HumOR)](https://securitypartners.transform.microsoft.com/copilot-for-security-demo-02)
-* [Defender XDR Embedded Copilot to Standalone Copilot investigation](https://securitypartners.transform.microsoft.com/copilot-for-security-demo-03)
-* [Extended user account investigation](https://securitypartners.transform.microsoft.com/copilot-for-security-demo-04)
-* [Cloud compromise](https://securitypartners.transform.microsoft.com/copilot-for-security-demo-05)
-* [Troubleshooting](https://securitypartners.transform.microsoft.com/copilot-for-security-demo-06)
 
 #### Also explore our [Microsoft Security Copilot Instructional Demo Videos](https://youtube.com/playlist?list=PLmAptfqzxVEW6hqgkKT_a4LNnBQm4omQq&si=ESe0reET31um8dfc)📹
 
@@ -241,10 +230,6 @@ We recommend watching the following videos created by Microsoft Security and the
    <td><a href="https://youtu.be/DSL-nPWUXlY?si=NSQvyGyhMakPGLZX"><img src="https://img.youtube.com/vi/DSL-nPWUXlY/maxresdefault.jpg" alt="Security Copilot Responsible AI
 " width="400" height="400"></a></td>
     <td><a href="https://youtu.be/DSL-nPWUXlY?si=NSQvyGyhMakPGLZX"><b>Security Copilot Responsible AI</b></a><br><br>Learn how Security Copilot mitigates Responsible AI issues and explore Generative AI threats, including prompt injection attacks, disinformation campaigns, spear phishing, etc., and how we at Microsoft defeat them.</td>
-  </tr>
-  <tr style="vertical-align:top">
-   <td><a href="https://youtu.be/0lg_derTkaM"><img src="https://img.youtube.com/vi/0lg_derTkaM/hqdefault.jpg" alt="How Microsoft Security Copilot works" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/0lg_derTkaM"><b>How Microsoft Security Copilot works</b></a><br><br>Ryan Munsch, from the Security Copilot team, joins host Jeremy Chapman to share how Security Copilot is an enterprise-grade natural language interface for your organization's security data.</td>
   </tr>
 </table>
 
