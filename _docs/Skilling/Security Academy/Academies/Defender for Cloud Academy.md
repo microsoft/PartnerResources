@@ -25,8 +25,8 @@ Explore Microsoft Defender for Cloud videos with demos delivered directly to par
     <td><a href="https://youtu.be/6AcHlUj4wpo"><b>NEW: Securing the Future with Microsoft Defender for Cloud Best Practices and Insights🆕</b></a><br><br>Gain insights from SANS and Microsoft experts on how to secure complex cloud environments using Microsoft Defender for Cloud, with a focus on posture management, DevOps security, threat detection, and SIEM integration.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/YQw8py7ThME"><img src="https://img.youtube.com/vi/YQw8py7ThME/maxresdefault.jpg" alt="NEW: API Security Posture" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/YQw8py7ThME"><b>NEW: API Security Posture</b></a><br><br>Learn about API security posture features within Microsoft Defender for Cloud!🆕</td>
+    <td><a href="https://youtu.be/YQw8py7ThME"><img src="https://img.youtube.com/vi/YQw8py7ThME/maxresdefault.jpg" alt="NEW: API Security Posture🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/YQw8py7ThME"><b>NEW: API Security Posture🆕</b></a><br><br>Learn about API security posture features within Microsoft Defender for Cloud!</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/ufmXO_J9Yag"><img src="https://img.youtube.com/vi/ufmXO_J9Yag/maxresdefault.jpg" alt="Future-Proofing Cloud Security with Defender CSPM" width="400" height="400"></a></td>

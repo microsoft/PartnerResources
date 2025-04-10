@@ -65,7 +65,7 @@ ___
 
 **[Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Defender XDR](/PartnerResources/skilling/microsoft-security-academy/dxdr-academy)**, **[Entra](/PartnerResources/skilling/microsoft-security-academy/entra-academy)**, and **[Azure Network Security](/PartnerResources/skilling/microsoft-security-academy/network-academy)** |
 
-A reminder that **[M365 Maps](https://m365maps.com/)** should be your go-to for all things licensing 🔍
+A seasonal reminder that **[M365 Maps](https://m365maps.com/)** should be your go-to for all things licensing 🔍
 
 Big news for SMBs! E5 is now available as an add-on to Business Premium — read about the announcement **[here](https://techcommunity.microsoft.com/blog/microsoft365businessblog/microsoft-365-e5-security-is-now-available-as-an-add-on-to-microsoft-365-busines/4388436)**!🆕
 
