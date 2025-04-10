@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Entra
 description: Microsoft Entra
 permalink: /skilling/microsoft-security-academy/entra-academy
-updated: 2025-02-27
+updated: 2025-04-11
 showbreadcrumb: true
 Tags:
 - academy content
@@ -20,6 +20,19 @@ Explore Microsoft Entra videos with demos delivered directly to partners, releva
 
 
 <table>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be//BKLvA0p_v1g"><img src="https://img.youtube.com/vi/BKLvA0p_v1g/maxresdefault.jpg" alt="425 Show | Global Secure Access Proof-of-Concept Deep Dive" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//BKLvA0p_v1g"><b>425 Show | Global Secure Access Proof-of-Concept Deep Dive</b></a><br><br>In part two of our series, get hands-on with proof-of-concept guidance for Microsoft Global Secure Access—explore key testing scenarios, production-ready architecture, and how to define success.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be//2OSbu7d8IOU"><img src="https://img.youtube.com/vi/2OSbu7d8IOU/maxresdefault.jpg" alt="425 Show | Is Global Secure Access Right for You?" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//2OSbu7d8IOU"><b>425 Show | Is Global Secure Access Right for You?</b></a><br><br>Join our three-part series on Microsoft’s Global Secure Access and learn how this SSE solution protects cloud access with real-world scenarios and insights from the engineering team.</td>
+  </tr>
+  <tr style="ve
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be//6M6u6mlD1mM"><img src="https://img.youtube.com/vi/6M6u6mlD1mM/maxresdefault.jpg" alt="Securing B2B Collaboration with Microsoft Entra ID" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//6M6u6mlD1mM"><b>Securing B2B Collaboration with Microsoft Entra ID</b></a><br><br>Learn how Entra ID simplifies guest access with tools to limit external access, protect outbound data, and deploy best practices using Cross-Tenant Access, Tenant Restrictions, and new Global Secure Access features.</td>
+  </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be//Hp_zSuXLv3E"><img src="https://img.youtube.com/vi/Hp_zSuXLv3E/maxresdefault.jpg" alt="425 Show | Onboarding to Intune macOS with Entra" width="400" height="400"></a></td>
     <td><a href="https://youtu.be//Hp_zSuXLv3E"><b>425 Show | Onboarding to Intune macOS with Entra</b></a><br><br>Learn how to get your macOS devices onboarded and protected with Entra solutions, including FileVault, passwordless management, and Platform SSO.</td>
@@ -63,20 +76,4 @@ Explore Microsoft Entra videos with demos delivered directly to partners, releva
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be//BN0fkTUCsco"><img src="https://img.youtube.com/vi/BN0fkTUCsco/maxresdefault.jpg" alt="Simplified Passkey Provisioning with Microsoft & Yubico" width="400" height="400"></a></td>
     <td><a href="https://youtu.be//BN0fkTUCsco"><b>Simplified Passkey Provisioning with Microsoft & Yubico</b></a><br><br>Learn how Microsoft and Yubico's new Entra ID passkey (FIDO2) provisioning APIs enable quick and effective deployment of phishing-resistant MFA.</td>
-  </tr>
-  <tr style="vertical-align:top">
-    <td><a href="https://youtu.be//od-aeScjlNw"><img src="https://img.youtube.com/vi/od-aeScjlNw/maxresdefault.jpg" alt="425 Show | Microsoft’s Solution for SSE" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be//od-aeScjlNw"><b>425 Show | Microsoft’s Solution for SSE</b></a><br><br>Learn how Microsoft Security Service Edge fortifies Entra ID's security by decommissioning VPN access, securing Microsoft 365 traffic, and improving internet and SaaS app security, with guidance from the Microsoft Product Group.</td>
-  </tr>
-  <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/-RFDYX8Qjus"><img src="https://img.youtube.com/vi/-RFDYX8Qjus/maxresdefault.jpg" alt="All Things Microsoft Entra AAD" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/-RFDYX8Qjus"><b>All Things Microsoft Entra AAD</b></a><br><br>Explore Azure AD authentication methods (e.g., password, multi-factor, certificate-based). Learn about Single Sign-On (SSO) and Hybrid Identity, and explore AAD Secure Score, Conditional Access, and identity protection.</td>
-  </tr>
-  <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/bm_zgd1DtdQ"><img src="https://img.youtube.com/vi/bm_zgd1DtdQ/maxresdefault.jpg" alt="All Things Microsoft Entra Identity Governance (IGA)" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/bm_zgd1DtdQ"><b>All Things Microsoft Entra Identity Governance (IGA)</b></a><br><br>Dive into Entitlements Management, access reviews, lifecycle workflows, and Privileged Identity Management (PIM). Explore in-depth demos that analyze new features, such as Access Reviews with Verified ID and Conditional Access integration with PIM.</td>
-  </tr>
-  <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/wmJA5orgODA"><img src="https://img.youtube.com/vi/wmJA5orgODA/maxresdefault.jpg" alt="All Things Microsoft Entra Permissions Management (EPM)" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/wmJA5orgODA"><b>All Things Microsoft Entra Permissions Management (EPM)</b></a><br><br>Step into the realm of Microsoft Entra Permissions Management (EPM), formerly known as CloudKnox — a CIEM (Cloud Infrastructure Entitlement Management) solution.</td>
   </tr>
