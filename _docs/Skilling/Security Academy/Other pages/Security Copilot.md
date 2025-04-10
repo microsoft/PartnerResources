@@ -78,16 +78,15 @@ ___
 
 **Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
 
-We *finally* published official documentation for the Splunk plugin in Security Copilot. If you’ve been waiting to get started, now’s the time to check it out **[here](https://learn.microsoft.com/en-us/copilot/security/plugin-splunk?utm_source=substack&utm_medium=email)**🚨
-
+We *finally* published **[official documentation](https://learn.microsoft.com/en-us/copilot/security/plugin-splunk?utm_source=substack&utm_medium=email)** for the Splunk plugin in Security Copilot📌 
 
 MSSPs, this one’s for you: **[Security Copilot support for Azure Lighthouse is now in public preview](https://techcommunity.microsoft.com/blog/SecurityCopilotBlog/azure-lighthouse-support-for-mssp-use-of-security-copilot-sentinel-scenarios-in-/4384386?utm_source=substack&utm_medium=email)**
 
-If you've been waiting to use Security Copilot with your managed customers, good news: support is here (well, ***mostly***). So, what's the catch? As of today, MSSPs can ***only invoke Sentinel skills*** on their customer tenant via the ***Security Copilot standalone portal.*** In the future, this will expand to include other skills such as Entra, Intune, Purview, and the list goes on. What's changed? MSSPs can now use Security Copilot ***without requiring the customers to purchase SCUs themselves.*** 
+If you've been waiting to use Security Copilot with your managed customers, good news: support is here (well, *mostly*). So, what's the catch? As of today, MSSPs can ***only invoke Sentinel skills*** on their customers' tenants via the ***Security Copilot standalone portal.*** In the future, this will expand to include other skills such as Entra, Intune, Purview, and the list goes on. What's changed? Customers are no longer required to ***purchase the SCUs themselves.***
 
 To get started...
 
-1. an MSSP admin should provision SCUs (including the new **Overage SCUs**, which are $6 per SCU/hour and billed only on usage), and apply them to your Azure Lighthouse subscription
+1.An MSSP admin should provision SCUs (including the new **Overage SCUs**, which are $6 per SCU/hour and billed only on usage), and apply them to your Azure Lighthouse subscription
 2. make sure you have access to your customer’s Sentinel workspace
 
 Who doesn't want to make incident response in Sentinel faster and smarter? **[This new post](https://www.linkedin.com/pulse/incident-enrichment-security-copilot-stefano-pescosolido-hldcf/)** walks through how you can use Security Copilot with Logic Apps and MDTI to automatically enrich incidents, cut down triage time, and get better insights.
