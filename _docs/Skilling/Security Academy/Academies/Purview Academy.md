@@ -23,6 +23,14 @@ Explore Microsoft Purview videos with demos delivered directly to partners, rele
 
 <table>
   <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/GP4RTnj5URE"><img src="https://img.youtube.com/vi/GP4RTnj5URE/maxresdefault.jpg" alt="Unlocking the Power of Microsoft Purview for ChatGPT Enterprise🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/GP4RTnj5URE"><b>Unlocking the Power of Microsoft Purview for ChatGPT Enterprise🆕</b></a><br><br>Explore the integration of Microsoft Purview and ChatGPT Enterprise — learn how to capture interactions, meet compliance needs, and unlock smarter data management with AI-powered insights.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/DL8jVZ76pyo"><img src="https://img.youtube.com/vi/DL8jVZ76pyo/maxresdefault.jpg" alt="Inheriting Sensitivity Labels from Shared Files to Teams Meetings🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/DL8jVZ76pyo"><b>Inheriting Sensitivity Labels from Shared Files to Teams Meetings🆕</b></a><br><br>Microsoft Purview now supports label inheritance for Teams meetings, automatically or optionally aligning meeting sensitivity with shared files!</td>
+  </tr>
+  <tr style="vertical-align:top">
     <td><a href="https://youtu.be/yYah1FFACZM"><img src="https://img.youtube.com/vi/yYah1FFACZM/maxresdefault.jpg" alt="Microsoft Purview eDiscovery Modern UX" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/yYah1FFACZM"><b>Microsoft Purview eDiscovery Modern UX</b></a><br><br>Explore the new Purview eDiscovery UI, highlighting its optimized design and enhanced features that simplify and improve the user experience.</td>
   </tr>
@@ -36,11 +44,11 @@ Explore Microsoft Purview videos with demos delivered directly to partners, rele
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/lHGaAJTdCF8"><img src="https://img.youtube.com/vi/lHGaAJTdCF8/maxresdefault.jpg" alt="Data Lifecycle Management & Records Management" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/lHGaAJTdCF8"><b>Data Lifecycle Management & Records Management</b></a><br><br>Data Lifecycle Management (DLM) and Records Management (RM) are key to information management. DLM governs data from creation to disposal, ensuring efficiency and compliance. RM systematically controls records, maintaining them as evidence of business activities.</td>
+    <td><a href="https://youtu.be/lHGaAJTdCF8"><b>Data Lifecycle Management & Records Management</b></a><br><br>Data Lifecycle Management (DLM) and Records Management (RM) are key to information management. DLM governs data from creation to disposal, ensuring compliance. RM systematically controls records, maintaining them as evidence of business activities.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/LZZphUPvYr4"><img src="https://img.youtube.com/vi/LZZphUPvYr4/maxresdefault.jpg" alt="Collecting Copilot Interactions using Purview eDiscovery" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/LZZphUPvYr4"><b>Collecting Copilot Interactions using Purview eDiscovery</b></a><br><br>Use Microsoft Purview eDiscovery to accelerate your organization's adoption of Microsoft Copilot. Learn how to provide additional data security and compliance controls by preserving, identifying, collecting, and exporting Copilot for Microsoft 365 interactions.</td>
+    <td><a href="https://youtu.be/LZZphUPvYr4"><b>Collecting Copilot Interactions using Purview eDiscovery</b></a><br><br>Use Microsoft Purview eDiscovery to accelerate your organization's adoption of Microsoft Copilot. Learn how to provide additional data security and compliance controls by preserving, identifying, collecting, and exporting M365 Copilot interactions.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/TmJIialc2e8"><img src="https://img.youtube.com/vi/TmJIialc2e8/maxresdefault.jpg" alt="Implementing the NIST AI RMF: A Roadmap to Responsible AI" width="400" height="400"></a></td>
