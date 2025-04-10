@@ -42,7 +42,7 @@ Explore Azure Network Security videos with demos delivered directly to partners,
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/3x5J65e4OVY"><img src="https://img.youtube.com/vi/3x5J65e4OVY/maxresdefault.jpg" alt="Azure WAF Bot Protection: Features, Benefits, and Best Practices" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/3x5J65e4OVY"><b>Azure WAF Bot Protection: Features, Benefits, and Best Practices</b></a><br><br>Learn about Azure Web Application Firewall's (WAF) bot protection capabilities, features, and benefits, focusing on how to defend against malicious bots and best practices for protecting web apps.</td>
+    <td><a href="https://youtu.be/3x5J65e4OVY"><b>Azure WAF Bot Protection: Features, Benefits, and Best Practices</b></a><br><br>Malicious bots are getting smarter — learn how Azure WAF’s bot protection can outsmart them, and how to keep your web apps locked down with best practices that work.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/PkdFIBvMVlw"><img src="https://img.youtube.com/vi/nXduz5YPLFc/maxresdefault.jpg" alt="Azure WAF Integration in Microsoft Security Copilot" width="400" height="400"></a></td>

@@ -26,7 +26,7 @@ Explore Microsoft Defender for Cloud videos with demos delivered directly to par
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/YQw8py7ThME"><img src="https://img.youtube.com/vi/YQw8py7ThME/maxresdefault.jpg" alt="NEW: API Security Posture" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/YQw8py7ThME"><b>NEW: API Security Posture</b></a><br><br>Learn about API security posture features within Microsoft Defender for Cloud!</td>
+    <td><a href="https://youtu.be/YQw8py7ThME"><b>NEW: API Security Posture</b></a><br><br>Learn about API security posture features within Microsoft Defender for Cloud!🆕</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/ufmXO_J9Yag"><img src="https://img.youtube.com/vi/ufmXO_J9Yag/maxresdefault.jpg" alt="Future-Proofing Cloud Security with Defender CSPM" width="400" height="400"></a></td>
