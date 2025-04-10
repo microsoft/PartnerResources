@@ -78,7 +78,7 @@ ___
 
 **Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
 
-We *finally* published **[official documentation](https://learn.microsoft.com/en-us/copilot/security/plugin-splunk?utm_source=substack&utm_medium=email)** for the Splunk plugin in Security Copilot📌 
+We *finally* published **[official documentation](https://learn.microsoft.com/en-us/copilot/security/plugin-splunk?utm_source=substack&utm_medium=email)** on the Splunk plugin in Security Copilot📌
 
 MSSPs, this one’s for you: **[Security Copilot support for Azure Lighthouse is now in public preview](https://techcommunity.microsoft.com/blog/SecurityCopilotBlog/azure-lighthouse-support-for-mssp-use-of-security-copilot-sentinel-scenarios-in-/4384386?utm_source=substack&utm_medium=email)**
 
@@ -86,12 +86,18 @@ If you've been waiting to use Security Copilot with your managed customers, good
 
 To get started...
 
-1.An MSSP admin should provision SCUs (including the new **Overage SCUs**, which are $6 per SCU/hour and billed only on usage), and apply them to your Azure Lighthouse subscription
+1. An MSSP admin should provision SCUs (including the new **[Overage SCUs](https://learn.microsoft.com/en-us/copilot/security/manage-usage#how-provisioned-and-overage-scus-are-billed)**, which are $6 per SCU/hour and billed only on usage), and apply them to your Azure Lighthouse subscription
 2. make sure you have access to your customer’s Sentinel workspace
+
+
+Just last week, we announced **[Security Copilot agents](https://www.microsoft.com/en-us/security/blog/2025/03/24/microsoft-unveils-microsoft-security-copilot-agents-and-new-protections-for-ai/?msockid=330c4da567d667543ffd5c5666b966cf)** that automate repetitive, noisy tasks like user-reported phishing alerts, conditional access policy gaps for new users and apps, and DLP/IRM alerts.
+
+Think of these agents ***more like advanced workflows*** or simplified Logic Apps — automated, *mostly* trigger-based sequences for specific tasks + you can guide them with feedback/custom instructions in natural language. Most won’t take action for you, but they'll help you prioritize (e.g., classifying phish alerts as true or false positive, one-click fixes for users outside existing MFA policies, ...)
 
 Who doesn't want to make incident response in Sentinel faster and smarter? **[This new post](https://www.linkedin.com/pulse/incident-enrichment-security-copilot-stefano-pescosolido-hldcf/)** walks through how you can use Security Copilot with Logic Apps and MDTI to automatically enrich incidents, cut down triage time, and get better insights.
 
 Security Copilot egress IPs are **[now published](https://learn.microsoft.com/en-us/copilot/security/plugin-ip-address?utm_source=substack&utm_medium=email)** to help you send requests and receive responses from your plugins!
+
 
 ### Older news
 
