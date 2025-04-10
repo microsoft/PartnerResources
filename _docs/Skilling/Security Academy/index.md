@@ -61,9 +61,7 @@ ___
 
 ## April 11th, 2025 Update📰
 
-**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**, **[Back to basics series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)**, TBD
-
-**[Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Defender XDR](/PartnerResources/skilling/microsoft-security-academy/dxdr-academy)**, **[Entra](/PartnerResources/skilling/microsoft-security-academy/entra-academy)**, and **[Azure Network Security](/PartnerResources/skilling/microsoft-security-academy/network-academy)** |
+**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**, **[Back to basics series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)**, ***all*** **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)**, and **[Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**, **[Defender XDR](/PartnerResources/skilling/microsoft-security-academy/dxdr-academy)**
 
 A seasonal reminder that **[M365 Maps](https://m365maps.com/)** should be your go-to for all things licensing 🔍
 
