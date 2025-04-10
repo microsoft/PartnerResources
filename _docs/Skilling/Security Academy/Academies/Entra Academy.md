@@ -21,16 +21,16 @@ Explore Microsoft Entra videos with demos delivered directly to partners, releva
 
 <table>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be//BKLvA0p_v1g"><img src="https://img.youtube.com/vi/BKLvA0p_v1g/maxresdefault.jpg" alt="425 Show | Global Secure Access Proof-of-Concept Deep Dive" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//BKLvA0p_v1g"><img src="https://img.youtube.com/vi/BKLvA0p_v1g/maxresdefault.jpg" alt="NEW: 425 Show | Global Secure Access Proof-of-Concept Deep Dive" width="400" height="400"></a></td>
     <td><a href="https://youtu.be//BKLvA0p_v1g"><b>425 Show | Global Secure Access Proof-of-Concept Deep Dive</b></a><br><br>In part two of our series, get hands-on with proof-of-concept guidance for Microsoft Global Secure Access—explore key testing scenarios, production-ready architecture, and how to define success.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be//2OSbu7d8IOU"><img src="https://img.youtube.com/vi/2OSbu7d8IOU/maxresdefault.jpg" alt="425 Show | Is Global Secure Access Right for You?" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//2OSbu7d8IOU"><img src="https://img.youtube.com/vi/2OSbu7d8IOU/maxresdefault.jpg" alt="NEW: 425 Show | Is Global Secure Access Right for You?" width="400" height="400"></a></td>
     <td><a href="https://youtu.be//2OSbu7d8IOU"><b>425 Show | Is Global Secure Access Right for You?</b></a><br><br>Join our three-part series on Microsoft’s Global Secure Access and learn how this SSE solution protects cloud access with real-world scenarios and insights from the engineering team.</td>
   </tr>
   <tr style="ve
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be//6M6u6mlD1mM"><img src="https://img.youtube.com/vi/6M6u6mlD1mM/maxresdefault.jpg" alt="Securing B2B Collaboration with Microsoft Entra ID" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//6M6u6mlD1mM"><img src="https://img.youtube.com/vi/6M6u6mlD1mM/maxresdefault.jpg" alt="NEW: Securing B2B Collaboration with Microsoft Entra ID" width="400" height="400"></a></td>
     <td><a href="https://youtu.be//6M6u6mlD1mM"><b>Securing B2B Collaboration with Microsoft Entra ID</b></a><br><br>Learn how Entra ID simplifies guest access with tools to limit external access, protect outbound data, and deploy best practices using Cross-Tenant Access, Tenant Restrictions, and new Global Secure Access features.</td>
   </tr>
   <tr style="vertical-align:top">

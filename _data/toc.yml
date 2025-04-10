@@ -360,9 +360,6 @@
             - title: Azure Network Security
               url: "skilling/microsoft-security-academy/network-academy"
               tag: msa
-            - title: Endpoint Security
-              url: "skilling/microsoft-security-academy/endpoint-academy"
-              tag: msa
         - title: Secure Future Initiative 
           url: "skilling/microsoft-security-academy/sfi"
           tag: msa

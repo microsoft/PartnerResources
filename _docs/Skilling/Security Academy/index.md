@@ -35,7 +35,6 @@ showbreadcrumb: true
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/entra-academy">Microsoft Entra</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/purview-academy">Microsoft Purview</a></li>
                         <li><a href="/PartnerResources/skilling/microsoft-security-academy/network-academy">Azure Network Security</a></li>
-                        <li><a href="/PartnerResources/skilling/microsoft-security-academy/endpoint-academy">Endpoint Security</a></li>
                     </ul>
                 </td>
             </tr>
