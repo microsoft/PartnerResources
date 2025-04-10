@@ -21,25 +21,24 @@ Explore Microsoft Entra videos with demos delivered directly to partners, releva
 
 <table>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be//BKLvA0p_v1g"><img src="https://img.youtube.com/vi/BKLvA0p_v1g/maxresdefault.jpg" alt="NEW: 425 Show | Global Secure Access Proof-of-Concept Deep Dive" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be//BKLvA0p_v1g"><b>NEW: 425 Show | Global Secure Access Proof-of-Concept Deep Dive</b></a><br><br>In part two of our series, get hands-on with proof-of-concept guidance for Microsoft Global Secure Access—explore key testing scenarios, production-ready architecture, and how to define success.</td>
+    <td><a href="https://youtu.be//BKLvA0p_v1g"><img src="https://img.youtube.com/vi/BKLvA0p_v1g/maxresdefault.jpg" alt="NEW: 425 Show | Global Secure Access Proof-of-Concept Deep Dive🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//BKLvA0p_v1g"><b>NEW: 425 Show | Global Secure Access Proof-of-Concept Deep Dive🆕</b></a><br><br>In part two of our series, get hands-on with proof-of-concept guidance for Microsoft Global Secure Access — explore key testing scenarios, production-ready architecture, and how to define success.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be//2OSbu7d8IOU"><img src="https://img.youtube.com/vi/2OSbu7d8IOU/maxresdefault.jpg" alt="NEW: 425 Show | Is Global Secure Access Right for You?" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be//2OSbu7d8IOU"><b>NEW: 425 Show | Is Global Secure Access Right for You?</b></a><br><br>Join our three-part series on Microsoft’s Global Secure Access and learn how this SSE solution protects cloud access with real-world scenarios and insights from the engineering team.</td>
+    <td><a href="https://youtu.be//2OSbu7d8IOU"><img src="https://img.youtube.com/vi/2OSbu7d8IOU/maxresdefault.jpg" alt="NEW: 425 Show | Is Global Secure Access Right for You?🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//2OSbu7d8IOU"><b>NEW: 425 Show | Is Global Secure Access Right for You?🆕</b></a><br><br>Join our three-part series on Microsoft’s Global Secure Access and learn how this SSE solution protects cloud access, with insights from the engineering team!</td>
   </tr>
-  <tr style="ve
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be//6M6u6mlD1mM"><img src="https://img.youtube.com/vi/6M6u6mlD1mM/maxresdefault.jpg" alt="NEW: Securing B2B Collaboration with Microsoft Entra ID" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be//6M6u6mlD1mM"><b>NEW: Securing B2B Collaboration with Microsoft Entra ID</b></a><br><br>Learn how Entra ID simplifies guest access with tools to limit external access, protect outbound data, and deploy best practices using Cross-Tenant Access, Tenant Restrictions, and new Global Secure Access features.</td>
+    <td><a href="https://youtu.be//6M6u6mlD1mM"><img src="https://img.youtube.com/vi/6M6u6mlD1mM/maxresdefault.jpg" alt="NEW: Securing B2B Collaboration with Microsoft Entra ID🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//6M6u6mlD1mM"><b>NEW: Securing B2B Collaboration with Microsoft Entra ID🆕</b></a><br><br>Learn how Entra ID simplifies guest access with tools to limit external access, protect outbound data, and deploy best practices using cross-tenant access, tenant restrictions, and new Global Secure Access features.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be//Hp_zSuXLv3E"><img src="https://img.youtube.com/vi/Hp_zSuXLv3E/maxresdefault.jpg" alt="425 Show | Onboarding to Intune macOS with Entra" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be//Hp_zSuXLv3E"><b>425 Show | Onboarding to Intune macOS with Entra</b></a><br><br>Learn how to get your macOS devices onboarded and protected with Entra solutions, including FileVault, passwordless management, and Platform SSO.</td>
+    <td><a href="https://youtu.be//Hp_zSuXLv3E"><b>425 Show | Onboarding to Intune macOS with Entra</b></a><br><br>Learn how to get your macOS devices onboarded and protected by Entra, including FileVault, passwordless management, and Platform SSO.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be//L78nU6DzdKw"><img src="https://img.youtube.com/vi/L78nU6DzdKw/maxresdefault.jpg" alt="Migrating from AD to Entra ID" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be//L78nU6DzdKw"><b>Migrating from AD to Entra ID</b></a><br><br>Learn about key milestones and recommendations for transitioning from Active Directory to Microsoft Entra ID, guided by Microsoft Identity and Network Access Product Managers.</td>
+    <td><a href="https://youtu.be//L78nU6DzdKw"><b>Migrating from AD to Entra ID</b></a><br><br>Learn about key milestones and recommendations for transitioning from Active Directory to Microsoft Entra ID, guided by Microsoft Identity and Network Access PMs.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be//GO5SSX77YMc"><img src="https://img.youtube.com/vi/GO5SSX77YMc/maxresdefault.jpg" alt="425 Show | Securing Generative AI with Microsoft Entra" width="400" height="400"></a></td>
@@ -55,7 +54,7 @@ Explore Microsoft Entra videos with demos delivered directly to partners, releva
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/3jBMXxeORQ0"><img src="https://img.youtube.com/vi/3jBMXxeORQ0/maxresdefault.jpg" alt="Microsoft Entra Verified ID: Seamless Remote Onboarding & Secure Access!" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/3jBMXxeORQ0"><b>Microsoft Entra Verified ID: Seamless Remote Onboarding & Secure Access!</b></a><br><br>Discover how Microsoft Entra enhances security for high-value applications and streamlines remote user onboarding.</td>
+    <td><a href="https://youtu.be/3jBMXxeORQ0"><b>Microsoft Entra Verified ID: Seamless Remote Onboarding & Secure Access!</b></a><br><br>Discover how Microsoft Entra strengthens security for high-value apps and streamlines remote user onboarding.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/bL0SvGVe474"><img src="https://img.youtube.com/vi/bL0SvGVe474/maxresdefault.jpg" alt="425 Show | Best Practices for Deploying Platform SSO with Microsoft Entra ID" width="400" height="400"></a></td>
