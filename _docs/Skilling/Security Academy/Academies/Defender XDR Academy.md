@@ -21,8 +21,8 @@ Explore Microsoft Defender XDR videos with demos delivered directly to partners,
 
 <table>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/7kGTlkZ2o0Q-"><img src="https://img.youtube.com/vi/7kGTlkZ2o0Q/maxresdefault.jpg" alt="NEW: Securing AI Applications: Real-World Threats, Protection w/ Microsoft Defender for Cloud Apps, & Q&A" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/7kGTlkZ2o0Q"><b>NEW: Securing AI Applications: Real-World Threats, Protection w/ Microsoft Defender for Cloud Apps, & Q&A</b></a><br><br>Discover how Microsoft Defender for Cloud Apps protects AI apps like DeepSeek through real-world scenarios, followed by a Q&A with the product team.</td>
+    <td><a href="https://youtu.be/7kGTlkZ2o0Q-"><img src="https://img.youtube.com/vi/7kGTlkZ2o0Q/maxresdefault.jpg" alt="NEW: Securing AI Applications: Real-World Threats, Protection w/ Microsoft Defender for Cloud Apps, & Q&A🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/7kGTlkZ2o0Q"><b>NEW: Securing AI Applications: Real-World Threats, Protection w/ Microsoft Defender for Cloud Apps, & Q&A🆕</b></a><br><br>Discover how Microsoft Defender for Cloud Apps protects AI apps like DeepSeek through real-world scenarios, followed by a Q&A with the product team.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/ydfGAZEN24U-"><img src="https://img.youtube.com/vi/ydfGAZEN24U/maxresdefault.jpg" alt="Learn About Insider Risk Management Data in Microsoft Defender XDR" width="400" height="400"></a></td>
@@ -34,7 +34,7 @@ Explore Microsoft Defender XDR videos with demos delivered directly to partners,
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/extgI6qwjxg-"><img src="https://img.youtube.com/vi/extgI6qwjxg/maxresdefault.jpg" alt="Improved SecOps Efficiency with New Detections, Advanced Hunting, and Response Flows" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/extgI6qwjxg"><b>Improved SecOps Efficiency with New Detections, Advanced Hunting, and Response Flows</b></a><br><br>Explore how to use the SecOps guide for MDO to streamline incident response, reduce false positives, and bolster your email security!</td>
+    <td><a href="https://youtu.be/extgI6qwjxg"><b>Improved SecOps Efficiency with New Detections, Advanced Hunting, and Response Flows</b></a><br><br>Explore how to use the SecOps guide for MDO to streamline incident response, reduce false positives, and strengthen your email security!</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/BIJ5BPiFhYQ-"><img src="https://img.youtube.com/vi/D8RUKcimCzE/maxresdefault.jpg" alt="New Ways for Security Teams to Protect OT Environments with Microsoft Defender XDR" width="400" height="400"></a></td>

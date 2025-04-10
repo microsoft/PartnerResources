@@ -21,12 +21,12 @@ Explore Azure Network Security videos with demos delivered directly to partners,
 
 <table>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/qPz5ldEBrk0"><img src="https://img.youtube.com/vi/qPz5ldEBrk0/hqdefault.jpg" alt="NEW: Implementing Multi-Layered Security with Azure DDoS Protection and Azure WAF" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/qPz5ldEBrk0"><b>NEW: Implementing Multi-Layered Security with Azure DDoS Protection and Azure WAF</b></a><br><br>Explore how Azure DDoS Protection and Web Application Firewall (WAF) work together to create a resilient, high-performing, and multi-layered security strategy for your apps and network.</td>
+    <td><a href="https://youtu.be/qPz5ldEBrk0"><img src="https://img.youtube.com/vi/qPz5ldEBrk0/hqdefault.jpg" alt="NEW: Implementing Multi-Layered Security with Azure DDoS Protection and Azure WAF🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/qPz5ldEBrk0"><b>NEW: Implementing Multi-Layered Security with Azure DDoS Protection and Azure WAF🆕</b></a><br><br>Explore how Azure DDoS Protection and Web Application Firewall (WAF) work together to create a resilient, high-performing, and multi-layered security strategy for your apps and network.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/_2C3yQzWLzQ"><img src="https://img.youtube.com/vi/_2C3yQzWLzQ/maxresdefault.jpg" alt="NEW: Updating Your Azure Web Application Firewall (WAF)  Ruleset: Common Pitfalls and How to Avoid Them" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/_2C3yQzWLzQ"><b>NEW: Updating Your Azure Web Application Firewall (WAF) Ruleset: Common Pitfalls and How to Avoid Them</b></a><br><br>Join us to learn how to safely update your Azure WAF ruleset, avoid common misconfigurations, and strengthen protection against threats like the OWASP Top 10!</td>
+    <td><a href="https://youtu.be/_2C3yQzWLzQ"><img src="https://img.youtube.com/vi/_2C3yQzWLzQ/maxresdefault.jpg" alt="NEW: Updating Your WAF Ruleset: Common Pitfalls and How to Avoid Them🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/_2C3yQzWLzQ"><b>NEW: Updating Your WAF Ruleset: Common Pitfalls and How to Avoid Them🆕</b></a><br><br>Learn how to safely update your Azure Web Application Firewall (WAF) ruleset, avoid common misconfigurations, and strengthen protection against threats like the OWASP Top 10!</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/3RGmQZeU98o"><img src="https://img.youtube.com/vi/3RGmQZeU98o/maxresdefault.jpg" alt="Azure Firewall Private IP DNAT and Use Cases" width="400" height="400"></a></td>
@@ -45,8 +45,8 @@ Explore Azure Network Security videos with demos delivered directly to partners,
     <td><a href="https://youtu.be/3x5J65e4OVY"><b>Azure WAF Bot Protection: Features, Benefits, and Best Practices</b></a><br><br>Learn about Azure Web Application Firewall's (WAF) bot protection capabilities, features, and benefits, focusing on how to defend against malicious bots and best practices for protecting web apps.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/PkdFIBvMVlw"><img src="https://img.youtube.com/vi/nXduz5YPLFc/maxresdefault.jpg" alt="Azure Web Application Firewall (WAF) Integration in Microsoft Security Copilot" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/PkdFIBvMVlw"><b>Azure Web Application Firewall (WAF) Integration in Microsoft Security Copilot</b></a><br><br>The Azure Web Application Firewall (WAF) integration in Microsoft Security Copilot provides comprehensive insights into Azure WAF detections, empowering Network Security analysts to ask questions about the top rules triggered, top malicious IPs, and more!</td>
+    <td><a href="https://youtu.be/PkdFIBvMVlw"><img src="https://img.youtube.com/vi/nXduz5YPLFc/maxresdefault.jpg" alt="Azure WAF Integration in Microsoft Security Copilot" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/PkdFIBvMVlw"><b>Azure WAF Integration in Microsoft Security Copilot</b></a><br><br>The Azure Web Application Firewall (WAF) integration in Microsoft Security Copilot provides insights into Azure WAF detections, empowering Network analysts to ask questions about the top rules triggered, top malicious IPs, and more!</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/kDteBLXL6kk"><img src="https://img.youtube.com/vi/kDteBLXL6kk/maxresdefault.jpg" alt="Building a DDoS Response Plan" width="400" height="400"></a></td>
