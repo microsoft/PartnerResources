@@ -87,7 +87,7 @@ If you've been waiting to use Security Copilot with your managed customers, good
 To get started...
 
 1. An MSSP admin should provision SCUs (including the new **[Overage SCUs](https://learn.microsoft.com/en-us/copilot/security/manage-usage#how-provisioned-and-overage-scus-are-billed)**, which are $6 per SCU/hour and billed only on usage), and apply them to your Azure Lighthouse subscription
-2. make sure you have access to your customer’s Sentinel workspace
+2. Make sure you have access to your customer’s Sentinel workspace
 
 
 Just last week, we announced **[Security Copilot agents](https://www.microsoft.com/en-us/security/blog/2025/03/24/microsoft-unveils-microsoft-security-copilot-agents-and-new-protections-for-ai/?msockid=330c4da567d667543ffd5c5666b966cf)** that automate repetitive, noisy tasks like user-reported phishing alerts, conditional access policy gaps for new users and apps, and DLP/IRM alerts.
@@ -115,8 +115,8 @@ If you're a member of the **[Microsoft Security Copilot Customer Connection Prog
 | **Topic** | **Date & Time** | **Register!** |
 |  AMA with the Security Copilot in Entra team           | Tuesday, April 15th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/929cde16-e6a2-4913-b28b-d0fdcf467260@72f988bf-86f1-41af-91ab-2d7cd011db47)
 |  New capabilities announced at Microsoft Secure        | Thursday, April 17th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/f7b6361f-12f7-42aa-a663-a4659bdd8798@72f988bf-86f1-41af-91ab-2d7cd011db47)
-|  Conditional Access Optimization Agent in Entra        | Thursday, May 01st @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/55f93283-dc1b-4326-bd73-2a700fdff50a@72f988bf-86f1-41af-91ab-2d7cd011db47)
-|  Splunk plugin for Security Copilot                    | Thursday, May 08th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/caeb0bcb-9165-41bc-b2d5-064f2e64b18a@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  Conditional Access Optimization Agent in Entra        | Thursday, May 1st @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/55f93283-dc1b-4326-bd73-2a700fdff50a@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  Splunk plugin for Security Copilot                    | Thursday, May 8th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/caeb0bcb-9165-41bc-b2d5-064f2e64b18a@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 
 <div>&nbsp;</div>
@@ -167,6 +167,7 @@ This is a great step forward for MSSPs looking to bring AI-driven security to th
 * [Promptbooks](https://learn.microsoft.com/en-us/security-copilot/using-promptbooks?view=o365-worldwide)
 * [Promptbooks Library](https://github.com/Azure/Copilot-For-Security/tree/main/Promptbook%20samples)
 * [What does good prompt engineering look like?](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)
+* **NEW:** [Prompt Engineering Techniques: A comprehensive repository](https://github.com/NirDiamant/Prompt_Engineering)
 * [Apply principles of Zero Trust to Microsoft Security Copilot](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
 * [Exploring Security Copilot to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
 
