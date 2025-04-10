@@ -11,7 +11,7 @@ tags:
 - security copilot
 ---
 
-# Security Copilot Technical Journey & Resources
+# Security Copilot Resources
 
 ## What is the Security Copilot Technical Journey? <img src="https://raw.githubusercontent.com/Azure/Copilot-For-Security/main/Images/ic_fluent_copilot_64_64%402x.png" alt="CfS Logo" style="width: 35px; height: auto;">
 
