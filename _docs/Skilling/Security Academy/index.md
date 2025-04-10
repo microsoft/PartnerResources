@@ -63,7 +63,7 @@ ___
 
 **Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**, **[Back to basics series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)**, ***all*** **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)**, and **[Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**
 
-<div>&nbsp;</div>
+___
 
 A seasonal reminder that **[M365 Maps](https://m365maps.com/)** should be your go-to for all things licensing 🔍
 

@@ -163,15 +163,12 @@ This is a great step forward for MSSPs looking to bring AI-driven security to th
 * [Understand authentication](https://learn.microsoft.com/en-us/security-copilot/authentication?view=o365-worldwide)
 * [Best practices for Microsoft Entra roles](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/best-practices#1-apply-principle-of-least-privilege)
 * [Prompting](https://learn.microsoft.com/en-us/security-copilot/prompting-security-copilot?view=o365-worldwide)
-* [Sample Prompts Library](https://github.com/Azure/Copilot-For-Security/tree/main/Sample%20Prompts)
 * [Promptbooks](https://learn.microsoft.com/en-us/security-copilot/using-promptbooks?view=o365-worldwide)
-* [Promptbooks Library](https://github.com/Azure/Copilot-For-Security/tree/main/Promptbook%20samples)
-* [What does good prompt engineering look like?](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)
 * **NEW:** [Prompt Engineering Techniques: A comprehensive repository](https://github.com/NirDiamant/Prompt_Engineering)
 * [Apply principles of Zero Trust to Microsoft Security Copilot](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
 * [Exploring Security Copilot to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
 
-#### Resources for after your first few weeks or months
+#### Optional esources for after your first few weeks or months
 
 * [Extending Security Copilot with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267?utm_source=substack&utm_medium=email)
 * [Customize and Optimize Security Copilot with the custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
