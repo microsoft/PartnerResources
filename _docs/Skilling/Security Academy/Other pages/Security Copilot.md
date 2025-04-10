@@ -3,7 +3,7 @@ layout: page
 title: Security Copilot
 description: Security Copilot Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2025-02-27
+updated: 2025-04-11
 showbreadcrumb: true
 tags: 
 - academy content
@@ -19,7 +19,7 @@ The Microsoft Security Copilot Technical Journey will guide you through how to l
 
 ## Table of Contents
 
-This page is organized into three parts -- Learn Security Copilot, Extend Security Copilot, and Driving Customer Adoption.
+This page is organized into three parts -- Learn, Extend, and Driving Adoption.
 
 
 <table>
@@ -74,13 +74,27 @@ This page is organized into three parts -- Learn Security Copilot, Extend Securi
 
 ___
 
-## February 27th, 2025 Update📰
+## April 11th, 2025 Update📰
 
-**Recent Update** (February 27th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
+**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
 
-More relevant and actionable guidance and updates for both **[Pricing](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#pricing)** and **[Onboarding](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#onboarding)** are ***coming in March!***
+We *finally* published official documentation for the Splunk plugin in Security Copilot. If you’ve been waiting to get started, now’s the time to check it out **[here](https://learn.microsoft.com/en-us/copilot/security/plugin-splunk?utm_source=substack&utm_medium=email)**🚨
 
-Although Microsoft lacks the official documentation for now, BlueVoyant and Splunk have published *some* documentation about the integration of the Splunk platform with Security Copilot, which you can read **[here](https://lantern.splunk.com/Security/UCE/Foundational_Visibility/Security_monitoring/Monitoring_security_events_with_Enterprise_Security_and_Microsoft_Copilot_for_Security).**
+
+MSSPs, this one’s for you: **[Security Copilot support for Azure Lighthouse is now in public preview](https://techcommunity.microsoft.com/blog/SecurityCopilotBlog/azure-lighthouse-support-for-mssp-use-of-security-copilot-sentinel-scenarios-in-/4384386?utm_source=substack&utm_medium=email)**
+
+If you've been waiting to use Security Copilot with your managed customers, good news: support is here (well, ***mostly***). So, what's the catch? As of today, MSSPs can ***only invoke Sentinel skills*** on their customer tenant via the ***Security Copilot standalone portal.*** In the future, this will expand to include other skills such as Entra, Intune, Purview, and the list goes on. What's changed? MSSPs can now use Security Copilot ***without requiring the customers to purchase SCUs themselves.*** 
+
+To get started...
+
+1. an MSSP admin should provision SCUs (including the new **Overage SCUs**, which are $6 per SCU/hour and billed only on usage), and apply them to your Azure Lighthouse subscription
+2. make sure you have access to your customer’s Sentinel workspace
+
+Who doesn't want to make incident response in Sentinel faster and smarter? **[This new post](https://www.linkedin.com/pulse/incident-enrichment-security-copilot-stefano-pescosolido-hldcf/)** walks through how you can use Security Copilot with Logic Apps and MDTI to automatically enrich incidents, cut down triage time, and get better insights.
+
+Security Copilot egress IPs are **[now published](https://learn.microsoft.com/en-us/copilot/security/plugin-ip-address?utm_source=substack&utm_medium=email)** to help you send requests and receive responses from your plugins!
+
+### Older news
 
 You can learn how to access the Security Copilot audit log **[here](https://learn.microsoft.com/en-us/copilot/security/audit-log)** or how you can ingest your Security Copilot audit logs using **[this Azure Function App and PowerShell script](https://github.com/Azure/Security-Copilot/tree/main/Monitoring/IngestSecurityCopilotAuditlogs).**
 
@@ -94,9 +108,10 @@ Lastly, my colleague Rick created **[these easy-to-use KQL templates](https://gi
 If you're a member of the **[Microsoft Security Copilot Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Security Copilot Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-|  Security Copilot in Purview                           | Thursday, March 6th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/b868287a-641e-4412-a201-6d2024bcf3f3@72f988bf-86f1-41af-91ab-2d7cd011db47)
-|  Security Copilot and Microsoft Sentinel integrations  | Thursday, March 20th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/f4651263-7b5e-44c9-a3aa-34ac0b503a5a@72f988bf-86f1-41af-91ab-2d7cd011db47)
-|  Security Copilot in Microsoft Entra                   | Thursday, March 27th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/891a573a-51a7-4997-a392-7b42620e7680@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  AMA with the Security Copilot in Entra team           | Tuesday, April 15th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/929cde16-e6a2-4913-b28b-d0fdcf467260@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  New capabilities announced at Microsoft Secure        | Thursday, April 17th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/f7b6361f-12f7-42aa-a663-a4659bdd8798@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  Conditional Access Optimization Agent in Entra        | Thursday, May 01st @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/55f93283-dc1b-4326-bd73-2a700fdff50a@72f988bf-86f1-41af-91ab-2d7cd011db47)
+|  Splunk plugin for Security Copilot                    | Thursday, May 08th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/caeb0bcb-9165-41bc-b2d5-064f2e64b18a@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 
 <div>&nbsp;</div>
@@ -128,6 +143,14 @@ Security Copilot will **not** elevate your level of access (e.g., to use the Mic
 I recommend starting with the Defender XDR Embedded Experience or Promptbooks. You can easily add tags, edit, share, run, and set the level of access to "Just me" or "Anyone in my organization." You can even create your own. Learn more about how to create your own Promptbooks **[here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks).** It's also critical to monitor SCU usage to manage costs and avoid disruptions (e.g., calculate your average SCU utilization over a standard 7 days). Learn more about how to monitor your usage **[here](https://learn.microsoft.com/en-us/security-copilot/manage-usage).** Microsoft permits ***some occasional demand spikes*** from customers that exceed their provisioned capacity at no additional charge, but if the spikes are consistent, that usually signals under provisioned capacity.
 
 Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT files. You can upload files up to 20 MB in total. Security Copilot reasons over files to generate more relevant and specific responses. Learn more about uploading your own files **[here](https://learn.microsoft.com/en-us/security-copilot/upload-file).**
+
+---
+
+We recommend provisioning Security Copilot from the **Azure Portal** rather than the standalone experience, since issues like resource tagging or location policies tend to show up more clearly there. Also, by default, users with the Entra **Global Admin** or **Security Admin** roles will automatically be assigned the **Security Copilot Owner** role.
+
+And one more tip: it’s a good idea to start with a small number of SCUs and focus first on the embedded experiences—they’re much more stable and less likely to run into setup snags.
+
+This is a great step forward for MSSPs looking to bring AI-driven security to their customers. Check out the full blog post to dive deeper and take your next steps today!
 
 ### Get Started
 
