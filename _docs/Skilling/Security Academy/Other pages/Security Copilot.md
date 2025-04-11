@@ -163,6 +163,7 @@ This is a great step forward for MSSPs looking to bring AI-driven security to th
 * [Prompting](https://learn.microsoft.com/en-us/security-copilot/prompting-security-copilot?view=o365-worldwide)
 * [Promptbooks](https://learn.microsoft.com/en-us/security-copilot/using-promptbooks?view=o365-worldwide)
 * **NEW:** [Prompt Engineering Techniques: A comprehensive repository](https://github.com/NirDiamant/Prompt_Engineering)
+* [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [Apply principles of Zero Trust to Microsoft Security Copilot](https://learn.microsoft.com/en-us/security/zero-trust/copilots/zero-trust-microsoft-copilot-for-security)
 * [Exploring Security Copilot to Automate Incident Triage](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/exploring-copilot-for-security-to-automate-incident-triage/ba-p/4154887)
 
@@ -203,8 +204,6 @@ This is a great step forward for MSSPs looking to bring AI-driven security to th
 * [Delegate recommendations in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/delegate-with-copilot)
 * [Remediate code in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/remediate-code-with-copilot)
 
-#### Also explore our [Microsoft Security Copilot Instructional Demo Videos](https://youtube.com/playlist?list=PLmAptfqzxVEW6hqgkKT_a4LNnBQm4omQq&si=ESe0reET31um8dfc)📹
-
 ### Videos
 
 We recommend watching the following videos created by Microsoft Security and the Global Partner Solutions (GPS) Technical Team:
@@ -233,7 +232,7 @@ We recommend watching the following videos created by Microsoft Security and the
   </tr>
 </table>
 
-#### Also explore [Microsoft's Security Copilot YouTube Playlist](https://www.youtube.com/watch?v=sNaxv2zflmc&list=PL3ZTgFEc7LyuQRLD61q9YqPKEDlZj4j5u)📹
+#### Also explore [Microsoft's Security Copilot YouTube Playlist](https://youtube.com/playlist?list=PL3ZTgFEc7LyuQRLD61q9YqPKEDlZj4j5u&si=uAY93F-cGoZNPXPP)📹
 
 ### Roles beyond SOC Analysts​
 
@@ -245,27 +244,20 @@ We recommend watching the following videos created by Microsoft Security and the
 
 ### Announcements & Whitepapers
 
-* [Generative AI and SOC Productivity: Evidence from Live Operations](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Generative-AI-and-Security-Operations-Center-Productivity-Evidence-from-Live-Operations_v2.5-FINAL.pdf)
-* [Randomized Controlled Trials for Security Copilot for IT Admins](https://arxiv.org/html/2411.01067v1)
-* [Whitepaper -- Microsoft Security Copilot -- Working with the Microsoft Security stack and 3Ps](https://go.microsoft.com/fwlink/?linkid=2262593)
-* [Randomized Controlled Trial for Security Copilot](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us)
+* **Nov. 2024:** [Generative AI and SOC Productivity: Evidence from Live Operations](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Generative-AI-and-Security-Operations-Center-Productivity-Evidence-from-Live-Operations_v2.5-FINAL.pdf)
+* **Oct. 2024:** [Randomized Controlled Trials for Security Copilot for IT Admins](https://arxiv.org/html/2411.01067v1)
 
 ### Community Resources
 
-* [Microsoft Ignite: Redefining email security with LLMs to tackle social engineering](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/microsoft-ignite-redefining-email-security-with-llms-to-tackle-a-new-era-of-soci/4302421)
 * [Join the Security Copilot Customer Connection Program (CCP)](http://www.aka.ms/prseccom)
 * [Microsoft Security Copilot Tech Community Blog](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog)
-* [Copilot in Azure Technical Deep Dive](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/copilot-in-azure-technical-deep-dive/ba-p/4146546)
-* [Security Copilot Partner Playbook](http://aka.ms/CfSpartnerPlaybook)
-* [Introduction to red teaming large language models (LLMs)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming?utm_source=substack&utm_medium=email)
-* [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [Applied Generative AI (GAI) in Security Blog](https://applied-gai-in-security.ghost.io/)
-* [Why AI Will Save the World](https://a16z.com/2023/06/06/ai-will-save-the-world/?utm_source=substack&amp;utm_medium=email)
+* [Why AI Will Save the World Blog](https://a16z.com/2023/06/06/ai-will-save-the-world/?utm_source=substack&amp;utm_medium=email)
 
 ### AI Security
 
-* Learn more about our approach to **[Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6).**
-* **[MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/?utm_source=substack&utm_medium=email)**
+* Learn more about our approach to [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6)
+* [MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/matrices/ATLAS)
 * [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
 
 
