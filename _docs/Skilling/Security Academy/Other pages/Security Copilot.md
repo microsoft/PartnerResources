@@ -343,6 +343,7 @@ As of today, custom plugins in Security Copilot work by executing ***1. a KQL qu
 * [QR Code AiTM Phishing Detection](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/QR%20Code%20AiTM%20Phishing%20Detection%20Plugin)
 * [Redact Personally Identifiable Information (PII)](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/HaveIBeenPwned) -- this plugin will redact PII content from a session or a prompt output
 * [Have I Been Pwned](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/HaveIBeenPwned) -- Have I Been Pwned allows users to verify whether their personal data has been compromised by data breaches
+* **NEW:** [Sentinel MCP Server](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/HaveIBeenPwned) -- Python-based MCP server using FastMCP library to bridge dev environments and Security Copilot
 
 
 #### [Back to Table of Contents](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#table-of-contents). Are you ready to drive customer adoption?
@@ -361,7 +362,7 @@ Microsoft Security Copilot enables customers and partners to defend against thre
 
 Security Copilot pricing is consumption-based and costs approximately **$4 per SCU per hr.** A Security Compute Unit (SCU) is Security Copilot's unit of measurement of computing capacity to run a Copilot workload (i.e., prompt/promptbook). The amount of SCUs needed depends on the complexity of the prompt, promptbook, Logic App, or agent. The pricing is consistent across the standalone experience and the embedded experiences as well as regions.
 
-What's new? Customers can also use **[Overage SCUs](https://learn.microsoft.com/en-us/copilot/security/manage-usage#how-provisioned-and-overage-scus-are-billed)**, which are **$6 per SCU/hour and billed only on usage.** These provide flexibility to handle occasional spikes in demand without needing to provision fixed capacity in advance.
+What's new? Customers can also use **[Overage SCUs](https://learn.microsoft.com/en-us/copilot/security/manage-usage#how-provisioned-and-overage-scus-are-billed)**, which are **$6 per SCU/hour and billed only on usage.** These provide flexibility to handle occasional spikes in demand without the need to provision fixed capacity in advance, and they can be set to unlimited or capped at a maximum amount.
 
 To use Security Copilot, you will need to provision ***at least* 1 SCU per hr 24x7.** Therefore, the ***minimum annual price is $35,040 USD*** ($4 * 24hr per day * 365day per yr). Your ***monthly*** bill is calculated as (SCUs per hr) x $4 x 730/month or you can leverage the [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* 1 SCU/hr.** Once an analyst is nearing the capacity limit (90%), they will receive a warning and the option to increase the capacity.
 
