@@ -147,7 +147,7 @@ I recommend starting with a "crawl, walk, run" model. Crawling starts with the *
 
 It's also important to monitor SCU usage to manage costs and avoid disruptions (e.g., calculate your average SCU utilization over a standard 7 days). Learn more about how to monitor your usage **[here](https://learn.microsoft.com/en-us/security-copilot/manage-usage).** 
 
-Lastly, experiment with promptbooks (learn how to create your own Promptbooks **[here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks)**) and uploading your organizations own DOCX, MD, PDF, and TXT files. You can upload files up to 20 MB in total. Security Copilot reasons over files to generate more relevant and specific responses. Learn more about uploading your own files **[here](https://learn.microsoft.com/en-us/security-copilot/upload-file).**
+Lastly, experiment with promptbooks (learn how to create your own Promptbooks **[here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks)**) and uploading your organization's own DOCX, MD, PDF, and TXT files. You can upload files up to 20 MB in total. Security Copilot reasons over files to generate more relevant and specific responses. Learn more about uploading your own files **[here](https://learn.microsoft.com/en-us/security-copilot/upload-file).**
 
 To get the most out of Security Copilot, it's also helpful to understand its terminology. A ***session*** is created for each interaction between a user and Security Copilot. A ***prompt*** is a question or instruction submitted by the user. A ***skill*** is a specific function Copilot uses to gather data and respond. A ***plugin*** is a group of related skills tied to a specific resource, like Sentinel or Entra. Lastly, the ***orchestrator*** maps prompts to the right plugin skills behind the scenes.
 
@@ -341,7 +341,7 @@ As of today, custom plugins in Security Copilot work by executing ***1. a KQL qu
 * [Microsoft Sentinel custom plugin scenarios](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Microsoft%20Sentinel%20Custom%20Plugin%20Scenarios)
 * [Microsoft Defender XDR custom plugin scenarios](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/Microsoft%20Defender%20XDR%20Custom%20Plugin%20Scenarios)
 * [QR Code AiTM Phishing Detection](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/QR%20Code%20AiTM%20Phishing%20Detection%20Plugin)
-* [Redact Personally Identifiable Information (PII)](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/HaveIBeenPwned) -- this plugin will redact PII content from a session or a prompt ouput
+* [Redact Personally Identifiable Information (PII)](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/HaveIBeenPwned) -- this plugin will redact PII content from a session or a prompt output
 * [Have I Been Pwned](https://github.com/Azure/Copilot-For-Security/tree/main/Plugins/Community%20Based%20Plugins/HaveIBeenPwned) -- Have I Been Pwned allows users to verify whether their personal data has been compromised by data breaches
 
 
