@@ -84,7 +84,7 @@ If you've been waiting to use Security Copilot with your managed customers, good
 
 To get started...
 
-1. An MSSP admin should provision SCUs (including the new **[Overage SCUs](https://learn.microsoft.com/en-us/copilot/security/manage-usage#how-provisioned-and-overage-scus-are-billed)**, which are $6 per SCU/hour and billed only on usage), and apply them to your Azure Lighthouse subscription
+1. An MSSP admin should provision SCUs (including the new **[Overage SCUs](https://learn.microsoft.com/en-us/copilot/security/manage-usage#how-provisioned-and-overage-scus-are-billed)**, which are $6 per SCU/hour and billed only on usage) and apply them to your Azure Lighthouse subscription
 2. Make sure you have access to your customer’s Sentinel workspace
 
 
