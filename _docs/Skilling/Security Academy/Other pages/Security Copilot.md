@@ -279,18 +279,22 @@ Learn how to grant an MSSP access to your Security Copilot environment and how t
 
 ### Plugins
 
+As of today, Custom plugins in Security Copilot work by executing a ***1. KQL query, a 2. GPT query, or 3. making an API call*** (either GET or POST), and the data returned depends on the type of call and the associated API permissions.
+
 * [Overview](https://learn.microsoft.com/en-us/security-copilot/plugin-overview?view=o365-worldwide)
 * [Other plugins](https://learn.microsoft.com/en-us/copilot/security/plugin-other) -- ***Non-Microsoft plugins***
 * [API](https://learn.microsoft.com/en-us/security-copilot/plugin-api?view=o365-worldwide)
 * [GPT](https://learn.microsoft.com/en-us/security-copilot/plugin-gpt?view=o365-worldwide)
 * [KQL](https://learn.microsoft.com/en-us/security-copilot/plugin-kql?view=o365-worldwide)
 * [Manage plugins](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?view=o365-worldwide&tabs=securitycopilotplugin)
+* [Create custom plugins](https://learn.microsoft.com/en-us/copilot/security/custom-plugins?view=o365-worldwide)
 * [Plugin error codes](https://learn.microsoft.com/en-us/security-copilot/plugin-error-codes?view=o365-worldwide)
 
 ### Connectors
 
 * [Overview](https://learn.microsoft.com/en-us/connectors/securitycopilot/)
 * [Logic Apps](https://learn.microsoft.com/en-us/security-copilot/connector-logicapp?view=o365-worldwide)
+* [Logic Apps error codes](https://learn.microsoft.com/en-us/copilot/security/logic-apps-error-codes?view=o365-worldwide)
 * [Logic Apps Templates](https://github.com/Azure/Copilot-For-Security/tree/main/Logic%20Apps)
 
 ### 3P Plugins
@@ -321,6 +325,7 @@ Learn how to grant an MSSP access to your Security Copilot environment and how t
 * [SGNL](https://learn.microsoft.com/en-us/copilot/security/plugin-sgnl) -- SGNL provides Zero Standing Privilege (ZSP) initiatives to protect user sessions and credentials
 * [Shodan](https://learn.microsoft.com/en-us/copilot/security/plugin-shodan) -- Shodan is a search engine that allows users to find specific types of devices connected to the Internet
 * [Silverfort](https://learn.microsoft.com/en-us/copilot/security/plugin-silverfort) -- Silverfort provides advanced CEF data from Microsoft Sentinel
+* **NEW:** [Splunk!](https://learn.microsoft.com/en-us/copilot/security/plugin-silverfort) -- Splunk is a widely used SIEM, SOAR, and threat intelligence platform
 * [Tanium](https://learn.microsoft.com/en-us/copilot/security/plugin-tanium) -- Tanium is a Converged Endpoint Management (XEM) reference platform
 * [TufinMate](https://learn.microsoft.com/en-us/copilot/security/plugin-tufinmate) -- Tufin Orchestration Suite is a firewall management platform
 * [UrlScan](https://learn.microsoft.com/en-us/copilot/security/plugin-urlscan) -- UrlScan allows users to scan and analyze potentially malicious URLs
