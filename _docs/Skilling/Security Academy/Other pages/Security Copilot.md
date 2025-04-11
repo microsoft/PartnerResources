@@ -74,7 +74,7 @@ ___
 
 ## April 11th, 2025 Update📰
 
-**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and **[Get Started](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#get-started)** |
+**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and ***everything else*** |
 
 We *finally* published **[official documentation](https://learn.microsoft.com/en-us/copilot/security/plugin-splunk?utm_source=substack&utm_medium=email)** on the Splunk plugin in Security Copilot📌
 
@@ -137,23 +137,19 @@ Are you ready to get started? Dive into onboarding guidance, prompt engineering 
 
 ### Onboarding
 
-You can provision Security Copilot within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during deployment. When provisioning Security Copilot, you can purchase capacity in these **four regions:** East US, West Europe, UK South, and Australia East. Customers can provision a maximum of 100 SCUs and scale down to a minimum of 1 SCU per hr.
+You can provision Security Copilot within the [standalone experience](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-1-recommended-provision-capacity-through-copilot-for-security) or in [Azure](https://learn.microsoft.com/en-us/security-copilot/get-started-security-copilot#option-2-provision-capacity-in-azure). If your organization requires tags to deploy Azure resources, use **[this ARM template](https://github.com/seanstark/azure-tools/tree/main/copilotforsecurity)** to add tags during deployment. We recommend provisioning Security Copilot from the Azure Portal. Azure policies for resource tagging and location can cause deployment failures, and these errors ***don't show*** in the Security Copilot standalone portal. When provisioning, you can purchase capacity in these **four regions:** East US, West Europe, UK South, and Australia East. Customers can scale from 1 to 100 SCUs per hour, and Microsoft also supports **[Overage SCUs](https://learn.microsoft.com/en-us/copilot/security/manage-usage#how-provisioned-and-overage-scus-are-billed)**, which are billed only when consumed.
 
-While there are technically no prerequisites, you'll need an Azure subscription and Microsoft Entra ID (Entra ID is required to authenticate your users). We also recommend allowing prompt evaluation anywhere with available GPU capacity for optimal results. By default, ***all users are "Copilot contributors"*** (this may vary according to existing user permissions) and ***the provisioning user is the "Copilot owner."*** Contributors cannot update data sharing options, manage SCUs, view the usage dashboard, and may only manage and publish custom plugins or upload files when allowed. Also by default, ***all security administrators and global administrators inherit Security Copilot access.***
+While there are technically no prerequisites, you'll need an Azure subscription and Microsoft Entra ID (Entra ID is required to authenticate your users). We also recommend allowing prompt evaluation anywhere with available GPU capacity for optimal results. By default, ***all users are Copilot contributors*** (this may vary according to existing user permissions) and ***the provisioning user is the Copilot owner.*** Contributors cannot update data sharing options, manage SCUs, view the usage dashboard, and may only manage and publish custom plugins or upload files when allowed.  Also, by default, ***all users with the Entra Global Admin or Security Admin roles will automatically be assigned the Copilot Owner role.***
 
 Security Copilot will **not** elevate your level of access (e.g., to use the Microsoft Sentinel plugin, you will need the Microsoft Sentinel Reader role). However, plugin settings are managed at the ***user level***, requiring each user to enable/disable plugins and configure authentication methods. Unfortunately, there is no existing option to set plugin configurations at the ***Tenant level.***
 
-I recommend starting with the Defender XDR Embedded Experience or Promptbooks. You can easily add tags, edit, share, run, and set the level of access to "Just me" or "Anyone in my organization." You can even create your own. Learn more about how to create your own Promptbooks **[here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks).** It's also critical to monitor SCU usage to manage costs and avoid disruptions (e.g., calculate your average SCU utilization over a standard 7 days). Learn more about how to monitor your usage **[here](https://learn.microsoft.com/en-us/security-copilot/manage-usage).** Microsoft permits ***some occasional demand spikes*** from customers that exceed their provisioned capacity at no additional charge, but if the spikes are consistent, that usually signals under provisioned capacity.
+I recommend starting with a "crawl, walk, run" model. Crawling starts with the ***embedded experiences.*** It’s tool-specific, requires no prompt engineering, and doesn’t support third-party or custom plugins — making it easy to use, more accurate, and cost-efficient. Walking starts with the ***standalone portal.*** Users can submit their own prompts and access a broader range of skills, including third-party and custom plugins. This offers more flexibility but requires effective prompt engineering. Running uses ***Logic Apps or Agents*** to integrate Copilot into automated workflows. This method is highly extensible and can significantly reduce SCU usage by pre-processing data or optimizing prompts.
 
-Lastly, experiment with uploading your organizations own DOCX, MD, PDF, and TXT files. You can upload files up to 20 MB in total. Security Copilot reasons over files to generate more relevant and specific responses. Learn more about uploading your own files **[here](https://learn.microsoft.com/en-us/security-copilot/upload-file).**
+It's also important to monitor SCU usage to manage costs and avoid disruptions (e.g., calculate your average SCU utilization over a standard 7 days). Learn more about how to monitor your usage **[here](https://learn.microsoft.com/en-us/security-copilot/manage-usage).** 
 
----
+Lastly, experiment with promptbooks (learn how to create your own Promptbooks **[here](https://learn.microsoft.com/en-us/security-copilot/build-promptbooks)**) and uploading your organizations own DOCX, MD, PDF, and TXT files. You can upload files up to 20 MB in total. Security Copilot reasons over files to generate more relevant and specific responses. Learn more about uploading your own files **[here](https://learn.microsoft.com/en-us/security-copilot/upload-file).**
 
-We recommend provisioning Security Copilot from the **Azure Portal** rather than the standalone experience, since issues like resource tagging or location policies tend to show up more clearly there. Also, by default, users with the Entra **Global Admin** or **Security Admin** roles will automatically be assigned the **Security Copilot Owner** role.
-
-And one more tip: it’s a good idea to start with a small number of SCUs and focus first on the embedded experiences—they’re much more stable and less likely to run into setup snags.
-
-This is a great step forward for MSSPs looking to bring AI-driven security to their customers. Check out the full blog post to dive deeper and take your next steps today!
+To get the most out of Security Copilot, it's also helpful to understand its terminology. A ***session*** is created for each interaction between a user and Security Copilot. A ***prompt*** is a question or instruction submitted by the user. A ***skill*** is a specific function Copilot uses to gather data and respond. A ***plugin*** is a group of related skills tied to a specific resource, like Sentinel or Entra. Lastly, the ***orchestrator*** maps prompts to the right plugin skills behind the scenes.
 
 ### Get Started
 
@@ -169,19 +165,19 @@ This is a great step forward for MSSPs looking to bring AI-driven security to th
 
 #### Optional resources for after your first few months
 
-##### **Useful for analysts**
+##### ***Useful for analysts***
 
 * [Next-Gen device incident investigation and threat hunting with custom plugins](https://techcommunity.microsoft.com/blog/securitycopilotblog/next-gen-device-incident-investigation--threat-hunting-with-custom-plugins/4374397?utm_source=substack&utm_medium=email)
 * [Accelerating anomalous sign-in detection with Security Copilot + Entra ID](https://techcommunity.microsoft.com/blog/securitycopilotblog/accelerating-the-anomalous-sign-ins-detection-with-microsoft-entra-id-and-securi/4365435?utm_source=substack&utm_medium=email)
 * [Monitoring user activities and system events with Security Copilot + Sentinel](https://techcommunity.microsoft.com/blog/securitycopilotblog/monitor-user-activities-and-system-events-with-security-copilot-and-microsoft-se/4303368?utm_source=substack&utm_medium=email)
 
-##### **Useful for customization**
+##### ***Useful for customization***
 
 * [Leveraging ASIM-based KQL plugins in Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/leveraging-asim-based-kql-plugins-in-microsoft-security-copilot-for-investigatio/4357680?utm_source=substack&utm_medium=email)
 * [Custom Identity Analyst plugin](https://techcommunity.microsoft.com/blog/securitycopilotblog/identity-forensics-with-copilot-for-security-identity-analyst-plugin/4278180)
 * [Custom Data Security plugin](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/learn-how-to-customize-and-optimize-copilot-for-security-with/ba-p/4120147?utm_source=substack&utm_medium=email)
 
-##### **Useful for extension**
+##### ***Useful for extension***
 
 * [Extending Security Copilot with Azure Function Apps](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/extending-microsoft-copilot-for-security-capabilities-with-azure/ba-p/4220267?utm_source=substack&utm_medium=email)
 
@@ -363,15 +359,15 @@ Microsoft Security Copilot enables customers and partners to defend against thre
 
 ### Pricing📌
 
-Security Copilot pricing is consumption-based and costs approximately **$4 per SCU per hr.** A Security Compute Unit (SCU) is Security Copilot's unit of measurement of computing capacity to run a Copilot workload (i.e., prompt/Promptbook). The amount of SCUs needed depends on the complexity of the given workload. The pricing is consistent across the standalone experience and the embedded experiences as well as regions.
+Security Copilot pricing is consumption-based and costs approximately **$4 per SCU per hr.** A Security Compute Unit (SCU) is Security Copilot's unit of measurement of computing capacity to run a Copilot workload (i.e., prompt/promptbook). The amount of SCUs needed depends on the complexity of the prompt, promptbook, Logic App, or agent. The pricing is consistent across the standalone experience and the embedded experiences as well as regions.
 
-Why is it consumption-based and not per user? The idea is that the flexibility will allow more customers and partners to try it! That said, the output is only as good as the input, and the more plugins you use to contextually enrich complex investigations, the better (think Microsoft Sentinel pricing; the more telemetry ingested = the more coverage and insights, so long as it's not *too* much noise). There are no prerequisites, but for the optimal user experience, we recommend that customers have MDE P2 and/or Microsoft Sentinel.
+What's new? Customers can also use **[Overage SCUs](https://learn.microsoft.com/en-us/copilot/security/manage-usage#how-provisioned-and-overage-scus-are-billed)**, which are **$6 per SCU/hour and billed only on usage.** These provide flexibility to handle occasional spikes in demand without needing to provision fixed capacity in advance.
 
 To use Security Copilot, you will need to provision ***at least* 1 SCU per hr 24x7.** Therefore, the ***minimum annual price is $35,040 USD*** ($4 * 24hr per day * 365day per yr). Your ***monthly*** bill is calculated as (SCUs per hr) x $4 x 730/month or you can leverage the [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/). Customers and partners can purchase SCUs in the standalone experience or in Azure and can manually provision SCUs up or down so long as there is ***at least* 1 SCU/hr.** Once an analyst is nearing the capacity limit (90%), they will receive a warning and the option to increase the capacity.
 
 If you delete Security Copilot (zero SCUs per hr), we will retain your data for 90 days. ***Tenant-level MDTI workbench is included with Security Copilot*** and although it's not the standalone API, the TI information is easy to read and in the context of your investigations (e.g., activity groups, tooling, and vulnerabilities). From a licensing perspective, this is also **significant cost savings.**
 
-Since computing capacity and token usage is ***variable*** **(quantifying a specific # of tokens or SCUs/workflows needed per prompt/Promptbook is difficult)**, it's important for partners to know what they can do now:
+Since computing capacity and token usage is ***variable*** **(quantifying a consistent # of tokens or SCUs needed per prompt, promptbook, Logic App, or agent is difficult)**, it's important for partners to know what they can do now:
 
 * Calculate your average SCU utilization over a standard 7 days
 * Provision ≈1 SCU per Embedded Experience, ≈4 SCU per Standalone Experience, and ≈5 SCU per Automation and/or Promptbooks
@@ -379,8 +375,6 @@ Since computing capacity and token usage is ***variable*** **(quantifying a spec
 * Measure SCU usage between different levels of expertise (Junior analysts vs Senior analysts)
 * Measure SCU usage across different types of investigations (incident triage, threat actor investigation, reverse engineering a malicious script, etc.)
 * Explore the **[Security Copilot SCU Optimizer Solution](https://locktalk.substack.com/p/introducing-the-copilot-for-security?r=3eb8k1&utm_campaign=post&utm_medium=web&triedRedirect=true)** to simplify CfS cost management
-
-Beyond GA, we're also collecting this data and in good time, will provide more guidance and standards on SCU usage and patterns.
 
 ### Integrations
 
