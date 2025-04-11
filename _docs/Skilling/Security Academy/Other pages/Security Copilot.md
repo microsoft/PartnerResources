@@ -88,7 +88,7 @@ To get started...
 2. Make sure you have access to your customer’s Sentinel workspace
 
 
-Just last week, we announced **[Security Copilot agents](https://www.microsoft.com/en-us/security/blog/2025/03/24/microsoft-unveils-microsoft-security-copilot-agents-and-new-protections-for-ai/?msockid=330c4da567d667543ffd5c5666b966cf)** that automate repetitive, noisy tasks like user-reported phishing alerts, conditional access policy gaps for new users and apps, and DLP/IRM alerts.
+Just two weeks ago, we announced **[Security Copilot agents](https://www.microsoft.com/en-us/security/blog/2025/03/24/microsoft-unveils-microsoft-security-copilot-agents-and-new-protections-for-ai/?msockid=330c4da567d667543ffd5c5666b966cf)** that automate repetitive, noisy tasks like user-reported phishing alerts, conditional access policy gaps for new users and apps, and DLP/IRM alerts.
 
 Think of these agents ***more like advanced workflows*** or simplified Logic Apps — automated, *mostly* trigger-based sequences for specific tasks + you can guide them with feedback/custom instructions in natural language. Most won’t take action for you, but they'll help you prioritize (e.g., classifying phish alerts as true or false positive, one-click fixes for users outside existing MFA policies, ...)
 
@@ -133,7 +133,7 @@ Are you ready to get started? Dive into onboarding guidance, prompt engineering 
 * [Navigate Security Copilot](https://learn.microsoft.com/en-us/security-copilot/navigating-security-copilot?view=o365-worldwide)
 * [Create effective prompts](https://learn.microsoft.com/en-us/security-copilot/prompting-tips?view=o365-worldwide)
 * [What is a compound AI system?](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
-* [Using Microsoft Graph as a Microsoft Security Copilot Plugin with Delegated Access](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/using-microsoft-graph-as-a-microsoft-copilot-for-security-plugin/ba-p/4198148)
+* [Using Microsoft Graph as a Security Copilot plugin with Delegated Access](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/using-microsoft-graph-as-a-microsoft-copilot-for-security-plugin/ba-p/4198148)
 
 ### Onboarding
 
