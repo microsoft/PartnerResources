@@ -279,7 +279,7 @@ Learn how to grant an MSSP access to your Security Copilot environment and how t
 
 ### Plugins
 
-As of today, Custom plugins in Security Copilot work by executing a ***1. KQL query, a 2. GPT query, or 3. making an API call*** (either GET or POST), and the data returned depends on the type of call and the associated API permissions.
+As of today, Custom plugins in Security Copilot work by executing ***1. a KQL query, 2. a GPT query, or 3. making an API call*** (either GET or POST), and the data returned depends on the type of call and the associated API permissions.
 
 * [Overview](https://learn.microsoft.com/en-us/security-copilot/plugin-overview?view=o365-worldwide)
 * [Other plugins](https://learn.microsoft.com/en-us/copilot/security/plugin-other) -- ***Non-Microsoft plugins***
@@ -325,7 +325,7 @@ As of today, Custom plugins in Security Copilot work by executing a ***1. KQL qu
 * [SGNL](https://learn.microsoft.com/en-us/copilot/security/plugin-sgnl) -- SGNL provides Zero Standing Privilege (ZSP) initiatives to protect user sessions and credentials
 * [Shodan](https://learn.microsoft.com/en-us/copilot/security/plugin-shodan) -- Shodan is a search engine that allows users to find specific types of devices connected to the Internet
 * [Silverfort](https://learn.microsoft.com/en-us/copilot/security/plugin-silverfort) -- Silverfort provides advanced CEF data from Microsoft Sentinel
-* **NEW:** [Splunk!](https://learn.microsoft.com/en-us/copilot/security/plugin-silverfort) -- Splunk is a widely used SIEM, SOAR, and threat intelligence platform
+* **NEW:** [Splunk!](https://learn.microsoft.com/en-us/copilot/security/plugin-splunk) -- Splunk is a widely used SIEM, SOAR, and threat intelligence platform
 * [Tanium](https://learn.microsoft.com/en-us/copilot/security/plugin-tanium) -- Tanium is a Converged Endpoint Management (XEM) reference platform
 * [TufinMate](https://learn.microsoft.com/en-us/copilot/security/plugin-tufinmate) -- Tufin Orchestration Suite is a firewall management platform
 * [UrlScan](https://learn.microsoft.com/en-us/copilot/security/plugin-urlscan) -- UrlScan allows users to scan and analyze potentially malicious URLs
@@ -405,10 +405,10 @@ Beyond GA, we're also collecting this data and in good time, will provide more g
 
 As of today, customers pay for their MSSP’s SCUs/usage. MSSPs can access the customer's Security Copilot environment (limited to the standalone portal) if the customer elects to provide access (referred to as Bring your Own MSSP), which is managed via Guest Access (B2B) and GDAP. Currently, there isn't a CSP or reseller multitenant model for MSSPs.
 
+* [Azure Lighthouse](https://techcommunity.microsoft.com/blog/SecurityCopilotBlog/azure-lighthouse-support-for-mssp-use-of-security-copilot-sentinel-scenarios-in-/4384386?utm_source=substack&utm_medium=email)
 * [Grant partners access](https://learn.microsoft.com/en-us/security-copilot/grant-access-external-users?view=o365-worldwide)
 * [B2B collaboration](https://learn.microsoft.com/en-us/entra/external-id/what-is-b2b)
 * [Granular Delegated Admin Privileges (GDAP)](https://learn.microsoft.com/en-us/partner-center/gdap-introduction)
-* [Azure Lighthouse](https://learn.microsoft.com/en-us/azure/lighthouse/) ***Coming soon to Security Copilot***
 * [Microsoft 365 Lighthouse](https://learn.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-overview?view=o365-worldwide) ***Coming soon to Security Copilot***
 
 ### Address Concerns
