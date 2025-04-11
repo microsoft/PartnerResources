@@ -240,7 +240,8 @@ We recommend watching the following videos created by Microsoft Security and the
 * **DLP​ Analysts:​** Summarize DLP alerts and analyze DLP policy configurations.
 * **Insider​ Risk Analysts:​** Summarize Insider Risk Management (IRM) alerts and gain context around users with risky behavior​.
 * **eDiscovery​ Analysts​:** Generate Keyword Query Language from NL in eDiscovery and summarize evidence collected.
-* **Identity Access Management (IAM)​ Admins:** Discover high risk users, overprivileged access, suspicious sign-ins in Entra.
+* **Identity Access Management (IAM)​ Admins:** Discover high risk users, overprivileged access, and users out of compliance.
+* **CISOs:** Receive executive summaries and detailed reporting.
 
 ### Announcements & Whitepapers
 
