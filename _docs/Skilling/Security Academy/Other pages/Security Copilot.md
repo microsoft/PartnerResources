@@ -228,7 +228,7 @@ We recommend watching the following videos created by Microsoft Security and the
   </tr>
 </table>
 
-#### Also explore [Microsoft's Security Copilot YouTube Playlist](https://youtube.com/playlist?list=PL3ZTgFEc7LyuQRLD61q9YqPKEDlZj4j5u&si=uAY93F-cGoZNPXPP)📹
+#### Also explore [our Security Copilot YouTube Playlist](https://youtube.com/playlist?list=PL3ZTgFEc7LyuQRLD61q9YqPKEDlZj4j5u&si=uAY93F-cGoZNPXPP)📹
 
 ### Roles beyond SOC Analysts​
 
@@ -236,7 +236,7 @@ We recommend watching the following videos created by Microsoft Security and the
 * **DLP​ Analysts:​** Summarize DLP alerts and analyze DLP policy configurations.
 * **Insider​ Risk Analysts:​** Summarize Insider Risk Management (IRM) alerts and gain context around users with risky behavior​.
 * **eDiscovery​ Analysts​:** Generate Keyword Query Language from NL in eDiscovery and summarize evidence collected.
-* **Identity Access Management (IAM)​ Admins:** Discover high risk users, overprivileged access, and users out of compliance.
+* **Identity Access Management (IAM)​ Admins:** Discover high risk users, overprivileged access, and users out of compliance (e.g., MFA).
 * **CISOs:** Receive executive summaries and detailed reporting.
 
 ### Announcements & Whitepapers
@@ -249,7 +249,7 @@ We recommend watching the following videos created by Microsoft Security and the
 * [Join the Security Copilot Customer Connection Program (CCP)](http://www.aka.ms/prseccom)
 * [Microsoft Security Copilot Tech Community Blog](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog)
 * [Applied Generative AI (GAI) in Security Blog](https://applied-gai-in-security.ghost.io/)
-* [Why AI Will Save the World Blog](https://a16z.com/2023/06/06/ai-will-save-the-world/?utm_source=substack&amp;utm_medium=email)
+* [Why AI Will Save the World](https://a16z.com/2023/06/06/ai-will-save-the-world/?utm_source=substack&amp;utm_medium=email)
 
 ### AI Security
 
@@ -268,7 +268,7 @@ ___
 
 ## Extend Security Copilot
 
-Learn how to grant an MSSP access and how to use and create plugins. Security Copilot plugins extend the platform’s capabilities by acting as connectors, enabling seamless integration with infinite partners and third parties, allowing for custom functionality.
+Learn how to grant an MSSP access and how to use and create plugins. Security Copilot plugins extend the platform’s capabilities by acting as connectors, enabling seamless integration with infinite partners and third parties to support custom functionality.
 
 ### MSSPs
 
