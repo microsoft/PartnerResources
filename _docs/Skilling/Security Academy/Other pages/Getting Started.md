@@ -3,7 +3,7 @@ layout: page
 title: Getting Started with Microsoft Security
 description: Want to begin or continue your security journey?
 permalink: /skilling/microsoft-security-academy/start
-updated: 2024-11-19
+updated: 2025-04-11
 showbreadcrumb: true
 tags: 
 - academy content
@@ -94,7 +94,6 @@ ___
 * [What is Entra ID Protection?](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection)
 * [What is Microsoft Entra ID Governance?](https://learn.microsoft.com/en-us/azure/active-directory/governance/identity-governance-overview)
 * [What is Global Secure Access?](https://learn.microsoft.com/en-us/azure/global-secure-access/overview-what-is-global-secure-access)
-* [What's Microsoft Entra Permissions Management?](https://learn.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/overview)
 
 ## Information Protection Administrator
 * **NEW:** [Learning for Microsoft Data Security Admins](https://learn.microsoft.com/en-us/plans/e4youngyxqwnmm?sharingId=1DB7ACD9A156B8F9%3Fwt.mc_id%3Dlfo_plans_webpage_wwl_security)

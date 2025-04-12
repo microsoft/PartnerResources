@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Sentinel
 description: Microsoft Sentinel
 permalink: /skilling/microsoft-security-academy/sentinel-academy
-updated: 2024-12-23
+updated: 2025-04-11
 showbreadcrumb: true
 Tags:
 - academy content
@@ -25,6 +25,14 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/xMj7a4Ns_cU"><img src="https://img.youtube.com/vi/xMj7a4Ns_cU/maxresdefault.jpg" alt="Microsoft Sentinel in just 30 minutes" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/xMj7a4Ns_cU"><b>Microsoft Sentinel in just 30 minutes</b></a><br><br>Short on time? Learn the fundamentals of Microsoft Sentinel, why it’s a necessity for your Security Operations (SecOps) and threat protection, its unique value, core capabilities, data ingestion methods, and more with a thorough demo and in just 30 minutes.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/WIM6fbJDkK4"><img src="https://img.youtube.com/vi/WIM6fbJDkK4/maxresdefault.jpg" alt="NEW: Transition to Unified SOC: Deep Dive and Interactive Q&A for SOC Analysts🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/WIM6fbJDkK4"><b>NEW: Transition to Unified SOC: Deep Dive and Interactive Q&A for SOC Analysts🆕</b></a><br><br>Discover how to smoothly transition from Microsoft Sentinel to the new unified SecOps platform!</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/ffOg0mMgNLI"><img src="https://img.youtube.com/vi/ffOg0mMgNLI/maxresdefault.jpg" alt="NEW: Microsoft Sentinel Repositories: Manage Your SIEM Content Like a Pro🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/ffOg0mMgNLI"><b>NEW: Microsoft Sentinel Repositories: Manage Your SIEM Content Like a Pro🆕</b></a><br><br>Explore how Microsoft Sentinel Repositories streamline content management, enable team collaboration, and now support Bicep templates for easier infrastructure-as-code.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/ryqjtFvXf44"><img src="https://img.youtube.com/vi/ryqjtFvXf44/maxresdefault.jpg" alt="Microsoft Sentinel Sizing, Pricing, and Planning" width="400" height="400"></a></td>
@@ -66,9 +74,6 @@ Explore Microsoft Sentinel videos with demos delivered directly to partners, rel
     <td><a href="https://youtu.be/LBOt6JF-MIo"><img src="https://img.youtube.com/vi/LBOt6JF-MIo/maxresdefault.jpg" alt="All About Microsoft Sentinel Threat Intelligence and Investigation" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/LBOt6JF-MIo"><b>All About Microsoft Sentinel Threat Intelligence and Investigation</b></a><br><br>Explore various TI features within Microsoft Sentinel and learn about Sentinel’s advanced multistage attack detection with Fusion. Additionally, analyze basic incident investigations, including investigations across workspaces for MSSPs scenarios.</td>
   </tr>
-  <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/sgUSjfA2eSU"><img src="https://img.youtube.com/vi/sgUSjfA2eSU/maxresdefault.jpg" alt="All About Microsoft Sentinel Repositories and Workbooks" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/sgUSjfA2eSU"><b>All About Microsoft Sentinel Repositories and Workbooks</b></a><br><br>Discover Microsoft Sentinel features that are critical to MSSPs, such as Repositories, Workbooks, and Content Hub Solutions. Join us as we dive into a thorough demo of the Repositories feature, along with popular Sentinel Workbooks.</td>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/QYpTHOUCQ7o"><img src="https://img.youtube.com/vi/QYpTHOUCQ7o/maxresdefault.jpg" alt="Automating Responses in Microsoft Sentinel" width="400" height="400"></a></td>
     <td><a href="https://youtu.be/QYpTHOUCQ7o"><b>Automating Responses in Microsoft Sentinel</b></a><br><br>Learn about Microsoft Sentinel’s SOAR capabilities, including Automation Rules and Playbooks. Explore several OOB Playbooks, Community Playbooks, as well as Custom Playbooks, including one utilizing the OpenAI Logic App Connector.</td>
