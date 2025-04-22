@@ -6,5 +6,5 @@ permalink: /skilling/nonprofit
 includemethod: all
 includeplans:
   - nonprofit resources
-showdescription: false
+sort_by: sorttitle
 ---
