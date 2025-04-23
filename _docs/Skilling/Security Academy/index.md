@@ -65,15 +65,13 @@ ___
 
 ___
 
-Phishers are getting clever — and Google almost let **[this one slide](https://x.com/nicksdjohnson/status/1912439023982834120).** By naming their account “me@,” attackers tricked Gmail into displaying phishing emails as if they were sent *to you*, using Gmail’s native “me” shorthand. It’s a small UX quirk with big implications. The issue is now being addressed, but the takeaway’s clear: Don’t trust the UI alone, and double-check those sender details.
+Phishers are getting clever — and Google almost let **[this one slide](https://x.com/nicksdjohnson/status/1912439023982834120).** By naming their account “me@,” attackers tricked Gmail into displaying phishing emails as if they were sent *to you*, using Gmail’s native “me” shorthand. It’s a small UX quirk with big implications. The issue is now being addressed, but the takeaway’s clear: Don’t trust the UI alone, and double-check those sender details🎣
 
-Building with Model Context Protocol (MCP)? Start with **[John Savill’s breakdown](https://youtu.be/1Pf2rW5FsqQ?si=QFo3kJqsQFkEC80F)**, then read our **[new guidance](https://techcommunity.microsoft.com/blog/microsoft-security-blog/understanding-and-mitigating-security-risks-in-mcp-implementations/4404667?utm_source=substack&utm_medium=email)** to help secure your implementation and avoid OAuth misconfigs✅ 
-
-We just just dropped an **[AI Red Teaming Agent](https://devblogs.microsoft.com/foundry/ai-red-teaming-agent-preview/?utm_source=substack&utm_medium=email)** for testing genAI security — built on [PyRIT](https://github.com/Azure/PyRIT), it automates adversarial testing and risk analysis.
+Building with Model Context Protocol (MCP)? Start with **[John Savill’s breakdown](https://youtu.be/1Pf2rW5FsqQ?si=QFo3kJqsQFkEC80F)**, then read our **[new guidance](https://techcommunity.microsoft.com/blog/microsoft-security-blog/understanding-and-mitigating-security-risks-in-mcp-implementations/4404667?utm_source=substack&utm_medium=email)** to help secure your implementation and avoid OAuth misconfigs. We also just dropped an **[AI Red Teaming Agent](https://devblogs.microsoft.com/foundry/ai-red-teaming-agent-preview/?utm_source=substack&utm_medium=email)** for testing genAI security — built on [PyRIT](https://github.com/Azure/PyRIT), it automates adversarial testing and risk analysis✅
 
 MSSPs, take note: **[Multi-workspace for multi-tenancy just hit public preview in our unified SecOps portal](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/multi-workspace-for-multi-tenant-is-now-in-public-preview-in-microsofts-unified-/4398229?utm_source=substack&utm_medium=email)** — if you’re juggling multiple customers and workspaces, this update is a game-changer. Native support, less context-switching, more control.
 
-Password spraying is back, and lax MFA is still the low-hanging fruit, according to recent **[research from Rapid7](https://www.rapid7.com/blog/post/2025/04/10/password-spray-attacks-taking-advantage-of-lax-mfa/)**🎣
+Password spraying is back, and lax MFA is still the low-hanging fruit, according to recent **[research from Rapid7](https://www.rapid7.com/blog/post/2025/04/10/password-spray-attacks-taking-advantage-of-lax-mfa/).**
 
 A seasonal reminder that **[M365 Maps](https://m365maps.com/)** should be your go-to for all things licensing 🔍
 

@@ -22,7 +22,7 @@ Explore Microsoft Defender for Cloud videos with demos delivered directly to par
 <table>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/m0p_2VegVEo"><img src="https://img.youtube.com/vi/m0p_2VegVEo/maxresdefault.jpg" alt="NEW: Securing Custom Built AI Apps🆕" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/m0p_2VegVEo"><b>NEW: Securing Custom Built AI Apps🆕</b></a><br><br>Are you wondering how to best detect and respond to threats like prompt injections, data leakage, and more across Azure, AWS, and GCP? Learn how Microsoft Defender for Cloud secures AI apps across clouds!</td>
+    <td><a href="https://youtu.be/m0p_2VegVEo"><b>NEW: Securing Custom Built AI Apps🆕</b></a><br><br>Are you wondering how to detect and respond to threats like prompt injections, data leakage, and more across Azure, AWS, and GCP? Learn how Microsoft Defender for Cloud secures AI apps!</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/6AcHlUj4wpo"><img src="https://img.youtube.com/vi/6AcHlUj4wpo/maxresdefault.jpg" alt="NEW: Securing the Future with Microsoft Defender for Cloud Best Practices and Insights🆕" width="400" height="400"></a></td>

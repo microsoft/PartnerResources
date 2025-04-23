@@ -21,8 +21,8 @@ Explore Microsoft Entra videos with demos delivered directly to partners, releva
 
 <table>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be//px6dd9ZJ7R0"><img src="https://img.youtube.com/vi/px6dd9ZJ7R0/maxresdefault.jpg" alt="NEW: 425 Show | 425 Show | Successful Deployment of Global Secure Access🆕" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be//px6dd9ZJ7R0"><b>NEW: 425 Show | 425 Show | Successful Deployment of Global Secure Access🆕</b></a><br><br>In this final episode of our series, see how identity-driven, Zero Trust access protects your data and apps. Learn best practices and deployment tips directly from the product team.</td>
+    <td><a href="https://youtu.be//px6dd9ZJ7R0"><img src="https://img.youtube.com/vi/px6dd9ZJ7R0/maxresdefault.jpg" alt="NEW: 425 Show | Successful Deployment of Global Secure Access🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//px6dd9ZJ7R0"><b>NEW: 425 Show | Successful Deployment of Global Secure Access🆕</b></a><br><br>In this final episode of our series, see how identity-driven, Zero Trust access protects your data and apps. Learn deployment tips and best practices directly from the product team.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be//BKLvA0p_v1g"><img src="https://img.youtube.com/vi/BKLvA0p_v1g/maxresdefault.jpg" alt="NEW: 425 Show | Global Secure Access Proof-of-Concept Deep Dive🆕" width="400" height="400"></a></td>
