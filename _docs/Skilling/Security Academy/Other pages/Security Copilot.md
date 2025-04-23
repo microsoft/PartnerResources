@@ -3,7 +3,7 @@ layout: page
 title: Security Copilot
 description: Security Copilot Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2025-04-11
+updated: 2025-04-25
 showbreadcrumb: true
 tags: 
 - academy content
@@ -72,9 +72,9 @@ This page is organized into three parts -- Learn, Extend, and Driving Adoption.
 
 ___
 
-## April 11th, 2025 Update📰
+## April 25th, 2025 Update📰
 
-**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and ***everything else*** |
+**Recent Update** (April 25th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and ***everything else*** |
 
 We *finally* published **[official documentation](https://learn.microsoft.com/en-us/copilot/security/plugin-splunk?utm_source=substack&utm_medium=email)** on the Splunk plugin in Security Copilot📌
 
@@ -111,8 +111,6 @@ Lastly, my colleague Rick created **[these easy-to-use KQL templates](https://gi
 If you're a member of the **[Microsoft Security Copilot Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Security Copilot Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-|  AMA with the Security Copilot in Entra team           | Tuesday, April 15th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/929cde16-e6a2-4913-b28b-d0fdcf467260@72f988bf-86f1-41af-91ab-2d7cd011db47)
-|  New capabilities announced at Microsoft Secure        | Thursday, April 17th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/f7b6361f-12f7-42aa-a663-a4659bdd8798@72f988bf-86f1-41af-91ab-2d7cd011db47)
 |  Conditional Access Optimization Agent in Entra        | Thursday, May 1st @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/55f93283-dc1b-4326-bd73-2a700fdff50a@72f988bf-86f1-41af-91ab-2d7cd011db47)
 |  Splunk plugin for Security Copilot                    | Thursday, May 8th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/caeb0bcb-9165-41bc-b2d5-064f2e64b18a@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
