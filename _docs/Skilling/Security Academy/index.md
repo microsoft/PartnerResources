@@ -67,13 +67,13 @@ ___
 
 Phishers are getting clever — and Google almost let **[this one slide](https://x.com/nicksdjohnson/status/1912439023982834120).** By naming their account “me@,” attackers tricked Gmail into displaying phishing emails as if they were sent *to you*, using Gmail’s native “me” shorthand. It’s a small UX quirk with big implications. The issue is now being addressed, but the takeaway’s clear: Don’t trust the UI alone, and double-check those sender details.
 
-Building with Model Context Protocol (MCP)? Start with **[John Savill’s breakdown]()**, then read our **[new guidance](https://techcommunity.microsoft.com/blog/microsoft-security-blog/understanding-and-mitigating-security-risks-in-mcp-implementations/4404667?utm_source=substack&utm_medium=email)** on securing your implementation — from OAuth misconfigs to tool poisoning risks.
+Building with Model Context Protocol (MCP)? Start with **[John Savill’s breakdown](https://youtu.be/1Pf2rW5FsqQ?si=QFo3kJqsQFkEC80F)**, then read our **[new guidance](https://techcommunity.microsoft.com/blog/microsoft-security-blog/understanding-and-mitigating-security-risks-in-mcp-implementations/4404667?utm_source=substack&utm_medium=email)** to help secure your implementation and avoid OAuth misconfigs✅ 
 
-We just just dropped an **[AI Red Teaming Agent](https://devblogs.microsoft.com/foundry/ai-red-teaming-agent-preview/?utm_source=substack&utm_medium=email)** for testing genAI security — built on PyRIT, it automates adversarial testing and risk analysis.
+We just just dropped an **[AI Red Teaming Agent](https://devblogs.microsoft.com/foundry/ai-red-teaming-agent-preview/?utm_source=substack&utm_medium=email)** for testing genAI security — built on [PyRIT](https://github.com/Azure/PyRIT), it automates adversarial testing and risk analysis.
 
 MSSPs, take note: **[Multi-workspace for multi-tenancy just hit public preview in our unified SecOps portal](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/multi-workspace-for-multi-tenant-is-now-in-public-preview-in-microsofts-unified-/4398229?utm_source=substack&utm_medium=email)** — if you’re juggling multiple customers and workspaces, this update is a game-changer. Native support, less context-switching, more control.
 
-Password spraying is back — and lax MFA is still the low-hanging fruit, according to recent **[research from Rapid7](https://www.rapid7.com/blog/post/2025/04/10/password-spray-attacks-taking-advantage-of-lax-mfa/)**
+Password spraying is back, and lax MFA is still the low-hanging fruit, according to recent **[research from Rapid7](https://www.rapid7.com/blog/post/2025/04/10/password-spray-attacks-taking-advantage-of-lax-mfa/)**🎣
 
 A seasonal reminder that **[M365 Maps](https://m365maps.com/)** should be your go-to for all things licensing 🔍
 
@@ -98,8 +98,6 @@ Many of my partners live and breathe by ServiceNow for ticketing and tracking in
 Most security vendors pitch Zero Trust and phishing-resistant MFA as the foundations, but are you not sure where to start? Grab a coffee and read through our new **[Zero Trust Deployment Essentials](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-security-in-action-zero-trust-deployment-essentials-for-digital-securi/4372698?utm_source=substack&utm_medium=email)**☕
 
 Product names aren't the only thing known to change at Microsoft, and certifications are no exception. Read about the retirement of the **[SC-400](https://learn.microsoft.com/en-us/certifications/exams/SC-400/)** and our new **[SC-401: Information Security Administrator Certification](https://techcommunity.microsoft.com/blog/microsoftlearnblog/validate-critical-information-security-skills-with-our-new-certification/3719269?utm_source=substack&utm_medium=email).**
-
-Two months ago, we published an **[Expanded Cloud Log Implementation Playbook](https://www.cisa.gov/news-events/news/cisa-publishes-microsoft-expanded-cloud-log-implementation-playbook?utm_source=substack&utm_medium=email)** in coordination with our federal counterparts, and it's worth a bookmark.
 
 Remember how the U.S. State Department caught Chinese hackers snooping around Microsoft's email systems? They used the now infamous “Big Yellow Taxi” KQL detections, which you can find **[here](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Office%20365/BigYellowTaxi%20-%20SignIn.md)**🚕
 
