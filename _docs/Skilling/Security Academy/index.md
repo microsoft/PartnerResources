@@ -78,7 +78,7 @@ We *almost* lost the CVE disclosure system last week, and if you're wondering wh
 *Click the image to enlarge or open in a new tab.*
 
 <a href="{{ site.baseurl }}/assets/msa/CVE.jpg" target="_blank">
-    <img src="{{ site.baseurl }}/assets/msa/CVE.jpg" alt="CVE Reference Architecture" style="max-width: 500px; width: 100%; height: auto;" />
+    <img src="{{ site.baseurl }}/assets/msa/CVE.jpg" alt="CVE Reference Architecture" style="max-width: 650; width: 100%; height: auto;" />
 </a>
 
 A seasonal reminder that **[M365 Maps](https://m365maps.com/)** should be your go-to for all things licensing 🔍
