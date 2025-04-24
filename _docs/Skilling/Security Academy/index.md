@@ -73,12 +73,6 @@ MSSPs, take note: **[Multi-workspace for multi-tenancy just hit public preview i
 
 Password spraying is back, and lax MFA is still the low-hanging fruit, according to recent **[research from Rapid7](https://www.rapid7.com/blog/post/2025/04/10/password-spray-attacks-taking-advantage-of-lax-mfa/).**
 
-We *almost* lost the CVE disclosure system last week, and if you're wondering why that's important...
-
-<a href="{{ site.baseurl }}/assets/msa/CVE.jpg" target="_blank">
-    <img src="{{ site.baseurl }}/assets/msa/CVE.jpg" alt="CVE Reference Architecture" style="max-width: 750px; width: 100%; height: auto;" />
-</a>
-
 A seasonal reminder that **[M365 Maps](https://m365maps.com/)** should be your go-to for all things licensing 🔍
 
 Big news for SMBs! E5 is now available as an add-on to Business Premium — read about the announcement **[here](https://techcommunity.microsoft.com/blog/microsoft365businessblog/microsoft-365-e5-security-is-now-available-as-an-add-on-to-microsoft-365-busines/4388436)**!🆕
