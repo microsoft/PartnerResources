@@ -76,7 +76,7 @@ Password spraying is back, and lax MFA is still the low-hanging fruit, according
 We *almost* lost the CVE disclosure system last week, and if you're wondering why that's important...
 
 <a href="{{ site.baseurl }}/assets/msa/CVE.jpg" target="_blank">
-    <img src="{{ site.baseurl }}/assets/msa/CVE.jpg" alt="CVE Reference Architecture" style="max-width: 750px; width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="{{ site.baseurl }}/assets/msa/CVE.jpg" alt="CVE Reference Architecture" style="max-width: 750px; width: 100%; height: auto;" />
 </a>
 
 A seasonal reminder that **[M365 Maps](https://m365maps.com/)** should be your go-to for all things licensing 🔍
