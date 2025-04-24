@@ -73,9 +73,9 @@ MSSPs, take note: **[Multi-workspace for multi-tenancy just hit public preview i
 
 Password spraying is back, and lax MFA is still the low-hanging fruit, according to recent **[research from Rapid7](https://www.rapid7.com/blog/post/2025/04/10/password-spray-attacks-taking-advantage-of-lax-mfa/).**
 
-We *almost* lost the CVE disclosure system last week, and if you're wondering why that's important...
+We *almost* lost the CVE disclosure system last week, and if you're wondering *why* that's important...
 
-*Click the image to enlarge or open in a new tab.*
+*Click the image to open in a new tab*
 
 <a href="{{ site.baseurl }}/assets/msa/CVE.jpg" target="_blank">
     <img src="{{ site.baseurl }}/assets/msa/CVE.jpg" alt="CVE Reference Architecture" style="max-width: 600; width: 100%; height: auto;" />
