@@ -186,19 +186,18 @@ To get the most out of Security Copilot, it's also helpful to understand its ter
 
 * [Triage incidents with threat intelligence](https://learn.microsoft.com/en-us/security-copilot/triage-alert-with-enriched-threat-intel?view=o365-worldwide)
 * [Investigate an incident's malicious script](https://learn.microsoft.com/en-us/security-copilot/investigate-incident-malicious-script?view=o365-worldwide)
-* [Incident response and remediation](https://learn.microsoft.com/en-us/copilot/security/use-case-incident-response-remediation?view=o365-worldwide)
+* [Overall incident response and remediation](https://learn.microsoft.com/en-us/copilot/security/use-case-incident-response-remediation?view=o365-worldwide)
 
 ##### ***Microsoft Defender XDR***
 
 * [Summarize an incident](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-incident-summary?view=o365-worldwide)
 * [Script analysis](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-script-analysis?view=o365-worldwide)
-* [Analyze files](https://learn.microsoft.com/en-us/microsoft-365/security/defender/copilot-in-defender-file-analysis?view=o365-worldwide)
+* [File analysis](https://learn.microsoft.com/en-us/microsoft-365/security/defender/copilot-in-defender-file-analysis?view=o365-worldwide)
 * [Device summaries](https://learn.microsoft.com/en-us/microsoft-365/security/defender/copilot-in-defender-device-summary?view=o365-worldwide)
 * [Identity summaries](https://learn.microsoft.com/en-us/defender-xdr/security-copilot-defender-identity-summary?view=o365-worldwide)
 * [Triage and investigation](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-guided-response?view=o365-worldwide)
 * [Generate KQL queries](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-security-copilot?view=o365-worldwide)
 * [Create incident reports](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-create-incident-report?view=o365-worldwide)
-* [Advanced hunting](https://learn.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-security-copilot?view=o365-worldwide)
 
 ##### ***Entra***
 
@@ -219,7 +218,7 @@ To get the most out of Security Copilot, it's also helpful to understand its ter
 
 * [Summarize the latest threats](https://learn.microsoft.com/en-us/defender/threat-intelligence/using-copilot-threat-intelligence-defender-xdr#prioritize-which-threats-to-focus-on)
 
-#### Also check out [our Security Copilot Technical Workshops](https://youtube.com/playlist?list=PL3ZTgFEc7LyuQRLD61q9YqPKEDlZj4j5u&si=uAY93F-cGoZNPXPP)🔨
+#### Also check out [our Security Copilot Technical Workshops](https://github.com/Azure/Security-Copilot/tree/main/Technical%20Workshops)🔨
 
 ### Videos
 
