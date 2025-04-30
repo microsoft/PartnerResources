@@ -65,11 +65,11 @@ ___
 
 ___
 
-Phishers **[found a sneaky way](https://x.com/nicksdjohnson/status/1912439023982834120)** to make emails *look* like they were sent to you by naming their account “me@.” Gmail’s UI/UX showed it as just “me” — easy to miss, easy to fall for. Google originally said it wasn’t a bug, but after pushback, they’re fixing it. Moral of the story? Don’t trust how it looks and double-check those sender details🎣
+Phishers **[found a sneaky way](https://x.com/nicksdjohnson/status/1912439023982834120)** to make emails *look* like they were sent to you by naming their account “me@.” Gmail’s UI/UX showed it as just “me” (easy to miss and fall for). Google originally said it wasn’t a bug, but after a *lot* of pushback, they’re fixing it. What's the moral of the story? Don’t always trust how it looks and double-check those sender details🎣
 
 Building with Model Context Protocol (MCP)? Start with **[John Savill’s breakdown](https://youtu.be/1Pf2rW5FsqQ?si=QFo3kJqsQFkEC80F)**, then check out our **[new guidance](https://techcommunity.microsoft.com/blog/microsoft-security-blog/understanding-and-mitigating-security-risks-in-mcp-implementations/4404667?utm_source=substack&utm_medium=email)** on how to keep your implementation secure and avoid OAuth misconfigs. Also new: an **[AI Red Teaming Agent](https://devblogs.microsoft.com/foundry/ai-red-teaming-agent-preview/?utm_source=substack&utm_medium=email)** for testing GenAI security, using [PyRIT](https://github.com/Azure/PyRIT) to simulate real attacks✅
 
-MSSPs, take note: **[Multi-workspace for multi-tenancy just hit public preview in our unified SecOps portal](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/multi-workspace-for-multi-tenant-is-now-in-public-preview-in-microsofts-unified-/4398229?utm_source=substack&utm_medium=email)** — if you’re juggling multiple customers and workspaces, this update is a game-changer. Native support, less context-switching, more control.
+MSSPs: **[Multi-workspace for multi-tenancy just hit public preview in our unified SecOps portal](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/multi-workspace-for-multi-tenant-is-now-in-public-preview-in-microsofts-unified-/4398229?utm_source=substack&utm_medium=email)** — if you’re juggling multiple customers and workspaces, this update is a game-changer (native support, less context-switching, more control).
 
 Password spraying is back, and lax MFA is still the low-hanging fruit, according to recent **[research from Rapid7](https://www.rapid7.com/blog/post/2025/04/10/password-spray-attacks-taking-advantage-of-lax-mfa/).**
 
