@@ -23,6 +23,8 @@ tags:
 
 How strong are your security foundations? Looking to get started or just brush up? Join us for a five-part series designed to help Microsoft security and infrastructure partners get back to the fundamentals — through the lens of the Secure Future Initiative (SFI). Each session covers key components of cloud infrastructure, from core services to advanced security, compliance, and cost optimization.
 
+*Sessions will run every Tuesday, starting Tuesday April 29th, from 12:00 –1:00 PM ET*
+
 ### Register!
 
 | Episode | Date | Time (ET) | Register here! | Recording |
