@@ -21,7 +21,7 @@ tags:
 
 ### Cloud fundamentals for infrastructure and security partners
 
-How strong are your security foundations? Looking to get started or just brush up? Join us for a five-part series designed to help Microsoft security and infrastructure partners get back to the fundamentals — through the lens of the Secure Future Initiative (SFI). Each session breaks down key components of cloud infrastructure, from core services to advanced security, compliance, and cost optimization.
+How strong are your security foundations? Looking to get started or just brush up? Join us for a five-part series designed to help Microsoft security and infrastructure partners get back to the fundamentals — through the lens of the Secure Future Initiative (SFI). Each session covers key components of cloud infrastructure, from core services to advanced security, compliance, and cost optimization.
 
 ### Register!
 
