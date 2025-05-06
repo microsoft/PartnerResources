@@ -3,7 +3,7 @@ layout: page
 title: Back to basics series
 description: Back to basics series
 permalink: /skilling/microsoft-security-academy/sfiseries
-updated: 2025-04-11
+updated: 2025-05-06
 showbreadcrumb: true
 tags: 
 - academy content
@@ -25,10 +25,10 @@ How strong are your security foundations? Looking to get started or just brush u
 
 ### Register!
 
-| Episode | Date | Time (ET) | Register here! |
+| Episode | Date | Time (ET) | Register here! | Recording |
 |--------|-------|------|-----------|--------------|
-| **Ep. #1 – Cloud – Back to basics** | Tuesday, April 29 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=2569594811) |
-| **Ep. #2 – Networking, Compute, and Storage – Back to basics** | Tuesday, May 6 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=1056828777) |
-| **Ep. #3 – Databases and Migrating to Azure – Back to basics** | Tuesday, May 13 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=1152351275) |
-| **Ep. #4 – Advanced Security and Identity in the Cloud – Back to basics** | Tuesday, May 20 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=3536886932) |
-| **Ep. #5 – Optimizing Costs and Performance – Back to basics** | Tuesday, May 27 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=1436469917) |
+| **Ep. 1 – Cloud – Back to basics** | Tuesday, April 29 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=2569594811) | [Ep. 1](https://aka.ms/CloudBacktoBasicsEp1) |
+| **Ep. 2 – Networking, Compute, and Storage – Back to basics** | Tuesday, May 6 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=1056828777) | *Coming soon* |
+| **Ep. 3 – Databases and Migrating to Azure – Back to basics** | Tuesday, May 13 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=1152351275) | *Coming soon* |
+| **Ep. 4 – Advanced Security and Identity in the Cloud – Back to basics** | Tuesday, May 20 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=3536886932) | *Coming soon* |
+| **Ep. 5 – Optimizing Costs and Performance – Back to basics** | Tuesday, May 27 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=1436469917) | *Coming soon* |
