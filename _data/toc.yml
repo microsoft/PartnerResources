@@ -246,16 +246,43 @@
           - title: Overview
             url: "skilling/modern-analytics-academy/fabricfast/overview"
             tag: maa        
+          - title: Marketing & Sales
+            url: "skilling/modern-analytics-academy/fabricfast/marketing-and-sales"
+            tag: maa
+          - title: Warehouse
+            url: "skilling/modern-analytics-academy/fabricfast/warehouse"
+            tag: maa
+          - title: Lakehouse
+            url: "skilling/modern-analytics-academy/fabricfast/lakehouse"
+            tag: maa
+          - title: EventHouse
+            url: "skilling/modern-analytics-academy/fabricfast/warehouse"
+            tag: maa
+          - title: Data Engineering
+            url: "skilling/modern-analytics-academy/fabricfast/engineering"
+            tag: maa
+          - title: Semantic Models
+            url: "skilling/modern-analytics-academy/fabricfast/modeling"
+            tag: maa
+          - title: Admin & Governance
+            url: "skilling/modern-analytics-academy/fabricfast/admin"
+            tag: maa
+          - title: Vignettes
+            url: "skilling/modern-analytics-academy/fabricfast/vignettes"
+            tag: maa    
+        - title: Fabric FAST
+          url: "skilling/modern-analytics-academy/fabricfast"
+          tag: maa 
+          children:
+          - title: Overview
+            url: "skilling/modern-analytics-academy/fabricfast/overview"
+            tag: maa        
           - title: Pillars
             url: "skilling/modern-analytics-academy/fabricfast/pillars"
             tag: maa
           - title: Vignettes
             url: "skilling/modern-analytics-academy/fabricfast/vignettes"
             tag: maa
-            children:
-            - title: test
-              url: "skilling/modern-analytics-academy/fabricfast/test"
-              tag: maa        
         - title: Archive (Pre-Fabric)
           url: "skilling/modern-analytics-academy/archive"
           tag: maa 
