@@ -239,24 +239,41 @@
         - title: Fabric Databases
           url: "skilling/modern-analytics-academy/fabric-databases"
           tag: maa
-        - title: Modules
-          url: "skilling/modern-analytics-academy/modules"
+        - title: Fabric FAST
+          url: "skilling/modern-analytics-academy/fabricfast"
+          tag: maa 
+          children:
+          - title: Overview
+            url: "skilling/modern-analytics-academy/fabricfast/overview"
+            tag: maa        
+          - title: Pillars
+            url: "skilling/modern-analytics-academy/fabricfast/pillars"
+            tag: maa
+          - title: Vignettes
+            url: "skilling/modern-analytics-academy/fabricfast/vignettes"
+            tag: maa
+            children:
+            - title: test
+              url: "skilling/modern-analytics-academy/fabricfast/test"
+              tag: maa        
+        - title: Archive (Pre-Fabric)
+          url: "skilling/modern-analytics-academy/archive"
           tag: maa 
           children:
           - title: Acquisition & Storage
-            url: "skilling/modern-analytics-academy/modules/acquisition"
+            url: "skilling/modern-analytics-academy/archive/acquisition"
             tag: maa        
           - title: Data Engineering
-            url: "skilling/modern-analytics-academy/modules/engineering"
+            url: "skilling/modern-analytics-academy/archive/engineering"
             tag: maa
           - title: Data Science
-            url: "skilling/modern-analytics-academy/modules/datascience"
+            url: "skilling/modern-analytics-academy/archive/datascience"
             tag: maa
           - title: Security & Governance
-            url: "skilling/modern-analytics-academy/modules/governance"
+            url: "skilling/modern-analytics-academy/archive/governance"
             tag: maa
           - title: Visualization
-            url: "skilling/modern-analytics-academy/modules/visualization"
+            url: "skilling/modern-analytics-academy/archive/visualization"
             tag: maa
         - title: Certs & Specialization
           url: "skilling/modern-analytics-academy/certs-and-specialization"
