@@ -239,7 +239,13 @@
         - title: Fabric Databases
           url: "skilling/modern-analytics-academy/fabric-databases"
           tag: maa
-        - title: Modules
+        - title: Fabric FAST
+          url: "skilling/modern-analytics-academy/fabricfast/overview"
+          tag: maa 
+          children:
+          - title: Overview
+            url: "skilling/modern-analytics-academy/fabricfast/overview" 
+        - title: Archive (Pre-Fabric)
           url: "skilling/modern-analytics-academy/modules"
           tag: maa 
           children:
