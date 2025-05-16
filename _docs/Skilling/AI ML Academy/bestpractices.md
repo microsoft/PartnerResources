@@ -18,9 +18,8 @@ tags:
 
 # AI & ML Academy Best Practices
 
-## Best Practice Blogs
+In our AI & ML Academy Best Practices, we provide curated guidance, proven patterns, and expert recommendations to help you implement AI and ML solutions on Azure effectively. These resources are designed to accelerate your development process, avoid common pitfalls, and maximize the value of your AI investments through real-world implementations and lessons learned from the field.
 
-In our AI & ML Academy Best Practices, we ... 
 
 {% include series.md 
     includetags="ai & ml academy|academy content|best practices" 

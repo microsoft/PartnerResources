@@ -30,6 +30,25 @@ Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of 
 
 <div>&nbsp;</div>
 
+## Best Practices (newly added!)
+
+Our **[latest best practices](/PartnerResources/skilling/ai-ml-academy/bestpractices)** continue to learn more about Azure AI best practices:
+
+{% include series.md 
+    includetags="ai & ml academy|academy content|best practices"
+    includemethod="all" 
+    sortfield="updated" sortorder="desc" showdate="true" showtags="false" 
+    visualstyle="navlist"
+    limit="5"
+%}
+
+
+<div>&nbsp;</div>
+
+
+
+<div>&nbsp;</div>
+
 ## Vignettes (recently updated!)
 
 Our **[ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)** continue the series by looking at the latest AI & ML topics:
