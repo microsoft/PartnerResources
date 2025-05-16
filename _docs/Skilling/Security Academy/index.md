@@ -2,7 +2,7 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2025-04-11
+updated: 2025-04-25
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
@@ -59,11 +59,27 @@ showbreadcrumb: true
 
 ___
 
-## April 11th, 2025 Update📰
+## April 25th, 2025 Update📰
 
-**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**, **[Back to basics series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)**, ***all*** **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)**, and **[Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**
+**Recent Update** (April 25th): **[Events](/PartnerResources/skilling/microsoft-security-academy#events)**, **[Partner Programs](/PartnerResources/skilling/microsoft-security-academy/programs)**, **[Back to basics series](/PartnerResources/skilling/microsoft-security-academy/sfiseries)**, ***almost all*** **[Modules](/PartnerResources/skilling/microsoft-security-academy/modules)**, and **[Security Copilot](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security)**
 
 ___
+
+Phishers **[found a sneaky way](https://x.com/nicksdjohnson/status/1912439023982834120)** to make emails *look* like they were sent to you by naming their account “me@.” Gmail’s UI/UX showed it as just “me” (easy to miss and fall for). Google originally said it wasn’t a bug, but after a *lot* of pushback, they’re fixing it. What's the moral of the story? Don’t always trust how it looks and double-check those sender details🎣
+
+Building with Model Context Protocol (MCP)? Start with **[John Savill’s breakdown](https://youtu.be/1Pf2rW5FsqQ?si=QFo3kJqsQFkEC80F)**, then check out our **[new guidance](https://techcommunity.microsoft.com/blog/microsoft-security-blog/understanding-and-mitigating-security-risks-in-mcp-implementations/4404667?utm_source=substack&utm_medium=email)** on how to keep your implementation secure and avoid OAuth misconfigs. Also new: an **[AI Red Teaming Agent](https://devblogs.microsoft.com/foundry/ai-red-teaming-agent-preview/?utm_source=substack&utm_medium=email)** for testing GenAI security, using [PyRIT](https://github.com/Azure/PyRIT) to simulate real attacks✅
+
+MSSPs: **[Multi-workspace for multi-tenancy just hit public preview in our unified SecOps portal](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/multi-workspace-for-multi-tenant-is-now-in-public-preview-in-microsofts-unified-/4398229?utm_source=substack&utm_medium=email)** — if you’re juggling multiple customers and workspaces, this update is a game-changer (native support, less context-switching, more control).
+
+Password spraying is back, and lax MFA is still the low-hanging fruit, according to recent **[research from Rapid7](https://www.rapid7.com/blog/post/2025/04/10/password-spray-attacks-taking-advantage-of-lax-mfa/).**
+
+We *almost* lost the CVE disclosure system last week, and if you're wondering *why* that's important...
+
+*Click the image to open in a new tab*
+
+<a href="{{ site.baseurl }}/assets/msa/CVE.jpg" target="_blank">
+    <img src="{{ site.baseurl }}/assets/msa/CVE.jpg" alt="CVE Reference Architecture" style="max-width: 600; width: 100%; height: auto;" />
+</a>
 
 A seasonal reminder that **[M365 Maps](https://m365maps.com/)** should be your go-to for all things licensing 🔍
 
@@ -89,8 +105,6 @@ Most security vendors pitch Zero Trust and phishing-resistant MFA as the foundat
 
 Product names aren't the only thing known to change at Microsoft, and certifications are no exception. Read about the retirement of the **[SC-400](https://learn.microsoft.com/en-us/certifications/exams/SC-400/)** and our new **[SC-401: Information Security Administrator Certification](https://techcommunity.microsoft.com/blog/microsoftlearnblog/validate-critical-information-security-skills-with-our-new-certification/3719269?utm_source=substack&utm_medium=email).**
 
-Two months ago, we published an **[Expanded Cloud Log Implementation Playbook](https://www.cisa.gov/news-events/news/cisa-publishes-microsoft-expanded-cloud-log-implementation-playbook?utm_source=substack&utm_medium=email)** in coordination with our federal counterparts, and it's worth a bookmark.
-
 Remember how the U.S. State Department caught Chinese hackers snooping around Microsoft's email systems? They used the now infamous “Big Yellow Taxi” KQL detections, which you can find **[here](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/Office%20365/BigYellowTaxi%20-%20SignIn.md)**🚕
 
 ### Other News
@@ -113,23 +127,22 @@ The Microsoft Incident Response team recently created a compilation of incident 
 
 | **Topic**                                                             | **Date**           | **Register**                                                             |
 |-----------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| Microsoft Defender for Cloud | Securing Custom Built AI Apps          | APR 15             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Purview            | eDiscovery New User Experience         | APR 22             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Defender XDR       | SaaS Security Exposure Reduction       | APR 23             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Defender XDR       |  Secure Your Servers!                  | APR 24             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Microsoft Defender CSPM                | APR 30             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview            | What's new in MIP?                     | MAY 06             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview            | What's new in DLP?                     | MAY 07             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview            | Insider Threats: Are they real?        | MAY 08             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud |  Secure Your Containers!               | MAY 13             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
-| Microsoft Sentinel           | Unified SOC: Advanced Insights         | MAY 14             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | XDR Advanced Hunting                   | MAY 15             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Sentinel           | Unified SOC: Mastering Multi-tenancy   | MAY 20             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender XDR       |  MDO Configuration Best Practices      | MAY 21             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | What's new in Defender for Storage     | MAY 22             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Defender for Cloud | Defender for SQL                       | MAY 27             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Azure Network Security       | Azure Firewall Management              | MAY 28             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Sentinel           | New Case Management Features           | MAY 29             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Azure Network Security       | Azure DDoS Protection                  | JUN 05             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Microsoft Purview            | AI Network Level Integration           | JUN 10             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 | Microsoft Purview            | New Model for E3/E5 Customers          | JUN 11             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
+| Azure Network Security       |  Mastering Azure WAF Rulesets          | JUN 26             | [Register](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-microsoft-security-community/ba-p/927888) |
 
 
 ___

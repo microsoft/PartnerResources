@@ -57,7 +57,6 @@ Evaluating and monitoring models:
 - [Enable Tracing to visualize you agents actions](https://learn.microsoft.com/azure/ai-services/agents/concepts/tracing)
 - [LangChain Lib: Evaluation — 🦜🔗](https://python.langchain.com/docs/guides/evaluation)
 - [Evals framework for evaluating LLMs and LLM systems](https://github.com/openai/evals)
-- [Leverage Prompt Flow to evaluate your model](https://learn.microsoft.com/azure/machine-learning/prompt-flow/how-to-develop-an-evaluation-flow?view=azureml-api-2)
 
 Responsible AI:
 
@@ -123,6 +122,5 @@ Tooling:
 
 - [New Microsoft Copilot Studio Implementation Guide](https://microsoftcopilotstudio.microsoft.com/blog/new-microsoft-copilot-studio-implementation-guide/)
 - [Vector Similarity Search with Azure SQL database and OpenAI](https://devblogs.microsoft.com/azure-sql/vector-similarity-search-with-azure-sql-database-and-openai/)
-- [Using Microsoft Fabric’s Lakehouse Data and prompt flow in Azure Machine Learning Service to create RAG applications – Microsoft Fabric Blog](https://blog.fabric.microsoft.com/en-gb/blog/using-microsoft-fabrics-lakehouse-data-and-prompt-flow-in-azure-machine-learning-service-to-create-rag-applications?ft=Data-science:category)
 - [Azure AI Search: Outperforming vector search with hybrid retrieval and ranking capabilities – Microsoft Community Hub](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-ai-search-outperforming-vector-search-with-hybrid/ba-p/3929167)
 - [Building GPT-3 applications — beyond the prompt](https://medium.com/data-science-at-microsoft/building-gpt-3-applications-beyond-the-prompt-504140835560)
