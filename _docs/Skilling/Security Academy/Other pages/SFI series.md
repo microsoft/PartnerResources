@@ -3,7 +3,7 @@ layout: page
 title: Back to basics series
 description: Back to basics series
 permalink: /skilling/microsoft-security-academy/sfiseries
-updated: 2025-05-09
+updated: 2025-06-04
 showbreadcrumb: true
 tags: 
 - academy content
@@ -33,4 +33,4 @@ How strong are your security foundations? Looking to get started or just brush u
 | **Ep. 2 – Networking, Compute, and Storage** | Tuesday, May 6 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=1056828777) | [Ep. 2](https://aka.ms/NetworkingComputeAndStorage-BackToBasicsEp2) | *Coming soon* |
 | **Ep. 3 – Databases and Migrating to Azure** | Tuesday, May 13 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=1152351275) | [Ep. 3](https://aka.ms/DatabasesMigratingtoAzure-BacktobasicsEp3) | [PPT](https://aka.ms/DatabasesandMigratingtoAzure-BacktoBasicsEp3) |
 | **Ep. 4 – Advanced Security and Identity in the Cloud** | Tuesday, May 20 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=3536886932) | [Ep. 4](https://aka.ms/AdvancedSecurityIdentityintheCloud-BacktobasicsEp4) | [PPT](https://aka.ms/PPT_AdvancedSecurityIdentityintheCloud_BacktobasicsEp4) |
-| **Ep. 5 – Optimizing Costs and Performance** | Tuesday, May 27 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=1436469917) | *Coming soon* | *Coming soon* |
+| **Ep. 5 – Optimizing Costs and Performance** | Tuesday, May 27 | 12:00–1:00 PM | [Register here!](https://msevents.microsoft.com/event?id=1436469917) | [Ep. 5](https://aka.ms/OptimizingCostsPerformance_BackToBasicsEp5)| [PPT](https://aka.ms/OptimizingCostsPerformanceBackToBasicsEp5) |
