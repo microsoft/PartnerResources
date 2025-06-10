@@ -2,7 +2,7 @@
 layout: page
 title: Fabric FAST - Sales and Marketing
 description: Fabric FAST - Sales and Marketing
-permalink: /skilling/modern-analytics-academy/fabricfast/sales
+permalink: /skilling/modern-analytics-academy/fabric-fast/sales
 updated: 2025-06-10
 showbreadcrumb: true
 tags:

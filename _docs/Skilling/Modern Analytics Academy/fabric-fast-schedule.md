@@ -2,7 +2,7 @@
 layout: page
 title: Fabric FAST - Schedule
 description: Upcoming sessions for Fabric FAST -- join us in our next wave!
-permalink: /skilling/modern-analytics-academy/fabricfast/schedule
+permalink: /skilling/modern-analytics-academy/fabric-fast/schedule
 updated: 2025-06-10
 showbreadcrumb: true
 tags:

@@ -2,7 +2,7 @@
 layout: page
 title: Fabric FAST - Overview
 description: Fabric FAST - Overview and Information
-permalink: /skilling/modern-analytics-academy/fabricfast/overview
+permalink: /skilling/modern-analytics-academy/fabric-fast/overview
 updated: 2025-06-10
 showbreadcrumb: true
 tags:

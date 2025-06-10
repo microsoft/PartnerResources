@@ -2,7 +2,7 @@
 layout: page
 title: Fabric FAST - Data Engineering
 description: Fabric FAST - Data Engineering
-permalink: /skilling/modern-analytics-academy/fabricfast/engineering
+permalink: /skilling/modern-analytics-academy/fabric-fast/engineering
 updated: 2025-06-10
 showbreadcrumb: true
 tags:
