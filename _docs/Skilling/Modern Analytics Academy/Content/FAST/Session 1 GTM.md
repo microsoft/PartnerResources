@@ -13,6 +13,7 @@ tags:
 - modern analytics academy
 - fabric
 - fabric fast
+- sales and marketing
 ---
 
 # {{ page.title }}

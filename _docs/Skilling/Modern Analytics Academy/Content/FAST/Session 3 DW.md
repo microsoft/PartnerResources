@@ -13,6 +13,7 @@ tags:
 - modern analytics academy
 - fabric
 - fabric fast
+- technical
 ---
 
 # {{ page.title }}

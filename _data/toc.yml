@@ -245,6 +245,12 @@
           children:
           - title: Overview
             url: "skilling/modern-analytics-academy/fabricfast/overview" 
+          - title: Live Schedule
+            url: "skilling/modern-analytics-academy/fabricfast/schedule" 
+          - title: Sales & Marketing
+            url: "skilling/modern-analytics-academy/fabricfast/sales" 
+          - title: Data Engineering
+            url: "skilling/modern-analytics-academy/fabricfast/engineering" 
         - title: Archive (Pre-Fabric)
           url: "skilling/modern-analytics-academy/modules"
           tag: maa 
