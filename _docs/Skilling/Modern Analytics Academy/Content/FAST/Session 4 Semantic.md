@@ -4,7 +4,7 @@ title: Fabric FAST - Semantic Models
 sorttitle: FAST04
 description: This session builds off the previous sessions introducting the concept of semantic models -- what they are, how they work in Fabric, and best practices. 
 updated: 2025-06-10
-permalink: /skilling/modern-analytics-academy/fabric-fast/semantic
+permalink: /skilling/modern-analytics-academy/fabric-fast/engineering/semantic
 youtubeid: vD0JkqOPe-A
 tags: 
 - azure
