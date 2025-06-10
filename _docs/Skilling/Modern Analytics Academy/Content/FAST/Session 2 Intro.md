@@ -5,7 +5,7 @@ sorttitle: FAST02
 description: This session introduces Microsoft Fabric's technical capabilities, with a demo of data integration and reporting.
 updated: 2025-06-10
 permalink: /skilling/modern-analytics-academy/fabric-fast/intro
-youtubeid: FifACxGQZy0
+youtubeid: 3KAJEyzW5J8
 tags: 
 - azure
 - data, analytics, and ai
