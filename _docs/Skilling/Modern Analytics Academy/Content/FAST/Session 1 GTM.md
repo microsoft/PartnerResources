@@ -2,7 +2,7 @@
 layout: page
 title: Fabric FAST - Go To Market Opportunities
 sorttitle: FAST01
-description: This session introduces Microsoft Fabric and the Go To Market Opportunities available for Microsoft Partners. 
+description: In this first Fabric FAST session, Meital Winer introduces Fabric from a Go To Market perspective, providing information on the partner opportunities and positioning. 
 updated: 2025-06-10
 permalink: /skilling/modern-analytics-academy/fabric-fast/sales/gtm
 youtubeid: pAW4sn94SyM
