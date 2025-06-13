@@ -240,11 +240,17 @@
           url: "skilling/modern-analytics-academy/fabric-databases"
           tag: maa
         - title: Fabric FAST
-          url: "skilling/modern-analytics-academy/fabricfast/overview"
+          url: "skilling/modern-analytics-academy/fabric-fast/overview"
           tag: maa 
           children:
           - title: Overview
-            url: "skilling/modern-analytics-academy/fabricfast/overview" 
+            url: "skilling/modern-analytics-academy/fabric-fast/overview" 
+          - title: Live Schedule
+            url: "skilling/modern-analytics-academy/fabric-fast/schedule" 
+          - title: Sales & Marketing
+            url: "skilling/modern-analytics-academy/fabric-fast/sales" 
+          - title: Data Engineering
+            url: "skilling/modern-analytics-academy/fabric-fast/engineering" 
         - title: Archive (Pre-Fabric)
           url: "skilling/modern-analytics-academy/modules"
           tag: maa 
