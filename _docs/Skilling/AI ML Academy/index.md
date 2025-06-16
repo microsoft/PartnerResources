@@ -18,19 +18,11 @@ tags:
 
 ## Content
 
-Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of which are built on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you move faster and build effective solutions. The modules are:
-
-{% include series.md 
-    includetags="ai & ml academy|academy content|ai & ml academy module" 
-    includemethod="all" 
-    sortfield="sorttitle" sortorder="desc" showdate="false" showtags="false" 
-    visualstyle="navlist" showdescrip="false" removetext="AI & ML Academy - " 
-%}
-
-## Table of Contents
-
+Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of which are built on top of each other. It incorporates technical assets as well as best practices. We include common AI/ML scenarios that we have seen throughout various industries. The objective of the academy is to help you move faster and build effective solutions. 
+</br>
 The structure of the content is represented in the table below; each of the 'module' sessions, Customizable AI through MLOps, are more in-depth. Each session contains one or more presentations -- with suggested labs and workshop content -- designed to accommodate various skill levels.
 
+<div class="table-responsive">
 <table>
 <tr>
 <td colspan="2" style="text-align: center;">AI & ML Overview</td>
@@ -68,6 +60,7 @@ Autonomous systems that plan, reason, and act with minimal human input, enabling
 </td>
 </tr>
 </table>
+</div>div>
 
 <div>&nbsp;</div>
 
