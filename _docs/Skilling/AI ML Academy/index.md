@@ -27,6 +27,7 @@ The structure of the content is represented in the table below; each of the 'mod
 <tr>
 <td colspan="2" style="text-align: center;">AI & ML Overview</td>
 </tr>
+<tr>
 <td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/openai">Azure OpenAI</a></b></td>
 <td>
 Generative AI, including GPT, Codex, DALL-E, and ChatGPT
@@ -46,7 +47,6 @@ Autonomous systems that plan, reason, and act with minimal human input, enabling
 <td>Azure AI Services, including Vision, Language, Speech, and customization of these Cognitive Services</td>
 </tr>
 <tr>
-<tr>
 <td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/build-your-own-ml">Build Your Own ML</a></b></td>
 <td>Custom ML with Notebooks, Auto ML, Designer using Azure ML</td>
 </tr>
@@ -60,7 +60,7 @@ Autonomous systems that plan, reason, and act with minimal human input, enabling
 </td>
 </tr>
 </table>
-</div>div>
+</div>
 
 <div>&nbsp;</div>
 
