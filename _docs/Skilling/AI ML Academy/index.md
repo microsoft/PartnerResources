@@ -27,6 +27,47 @@ Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of 
     visualstyle="navlist" showdescrip="false" removetext="AI & ML Academy - " 
 %}
 
+## Table of Contents
+
+The structure of the content is represented in the table below; each of the 'module' sessions, Customizable AI through MLOps, are more in-depth. Each session contains one or more presentations -- with suggested labs and workshop content -- designed to accommodate various skill levels.
+
+<table>
+<tr>
+<td colspan="2" style="text-align: center;">AI & ML Overview</td>
+</tr>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/openai">Azure OpenAI</a></b></td>
+<td>
+Generative AI, including GPT, Codex, DALL-E, and ChatGPT
+</td>
+</tr>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/agenticai">Agentic AI</a></b></td>
+<td>
+Autonomous systems that plan, reason, and act with minimal human input, enabling dynamic, goal-driven task execution across business processes by integrating tools like Copilot, Semantic Kernel, and AutoGen
+</td>
+</tr>
+<tr>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/applied-ai">Scenario-based Services</a></b></td>
+<td> Document Intelligence, Azure AI Search, Metrics Advisor, Personalizer, Video Indexer, Anomaly Detector, and Power Virtual Agents</td>
+</tr>
+<tr>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/prebuilt-ai">Customizable AI</a></b></td>
+<td>Azure AI Services, including Vision, Language, Speech, and customization of these Cognitive Services</td>
+</tr>
+<tr>
+<tr>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/build-your-own-ml">Build Your Own ML</a></b></td>
+<td>Custom ML with Notebooks, Auto ML, Designer using Azure ML</td>
+</tr>
+<tr>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/aml-plat">ML Platform</a></b></td>
+<td>Train and Deploy models across a host of environments and compute types</td>
+</tr>
+<tr>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/mlops">ML Engineering in Production (MLOps)</a></b></td>
+<td>Azure DevOps, GitHub Actions, Kubeflow
+</td>
+</tr>
+</table>
 
 <div>&nbsp;</div>
 
@@ -181,43 +222,6 @@ Our **[ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)** 
 - **[Microsoft Partner Skilling Calendar]({{ site.baseurl }}/assets/misc/Microsoft%20partner%20skilling%20calendar%20Q1-FY25%20Sep%203%20%5BPARTNER%20READY%5D.pdf)**
 - Partner-facing Events: **[Microsoft AI Events]([https://events.microsoft.com/allevents/?role=Partners](https://events.microsoft.com/allevents/?role=Partners&clientTimeZone=1&search=AI))**
 - Workshops & Bootcamps:**[Microsoft Partner Skilling Hub](https://gateway.on24.com/wcc/eh/4557503/microsoft-partner-skilling-hub)**
-
-## Table of Contents
-
-The structure of the content is represented in the table below; each of the 'module' sessions, Customizable AI through MLOps, are more in-depth. Each session contains one or more presentations -- with suggested labs and workshop content -- designed to accommodate various skill levels.
-
-<table>
-<tr>
-<td colspan="2" style="text-align: center;">AI & ML Overview</td>
-</tr>
-<tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/prebuilt-ai">Customizable AI</a></b></td>
-<td>Azure AI Services, including Vision, Language, Speech, and customization of these Cognitive Services</td>
-</tr>
-<tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/openai">Azure OpenAI</a></b></td>
-<td>
-Generative AI, including GPT, Codex, DALL-E, and ChatGPT
-</td>
-</tr>
-<tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/applied-ai">Scenario-based Services</a></b></td>
-<td> Document Intelligence, Azure AI Search, Metrics Advisor, Personalizer, Video Indexer, Anomaly Detector, and Power Virtual Agents</td>
-</tr>
-<tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/build-your-own-ml">Build Your Own ML</a></b></td>
-<td>Custom ML with Notebooks, Auto ML, Designer using Azure ML</td>
-</tr>
-<tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/aml-plat">ML Platform</a></b></td>
-<td>Train and Deploy models across a host of environments and compute types</td>
-</tr>
-<tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/mlops">ML Engineering in Production (MLOps)</a></b></td>
-<td>Azure DevOps, GitHub Actions, Kubeflow
-</td>
-</tr>
-</table>
 
 ## Hands-on provisioned Environments
 
