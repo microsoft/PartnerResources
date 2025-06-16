@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Purview
 description: Microsoft Purview
 permalink: /skilling/microsoft-security-academy/purview-academy
-updated: 2025-04-11
+updated: 2025-04-25
 showbreadcrumb: true
 Tags:
 - academy content
@@ -23,12 +23,16 @@ Explore Microsoft Purview videos with demos delivered directly to partners, rele
 
 <table>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/GP4RTnj5URE"><img src="https://img.youtube.com/vi/GP4RTnj5URE/maxresdefault.jpg" alt="Unlocking the Power of Microsoft Purview for ChatGPT Enterprise🆕" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/GP4RTnj5URE"><b>Unlocking the Power of Microsoft Purview for ChatGPT Enterprise🆕</b></a><br><br>Explore the integration of Microsoft Purview and ChatGPT Enterprise — learn how to capture interactions, meet compliance needs, and unlock smarter data management with AI-powered insights.</td>
+    <td><a href="https://youtu.be/GP4RTnj5URE"><img src="https://img.youtube.com/vi/GP4RTnj5URE/maxresdefault.jpg" alt="NEW: eDiscovery New User Experience🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/GP4RTnj5URE"><b>NEW: eDiscovery New User Experience🆕</b></a><br><br>Explore the new eDiscovery experience, key differences from the classic UI (deprecated in August), and how to guide customers through the transition with helpful resources and benefits.</td>
   </tr>
   <tr style="vertical-align:top">
-    <td><a href="https://youtu.be/DL8jVZ76pyo"><img src="https://img.youtube.com/vi/DL8jVZ76pyo/maxresdefault.jpg" alt="Inheriting Sensitivity Labels from Shared Files to Teams Meetings🆕" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be/DL8jVZ76pyo"><b>Inheriting Sensitivity Labels from Shared Files to Teams Meetings🆕</b></a><br><br>Microsoft Purview now supports label inheritance for Teams meetings, automatically or optionally aligning meeting sensitivity with shared files!</td>
+    <td><a href="https://youtu.be/GP4RTnj5URE"><img src="https://img.youtube.com/vi/GP4RTnj5URE/maxresdefault.jpg" alt="NEW: Unlocking the Power of Microsoft Purview for ChatGPT Enterprise🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/GP4RTnj5URE"><b>NEW: Unlocking the Power of Microsoft Purview for ChatGPT Enterprise🆕</b></a><br><br>Learn about the integration of Microsoft Purview and ChatGPT Enterprise — including how to capture interactions, meet compliance needs, and unlock smarter data management with AI-powered insights.</td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td><a href="https://youtu.be/DL8jVZ76pyo"><img src="https://img.youtube.com/vi/DL8jVZ76pyo/maxresdefault.jpg" alt="NEW: Inheriting Sensitivity Labels from Shared Files to Teams Meetings🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be/DL8jVZ76pyo"><b>NEW: Inheriting Sensitivity Labels from Shared Files to Teams Meetings🆕</b></a><br><br>Microsoft Purview now supports label inheritance for Teams meetings, automatically or optionally aligning meeting sensitivity with shared files!</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be/yYah1FFACZM"><img src="https://img.youtube.com/vi/yYah1FFACZM/maxresdefault.jpg" alt="Microsoft Purview eDiscovery Modern UX" width="400" height="400"></a></td>

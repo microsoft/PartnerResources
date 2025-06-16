@@ -3,7 +3,7 @@ layout: page
 title: Security Copilot
 description: Security Copilot Technical Journey
 permalink: /skilling/microsoft-security-academy/microsoft-copilot-for-security
-updated: 2025-04-11
+updated: 2025-04-25
 showbreadcrumb: true
 tags: 
 - academy content
@@ -72,9 +72,9 @@ This page is organized into three parts -- Learn, Extend, and Driving Adoption.
 
 ___
 
-## April 11th, 2025 Update📰
+## April 25th, 2025 Update📰
 
-**Recent Update** (April 11th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and ***everything else*** |
+**Recent Update** (April 25th): **[Events](/PartnerResources/skilling/microsoft-security-academy/microsoft-copilot-for-security#events)** and ***almost everything else*** |
 
 We *finally* published **[official documentation](https://learn.microsoft.com/en-us/copilot/security/plugin-splunk?utm_source=substack&utm_medium=email)** on the Splunk plugin in Security Copilot📌
 
@@ -111,8 +111,6 @@ Lastly, my colleague Rick created **[these easy-to-use KQL templates](https://gi
 If you're a member of the **[Microsoft Security Copilot Customer Connection Program (CCP)](http://www.aka.ms/prseccom)**, join our weekly Security Copilot Skilling and Readiness events:
 
 | **Topic** | **Date & Time** | **Register!** |
-|  AMA with the Security Copilot in Entra team           | Tuesday, April 15th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/929cde16-e6a2-4913-b28b-d0fdcf467260@72f988bf-86f1-41af-91ab-2d7cd011db47)
-|  New capabilities announced at Microsoft Secure        | Thursday, April 17th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/f7b6361f-12f7-42aa-a663-a4659bdd8798@72f988bf-86f1-41af-91ab-2d7cd011db47)
 |  Conditional Access Optimization Agent in Entra        | Thursday, May 1st @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/55f93283-dc1b-4326-bd73-2a700fdff50a@72f988bf-86f1-41af-91ab-2d7cd011db47)
 |  Splunk plugin for Security Copilot                    | Thursday, May 8th @  8:00 AM PT | [Register](https://msit.events.teams.microsoft.com/event/caeb0bcb-9165-41bc-b2d5-064f2e64b18a@72f988bf-86f1-41af-91ab-2d7cd011db47)
 
@@ -170,6 +168,7 @@ To get the most out of Security Copilot, it's also helpful to understand its ter
 * [Next-Gen device incident investigation and threat hunting with custom plugins](https://techcommunity.microsoft.com/blog/securitycopilotblog/next-gen-device-incident-investigation--threat-hunting-with-custom-plugins/4374397?utm_source=substack&utm_medium=email)
 * [Accelerating anomalous sign-in detection with Security Copilot + Entra ID](https://techcommunity.microsoft.com/blog/securitycopilotblog/accelerating-the-anomalous-sign-ins-detection-with-microsoft-entra-id-and-securi/4365435?utm_source=substack&utm_medium=email)
 * [Monitoring user activities and system events with Security Copilot + Sentinel](https://techcommunity.microsoft.com/blog/securitycopilotblog/monitor-user-activities-and-system-events-with-security-copilot-and-microsoft-se/4303368?utm_source=substack&utm_medium=email)
+* **NEW:** [Proactively identify and prioritize CVEs](https://techcommunity.microsoft.com/blog/securitycopilotblog/using-security-copilot-to-proactively-identify-and-prioritize-vulnerabilities/4404560?utm_source=substack&utm_medium=email)
 
 ##### ***Useful for customization***
 
@@ -183,22 +182,43 @@ To get the most out of Security Copilot, it's also helpful to understand its ter
 
 ### Use Cases
 
-* [Triage incidents with enriched threat intelligence](https://learn.microsoft.com/en-us/security-copilot/triage-alert-with-enriched-threat-intel?view=o365-worldwide)
+##### ***Security Copilot standalone portal***
+
+* [Triage incidents with threat intelligence](https://learn.microsoft.com/en-us/security-copilot/triage-alert-with-enriched-threat-intel?view=o365-worldwide)
 * [Investigate an incident's malicious script](https://learn.microsoft.com/en-us/security-copilot/investigate-incident-malicious-script?view=o365-worldwide)
-* [Advanced Hunting](https://learn.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-security-copilot?view=o365-worldwide)
-* [Summarize an incident in Microsoft Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-incident-summary?view=o365-worldwide)
-* [Use guided responses in Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-guided-response?view=o365-worldwide)
-* [Create an incident report in Microsoft Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-create-incident-report?view=o365-worldwide)
-* [Script analysis in Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-script-analysis?view=o365-worldwide)
-* [Generate device summaries in Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/copilot-in-defender-device-summary?view=o365-worldwide)
-* [Analyze files in Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/copilot-in-defender-file-analysis?view=o365-worldwide)
-* [Risky user summarization in Entra](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-entra-risky-user-summarization)
-* [Summarize the latest threats in MDTI](https://learn.microsoft.com/en-us/defender/threat-intelligence/using-copilot-threat-intelligence-defender-xdr#prioritize-which-threats-to-focus-on)
-* [Analyze recommendations in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/analyze-with-copilot)
-* [Summarize recommendations in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/summarize-with-copilot)
-* [Remediate recommendations in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/remediate-with-copilot)
-* [Delegate recommendations in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/delegate-with-copilot)
-* [Remediate code in MDC](https://learn.microsoft.com/en-us/azure/defender-for-cloud/remediate-code-with-copilot)
+* [Overall incident response and remediation](https://learn.microsoft.com/en-us/copilot/security/use-case-incident-response-remediation?view=o365-worldwide)
+
+##### ***Microsoft Defender XDR***
+
+* [Summarize an incident](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-incident-summary?view=o365-worldwide)
+* [Script analysis](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-script-analysis?view=o365-worldwide)
+* [File analysis](https://learn.microsoft.com/en-us/microsoft-365/security/defender/copilot-in-defender-file-analysis?view=o365-worldwide)
+* [Device summaries](https://learn.microsoft.com/en-us/microsoft-365/security/defender/copilot-in-defender-device-summary?view=o365-worldwide)
+* [Identity summaries](https://learn.microsoft.com/en-us/defender-xdr/security-copilot-defender-identity-summary?view=o365-worldwide)
+* [Triage and investigation](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-guided-response?view=o365-worldwide)
+* [Generate KQL queries](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-security-copilot?view=o365-worldwide)
+* [Create incident reports](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-m365d-create-incident-report?view=o365-worldwide)
+
+##### ***Entra***
+
+* [Risky user summarization](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-entra-risky-user-summarization)
+* [Manage lifecycle workflows](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-entra-lifecycle-workflow)
+* [Investigate incidents](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-security-entra-investigate-incident)
+* [Investigate app risk](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-security-entra-investigate-risky-apps)
+
+##### ***Microsoft Defender for Cloud***
+
+* [Analyze recommendation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/analyze-with-copilot)
+* [Summarize recommendations](https://learn.microsoft.com/en-us/azure/defender-for-cloud/summarize-with-copilot)
+* [Remediate recommendations](https://learn.microsoft.com/en-us/azure/defender-for-cloud/remediate-with-copilot)
+* [Delegate recommendations](https://learn.microsoft.com/en-us/azure/defender-for-cloud/delegate-with-copilot)
+* [Remediate code](https://learn.microsoft.com/en-us/azure/defender-for-cloud/remediate-code-with-copilot)
+
+##### ***Threat Intelligence***
+
+* [Summarize the latest threats](https://learn.microsoft.com/en-us/defender/threat-intelligence/using-copilot-threat-intelligence-defender-xdr#prioritize-which-threats-to-focus-on)
+
+#### Also check out [our Security Copilot Technical Workshops](https://github.com/Azure/Security-Copilot/tree/main/Technical%20Workshops)🔨
 
 ### Videos
 
@@ -379,13 +399,18 @@ Since computing capacity and token usage is ***variable*** **(quantifying a cons
 
 ### Integrations
 
-* [Microsoft Security Copilot in Microsoft Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-in-microsoft-365-defender?view=o365-worldwide&bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
-* [Microsoft Security Copilot in Microsoft Entra](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-security-entra?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
-* [Microsoft Security Copilot and Intune](https://learn.microsoft.com/en-us/mem/intune/fundamentals/security-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
-* [Microsoft Security Copilot and Defender EASM](https://learn.microsoft.com/en-us/azure/external-attack-surface-management/easm-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
-* [Microsoft Security Copilot and Microsoft Threat Intelligence](https://learn.microsoft.com/en-us/defender/threat-intelligence/security-copilot-and-defender-threat-intelligence?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
-* [Microsoft Security Copilot in Microsoft Purview](https://learn.microsoft.com/en-us/purview/copilot-in-purview-overview?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
-* [Security Copilot in Defender for Cloud (Preview)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/copilot-security-in-defender-for-cloud?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json&view=o365-worldwiden)
+* [Azure AI Search](https://learn.microsoft.com/en-us/copilot/security/plugin-azure-ai-search)
+* [Azure Firewall](https://learn.microsoft.com/en-us/azure/firewall/firewall-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Azure Web Application Firewall](https://learn.microsoft.com/en-us/azure/web-application-firewall/waf-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-security-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Copilot in Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/security-copilot-in-microsoft-365-defender?view=o365-worldwide&bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Copilot in Entra](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-security-entra?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Copilot in Intune](https://learn.microsoft.com/en-us/mem/intune/fundamentals/security-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Copilot in Defender EASM](https://learn.microsoft.com/en-us/azure/external-attack-surface-management/easm-copilot?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Copilot in Surface Management](https://learn.microsoft.com/en-us/intune/intune-service/copilot/security-copilot-surface-portal?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json&view=o365-worldwide)
+* [Copilot in Threat Intelligence](https://learn.microsoft.com/en-us/defender/threat-intelligence/security-copilot-and-defender-threat-intelligence?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Copilot in Purview](https://learn.microsoft.com/en-us/purview/copilot-in-purview-overview?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json)
+* [Copilot in Defender for Cloud (Preview)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/copilot-security-in-defender-for-cloud?bc=%2Fsecurity-copilot%2Fbreadcrumb%2Ftoc.json&toc=%2Fsecurity-copilot%2Ftoc.json&view=o365-worldwiden)
 
 
 ### Microsoft Security Integration Reference Architecture

@@ -3,7 +3,7 @@ layout: page
 title: Microsoft Entra
 description: Microsoft Entra
 permalink: /skilling/microsoft-security-academy/entra-academy
-updated: 2025-04-11
+updated: 2025-04-25
 showbreadcrumb: true
 Tags:
 - academy content
@@ -21,8 +21,12 @@ Explore Microsoft Entra videos with demos delivered directly to partners, releva
 
 <table>
   <tr style="vertical-align:top">
+    <td><a href="https://youtu.be//px6dd9ZJ7R0"><img src="https://img.youtube.com/vi/px6dd9ZJ7R0/maxresdefault.jpg" alt="NEW: 425 Show | Successful Deployment of Global Secure Access🆕" width="400" height="400"></a></td>
+    <td><a href="https://youtu.be//px6dd9ZJ7R0"><b>NEW: 425 Show | Successful Deployment of Global Secure Access🆕</b></a><br><br>In this final episode of our series, see how identity-driven, Zero Trust access protects your data and apps. Learn deployment tips and best practices directly from the product team.</td>
+  </tr>
+  <tr style="vertical-align:top">
     <td><a href="https://youtu.be//BKLvA0p_v1g"><img src="https://img.youtube.com/vi/BKLvA0p_v1g/maxresdefault.jpg" alt="NEW: 425 Show | Global Secure Access Proof-of-Concept Deep Dive🆕" width="400" height="400"></a></td>
-    <td><a href="https://youtu.be//BKLvA0p_v1g"><b>NEW: 425 Show | Global Secure Access Proof-of-Concept Deep Dive🆕</b></a><br><br>In part two of our series, get hands-on with proof-of-concept guidance for Microsoft Global Secure Access — explore key testing scenarios, production-ready architecture, and how to define success.</td>
+    <td><a href="https://youtu.be//BKLvA0p_v1g"><b>NEW: 425 Show | Global Secure Access Proof-of-Concept Deep Dive🆕</b></a><br><br>In part two of our series, get hands-on with proof-of-concept guidance for Microsoft Global Secure Access — explore testing scenarios, production-ready architecture, and how to define success.</td>
   </tr>
   <tr style="vertical-align:top">
     <td><a href="https://youtu.be//2OSbu7d8IOU"><img src="https://img.youtube.com/vi/2OSbu7d8IOU/maxresdefault.jpg" alt="NEW: 425 Show | Is Global Secure Access Right for You?🆕" width="400" height="400"></a></td>
