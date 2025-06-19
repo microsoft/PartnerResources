@@ -205,8 +205,8 @@ Our **[ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)** 
 
 <div>&nbsp;</div>
 
-## [GPS Partner Skilling Playbook August FY25]({{ site.baseurl }}/assets/misc/GPS-Enablement_partner-skilling-playbook_May_FY25.pdf)
-
+## [GPS Partner Skilling Playbook May FY25]({{ site.baseurl }}/assets/misc/GPS-Enablement_partner-skilling-playbook_May_FY25.pdf)
+The Partner Skilling Playbook is updated every month. Please make sure you’re reading the latest version as identified on the title page. You can download the latest version [here](https://partner.microsoft.com/asset/collection/partner-enablement-guides#/). 
 
 <div>&nbsp;</div>
 
