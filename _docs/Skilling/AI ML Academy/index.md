@@ -22,7 +22,7 @@ Welcome to the AI and ML Academy (AIA)! This academy includes 6 modules, all of 
 The structure of the content is represented in the table below. Each session contains one or more presentations -- with suggested labs and workshop content -- designed to accommodate various skill levels.
 
 <div class="table-responsive">
-<table>
+<table class="table table-striped">
 <tr>
 <td colspan="2" style="text-align: center;">AI & ML Overview</td>
 </tr>
@@ -226,6 +226,10 @@ The Partner Skilling Playbook is updated every month. Please make sure you’re 
 ## Hands-on provisioned Environments
 
 We are not currently offering fully hosted lab environments for the AI & ML Academy, but this may change in the future as we expand the content. In the meantime, you can still run the labs in your own Azure subscription. These labs are listed below:
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
 
 ## Prepare for AI-Related Specializations
 
