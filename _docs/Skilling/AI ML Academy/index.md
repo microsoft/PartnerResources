@@ -200,32 +200,15 @@ Our **[ongoing vignettes](/PartnerResources/skilling/ai-ml-academy/vignettes)** 
     limit="5"
 %}
 
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
-
-## [GPS Partner Skilling Playbook May FY25]({{ site.baseurl }}/assets/misc/GPS-Enablement_partner-skilling-playbook_May_FY25.pdf)
-The Partner Skilling Playbook is updated every month. Please make sure you’re reading the latest version as identified on the title page. You can download the latest version [here](https://partner.microsoft.com/asset/collection/partner-enablement-guides#/). 
-
 <div>&nbsp;</div>
 
 <div>&nbsp;</div>
 
 ## Events
 
-- **[Microsoft Partner Skilling Calendar]({{ site.baseurl }}/assets/misc/Microsoft%20partner%20skilling%20calendar%20Q1-FY25%20Sep%203%20%5BPARTNER%20READY%5D.pdf)**
-- Partner-facing Events: **[Microsoft AI Events]([https://events.microsoft.com/allevents/?role=Partners](https://events.microsoft.com/allevents/?role=Partners&clientTimeZone=1&search=AI))**
+- **[GPS Partmer Skilling Playbook](https://partner.microsoft.com/asset/collection/partner-enablement-guides#/)** - Please download the latest Partner Skilling Playbook each month for the up-to-date event details.
+- Partner-facing Events: **[Microsoft AI Events](https://events.microsoft.com/allevents/?role=Partners&clientTimeZone=1&search=AI)**
 - Workshops & Bootcamps:**[Microsoft Partner Skilling Hub](https://gateway.on24.com/wcc/eh/4557503/microsoft-partner-skilling-hub)**
-
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
-
-## Hands-on provisioned Environments
-
-We are not currently offering fully hosted lab environments for the AI & ML Academy, but this may change in the future as we expand the content. In the meantime, you can still run the labs in your own Azure subscription. These labs are listed below:
 
 <div>&nbsp;</div>
 
@@ -240,7 +223,6 @@ We are not currently offering fully hosted lab environments for the AI & ML Acad
 ### Preparation Guidance
 * [AI and Machine Learning in Microsoft Azure Specialization-Partner Prep-FY24Q2]({{ site.baseurl }}/assets/misc/AI and Machine Learning in Microsoft Azure Specialization-Partner Prep-FY24Q2.pdf)
 * [Build and Modernize AI Apps with Microsoft Azure Specialization-Partner Prep-FY24Q2]({{ site.baseurl }}/assets/misc/Build and Modernize AI Apps with Microsoft Azure Specialization-Partner Prep-FY24Q2.pdf)
-
 
 <div>&nbsp;</div>
 
