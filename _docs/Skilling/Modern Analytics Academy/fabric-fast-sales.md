@@ -32,7 +32,7 @@ This section features resources our sales and marketing related sessions within 
 # All Sales and Marketing Sessions
 
 {% include series.md 
-    includetags="modern analytics academy|academy content|fabric fast|sales and marketing" includemethod="all" 
+    includetags="modern analytics academy|academy content|fabric fast|sales and marketing|english" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal"
 %}

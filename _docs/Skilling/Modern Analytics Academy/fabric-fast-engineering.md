@@ -22,7 +22,7 @@ This section features our Data Engineering content -- connecting to and integrat
 # All Data Engineering Sessions
 
 {% include series.md 
-    includetags="modern analytics academy|academy content|fabric fast|technical" includemethod="all" 
+    includetags="modern analytics academy|academy content|fabric fast|technical|english" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showdate="true" showtags="true" 
     visualstyle="normal"
 %}
