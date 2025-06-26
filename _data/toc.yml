@@ -251,6 +251,10 @@
             url: "skilling/modern-analytics-academy/fabric-fast/sales" 
           - title: Data Engineering
             url: "skilling/modern-analytics-academy/fabric-fast/engineering" 
+          - title: Fabric FAST Spanish 
+            url: "skilling/modern-analytics-academy/fabric-fast/spanish" 
+          - title: Fabric FAST Portuguese 
+            url: "skilling/modern-analytics-academy/fabric-fast/portuguese" 
         - title: Archive (Pre-Fabric)
           url: "skilling/modern-analytics-academy/modules"
           tag: maa 

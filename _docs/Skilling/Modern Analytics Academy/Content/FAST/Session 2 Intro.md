@@ -14,6 +14,7 @@ tags:
 - fabric
 - fabric fast
 - technical
+- english
 ---
 
 # {{ page.title }}

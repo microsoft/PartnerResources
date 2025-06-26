@@ -14,6 +14,7 @@ tags:
 - fabric
 - fabric fast
 - sales and marketing
+- english
 ---
 
 # {{ page.title }}
