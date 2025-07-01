@@ -4,7 +4,7 @@ title: Build AI Apps & Agents with Azure Database for PostgreSQL - Foundations
 description: This series explores building AI Apps & Agents with Azure Database for PostgreSQL. In this session, Mike Shelton introduces the series with a foundation of Azure Database for PostgreSQL.
 updated: 2025-07-01
 permalink: /skilling/azure-data-academy/ai_apps_postgres_foundations
-youtubeid: C8JOVoTtXMg
+youtubeid: XW2qR7yHoFk
 tags: 
 - azure
 - data, analytics, and ai
