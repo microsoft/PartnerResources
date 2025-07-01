@@ -23,7 +23,8 @@ The Azure Data Academy is a series of presentations and hands-on material design
 
 We've organized the content into a few key areas:
 * [SQL Server and Data Integration](/PartnerResources/skilling/azure-data-academy/sql) - Content related to SQL Server (on premises and in the cloud), Azure SQL Database, Azure SQL Database Managed Instance, and data movement & migration, ETL, ELT, etc.
-* [OSS DB: MySQL, PostgreSQL, MariaDB](/PartnerResources/skilling/azure-data-academy/ossdb) - Content for MySQL, PostgreSQL, MariaDB, and similar databases; generaly referred to as OSS DB.
+* [Azure Database for PostgreSQL](/PartnerResources/skilling/azure-data-academy/postgresqll) - Content for Azure Database for PostgreSQL
+* [Azure Database for MySQL](/PartnerResources/skilling/azure-data-academy/mysql) - Content for Azure Database for MySQL
 * [Cosmos DB](/PartnerResources/skilling/azure-data-academy/cosmosdb) - Content related to Cosmos DB -- this area has significant overlap with our Analytics Academy, and so some content may appear in both areas.
 
 ## SQL Server and Data Integration
@@ -38,13 +39,30 @@ For a more immersive list with full descriptions, visit the [SQL Server](/Partne
     visualstyle="tiny"
 %}
 
-## OSS DB: MySQL, PostgreSQL, MariaDB
+## PostgreSQL
 
-For a more immersive list with full descriptions, visit the [OSS DB](/PartnerResources/skilling/azure-data-academy/ossdb) page.
+## Series on Building AI Apps and Agents with Azure Database for PostgreSQL
+
+{% include series.md 
+    includetags="azure data academy|academy content|postgresql|ai" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showtags="true" 
+    visualstyle="normal"
+%}
+
+## Previous sessions on Azure Database for PostgreSQL
+
+{% include series.md 
+    includetags="azure data academy|academy content|postgresql|flexible server" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showtags="true" 
+    visualstyle="normal"
+%}
+
+## MySQL
+
+For a more immersive list with full descriptions, visit the [MySQL](/PartnerResources/skilling/azure-data-academy/mysql) page.
 
 {% include series.md 
     includetags="azure data academy|oss db" includemethod="all" 
-    includesecondtags="azure data academy|postgresql" 
     includethirdtags="azure data academy|mysql" 
     includefourthtags="azure data academy|mariadb" 
     sortfield="updated" sortorder="desc" showtags="true" 
@@ -53,7 +71,7 @@ For a more immersive list with full descriptions, visit the [OSS DB](/PartnerRes
 
 ## Cosmos DB
 
-For a more immersive list with full descriptions, visit the  [Cosmos DB](/PartnerResources/skilling/azure-data-academy/cosmosdb) page.
+For a more immersive list with full descriptions, visit the [Cosmos DB](/PartnerResources/skilling/azure-data-academy/cosmosdb) page.
 
 {% include series.md 
     includetags="azure data academy|cosmos db" includemethod="all" 
