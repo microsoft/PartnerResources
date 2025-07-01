@@ -37,18 +37,15 @@
         - title: SQL Server
           url: "skilling/azure-data-academy/sql"
           tag: ada sql
-        - title: Azure DB for MySQL
-          url: "skilling/azure-data-academy/mysql"
-          tag: ada oss db
         - title: Azure DB for PostgreSQL
           url: "skilling/azure-data-academy/postgresql"
           tag: ada postgresql
+        - title: Azure DB for MySQL
+          url: "skilling/azure-data-academy/mysql"
+          tag: ada oss db
         - title: Cosmos DB
           url: "skilling/azure-data-academy/cosmosdb"
           tag: ada cosmos db
-        - title: Resources
-          url: "skilling/azure-data-academy/resources"
-          tag: ada resources
     - title: "Developer Velocity Academy"
       url: "skilling/developer-velocity-academy"
       tag: data velocity academy

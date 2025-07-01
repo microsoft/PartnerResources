@@ -22,3 +22,11 @@ tags:
 
 {% include youtubethumb.md 
 %}
+
+## Links from episode
+* [Azure Database for PostgreSQL](http://aka.ms/postgres)
+* [Azure Database for PostgreSQL Blog](https://aka.ms/azurepostgresblog)
+* [Build 2025: Building Intelligent Agents and Apps](https://aka.ms/PostgreSQLAIVideo_Build2025)
+* [Feedback](https://aka.ms/pgfeedback)
+* [The Future of AI Series](https://learn.microsoft.com/en-us/collections/qzj2aqt3dq5zm)
+* [AI Agents for Customer Engagements](https://techcommunity.microsoft.com/blog/aiplatformblog/the-future-of-ai-harnessing-ai-agents-for-customer-engagements/4426742)
