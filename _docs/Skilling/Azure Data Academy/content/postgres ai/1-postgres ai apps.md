@@ -11,7 +11,7 @@ tags:
 - azure data academy
 - academy content
 - postgresql
-- ai apps and agents
+- ai
 ---
 
 # {{ page.title }}

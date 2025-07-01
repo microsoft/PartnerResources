@@ -24,7 +24,15 @@ This section has our readiness content on Azure Database for PostgreSQL. Our new
 ## Series on Building AI Apps and Agents with Azure Database for PostgreSQL
 
 {% include series.md 
-    includetags="azure data academy|academy content|postgres|ai apps and agents" includemethod="all" 
+    includetags="azure data academy|academy content|postgresql|ai" includemethod="all" 
+    sortfield="sorttitle" sortorder="asc" showtags="true" 
+    visualstyle="normal"
+%}
+
+## Previous sessions on Azure Database for PostgreSQL
+
+{% include series.md 
+    includetags="azure data academy|academy content|postgresql|flexible server" includemethod="all" 
     sortfield="sorttitle" sortorder="asc" showtags="true" 
     visualstyle="normal"
 %}
