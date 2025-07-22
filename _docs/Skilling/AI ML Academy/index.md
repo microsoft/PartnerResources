@@ -31,7 +31,7 @@ The structure of the content is represented in the table below. Each session con
 <td>Generative AI, including GPT, Codex, DALL-E, and ChatGPT</td>
 </tr>
 <tr>
-<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/agenticai">Agentic AI</a></b></td>
+<td><b><a href="https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/agenticAI">Agentic AI</a></b></td>
 <td>Autonomous systems that plan, reason, and act with minimal human input, enabling dynamic, goal-driven task execution across business processes by integrating tools like Copilot, Semantic Kernel, and AutoGen</td>
 </tr>
 <tr>
